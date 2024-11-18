@@ -28,15 +28,15 @@ jobs:
         id: export
         run: |
           packwiz curseforge export
-          echo "PACK_NAME=$(ls *.zip)" >> $GITHUB_ENV
+          echo "PACK_NAME=$(ls *.zip | sed 's/.zip$//')" >> $GITHUB_ENV
 
       - name: Create temp directory and unzip
         run: |
           mkdir -p unzipped
-          unzip "${{ env.PACK_NAME }}" -d unzipped/
+          unzip "${{ env.PACK_NAME }}.zip" -d unzipped/
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.PACK_NAME }}-${{ github.sha }}
+          name: ${{ env.PACK_NAME }}-${{ github.sha | truncate(7) }}
           path: pack/unzipped/
