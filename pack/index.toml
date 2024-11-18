@@ -2326,7 +2326,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d61c1325a3317b5eeaab858da2bce7879ed6297ea3794aadba41ca649e2f72d3"
+hash = "d328639d4b3d7d167351c564c557662b831f42b0e6cc32e51aba4b5b8d4e86b6"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2426,7 +2426,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "cafd1146fc89833bba16dae9dff368c76f6312ec98dc35b73775647e29fdcc01"
+hash = "4e3fe89730ecaf3ae971f35dc5349370563185718ed29ceb6f38d06cd537b99d"
 
 [[files]]
 file = "config/forgery/fscript.ini"
@@ -2450,7 +2450,7 @@ hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/friendsandfoes.json"
-hash = "5274ac2889fef490bf0631435f3c1bda5c32e7214b5736b205f555707cbaf255"
+hash = "37f8b0ea2584944cb5b24f949e8ff84c3ad4b4e68d3f59c2e42f3419e43ac96b"
 
 [[files]]
 file = "config/fruitsdelight-common.toml"
@@ -3226,7 +3226,7 @@ hash = "0db639ddbfefd17ba2e2558fa854fec413581f049610983965731e8665c97028"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "baab3fc66b47159ca55d1ad7b8f446d5b0418c0e3be927bf7d5e57923633149b"
+hash = "9f1587f541baacfedfca5849f6733f1457f07036eb4d06ed350b732c116ebcc6"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -3238,7 +3238,7 @@ hash = "2b4ec0fa72704975ad734baef83e209b5a9e639edf87266285e53c3f32265168"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "0b8d61f32498b0aa0c2f883c3978ccdbf134b86223f2b5ebf2020564f0e27559"
+hash = "0c01128a36d646d08a6d4bf7eeb369738a22049fc70d89130e65babed8fa3836"
 
 [[files]]
 file = "config/paintings-client.toml"
@@ -3788,11 +3788,11 @@ hash = "744ea704a7b494f1aa31c00f5e709f3565845aeaa658785d4e7b89002d8efa29"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "29c0030c43e99ee412b0a676f96c0b1ddc63f235019fcc4a7290e9026bf87783"
+hash = "0aaddb72849fd70b1197d2596ea0f934a577ea334911ede1667f69b957d73187"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "9d3bcb8d09176a81cff85a19ec51c7d595d31bf264c38868cec94ffa96a3de3e"
+hash = "db592d2432f270ae8f4af5f94169ffd40a253d8918ed31a4e363f27e5e6a73b2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4292,7 +4292,7 @@ hash = "2898bf544262cc99b1e530ce487af7ff5be807af7b98c8393966281803b2f581"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -7674,7 +7674,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5213101bf8480609ba3654b78730d35b3ac2f02d9746a8be854e77548f226fe2"
+hash = "5383ecff0225d37686b7f3b3a55a4f9b043dd473cc33399020211221058d3c72"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
