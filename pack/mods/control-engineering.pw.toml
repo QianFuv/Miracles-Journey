@@ -1,0 +1,13 @@
+name = "Control Engineering"
+filename = "ControlEngineering-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eae7cdaca5b6ea161b5b898d88e055fb60545368"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4056124
+project-id = 370612

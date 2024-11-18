@@ -1,0 +1,22 @@
+[
+  {
+    "entityID": "minecraft:zombie",
+    "weight": 100
+  },
+  {
+    "entityID": "minecraft:spider",
+    "weight": 100
+  },
+  {
+    "entityID": "minecraft:skeleton",
+    "weight": 50
+  },
+  {
+    "entityID": "minecraft:husk",
+    "weight": 75
+  },
+  {
+    "entityID": "minecraft:stray",
+    "weight": 50
+  }
+]

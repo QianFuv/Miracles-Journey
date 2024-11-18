@@ -1,0 +1,13 @@
+name = "Tetra Toolbooster"
+filename = "toolbooster-1.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bbc391a324ddda03ee63b246b8a44cd62f1ca9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4390941
+project-id = 825333

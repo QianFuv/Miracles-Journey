@@ -1,0 +1,13 @@
+name = "TofuCreate"
+filename = "tofucreate-1.19.2-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a6a2220103ad402558336d45568882b06bb55fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5109347
+project-id = 924197

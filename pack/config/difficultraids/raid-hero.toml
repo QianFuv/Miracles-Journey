@@ -1,0 +1,500 @@
+
+#Edit config values for Hero Raids.
+#
+["General Settings"]
+	#Determines if Elite Raiders will show up in Raids.
+	elitesEnabled = true
+	#Extra health that Raiders will receive per additional player in the Raid. 0 to disable Raiders receiving extra health.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	playerHealthBoostAmount = 2.0
+
+["Vindicator Settings"]
+	#Level of Sharpness that Vindicator axes will be enchanted with. 0 to disable.
+	#Range: > 0
+	vindicator_sharpnessLevel = 2
+	#Level of Critical Burst that Vindicator axes will be enchanted with. 0 to disable.
+	#Range: > 0
+	vindicator_criticalBurstLevel = 0
+	#Level of Critical Strike that Vindicator axes will be enchanted with. 0 to disable.
+	#Range: > 0
+	vindicator_criticalStrikeLevel = 1
+	#Chance that a Vindicator will drop their axe upon death. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	vindicator_axeDropChance = 0.0
+
+["Evoker Settings"]
+	#Damage dealt by Evoker Fangs.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	evoker_fangDamage = 7.0
+
+["Pillager Settings"]
+	#Level of Power that Pillager crossbows will be enchanted with. 0 to disable.
+	#Range: > 0
+	pillager_powerLevel = 1
+	#Level of Quick Charge that Pillager crossbows will be enchanted with. 0 to disable.
+	#Range: > 0
+	pillager_quickChargeLevel = 1
+	#Chance that a Pillager's crossbow will be enchanted with Multishot. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	pillager_multishotChance = 0.25
+	#Chance that a Pillager will drop their crossbow upon death. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	pillager_crossbowDropChance = 0.0
+
+["Ravager Settings"]
+	#Damage dealt by Ravagers. The base damage will be multiplied by this value.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ravager_damageMultiplier = 1.0499999523162842
+	#Speed of Ravagers. The base speed will be multiplied by this value.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ravager_speedMultiplier = 1.0499999523162842
+
+["Warrior Settings"]
+	#Level of Sharpness that Warrior swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	warrior_sharpnessLevel = 1
+	#Chance that a Warrior's sword will be enchanted with Fire Aspect. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	warrior_fireAspectChance = 0.0
+	#Level of Fire Aspect that Warrior swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	warrior_fireAspectLevel = 0
+	#Chance that a Warrior's sword will be enchanted with Knockback. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	warrior_knockbackChance = 0.0
+	#Level of Knockback that Warrior swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	warrior_knockbackLevel = 0
+	#Level of Critical Strike that Warrior swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	warrior_criticalStrikeLevel = 0
+	#Chance that a Warrior will drop their sword. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	warrior_swordDropChance = 0.0
+
+["Dart Settings"]
+	#Level of Sharpness that Dart swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	dart_sharpnessLevel = 1
+	#Level of Knockback that Dart swords will be enchanted with. 0 to disable.
+	#Range: > 0
+	dart_knockbackLevel = 2
+	#Chance that a Dart will drop their sword. 0 to disable.
+	#Range: 0.0 ~ 1.0
+	dart_swordDropChance = 0.1
+
+["Conductor Settings"]
+	#Damage dealt by a Conductor's Concentrated Bolt attack.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	conductor_concentratedBoltDamage = 19.0
+	#Number of lightning strikes that a Conductor will summon when using the Generic Lightning attack.
+	#Range: > 0
+	conductor_genericLightningStrikeCount = 4
+	#Damage dealt by a Conductor's Generic Lightning attack.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	conductor_genericLightningDamage = 8.0
+	#Whether Conductors will summon an extra ring of lightning bolts when using their Ring Lightning attack.
+	conductor_ringExtraBolts = false
+	#Damage dealt by each lightning bolt in a Conductor's Ring Lightning attack.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	conductor_ringLightningDamage = 2.0
+
+["Necromancer Settings"]
+	#Percentage of damage taken that Necromancers will occasionally reflect onto alive minions.
+	#Range: 0.0 ~ 1.0
+	necromancer_reflectedDamagePercentage = 0.4000000059604645
+	#Number of minions that Necromancers will summon at a time.
+	#Range: > 0
+	necromancer_minionChargeSummonCount = 1
+	#Maximum level of Protection that Necromancer minions' armor will be enchanted with.
+	#Range: > 0
+	necromancer_minionMaxProtectionLevel = 2
+	#Number of skeletons that will spawn in a horde.
+	#Range: > 0
+	necromancer_hordeSize = 10
+	#Number of ticks that a horde will remain alive for.
+	#Range: > 0
+	necromancer_hordeLifetime = 300
+
+["Shaman Settings"]
+	#Duration (in ticks) of Invisibility Shamans can apply to themselves.
+	#Range: > 0
+	shaman_invisibilityDuration = 60
+	#Maximum number of debuff effects Shamans can apply to players with each attack.
+	#Range: > 0
+	shaman_debuffCount = 1
+	#Chance (from 0 to 1) of Shamans applying an additional debuff effect to players with each attack.
+	#If successful, this chance will be checked again to add another debuff, up to the specified maximum.
+	#Range: 0.0 ~ 1.0
+	shaman_additionalDebuffChance = 0.20000000298023224
+	#Duration (in ticks) of the random debuff effect Shamans can apply to players.
+	#Range: > 0
+	shaman_debuffDuration = 80
+	#Amplifier of the random debuff effect Shamans can apply to players.
+	#Range: > 0
+	shaman_debuffAmplifier = 0
+	#Radius (in blocks) of the Resistance and Strength effects Shamans can apply to ally Raiders.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	shaman_allyBuffRadius = 8.0
+	#Duration (in ticks) of the Resistance effect Shamans can apply to ally Raiders.
+	#Range: > 0
+	shaman_allyResistanceDuration = 140
+	#Amplifier of the Resistance effect Shamans can apply to ally Raiders.
+	#Range: > 0
+	shaman_allyResistanceAmplifier = 0
+	#Duration (in ticks) of the Strength effect Shamans can apply to ally Raiders.
+	#Range: > 0
+	shaman_allyStrengthDuration = 140
+	#Amplifier of the Strength effect Shamans can apply to ally Raiders.
+	#Range: > 0
+	shaman_allyStrengthAmplifier = 0
+
+["Tank Settings"]
+	#Extra armor points Tanks receive.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	tank_extraArmor = 11.0
+	#Extra armor toughness Tanks receive.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	tank_extraArmorToughness = 0.0
+	#Chance for Tanks to spawn with armor enchanted with Thorns.
+	#Range: 0.0 ~ 1.0
+	tank_thornsChance = 0.0
+
+["Assassin Settings"]
+	#Cooldown (in ticks) after an Assassin locks onto a target, before they go invisible again.
+	#Range: > 0
+	assassin_invisibilityCooldown = 3600
+	#Cooldown (in ticks) after an Assassin teleports to a target, before they can teleport again.
+	#Range: > 0
+	assassin_teleportCooldown = 3600
+
+["Frostmage Settings"]
+	#Radius of the aura around Frostmages in which enemies will be slowed.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	frostmage_slownessAuraRadius = 4.0
+	#Damage dealt by each snowball in the Frostmages' Barrage attack.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	frostmage_barrageSnowballDamage = 1.7999999523162842
+	#Duration (in ticks) of the Frostmages' Barrage attack.
+	#Range: > 0
+	frostmage_barrageDuration = 40
+	#Damage dealt by each snowball in the Frostmages' Snowball Blast attack.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	frostmage_snowballBlastDamage = 4.0
+	#Duration (in ticks) of the Frostmages' Freeze attack.
+	#Range: > 0
+	frostmage_freezeDuration = 40
+
+["Ashenmancer Settings"]
+	#Maximum number of Ashenmancer minions that can be spawned at once.
+	#Range: > 0
+	ashenmancer_maxMinionCount = 2
+	#Maximum level of Protection that Ashenmancer minions can have on their armor.
+	#Range: > 0
+	ashenmancer_minionMaxProtectionLevel = 2
+	#Maximum level of Sharpness that Ashenmancer minions can have on their swords.
+	#Range: > 0
+	ashenmancer_minionMaxSharpnessLevel = 3
+	#Whether or not Ashenmancer minions are allowed to grief blocks. Enabling this will cause Ashenmancer wither skulls to explode.
+	ashenmancer_allowMobGriefing = false
+	#Damage dealt by the Wither effect applied by Ashenmancer Wither Skulls. Warning: This ignores armor!
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ashenmancer_witherSkullWitherTickDamage = 1.0
+	#Duration (in ticks) of the Ashenmancer's Ashenado.
+	#Range: > 0
+	ashenmancer_ashenadoDuration = 200
+	#Force applied by the Ashenmancer's Pusher Wither Skulls.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ashenmancer_pusherSkullForce = 1.5
+	#Duration (in ticks) enemies will be set on fire by the Ashenmancer's Flamer Wither Skulls.
+	#Range: > 0
+	ashenmancer_flamerSkullFireDuration = 100
+	#Number of Wither Skulls that will be fired by the Ashenmancer's Multishot Wither Skull attack.
+	#Range: > 0
+	ashenmancer_multishotSkullCount = 3
+	#Speed of the Ashenmancer's Speeder Wither Skulls.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	ashenmancer_speederSkullSpeed = 1.149999976158142
+	#Duration (in ticks) enemies will be affected with Darkness by the Ashenmancer's Blinder Wither Skulls.
+	#Range: > 0
+	ashenmancer_blinderSkullBlindnessDuration = 60
+	#Total number of Wither Skulls fired during the Ashenmancer's Turret attack.
+	#Range: > 0
+	ashenmancer_turretSkullCount = 16
+	#Interval (in ticks) between each Wither Skull fired during the Ashenmancer's Turret attack. Warning: This can cause a lot of lag at short intervals!
+	#Range: > 1
+	ashenmancer_turretInterval = 15
+
+["Elite Raiders"]
+
+	["Elite Raiders"."Nuaos Settings"]
+		#Multiplier on the damage Nuaos takes from player-friendly mobs (Iron Golems & Guards). 1 to remove this feature.
+		#Range: 0.0 ~ 1.0
+		nuaos_friendlyDamageReduction = 0.4
+		#Level of Sharpness that Nuaos' sword will be enchanted with. 0 to disable.
+		#Range: > 0
+		nuaos_sharpnessLevel = 2
+		#Level of Critical Strike that Nuaos' sword will be enchanted with. 0 to disable.
+		#Range: > 0
+		nuaos_criticalStrikeLevel = 0
+		#Level of Critical Burst that Nuaos' sword will be enchanted with. 0 to disable.
+		#Range: > 0
+		nuaos_criticalBurstLevel = 5
+		#Chance that Nuaos will drop his sword. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		nuaos_swordDropChance = 0.25
+		#Amount of damage Nuaos can charge before he explodes.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		nuaos_maxChargeDamage = 50.0
+		#Radius of the shockwave Nuaos creates when he explodes.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		nuaos_shockwaveRadius = 4.0
+		#Radius of the constant aura Nuaos creates around himself, buffing nearby Raiders.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		nuaos_buffAuraRadius = 8.0
+		#Amplifier of Strength that Raiders within Nuaos' aura will receive. 0 to disable.
+		#Range: > 0
+		nuaos_buffAuraStrengthLevel = 1
+		#Damage multiplier that Nuaos receives when he is charged, depending on the charge amount.
+		#The list is in order: [No Charge, Low Charge, High Charge, Max Charge].
+		nuaos_chargedDamageBoost = [1.0, 1.25, 1.75, 2.25]
+		#Whether Nuaos' stored charge should decay over time (if Nuaos is not actively taking damage).
+		nuaos_chargeDecay = true
+
+	["Elite Raiders"."Xydrax Settings"]
+		#Multiplier on the damage Xydrax takes from player-friendly mobs (Iron Golems & Guards). 1 to remove this feature.
+		#Range: 0.0 ~ 1.0
+		xydrax_friendlyDamageReduction = 0.4
+		#Interval (in ticks) between each pull event of Xydrax's vortex attack.
+		#Range: > 1
+		xydrax_vortexPullInterval = 20
+		#Force applied during Xydrax's vortex attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		xydrax_vortexForce = 1.75
+		#Interval (in ticks) between each damage event of Xydrax's vortex attack.
+		#Range: > 1
+		xydrax_vortexDamageInterval = 40
+		#Base damage dealt by Xydrax's vortex attack at each threshold.
+		#The list is in this order: [ <1 block, <2 blocks, <5 blocks, >=5 blocks ].
+		xydrax_vortexDamageThresholds = [17.5, 10.0, 4.0, 1.0]
+		#Multiplier on the damage dealt by Xydrax's vortex attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		xydrax_vortexDamageMultiplier = 1.0
+		#Lifetime of one of Xydrax's wind columns (in ticks).
+		#The first element is the minimum life, the second element is the maximum life. The actual lifetime will be randomly selected between the two values when summoned.
+		xydrax_windColumnLifetime = [140, 340]
+		#Lifetime of Xydrax's vortex (in ticks).
+		#Range: > 0
+		xydrax_vortexLifetime = 400
+		#Duration (in ticks) of the Curse of the Winds effect applied by Xydrax's barrage attack.
+		#Range: > 0
+		xydrax_barrageCurseDuration = 200
+		#Amplifier of the Curse of the Winds effect applied by Xydrax's barrage attack.
+		#Range: > 0
+		xydrax_barrageCurseAmplifier = 1
+
+	["Elite Raiders"."Modur Settings"]
+		#Multiplier on the damage Modur takes from player-friendly mobs (Iron Golems & Guards). 1 to remove this feature.
+		#Range: 0.0 ~ 1.0
+		modur_friendlyDamageReduction = 0.4
+		#Multiplier on the damage Modur takes from projectiles. 1 to remove this feature.
+		#Range: 0.0 ~ 1.0
+		modur_projectileDamageReduction = 0.8
+		#Damage dealt by Modur's basic lightning strike ranged attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_basicLightningStrikeDamage = 7.0
+		#Number of lightning strikes Modur summons per tick during his storm attack.
+		#Warning: This can be very loud if set too high!
+		#Range: > 0
+		modur_stormStrikesPerTick = 1
+		#Damage dealt by each lightning strike during Modur's storm attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_stormStrikeDamage = 10.0
+		#Duration of Modur's storm attack, in ticks.
+		#Range: > 0
+		modur_stormDuration = 140
+		#Radius of Modur's storm attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_stormRadius = 12.0
+		#Number of lightning strikes that comprise Modur's charged bolt attack.
+		#Warning: These will all happen simultaneously, so this can be very loud if set too high!
+		#Range: > 0
+		modur_chargedBoltCount = 10
+		#Damage dealt by each lightning strike in Modur's charged bolt attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_chargedBoltDamage = 25.0
+		#Damage dealt by lightning strikes during Modur's homing bolt attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_homingBoltDamage = 8.0
+		#Duration of Modur's homing bolt attack.
+		#Range: > 0
+		modur_homingBoltTime = 80
+		#Damage dealt by lightning strikes during Modur's lightning zap attack.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		modur_zapDamage = 12.0
+
+	["Elite Raiders"."Voldon Settings"]
+		#Cooldown (in ticks) after all Voldon's familiars are dead. Voldon will not summon more familiars until this cooldown is over.
+		#Range: > 0
+		voldon_familiarSummonCooldown = 300
+		#Multiplier on the damage Voldon takes from player-friendly mobs (Iron Golems & Guards). 1 to remove this feature.
+		#Range: 0.0 ~ 1.0
+		voldon_friendlyDamageReduction = 0.4
+		#Number of fireballs Voldon will shoot at once during his fireball attack.
+		#Range: > 0
+		voldon_fireballCount = 4
+		#Duration (in ticks) of the buff Voldon gives himself after sacrificing a familiar.
+		#Range: > 0
+		voldon_sacrificeBuffDuration = 400
+		#Number of familiars Voldon will summon at once.
+		#Range: > 0
+		voldon_familiarSummonCount = 4
+		#Whether Voldon's familiars will give the entity that killed them the weakness effect.
+		voldon_familiarWeaknessOnDeath = true
+		#Multiplier on the damage Voldon's familiars deal. 1 to remove this feature.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		voldon_familiarAttackDamageMultiplier = 1.25
+		#Multiplier on the health Voldon's familiars have. 1 to remove this feature.
+		#Range: 0.01 ~ 1.7976931348623157E308
+		voldon_familiarHealthMultiplier = 1.0
+
+[Compatibility]
+
+	#REQUIRES 'HunterIllager'
+	[Compatibility."Hunter Illager Settings"]
+		#Level of Power that Hunter bows will be enchanted with. 0 to disable.
+		#Range: > 0
+		hunter_bowPowerLevel = 2
+		#Level of Sharpness that Hunter swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		hunter_swordSharpnessLevel = 2
+		#Chance that Hunter bows will be enchanted with Punch. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		hunter_bowPunchChance = 0.25
+		#Level of Punch that Hunter bows will be enchanted with. 0 to disable.
+		#Range: > 0
+		hunter_bowPunchLevel = 1
+		#Chance that Hunter swords will be enchanted with Knockback. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		hunter_swordKnockbackChance = 0.25
+		#Level of Knockback that Hunter swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		hunter_swordKnockbackLevel = 1
+		#Chance that Hunter boomerangs will be enchanted with Loyalty. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		hunter_boomerangLoyaltyChance = 0.33
+		#Level of Sharpness that Hunter boomerangs will be enchanted with. 0 to disable.
+		#Range: > 0
+		hunter_boomerangSharpnessLevel = 1
+		#Number of cooked food items that Hunters will be given.
+		#Range: > 0
+		hunter_foodCount = 6
+		#Chance that Hunters will be given Golden Apples rather than their normal cooked food item.
+		#Range: 0.0 ~ 1.0
+		hunter_foodGoldenAppleChance = 0.15
+		#Chance that Hunters will drop their main hand item (bow or sword) when killed.
+		#Range: 0.0 ~ 1.0
+		hunter_mainItemDropChance = 0.25
+		#Chance that Hunters will drop their boomerang when killed.
+		#Range: 0.0 ~ 1.0
+		hunter_boomerangDropChance = 0.5
+
+	#REQUIRES 'It Takes a Pillage'
+	[Compatibility."Archer Settings"]
+		#Level of Power that Archer bows will be enchanted with. 0 to disable.
+		#Range: > 0
+		archer_bowPowerLevel = 1
+		#Level of Punch that Archer bows will be enchanted with. 0 to disable.
+		#Range: > 0
+		archer_bowPunchLevel = 0
+		#Chance that Archers will drop their bow when killed.
+		#Range: 0.0 ~ 1.0
+		archer_bowDropChance = 0.33000001311302185
+
+	#REQUIRES 'It Takes a Pillage'
+	[Compatibility."Skirmisher Settings"]
+		#Level of Sharpness that Skirmisher axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		skirmisher_axeSharpnessLevel = 2
+		#Level of Critical Burst that Skirmisher axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		skirmisher_axeCriticalBurstLevel = 0
+		#Level of Critical Strike that Skirmisher axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		skirmisher_axeCriticalStrikeLevel = 1
+		#Chance that Skirmishers will drop their axe when killed.
+		#Range: 0.0 ~ 1.0
+		skirmisher_axeDropChance = 0.33000001311302185
+
+	#REQUIRES 'It Takes a Pillage'
+	[Compatibility."Legioner Settings"]
+		#Level of Sharpness that Legioner swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		legioner_swordSharpnessLevel = 1
+		#Level of Fire Aspect that Legioner swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		legioner_swordFireAspectLevel = 0
+		#Level of Knockback that Legioner swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		legioner_swordKnockbackLevel = 0
+		#Level of Critical Strike that Legioner swords will be enchanted with. 0 to disable.
+		#Range: > 0
+		legioner_swordCriticalStrikeLevel = 0
+		#Chance that Legioners will drop their sword when killed.
+		#Range: 0.0 ~ 1.0
+		legioner_swordDropChance = 0.25
+
+	#REQUIRES 'Savage and Ravage'
+	[Compatibility."Executioner Settings"]
+		#Level of Sharpness that Executioner cleavers will be enchanted with. 0 to disable.
+		#Range: > 0
+		executioner_cleaverSharpnessLevel = 3
+		#Level of Critical Burst that Executioner cleavers will be enchanted with. 0 to disable.
+		#Range: > 0
+		executioner_cleaverCriticalBurstLevel = 5
+		#Chance that Executioners will drop their cleaver when killed.
+		#Range: 0.0 ~ 1.0
+		executioner_cleaverDropChance = 0.15000000596046448
+
+	#REQUIRES 'Dungeon Mobs'
+	[Compatibility."Mountaineer Settings"]
+		#Level of Sharpness that Mountaineer picks will be enchanted with. 0 to disable.
+		#Range: > 0
+		mountaineer_pickSharpnessLevel = 1
+		#Level of Critical Burst that Mountaineer picks will be enchanted with. 0 to disable.
+		#Range: > 0
+		mountaineer_pickCriticalBurstLevel = 3
+		#Chance that Mountaineers will drop their pick when killed.
+		#Range: 0.0 ~ 1.0
+		mountaineer_pickDropChance = 0.25
+
+	#REQUIRES 'Dungeon Mobs'
+	[Compatibility."Royal Guard Settings"]
+		#Level of Sharpness that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeSharpnessLevel = 3
+		#Level of Critical Burst that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeCriticalBurstLevel = 5
+		#Level of Critical Strike that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeCriticalStrikeLevel = 2
+		#Chance that Royal Guards will drop their axe when killed.
+		#Range: 0.0 ~ 1.0
+		royalguard_axeDropChance = 0.08500000089406967
+
+	#REQUIRES 'Leo's Illagers'
+	[Compatibility."Vindicator With Shield Settings"]
+		#Level of Sharpness that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_sharpnessLevel = 2
+		#Level of Critical Burst that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_criticalBurstLevel = 0
+		#Level of Critical Strike that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_criticalStrikeLevel = 1
+		#Chance that a Shielded Vindicator will drop their axe upon death. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		shieldVindicator_axeDropChance = 0.0
+

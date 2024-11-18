@@ -1,0 +1,55 @@
+{
+  "title.modpack-update-checker": "Modpack Update Checker",
+
+  "screen.modpack-update-checker.modpack-update.title": "Changelog",
+  "screen.modpack-update-checker.info.title": "Info",
+
+  "screen.modpack-update-checker.hotfix.downloading-text": "Downloading %s/%s %s %s%% Completed",
+  "screen.modpack-update-checker.hotfix.title": "Hotfixes",
+  "screen.modpack-update-checker.hotfix.estimated-time": "Estimated time remaining: %s:%s:%s",
+  "screen.modpack-update-checker.hotfix.select-all": "Select All",
+  "screen.modpack-update-checker.hotfix.deselect-all": "Deselect All",
+  "screen.modpack-update-checker.hotfix.apply-hotfix": "Apply Hotfix",
+  "screen.modpack-update-checker.hotfix.hotfix-applied": "Hotfix Applied",
+  "screen.modpack-update-checker.hotfix.hotfix-applied.description": "You may need to restart the game.",
+  "screen.modpack-update-checker.hotfix.no-leaving": "You may not leave this screen until the hotfix is applied.",
+
+  "screen.modpack-update-checker.editor.title": "Editor",
+  "screen.modpack-update-checker.editor.migrate-config": "Migrate Config",
+  "screen.modpack-update-checker.editor.debug": "Debug Info",
+  "screen.modpack-update-checker.editor.reload": "Reload Config",
+  "screen.modpack-update-checker.editor.reload.info": "Reloads the config and re-fetches online info and hotfixes.",
+  "screen.modpack-update-checker.editor.reload-hotfixes": "Reload Hotfixes",
+  "screen.modpack-update-checker.editor.add-modpack-mods": "Add Modpack Mods",
+  "screen.modpack-update-checker.editor.add-modpack-mods.info": "WIP: Gives all mods currently loaded the [Modpack] badge in Mod Menu. (Fabric/Quilt) only.",
+
+  "screen.modpack-update-checker.scrollable-flow.title": "Scrollable Flow",
+
+  "toast.modpack-update-checker.modpack-update-available": "Modpack Update Available",
+  "toast.modpack-update-checker.modpack-update-available.description": "%s -> %s",
+
+  "toast.modpack-update-checker.hotfix-available": "Modpack Hotfix Available",
+  "toast.modpack-update-checker.hotfix-available.description": "Install in the modpack menu.",
+
+  "button.modpack-update-checker.changelog-button": "Changelog",
+  "button.modpack-update-checker.changelog-button.update-available": "Update Available",
+  "button.modpack-update-checker.changelog-button.info": "Modpack Info",
+
+  "screen.modpack-update-checker.changelog.date-time-format": "ISO_LOCAL_DATE",
+  "screen.modpack-update-checker.changelog.to-be-announced": "Release Date: TBA",
+  "screen.modpack-update-checker.changelog.releasingOn": "Releasing On: %s",
+  "screen.modpack-update-checker.changelog.releasedAt": "Released On: %s",
+
+  "screen.modpack-update-checker.select-world.modpack-backup": "This world was last played in %s %s; you are on %s %s. Please make a backup in case you experience world corruptions!",
+  "screen.modpack-update-checker.select-world.modpack-backup.incompatible": "This world was last played in %s %s, which is not compatible with the current version, %s %s.",
+  "screen.modpack-update-checker.select-world.incompatible-modpack-version": "This world is not compatible with the current modpack.",
+
+  "command.mpuc.error.invalid-hotfix": "%s is not valid",
+  "command.mpuc.error.hotfix-already-queued": "%s is already queued",
+
+  "fancymenu.modpack-update-checker.helper.ui.dynamicvariabletextfield.categories.modpack-update-checker": "Modpack Update Checker",
+  "fancymenu.modpack-update-checker.placeholder.current-modpack-version": "Current Modpack Version",
+  "fancymenu.modpack-update-checker.placeholder.current-modpack-version.description": "The currently installed version of the modpack.",
+  "fancymenu.modpack-update-checker.placeholder.latest-modpack-version": "Latest Modpack Version",
+  "fancymenu.modpack-update-checker.placeholder.latest-modpack-version.description": "The latest available version of the modpack."
+}

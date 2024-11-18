@@ -1,0 +1,12 @@
+{
+  "item.display_case.display_case": "陈列柜",
+  "block.display_case.display_case": "陈列柜",
+  "advancement.display_case.collapse.title": "贬值",
+  "advancement.display_case.collapse.description": "",
+  "advancement.display_case.colorful.title": "多彩！！！",
+  "advancement.display_case.colorful.description": "给陈列柜染色！",
+  "advancement.display_case.display_item.title": "珍贵的物品！",
+  "advancement.display_case.display_item.description": "将物品放入陈列柜中",
+  "advancement.display_case.infinity_case.title": "到达无尽的彼端",
+  "advancement.display_case.infinity_case.description": "将陈列柜放入陈列柜中"
+}

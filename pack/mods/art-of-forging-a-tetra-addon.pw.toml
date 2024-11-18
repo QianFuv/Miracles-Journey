@@ -1,0 +1,13 @@
+name = "Art of Forging: A Tetra Addon"
+filename = "art_of_forging-1.7.5-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd8777fe1ce27ce8b0c4b02da012179ea28d3af7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5364397
+project-id = 596955

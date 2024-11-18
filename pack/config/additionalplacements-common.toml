@@ -1,0 +1,45 @@
+
+#Common settings
+[common]
+	#Show tooltip when a block has additional placements
+	tooltip = false
+	#Check for and notify of mismatching tags. Only works when the same option in the server/world config is true.
+	check_tags = true
+	#Automatically rebuild and reload the generated tags datapack when a tagging mismatch is detected. Only works when the same option in the server/world config is true.
+	auto_rebuild_tags = true
+	#Log missing or additional tags on generated blocks.
+	log_tag_mismatch = false
+	#The thread priority of the mismatched tag checker. 1 is lowest, 10 is highest, 5 is normal.
+	#Range: 1 ~ 10
+	checker_priority = 1
+
+	#Options for registered block types for additional placement generation.
+	[common.types]
+
+		[common.types.additionalplacements]
+
+			#Slabs
+			[common.types.additionalplacements.slab]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Stairs
+			[common.types.additionalplacements.stairs]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Carpets
+			[common.types.additionalplacements.carpet]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Regular pressure plates
+			[common.types.additionalplacements.pressure_plate]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+
+			#Weighted pressure plates
+			[common.types.additionalplacements.weighted_pressure_plate]
+				#Whether or not to allow for manual placement of the additional placement variants of this block type.
+				enable_placement = true
+

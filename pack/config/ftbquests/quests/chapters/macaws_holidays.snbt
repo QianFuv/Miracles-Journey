@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "macaws_holidays"
+	group: "375C1B0C652A4A81"
+	id: "79B0087D4B749F3A"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+	title: "Macaw's Holidays"
+}

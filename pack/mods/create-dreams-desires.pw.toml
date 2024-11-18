@@ -1,0 +1,13 @@
+name = "Create: Dreams & Desires"
+filename = "Create-DnDesire-1.19.2-1.2c.Beta Mid-Dev.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efdc8501c34d95ebf5de4abe3e4530fb0498ebca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5790716
+project-id = 864781

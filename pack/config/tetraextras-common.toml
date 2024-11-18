@@ -1,0 +1,26 @@
+
+#Mod Settings
+[TetraExtras]
+	#You can enable and disable Mods compatibility here
+	#since some of this mods compatible mods overlaps with some other Tetra Addons.
+	#Enable or Disable compatibility with L_Enders Cataclysm [Coming Soon]
+	"L_EndersCataclysm[ComingSoon]" = true
+	#Enable or Disable compatibility with Upgraded Netherite [Coming Soon]
+	"UpgradedNetherite[ComingSoon]" = true
+	#Enable or Disable compatibility with Upgraded Netherite Ultimerite [Coming Soon]
+	"UpgradedNetheriteUltimerite[ComingSoon]" = true
+	#Enable or Disable compatibility with Quark [Coming Soon]
+	"Quark[ComingSoon]" = true
+	#Enable or Disable compatibility with Majrusz's Progressive Difficulty [Coming Soon]
+	"Majrusz'sProgressiveDifficulty[ComingSoon]" = true
+	#Enable or Disable compatibility with Enigmatic Legacy [Coming Soon]
+	"EnigmaticLegacy[ComingSoon]" = true
+	#Enable or Disable compatibility with Aquaculture 2 [Coming Soon]
+	"Aquaculture2[ComingSoon]" = true
+	#Enable or Disable compatibility with Create
+	Create = false
+	#Enable or Disable compatibility with Mystical Agricilture [Coming Soon]
+	"MysticalAgricilture[ComingSoon]" = true
+	#Enable or Disable compatibility with Mystical Agradditions [Coming Soon]
+	"MysticalAgradditions[ComingSoon]" = true
+

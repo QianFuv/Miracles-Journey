@@ -1,0 +1,11 @@
+{
+  "item.pettransfer.pet_proof": "Pet Proof of Ownership",
+  "name.pettransfer.bound_pet_proof": "§dPet Proof of Ownership for %s",
+  "itemGroup.petTransferGroup": "Pet Transfer",
+  "pet_proof.fail.not_your_pet": "§cThis is not your pet!",
+  "pet_proof.fail.already_your_pet": "§cThis is already your pet!",
+  "pet_proof.success.bound": "§aBound your pet to the Proof of Ownership!",
+  "pet_proof.success.new_owner": "§aThis pet is now yours!",
+  "tooltip.pettransfer.pet": "§eRightclick the ground §fto get pet information.",
+  "pettransfer.pet_dead": "§cCan't find pet! It is dead or in a different dimension."
+}

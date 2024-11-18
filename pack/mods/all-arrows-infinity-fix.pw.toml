@@ -1,0 +1,13 @@
+name = "All Arrows Infinity Fix"
+filename = "allarrowsinfinityfix-1.5-forge-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4e63ea3c081623c094cd5d5c9239f730096d762"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4577089
+project-id = 543652

@@ -1,0 +1,13 @@
+name = "StarbuncleMania"
+filename = "starbunclemania-1.19.2-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0833c69879dc5d80c0aebc4a5db51cda9dff7ac1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5002230
+project-id = 746215

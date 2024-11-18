@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "packetfixer-forge-1.4.2-1.19-to-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fde1ac873b9a07ec2ad7dab2c2a6249b11151664"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5416166
+project-id = 689467

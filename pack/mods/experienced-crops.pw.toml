@@ -1,0 +1,13 @@
+name = "Experienced Crops"
+filename = "experienced_crops-1.19.2-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbbffe257fd633b29a708acd866ae7afe55ec4ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4719534
+project-id = 906052

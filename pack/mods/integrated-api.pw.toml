@@ -1,0 +1,13 @@
+name = "Integrated API"
+filename = "integrated_api_forge-1.2.8+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45bedf20d87b83eb734025519dbe73d58f973f0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5186085
+project-id = 817709

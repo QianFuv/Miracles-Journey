@@ -1,0 +1,13 @@
+name = "Integrated Dungeons and Structures- Alex's Mobs Integration"
+filename = "idasalexsmobs-1.7.5-1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "664bc287c39407d7f308eb6b14d2c598c184b091"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4633540
+project-id = 847936

@@ -1,0 +1,5 @@
+{
+  "sensorOnlyNight": true,
+  "sensorPhasesShifted": true,
+  "emitExtraRedstoneOnLunarEvent": false
+}

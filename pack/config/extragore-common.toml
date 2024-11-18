@@ -1,0 +1,47 @@
+
+["Functionality Handler"]
+	#Enable blood particle effect for players only.
+	Only_Player = false
+	#Enable blood particle effect for mobs only.
+	Only_Mobs = false
+	#Enable blood particle effect for both players and mobs, overriding other settings.
+	Both = true
+	#Entity list which will be blacklisted from getting blood particle effect.
+	Blacklisted_Entity = ["minecraft:ender_dragon", "minecraft:wither"]
+
+["Blood Particle Configuration"]
+	#Max size value of the particle when hitting small entities.
+	Small_Scale = 1.1
+	#Max size value of the particle when hitting normal entities.
+	Normal_Scale = 1.8
+	#Max size value of the particle when hitting large entities.
+	Large_Scale = 2.4
+	#Max particle count at 0% health of a small entity.
+	#This value scales with the percentage of the entity's health, which makes the minimum count as small as 1.
+	Small_Count = 30
+	#Max particle count at 0% health of a normal entity.
+	Normal_Count = 50
+	#Max particle count at 0% health of a large entity.
+	Large_Count = 70
+	#Spread in x and z direction for a small entity.
+	#Spread indicates the movement of particles in all direction from the entity.
+	Small_Spread = 0.15
+	#Spread in x and z direction for a normal entity.
+	Normal_Spread = 0.5
+	#Spread in x and z direction for a large entity.
+	Large_Spread = 0.7
+	#This value defines vibration of the particle when stuck under or on the sides of a block.
+	On_Wall_Vibration = 0.1
+	#Min tick value for the life span of the particle.
+	Min_Age = 300
+	#Max tick value for the life span of the particle.
+	Max_Age = 600
+	#The y value of the particle movement.
+	#This value can make the particle go higher or lower when spawn.
+	Upward_Motion = 0.2
+
+["Particle Variant"]
+	#WARNING: Gore particle is still work in progress, but you can check it out and judge for yourself!
+	#Allowed Values: SQUARE, GORE
+	Blood_Particle_Variant = "SQUARE"
+

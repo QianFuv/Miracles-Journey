@@ -1,0 +1,13 @@
+name = "Legacy: [Let's Do] Bakery"
+filename = "letsdo-bakery-forge-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e6192bc35ceb492f953f4c195189e2d165877bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4780907
+project-id = 886559

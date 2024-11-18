@@ -1,0 +1,13 @@
+name = "Updated Engineering"
+filename = "Updated_Engineering_v1.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63c38fd48f109d949ddcb0359073c2a16fe8d558"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613047
+project-id = 410451

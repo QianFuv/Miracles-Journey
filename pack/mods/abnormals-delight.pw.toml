@@ -1,0 +1,13 @@
+name = "Abnormals Delight"
+filename = "abnormals_delight-1.19.2-4.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30fb951ff50079d2d5fcd193f8f882f83368c561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5220861
+project-id = 442719

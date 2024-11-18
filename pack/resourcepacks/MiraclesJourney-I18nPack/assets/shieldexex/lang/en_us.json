@@ -1,0 +1,24 @@
+{
+
+  "item.shieldexex.wooden_shield": "Wooden Shield",
+  "item.shieldexex.stone_shield": "Stone Shield",
+  "item.shieldexex.golden_shield": "Golden Shield",
+  "item.shieldexex.iron_shield": "Iron Shield",
+  "item.shieldexex.diamond_shield": "Diamond Shield",
+  "item.shieldexex.netherite_shield": "Netherite Shield",
+  "item.shieldexex.electrum_shield": "Electrum Shield",
+  "item.shieldexex.adamantite_shield": "Adamantite Shield",
+
+  "item.shieldexex.wooden_tower_shield": "Wooden Tower Shield",
+  "item.shieldexex.stone_tower_shield": "Stone Tower Shield",
+  "item.shieldexex.golden_tower_shield": "Golden Tower Shield",
+  "item.shieldexex.iron_tower_shield": "Iron Tower Shield",
+  "item.shieldexex.diamond_tower_shield": "Diamond Tower Shield",
+  "item.shieldexex.netherite_tower_shield": "Netherite Tower Shield",
+  "item.shieldexex.electrum_tower_shield": "Electrum Tower Shield",
+  "item.shieldexex.adamantite_tower_shield": "Adamantite Tower Shield",
+
+
+  "itemGroup.shield": "Shields"
+
+}

@@ -1,0 +1,13 @@
+name = "YUNG's Better End Island (Forge)"
+filename = "YungsBetterEndIsland-1.19.2-Forge-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20d6905ae07c56b8da267b7c8fe126d7a8892693"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4752474
+project-id = 901344

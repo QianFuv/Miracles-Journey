@@ -1,0 +1,6 @@
+{
+  "itemGroup.manaliquidizer" : "Mana Liquidizer",
+  "block.manaliquidizer.mana_liquidizer" : "Mana Liquidizer",
+  "fluid.manaliquidizer.mana_fluid" : "Mana Fluid",
+  "item.manaliquidizer.mana_fluid_bucket" : "Mana Fluid Bucket"
+}

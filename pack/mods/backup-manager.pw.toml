@@ -1,0 +1,13 @@
+name = "Backup Manager"
+filename = "BackupManager-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4b188c357f4df05e72be8483f495a57c502c7b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5783053
+project-id = 1005239

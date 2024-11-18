@@ -1,0 +1,13 @@
+name = "Wares"
+filename = "wares-1.19.2-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff6716122b7fb72362e4261b95b5d67db71b258d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5726447
+project-id = 839158

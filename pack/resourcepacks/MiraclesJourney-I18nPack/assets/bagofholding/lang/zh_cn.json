@@ -1,0 +1,11 @@
+{
+  "enchantment.bagofholding.preservation": "保存",
+  "enchantment.bagofholding.preservation.desc": "手提袋附魔，以魔咒等级为代价，免除死亡掉落",
+  "item.bagofholding.golden_bag_of_holding": "金制手提袋",
+  "item.bagofholding.iron_bag_of_holding": "铁制手提袋",
+  "item.bagofholding.leather_bag_of_holding": "革制手提袋",
+  "item.container.tooltip.info": "按住[%s]查看内容物",
+  "item.container.tooltip.shift": "shift",
+  "tutorial.container.bag_of_holding.name": "手提袋",
+  "tutorial.container.itemInsert.title": "使用%s"
+}

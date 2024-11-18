@@ -1,0 +1,13 @@
+name = "Mana Liquidizer"
+filename = "manaliquidizer-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0bb48ac1ff94b84e1692e8607fdf33c62a395290"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4386848
+project-id = 419723

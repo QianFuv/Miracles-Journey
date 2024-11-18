@@ -1,0 +1,13 @@
+name = "Bettas"
+filename = "bettas-forge-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5df2401c026ccefbb874dcdcd7141c364b9e98b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4051257
+project-id = 420951

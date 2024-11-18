@@ -1,0 +1,34 @@
+﻿{
+    "item.urkazmoontools.moonclock_item": "Lunar Clock",
+
+    "block.urkazmoontools.moonsensor_block": "Lunar Detector",
+
+    "text.autoconfig.urkazmoontools.title": "Urkaz Moon Tools Config",
+
+    "text.autoconfig.urkazmoontools.option.sensorOnlyNight": "Emit Redstone only at night",
+    "text.autoconfig.urkazmoontools.option.sensorOnlyNight.@Tooltip[0]": "Yes (default): The 'Lunar Sensor' only emits Redstone at night.",
+    "text.autoconfig.urkazmoontools.option.sensorOnlyNight.@Tooltip[1]": "No: The 'Lunar Sensor' emits Redstone all day.",
+
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted": "Full Moon Redstone strength 8 instead of 1",
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted.@Tooltip[0]": "The 'Lunar Sensor' emits Redstone in the following way:",
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted.@Tooltip[1]": "Yes (default):",
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted.@Tooltip[2]": "   Full Moon 8 | Waxing Gibbous 7 | First Quarter 6 | Waxing Crescent 5 | New Moon 4 | Waning Crescent 3 | Third Quarter 2 | Waning Gibbous 1 | SensorBlock",
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted.@Tooltip[3]": "No:",
+    "text.autoconfig.urkazmoontools.option.sensorPhasesShifted.@Tooltip[4]": "   Waxing Gibbous 8 | First Quarter 7 | Waxing Crescent 6 | New Moon 5 | Waning Crescent 4 | Third Quarter 3 | Waning Gibbous 2 | Full Moon 1 | SensorBlock",
+
+    "text.autoconfig.urkazmoontools.option.emitExtraRedstoneOnLunarEvent": "Redstone strength of 9 during a lunar event",
+    "text.autoconfig.urkazmoontools.option.emitExtraRedstoneOnLunarEvent.@Tooltip[0]": "No (default): The 'Lunar Sensor' emmits the regular amount of Redstone during an event.",
+    "text.autoconfig.urkazmoontools.option.emitExtraRedstoneOnLunarEvent.@Tooltip[1]": "Yes: The 'Lunar Sensor' emmits 9 units of Redstone during an event.",
+
+    "urkazmoontools.moonclock.phaseTooltip": "Moon Phase:",
+
+    "urkazmoontools.moonclock.phase0": "Full Moon",
+    "urkazmoontools.moonclock.phase1": "Waning Gibbous",
+    "urkazmoontools.moonclock.phase2": "Third Quarter",
+    "urkazmoontools.moonclock.phase3": "Waning Crescent",
+    "urkazmoontools.moonclock.phase4": "New Moon",
+    "urkazmoontools.moonclock.phase5": "Waxing Crescent",
+    "urkazmoontools.moonclock.phase6": "First Quarter",
+    "urkazmoontools.moonclock.phase7": "Waxing Gibbous",
+    "urkazmoontools.moonclock.nodata": "No data"
+}

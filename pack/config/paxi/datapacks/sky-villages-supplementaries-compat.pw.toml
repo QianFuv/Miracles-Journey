@@ -1,0 +1,13 @@
+name = "Sky Villages - Supplementaries Compat"
+filename = "SkyVillages-SupplementariesCompat-1.20.1-1.0.3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a960cfaff551f3c443932d7a90b9cc9710d29209"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4796879
+project-id = 920761

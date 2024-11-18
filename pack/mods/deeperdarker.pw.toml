@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-forge-1.19.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "337e7f1c54979fc84dbea2edbe293fd1950ea121"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4812297
+project-id = 659011

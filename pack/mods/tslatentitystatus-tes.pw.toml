@@ -1,0 +1,13 @@
+name = "TslatEntityStatus (TES)"
+filename = "TES-forge-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d74327f6005e7766fe28ffed7c976d42378ffa46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4746241
+project-id = 830420

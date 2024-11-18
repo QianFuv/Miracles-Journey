@@ -1,0 +1,9 @@
+
+["Configs for SeasonTweaks"]
+
+	["Configs for SeasonTweaks"."HUD:"]
+		#Disable Tropical Seasons? 
+		# This will make tropical biomes (i.e. Jungles, Deserts) follow normal biome rules for
+		# seasonal weather and crop fertilityDefault is true
+		disable_tropical_seasons = true
+

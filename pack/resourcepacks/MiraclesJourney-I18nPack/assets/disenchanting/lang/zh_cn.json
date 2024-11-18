@@ -1,0 +1,13 @@
+{
+  "_comment": "Blocks",
+
+  "block.disenchanting.disenchanter": "祛魔台",
+  "block.disenchanting.disenchanter.tooltip": "驱除你的物品并将它们放在书本上。",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.disenchanting": "祛魔",
+
+  "_comment": "Items",
+  "gui.disenchanting.disenchanter.cost": "成本"
+
+}

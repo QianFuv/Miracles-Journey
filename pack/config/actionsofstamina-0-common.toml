@@ -1,0 +1,9 @@
+
+["1 - General"]
+	#Sets the level of difficulty for the stamina system (profile files are located in config/actionsofstamina). 
+	#Set this to CUSTOM and edit the custom-profile.toml to adapt each aspect to your preferences or edit the predefined ones.
+	#Allowed Values: SLUGGISH, EXHAUSTED, BREATHLESS, CUSTOM
+	profileToUse = "SLUGGISH"
+	#Enables extended mod logging - only used for trouble shooting.
+	enableExtendedLogging = false
+

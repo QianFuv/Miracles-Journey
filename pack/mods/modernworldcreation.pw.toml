@@ -1,0 +1,13 @@
+name = "Modern World Creation [Forge]"
+filename = "modernworldcreation_forge_1.0.0_MC_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d12d5d85cfb891537b99d465954d75e61a3f618d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837709
+project-id = 485245

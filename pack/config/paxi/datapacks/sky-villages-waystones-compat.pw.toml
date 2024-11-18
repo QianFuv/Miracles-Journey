@@ -1,0 +1,13 @@
+name = "Sky Villages - Waystones Compat"
+filename = "SkyVillages-WaystonesCompat-1.20.1-1.0.3-fabric.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c44e407decc9fb5ca4fd99343a97f169a39d2835"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4787119
+project-id = 920757

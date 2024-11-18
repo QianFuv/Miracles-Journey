@@ -1,0 +1,5 @@
+{
+  "seamless.resource_pack": "默认无缝轮廓资源",
+  "options.fast_seamless": "快速无缝轮廓模式",
+  "options.fast_seamless.tooltip": "这让Seamless在查找新的位置时只需检查一次连接的方块，提高了性能。不足之处是当放置一些双层方块时，轮廓直到你看向其他地方才会连接起来。对连接的方块做出的更改也不能被检测到。"
+}

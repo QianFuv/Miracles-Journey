@@ -1,0 +1,13 @@
+name = "Yuushya Modelling"
+filename = "yuushya-modelling-1.19.2-forge-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96dd2f1478f2b0451a9b3b81459ded8c3f4f4783"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5739072
+project-id = 899087

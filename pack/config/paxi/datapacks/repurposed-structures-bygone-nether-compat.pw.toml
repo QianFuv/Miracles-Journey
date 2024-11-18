@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Bygone Nether Compat Datapack"
+filename = "Repurposed_Structures-Bygone_Nether_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7fce2f43ead8d58a869ab0c166a9c22cb243526"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4466396
+project-id = 844259

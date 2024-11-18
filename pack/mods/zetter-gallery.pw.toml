@@ -1,0 +1,13 @@
+name = "Zetter Gallery — Share Paintings"
+filename = "zettergallery-0.5.2-1.19.2-rc.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3f1d7c7dfe3a40172a2bfd95160efa5a94c9673"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5101199
+project-id = 618183

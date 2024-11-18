@@ -1,0 +1,13 @@
+name = "Mob Lassos [Forge & Fabric]"
+filename = "MobLassos-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5eff1d582bcbf1ebb6306c2ed49b559005b20ef9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4499064
+project-id = 852670

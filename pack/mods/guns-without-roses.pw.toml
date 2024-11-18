@@ -1,0 +1,13 @@
+name = "Guns Without Roses"
+filename = "gunswithoutroses-1.19-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c2fdfe353e3528120c64430887627881154cb4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3901788
+project-id = 405077

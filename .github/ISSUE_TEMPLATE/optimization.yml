@@ -1,0 +1,21 @@
+name: "优化建议"
+description: "对已有功能的优化或改进建议"
+labels: ["B: 优化建议"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "在提交issue之前, 请检查以下两项内容:"
+    options:
+    - label: "**此建议不涉及模组的增删** 针对需要增删模组的建议, 请前往[新功能提案](https://github.com/Qian-F/Miracles-Journey/issues/new?assignees=&labels=B%3A+%E6%96%B0%E5%8A%9F%E8%83%BD+%3A+%7C&projects=&template=feature.yml)"
+      required: true
+    - label: "**不存在重复的建议** 我已在[Issue-优化建议页面](https://github.com/Qian-F/Miracles-Journey/issues?q=label%3A%22B%3A+%E6%B1%89%E5%8C%96%E8%AF%B7%E6%B1%82%22)中搜索并确认, 确认了这一建议未被提交过"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 内容
+    description: "详细描述具体需要优化哪些地方, 以及为什么需要这项优化"
+  validations:
+    required: true

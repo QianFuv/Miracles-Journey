@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mrcrayfish"
+	group: "375C1B0C652A4A81"
+	id: "3F5F91A171B210BB"
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+	title: "MrCrayfish 的家具"
+}

@@ -1,0 +1,13 @@
+name = "Modern Font Pack - Caxton Edition"
+filename = "MFP-Caxton-0901C.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b8058796377690f5a9af87b1a2bc70dfe208538"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5287165
+project-id = 904480

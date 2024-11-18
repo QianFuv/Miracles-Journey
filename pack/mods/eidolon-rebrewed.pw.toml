@@ -1,0 +1,13 @@
+name = "Eidolon Rebrewed"
+filename = "eidolon-0.3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "338c99d32fa8b3cf8fd69a8b0653d37b4598424d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722182
+project-id = 665468

@@ -1,0 +1,13 @@
+name = "Dave's Potioneering"
+filename = "davespotioneering-1.19.2-3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddea6e43baed2a50afdd380d100e60c075f4fb1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5049515
+project-id = 639653

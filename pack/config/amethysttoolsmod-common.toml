@@ -1,0 +1,40 @@
+#Should be iron amethyst items created?
+enableIron = true
+#Should be diamond amethyst items created?
+enableDiamond = true
+#Should be netherite amethyst items created?
+enableNetherite = true
+#Multiplies durability of amethyst items
+#Range: 0.1 ~ 1.7976931348623157E308
+durabilityMultiplier = 1.2
+#Adds harvest speed to amethyst items
+#Range: 0.0 ~ 1.7976931348623157E308
+extraDigSpeed = 1.0
+#Adds damage to amethyst items
+#Range: 0.0 ~ 1.7976931348623157E308
+extraAttackDamage = 2.0
+#Adds enchantability to amethyst items
+#Range: > 0
+extraEnchantability = 5
+#Adds armor to amethyst items
+#Range: > 0
+extraArmor = 1
+#Adds toughness to amethyst items
+#Range: 0.0 ~ 1.7976931348623157E308
+extraToughness = 1.0
+#Adds knockback resistance to amethyst items; 0.1 = +1 knockback resistance
+#Range: 0.0 ~ 1.7976931348623157E308
+extraKR = 0.0
+#Should be any amethyst arrows created?
+enableAmethystArrows = true
+#Should be extra amethyst arrows created?
+enableExtraArrows = true
+#Adds damage to amethyst arrow/trident
+#Range: 0.0 ~ 1.7976931348623157E308
+arrowExtraDamage = 3.0
+#Duration of glowing from amethyst spectral arrows
+#Range: > 0
+glowingDuration = 300
+#Should be amethyst trident created?
+enableAmethystTrident = true
+

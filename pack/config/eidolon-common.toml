@@ -1,0 +1,74 @@
+
+#Generic settings
+[generic]
+	#Duration in ticks of each step of a crucible recipe.
+	#Range: 20 ~ 1200
+	crucibleStepDuration = 100
+	#Maximum amount of ethereal health (soul half-hearts) an entity can have at once.
+	#Range: 0 ~ 1000
+	maxEtherealHealth = 80
+
+#Mob settings
+[mobs]
+	#Spawn weight for wraith entity. Set to zero to disable spawning.
+	#Range: 0 ~ 1000
+	wraithSpawnWeight = 60
+	#Spawn weight for zombie brute entity. Set to zero to disable spawning.
+	#Range: 0 ~ 1000
+	zombieBruteSpawnWeight = 60
+	#Spawn weight for raven entity. Set to zero to disable spawning.
+	#Range: 0 ~ 1000
+	ravenSpawnWeight = 6
+	#Spawn weight for slug entity in aboveground biomes. Set to zero to disable spawning.
+	#Range: 0 ~ 1000
+	slugWeightAboveground = 8
+	#Spawn weight for slug entity in underground biomes. Set to zero to disable spawning.
+	#Range: 0 ~ 1000
+	slugWeightUnderground = 6
+
+#World generation settings
+[world]
+	#Whether lead ore is enabled. Set to false to disable spawning.
+	leadEnabled = true
+	#Minimum Y value for lead ore veins
+	#Range: -63 ~ 318
+	leadOreMinY = -27
+	#Maximum Y value for lead ore veins
+	#Range: -62 ~ 319
+	leadOreMaxY = 41
+	#Maximum number of blocks per lead ore vein
+	#Range: 1 ~ 255
+	leadOreVeinSize = 6
+	#Number of lead ore veins per chunk
+	#Range: 0 ~ 255
+	leadOreVeinCount = 6
+	#Whether silver ore is enabled. Set to false to disable spawning.
+	silverEnabled = true
+	#Minimum Y value for silver ore veins
+	#Range: -63 ~ 318
+	silverOreMinY = -60
+	#Maximum Y value for silver ore veins
+	#Range: -62 ~ 319
+	silverOreMaxY = 33
+	#Maximum number of blocks per silver ore vein
+	#Range: 1 ~ 255
+	silverOreVeinSize = 6
+	#Number of silver ore veins per chunk
+	#Range: 0 ~ 255
+	silverOreVeinCount = 5
+	#Whether the lab structure is enabled. Set to false to disable spawning.
+	labEnabled = true
+	#Rarity of the lab structure. Higher numbers mean rarer structures.
+	#Range: 1.0 ~ 1000.0
+	labRarity = 4.0
+	#Whether the stray tower structure is enabled. Set to false to disable spawning.
+	strayTowerEnabled = true
+	#Rarity of the stray tower structure. Higher numbers mean rarer structures.
+	#Range: 1.0 ~ 1000.0
+	strayTowerRarity = 4.0
+	#Whether the catacomb structure is enabled. Set to false to disable spawning.
+	catacombEnabled = true
+	#Rarity of the catacomb structure. Higher numbers mean rarer structures.
+	#Range: 1.0 ~ 1000.0
+	catacombRarity = 3.0
+

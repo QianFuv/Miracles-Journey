@@ -1,0 +1,13 @@
+name = "Dawn Of Time - Builder Edition "
+filename = "dotbe-1.19.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd1748e04b9e9d20fd467cf0f4c095035c709fc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5214071
+project-id = 312359

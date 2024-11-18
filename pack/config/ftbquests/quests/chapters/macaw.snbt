@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "macaw"
+	group: "375C1B0C652A4A81"
+	id: "369A64DF56F2725D"
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+	title: "Macaw 的窗户"
+}

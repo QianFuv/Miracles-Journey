@@ -1,0 +1,13 @@
+name = "Universal Grid"
+filename = "universalgrid-1.19.2-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7243d447e1de7490ec53d2e2f73d495b988ab645"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576205
+project-id = 536160

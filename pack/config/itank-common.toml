@@ -1,0 +1,63 @@
+
+#ITank - Config File
+[SETTINGS]
+
+	#Tank Settings
+	[SETTINGS.Tanks]
+		#Sets tank capacity : 1 Bucket = 1000mB - [Max: 2147483647mB]
+		#Range: > 1000
+		tank_capacity = 8000
+		#Tanks destroyed by explosions will retain their fluids
+		retain_fluid_after_explosions = true
+
+	#Color Settings
+	[SETTINGS.Colors]
+		#Configure white tanks color -> Default Hex: 0xffffff
+		#Range: 0 ~ 16777215
+		tank_color_white = 16777215
+		#Configure red tanks color -> Default Hex: 0xcd352c
+		#Range: 0 ~ 16777215
+		tank_color_red = 13448492
+		#Configure orange tanks color -> Default Hex: 0xff6d00
+		#Range: 0 ~ 16777215
+		tank_color_orange = 16739584
+		#Configure pink tanks color -> Default Hex: 0xff4e87
+		#Range: 0 ~ 16777215
+		tank_color_pink = 16731783
+		#Configure yellow tanks color -> Default Hex: 0xceae27
+		#Range: 0 ~ 16777215
+		tank_color_yellow = 13544999
+		#Configure lime tanks color -> Default Hex: 0x83c825
+		#Range: 0 ~ 16777215
+		tank_color_lime = 8636453
+		#Configure green tanks color -> Default Hex: 0x546f17
+		#Range: 0 ~ 16777215
+		tank_color_green = 5533463
+		#Configure light blue tanks color -> Default Hex: 0x2ea5c7
+		#Range: 0 ~ 16777215
+		tank_color_light_blue = 3057095
+		#Configure cyan tanks color -> Default Hex: 0x0cffff
+		#Range: 0 ~ 16777215
+		tank_color_cyan = 851967
+		#Configure blue tanks color -> Default Hex: 0x3035a4
+		#Range: 0 ~ 16777215
+		tank_color_blue = 3159460
+		#Configure magenta tanks color -> Default Hex: 0xbc37b6
+		#Range: 0 ~ 16777215
+		tank_color_magenta = 12335030
+		#Configure purple tanks color -> Default Hex: 0x68268d
+		#Range: 0 ~ 16777215
+		tank_color_purple = 6825613
+		#Configure brown tanks color -> Default Hex: 0x49311d
+		#Range: 0 ~ 16777215
+		tank_color_brown = 4796701
+		#Configure gray tanks color -> Default Hex: 0x696969
+		#Range: 0 ~ 16777215
+		tank_color_gray = 6908265
+		#Configure gray tanks color -> Default Hex: 0xc0c0c0
+		#Range: 0 ~ 16777215
+		tank_color_light_gray = 12632256
+		#Configure black tanks color -> Default Hex: 0x151517
+		#Range: 0 ~ 16777215
+		tank_color_black = 1381655
+

@@ -1,0 +1,13 @@
+name = "Incubation"
+filename = "incubation-1.19.2-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc98d35f181ab6d574666310e9bd6687b3f84bf5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4776209
+project-id = 361718

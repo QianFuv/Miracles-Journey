@@ -1,0 +1,13 @@
+name = "Axolotl Bucket Fix (Forge)"
+filename = "AxolotlBucketFix-1.3.0+forge-mc1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe7e4c3f430fd7715637a27c7bd8db3f05287717"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4180841
+project-id = 701644

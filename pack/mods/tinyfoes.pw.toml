@@ -1,0 +1,13 @@
+name = "Tiny Foes [Fabric/Forge]"
+filename = "tinyfoes-1.19.2-1.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b31ee4c59c39f08e51ec41d5346e0f4fe901564f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5157271
+project-id = 967641

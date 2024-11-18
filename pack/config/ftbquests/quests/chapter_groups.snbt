@@ -1,0 +1,11 @@
+{
+	chapter_groups: [
+		{ id: "01C777C56DCC833F", title: "科技" }
+		{ id: "15F4383CC62849DB", title: "魔法" }
+		{ id: "2C52B5A68FB626F1", title: "冒险" }
+		{ id: "4242DE057F7B23FB", title: "农业" }
+		{ id: "375C1B0C652A4A81", title: "装饰" }
+		{ id: "2B1868639F9576AD", title: "实用" }
+		{ id: "3637B4889244F963", title: "辅助" }
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "block.berrfect.blueberry_jam_block": "Blueberry Jam Block",
+
+  "item.berrfect.blueberry_pips": "Blueberry Pips",
+  "item.berrfect.blisterberry_pips": "Blisterberry Pips",
+  "item.berrfect.crimson_berry_pips": "Crimson Berry Pips",
+  "item.berrfect.droopfruit_pips": "Droopfruit Pips",
+  "item.berrfect.nightshade_berry_pips": "Nightshade Berry Pips",
+  "item.berrfect.sourceberry_pips": "Sourceberry Pips",
+
+  "item.berrfect.blueberry_jam_bottle": "Blueberry Jam Bottle",
+  "item.berrfect.blueberry_jam_roll": "Blueberry Jam Roll",
+  "item.berrfect.blisterberry_pie": "Blisterberry Pie",
+  "item.berrfect.embur_pudding": "Embur Pudding",
+  "item.berrfect.raindroop_cake": "Raindroop Cake",
+  "item.berrfect.rotten_blisterberry_pie": "Rotten Blisterberry Pie"
+}

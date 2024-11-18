@@ -1,0 +1,7 @@
+
+[particles]
+	#Do bubble boots emit sudsy particles while soapy
+	"Sudsy boots" = true
+	#Boots with soapiness below this number start emitting more suds particles. Set to 0 for no warning threshold
+	"Soapiness warning threshold" = 15
+

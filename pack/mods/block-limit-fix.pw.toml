@@ -1,0 +1,13 @@
+name = "Block Limit Fix"
+filename = "block_limit_fix-1.0.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8706280bbc097e053a376eb72f56dab5741e5b5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4783505
+project-id = 757020

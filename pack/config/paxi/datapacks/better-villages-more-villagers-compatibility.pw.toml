@@ -1,0 +1,13 @@
+name = "Better Villages - More Villagers Compatibility"
+filename = "BetterVillages_MoreVillagers_1.19.0-to-1.19.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e15ba7dfd9979cda4955ffff3082792f040e2161"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4497249
+project-id = 852171

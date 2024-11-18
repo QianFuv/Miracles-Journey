@@ -1,0 +1,9 @@
+
+[Modifications]
+	#Whether to enable the berry modifications for Ars Nouveau.
+	"Ars Nouveau modification" = true
+	#Whether to enable the berry modifications for Oh The Biomes You'll Go.
+	"BYG modification" = true
+	#Whether to enable the berry modifications for Undergarden.
+	"Undergarden modification" = true
+

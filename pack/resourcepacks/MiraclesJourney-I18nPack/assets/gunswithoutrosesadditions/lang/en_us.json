@@ -1,0 +1,21 @@
+{
+	"item.gunswithoutrosesadditions.utherium_bullet": "Utherium Bullet",
+	"item.gunswithoutrosesadditions.utherium_bullet.desc": "x1.5 damage to Rotspawn",
+	"item.gunswithoutrosesadditions.froststeel_bullet": "Froststeel Bullet",
+	"item.gunswithoutrosesadditions.froststeel_bullet.desc": "Slows on hit",
+	
+	"item.gunswithoutrosesadditions.honey_crystal_bullet": "Honey Crystal Bullet",
+	"item.gunswithoutrosesadditions.honey_crystal_bullet.desc": "Make bees angry at target",
+	
+	"item.gunswithoutrosesadditions.manasteel_gun": "Manasteel Gun",
+	"item.gunswithoutrosesadditions.manasteel_gun.desc": "Repairs itself using Mana",
+	"item.gunswithoutrosesadditions.elementium_gun": "Elementium Gun",
+	"item.gunswithoutrosesadditions.terra_shotgun": "Terra Blaster",
+	"item.gunswithoutrosesadditions.terra_shotgun.desc": "Also fires a Mana Burst",
+	"item.gunswithoutrosesadditions.manasteel_bullet": "Manasteel Bullet",
+	"item.gunswithoutrosesadditions.elementium_bullet": "Elementium Bullet",
+	"item.gunswithoutrosesadditions.elementium_bullet.desc": "Benefits from Pixie buffs",
+	
+	"item.gunswithoutrosesadditions.balloon_bullet": "Balloon Bullet",
+	"item.gunswithoutrosesadditions.balloon_bullet.desc": "Ties a balloon on target"
+}

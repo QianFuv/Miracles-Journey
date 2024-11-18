@@ -1,0 +1,13 @@
+name = "Arboria"
+filename = "Arboria 1.0.0 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81483097ae37e6a0e7dc08fd91b9c35ada4f8658"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4539206
+project-id = 862520

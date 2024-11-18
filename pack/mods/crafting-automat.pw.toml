@@ -1,0 +1,13 @@
+name = "Crafting Automat"
+filename = "CraftingAutomat-MC1.19.x-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "afca1b07dfcf8df90b51f19846cd334cb0d7fd87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3945752
+project-id = 293856

@@ -1,0 +1,16 @@
+name = "Miracles_Journey"
+author = "QianFuv"
+version = "0.2.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "936fbfa333d4199f66a42a84c59254c78f87ae14fb5a794502a2b844f5ced85c"
+
+[versions]
+forge = "43.4.5"
+minecraft = "1.19.2"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

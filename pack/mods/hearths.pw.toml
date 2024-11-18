@@ -1,0 +1,13 @@
+name = "Hearths"
+filename = "hearths-v1.0.0-mc1.19u1.19.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a90243c203c2087ca2e643f9b304f5421a7c24c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4609566
+project-id = 880814

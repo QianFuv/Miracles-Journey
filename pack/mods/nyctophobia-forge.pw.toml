@@ -1,0 +1,13 @@
+name = "Nyctophobia (FORGE)"
+filename = "The_Graveyard_Biomes_1.4_(FORGE)_for_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f62d0ee1f47330713246c46a68e29d1a0c39f5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4090411
+project-id = 584868

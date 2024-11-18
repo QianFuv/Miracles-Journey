@@ -1,0 +1,23 @@
+{
+  "block.goated.ram_block": "羊角块",
+  "block.goated.thatch": "干草",
+  "block.goated.thatch_slab": "干草台阶",
+  "block.goated.thatch_vertical_slab": "干草墙",
+  "block.goated.thatch_stairs": "干草楼梯",
+  "entity.goated.geep": "山绵羊",
+  "item.goated.barbarian_helmet": "蛮族战盔",
+  "item.goated.barbaric_helmet": "蛮族战盔",
+  "item.goated.geep_spawn_egg": "山绵羊刷怪蛋",
+  "item.goated.chevon": "生山绵羊肉",
+  "item.goated.cooked_chevon": "熟山绵羊肉",
+  "tooltip.goated.barbaric_helmet": "受伤会使你强大",
+  "advancements.goated.geep.title": "我趣！",
+  "advancements.goated.geep.description": "杂交一只羊和一只山羊",
+  "subtitle.goated.geep.long_jump": "山绵羊：跳",
+  "subtitle.goated.geep.death": "山绵羊：死亡",
+  "subtitle.goated.geep.milk": "山绵羊：产奶",
+  "subtitle.goated.geep.eat": "山绵羊：进食",
+  "subtitle.goated.geep.hurt": "山绵羊：受伤",
+  "subtitle.goated.geep.ambient": "山绵羊：咩咩",
+  "subtitle.goated.geep.infestation": "山绵羊：攻击"
+}

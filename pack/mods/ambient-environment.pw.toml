@@ -1,0 +1,13 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-forge-1.19.2-8.0+3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ce7fd4c2654df7463af825bca062f602a77db71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3955824
+project-id = 320163

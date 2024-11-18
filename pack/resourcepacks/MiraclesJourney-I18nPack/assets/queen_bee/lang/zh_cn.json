@@ -1,0 +1,21 @@
+{
+  "item.queen_bee.stinger": "蜂刺",
+  "item.queen_bee.queen_bee_spawn_egg": "蜂后刷怪蛋",
+  "item.queen_bee.stinger_sword": "蜂刺剑",
+  "item.queen_bee.antenna": "蜜蜂触角",
+
+  "tooltip.queen_bee.item.shift_up": "按住SHIFT键获取更多信息！",
+  "tooltip.queen_bee.stinger_sword": "攻击造成中毒和反胃，当你戴着蜜蜂触角时，按Shift+右键会召唤一只友好的蜜蜂，它会给附近的玩家生命恢复。",
+  "tooltip.queen_bee.antenna": "穿戴时，蜜蜂不会攻击你。",
+
+  "advancement.queen_bee.it_shouldnt_bee_edible.title": "嗟来之食",
+  "advancement.queen_bee.it_shouldnt_bee_edible.descr": "吃掉蜂刺",
+  "advancement.queen_bee.im_the_queen.title": "姐是女王",
+  "advancement.queen_bee.im_the_queen.descr": "击败蜂后获得蜜蜂触角",
+  "advancement.queen_bee.root.title": "蜂后模组",
+  "advancement.queen_bee.root.descr": "蜂后模组进度",
+
+  "entity.queen_bee.queen_bee": "蜂后",
+
+  "itemGroup.queen_bee": "蜂后"
+}

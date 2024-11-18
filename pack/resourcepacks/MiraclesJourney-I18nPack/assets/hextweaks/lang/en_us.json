@@ -1,0 +1,79 @@
+{
+  "hexcasting.spell.hextweaks:nausea": "Nadir of Nausea",
+  "hextweaks.page.spell.nausea": "Inflicts $(thing)nausea/$. Base cost is one Amethyst Dust per 4 seconds.",
+
+  "hextweaks.entry.grand_spells": "Grand Spells",
+  "hextweaks.entry.grand_spells.desc": "Grand Spells are spells that are truly lost$(br)this means that they have to be fished from nature$(br)Sadly I am gonna have to sacrifice a Media Source and a Ancient scroll to even try",
+  "hextweaks.entry.mass_mindflay": "Mass Mindflay Rituals",
+  "hextweaks.entry.mass_mindflay.desc": "From my research it appears that I would need a mass of living media.$(br)Villagers, from experience, serve as a good high-density source of media. Minimally-trained villagers contribute minimally to the ritual, with each level they gain doubling their contribution.$(br)It also appears that there is a natural order, with the ones requiring the most sacrifices being performed over lower-cost ones.$(br)It also appears that only one ritual can be performed per each cast.",
+
+  "hexcasting.spell.hextweaks:craft/grandscroll": "Natural Search",
+  "hextweaks.page.spell.craft.grandscroll": "Takes a Ancient Scroll and a Budding amethyst and searches for a random Grand spell",
+
+  "block.hextweaks.crystallizedbookblock": "Grand Spell Dropper Block",
+  "item.hextweaks.crystallized_scroll": "Crystallized Scroll",
+  "item.hextweaks.crystallized_scroll.empty": "Blank Crystallized Scroll",
+  "item.hextweaks.crystallized_scroll.of": "Crystallized Scroll of %s",
+  "item.scroll.great_or_better": "a Great Scroll or better",
+
+  "hexcasting.spell.hextweaks:grand/reroll": "Reroll Pattern",
+  "hextweaks.entry.grand.reroll": "Reroll Pattern",
+  "hextweaks.page.grand.reroll": "takes a Entity (Ancient/Crystallized scroll) and changes the pattern upon it$(br)the cost increasing exponentially with the each cast",
+
+  "hexcasting.spell.hextweaks:grand/massbrainsweep": "Mass Mindflay",
+  "hextweaks.page.grand.massmindflay": "sacrifices some mobs and performs a ritual using them$(br)I cannot cast this by hand$(br)$(l:hextweaks:patterns/grand_spells/mass_mindflay)I have some notes on this$()",
+  "hextweaks.page.mass_mindflay.create_slipway": "Create Slipway",
+  "hextweaks.page.mass_mindflay.create_slipway.content": "takes a position which is where the slipway will be created, The location must be empty$(br)consumes 5 masters",
+  "hextweaks.page.mass_mindflay.destroy_slipway": "Collapse Slipway",
+  "hextweaks.page.mass_mindflay.destroy_slipway.content": "takes a position which must be a slipway.$(br)consumes a master",
+
+  "hextweaks.entry.hextweaks_utility": "Hextweaks utility",
+  "hextweaks.entry.hextweaks.dict": "Hextweaks Dictionary",
+
+  "hexcasting.spell.hextweaks:page/right": "Progress Gambit",
+  "hexcasting.spell.hextweaks:page/left": "Regress Gambit",
+  "hextweaks.page.hextweaks_utility.page/right": "Turns the spellbook that your are holding one page to the right",
+  "hextweaks.page.hextweaks_utility.page/left": "Turns the spellbook that your are holding one page to the left",
+
+  "hexcasting.spell.hextweaks:suicide": "Suspicious Glyph",
+  "hextweaks.page.spell.suicide": "It appears to be a pattern, I wonder what happens if I cast it",
+  "death.attack.hextweaks.death.sus": "%s was called sus",
+
+  "hextweaks.iota.dictionary": "{%s}",
+  "hextweaks.mishap.notadict": "is not a dictionary",
+  "hextweaks.mishap.cannotbekey": "cannot be a dictionary key",
+  "hextweaks.mishap.cannotbevalue": "cannot be a dictionary value",
+  "hextweaks.mishap.dicttoolarge": "%s cannot have a value inserted as it is too big",
+
+  "note.dictionary.name": "Clerk's <equivalent list name>",
+  "hexcasting.spell.hextweaks:dict/new": "Clerk's Vacant Reflection",
+  "hexcasting.spell.hextweaks:dict/from": "Clerk's Distillation",
+  "hexcasting.spell.hextweaks:dict/break": "Clerk's Decomposition",
+  "hexcasting.spell.hextweaks:dict/size": "Clerk's Abacus Purification",
+  "hexcasting.spell.hextweaks:dict/set": "Clerk's Integration Exaltation",
+  "hexcasting.spell.hextweaks:dict/get": "Clerk's Surgeon's Exaltation",
+  "hexcasting.spell.hextweaks:dict/remove": "Clerk's Excisor's Distillation",
+  "hexcasting.spell.hextweaks:dict/thoths": "Clerk's Thoths Gambit",
+  "hexcasting.spell.hextweaks:dict/break/single": "Clerk's Decomposition II",
+
+  "hexcasting.action.book.hextweaks:dict/new": "Clerk's Vacant Rfln.",
+  "hexcasting.action.book.hextweaks:dict/size": "Clerk's Abacus Prfn.",
+  "hexcasting.action.book.hextweaks:dict/set": "Clerk's Integration Exln.",
+  "hexcasting.action.book.hextweaks:dict/get": "Clerk's Surgeon's Exln.",
+  "hexcasting.action.book.hextweaks:dict/remove": "Clerk's Excisor's Dstl.",
+
+  "hextweaks.page.hextweaks.dict.info": "Dictionary are a type of iota added by HexTweaks, similar to a portable akashic record although limited to 32 indexes,$(br)the type key indicates any type except dictionaries or list$(br)(as they cannot be used as keys)",
+  "hextweaks.page.hextweaks.dict.new": "Pushes a new empty dictionary to the stack",
+  "hextweaks.page.hextweaks.dict.from": "Turns two list into a dictionary, same rules apply (invalid keys get their values dropped)",
+  "hextweaks.page.hextweaks.dict.break": "Breaks a dictionary into list of keys and values",
+  "hextweaks.page.hextweaks.dict.break.single": "Breaks only the first value (and drops the others)",
+  "hextweaks.page.hextweaks.dict.size": "consumes a dictionary and return it's size (cannot be more then 32 (default)",
+  "hextweaks.page.hextweaks.dict.set": "Adds the key/value pair to the dictionary (dictionary remains on stack)",
+  "hextweaks.page.hextweaks.dict.get": "Gets the value from the dictionary using key (dictionary remains on stack)",
+  "hextweaks.page.hextweaks.dict.remove": "Removes a key from the dictionary (dictionary remains on stack)",
+  "hextweaks.page.hextweaks.dict.thoths": "Thoths, but dictionary, pushes key,value to the top of the stack instead of a single value (value highest)",
+
+
+  "hexcasting.spell.hextweaks:itter": "Iterators Purification",
+  "hextweaks.page.hextweaks.utility.itter": "Takes a number and returns all number 0 to n-1 (produces n values)"
+}

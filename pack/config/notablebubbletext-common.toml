@@ -1,0 +1,6 @@
+
+#General settings
+[General]
+	#The name for the key used to store the bubble owners' name in the entity's persistent data
+	nameKey = "BubbleOwner"
+

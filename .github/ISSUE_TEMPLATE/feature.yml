@@ -1,0 +1,21 @@
+name: "新功能提案"
+description: "对已有功能的大幅度修改, 或增添新的模组"
+labels: ["B: 新功能 : |"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "在提交issue之前, 请检查以下两项内容:"
+    options:
+    - label: "**我确认增加的内容不会影响游戏平衡** 例如等价交换/加速火把等...不符合整合包宗旨, 因此不会添加"
+      required: true
+    - label: "**不存在重复的提案** 我已在[Issue-新功能提案页面](https://github.com/Qian-F/Miracles-Journey/issues?q=label%3A%22B%3A+%E6%96%B0%E5%8A%9F%E8%83%BD+%3A+%7C%22)中搜索并确认, 确认了这一新功能未被提案过"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 内容
+    description: "要修改的内容或打算添加的Mod, 并说明原因"
+  validations:
+    required: true

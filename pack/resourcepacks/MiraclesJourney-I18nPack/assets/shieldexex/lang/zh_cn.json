@@ -1,0 +1,24 @@
+{
+
+  "item.shieldexex.wooden_shield": "木盾牌",
+  "item.shieldexex.stone_shield": "石盾牌",
+  "item.shieldexex.golden_shield": "金盾牌",
+  "item.shieldexex.iron_shield": "铁盾牌",
+  "item.shieldexex.diamond_shield": "钻石盾牌",
+  "item.shieldexex.netherite_shield": "下界合金盾牌",
+  "item.shieldexex.electrum_shield": "琥珀金盾牌",
+  "item.shieldexex.adamantite_shield": "精金盾牌",
+
+  "item.shieldexex.wooden_tower_shield": "木塔盾",
+  "item.shieldexex.stone_tower_shield": "石塔盾",
+  "item.shieldexex.golden_tower_shield": "金塔盾",
+  "item.shieldexex.iron_tower_shield": "铁塔盾",
+  "item.shieldexex.diamond_tower_shield": "钻石塔盾",
+  "item.shieldexex.netherite_tower_shield": "下界合金塔盾",
+  "item.shieldexex.electrum_tower_shield": "琥珀金塔盾",
+  "item.shieldexex.adamantite_tower_shield": "精金塔盾",
+
+
+  "itemGroup.shield": "盾牌"
+
+}

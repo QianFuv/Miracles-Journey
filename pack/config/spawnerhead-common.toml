@@ -1,0 +1,18 @@
+
+["Spawner Head Settings"]
+	#Average Spawn Rate (example: '75' means 1 in 75 zombies will be a spawner head)
+	#Range: 1 ~ 100000
+	"Spawn Rate" = 50
+	#Set spawner head mobs to burn in sunlight like regular undead
+	"Burns In Sunlight" = true
+	#Make spawner heads immune to skeleton arrows
+	"Skeleton Arrow Immunity" = false
+	#Make spawner heads immune to creeper explosions
+	"Creeper Explosion Immunity" = false
+	#Allow players to use lead items on spawner heads
+	"Can Be Leashed" = false
+	#Make spawner heads drop dungeon loot on death. Drops zombie loot when set to false.
+	"Drop Special Loot" = true
+	#Allow players to use spawn eggs to modify the spawner mob
+	"Allow Spawn Egg Use" = true
+

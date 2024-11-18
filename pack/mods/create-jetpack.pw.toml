@@ -1,0 +1,13 @@
+name = "Create Jetpack"
+filename = "create_jetpack-forge-3.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41ac3e547279568c0b572e69709ae738d5d26267"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5739558
+project-id = 655608

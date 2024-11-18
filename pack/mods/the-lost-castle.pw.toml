@@ -1,0 +1,13 @@
+name = "The Lost Castle"
+filename = "tlc_forge-1.0.2-R-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08fcdcaa5b26001c004cd5ce4cf8dbc050caa0b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025293
+project-id = 687118

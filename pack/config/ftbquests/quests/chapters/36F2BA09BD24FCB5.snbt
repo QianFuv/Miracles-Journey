@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "36F2BA09BD24FCB5"
+	group: "15F4383CC62849DB"
+	id: "36F2BA09BD24FCB5"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "植物魔法"
+}

@@ -1,0 +1,13 @@
+name = "NaN Health Fixer"
+filename = "nanhealthfixer-1.19.2-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8e40aab042470816072ff5346cec54ad7e8b6b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4932785
+project-id = 828656

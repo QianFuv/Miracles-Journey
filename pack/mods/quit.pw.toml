@@ -1,0 +1,13 @@
+name = "Quit"
+filename = "Quit-Forge-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ddd3f18f79bb6155b40ba0c4ef0cbb9be1c9c6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4960655
+project-id = 684750

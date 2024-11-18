@@ -1,0 +1,14 @@
+
+#Maced Settings
+[mace]
+	#Range: 0.0 ~ 3.4028234663852886E38
+	attackDamage = 7.0
+	#Range: 0.1 ~ 10.0
+	attackSpeed = 1.6
+	#Range: 0.0 ~ 1.7976931348623157E308
+	smashAttackFallThreshold = 1.5
+	#Range: 0.0 ~ 10.0
+	smashAttackKnockbackRadius = 2.5
+	#Range: 0.0 ~ 5.0
+	smashAttackKnockbackPower = 0.7
+

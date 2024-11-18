@@ -1,0 +1,13 @@
+name = "Screenshot Sharing"
+filename = "ScreenshotSharing-Forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e29ac98bc96460415b7bc0b6b4be633d01f7fe37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5140420
+project-id = 980207

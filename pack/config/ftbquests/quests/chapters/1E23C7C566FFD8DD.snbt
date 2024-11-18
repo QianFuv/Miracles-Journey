@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1E23C7C566FFD8DD"
+	group: "15F4383CC62849DB"
+	id: "1E23C7C566FFD8DD"
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+	title: "字符魔法师"
+}

@@ -1,0 +1,13 @@
+name = "Damage Tilt"
+filename = "DamageTilt-1.19-forge-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e338b4baba11111c58e0ef887b6a8c97bfa9a4d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3937119
+project-id = 411705

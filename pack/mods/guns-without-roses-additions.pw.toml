@@ -1,0 +1,13 @@
+name = "Guns Without Roses Additions"
+filename = "gunswithoutrosesadditions-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bace3ca4b1444db3cf40ea091b4f4f7e9f84e1b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4330152
+project-id = 610743

@@ -1,0 +1,6 @@
+#makes magispeller stronger to balance out the totem's power
+stronger-magispeller = true
+#modifies the boss randomizer mechanic
+#disable if facing compat issue
+boss-randomizer-tweak = true
+

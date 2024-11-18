@@ -1,0 +1,13 @@
+name = "JeremySeq's Damage Indicator"
+filename = "damageindicator-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ec5570db38935ef5b1c13bc35ca4a8a39d99aa2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4612733
+project-id = 881096

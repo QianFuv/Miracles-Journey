@@ -1,0 +1,13 @@
+name = "Create: Vintage Improvements"
+filename = "vintageimprovements-1.19.2-0.2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebae5eb829180063bba9df831fa56abe739bbb5f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5661435
+project-id = 946579

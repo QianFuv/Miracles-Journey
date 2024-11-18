@@ -1,0 +1,7 @@
+
+["Common Config for Xtra Arrows | Be sure config options are saved while world is not open | Server Config, which can disable arrows, is located in saves/[world-name]/serverconfig/"]
+	#If set to false, Xtra Arrows will not modify Fletcher trades. Trades already generated will still exist.
+	enableFletcherTrades = true
+	#If set to false, the circle formed around some arrows' point of impact will not be shown.
+	enableRangeCircle = true
+

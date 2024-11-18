@@ -1,0 +1,13 @@
+name = "ShetiPhianCore"
+filename = "shetiphiancore-forge-1.19-3.11.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9413026897f627507b700bb5b7206497d4ff6524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4859146
+project-id = 71738

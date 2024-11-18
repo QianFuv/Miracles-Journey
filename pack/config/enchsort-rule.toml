@@ -1,0 +1,191 @@
+[[entries]]
+name = "minecraft:protection"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:fire_protection"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:feather_falling"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:blast_protection"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:projectile_protection"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:respiration"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:aqua_affinity"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:thorns"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:depth_strider"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:frost_walker"
+max_lvl = 2
+
+[[entries]]
+name = "minecraft:binding_curse"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:soul_speed"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:swift_sneak"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:sharpness"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:smite"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:bane_of_arthropods"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:knockback"
+max_lvl = 2
+
+[[entries]]
+name = "minecraft:fire_aspect"
+max_lvl = 2
+
+[[entries]]
+name = "minecraft:looting"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:sweeping"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:efficiency"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:silk_touch"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:unbreaking"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:fortune"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:power"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:punch"
+max_lvl = 2
+
+[[entries]]
+name = "minecraft:flame"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:infinity"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:luck_of_the_sea"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:lure"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:loyalty"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:impaling"
+max_lvl = 5
+
+[[entries]]
+name = "minecraft:riptide"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:channeling"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:multishot"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:quick_charge"
+max_lvl = 3
+
+[[entries]]
+name = "minecraft:piercing"
+max_lvl = 4
+
+[[entries]]
+name = "minecraft:mending"
+max_lvl = 1
+
+[[entries]]
+name = "minecraft:vanishing_curse"
+max_lvl = 1
+
+[[entries]]
+name = "maced:breach"
+max_lvl = 4
+
+[[entries]]
+name = "maced:density"
+max_lvl = 5
+
+[[entries]]
+name = "gunswithoutroses:impact"
+max_lvl = 5
+
+[[entries]]
+name = "gunswithoutroses:bullseye"
+max_lvl = 3
+
+[[entries]]
+name = "gunswithoutroses:sleight_of_hand"
+max_lvl = 3
+
+[[entries]]
+name = "gunswithoutroses:preserving"
+max_lvl = 3
+
+[[entries]]
+name = "scriptor:charged"
+max_lvl = 1
+
+[[entries]]
+name = "passablefoliage:leaf_walker"
+max_lvl = 1
+
+[[entries]]
+name = "mythicbotany:hammer_mobility"
+max_lvl = 5

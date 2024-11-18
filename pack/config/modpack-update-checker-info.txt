@@ -1,0 +1,23 @@
+Miracles Journey - 奇迹之旅 大型整合包
+
+奇迹之旅是一款基于原版 Minecraft 世界观进行拓展延伸内容的大型整合包，目前仍在 Beta 内测阶段。
+
+注：奇迹之旅从未开设官方服务器，整合包内容完全免费公开，请勿上当受骗！！！
+
+相关链接：
+
+作者（浅风）主页：https://github.com/QianFuv
+
+作者团队（盈月工作室）主页：https://github.com/WaxingMoonStudio
+
+奇迹之旅主页仓库：https://github.com/WaxingMoonStudio/Miracles-Journey-Home
+
+奇迹之旅整合包仓库：https://github.com/WaxingMoonStudio/Miracles-Journey-Pack
+
+奇迹之旅服务端仓库：https://github.com/WaxingMoonStudio/Miracles-Journey-Server
+
+奇迹之旅汉化仓库：https://github.com/WaxingMoonStudio/Miracles-Journey-I18n
+
+奇迹之旅帮助文档仓库：https://github.com/WaxingMoonStudio/Miracles-Journey-Docs
+
+联系我们&参与内测：160373490（QQ群号）

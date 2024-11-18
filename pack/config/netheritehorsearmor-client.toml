@@ -1,0 +1,5 @@
+
+["Client Configs"]
+	#If false, then you do not see Tooltips for Horse Armors. Default is true.
+	ToolTipInformation = true
+

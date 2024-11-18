@@ -1,0 +1,13 @@
+name = "Amethyst Tools Mod"
+filename = "amethysttoolsmod-1.19-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbb928cc2ee12bc81f5cce8e10bcc8aaa0cd206e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3955467
+project-id = 571422

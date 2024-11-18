@@ -1,0 +1,56 @@
+{
+  "itemGroup.peripherals": "更多海龟",
+
+  "block.peripherals.trading_interface": "交易接口",
+  "block.peripherals.xp_collector": "经验收集器",
+  "block.peripherals.xp_bottler": "经验装瓶器",
+  "block.peripherals.enchanting_interface": "附魔接口",
+  "block.peripherals.loom_interface": "织布机接口",
+  "block.peripherals.grinder": "打磨",
+  "block.peripherals.grindstone_interface": "砂轮接口",
+  "block.peripherals.beehive_interface": "蜂箱接口",
+  "block.peripherals.anvil_interface": "铁砧接口",
+  "block.peripherals.spawner_interface": "刷怪笼接口",
+  "block.peripherals.disk_raid": "磁盘阵列",
+  "block.peripherals.advanced_disk_raid": "高级磁盘阵列",
+  "block.peripherals.induction_charger": "感应充电装置",
+  "block.peripherals.magnetic_card_manipulator": "磁卡机械手",
+
+  "item.peripherals.spawner_card": "刷怪笼卡",
+  "item.peripherals.magnetic_card": "磁卡",
+
+  "gui.peripherals.grinder.name": "打磨",
+  "gui.peripherals.diskraid.name": "驱动阵列",
+  "gui.peripherals.advanceddiskraid.name": "高级驱动阵列",
+  "gui.peripherals.magnetic_card_manipulator.name": "磁卡机械手",
+
+  "upgrade.minecraft.netherite_axe.adjective": "伐木",
+  "upgrade.minecraft.netherite_pickaxe.adjective": "采掘",
+  "upgrade.minecraft.netherite_sword.adjective": "战斗",
+  "upgrade.minecraft.netherite_hoe.adjective": "耕种",
+  "upgrade.minecraft.netherite_shovel.adjective": "挖掘",
+
+  "upgrade.minecraft.iron_axe.adjective": "伐木",
+  "upgrade.minecraft.iron_pickaxe.adjective": "采掘",
+  "upgrade.minecraft.iron_sword.adjective": "战斗",
+  "upgrade.minecraft.iron_hoe.adjective": "耕种",
+  "upgrade.minecraft.iron_shovel.adjective": "挖掘",
+
+  "upgrade.minecraft.stone_axe.adjective": "伐木",
+  "upgrade.minecraft.stone_pickaxe.adjective": "采掘",
+  "upgrade.minecraft.stone_sword.adjective": "战斗",
+  "upgrade.minecraft.stone_hoe.adjective": "耕种",
+  "upgrade.minecraft.stone_shovel.adjective": "挖掘",
+
+  "upgrade.minecraft.golden_axe.adjective": "伐木",
+  "upgrade.minecraft.golden_pickaxe.adjective": "采掘",
+  "upgrade.minecraft.golden_sword.adjective": "战斗",
+  "upgrade.minecraft.golden_hoe.adjective": "耕种",
+  "upgrade.minecraft.golden_shovel.adjective": "挖掘",
+
+  "upgrade.minecraft.wooden_axe.adjective": "伐木",
+  "upgrade.minecraft.wooden_pickaxe.adjective": "采掘",
+  "upgrade.minecraft.wooden_sword.adjective": "战斗",
+  "upgrade.minecraft.wooden_hoe.adjective": "耕种",
+  "upgrade.minecraft.wooden_shovel.adjective": "挖掘"
+}

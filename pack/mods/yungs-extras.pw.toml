@@ -1,0 +1,13 @@
+name = "YUNG's Extras (Forge)"
+filename = "YungsExtras-1.19.2-Forge-3.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bc4e7753c10ba8900b8abd11453b18f17637608"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4031230
+project-id = 480006

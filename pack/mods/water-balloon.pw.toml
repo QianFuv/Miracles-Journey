@@ -1,0 +1,13 @@
+name = "Water Balloon"
+filename = "waterballoon-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f23423726214db8670c2884687aff2009f3a360"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5429974
+project-id = 1037173

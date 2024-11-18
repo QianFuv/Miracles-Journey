@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.infinitemusic.option.timer": "两首音乐之间的时间（以秒为单位）。",
+  "infinitemusic.debug.timer": "下一首音乐还有%s个tick的时间。",
+  "infinitemusic.debug.music": "当前音乐：%s"
+}

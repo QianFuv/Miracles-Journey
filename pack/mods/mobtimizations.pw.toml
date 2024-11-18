@@ -1,0 +1,13 @@
+name = "Mobtimizations - Entity Performance Fixes"
+filename = "mobtimizations-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23d87237f829d7ce1b11c369c8386d983785d611"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5135992
+project-id = 974401

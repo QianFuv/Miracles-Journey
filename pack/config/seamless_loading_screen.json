@@ -1,0 +1,17 @@
+{
+  "time": 80,
+  "fade": 20,
+  "tintColor": "#121212",
+  "tintStrength": 0.3,
+  "enableScreenshotBlur": false,
+  "screenshotBlurStrength": 1.0,
+  "screenshotBlurQuality": 5.0,
+  "playSoundEffect": false,
+  "soundEffect": "minecraft:ui.toast.out",
+  "soundPitch": 1.0,
+  "soundVolume": 1.0,
+  "resolution": "Native",
+  "disableCamera": true,
+  "archiveScreenshots": false,
+  "updateWorldIcon": false
+}

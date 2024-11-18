@@ -1,0 +1,13 @@
+name = "Refined Storage Addons"
+filename = "refinedstorageaddons-0.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa7358350a2db978e0a06708e5de41933b477bfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4012659
+project-id = 272302

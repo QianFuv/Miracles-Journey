@@ -1,0 +1,13 @@
+name = "Better Dogs X Doggy Talents Next"
+filename = "Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [1.18.2-1.19.2].jar.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46ed6919ba5497bf1bf34c8eeb1b17ed54e8d094"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5375492
+project-id = 922672

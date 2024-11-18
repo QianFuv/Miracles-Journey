@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-forge-1.19.2-12.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9eecd5c041c2ade04dd014ae081e4f36a4eaac99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4753179
+project-id = 235577

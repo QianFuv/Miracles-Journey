@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples (Forge)"
+filename = "YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2ea85d9a87331bcf9c65fb35092a01d3a74d071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4742920
+project-id = 897669

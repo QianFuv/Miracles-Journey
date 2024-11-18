@@ -1,0 +1,10 @@
+#Seeing item inventory contents requires shift to be held.
+contents_require_shift = false
+#Show an indicator on container items when the stack carried by the cursor can be added in your inventory.
+container_item_indicator = true
+#Render a white overlay or the hotbar selected item frame over the slot the next item will be taken out when right-clicking the container item.
+#Allowed Values: NONE, HOTBAR, HOVER
+slot_overlay = "HOVER"
+#Color item inventories on tooltips according to the container item's color.
+colorful_tooltips = true
+

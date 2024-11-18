@@ -1,0 +1,80 @@
+#Booleans
+toolsAreWeapons = false
+bedrockBlockReach = false
+refinedCoyoteTime = false
+midairKB = false
+fishingHookKB = false
+swordBlocking = false
+sprintCritsEnabled = true
+saturationHealing = false
+autoAttackAllowed = true
+configOnlyWeapons = false
+axeReachBuff = false
+blockReach = true
+attackReach = true
+attackSpeed = true
+ctsAttackBalancing = true
+fistDamage = false
+eatingInterruption = false
+#Range: 1 ~ 1000
+potionUseDuration = 20
+#Range: 1 ~ 1000
+honeyBottleUseDuration = 20
+#Range: 1 ~ 1000
+milkBucketUseDuration = 20
+#Range: 1 ~ 1000
+stewUseDuration = 20
+#Range: 1 ~ 1000
+instantHealthBonus = 6
+#Range: 1 ~ 1000
+eggItemCooldown = 4
+#Range: 1 ~ 1000
+snowballItemCooldown = 4
+#Doubles
+#Range: 0.0 ~ 40.0
+snowballDamage = 0.0
+#Range: 0.0 ~ 40.0
+eggDamage = 0.0
+#Range: 0.0 ~ 4.0
+bowUncertainty = 0.25
+#Range: 0.0 ~ 1000.0
+swordAttackDamageBonus = 1.0
+#Range: 0.0 ~ 1000.0
+axeAttackDamageBonus = 2.0
+#Range: 0.0 ~ 1000.0
+tridentAttackDamageBonus = 5.0
+#Range: 0.0 ~ 1000.0
+knifeAttackDamageBonus = 0.0
+#Range: 0.0 ~ 1000.0
+baseHoeAttackDamageBonus = 0.0
+#Range: 0.0 ~ 1000.0
+ironDiaHoeAttackDamageBonus = 1.0
+#Range: 0.0 ~ 1000.0
+netheriteHoeAttackDamageBonus = 2.0
+#Range: -1.0 ~ 7.5
+swordAttackSpeed = 0.5
+#Range: -1.0 ~ 7.5
+axeAttackSpeed = -0.5
+#Range: -1.0 ~ 7.5
+tridentAttackSpeed = -0.5
+#Range: -1.0 ~ 7.5
+woodenHoeAttackSpeed = -0.5
+#Range: -1.0 ~ 7.5
+stoneHoeAttackSpeed = 0.0
+#Range: -1.0 ~ 7.5
+ironHoeAttackSpeed = 0.5
+#Range: -1.0 ~ 7.5
+goldDiaNethHoeAttackSpeed = 1.0
+#Range: -1.0 ~ 7.5
+knifeAttackSpeed = 1.0
+#Range: -1.0 ~ 7.5
+defaultAttackSpeed = 0.0
+#Range: -1.0 ~ 7.5
+slowestToolAttackSpeed = -1.0
+#Range: -1.0 ~ 7.5
+slowToolAttackSpeed = -0.5
+#Range: -1.0 ~ 7.5
+fastToolAttackSpeed = 0.5
+#Range: -1.0 ~ 7.5
+fastestToolAttackSpeed = 1.0
+

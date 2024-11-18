@@ -1,0 +1,7 @@
+#Determines whether geotagged screenshots should be added to a separate set of waypoints. If this option is disabled screenshots will be added to the default set.
+useSeparateSetForGeotaggedScreenshots = true
+#Specifies the name of the waypoint set which geotagged screenshots should be added.
+waypointSetName = "Geotagged Screenshots"
+#Determines whether to show a chat message for starting and completing the regeneration of thumbnails.
+displayThumbnailRegenerationInChat = true
+

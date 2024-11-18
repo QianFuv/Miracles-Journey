@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.betterwitchhuts-fabric-1_19.title": "YUNG的沼泽小屋优化",
+  "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts": "禁用原版沼泽小屋",
+  "text.autoconfig.betterwitchhuts-fabric-1_19.option.general.disableVanillaWitchHuts.@Tooltip": "是否禁用原版沼泽小屋",
+  "Use /locate structure betterwitchhuts:witch_hut instead!": "请改用 /locate structure betterwitchhuts:witch_hut instead！"
+}

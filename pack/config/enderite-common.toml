@@ -1,0 +1,132 @@
+#If false, then Enderite Items have normal gravity.
+EnderiteItemsHaveNoGravity = true
+#If true, then the items have no gravity, with false, the vertical spread is slowed down.
+TrueNoGravity = false
+#Lower is faster. You can not set very much but a little.
+#Range: 0 ~ 100
+EndercrystalGrowSpeed = 5
+
+[Armor]
+	#False means that Endermans attack you, if you look them in the face.
+	EnderiteHelmetMakesEndermansFriendly = true
+	#If false, then you cannot craft the Enderite Elytra Chestplate.
+	EnderiteElytraChestplateCrafting = true
+	#If false (and op mode false), then you can get the levitation effect. (To disable it completly, disable also the op mode)
+	EnderiteLeggingsGetNoLevitationEffectIfPressShift = true
+	#If true, then you can not get the levatation effect with the leggings.
+	EnderiteLeggingsGetNoLevitationEffectOpMode = false
+	#If false, then you don't get a speed effect.
+	EnderiteBootsEffect = true
+	#If true, then you can run faster inside the End.
+	EnderiteBootsOpMode = false
+	#0 is Speed Level 1. Allows you to run faster on specific blocks.
+	#Range: 0 ~ 255
+	EnderiteBootsSpeedLevel = 2
+
+	[Armor."Full Set Bonus"]
+		#If false, then you do not get the full set bonus.
+		EnderiteFullSetBonus = true
+		#If false, then endermites will attack you, only if you hit one of them.
+		EnderiteFullSetBonusIsEndermitePeaceful = true
+		#If true, then you get the slow falling effect, if you pressed shift.
+		EnderiteFullSetBonusSlowFallingEffect = false
+		#If false, then you get always the full set bonus.
+		EnderiteFullSetBonusIfOverDefinedValue = true
+		#If the armor durability is over the value, then you get the full set bonus. (Max Armor Durability / (Max Armor Durability - Damage Value))
+		#Range: 0.0 ~ 1.0
+		EnderiteFullSetBonusIfArmorDurabilityIsOverTheDefinedValue = 0.25
+
+[Tools]
+	#1 is without a multiplier. Default is 5.
+	#Range: 1 ~ 100
+	EnderitePickaxeEndStonesMultiplier = 5
+	#0 no Cooldown. 20 is the normal Ender Pearl Cooldwon.
+	#Range: 0 ~ 1000
+	EnderPearlStaffCooldown = 40
+
+	[Tools."Enderite Sword"]
+		#If true, then the sword gives your target the levitation effect.
+		EnderiteSwordLevitationEffect = false
+		#0 is disabled. It is in ticks. Default is 10.
+		#Range: 0 ~ 1000
+		EnderiteSwordLevitationEffectTime = 10
+		#If true, then the sword gives you health boost.
+		EnderiteSwordAttackerHealtBoostEffect = false
+		#0 is disabled. It is in ticks. Default is 10.
+		#Range: 0 ~ 1000
+		EnderiteSwordAttackerHealthBoostEffectTime = 10
+
+		[Tools."Enderite Sword".Teleport]
+			#If false, then the teleport is disabled.
+			EnderiteSwordTeleport = true
+			#If false, then you can teleport you in the air.
+			EnderiteSwordTeleportOnlyOnBlocks = true
+			#The range how far you teleport is. 1 is 1 block.
+			#Range: 1.0 ~ 999.0
+			EnderiteSwordTeleportRange = 20.0
+			#0 is no cooldown. It is in ticks.
+			#Range: 0 ~ 999
+			EnderiteSwordTeleportCooldown = 40
+			#If false, then you can teleport every time and lose for one teleport 5 Durability. You need to charge your swird with Ender Pearls.
+			EnderiteSwordNeedChargesForTeleport = true
+			#Set the limit, how many teleport charges you can have on your sword.
+			#Range: 1 ~ 999999
+			EnderiteSwordChargesLimit = 32
+
+[Enchantments]
+	#If true, then you can trade the Enchantment.
+	NightVisionEnchantmentTradeable = false
+	#If false, then you can enchant the Enchantment in the Enchanting Table.
+	NightVisionEnchantmentTreasureOnly = true
+	#If false, then you can not trade the Enchantment.
+	NoGravityEnchantmentTradeable = true
+	#If true, then you can not enchant the Enchantment in the Enchanting Table.
+	NoGravityEnchantmentTreasureOnly = false
+	#If true, then you can trade the Enchantment.
+	VoidFloatingEnchantmentTradeable = false
+	#If true, then you can not enchant the Enchantment in the Enchanting Table.
+	VoidFloatingEnchantmentTreasureOnly = false
+
+["Chest Loot"]
+	#If false, then Enderite Items will not spawn in End City Treasures.
+	EnableChestLoot = true
+
+	["Chest Loot"."Items in Chests"]
+		#If false, then Enderite Scrap don't spawn in End City Treasures.
+		EnderiteScrapInEndCityTreasures = true
+		#If false, then Endercrystal Shards don't spawn in End City Treasures.
+		EndercrystalShardInEndCityTreasures = true
+		#If false, then Enderite Ingots don't spawn in End City Treasures.
+		EnderiteIngotsInEndCityTreasure = true
+		#If false, then Enderite Nuggets don't spawn in End City Treasures.
+		EnderiteNuggetsInEndCityTreasure = true
+		#If false, then the Night Vision Enchantment don't spawn in End City Treasures.
+		NightVisionEnchantmentInEndCityTreasures = true
+		#If false, then the No Gravity Enchantment do spawn in End City Treasures.
+		NoGravityEnchantmentInEndCityTreasures = false
+		#If false, then the Void Floating Enchantment don't spawn in End City Treasures.
+		VoidFloatingEnchantmentInEndCityTreasures = true
+
+	["Chest Loot"."Item in Chest Chances"]
+		#The chance that Enderite Ingots spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		EnderiteIngotInChestChance = 0.005
+		#The chance that Enderite Srcaps spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		EnderiteScrapsInChestChance = 0.05
+		#The chance that Enderite Nuggets spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		EnderiteNuggetInChestChance = 0.1
+		#The chance that Endercrystal Shards spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		EndercrystalShardInChestChance = 0.075
+		#The chance that the Night Vision Enchantment spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		NightVisionEnchantmentInChestChance = 0.05
+		#The chance that the No Gravity Enchantment spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		NoGravityEnchantmentInChestChance = 0.2
+		#The chance that the Void Floating Enchantment spawns inside the End City Treasure.
+		#Range: 0.0 ~ 1.0
+		VoidFloatingEnchantmentInChestChance = 0.05
+

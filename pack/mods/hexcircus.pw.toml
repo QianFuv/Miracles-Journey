@@ -1,0 +1,13 @@
+name = "HexCircus"
+filename = "HexCircus 1.1.2 [FORGE].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd230c6d9bfd6f6618e29648d1f745c73a95e168"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5514189
+project-id = 1006655

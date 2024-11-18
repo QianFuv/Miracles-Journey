@@ -1,0 +1,32 @@
+name: "Bug 反馈"
+description: "遇见了正常游戏内容预期外的 Bug"
+labels: ["B: BUGGGG"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "在提交issue之前, 请检查以下四项内容:"
+    options:
+    - label: "**此Bug出现在单人游戏中** 由于不提供官方服务端, 因此在服务器内的错误/崩溃将不予处理"
+      required: true
+    - label: "**Bug的确是非游戏预期内容** 请在[MC百科](https://mcmod.cn/)/[Curseforge](https://www.curseforge.com/minecraft)/[Modrinth](https://modrinth.com/)中寻找相应模组的介绍并了解, 确认你遇到的情况是非游戏预期内容"
+      required: true
+    - label: "**不存在重复的反馈** 我已在[Issue-Bug页面](https://github.com/Qian-F/Miracles-Journey/issues?q=label%3A%22B%3A+BUGGGG%22)中搜索并确认, 确认了这一Bug未被反馈过"
+      required: true
+    - label: "**这个Bug是可复现的** 其他玩家也可以同样触发这个Bug, 并且这个Bug不是偶然性的, 而是每次都会出现"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 描述
+    description: "详细描述该Bug的具体游戏现象"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 重现步骤
+    description: "详细描述要怎么操作才能再次触发这个Bug"
+  validations:
+    required: true

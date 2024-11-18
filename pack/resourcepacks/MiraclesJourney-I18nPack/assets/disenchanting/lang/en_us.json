@@ -1,0 +1,13 @@
+{
+  "_comment": "Blocks",
+
+  "block.disenchanting.disenchanter": "Disenchanter",
+  "block.disenchanting.disenchanter.tooltip": "Disenchant your items and put them onto books.",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.Disenchanting": "Disenchanting",
+
+  "_comment": "Names",
+
+  "gui.disenchanting.disenchanter.cost": "Cost"
+}

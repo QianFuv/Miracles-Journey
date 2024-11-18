@@ -1,0 +1,18 @@
+{
+  "Use /locate structure betterjungletemples:jungle_temple instead!": "请使用 /locate structure betterjungletemples:jungle_temple！",
+
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.title": "YUNG的丛林神庙优化",
+
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples": "YUNG的丛林神庙优化",
+
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.general": "常规",
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.general.@Tooltip": "常规设置",
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.compat": "模组兼容性",
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.compat.@Tooltip": "模组兼容性设置",
+
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.general.disableVanillaJungleTemples": "取消原版丛林神庙",
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.general.disableVanillaJungleTemples.@Tooltip": "是否禁用原版丛林神庙生成",
+
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.compat.pickYourPoisonEnabled": "开启 Pick Your Poison 兼容性",
+  "text.autoconfig.betterjungletemples-fabric-1_19_2.option.betterJungleTemples.compat.pickYourPoisonEnabled.@Tooltip": "Pick Your Poison 模组的毒镖是否在丛林神庙中生成"
+}

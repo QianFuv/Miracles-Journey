@@ -1,0 +1,21 @@
+{
+  "item.gunswithoutrosesadditions.utherium_bullet": "御腐弹",
+  "item.gunswithoutrosesadditions.utherium_bullet.desc": "对腐衰生物造成1.5倍伤害，就像御腐装备一样",
+  "item.gunswithoutrosesadditions.froststeel_bullet": "霜钢弹",
+  "item.gunswithoutrosesadditions.froststeel_bullet.desc": "使目标减速，就像霜钢装备一样",
+
+  "item.gunswithoutrosesadditions.honey_crystal_bullet": "蜂蜜结晶弹",
+  "item.gunswithoutrosesadditions.honey_crystal_bullet.desc": "使目标激怒附近的蜜蜂",
+
+  "item.gunswithoutrosesadditions.manasteel_gun": "魔钢枪炮",
+  "item.gunswithoutrosesadditions.manasteel_gun.desc": "使用魔力修复自身",
+  "item.gunswithoutrosesadditions.elementium_gun": "源质钢枪炮",
+  "item.gunswithoutrosesadditions.terra_shotgun": "泰拉炮",
+  "item.gunswithoutrosesadditions.terra_shotgun.desc": "高伤害霰弹枪，也会发射魔力脉冲",
+  "item.gunswithoutrosesadditions.manasteel_bullet": "魔钢子弹",
+  "item.gunswithoutrosesadditions.elementium_bullet": "源质钢子弹",
+  "item.gunswithoutrosesadditions.elementium_bullet.desc": "附近有小精灵时获得增强",
+
+  "item.gunswithoutrosesadditions.balloon_bullet": "气球弹",
+  "item.gunswithoutrosesadditions.balloon_bullet.desc": "给目标系上气球"
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 7,
+  "currentVersion": "0.1.3",
+  "modpackName": "MiraclesJourney",
+  "modpackAuthor": "盈月工作室",
+  "modpackReleaseType": "beta",
+  "updateCheckerId": "https://proxy.qianfuv.fun/proxy/https://raw.githubusercontent.com/WaxingMoonStudio/Miracles-Journey-Pack/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": true,
+    "updateCheckerType": 2,
+    "addButton": true,
+    "mainMenuCreditsIntegration": true,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

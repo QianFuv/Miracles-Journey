@@ -1,0 +1,13 @@
+name = "I Wanna Skate"
+filename = "iwannaskate-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86d59d31031e1432f2eb7eb5bc823a65bcc5a683"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4069290
+project-id = 695018

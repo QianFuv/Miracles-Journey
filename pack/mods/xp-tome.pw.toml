@@ -1,0 +1,13 @@
+name = "XP Tome"
+filename = "xptome-1.19-2.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a75c7dc00aaac64e208755e964321fb7885b4113"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4061120
+project-id = 344787

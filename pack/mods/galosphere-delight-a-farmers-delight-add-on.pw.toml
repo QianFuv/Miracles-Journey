@@ -1,0 +1,13 @@
+name = "Galosphere Delight (A Farmer's Delight Add-on)"
+filename = "galosphere_delight_1.1.0_forge_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b8689440003c1442c7518a9260ea8be76253a01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4458374
+project-id = 689079

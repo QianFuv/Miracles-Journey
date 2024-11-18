@@ -1,0 +1,13 @@
+name = "Integrated Stronghold- End Remastered Integration"
+filename = "intstrong_endrem-1.0.0-1.18.2-1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a773e695768a7b41b582a5b31953d1abb2fc12a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4414172
+project-id = 832115

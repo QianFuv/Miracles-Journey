@@ -1,0 +1,13 @@
+name = "What Are They Up To (Watut)"
+filename = "watut-forge-1.19.2-1.0.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "091a5c75196e19482c3805216453ea747945d712"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5010131
+project-id = 945479

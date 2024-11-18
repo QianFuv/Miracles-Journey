@@ -1,0 +1,13 @@
+name = "Casualness Delight"
+filename = "casualness_delight-1.19.2-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1a15a21e18f9b5dc198bf1efc13b9531d0886eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5187338
+project-id = 909519

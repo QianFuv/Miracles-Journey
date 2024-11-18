@@ -1,0 +1,147 @@
+# BetaV0.0.8 更新日志
+
+## 新增内容
+
+1. 优化快速方块放置体验 --- AccurateBlockPlacement
+
+2. 为机械动力添加了多种装饰方块与实用功能 --- BellsAndWhistles
+
+3. 添加了一双泡泡靴 --- BubbleBoots
+
+4. 美化模组目录 --- Catalogue
+
+5. 优化矿洞生成 --- CaveOverHaul
+
+6. 美化控制界面 --- Controlling
+
+7. 添加了更多伪装方块衍生物 --- CopiesCats
+
+8. 为 Iron's Spells 'n Spellbooks 和机械动力添加联动 --- Wizardry
+
+9. 添加了一些荷兰小吃 --- Bitterballen
+
+10. 修复玩家的视角不会向伤害的方向倾斜的 Bug --- DamageTilt
+
+11. 扩展了机械动力的基本装饰能力 --- DesignDecor
+
+12. 添加了蔚蓝浩空和 Tetra 的联动 --- DimensionalAscension
+
+13. 丰富了铁砧的使用体验 --- EasyAnvils
+
+14. 添加了一些既可搭配原版也与模组良好适配的魔咒 --- Ensorcellation
+
+15. 使装备的比较更加便捷 --- EquipmentCompare
+
+16. 让玩家手动收获作物时掉落经验球 --- ExperiencedCrops
+
+17. 添加大量新功能来增强游戏体验, 包括生物, 结构和利用奥术力量的方法 --- Goety
+
+18. 添加巫师方面的魔法内容 --- Hexerei
+
+19. 允许玩家使用经验和技能来升级自己 --- ImprovableSkills3
+
+20. 添加了货币系统用于后期魔改 --- JacksEconomy
+
+21. 添加了简易刀剑对更多模组的支持 --- KnavesNeeds
+
+22. 便利加载模组导出, 为后续整合包发布奠基 --- LoadedModsExporter
+
+23. 添加了几个可被召唤的 Boss --- MeetYourFight
+
+24. 允许玩家快速设计建筑并打印为蓝图 --- TheMightyArchitectury
+
+25. 使玩家发送聊天文本时显示相应的聊天气泡并兼容光影 --- NotableBubbleText
+
+26. 丰富了切洋葱的神奇效果 --- OnionOnion
+
+27. 添加了多态合成与精致存储的兼容性 --- RefinedPolymorphism
+
+28. 更换生活调味料版本为苹果派版以增强体验 --- SpiceOfLifeApplePieEdition
+
+29. 提供了通过简单的小游戏制作寿司的途径 --- SushiGoCrafting
+
+30. 为 Tetra 添加了更多来自其他 Mod 的材料 --- TetraExtras
+
+31. 拓展了 Tetra 的内容, 增加了更多的武器类型以及来自其他模组的材料 --- TetraNicheMaterials
+
+32. 添加了染色营火 --- TintedCampfires
+
+33. 添加了结合苦力怕&史莱姆特性的 TNTSlime --- TNTSlimes
+
+34. 添加了关于豆腐的种种内容 --- TofuCraftReload
+
+35. 为豆腐工艺重制版与农夫乐事添加了联动内容 --- TofuDelight
+
+36. 为豆腐工艺重制版添加了基于机械动力的豆腐与豆奶配方 --- TofuCreate
+
+37. 添加了方便实用的垃圾桶 --- TrashSlot
+
+38. 加回指路石 --- Waystones
+
+39. 在玩家激活指路石时, 会在 Xaero 的世界地图和 Xaero 的小地图中创建一个路标点 --- XaerosMinimap&WorldMapWaystonesCompability
+
+## 调整内容
+
+1. 调整状态效果显示位置 --- InventoryHud
+
+2. 重新配置日志过滤项 --- LogBeGone
+
+3. 关闭部分模组加载贡献者的选项 --- Paucal
+
+4. 关闭自动行走, 远距选择, 地图提示和美西螈桶提示等配置 --- Quark
+
+5. 调整默认洞穴模式为"关闭" --- XaeroWorldMap
+
+6. 重制主菜单布局 --- FancyMenu
+
+7. 调整高亮显示提示框样式 --- Jade
+
+8. 关闭快捷 Emoji 代码 --- ModernUI
+
+9. 调整安全策略 --- NoChatReports
+
+10. 调整物品栏材质 --- GuiReTextures - 改
+
+11. 更换主世界群系模组 Arboria 为 Terralith --- Terralith
+
+12. 换回优化版 BetterDogs 材质包 --- BetterDogsOptimized
+
+13. 替换 OpenLoader 为功能更全面的 Paxi --- Paxi
+
+14. 换用更好的伤害显示模组 --- TslatEntityStatus
+
+15. 规范所有模组命名 --- ALL
+
+## 删除内容
+
+1. 删除红石优化模组以一点点的性能代价增强可玩性和与其他模组增加的红石元件的兼容性 --- AlternateCurrent
+
+2. 删除更好的鞘翅飞行以还原原汁原味的鞘翅飞行体验 --- BetterFlight
+
+3. 删除更好的标签模组(没啥用) --- BetterTags
+
+4. 删除更好的任务栏模组(冗余&用处不大) --- BetterTaskBar
+
+5. 删除不美观的花丛 --- BushierFlowers
+
+6. 删除多余的汽车模组 --- UltimateCarMod
+
+7. 删除半成品&少内容的机械动力太空附属 --- CreatingSpace
+
+8. 删除死亡调侃语(英文且很多梗国人无法理解, 有国内大佬翻译或自创语句后考虑加回) --- DeathQuotes
+
+9. 删除农夫乐事烹饪书(用处不大) --- FarmersDelight:CookBookReforged
+
+10. 删除受伤修正(Bug 较多) --- HurtFix
+
+11. 删除可视性能监测(用处不大) --- Observable
+
+12. 删除多重烟花火箭(用处不大) --- ReusableRockets
+
+13. 删除更智能的树叶腐烂判定(和树叶速腐不兼容) --- SeparatedLeaves
+
+14. 删除冗余的兼容内容 --- UnderGarden-TetraPatch
+
+## 错误修复
+
+无

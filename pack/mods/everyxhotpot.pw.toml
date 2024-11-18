@@ -1,0 +1,13 @@
+name = "EveryXHotpot"
+filename = "everyxhotpot-1.1.2BF2-1.19.2-TeaCon2023.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "108a1489346c0d59f218c7bad33b0b3c329f3137"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5855884
+project-id = 1130390

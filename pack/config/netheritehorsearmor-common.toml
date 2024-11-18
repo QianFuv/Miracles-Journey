@@ -1,0 +1,42 @@
+#If false, Horse Armor do not spawn inside Dungeon Chests. Default is true.
+EnableChestLoot = true
+
+["Loot Table Configs"]
+	#If false, then Horse Armor don't spawn in Village Weaponsmith Chests. Default is true.
+	VillageWeaponsmithChestLoot = true
+	#If false, then Horse Armor don't spawn in Ancient City Chests. Default is true.
+	AncientCityChestLoot = true
+	#If false, then Horse Armor don't spawn in Desert Pyramid Chests. Default is true.
+	DesertPyramidChestLoot = true
+	#If false, then Horse Armor don't spawn in Jungle Temple Chests. Default is true.
+	JungleTempleChestLoot = true
+	#If false, then Horse Armor don't spawn in Desert Pyramid Chests. Default is true.
+	SimpleDungeonChestLoot = true
+	#If false, then Horse Armor don't spawn in Stronghold Corridor Chests. Default is true.
+	StrongholdCorridorChestLoot = true
+	#If false, then Horse Armor don't spawn in End City Treasure Chests. Default is true.
+	EndCityTreasureChestLoot = true
+	#If false, then Horse Armor don't spawn in Nether Bridge Chests. Default is true.
+	NetherBridgeChestLoot = true
+	#If false, then Horse Armor don't spawn in Bastion Treasure Chests. Default is true.
+	BastionTreasureChestLoot = true
+	#If false, then Horse Armor don't spawn in Bastion Other Chests. Default is true.
+	BastionOtherChestLoot = true
+
+["Item in Chest Chances"]
+	#Chance that the Copper Horse Armor spawns inside a chest. Default is 0.25
+	#Range: 0.0 ~ 1.0
+	CopperHorseArmorInChestChance = 0.25
+	#Chance that the Chain Horse Armor spawns inside a chest. Default is 0.2
+	#Range: 0.0 ~ 1.0
+	ChainHorseArmorInChestChance = 0.2
+	#Chance that the Emerald Horse Armor spawns inside a chest. Default is 0.15
+	#Range: 0.0 ~ 1.0
+	EmeraldHorseArmorInChestChance = 0.15
+	#Chance that the Nether Horse Armor spawns inside a chest. Default is 0.15
+	#Range: 0.0 ~ 1.0
+	NetherHorseArmorInChestChance = 0.15
+	#Chance that the Enderite Horse Armor spawns inside a chest. Default is 0.1
+	#Range: 0.0 ~ 1.0
+	EnderiteHorseArmorInChestChance = 0.1
+

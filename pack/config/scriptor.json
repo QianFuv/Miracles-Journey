@@ -1,0 +1,6 @@
+{
+  "basicTomeMaxCost": 50,
+  "vocalCastingHungerThreshold": 300,
+  "vocalCastingHurtThreshold": 900,
+  "vocalCastingMaxCost": -1
+}

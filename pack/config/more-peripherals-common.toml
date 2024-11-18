@@ -1,0 +1,12 @@
+
+["Common Configs for More Peripherals"]
+	#Chance to get a mobs data when hit by a Spawner Card
+	#Range: 0.0 ~ 1.0
+	mobDataCaptureChance = 0.8999999761581421
+	#Conversion Rate for the Induction charger (1 RF = x Turtle Fuel
+	#Range: 0 ~ 4
+	conversionRate = 1
+	#Extraction Rate for each tick
+	#Range: 1 ~ 100
+	extractRate = 1
+

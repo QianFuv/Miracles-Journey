@@ -1,0 +1,13 @@
+name = "More Minecarts and Rails"
+filename = "moreminecarts-1.5.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c952c674b939183163ea424450bd492cb854a69e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4471589
+project-id = 440845

@@ -1,0 +1,13 @@
+name = "Enderman Overhaul"
+filename = "endermanoverhaul-forge-1.19.2-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdd03c5e11351b7105212ed6c4f75eae262aaf03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5305476
+project-id = 574409

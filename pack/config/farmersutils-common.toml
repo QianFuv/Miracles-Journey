@@ -1,0 +1,23 @@
+
+[settings]
+	enableVanillaIngredientStorages = true
+	"enableNether'sDelightIngredientStorages" = true
+
+[storages]
+	enableAppleBag = true
+	enableBrownMushroomBag = true
+	enableCocoaBeanBag = true
+	enableCrimsonFungusBag = true
+	enableGlowBerryBag = true
+	enableGoldenAppleBag = true
+	enableEggBox = true
+	enableKelpBlock = true
+	enableRedMushroomBag = true
+	enableSugarCaneBale = true
+	enableSweetBerryBag = true
+	enableWarpedFungusBag = true
+
+[compats]
+	enablePropelpearlBag = true
+	enablePropelplantCaneBale = true
+

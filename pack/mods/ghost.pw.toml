@@ -1,0 +1,13 @@
+name = "Ghost"
+filename = "ghosts-1.19.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "719bf60cfdf56ffedc5a92f23ea5b6bfd3e74430"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5561630
+project-id = 602665

@@ -1,0 +1,13 @@
+name = "Why Not Be One Item (WNBOI)"
+filename = "wnboi-0.0.4-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4acfa788af2ac401383343dd09fe8060abfcc983"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4687467
+project-id = 897562

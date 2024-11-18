@@ -1,0 +1,13 @@
+name = "Shield Expansion"
+filename = "ShieldExpansion-1.19.2-1.1.7a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6890095c802b15d20375a3a98730ba2e182f33bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5028350
+project-id = 583318

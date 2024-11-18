@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "39DD467AB6B9E000"
+	group: "01C777C56DCC833F"
+	id: "39DD467AB6B9E000"
+	order_index: 3
+	quest_links: [ ]
+	quests: [ ]
+	title: "精致存储"
+}

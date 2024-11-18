@@ -1,0 +1,13 @@
+name = "REBIRTH: Paintings"
+filename = "REBIRTH Paintings 5.0.0 Backport 1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "054581592ddd43feb65cd750aa2adf366dda7193"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4821821
+project-id = 535453

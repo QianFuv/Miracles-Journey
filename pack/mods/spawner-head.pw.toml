@@ -1,0 +1,13 @@
+name = "Spawner Head"
+filename = "spawnerhead-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4743c08eae206d640c8746b5644728051b6e9ba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4841230
+project-id = 522339

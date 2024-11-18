@@ -1,0 +1,13 @@
+name = "Difficult Raids [FORGE]"
+filename = "difficultraids-1.19.2-2.0-beta.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbaae717ea242d90293a223511d17201112e5e92"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4657842
+project-id = 599116

@@ -1,0 +1,16 @@
+
+#General settings
+[General]
+	#The maximum width of the bubble text before it wraps to a new line
+	#Range: 10 ~ 512
+	maxTextWidth = 200
+	#The offset above the entity's head at which the bubble renders
+	#Range: 0.0 ~ 10.0
+	YOffset = 0.5
+	#Render chat messages above players heads in a bubble
+	playerBubbles = true
+	#Offset the bubble text if the entity's name is rendered above their head
+	nameOffset = true
+	#Show the username of the player who sent the message in the bubble
+	showUsername = false
+

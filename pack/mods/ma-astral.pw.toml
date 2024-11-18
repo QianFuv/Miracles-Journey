@@ -1,0 +1,13 @@
+name = "Miner Arcana - Astral"
+filename = "astral-2.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2adc0046cd83ded56097e711642a77d73005b3f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581506
+project-id = 357652

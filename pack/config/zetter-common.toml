@@ -1,0 +1,6 @@
+
+#Painting options
+[painting]
+	#The size of paintings on that server [x16, x32, 64]
+	resolution = "x16"
+

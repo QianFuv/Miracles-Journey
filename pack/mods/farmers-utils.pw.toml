@@ -1,0 +1,13 @@
+name = "[Moved]Farmer's Utils"
+filename = "farmersutils-1.0.5-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2337ecdf5eab2c540e7b8fe1b4a95a4c43c94a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4986080
+project-id = 951155

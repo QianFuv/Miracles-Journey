@@ -1,0 +1,13 @@
+name = "Bag Of Holding [Forge & Fabric]"
+filename = "BagOfHolding-v4.1.6-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7fa513152823645e8657163e67e4f153dcf8a852"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111700
+project-id = 593996

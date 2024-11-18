@@ -1,0 +1,13 @@
+name = "Better Taskbar [Forge/Fabric]"
+filename = "bettertaskbar-forge-mc1.18.2-mc1.19.2-1.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c8f3193f7785cfe0b058991f49e79355bb808d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4276730
+project-id = 538793

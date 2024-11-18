@@ -1,0 +1,19 @@
+
+[items]
+
+	[items.bubble_boots]
+		## of bubble blocks that boots may produce before needing a recharge
+		"Maximum soapiness" = 75
+		#Amount of soapiness restored for each bar of soap used on boots
+		"Restoration amount" = 25
+		#Stepping on soap blocks restores soapiness to full.
+		"Soap block full restore" = true
+		#Standing in water or rain causes the boots to un-soap
+		"Bubble boots wash off" = false
+		#Walking with soapy boats causes the player to slip, as if stepping on soap blocks
+		"Slip and slide" = false
+
+	[items.trading]
+		#Armorers trade bubble boots in exchange for soap blocks, as an expert-level trade
+		"Armorers sell bubble boots" = true
+

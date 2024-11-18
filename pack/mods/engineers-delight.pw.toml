@@ -1,0 +1,13 @@
+name = "Engineers Delight"
+filename = "Engineers Delight 1.19.2 R.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac848f4d8218d6f220587dddb3b5ec8f3faafe84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5522776
+project-id = 861437

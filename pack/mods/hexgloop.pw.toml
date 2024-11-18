@@ -1,0 +1,13 @@
+name = "Hex Gloop"
+filename = "hexgloop-1.19.2-0.2.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdea8de2fd98a685d1da0dd8b40627431d68b0e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4945039
+project-id = 897558

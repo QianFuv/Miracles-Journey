@@ -1,0 +1,24 @@
+
+["SPAWN RESTRICTIONS"]
+	#Override default spawn rules for monsters. On TRUE, Monsters are then only allowed to spawn on a light level of 2 or below.
+	#The Overworld at night is light level 5, restricting the monsters to only spawn in dark caves.
+	Drowned = false
+	Husk = false
+	Stray = false
+	"Cave Spider" = false
+	Creeper = false
+	Enderman = false
+	Giant = false
+	Skeleton = false
+	Spider = false
+	Witch = false
+	Wither = false
+	WitherSkeleton = false
+	Zombie = false
+	ZombieVillager = false
+	Evoker = false
+	Illusioner = false
+	Ravager = false
+	Vex = false
+	Vindicator = false
+

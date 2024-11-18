@@ -1,0 +1,13 @@
+name = "Upgrade Aquatic"
+filename = "upgrade_aquatic-1.19.2-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0666a1e2ae0f21481f939ad9c9b36dbe8062feb3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4777515
+project-id = 326895

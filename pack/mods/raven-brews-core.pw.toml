@@ -1,0 +1,13 @@
+name = "Raven Brews Core"
+filename = "ravenbrewscore-forge-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b807f8c27c684ca60574d97d18663d0effa8ec9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5559519
+project-id = 575706

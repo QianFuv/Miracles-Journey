@@ -1,0 +1,13 @@
+name = "ContingameIME"
+filename = "ContingameIME-1.0.6-1.19.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65cd0d75de342191272d61362571541d885d669d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4685350
+project-id = 835640

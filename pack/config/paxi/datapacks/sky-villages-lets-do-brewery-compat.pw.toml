@@ -1,0 +1,13 @@
+name = "Sky Villages - Let's Do Brewery Compat"
+filename = "SkyVillages-LetsDoBrewery-1.20.1-1.0.4.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11a434f843b02d8a1230e32849bae1d5d9c98cdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5396386
+project-id = 1029667

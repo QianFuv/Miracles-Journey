@@ -1,0 +1,111 @@
+
+["Wave Amounts"]
+	#Number of waves in a Raid on Easy difficulty.
+	#Range: > 1
+	waveCountEasy = 3
+	#Number of waves in a Raid on Normal difficulty.
+	#Range: > 1
+	waveCountNormal = 5
+	#Number of waves in a Raid on Hard difficulty.
+	#Range: > 1
+	waveCountHard = 7
+	#Advanced config. Only edit if you're working with the datapack configuration!
+	#Determines how the mod will handle the case where a raider does not have a spawn count defined for a wave.
+	#This can happen if the number of waves is changed, but the spawn counts list for a raider is not updated.
+	#ZERO: The raider will not spawn if it does not have a spawn count defined for the current wave.
+	#REPEAT: The raider will spawn with the last wave's (whatever the last registered wave is for it) spawn count for the current wave.
+	#Allowed Values: ZERO, REPEAT
+	arrayOverflowMode = "ZERO"
+	#If enabled, this will make it so that if a raider is not registered implicitly by DifficultRaids, or a datapack, it will not spawn in higher difficulty raids.
+	#This can be used if you want full control over raid spawns, and do not want other mods to inject their raiders if not registered by DifficultRaids or a datapack.
+	restrictiveMode = false
+
+["Raid Mechanics"]
+	#Search radius of the Bell when hit.
+	#WARNING: This can cause a decent bit of lag at high radius values because it will search more and more blocks around the village center.
+	#Vanilla Minecraft uses a radius of 48 blocks.
+	#Range: 0.0 ~ 2.147483647E9
+	bellSearchRadius = 256.0
+	#Toggles whether arrows fired by Raiders (such as Pillagers) can deal damage to other Raiders.
+	friendlyFireArrowsEnabled = false
+
+[UI]
+	#If there are fewer raiders alive than this threshold, they will be highlighted permanently. Set to 0 to disable highlighting.
+	#Range: > 0
+	highlightThreshold = 3
+	#Toggles whether Boss Bars for Elite Raiders/Bosses will show up during Raids.
+	#Enabling this will create Boss Event Bars for:
+	#DifficultRaids: Nuaos, Xydrax, Voldon, Modur
+	#Illage & Spillage: Freakager, Magispeller, Spiritcaller
+	#Dungeons Mobs: Redstone Golem
+	#Leo's Illagers: Lightningcaller, Clownager
+	bossBarsEnabled = true
+	#Determines if wave information will show up in the Raid Event title.
+	showWaveInformation = true
+
+["Insanity Mode"]
+	#Activate Insanity mode.
+	#'Detecting hundreds of raiders in the region. Are you certain whatever you're doing is worth it?'
+	insanityMode = false
+	#The multiplier for the number of raiders spawned in Insanity mode.
+	#This gets applied on top of whatever difficulty a Raid is at. This will not apply to Default Raids.
+	#Range: 1.0 ~ 1.7976931348623157E308
+	insanityCountMultiplier = 3.0
+
+#Customize which Raiders will show up in Raids. By default, all raiders are enabled.
+["Enabled Raiders"]
+	enableVindicators = true
+	enableEvokers = true
+	enablePillagers = true
+	enableWitches = true
+	enableRavagers = true
+	enableIllusioners = true
+	enableWarriors = true
+	enableDarts = true
+	enableConductors = true
+	enableNecromancers = true
+	enableShamans = true
+	enableTanks = true
+	enableAssassins = true
+	enableFrostmages = true
+	enableAshenmancers = true
+
+	["Enabled Raiders"."Requires HunterIllager"]
+		enableHunters = true
+
+	["Enabled Raiders"."Requires EnchantWithMob"]
+		enableEnchanters = true
+
+	["Enabled Raiders"."Requires It Takes a Pillage"]
+		enableArchers = true
+		enableSkirmishers = true
+		enableLegioners = true
+
+	["Enabled Raiders"."Requires Illage & Spillage"]
+		enableIgniters = true
+		enableTwittollagers = true
+		enablePreservers = true
+		enableAbsorbers = true
+		enableCrocofangs = true
+		enableMagispellers = true
+		enableSpiritcallers = true
+		enableFreakagers = true
+		enableBossRandomizers = true
+
+	["Enabled Raiders"."Requires Savage and Ravage"]
+		enableGriefers = true
+		enableExecutioners = true
+		enableTricksters = true
+		enableSavageRavageIceologers = true
+
+	["Enabled Raiders"."Requires Dungeon Mobs"]
+		enableMountaineers = true
+		enableRoyalGuards = true
+		enableGeomancers = true
+		enableDungeonMobsIllusioners = true
+		enableMages = true
+		enableDungeonMobsIceologers = true
+		enableWindcallers = true
+		enableSquallGolems = true
+		enableRedstoneGolems = true
+

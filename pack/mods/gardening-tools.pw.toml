@@ -1,0 +1,13 @@
+name = "Gardening Tools"
+filename = "gardentools-1.19-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b9626b2156c9ac0523af4b0bb0ec4d98a0777fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3916041
+project-id = 351990

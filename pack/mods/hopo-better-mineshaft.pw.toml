@@ -1,0 +1,13 @@
+name = "Hopo Better Mineshaft (Fabric/Forge/NeoForge)"
+filename = "HopoBetterMineshaft-[1.19-1.19.3]-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9be13bc258fe29a6443013aedd142d95455a5b88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4391679
+project-id = 623723

@@ -1,0 +1,13 @@
+name = "Storage Delight (Forge & Neoforge)"
+filename = "storagedelight-24.8.1-1.19.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3363cb25b30c1221b1a648dc5b4e6ba97027a46f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5584723
+project-id = 979761

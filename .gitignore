@@ -1,0 +1,7 @@
+/pack/sync.ffs_db
+
+/wiki/.vitepress/dist
+/wiki/.vitepress/cache
+/wiki/node_modules/
+
+* -text

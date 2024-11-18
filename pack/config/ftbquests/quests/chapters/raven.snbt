@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "raven"
+	group: "4242DE057F7B23FB"
+	id: "47852271C4632468"
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+	title: "Raven咖啡"
+}

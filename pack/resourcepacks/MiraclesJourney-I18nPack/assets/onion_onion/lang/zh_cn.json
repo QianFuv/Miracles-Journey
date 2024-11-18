@@ -1,0 +1,14 @@
+{
+  "item.onion_onion.onion_slice": "洋葱片",
+  "item.onion_onion.onion_rings": "洋葱圈",
+  "item.onion_onion.motley_grill": "碗装杂烩焗饭",
+  "block.onion_onion.motley_grill_block": "杂烩焗饭",
+
+  "death.attack.onion_damage": "%s伤心过头",
+  "death.attack.onion_damage.player": "%1s在试图逃离%2s时伤心过头",
+
+  "advancements.onion_onion.onion_ninja.description": "在隐身状态下通过切洋葱使10个生物流泪",
+  "advancements.onion_onion.onion_ninja.title": "那群忍者又在切洋葱了...",
+  "advancements.onion_onion.onion_ghast.description": "在恶魂附近切洋葱来使其流泪",
+  "advancements.onion_onion.onion_ghast.title": "泪流成河"
+}

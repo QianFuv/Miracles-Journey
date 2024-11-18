@@ -1,0 +1,3 @@
+#should the totem teleport the user back to respawn point on activation
+totem-teleport-to-spawn = false
+

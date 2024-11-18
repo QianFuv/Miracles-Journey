@@ -1,0 +1,50 @@
+
+# Client Settings for Enchantment Sort
+[client]
+	# Whether sort the enchantments by its level
+	# default: true
+	sotByLevel = true
+	# Whether to sort the treasure enchantment independently
+	# This configuration has further info, see [client.IndieTreasure]
+	# default: true
+	indieTreasure = false
+	# Whether sort the enchantments on enchanted book
+	# default: false
+	alsoSortBook = true
+	# Sort the enchantments in ascending order
+	# default: false
+	ascendingSort = false
+	# Display the original order when shift pressed
+	# default: false
+	sneakDisplay = false
+	# Whether to show the max level of the enchantments
+	# This configuration has further info, see [client.ShowMaxLevel]
+	# default: false
+	showMaxLevel = true
+	# Compatible mode (may cause performance losses)
+	# Enable this config will invalidate {showMaxLevel} & {highlightTreasure}
+	# default: false
+	compatibleMode = false
+	# Enable this if you encounter issues with missing item icons of the Quark enchanted book tooltips
+	# default: true
+	enable_quark_compatibility = true
+	# Whether to highlight the treasure enchantments (except curse)
+	# This configuration has further info, see [client.HighLightTreasure]
+	# default: false
+	highlightTreasure = false
+
+	[client.IndieTreasure]
+		# Whether to sort the treasure on reverse side
+		# default: false
+		reverseTreasure = false
+
+	[client.ShowMaxLevel]
+		# The format list of the max level text
+		# Use Formatting code or RGB format (#xxxxxx)
+		maxLevelFormat = ["DARK_GRAY"]
+
+	[client.HighlightTreasure]
+		# The format list of treasure enchantments
+		# Use Formatting code or RGB format (#xxxxxx)
+		treasureFormat = ["DARK_GRAY"]
+

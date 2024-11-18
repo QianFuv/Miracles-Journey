@@ -1,0 +1,89 @@
+# BetaV0.1.0 更新日志
+
+## 新增内容
+
+- 加入了新的种子（橡子，松果，瓜子，玫瑰果和樱桃等）相关食物 --- SeedDelight
+- 添加了几种泰拉瑞亚风格的枪炮 --- GunsWithoutRoses
+- 增加了 GunsWithoutRoses 和其他模组的联动 --- GunsWithoutRosesAdditions
+- 加入了超可爱的小仓鼠 --- HamstersPlus
+- 在玩家所发送的信息前显示其皮肤头像 --- ChatHeads
+- 新增 IntegratedStronghold 联动数据包 --- IntegratedStrongholdEndRemasteredIntegration / IntegratedStrongholdTheGraveyardIntegration / IntegratedStrongholdAlexsMobsIntegration
+- 为天境系列材料提供 Tetra 支持 --- AethericTetranomicon
+- 加入了六种恐鸟护甲 --- ProtectYourMoa
+- HarvestWithEase 前置 Lib --- CobWeb
+
+
+## 修改内容
+
+- 关闭聊天泡泡信息前的名字显示 --- NotableBubbleText
+- 删除冗余的配置文件 --- Config
+- 更新汉化 --- I18n
+
+
+## 删除内容
+
+- 整合包模组已基本确定，无需检测 --- Mcretector
+- 优化效果不明显且拖慢加载速度 --- Redirector
+- 某些情况下与精致存储冲突导致崩溃 --- SmoothSwapping
+- 影响性能，与部分模组渲染冲突 --- SkinLayers3D
+- 与 IntegratedStronghold 内容冲突且没有前者质量高 --- YUNGsBetterStrongholds
+- 功能鸡肋且兼容性极差 --- JustEnoughResources / JerIntegration
+- 部分附魔不生效且有坏档恶性 Bug --- MaEnchants
+
+
+## 错误修复
+
+- 修复了部分模组物品在物品栏中会导致物品栏材质丢失的 Bug --- ImmediatelyFast
+
+## 模组更新
+
+- Artifacts --- V5.0.5 -> V5.0.6
+- ArmourersWorkshop --- V3.0.0beta4 -> V2.1.4
+- ArsAdditions --- V1.0.1 -> V1.4.0
+- ArtOfForging --- V1.7.4 -> V1.7.5
+- BetterDogsXDoggyTalentsNext --- V1.2.1 -> V1.2.2
+- CasinoCraft --- V23 -> V24
+- Collective --- V7.56 -> V7.61
+- CreateConnected --- V0.7.4 -> V0.8.2
+- CreateDreams&Desires --- V0.2.5b -> V0.1b
+- CreateEncased --- V1.6.0ht1 -> V1.6.0fix2
+- CreateGarnished --- V1.7.5 -> V1.8.1
+- CreatePowerLoader --- V1.4.0 -> V1.5.0
+- CreateRailwaysNavigator --- V0.5.1beta -> V0.5.3beta
+- CreateSteamNRails --- V1.6.2 -> V1.6.4
+- CreateVintageImprovements --- V0.1.4.0 -> V0.1.4.1
+- DoggyTalentsNext --- V1.18.11 -> V1.18.15
+- DragonMountsLegacy --- V1.2.2 -> V1.2.3
+- Embeddium++ --- V1.2.10 -> V1.2.13
+- Exposure --- V1.5.1 -> V1.6.0
+- FancyMenu --- V3.2.2 -> V3.2.3
+- FtbXModCompat --- V1.2.3 -> V1.2.4
+- Goety --- V2.34.0 -> V2.35.1
+- HarvestWithEase --- V8.0.1.0 -> V9.0.0.3beta
+- I18nUpdateMod --- V3.5.3 -> V3.5.5
+- ImmediatelyFast --- V1.2.14 -> V1.2.17
+- IronsSpellsNSpellbooks --- V3.1.4 -> V3.1.7
+- Neruina --- V1.3.0 -> V2.0.0beta10
+- NotableBubbleText --- V1.0.1 -> V1.0.3
+- PacketFixer --- V1.3.2 -> V1.4.0
+- SeasonHUD --- V1.7.19 -> V1.8.2
+- SimpleHats --- V0.2.4 -> V0.3.0
+- SimpleVoiceChat --- V2.5.13 -> V2.5.15
+- SoundPhysicsRemastered --- V1.3.1 -> V1.4.2
+- SuggestionTweaker --- V1.5.1 -> V1.5.2
+- TaxFreeLevels --- V1.3.10 -> V1.3.13
+- TetraExtras --- V0.1.3 -> V0.1.4
+- TintedCampfires --- V1.2.8 -> V1.2.9
+- Titanium --- V3.7.4-30 -> V3.7.4-31
+- TheAetherRedux --- V2.0.12b -> V2.0.15
+- UpgradedMobs --- V1.3.2 -> V1.3.4
+- XaeroPlus --- V2.9 -> V2.11
+- XtraArrows --- V3.0.6 -> V3.0.6.1
+
+## 资源包更新
+
+- 暂无
+
+## 数据包更新
+
+- 暂无

@@ -1,0 +1,21 @@
+{
+  "item.queen_bee.stinger": "Stinger",
+  "item.queen_bee.queen_bee_spawn_egg": "Queen Bee Spawn Egg",
+  "item.queen_bee.stinger_sword": "Stinger Sword",
+  "item.queen_bee.antenna": "Antenna",
+
+  "tooltip.queen_bee.item.shift_up": "Press SHIFT for more info!",
+  "tooltip.queen_bee.stinger_sword": "When antenna is equipped, Shift + Right click to summon a friendly bee that will give you and nearby friends the regeneration effect. Also, this sword inflicts poison and nausea.",
+  "tooltip.queen_bee.antenna": "When equipped bees will never aggro on you.",
+
+  "advancement.queen_bee.it_shouldnt_bee_edible.title": "It Shouldn't Bee Edible",
+  "advancement.queen_bee.it_shouldnt_bee_edible.descr": "Eat the bee stinger",
+  "advancement.queen_bee.im_the_queen.title": "I'm The Queen",
+  "advancement.queen_bee.im_the_queen.descr": "Defeat Queen Bee and get her antennas",
+  "advancement.queen_bee.root.title": "Queen Bee Mod",
+  "advancement.queen_bee.root.descr": "Queen Bee mod advancements",
+
+  "entity.queen_bee.queen_bee": "Queen Bee",
+
+  "itemGroup.queen_bee": "Queen Bee"
+}

@@ -1,0 +1,11 @@
+{
+  "menu.tabs.inventory": "背包",
+  "menu.tabs.attribute": "数值",
+  "menu.tabs.attribute.detail": "按Shift显示细节",
+  "menu.tabs.attribute.base": "基础数值: %s",
+  "menu.tabs.attribute.add": "加法乘区: %s",
+  "menu.tabs.attribute.mult_base": "乘法乘区: %s",
+  "menu.tabs.attribute.mult_all": "独立乘法乘区: %s",
+  "menu.tabs.attribute.format": "(%s%s)x(1%s)x%s=%s",
+  "menu.tabs.curios": "饰品栏"
+}

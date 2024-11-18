@@ -1,0 +1,6 @@
+
+["Tectonic BOP Biome Layout"]
+	#Assign biome layout by selecting desired overworld.json file.
+	#OPTIONS: bop (default), bopAlt (more bop, less vanilla), bopSkylands, bopAltSkylands, bopTerratonic, vanilla
+	overworld_json_config_entry = "bop"
+

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zetter"
+	group: "375C1B0C652A4A81"
+	id: "48CACEEF5436856C"
+	order_index: 21
+	quest_links: [ ]
+	quests: [ ]
+	title: "Zetter"
+}

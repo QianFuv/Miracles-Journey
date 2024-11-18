@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Friends and Foes Compat Datapack"
+filename = "Repurposed_Structures-Friends_And_Foes_v3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0de59daf4183db112f343b7f8a683946eeb0bc4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053021
+project-id = 592278

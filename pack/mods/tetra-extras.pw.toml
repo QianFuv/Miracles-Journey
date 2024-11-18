@@ -1,0 +1,13 @@
+name = "Tetra Extras"
+filename = "tetraextras-0.1.4-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03209e1bd8cf65e6a2a9023fc3dd9b4795079412"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5334310
+project-id = 926060

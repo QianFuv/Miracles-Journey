@@ -1,0 +1,13 @@
+name = "Chef's Delight [Forge]"
+filename = "chefs-delight-1.0.2-forge-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a518e099a704f8caa7b0d1b6535433842a4904db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4517363
+project-id = 832983

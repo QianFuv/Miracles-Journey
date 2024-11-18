@@ -1,0 +1,28 @@
+name: "汉化请求"
+description: "对一些模组的汉化请求"
+labels: ["B: 汉化请求"]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "在提交issue之前, 请检查以下两项内容:"
+    options:
+    - label: "**目前我的客户端是最新的** 务必使用开发版客户端并检查模组是否汉化"
+      required: true
+    - label: "**不存在重复的请求** 我已在[Issue-汉化请求页面](https://github.com/Qian-F/Miracles-Journey/issues?q=label%3A%22B%3A+%E4%BC%98%E5%8C%96%E5%BB%BA%E8%AE%AE%22)中搜索并确认, 确认了这一汉化未被请求过"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 描述
+    description: "描述一下目前模组的汉化程度和你期待的汉化程度"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 汉化附件
+    description: "上传模组的语言文件, 如果汉化资源包内也有相关文件, 请一并上传"
+  validations:
+    required: true

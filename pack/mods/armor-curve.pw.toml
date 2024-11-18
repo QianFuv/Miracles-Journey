@@ -1,0 +1,13 @@
+name = "[FORGE/FABRIC] Armor Curve"
+filename = "armorcurve-3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86123e0cb9540b74108fa65b1dae8b96b2f8d659"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4460941
+project-id = 377088

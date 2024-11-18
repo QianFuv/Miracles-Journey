@@ -1,0 +1,38 @@
+#If true, Hot Spring Water makes infinite water sources, like vanilla water does.
+"Creates Source Blocks" = false
+#The namespaced effect that Hot Spring Water applies to entities. If the given effect isn't found (or left blank), no effect is applied.
+"Potion Effect" = "minecraft:regeneration"
+#The duration of the effect, in ticks. 20 ticks = 1 second.
+#Range: > 1
+"Potion Effect Timer" = 50
+#The amplifier of the effect. 0 is level 1.
+#Range: 0 ~ 255
+"Potion Effect Amplifier" = 0
+
+#Some of these settings require any open world to be closed and reopened.
+[worldgen]
+	#By default, Hot Springs only generate in biomes that are not in the "simplyhotsprings:hot_springs_blacklist" biome tag.
+	#The command "/simplyhotsprings" has a few subcommands that will help you test your Hot Springs.To see how to use "/simplyhotsprings", run the command "/simplyhotsprings help".
+	#For more useful information, visit the wiki at https://github.com/connor135246/Simply-Hot-Springs/wiki
+	#(Also, this config setting does nothing, so put whatever you want in here.)
+	"#HOW TO" = ["You can find screenshots of the different types of Hot Springs at https://github.com/connor135246/Simply-Hot-Springs/wiki/Hot-Spring-Types"]
+	#Controls whether "default" Hot Springs generate.
+	#These are the normal Hot Springs. They look just like vanilla's pre-1.18 water lakes. They generate on the surface in most biomes and are somewhat rare.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Enable \"Default\" Hot Springs" = true
+	#Controls whether "big" Hot Springs generate.
+	#These look like the normal Hot Springs, but are much wider and deeper. They're also rarer than normal Hot Springs.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Enable \"Big\" Hot Springs" = false
+	#Controls whether "wellspring" and "big_wellspring" Hot Springs generate.
+	#Wellsprings are geysers of Hot Spring Water that pour out of the ground and into the air. Follow them underground to find large pockets of Hot Spring Water. Big wellsprings are rarer and may have lava lakes below them.
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Enable \"Wellspring\" Hot Springs" = false
+	#When a Hot Spring generates in the world, prints the location to console.
+	"Generation Debug" = false
+	#A list of biomes and their specific types of grass.
+	#By default, dirt around Hot Springs will be turned into grass. But some biomes have their own specific grass type which you need to tell Simply Hot Springs about.
+	#The format is "modid:biome;modid:block[states]".
+	#If you change this setting with a world open, it must be closed and reopened for the changes to take effect.
+	"Biome Grasses" = ["minecraft:mushroom_fields;minecraft:mycelium", "biomesoplenty:origin_valley;biomesoplenty:origin_grass_block", "biomesoplenty:redwood_forest;minecraft:podzol"]
+

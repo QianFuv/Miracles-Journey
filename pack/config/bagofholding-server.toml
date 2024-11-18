@@ -1,0 +1,42 @@
+#Chance that one level of preservation will be lost on a bag of holding when dying.
+#Range: 0.0 ~ 1.0
+preservation_level_loss_chance = 1.0
+#Allow using the mouse wheel to scroll between slots to choose the next item to extract when hovering over a container item.
+allow_slot_cycling = true
+
+[golden_bag_config]
+	#Items that should not be allowed in a bag, mainly intended to prevent nesting with backpacks from other mods.
+	#Shulker boxes and other bags of holding are disabled by default.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_blacklist = []
+	#Only items in this list will be allowed in a bag. Must contain at least a single entry to be valid. Overrides blacklist when valid.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_whitelist = []
+	#Amount of inventory rows this type of bag of holding has.
+	#Range: 1 ~ 9
+	rows = 6
+
+[leather_bag_config]
+	#Items that should not be allowed in a bag, mainly intended to prevent nesting with backpacks from other mods.
+	#Shulker boxes and other bags of holding are disabled by default.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_blacklist = []
+	#Only items in this list will be allowed in a bag. Must contain at least a single entry to be valid. Overrides blacklist when valid.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_whitelist = []
+	#Amount of inventory rows this type of bag of holding has.
+	#Range: 1 ~ 9
+	rows = 1
+
+[iron_bag_config]
+	#Items that should not be allowed in a bag, mainly intended to prevent nesting with backpacks from other mods.
+	#Shulker boxes and other bags of holding are disabled by default.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_blacklist = []
+	#Only items in this list will be allowed in a bag. Must contain at least a single entry to be valid. Overrides blacklist when valid.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. Path may use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*shulker_box" to match all shulker boxes no matter of color.
+	bag_of_holding_whitelist = []
+	#Amount of inventory rows this type of bag of holding has.
+	#Range: 1 ~ 9
+	rows = 3
+

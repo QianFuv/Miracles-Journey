@@ -1,0 +1,36 @@
+{
+  "entity.witchmobility.basic_broom":"Basic Broom",
+  "entity.witchmobility.blue_bottle_broom":"Blue Bottle Broom",
+  "entity.witchmobility.firebolt_broom":"Firebolt Broom",
+  "entity.witchmobility.silver_arrow_broom":"Silver Arrow Broom",
+  "entity.witchmobility.swiftstick_broom":"Swiftstick Broom",
+  "entity.witchmobility.woodshade_broom":"Woodshade Broom",
+
+  "item.witchmobility.basic_broom_item":"Basic Broom",
+  "item.witchmobility.blue_bottle_broom_item":"Blue Bottle Broom",
+  "item.witchmobility.firebolt_broom_item":"Firebolt Broom",
+  "item.witchmobility.silver_arrow_broom_item":"Silver Arrow Broom",
+  "item.witchmobility.swiftstick_broom_item":"Swiftstick Broom",
+  "item.witchmobility.woodshade_broom_item":"Woodshade Broom",
+
+  "item.witchmobility.apprentice_witch_hat":"Apprentice Witch Hat",
+  "item.witchmobility.diamond_witch_hat":"Diamond Witch Hat",
+  "item.witchmobility.gold_witch_hat":"Gold Witch Hat",
+  "item.witchmobility.amethyst_witch_hat":"Amethyst Witch Hat",
+  "item.witchmobility.witch_suit":"Witch Suit",
+
+  "tootip.broom": "Press §eCTRL§r to see more details",
+  "tooltip.witch_hat.apprentice": "§7It behaviors like a leather helmet",
+  "tooltip.witch_hat.amethyst": "§7It behaviors like a netherite helmet",
+  "tooltip.witch_hat.diamond": "§7It behaviors like a diamond helmet",
+  "tooltip.witch_hat.gold": "§7It behaviors like a gold helmet",
+  "tooltip.broom.agility_bonus": "§7+%s §7Broom Agility",
+  "tooltip.broom.speed_bonus": "§7+%s §7Broom Speed",
+
+  "tooltip.broom.agility": "§7%s §7Broom Agility",
+  "tooltip.broom.speed": "§7%s §7Broom Speed",
+
+  "itemGroup.witch_mobility": "Witch Mobility",
+
+  "itemGroup.witchmobility.witch": "Witch Mobility"
+}

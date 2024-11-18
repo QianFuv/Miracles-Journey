@@ -1,0 +1,13 @@
+name = "Hexal"
+filename = "hexal-forge-1.19.2-0.2.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f12b648f2927244c0b25d73c3e3bd33b38232100"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5099162
+project-id = 824725

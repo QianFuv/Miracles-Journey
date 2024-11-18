@@ -1,0 +1,13 @@
+name = "With Thursday Delight"
+filename = "ThursdayDelight-Forge-1.19.2-1.0.3 .jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4177b385914efe2fac969832a9b514ed0c630202"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4401258
+project-id = 724317

@@ -1,0 +1,13 @@
+name = "It's Magispelling Time"
+filename = "magispelling-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a2afdb8c0ab1d45bfb39c34bb33f3476b6d827"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5467252
+project-id = 1027998

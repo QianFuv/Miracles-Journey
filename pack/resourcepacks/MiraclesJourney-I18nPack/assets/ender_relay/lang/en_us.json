@@ -1,0 +1,9 @@
+{
+  "block.ender_relay.ender_relay": "Ender Relay",
+
+  "ender_relay.obstructed": "Location is obstructed",
+  "ender_relay.out_of_bounds": "Location is out of bounds",
+  "ender_relay.same_location": "Cannot teleport while already at destination",
+  "ender_relay.empty_location": "Lodestone position is not set",
+  "ender_relay.lodestone_destroyed": "Lodestone was destroyed"
+}

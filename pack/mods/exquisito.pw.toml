@@ -1,0 +1,13 @@
+name = "Exquisito"
+filename = "exquisito-1.19.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b49bf7cdd25ebadf6fee0a3479d47f69cc882fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5264882
+project-id = 859262

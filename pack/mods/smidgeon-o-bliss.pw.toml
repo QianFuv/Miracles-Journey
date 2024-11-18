@@ -1,0 +1,13 @@
+name = "Smidgeon O' Bliss (Food Compat for Create, FD, etc.)"
+filename = "SmidgeonOBliss-1.19.2-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a68af45dc417e1f24bd56b0973d3827cdd4682"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4841468
+project-id = 842043

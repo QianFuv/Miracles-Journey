@@ -1,0 +1,5 @@
+
+[logbegone]
+	phrases = ["Using missing texture, unable to load", "Failed to fetch dev cape data", "Couldn't parse data file rs_ctr2:manual/zh_cn/templates/spotlight", "Failed to load patreon information", "Exception loading patreon", "Detected setBlock in a far chunk"]
+	regex = []
+

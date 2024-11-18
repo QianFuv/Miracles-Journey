@@ -1,0 +1,13 @@
+name = "Maced"
+filename = "Maced-Forge-1.19.2-24w13a-2.0.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fdfe5a18352b2c9cdd3c2a14bea87005653bd2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5219307
+project-id = 992767

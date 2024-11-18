@@ -1,0 +1,173 @@
+
+[Attacking]
+	#Using stamina for attacking
+	enableForAttacking = false
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for attacking
+	#Range: 1 ~ 20
+	costsForAttacking = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for attacking
+	#Range: 0 ~ 20
+	minimumForAttacking = 2
+	#Decrease feathers bar value by the defined costs after attacking for X times
+	#Range: 1 ~ 10
+	ExhaustAfterAttackingFor = 3
+	#Using stamina for attacking only when hitting entities
+	onlyForHits = true
+	#Using stamina for attacking for any items in the main hand (even without any)
+	alsoForNonWeapons = false
+	#Determines how much additional stamina is spent when attacking entities with weapons depending on the attack weapons attack damage
+	#Range: 0.0 ~ 1.0
+	attackDamageMultiplier = 0.0
+
+[Sprinting]
+	#Using stamina for sprinting
+	enableForSprinting = true
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for sprinting
+	#Range: 1 ~ 20
+	costsForSprinting = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for sprinting
+	#Range: 0 ~ 20
+	minimumForSprinting = 2
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  sprinting
+	#Range: 0 ~ 10
+	initialCostsForSprinting = 0
+	#Defines whether sprinting should stop the regeneration of feathers
+	stopRegenerationWhileSprinting = true
+	#Decrease feathers bar value by the defined costs after sprinting for X ticks
+	#Range: 1 ~ 1200
+	ExhaustAfterSprintingFor = 75
+
+[Flying]
+	#Using stamina for flying (for Elytra and Angel Ring)
+	enableForFlying = true
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for flying (for Elytra and Angel Ring)
+	#Range: 1 ~ 20
+	costsForFlying = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for flying (for Elytra and Angel Ring)
+	#Range: 0 ~ 20
+	minimumForFlying = 2
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  flying (for Elytra and Angel Ring)
+	#Range: 0 ~ 10
+	initialCostsForFlying = 0
+	#Defines whether flying (for Elytra and Angel Ring) should stop the regeneration of feathers
+	stopRegenerationWhileFlying = true
+	#Decrease feathers bar value by the defined costs after flying for X ticks (for Elytra and Angel Ring)
+	#Range: 1 ~ 1200
+	ExhaustAfterFlyingFor = 50
+
+[Paragliding]
+	#Using stamina for paragliding
+	enableForParagliding = true
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for paragliding
+	#Range: 1 ~ 20
+	costsForParagliding = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for paragliding
+	#Range: 0 ~ 20
+	minimumForParagliding = 2
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  paragliding
+	#Range: 0 ~ 10
+	initialCostsForParagliding = 0
+	#Defines whether paragliding should stop the regeneration of feathers
+	stopRegenerationWhileParagliding = true
+	#Decrease feathers bar value by the defined costs after paragliding for X ticks
+	#Range: 1 ~ 1200
+	ExhaustAfterParaglidingFor = 50
+
+[Crawling]
+	#Using stamina for crawling (for Vanilla, Parcool, GoProne & Personality Mod)
+	enableForCrawling = true
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for crawling (for Vanilla, Parcool, GoProne & Personality Mod)
+	#Range: 1 ~ 20
+	costsForCrawling = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for crawling (for Vanilla, Parcool, GoProne & Personality Mod)
+	#Range: 0 ~ 20
+	minimumForCrawling = 1
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  crawling (for Vanilla, Parcool, GoProne & Personality Mod)
+	#Range: 0 ~ 10
+	initialCostsForCrawling = 0
+	#Defines whether crawling (for Vanilla, Parcool, GoProne & Personality Mod) should stop the regeneration of feathers
+	stopRegenerationWhileCrawling = true
+	#Decrease feathers bar value by the defined costs after crawling for X ticks (for Vanilla, Parcool, GoProne & Personality Mod)
+	#Range: 1 ~ 1200
+	ExhaustAfterCrawlingFor = 65
+
+[Swimming]
+	#Using stamina for swimming
+	enableForSwimming = false
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for swimming
+	#Range: 1 ~ 20
+	costsForSwimming = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for swimming
+	#Range: 0 ~ 20
+	minimumForSwimming = 0
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  swimming
+	#Range: 0 ~ 10
+	initialCostsForSwimming = 0
+	#Defines whether swimming should stop the regeneration of feathers
+	stopRegenerationWhileSwimming = true
+	#Decrease feathers bar value by the defined costs after swimming for X ticks
+	#Range: 1 ~ 1200
+	ExhaustAfterSwimmingFor = 150
+
+[Jumping]
+	#Using stamina for jumping
+	enableForJumping = false
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for jumping
+	#Range: 1 ~ 20
+	costsForJumping = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for jumping
+	#Range: 0 ~ 20
+	minimumForJumping = 0
+	#Decrease feathers bar value by the defined costs after jumping for X times
+	#Range: 1 ~ 10
+	ExhaustAfterJumpingFor = 1
+
+[HoldingTheShield]
+	#Using stamina for holding the shield
+	enableForHoldingTheShield = true
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for holding the shield
+	#Range: 1 ~ 20
+	costsForHoldingTheShield = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for holding the shield
+	#Range: 0 ~ 20
+	minimumForHoldingTheShield = 1
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  holding the shield
+	#Range: 0 ~ 10
+	initialCostsForHoldingTheShield = 0
+	#Defines whether holding the shield should stop the regeneration of feathers
+	stopRegenerationWhileHoldingTheShield = true
+	#Decrease feathers bar value by the defined costs after holding the shield for X ticks
+	#Range: 1 ~ 1200
+	ExhaustAfterHoldingTheShieldFor = 45
+
+[WallJumping]
+	#Using stamina for wall jumping
+	enableForWallJumping = false
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for wall jumping
+	#Range: 1 ~ 20
+	costsForWallJumping = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for wall jumping
+	#Range: 0 ~ 20
+	minimumForWallJumping = 3
+	#Decrease feathers bar value by the defined costs after wall jumping for X times
+	#Range: 1 ~ 10
+	ExhaustAfterWallJumpingFor = 1
+
+[Cranking]
+	#Using stamina for cranking (for Create)
+	enableForCranking = false
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for cranking (for Create)
+	#Range: 1 ~ 20
+	costsForCranking = 1
+	#Defines how many remaining feathers (value 1 is equals to half a feather) the player must have for cranking (for Create)
+	#Range: 0 ~ 20
+	minimumForCranking = 1
+	#Defines how many feathers (value 1 is equals to half a feather) the players will loose for starting  cranking (for Create)
+	#Range: 0 ~ 10
+	initialCostsForCranking = 0
+	#Defines whether cranking (for Create) should stop the regeneration of feathers
+	stopRegenerationWhileCranking = true
+	#Decrease feathers bar value by the defined costs after cranking for X ticks (for Create)
+	#Range: 1 ~ 1200
+	ExhaustAfterCrankingFor = 75
+

@@ -1,0 +1,30 @@
+
+["Amethyst Golem"]
+	#Can golems spawn?
+	is_golem_enabled = true
+	#Does the golem drop charged amethyst - always false without hexcasting
+	can_golem_charge = true
+	#Minimum time does it take for golem to grow its crystal by 1 step
+	#Range: > 0
+	min_growth_time = 12000
+	#Maximum time does it take for golem to grow its crystal by 1 step
+	#Range: > 0
+	max_growth_time = 6000
+
+[Hexcasting]
+	#Are curio read/write patterns enabled?
+	is_curio_rw_enabled = true
+	#Is Kahuna's Purification pattern enabled?
+	is_health_enabled = true
+	#Is Instant Delivery pattern enabled?
+	is_sending_enabled = true
+	#Is Jeweler's Reflection pattern enabled?
+	is_media_counter_enabled = true
+	#Is Archivist's Distillation pattern enabled?
+	is_type_compare_enabled = true
+	#Maximum amount of curio slots you can get from hexcasting achivements
+	#Range: 0 ~ 5
+	max_curio_hex_slots = 5
+	#Can phials be fused in anvil?
+	phial_phusion = true
+

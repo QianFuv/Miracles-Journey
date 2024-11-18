@@ -1,0 +1,13 @@
+name = "ExtraSounds Next"
+filename = "extrasounds-1.19.2-forge-1.3-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce5e5f4483a37792a398f7ae496485f01b9ec1b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5317675
+project-id = 946784

@@ -1,0 +1,33 @@
+{
+  "tab.ywzj_midi": "永无止境: 音乐会",
+
+  "block.ywzj_midi.aa_block": "AA775",
+  "block.ywzj_midi.u1h": "雅马哈U1H",
+  "block.ywzj_midi.piano_chair_block": "琴凳",
+  "block.ywzj_midi.speaker_block": "扬声器",
+  "item.ywzj_midi.music_player_item": "随身播放器",
+
+  "ui.ywzj_midi.select_midi_device": "选择Midi设备",
+  "ui.ywzj_midi.select_mid_file": "选择Mid文件",
+  "ui.ywzj_midi.midi_connected": "设备连接中",
+  "ui.ywzj_midi.play_velocity": "演奏力度",
+  "ui.ywzj_midi.note": "音高",
+  "ui.ywzj_midi.pedal_on": "延音踏板: 开",
+  "ui.ywzj_midi.pedal_off": "延音踏板: 关",
+
+  "ui.ywzj_midi.music_name": "音乐名称",
+  "ui.ywzj_midi.playing": "播放中",
+  "ui.ywzj_midi.play_local_music": "播放本地音乐",
+  "ui.ywzj_midi.play_net_music": "播放网络音乐",
+  "ui.ywzj_midi.is_now_playing": "正在播放",
+  "ui.ywzj_midi.net_music": "网络音乐",
+  "ui.ywzj_midi.wrong_url": "地址无效！",
+
+  "info.ywzj_midi.power_up": "正在开机中...",
+  "info.ywzj_midi.warn_1": "你不能打开不属于你的播放器！",
+  "info.ywzj_midi.warn_2": "交互距离太远了！",
+  "info.ywzj_midi.connect_succeed": "Midi设备连接成功！",
+  "info.ywzj_midi.connect_failed": "Midi设备连接失败！",
+  "info.ywzj_midi.midi_disconnected": "Midi设备断开连接！"
+
+}

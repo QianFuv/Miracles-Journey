@@ -1,0 +1,13 @@
+name = "Miner's Delight +"
+filename = "miners_delight-1.19.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23701e0772676ff74c0290387c90fd9365987673"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4738272
+project-id = 689630

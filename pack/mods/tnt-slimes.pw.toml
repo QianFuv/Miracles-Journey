@@ -1,0 +1,13 @@
+name = "TNT Slimes"
+filename = "TNTSlimes-1.19-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "333a527de049d0fe59b663df567689eabd9f657d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902766
+project-id = 596703

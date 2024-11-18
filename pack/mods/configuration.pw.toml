@@ -1,0 +1,13 @@
+name = "Configuration"
+filename = "configuration-forge-1.19.2-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b7916a5116d68621a060087aa2e7ca9d6024920"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5030099
+project-id = 444699

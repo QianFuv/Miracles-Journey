@@ -1,0 +1,13 @@
+name = "Floor Mats"
+filename = "floormats-1.19.2-v1.5.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b5e08001286d6db2a88f0035886cc9f57ea7aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673069
+project-id = 413140

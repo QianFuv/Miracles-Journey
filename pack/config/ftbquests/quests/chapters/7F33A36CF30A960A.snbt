@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "7F33A36CF30A960A"
+	group: "375C1B0C652A4A81"
+	id: "7F33A36CF30A960A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "时装工坊"
+}

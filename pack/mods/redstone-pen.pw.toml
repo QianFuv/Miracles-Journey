@@ -1,0 +1,13 @@
+name = "Redstone Pen"
+filename = "redstonepen-1.19.2-forge-1.2.32.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0816517f71eda0dd4cd0d8e86ed5b26d37f3e27b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5242849
+project-id = 461710

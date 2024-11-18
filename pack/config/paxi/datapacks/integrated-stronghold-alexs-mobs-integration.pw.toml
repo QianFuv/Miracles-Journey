@@ -1,0 +1,13 @@
+name = "Integrated Stronghold- Alex's Mobs Integration"
+filename = "intstrong_alexsmobs-1.0.0-1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff8ea665e00f96a6604461e74842a3c3867d95b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4413320
+project-id = 831900

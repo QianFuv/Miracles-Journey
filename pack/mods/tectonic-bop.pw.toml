@@ -1,0 +1,13 @@
+name = "Tectonic + Biomes O' Plenty compat"
+filename = "tectonicbop-1.19.2-Beta3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f52a6daea9f00aee9cfa8766b0a88103bcb4a67"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4486122
+project-id = 810651

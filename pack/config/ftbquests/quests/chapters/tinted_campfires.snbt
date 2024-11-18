@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tinted_campfires"
+	group: "375C1B0C652A4A81"
+	id: "077993B70AF46F6D"
+	order_index: 17
+	quest_links: [ ]
+	quests: [ ]
+	title: "Tinted Campfires"
+}

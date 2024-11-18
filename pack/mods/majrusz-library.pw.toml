@@ -1,0 +1,13 @@
+name = "Majrusz Library"
+filename = "majrusz-library-forge-1.19.2-7.0.5-backport.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a09ce29b6b0c594f4ae212f02596287a68dcb28c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5177143
+project-id = 437409

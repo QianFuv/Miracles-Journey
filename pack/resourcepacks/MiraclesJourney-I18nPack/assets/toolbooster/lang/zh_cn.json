@@ -1,0 +1,22 @@
+{
+  "item.toolbooster.toolbooster": "Toolbooster",
+  "item.toolbooster.legend_toolbooster": "Legendary Toolbooster",
+  "item.toolbooster.hammer_toolbooster": "Hammer Toolbooster",
+  "item.toolbooster.creative_toolbooster": "Creative Toolbooster",
+
+  "tetra.variant.double_socket/toolbooster": "Socket [§eToolbooster§f]",
+  "tetra.variant.single_socket/toolbooster": "Socket [§eToolbooster§f]",
+  "tetra.variant.sword_socket/toolbooster": "Socket [§eToolbooster§f]",
+
+  "tetra.variant.double_socket/legend_toolbooster": "Socket [§bLegendary Toolbooster§f]",
+  "tetra.variant.single_socket/legend_toolbooster": "Socket [§bLegendary Toolbooster§f]",
+  "tetra.variant.sword_socket/legend_toolbooster": "Socket [§bLegendary Toolbooster§f]",
+
+  "tetra.variant.double_socket/hammer_toolbooster": "Socket [§bHammer Toolbooster§f]",
+  "tetra.variant.single_socket/hammer_toolbooster": "Socket [§bHammer Toolbooster§f]",
+  "tetra.variant.sword_socket/hammer_toolbooster": "Socket [§bHammer Toolbooster§f]",
+
+  "tetra.variant.double_socket/creative_toolbooster": "Socket [§dCreative Toolbooster§f]",
+  "tetra.variant.single_socket/creative_toolbooster": "Socket [§dCreative Toolbooster§f]",
+  "tetra.variant.sword_socket/creative_toolbooster": "Socket [§dCreative Toolbooster§f]"
+}

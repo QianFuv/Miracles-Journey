@@ -1,0 +1,7 @@
+
+["Configs for Damage Indicator"]
+	#Determines whether the damage indicator tracks the direction the damage came from even when you turn.
+	"Directional Damage Tracking" = true
+	#Time for damage indicator to show (in ticks)
+	"Indicate Time" = 25
+

@@ -1,0 +1,13 @@
+name = "ewewukek's Musket Mod"
+filename = "musketmod-1.19.2-forge-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f9bbe17c00a3b897e1bdffe0da07140d1f1765f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4030979
+project-id = 354562

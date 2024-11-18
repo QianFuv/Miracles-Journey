@@ -1,0 +1,7 @@
+
+[changes]
+	#Horizontal radius within which the player picks up item entities
+	"Collection radius" = 3.0
+	#Amount of blocks below the player where sneaking picks up item entities
+	"Collection depth" = 2.0
+

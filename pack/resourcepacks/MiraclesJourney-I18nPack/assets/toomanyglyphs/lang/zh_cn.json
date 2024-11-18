@@ -1,0 +1,52 @@
+{
+  "toomanyglyphs.glyph_name.glyph_filter_block": "过滤: 方块",
+  "toomanyglyphs.glyph_desc.glyph_filter_block": "使法术不以方块为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_entity": "过滤: 实体",
+  "toomanyglyphs.glyph_desc.glyph_filter_entity": "使法术不以实体为目标时不生效。.",
+
+  "toomanyglyphs.glyph_name.glyph_filter_living": "过滤: 存活",
+  "toomanyglyphs.glyph_desc.glyph_filter_living": "使法术不以存活的实体为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_living_not_player": "过滤: 非玩家",
+  "toomanyglyphs.glyph_desc.glyph_filter_living_not_player": "使法术不以非玩家的存活实体为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_living_not_monster": "过滤: 非怪物",
+  "toomanyglyphs.glyph_desc.glyph_filter_living_not_monster": "使法术不以非怪物的存活实体为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_player": "过滤: 玩家",
+  "toomanyglyphs.glyph_desc.glyph_filter_player": "使法术不以存活的玩家为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_monster": "过滤: 怪物",
+  "toomanyglyphs.glyph_desc.glyph_filter_monster": "使法术不以存活的怪物为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_lay_on_hands": "包裹手部",
+  "toomanyglyphs.glyph_desc.glyph_lay_on_hands": "触摸和自身的上下文敏感结合。优先以非怪物存活实体为目标，否则以自身为目标，如果完全找不到目标，则不消耗法力。如果后面紧跟着一个过滤魔符，则该过滤将代替“非怪物存活实体”。",
+
+  "toomanyglyphs.glyph_name.glyph_reverse_direction": "反转方向",
+  "toomanyglyphs.glyph_desc.glyph_reverse_direction": "使后续以方块为目标的法术选择方向变为触摸面对面",
+
+  "toomanyglyphs.glyph_name.glyph_chaining": "链式",
+  "toomanyglyphs.glyph_desc.glyph_chaining": "使一个法术在多个分组目标间跳跃，无论是相似的方块还是施法者以外的存活实体。范围效果增加目标上限。穿透增加了目标之间的最大跳跃距离。",
+
+  "toomanyglyphs.glyph_name.glyph_ray": "射线",
+  "toomanyglyphs.glyph_desc.glyph_ray": "在有限但比触摸更大的范围内，立即击中指向的目标。无论射线是否击中任何物体，法力都会消耗。范围效果增加射程。敏感1允许射线命中不阻挡运动的物体，例如植物或漂浮的魔光球体。敏感2允许射线命中液体。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_item": "过滤: 物品",
+  "toomanyglyphs.glyph_desc.glyph_filter_item": "使法术不以掉落物为目标时不生效。 一般对弹射物和基础的射线不起作用，因为它们无法以非存活实体为目标。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_animal": "过滤: 动物",
+  "toomanyglyphs.glyph_desc.glyph_filter_animal": "使法术不以家畜为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_is_baby": "过滤: 幼年",
+  "toomanyglyphs.glyph_desc.glyph_filter_is_baby": "使法术不以幼年生物为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_filter_is_mature": "过滤: 成年",
+  "toomanyglyphs.glyph_desc.glyph_filter_is_mature": "使法术不以存在幼年形态的成年生物为目标时不生效。",
+
+  "toomanyglyphs.glyph_name.glyph_amplify_two": "强化II",
+  "toomanyglyphs.glyph_desc.glyph_amplify_two": "强化的烈性变体，以效率换取力量。",
+
+  "toomanyglyphs.glyph_name.glyph_amplify_three": "强化III",
+  "toomanyglyphs.glyph_desc.glyph_amplify_three": "强化的一种暴力的变体，将巨量的魔力灌进效果中。"
+}

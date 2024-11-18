@@ -1,0 +1,19 @@
+
+[RavenCoffeeCommonConfig]
+
+	[RavenCoffeeCommonConfig.Items]
+
+		[RavenCoffeeCommonConfig.Items.Brews]
+			#Disable the effects given by the Coffee Brews (does not remove the food values)
+			DisableCoffeeBrewEffects = false
+			#Disable the hunger refill given by the Coffee Brews (does not remove the brew effects)
+			DisableCoffeeBrewFoodValues = false
+
+	[RavenCoffeeCommonConfig.WorldGeneration]
+
+		[RavenCoffeeCommonConfig.WorldGeneration.Villages]
+			#Allow generation of Coffee Shops
+			Enabled = true
+			#The bigger the number the more likely for the building to be generated
+			Rarity = 1
+

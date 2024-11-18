@@ -1,0 +1,13 @@
+name = "Spelunkery"
+filename = "spelunkery-1.19.2-0.2.6-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c27dd94002e26bd7a1fc2d37eb1d08a165c8efe8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4719507
+project-id = 790530

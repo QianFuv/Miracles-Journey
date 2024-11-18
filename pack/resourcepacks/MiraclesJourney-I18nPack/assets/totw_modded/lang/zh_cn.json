@@ -1,0 +1,64 @@
+{
+  "item.totw_modded.shattered_warp_stone": "Shattered Warp Stone",
+  "item.totw_modded.warp_stone": "Warp Stone",
+  "item.totw_modded.diamond_dust": "Diamond Dust",
+  "item.totw_modded.ametrine_dust": "Ametrine Dust",
+
+  "item.totw_modded.burning": "Burning Icon",
+  "item.totw_modded.warm": "Warm Icon",
+  "item.totw_modded.comfy": "Comfy Icon",
+  "item.totw_modded.cold": "Cold Icon",
+  "item.totw_modded.freezing": "Freezing Icon",
+
+  "item.totw_modded.autumn": "Autumn Icon",
+  "item.totw_modded.dry": "Dry Icon",
+  "item.totw_modded.spring": "Spring Icon",
+  "item.totw_modded.summer": "Summer Icon",
+  "item.totw_modded.wet": "Wet Icon",
+  "item.totw_modded.winter": "Winter Icon",
+
+  "item.totw_modded.gunpowder_infused_ametrine": "Gunpowder Infused Ametrine",
+
+  "item.totw_modded.crushed_aquite_ore": "Crushed Aquite Ore",
+  "item.totw_modded.crushed_charoite_ore": "Crushed Charoite Ore",
+  "item.totw_modded.crushed_falsite_ore": "Crushed Falsite Ore",
+  "item.totw_modded.crushed_horizonite_ore": "Crushed Horizonite Ore",
+  "item.totw_modded.crushed_ventium_ore": "Crushed Ventium Ore",
+
+  "item.totw_modded.worm_gu": "Worm Gu",
+
+  "item.totw_modded.void_wormed_sword": "Void Wormed Sword",
+  "item.totw_modded.void_wormed_axe": "Void Wormed Axe",
+  "item.totw_modded.void_wormed_shovel": "Void Wormed Shovel",
+  "item.totw_modded.void_wormed_pickaxe": "Void Wormed Pickaxe",
+  "item.totw_modded.void_wormed_hoe": "Void Wormed Hoe",
+
+  "item.totw_modded.void_wormed_helmet": "Void Wormed Helmet",
+  "item.totw_modded.void_wormed_chestplate": "Void Wormed Chestplate",
+  "item.totw_modded.void_wormed_leggings": "Void Wormed Leggings",
+  "item.totw_modded.void_wormed_boots": "Void Wormed Boots",
+
+  "item.totw_modded.ur_ghast_heart": "Ur Ghast Heart",
+  "item.totw_modded.armored_giant_heart": "Armored Giant Heart",
+  "item.totw_modded.snow_queen_heart": "Snow Queen Heart",
+  "item.totw_modded.compressed_hearts": "Compressed Hearts",
+
+  "item.totw_modded.desh_helmet": "Desh Helmet",
+  "item.totw_modded.desh_chestplate": "Desh Chestplate",
+  "item.totw_modded.desh_leggings": "Desh Leggings",
+  "item.totw_modded.desh_boots": "Desh Boots",
+
+  "itemGroup.totw_modded_tab": "Create Dimensions Addon",
+  "Towers of the Wild: Modded": "旷野之息高塔：再重制",
+  "Will you climb all of the towers and activate the link?": "您能爬上所有的塔楼并激活连接吗?",
+  "A breath of fresh air": "新鲜的空气",
+  "Fine...but how do I get up there?": "好吧......但我怎么才能上去呢?",
+  "BANANAS?": "香蕉?",
+  "Find a Tower in the Jungle": "在丛林中找到一座塔",
+  "Brrrrrr": "呜呜呜",
+  "Find a Icy Tower": "找到一座冰塔",
+  "I found it like this...": "我发现它是这样的...",
+  "Find a Ancient Tower": "找到一座古塔",
+  "A trip to the Countryside": "乡村之旅",
+  "Find a Ancient Tower in the Woods or out in the Fields": "在树林或田野中找到一座古塔"
+}

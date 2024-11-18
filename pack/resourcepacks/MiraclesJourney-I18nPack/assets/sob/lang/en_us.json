@@ -1,0 +1,58 @@
+{
+  "itemGroup.sob.sob": "Smidgeon O' Bliss",
+
+  "item.sob.cinder_dough": "Cinder Dough",
+  "item.sob.cinder_bread": "Cinder Bread",
+  "item.sob.caldera_roll": "Caldera Roll",
+  "item.sob.maple_bread": "Maple Bread",
+  "item.sob.holy_sticky_bun": "Holy Sticky Bun",
+  "item.sob.unholy_sticky_bun": "Unholy Sticky Bun",
+
+  "item.sob.sap_bucket": "Sap Bucket",
+  "item.sob.holy_sap_bucket": "Holy Sap Bucket",
+  "item.sob.unholy_sap_bucket": "Unholy Sap Bucket",
+  "item.sob.syrup_bucket": "Syrup Bucket",
+  "item.sob.holy_syrup_bucket": "Holy Syrup Bucket",
+  "item.sob.unholy_syrup_bucket": "Unholy Syrup Bucket",
+  "item.sob.mulberry_jam_bucket": "Mulberry Jam Bucket",
+  "item.sob.aloe_gel_bucket": "Aloe Gel Bucket",
+
+  "item.sob.boba_tea": "Bubble Tea",
+  "item.sob.nether_nectar": "Nether Nectar",
+  "item.sob.aloe_tea": "Aloe Tea",
+  "item.sob.vanilla_passion_soda": "Vanilla Passion Soda",
+  "item.sob.duality_tea": "Duality Tea",
+  "item.sob.lava_top_cocktail": "Lava Top Cocktail",
+  "item.sob.slome_slush": "Slome Slush",
+  "item.sob.ambrosia": "Ambrosia",
+  "item.sob.saffron_tisane": "Saffron Tisane",
+
+  "item.sob.propelpearl_caviar": "Propelpearl Caviar",
+  "item.sob.exotic_fruit_salad": "Exotic Fruit Salad",
+  "item.sob.duck_sandwich": "Duck Sandwich",
+  "item.sob.exquisite_mushroom_soup": "Exquisite Mushroom Soup",
+
+  "item.sob.sweet_berry_smoothie": "Sweet Berry Smoothie",
+  "item.sob.glow_berry_smoothie": "Glow Berry Smoothie",
+  "item.sob.mulberry_smoothie": "Mulberry Smoothie",
+  "item.sob.foul_berry_smoothie": "Foul Berry Smoothie",
+  "item.sob.cherry_smoothie": "Cherry Smoothie",
+  "item.sob.passionfruit_smoothie": "Passionfruit Smoothie",
+  "item.sob.carrot_smoothie": "Carrot Smoothie",
+  "item.sob.wild_berry_smoothie": "Wild Berry Smoothie",
+  "item.sob.source_berry_smoothie": "Sourceberry Smoothie",
+  "item.sob.blisterberry_smoothie": "Blisterberry Smoothie",
+
+  "item.sob.strawberry_milk": "Strawberry Milk",
+  "item.sob.chocolate_milk": "Chocolate Milk",
+  "item.sob.vanilla_milk": "Vanilla Milk",
+
+  "fluid_type.sob.sap": "Sap",
+  "fluid_type.sob.holy_sap": "Holy Sap",
+  "fluid_type.sob.unholy_sap": "Unholy Sap",
+  "fluid_type.sob.syrup": "Syrup",
+  "fluid_type.sob.holy_syrup": "Holy Syrup",
+  "fluid_type.sob.unholy_syrup": "Unholy Syrup",
+  "fluid_type.sob.mulberry_jam": "Mulberry Jam",
+  "fluid_type.sob.aloe_gel": "Aloe Gel"
+}

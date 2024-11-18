@@ -1,0 +1,13 @@
+name = "Valhelsia Furniture"
+filename = "valhelsia_furniture-forge-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ab3535fdcf2e5ccc51368a6a5c937937c16f427"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4520253
+project-id = 694349

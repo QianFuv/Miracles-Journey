@@ -1,0 +1,7 @@
+{
+  "item.xpbook.xp_book": "OLD - RIGHTCLICK TO CONVERT",
+  "item.xpbook.xp_tome": "XP Tome",
+  "xpbook.tooltip.1": "潜行右键来保存尽可能多的经验",
+  "xpbook.tooltip.2": "右键取出所有经验",
+  "xpbook.tooltip.3": "%1$s/%2$s经验储量"
+}

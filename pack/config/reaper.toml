@@ -1,0 +1,19 @@
+#The maximum amount of energy the soul beacon can store.
+soul_beacon_energy_cap = 1000000
+#The amount of energy the soul beacon produces per tick.
+soul_beacon_energy_prod = 1000000
+#The maximum range the soul beacon can affect mobs.
+soul_beacon_max_range = 5
+#The amount of energy the soul beacon produces per tick with the rune.
+soul_beacon_energy_prod_with_rune = 160
+#The maximum range the soul beacon can affect mobs with the rune.
+soul_beacon_max_range_with_rune = 8
+#The amount of damage the soul beacon deals to mobs. If this value is -1, the mob will die instantly.
+soul_beacon_damage = 5
+#The amount of damage the soul beacon deals to mobs with the rune. If this value is -1, the mob will die instantly.
+soul_beacon_damage_with_rune = -1
+#The cooldown of the soul beacon.
+soul_beacon_cooldown = 120
+#The cooldown of the soul beacon with the rune.
+soul_beacon_cooldown_with_rune = 60
+

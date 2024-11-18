@@ -1,0 +1,13 @@
+name = "Iron Furnaces"
+filename = "ironfurnaces-1.19.2-3.6.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "751f4b41d347cda94e053f364951f3826bc56560"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4366408
+project-id = 237664

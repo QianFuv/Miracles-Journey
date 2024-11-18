@@ -1,0 +1,5 @@
+
+[general]
+	#Whether the damage tilt effect is enabled
+	damageTiltEnabled = true
+

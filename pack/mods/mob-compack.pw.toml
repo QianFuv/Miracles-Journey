@@ -1,0 +1,13 @@
+name = "Mob Compack"
+filename = "mobcompack-0.0.3.8-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8124256af6ad538c8ea946390981937c266ebb47"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4082748
+project-id = 573962

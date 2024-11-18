@@ -1,0 +1,13 @@
+name = "UtilitiX"
+filename = "UtilitiX-1.19.2-0.7.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "283f989e74727acf6dbc563825521dad28b6dbb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5700544
+project-id = 463703
