@@ -29,6 +29,7 @@ jobs:
         run: |
           packwiz curseforge export
           echo "PACK_NAME=$(ls *.zip | sed 's/.zip$//')" >> $GITHUB_ENV
+          echo "SHORT_SHA=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
 
       - name: Create temp directory and unzip
         run: |
@@ -38,5 +39,5 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.PACK_NAME }}-${{ github.sha | truncate(7) }}
+          name: ${{ env.PACK_NAME }}-${{ env.SHORT_SHA }}
           path: pack/unzipped/
