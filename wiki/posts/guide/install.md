@@ -14,6 +14,10 @@
 
 ## 第二步 - 版本下载
 
+> [!IMPORTANT] 
+>
+> 整合包最新构建系统已发布，请前往[最新构建](https://github.com/QianFuv/Miracles-Journey/actions)处下载体验！
+
 > 由于整合包还处于开发阶段，因此推荐下载游玩开发版获取最新更新和 Bug 修复。
 
 ### 稳定版
@@ -38,20 +42,6 @@
 
    ![image-20240810233453741](https://cdn.sa.net/2024/08/10/XfavdGNKOB8P1tr.png)
 
-== Gitcode
-
-> 下载文件格式：Beta-x.x.x.zip（“x”为版本号）
-
-1. 进入 Gitcode 整合包镜像仓库标签选择页：[点我即达](https://gitcode.com/WaxingMoonStudio/Miracles-Journey-Pack/tags)
-
-2. 找到带有“Beta”字样的预发布版本
-
-   ![image-20240810233012430](https://cdn.sa.net/2024/08/10/Tx8EcavIsiFXVHp.png)
-
-3. 点击“zip”按钮下载文件即可
-
-   ![image-20240810233402504](https://cdn.sa.net/2024/08/10/Guae7mIAP46L9U8.png)
-
 :::
 
 ### 开发版
@@ -71,16 +61,6 @@
 3. 点击“Download ZIP”按钮下载即可
 
    ![image-20240811003310653](https://cdn.sa.net/2024/08/10/AtZwOlWn7pLDgTu.png)
-
-== Gitcode
-
-> 下载文件格式：main.zip
-
-1. 进入 Gitcode 整合包镜像仓库首页：[点我即达](https://gitcode.com/WaxingMoonStudio/Miracles-Journey-Pack/overview)
-
-2. 点击“下载 zip”按钮下载即可
-
-   ![image-20240811030949878](https://cdn.sa.net/2024/08/11/7b8IqHZzJpEPAw9.png)
 
 :::
 
