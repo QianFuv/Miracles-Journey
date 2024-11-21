@@ -6124,7 +6124,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "437044affae1dce28545323d64cb0940a428e198c706c873bce15eceec5522cc"
+hash = "0e0c0c98267dd5945e537bd7ab1cc5f9531b77e0383e0a172ac36cc423fb870b"
 metafile = true
 
 [[files]]
@@ -6275,6 +6275,11 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "185b5172521276c9499f5395296e64f8f83761539656ecf6e22629a2a751cc41"
+metafile = true
+
+[[files]]
+file = "mods/mclo-gs.pw.toml"
+hash = "4fc2ba111a9a28b433071fb0be6f7c75d7b5067f6131d23f80d609b411323988"
 metafile = true
 
 [[files]]
@@ -7042,6 +7047,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b52df49a5172adfc8865a2992059d6228455ebc8c92d923f7cce119041df0d90"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]

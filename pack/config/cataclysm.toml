@@ -54,6 +54,12 @@
 	#Soul Render's Timer
 	#Range: 0 ~ 1000000
 	SoulRenderCooldown = 100
+	#Gauntlet of Maelstrom's Timer
+	#Range: 0 ~ 1000000
+	gauntletofMaelstromCooldown = 80
+	#The Immolator's Timer
+	#Range: 0 ~ 1000000
+	immolatorCooldown = 300
 
 ["Entity damage"]
 	#Void Rune's Damage
@@ -113,6 +119,9 @@
 	#Phantom Halberd's Damage
 	#Range: 0.0 ~ 1000000.0
 	"Phantom Halberd Damage" = 12.0
+	#Cursed Sandstorm's Damage
+	#Range: 0.0 ~ 1000000.0
+	"Cursed Sandstorm Damage" = 6.0
 
 ["Ender Guardian"]
 	#EnderGuardian's Health Multiplier
