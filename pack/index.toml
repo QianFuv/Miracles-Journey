@@ -1606,7 +1606,7 @@ hash = "17e15050fd852f4b0c2a805bdd15e74e51705ed3a85558bbdbfe1cc04b86b196"
 
 [[files]]
 file = "config/cataclysm.toml"
-hash = "9b66971e022f417cb224fec276a5fc4b7d8241a12fb5b1dc284b61b6191f91a7"
+hash = "cc986941feeec99c2b3a655ef89fb100b9dc77394ea1641abf99697c48a59408"
 
 [[files]]
 file = "config/cataclysm/amethyst_crab_spawns.json"
@@ -2326,7 +2326,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d328639d4b3d7d167351c564c557662b831f42b0e6cc32e51aba4b5b8d4e86b6"
+hash = "6fff87c3426dc3e2d8a8c7be4e94b3fccaab7a25ceeccb5802bb16990596966a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -4088,7 +4088,7 @@ hash = "80ff0df5f6599013f35a26319003be44079694964155bc7593bbe61e77a30b53"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "2c0c02f73970bc2a1b6b9d6dc8545bc1d1ee288fcc78c383bdf3775b550be07f"
+hash = "32944d0f8182ac75db68c704d7d7fdeb68ef3f1f8a8a00237ca97267c1ee0cd1"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -4397,6 +4397,10 @@ hash = "02d48ff6f28d5a657b8aaf07436957850788d89cd71cee9d90170b1d42b896a1"
 [[files]]
 file = "mods/Enderite-CJ-forge-mc1.19x-1.4.5.jar"
 hash = "18d656135302bbec8d5226c6df53a3d6fe6d49a8a2b181a98a64da6643df8dbe"
+
+[[files]]
+file = "mods/MyNethersDelight-1.19-1.7.jar"
+hash = "0420f8af870ae501539c38158a71d6eacd548a6f1f004d8c0f0dcf69ef3b91c5"
 
 [[files]]
 file = "mods/NotableBubbleText-1.19.2-1.0.3.jar"
@@ -6422,11 +6426,6 @@ hash = "5e2479056133260ff0d3f29f1378567eda68762007f090ceb1839e4a59742885"
 metafile = true
 
 [[files]]
-file = "mods/my-nethers-delight.pw.toml"
-hash = "20c9ffc693791effea07c250cb1e41c87829c909924d149a86c55aad6d53da08"
-metafile = true
-
-[[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "f65cfa2126b833d6ea9ee2264259e0cbae0d91eadbce4e3418c6d256ecdfa8b1"
 metafile = true
@@ -7684,7 +7683,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5383ecff0225d37686b7f3b3a55a4f9b043dd473cc33399020211221058d3c72"
+hash = "f1a1b0a71bafdc396c5f12284dd7588ce093dc1049bc6320e3377f44f0b508b0"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -11912,7 +11911,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/assorted-allays.pw.toml"
-hash = "cef331ec5c176be2e56afa5fa6142f3cb0f022f0dbc85d2492e70114516203f3"
+hash = "3889f7c95c71dcf24502bfafe4b5f63300f9d2be09f337606f16664338236bed"
 metafile = true
 
 [[files]]
