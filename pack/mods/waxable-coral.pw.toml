@@ -1,0 +1,13 @@
+name = "Waxable Coral"
+filename = "waxablecoral-Forge-1.19.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28954cd1dbe86ba84075ff8d47bc1f74a2501f7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733920
+project-id = 828043

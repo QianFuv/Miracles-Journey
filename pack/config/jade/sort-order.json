@@ -88,6 +88,9 @@
   "goety:block_owner": null,
   "goety:soul_energy": null,
   "platforms:hud": null,
+  "workshop_for_handsome_adventurer:jade_plugin1": null,
+  "workshop_for_handsome_adventurer:jade_plugin2": null,
+  "workshop_for_handsome_adventurer:jade_plugin3": null,
   "exposure:lightroom": null,
   "corpse:corpse": null,
   "multibeds:hud": null,
@@ -167,5 +170,8 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null
+  "jade:block_face": null,
+  "workshop_for_handsome_adventurer:jade_plugin1": null,
+  "workshop_for_handsome_adventurer:jade_plugin2": null,
+  "workshop_for_handsome_adventurer:jade_plugin3": null
 }

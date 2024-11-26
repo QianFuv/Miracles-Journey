@@ -84,6 +84,11 @@
   "exposure": {
     "lightroom": true
   },
+  "workshop_for_handsome_adventurer": {
+    "jade_plugin2": true,
+    "jade_plugin3": true,
+    "jade_plugin1": true
+  },
   "shetiphiancore": {
     "hud.rgb16": true,
     "hud": true,

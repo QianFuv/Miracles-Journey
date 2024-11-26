@@ -1,0 +1,13 @@
+name = "qrafty's End Villages"
+filename = "qraftys-end-villages-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d42eb179d121a887e8219a55f1f07d45480dffe9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5546087
+project-id = 1066871
