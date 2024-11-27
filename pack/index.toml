@@ -2061,6 +2061,10 @@ file = "config/dungeons_enhanced-common.toml"
 hash = "f6633dfe6d0803f93b2c3fdeb19ac8914aeff24901c02c8ee1fe21523635bb50"
 
 [[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "ad6b05f32e5f0a75c960ac2005fe5fc2050bef7eb9f93098e430d8c66e70ca8a"
+
+[[files]]
 file = "config/dynamiclights.cfg"
 hash = "9d3f2e8340eeb3f65838fc5bf5d5b2743391d2223f88ec3aef7f5bf68002360d"
 
@@ -2902,11 +2906,11 @@ hash = "928c5099f0511f77d0fda120875c0b8e350343331849c5fb6aad7a2f318a7f96"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "20df1e61106f6e11969f655e9230ac298af276bc36d4a84e7bb16610679638c8"
+hash = "ab46932377977c3acd371963f8dcb248ca55e9bdafceed4c5a5ae20f75ac1a6c"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "fe82d19ddf46790fdf3d99179b5b3fb92c15a4b2ed01f48ce8afcee309a1d913"
+hash = "c1f9830c5dcd01d06be15ee70a807af96280c4deea4adb83cd20f4bd4fe44cb7"
 
 [[files]]
 file = "config/jecharacters.toml"
@@ -2918,7 +2922,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "f6297c5b2433c30da32a512c04ffc7c475a89be041b2d9a6c9aed5d8707a2522"
+hash = "b2f6f8e2cf4ce6046b26667f7671d0e0cbeb2fad889bc4f75834e67ba1f9c018"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3536,7 +3540,7 @@ hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c49e479fcc3f889e47f8612045c6e8b0d01ed4708d41c866e7eb8d3ac4caaeee"
+hash = "330b7d116e9fb01b049168c7d5a55364c3e87aec11ad3c8520b0f150d836adf2"
 
 [[files]]
 file = "config/queen_bee.toml"
@@ -3664,7 +3668,7 @@ hash = "d94be400344a5216de111fd93a2caa2af9c7d09849a195170c780ff1d9439008"
 
 [[files]]
 file = "config/shetiphiancore.toml"
-hash = "5255e58361254e9825c2e6e7a9d8e72c2b41db26f031fc6167207c1ecf3a7e9f"
+hash = "c594c165ac260b22346a7aa75a2561af8522e4e2eeab821183a250603b0e39fd"
 
 [[files]]
 file = "config/sidebar_buttons.json"
@@ -3784,7 +3788,7 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "744ea704a7b494f1aa31c00f5e709f3565845aeaa658785d4e7b89002d8efa29"
+hash = "4535c145f1f2338eb052646f19c69720c795ae2bba33ebe0cf5e44b0b8b1b7da"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -4099,6 +4103,10 @@ file = "config/towns_and_towers/structure_rarity.json5"
 hash = "4d0ed3b01b6d8fd2b58c96fcf2209a901743500e178fbb6c65c442e4f61666e1"
 
 [[files]]
+file = "config/tradeuses_text.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/transmog.json"
 hash = "67d1027e2398f84b22794425893a57512d6497b9268c591cbc80dca1f5a24e16"
 
@@ -4283,6 +4291,22 @@ file = "config/workers-common.toml"
 hash = "6bbb65ca4cc5a76d264ee5c41c3bce281d1f1f8dc9bb5bbd647e599b0e12c292"
 
 [[files]]
+file = "config/workshop_for_handsome_adventurer-client.toml"
+hash = "064a6cc3ed94c17e8d124794f7480440137d6ef479f3f9b00d3f9920301956c0"
+
+[[files]]
+file = "config/workshop_for_handsome_adventurer-common.toml"
+hash = "3731a20ebb6bbfbec313f50b86a202b14d7855d8a9161715d49347f9ef512093"
+
+[[files]]
+file = "config/workshop_for_handsome_adventurer-special-client.json"
+hash = "a676e564e81cfff075473084f32a771657588bf6431954ead99056684b853937"
+
+[[files]]
+file = "config/workshop_for_handsome_adventurer-special-common.json"
+hash = "68c2830109712dc220616a64b2c643a595800499456be913bf9b908615185a69"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -4312,7 +4336,7 @@ hash = "b7747afaae8ba4e6eb4ee4e2314e0c62e5ec3f63fcb5f491b174cb1b63ff2f0c"
 
 [[files]]
 file = "config/xbob.json"
-hash = "a0ea3a3898597e639ddb0ff340374acaede2883670f2c23805d1fd7ced4399dc"
+hash = "64ecdf7b0ebe2470eabe21bd3cff72ecc6f7abb6f93ce9e768084ae07efd2477"
 
 [[files]]
 file = "config/xtraarrows-common.toml"
@@ -6615,7 +6639,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "dca848c6a594a5784fedd9d4b2b15d6db1e194bea75942bc9da6dc6d97579da9"
+hash = "85162762d137c14043818c99a3abe49efaab756181bd7f0c629215a041cf83c4"
 metafile = true
 
 [[files]]
@@ -7178,7 +7202,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight-forge.pw.toml"
-hash = "b5ee76c3b0d6c8d62551c45d5aaebb44969a73625fd971e9cce875c6162784df"
+hash = "d80062ad85ddf266f8d67627a3929fcb95d5945de82258ae61794d7354be0446"
 metafile = true
 
 [[files]]
@@ -7767,7 +7791,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f1a1b0a71bafdc396c5f12284dd7588ce093dc1049bc6320e3377f44f0b508b0"
+hash = "af81d22a0bed0cb981725bbc2073806a2939a16eeca535a951cd74540dcba853"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
