@@ -8,7 +8,7 @@
 		"onEntity": true,
 		"holdingTool": "Always",
 		"holdingMeleeWeapon": true,
-		"holdingRangedWeapon": "IfInteractable",
+		"holdingRangedWeapon": "Always",
 		"holdingThrowable": "IfInteractable",
 		"holdingShield": true,
 		"holdingBlock": "IfInteractable",
@@ -129,10 +129,10 @@
 		}
 	},
 	"enableTweaks": true,
-	"additionalTools": null,
-	"additionalMeleeWeapons": null,
-	"additionalRangedWeapons": null,
-	"additionalThrowables": null,
-	"additionalUsableItems": null,
-	"additionalInteractableBlocks": null
+	"additionalTools": "",
+	"additionalMeleeWeapons": "",
+	"additionalRangedWeapons": "",
+	"additionalThrowables": "",
+	"additionalUsableItems": "",
+	"additionalInteractableBlocks": ""
 }

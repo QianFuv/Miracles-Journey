@@ -2,7 +2,7 @@
   "spear": false,
   "item": true,
   "bob": false,
-  "aim": false,
+  "aim": true,
   "eat": true,
   "atk": true,
   "xbow": false,
