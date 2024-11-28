@@ -4,7 +4,7 @@
   "modpackName": "MiraclesJourney",
   "modpackAuthor": "盈月工作室",
   "modpackReleaseType": "beta",
-  "updateCheckerId": "https://proxy.qianfuv.fun/proxy/https://raw.githubusercontent.com/WaxingMoonStudio/Miracles-Journey-Pack/main/",
+  "updateCheckerId": "https://proxy.qianfuv.fun/proxy/https://raw.githubusercontent.com/QianFuv/Miracles-Journey/refs/heads/main/pack/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": true,

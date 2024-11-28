@@ -3114,7 +3114,7 @@ hash = "f6e4cd4c269b5ad1d39f7eba6ce0d116c295519b0f06718f730a9f537ec496f4"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "07993c12f1c96e1e8ebc048a9f87c5ceba422ccc8973a91a70efabb74ca428f9"
+hash = "3f09bbb27f67c712e44357346c6bc50f8ede7593523e8aaf01cbcabb25e17600"
 
 [[files]]
 file = "config/modulargolems-common.toml"
@@ -4871,7 +4871,7 @@ metafile = true
 
 [[files]]
 file = "mods/casinocraft.pw.toml"
-hash = "9da5d197005747176096d348991e6d2c559eff5fb4d8dccdf38da379bbb7024c"
+hash = "33766b0f29a2cbb37e3e3592c852df03e1065f4c6e0314fe0d11b173fab1db3b"
 metafile = true
 
 [[files]]
