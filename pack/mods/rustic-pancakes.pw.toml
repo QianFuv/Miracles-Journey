@@ -1,0 +1,13 @@
+name = "Rustic Pancakes"
+filename = "rusticpancakes-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02879a3bd26123753e800a032ba6d4aeed0dafc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5931341
+project-id = 1144166
