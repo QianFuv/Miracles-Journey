@@ -1414,7 +1414,7 @@ hash = "fd282d494f12199fb5dffaa7b661f248099b2e7c30d6dcbadfa4988abcccdca1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d048f1f87fd8e006a5a77accb0416f7ef673197b29d65d0397dce7eb6b2b7d0f"
+hash = "4132171b3ee42649c9012a9bd291cea4be20b2f4f1bca8fcd02ca1b5c9ae5efe"
 
 [[files]]
 file = "config/berrfect-common.toml"
@@ -5531,6 +5531,11 @@ hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
 metafile = true
 
 [[files]]
+file = "mods/ephemera.pw.toml"
+hash = "d620b4cd45f734e72a7a56be8eabea411398d1b373b80009fbdfadb20fecdf12"
+metafile = true
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "2492053472e5201326fa4f35536758fa7152317a3549039e37d8b5544664365d"
 metafile = true
@@ -6965,6 +6970,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "9f392f9749a83036acb8b59b0023f385f495b327ee576a291137aade517982e7"
+metafile = true
+
+[[files]]
+file = "mods/rustic-pancakes.pw.toml"
+hash = "fbeb3659484a15e42d30c2867f6f7ba6a80b579ef701de5ad87f14a4326229fc"
 metafile = true
 
 [[files]]
