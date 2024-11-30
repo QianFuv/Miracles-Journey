@@ -1,3 +1,5 @@
+/.vscode
+
 /pack/sync.ffs_db
 
 /wiki/.vitepress/dist
