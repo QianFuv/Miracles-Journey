@@ -5298,6 +5298,11 @@ hash = "c17867aff335615bc92eb287e3f263157e899e46cfd2b2bdc24597886601d228"
 metafile = true
 
 [[files]]
+file = "mods/decoration-delight.pw.toml"
+hash = "a74bf3554de37709a1c33e661ed0663439ebae3a80442a39579694f11d5a6501"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "2fd2d5a008ba69b4218ab2274d6eefbd1c312d4dbceb361f1c933e8253a127b8"
 metafile = true
@@ -5841,6 +5846,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "dd6b16c4ce3943d6ab7ccb8540737e4c7e03b9ce4c3318956f8f6713ee289119"
+metafile = true
+
+[[files]]
+file = "mods/hex-conjuring.pw.toml"
+hash = "95fef985e170fbe95d1125427988f6b93773aaf3a3dbd7d84a1c6004620226b9"
 metafile = true
 
 [[files]]

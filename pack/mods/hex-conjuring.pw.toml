@@ -1,0 +1,13 @@
+name = "Hex Conjuring"
+filename = "hexconjuring-forge-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f11f0c6afcabec1a0d79c3aedb9fb5a0556db8cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5798876
+project-id = 1116844
