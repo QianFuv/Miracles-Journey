@@ -1,0 +1,13 @@
+name = "Illagers Wear Armor"
+filename = "illagersweararmor-1.2.7-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "568816802ffb54ef8c7274ecd2d4c7d1e5709bac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4714264
+project-id = 407488

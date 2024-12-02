@@ -1,0 +1,13 @@
+name = "Dimension Teleport"
+filename = "DimensionTeleport-1.19.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce96085eed0538b0bc3f27927cf58be8858cd814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3932578
+project-id = 388219

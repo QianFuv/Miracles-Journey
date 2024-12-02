@@ -27,15 +27,15 @@
     "entity_health": true,
     "energy_storage": true,
     "entity_armor.max_for_render": 0,
-    "enchantment_power": true,
     "breaking_progress": true,
+    "enchantment_power": true,
     "tnt_stability": true,
     "villager_profession": true,
     "mob_breeding": true,
     "entity_health.icons_per_line": 10,
     "item_frame": true,
-    "crop_progress": true,
     "fluid.detailed": false,
+    "crop_progress": true,
     "total_enchantment_power": true,
     "potion_effects": true,
     "command_block": true,
@@ -65,6 +65,10 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": false
+  },
+  "refinedcooking": {
+    "kitchen_access_point": true,
+    "kitchen_station": true
   },
   "platforms": {
     "hud": true
@@ -122,6 +126,13 @@
     "block_owner": true,
     "soul_energy": true,
     "summon_lifespan": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
   },
   "multibeds": {
     "hud": true

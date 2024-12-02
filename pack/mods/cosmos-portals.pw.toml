@@ -1,0 +1,13 @@
+name = "Cosmos Portals"
+filename = "cosmosportals-1.19.2-6.1.1.0-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03d84ee65fa17aa1daf65a0d369e913a1f44604c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4171087
+project-id = 549739

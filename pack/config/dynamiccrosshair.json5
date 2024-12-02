@@ -1,6 +1,6 @@
 {
-	"dynamicCrosshair": "Advanced",
-	"disableDebugCrosshair": false,
+	"dynamicCrosshair": "Disabled",
+	"disableDebugCrosshair": true,
 	"thirdPersonCrosshair": false,
 	"hideWithScreen": true,
 	"crosshairConfig": {
@@ -8,7 +8,7 @@
 		"onEntity": true,
 		"holdingTool": "Always",
 		"holdingMeleeWeapon": true,
-		"holdingRangedWeapon": "Always",
+		"holdingRangedWeapon": "IfInteractable",
 		"holdingThrowable": "IfInteractable",
 		"holdingShield": true,
 		"holdingBlock": "IfInteractable",

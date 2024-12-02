@@ -1,0 +1,13 @@
+name = "Randomium Ore"
+filename = "randomium-1.19.2-1.22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef4cc66f07744bccb8b4a706633c2f90322e7107"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4699660
+project-id = 523013

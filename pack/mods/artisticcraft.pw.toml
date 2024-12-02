@@ -1,0 +1,13 @@
+name = "ArtisticCraft"
+filename = "ArtisticCraft v0.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d129faef1f7d0adc8ed53cd9d135d911b47fb2fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4576049
+project-id = 670310

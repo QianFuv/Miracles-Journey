@@ -1,0 +1,13 @@
+name = "Echo Chest [Forge & Fabric]"
+filename = "EchoChest-v4.0.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "591eb32063075acc34a1df15adb1f01cb8ea2914"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4538164
+project-id = 857972
