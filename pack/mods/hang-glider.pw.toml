@@ -1,0 +1,13 @@
+name = "Hang Glider [Forge & Fabric]"
+filename = "HangGlider-v4.0.0-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "373419d172cd78e6a6a03760a80caaaed3a8af04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4499066
+project-id = 852668
