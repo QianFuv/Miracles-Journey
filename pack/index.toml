@@ -6064,7 +6064,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4a6978b1f69335afe09858be40f52a924cb92a65d37c36bb952086ad7f7359a4"
+hash = "319889e6696be6a753e9e369cef4802368071ccc840181d0b397bc4e549cbe14"
 metafile = true
 
 [[files]]
@@ -6522,11 +6522,6 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "89032b1a50d49407a905ae0af9f65e5248357a7c19cf454a9a0f8ed6478ac365"
-metafile = true
-
-[[files]]
-file = "mods/mob-compack.pw.toml"
-hash = "6e021976993f256c9b51e23e0dfb8a87274c0244f9b7b50624e4814313034947"
 metafile = true
 
 [[files]]
