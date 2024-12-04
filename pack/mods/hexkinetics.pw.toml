@@ -1,0 +1,13 @@
+name = "HexKinetics"
+filename = "hexkinetics-forge-1.19.2-0.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f232286c3370a6d5d8d3ce6e36bc145e44e833d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5762660
+project-id = 1108183

@@ -5975,6 +5975,11 @@ hash = "8bd5335506f318d5efceaf520060786287841e09faade80d8db01cb059c72166"
 metafile = true
 
 [[files]]
+file = "mods/hexkinetics.pw.toml"
+hash = "5c602d3d90971f4e89ae128ef4514e7df469884865325eb3f5ba4696326c5727"
+metafile = true
+
+[[files]]
 file = "mods/hexresearch-forge-1.19.2-1.0.1.jar"
 hash = "324cbc91d1bcce7643361dfa4c026e40fe214dc0828c2daedeeb987f00fabca9"
 
