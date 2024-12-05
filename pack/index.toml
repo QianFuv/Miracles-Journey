@@ -7572,11 +7572,6 @@ hash = "cd4557682d676215ba65d7da3a7555d576058e4148d470f971a2a3e7b46b898d"
 metafile = true
 
 [[files]]
-file = "mods/trade-uses.pw.toml"
-hash = "bd18002cb9a9597e6a24cd459d0815274a0c1c792d6d18908f5ccd12a52a2a9e"
-metafile = true
-
-[[files]]
 file = "mods/transmog.pw.toml"
 hash = "69883a78077982c4471dc8e4605c6045107aec540782b2c11ce1915111505011"
 metafile = true
