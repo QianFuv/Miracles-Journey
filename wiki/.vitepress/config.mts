@@ -32,7 +32,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/WaxingMoonStudio/Miracles-Journey-Home' }
+      { icon: 'github', link: 'https://github.com/QianFuv/Miracles-Journey' }
     ],
 
     docFooter: {
