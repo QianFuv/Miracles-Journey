@@ -2230,7 +2230,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "6094fc22d2a44b66b3177db0a595f3e4cb95e51e2187f2a2edf276944f6e1c1e"
+hash = "cb59d33da86bcad8ef9eedff91401ec7c9dd97ee85754ceb3f10b93a37f9a74e"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2938,7 +2938,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "eede878ac65197186d45908b17c320d6c07e66efbf18f0700c72086f69d81b86"
+hash = "15d6c0331cc4d5dcfc8e523746588b579461b871c56d4bb8543c9d40eadc770a"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3130,11 +3130,11 @@ hash = "cf7392dfae7677eab0f06e4f4a4d3bfa6728d5af462980e8596b8b0a1506798c"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
-hash = "f6e4cd4c269b5ad1d39f7eba6ce0d116c295519b0f06718f730a9f537ec496f4"
+hash = "a7c7e0ff18bcd6772998ff7b177626b93f4a6c948ce7462366cc8a58b3b71efe"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "3f09bbb27f67c712e44357346c6bc50f8ede7593523e8aaf01cbcabb25e17600"
+hash = "456ac43679325e82386d753fe4930b7656f1ef4b06be5535c191fb9b76340914"
 
 [[files]]
 file = "config/modulargolems-common.toml"
@@ -3231,6 +3231,10 @@ hash = "f8f2663d29c2c041eb91db0775075b9cac5ee92706b03ece990eb332e09d6ae0"
 [[files]]
 file = "config/netheritehorsearmor-common.toml"
 hash = "5abdafb3d74320ee4e0873838e829a4ce640876e87a6bb2efebf4b1f87656c5f"
+
+[[files]]
+file = "config/nimble-client.toml"
+hash = "adda60020d3230506c11e6aeab9c0e0bca4a7281448ec00c05f9f9bb32fc70d5"
 
 [[files]]
 file = "config/notablebubbletext-client.toml"
@@ -3816,15 +3820,15 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "0dfbb5cb8d8ef20f447dbf7f946ffae937784e04231531939a8957550cc3990c"
+hash = "cfe07eb05d80bb070b92834e269924f8aef6ee743f50c1614b0ff4ac53ff7308"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "0aaddb72849fd70b1197d2596ea0f934a577ea334911ede1667f69b957d73187"
+hash = "b3b68229d55c3315cde0e0fa6ce9b1bb49d00fc5a3f48112f76a675338553f0a"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "db592d2432f270ae8f4af5f94169ffd40a253d8918ed31a4e363f27e5e6a73b2"
+hash = "f64d6bc861b16bc457c4db16494cf704089506065c20e4b661df64cedbfb14ad"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"

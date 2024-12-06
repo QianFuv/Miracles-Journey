@@ -131,6 +131,16 @@
         }
       },
       "updateType": "major"
+    },
+    {
+      "id": "0.2.0",
+      "releasedAt": 1733446800000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/QianFuv/Miracles-Journey/releases/tag/0.2.0"
+        }
+      },
+      "updateType": "major"
     }
   ]
 }
