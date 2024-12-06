@@ -20,6 +20,13 @@
     <a href="https://github.com/QianFuv/Miracles-Journey/releases">
       <img src="https://img.shields.io/github/v/release/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Release" />
     </a>
+    <br>
+    <a href="https://zh.minecraft.wiki/w/Java%E7%89%881.19.2">
+      <img src="https://img.shields.io/badge/minecraft-1.19.2-blue?style=plastic" alt="Release" />
+    </a>
+    <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html">
+      <img src="https://img.shields.io/badge/forge-43.4.6-blue?style=plastic" alt="Release" />
+    </a>
     <a href="https://mjlist.qianf.fun/">
       <img src="https://img.shields.io/github/directory-file-count/QianFuv/Miracles-Journey/pack%2Fmods?style=plastic&label=mods&color=blue" alt="Mod Count" />
     </a>
