@@ -9,6 +9,10 @@ export default defineConfig({
 
   description: "寻找你需要的一切",
 
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }],
+  ],
+
   cleanUrls: true,
 
   markdown: {
@@ -30,6 +34,8 @@ export default defineConfig({
         ]
       }
     ],
+
+    logo: '/logo.png',
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/QianFuv/Miracles-Journey' }

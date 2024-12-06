@@ -1,3 +1,4 @@
+<!-- 颜色模式切换动画 -->
 <script setup lang="ts">
 import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'

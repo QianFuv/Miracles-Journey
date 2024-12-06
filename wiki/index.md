@@ -5,7 +5,10 @@ layout: home
 hero:
   name: "奇迹之旅 Wiki"
   text: "寻找你需要的一切"
-  tagline: 盈月工作室
+  tagline: 浅风 / QianFuv
+  image:
+    src: /logo_home.png
+    alt: VitePress
   actions:
     - theme: brand
       text: 如何安装
