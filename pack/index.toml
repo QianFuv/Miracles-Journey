@@ -6466,6 +6466,11 @@ hash = "bf80cbc4a1bca56b35cd4cb79991f333c02a3fa6705baedd77db0be1b8416c6d"
 metafile = true
 
 [[files]]
+file = "mods/matmos2.pw.toml"
+hash = "3d44d0904ad9a3008db3103a869904b91d1e15bbf63b37a6608c0641303f02a5"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "6d925d2fac1b1785f68fa06ba877c0be1b382a1f680d12aa9294afd6f2d3537c"
 metafile = true
@@ -6682,6 +6687,11 @@ metafile = true
 [[files]]
 file = "mods/netherite-horse-armor-cj.pw.toml"
 hash = "3e04137c6fb510ad37608401c0cd1a405eebe238bed919e13e7754b423b8874f"
+metafile = true
+
+[[files]]
+file = "mods/nimble.pw.toml"
+hash = "c01a9cb283e928314f14b462cdbd840aa37244e4f4096a505133bd510f8dc8c4"
 metafile = true
 
 [[files]]
@@ -7424,6 +7434,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "c5cd2821b6948e9091e34c06c5be6c9604fc703fbe3f4af954f4e7153d82fbd4"
+metafile = true
+
+[[files]]
+file = "mods/tct-core.pw.toml"
+hash = "3c103e60f0fc491905aa17f3b8325eee4947a7c25b88f73a6e4f9e0c1f207418"
 metafile = true
 
 [[files]]
