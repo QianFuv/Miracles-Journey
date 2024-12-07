@@ -1,0 +1,7 @@
+#Horizontal positioning for the scroll button in the player inventory
+#Range: -1000 ~ 1000
+button_x = 125
+#Horizontal positioning for the scroll button in the player inventory
+#Range: -1000 ~ 1000
+button_y = 61
+

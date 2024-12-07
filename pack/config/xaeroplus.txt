@@ -62,6 +62,7 @@
 [XP] Radar While Dim Switched:true
 [XP] Waystones Sync:true
 [XP] New Chunks Opacity:100.0
+[XP] Hide Invisible Entities:true
 [XP] Show Waypoint Distances:true
 [XP] PortalSkip Detection:false
 [XP] Waypoint ETA:false
