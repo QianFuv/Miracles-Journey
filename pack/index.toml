@@ -1414,7 +1414,7 @@ hash = "fd282d494f12199fb5dffaa7b661f248099b2e7c30d6dcbadfa4988abcccdca1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4132171b3ee42649c9012a9bd291cea4be20b2f4f1bca8fcd02ca1b5c9ae5efe"
+hash = "39796976790685312c64fe1325f121b68672c79cd06a0c6da2e1e999b4418f88"
 
 [[files]]
 file = "config/berrfect-common.toml"
@@ -1679,6 +1679,14 @@ hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 [[files]]
 file = "config/chalk-common.toml"
 hash = "62f755313ce1d75d8de77828752e0329d11df8a3aa1890bad85824244c46c61a"
+
+[[files]]
+file = "config/champions-client.toml"
+hash = "3759802ac05abda42477a621cd95d6bfe04fc9a4a818b4fc0979c990dfb390a4"
+
+[[files]]
+file = "config/champions-common.toml"
+hash = "f511c3818dd785be5415df1006b27bef0e28446512460fedf954684b1543fdc9"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -2230,7 +2238,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "cb59d33da86bcad8ef9eedff91401ec7c9dd97ee85754ceb3f10b93a37f9a74e"
+hash = "aa8d5fcad8094a6be1ee28adb0a982f6d7d03cff35ca6399bbca7edbb11a6abf"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2338,7 +2346,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6fff87c3426dc3e2d8a8c7be4e94b3fccaab7a25ceeccb5802bb16990596966a"
+hash = "318d9ce5671403c80119a954ef9ade033b3a9a24790ce216c81a3f1b18f009b4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2742,7 +2750,11 @@ hash = "5461e6a5d55833ac4e7c4147a41661fa77ae4b921e7beae7f1d307416a7c517a"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "73f7159839e1687d55b58b14194b79e52a843f1fa8262779b20e639c0a88e78b"
+hash = "63065130a68c9471a8e37487b9390f16e8c8cdadf8d6975e0d9857f02b378cbe"
+
+[[files]]
+file = "config/harvests-client.toml"
+hash = "59816b4202084f1827122fc375531fec5fc7e9d1a0cfc94aa8b2643c85a9b69c"
 
 [[files]]
 file = "config/harvestwithease-common.toml"
@@ -2861,6 +2873,10 @@ file = "config/infinitemusic.toml"
 hash = "27ae2a4f020fde457a02ec9de798a66a966b8771a15eb26f17da66478bf9160c"
 
 [[files]]
+file = "config/infinitybuttons.toml"
+hash = "3fce971ec14b5fa92180827404357f0f9c25b603209fb7f1bc0d7c2f87fe9038"
+
+[[files]]
 file = "config/ingameime.json"
 hash = "a691efb5262d0b4f56be1a537066f198f55cdfcc61b5fac14d3550e846f89ece"
 
@@ -2922,7 +2938,7 @@ hash = "928c5099f0511f77d0fda120875c0b8e350343331849c5fb6aad7a2f318a7f96"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "02f35222bee649633c16aff0b73c8168350e644d997c326cc7ceceff182292b9"
+hash = "7d69b42d961126d4f5b42e2e6015e1fbeffda6f41d33ca982ea590033e0b714c"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -2938,7 +2954,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "15d6c0331cc4d5dcfc8e523746588b579461b871c56d4bb8543c9d40eadc770a"
+hash = "2566a1e3527ecc297d0fc80d9aef7c5135d2d62c7893dc867dafdd0a5312034e"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3820,7 +3836,7 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "cfe07eb05d80bb070b92834e269924f8aef6ee743f50c1614b0ff4ac53ff7308"
+hash = "05204fa3198e5a5d1adc669820b3c9b21d612ea97109f23b064dac15b4431280"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -4356,7 +4372,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "762fa47a3fc5aa7cecd293ef8a0e44d9916b12993f40e92f7a0c86bc8779c968"
+hash = "fe1603875bc4333d563cc7d37addda37807740c7305eafdf6a1cdc9166ef37e2"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -4393,6 +4409,18 @@ hash = "664c92c5177831c0f095081492255c560d65486a403dce3c4b7ae2b8ddbec20c"
 [[files]]
 file = "config/zillagersweararmor-common.toml"
 hash = "19b06fed62b2e7ac87f0dbad27ee5921e469cc2d10b0b3231a0d02dd838327ee"
+
+[[files]]
+file = "defaultconfigs/champions-affixes.toml"
+hash = "85ad8ec88504c685ff51af24291af2f5db5502d124ea60556e88c3ed10f62fef"
+
+[[files]]
+file = "defaultconfigs/champions-entities.toml"
+hash = "7d1c82a41a2fd4b59db6c8cbb466b89389d59e8874d831bf2987541a5fb697f4"
+
+[[files]]
+file = "defaultconfigs/champions-ranks.toml"
+hash = "293be7b70378dc89260db97d2ab02161d31aad05357562feac9a3dafe47b3670"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -4961,6 +4989,11 @@ metafile = true
 [[files]]
 file = "mods/chalk.pw.toml"
 hash = "461ecc0a1afc0e22dfec0cc1c0570dd3d29e0d6c07300691abec7b70bd078536"
+metafile = true
+
+[[files]]
+file = "mods/champions-unofficial.pw.toml"
+hash = "af92bbd207821a3f176fbffd2ccefc2500c8831047ad4b48f43e72e6eea2699c"
 metafile = true
 
 [[files]]
@@ -5935,7 +5968,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "6655c49d2bae0f6a37c8af126a2da6c45932879b4bdaa9808bdc0b10b410d3d9"
+hash = "824a50c6194c7b42020517d55f0e453b5d49d69b4a6166d43665bbb199446e03"
 metafile = true
 
 [[files]]
@@ -6104,6 +6137,11 @@ metafile = true
 [[files]]
 file = "mods/infinite-music.pw.toml"
 hash = "baf2764be49568681110b8fbfb0b97cc78bd8ab0e597b59838fc0f9b3c34aac4"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "0d452a5905972d3630cd21b35c960f618d42fa884fdffede6a2bc1058a7f3790"
 metafile = true
 
 [[files]]
@@ -6621,6 +6659,11 @@ metafile = true
 [[files]]
 file = "mods/multibeds.pw.toml"
 hash = "7bba795427308485b8e4db875d6441969ee93c850fee668dc2c2d51cebbc2184"
+metafile = true
+
+[[files]]
+file = "mods/mushroom-villagers.pw.toml"
+hash = "3bdd5946ed6da2f32bdbe36214c194fdcc3588118192ff93d99490f02ec8c1ab"
 metafile = true
 
 [[files]]
@@ -7150,6 +7193,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "3886ffb74fc87e82c586a6c6cf9d44c96f07b4eb8e5c71cfd40c2a19e7bc1f3c"
+metafile = true
+
+[[files]]
+file = "mods/scroll-of-harvests.pw.toml"
+hash = "d1ef2088de4ab01823ddc1eaef6f27d0da0478f1e0090ed2a885566f39af9b8e"
 metafile = true
 
 [[files]]
@@ -7826,7 +7874,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ebf36707b19afe71ea7e0b77da2f9e1bbba08664f426adc483b4e237a0060527"
+hash = "83e771784a2cc62a51866b8f58a3ae89fc9f372d40617fc685228614d121e63a"
 metafile = true
 
 [[files]]
@@ -7946,7 +7994,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "da4e3bf01fb76ea67179f3a824455859d2add2d7e7edd9c7993fb35d8d39a113"
+hash = "7e1d566d90bd22603d36c880b3448c3fb82cf21cfd4b1d51352dbf073ec4b1f7"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

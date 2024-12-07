@@ -1,0 +1,13 @@
+name = "Scroll of Harvests"
+filename = "harvests-1.19.2-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "726e7bac50494ef686c7bfe7a65a7c757642a83a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4379788
+project-id = 571339
