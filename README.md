@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".github/asset/icon.png" alt="logo" width="150" height="auto" />
+  <img src="https://cdn.sa.net/2024/12/08/UjBJsQtbSafA28L.png" alt="logo" width="150" height="auto" />
   <h1>Miracles Journey - 奇迹之旅</h1>
   <p>
     基于原版MC设计的全新大型整合包，提供全新体验。
@@ -55,14 +55,4 @@
 
 <a href="https://github.com/QianFuv/Miracles-Journey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=QianFuv/Miracles-Journey" />
-</a>
-
-## ✨ 标星
-
-<a href="https://star-history.com/#QianFuv/Miracles-Journey&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=Date" />
- </picture>
 </a>
