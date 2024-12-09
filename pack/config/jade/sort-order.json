@@ -149,6 +149,9 @@
   "cookingforblockheads:sink": null,
   "ars_nouveau:mob_jar": null,
   "delightful:crop_progress": null,
+  "workshop_for_handsome_adventurer:jade_plugin1": null,
+  "workshop_for_handsome_adventurer:jade_plugin2": null,
+  "workshop_for_handsome_adventurer:jade_plugin3": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -184,8 +187,5 @@
   "jade:registry_name": null,
   "jade:mod_name": null,
   "jade:distance": null,
-  "jade:block_face": null,
-  "workshop_for_handsome_adventurer:jade_plugin1": null,
-  "workshop_for_handsome_adventurer:jade_plugin2": null,
-  "workshop_for_handsome_adventurer:jade_plugin3": null
+  "jade:block_face": null
 }
