@@ -4,91 +4,101 @@
 
 ## 第一步 - 版本选择
 
-> 在开始下载之前，您需要明确您将要游玩哪个版本。目前，整合包有三个版本可供选择，分别为：稳定版、测试版和开发版，接下来将介绍这几个版本之间的区别和下载方式。
-
-|  版本  |                                  特点                                  |                           适用人群                           |                  发布周期                  |
-| :----: | :--------------------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: |
-| 稳定版 | 不会出现较多的严重 Bug，内容较为完善（每版之间的修改内容约为 500+ 条） |          对于不追求最新版而追求稳定的玩家的最佳选择          |       测试版每发布 9 版将会尽快发布        |
-| 测试版 |         包含了最新一段时间（大约为一个月）之内的修改和错误修复         |            对于想体验较新版本游戏的玩家的最佳选择            | 新增、删除和修改内容总计达 50 条后尽快发布 |
-| 开发版 |                      拥有最新的更新内容和错误修复                      | 对于急需获取最新更新和错误修复的玩家和开发测试人员的最佳选择 |        每一次更新均为一次开发版发布        |
+|  版本  |                  特点                  |                           适用人群                           |             发布周期             |
+| :----: | :------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+| 稳定版 | 包含了最新一段时间之内的修改和错误修复 |          对于不追求最新版而追求稳定的玩家的最佳选择          | 新增、删除和修改内容足够多时发布 |
+| 测试版 |      拥有最新的更新内容和错误修复      | 对于急需获取最新更新和错误修复的玩家和开发测试人员的最佳选择 |   每一次更新均为一次测试版发布   |
 
 ## 第二步 - 版本下载
 
-> [!IMPORTANT] 
->
-> 整合包最新构建系统已发布，请前往[最新构建](https://github.com/QianFuv/Miracles-Journey/actions)处下载体验！
-
-> 由于整合包还处于开发阶段，因此推荐下载游玩开发版获取最新更新和 Bug 修复。
+> 由于整合包还处于测试阶段，因此<sapn class="marker-text">推荐下载最新测试版游玩</sapn>以获取最新更新和 Bug 修复
 
 ### 稳定版
 
-暂未发布，目前推荐下载开发版或者最新测试版。
+:::tabs
+
+== Github
+
+1. 进入整合包最新版本的[发布页面](https://github.com/QianFuv/Miracles-Journey/releases/latest)
+2. 点击 `Assets` 列表下的 `Miracles-Journey-x.x.x.zip` 文件下载（“x”为版本号）
+
+== Alist
+
+1. 进入整合包 [Alist 托管页面](https://alist.qianf.fun/)
+2. 点击最上方`版本列表`文件夹进入整合包版本列表
+3. 选择<sapn class="marker-text">修改时间最新的版本</sapn>右键选择下载
+
+== 群文件
+
+1. 进入整合包官方 Q 群：[点击加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZhRJUzbJ0KzlyBMu_SOcuqGkVg5VYpVT&authKey=g2%2BmqmzVTf1OeqqLgMRITVZ6ytQUm%2FoIG8BRqinpPGyD%2Bft5i72IuZprh8pRBI0m&noverify=0&group_code=160373490)
+2. 在群文件内点击`版本列表`文件夹进入整合包版本列表
+3. 选择<sapn class="marker-text">上传时间最新的版本</sapn>下载
+
+== 自构建
+
+1. 安装 [Go](https://go.dev/dl/) 语言环境
+2. 安装 [Packwiz](https://github.com/packwiz/packwiz)：`go install github.com/packwiz/packwiz@latest`
+3. 进入[仓库标签列表](https://github.com/QianFuv/Miracles-Journey/tags)，选择<sapn class="marker-text">最新的标签</sapn>下方对应的 `Zip` 文件按钮下载压缩包并解压至合适目录
+4. 进入解压目录内的 `pack` 文件夹
+5. 打开 Cmd 使用 `packwiz curseforge export` 导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
+
+:::
 
 ### 测试版
 
 :::tabs
 
-== Github
+== Github Actions
 
-> 下载文件格式：Miracles-Journey-Pack-Beta-x.x.x.zip（“x”为版本号）
+1. 进入整合包[自动构建页面](https://github.com/QianFuv/Miracles-Journey/actions)
+2. 点击打开<sapn class="marker-text">最新的（最上面的）构建</sapn>
+3. 没有登陆 Github 账号的需要在页面右上角登陆 Github（如已登录请跳过此步骤）
+4. 点击页面下方 `Artifacts` 列表内的文件下载
 
-1. 进入整合包仓库发布页面：[点我即达](https://github.com/WaxingMoonStudio/Miracles-Journey-Pack/releases)
+== 自构建
 
-2. 找到带有“Beta”字样的预发布版本
-
-   ![image-20240810232559804](https://cdn.sa.net/2024/08/10/7poH9KW3PaRnfdN.png)
-
-3. 点击左下方“Assets”展开资源列表，点击“Source code(zip)”按钮下载文件即可
-
-   ![image-20240810233453741](https://cdn.sa.net/2024/08/10/XfavdGNKOB8P1tr.png)
-
-:::
-
-### 开发版
-
-:::tabs
-
-== Github
-
-> 下载文件格式：Miracles-Journey-Pack-main.zip
-
-1. 进入整合包仓库页面：[点我即达](https://github.com/WaxingMoonStudio/Miracles-Journey-Pack)
-
-2. 点击绿色“Code”按钮展开菜单
-
-   ![image-20240811000613233](https://cdn.sa.net/2024/08/10/xjo8tusBGyrDieN.png)
-
-3. 点击“Download ZIP”按钮下载即可
-
-   ![image-20240811003310653](https://cdn.sa.net/2024/08/10/AtZwOlWn7pLDgTu.png)
+1. 安装 [Go](https://go.dev/dl/) 语言环境
+2. 安装 [Packwiz](https://github.com/packwiz/packwiz)：`go install github.com/packwiz/packwiz@latest`
+3. 下载[最新仓库文件](https://github.com/QianFuv/Miracles-Journey/archive/refs/heads/main.zip)并解压至合适的目录
+4. 进入解压目录内的 `pack` 文件夹
+5. 打开 Cmd 使用 `packwiz curseforge export` 导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
 
 :::
 
-## 第三步 - 解压压缩包
+## 第三步 - 安装整合包
 
-将下载好的压缩文件解压至合适的文件夹，进行下一步操作。
-
-如果您在使用 Windows 资源管理器或者 Winrar 解压时遇到了“文件名过长无法解压”的错误，请尝试将压缩包名称改短或者换用 7-Zip 等其他解压软件进行解压。
+直接将下载好的压缩包拖入 [PCL](https://github.com/Hex-Dragon/PCL2) 和 [HMCL](https://github.com/HMCL-dev/HMCL) 安装即可，启动器会自动识别整合包名称和下载整合包全部文件
 
 ## 第四步 - Java 环境下载
 
-> 本整合包借助 `GraalvmJDK` 提供的高性能优化方案和参数达到最大的优化效果，请您无论是否有安装过 Java 环境，都按照指南下载 `GraalvmJDK`。
+> 本整合包借助 GraalvmJDK 提供的高性能优化方案和参数达到最大的优化效果，请您无论是否有安装过 Java 环境，都按照指南下载 GraalvmJDK
 >
-> 本指南后续将整合包根目录称为 `/Pack/` 以便利描述。
 
-进入 `/Pack/GraalvmJDK21` 文件夹，双击运行 `GraalvmDownload.bat` 下载脚本，等待运行完成即可，整个过程大概持续三分钟左右，出现“请按任意键继续”的提示后按任意键关闭窗口即可。
+1. 进入整合包版本文件夹内的 `graalvm21` 文件夹，使用管理员运行 `download.bat` 脚本，将自动下载 GraalvmJDK21 到当前目录
+2. 如果您使用的是 PCL 启动器，则不需要进行多余操作；如果使用的是 HMCL 启动器，需要在 `游戏设置` 中手动选择刚刚下载的 GraalvmJDK21
 
-## 第五步 - 转移文件
+## 第五步 - 启动参数配置
 
-剪切根目录下除 `/Pack/launcher` 文件夹外的所有文件，粘贴至 `/Pack/launcher/.minecraft/versions/Miracles-Journey-Pack` 目录中即可，提示有文件相同请选择“替换/覆盖”选项。
+推荐使用的启动参数为（只能与 GraalvmJDK 搭配使用）：
+
+```
+-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -XX:+UseG1GC -XX:MaxGCPauseMillis=37 -XX:+PerfDisableSharedMem -XX:G1HeapRegionSize=16M -XX:G1NewSizePercent=40 -XX:G1ReservePercent=15 -XX:SurvivorRatio=32 -XX:G1MixedGCCountTarget=3 -XX:G1HeapWastePercent=20 -XX:InitiatingHeapOccupancyPercent=20 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5.0 -XX:GCTimeRatio=99
+```
+
+粘贴上面的启动参数至下方启动器对应位置即可：
+
+:::tabs
+
+== PCL
+
+`版本设置` -> `设置` -> `高级启动选项` -> `JVM 参数头`
+
+== HMCL
+
+`版本管理` -> `游戏设置` -> `启用版本特定游戏设置` -> `高级设置` -> `编辑高级设置` -> `游戏参数`
+
+:::
 
 ## 第六步 - 启动器配置
 
-1. 进入 `/Pack/launcher` 目录，启动 PCL 启动器，如有启动器更新提示请立即更新，待启动器更新完成重启后使用
-2. 点击最上方的 `设置` 栏，在 `启动选项 - 游戏 Java` 选项中选择 `自动选择合适的 Java` 选项
-3. 游戏默认分配 `12G` 内存用于游戏，如果您的内存不足请适当降低，建议不少于 `8G`。
-4. 回到 `启动` 栏，点击 `登录` 选项并按照提示操作，登录正版账号后点击 `启动游戏` 按钮即可开始游戏。
-
-> [!CAUTION]
->
-> 什么？您是离线版账户？离线登录选项好像被隐藏了！快找找看吧！或者......仅需 89 元即可入正哦！[点我进入官方正版购买链接](https://www.xbox.com/zh-CN/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj?ocid=storeforweb)！！！
+- 内存分配：12G（<sapn class="marker-text">不要多也不要少</sapn>），由于元数据等需要占用额外 8G 左右内存，实际体验会占用近 20G 内存
