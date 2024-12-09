@@ -43,6 +43,8 @@
   <h4>
       <a href="https://github.com/QianFuv/Miracles-Journey/releases">下载版本</a>
     <span> · </span>
+      <a href="https://mjlist.qianf.fun/">模组列表</a>
+    <span> · </span>
       <a href="https://mjwiki.qianf.fun/">查看文档</a>
     <span> · </span>
       <a href="https://github.com/QianFuv/Miracles-Journey/issues/new/choose">问题反馈</a>
