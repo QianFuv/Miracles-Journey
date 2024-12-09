@@ -5316,6 +5316,10 @@ hash = "a9bda174aca70aea677bd4bc6c767033bc7baa62cf10612779240966e39b0624"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map-1.4+mc1.19.2-forge-create-0.5.1.jar"
+hash = "3d5035ad472385c3875f60ed939101c573cd7461a3f6c49e4e01d80e208b685f"
+
+[[files]]
 file = "mods/create-vintage-improvements.pw.toml"
 hash = "b28eb48d8ad67ee3cca03ce502655631cf3bad37ce30037571d32f537a436a52"
 metafile = true
@@ -7108,11 +7112,6 @@ metafile = true
 [[files]]
 file = "mods/respiteful.pw.toml"
 hash = "1e891d594d590d7b16223f6916f7065637729c0a6654d4827defff4be9a7414e"
-metafile = true
-
-[[files]]
-file = "mods/reuploaded-mods.pw.toml"
-hash = "cde2203ae22d0931493c907671eca71676e2e0bae743236d803e407e13a2ac84"
 metafile = true
 
 [[files]]
