@@ -10,9 +10,6 @@
 
 > 为了方便描述，旧版本的版本文件夹目录表述为`/oldversion/`，新版本的版本文件夹目录表述为`/newversion/`
 >
-> - `/oldversion/`具体绝对路径为：`/旧整合包安装文件夹/.minecraft\versions\Miracles-Journey-Pack`
-> - `/newversion/`具体绝对路径为：`/新整合包安装文件夹/.minecraft\versions\Miracles-Journey-Pack`
->
 > 请将下面列出的文件夹或文件从`/oldversion/`目录复制到`/newversion/`目录下
 
 必须转移的文件：
@@ -23,12 +20,7 @@
 - 存档：`/saves/`
 - 截图：`/screenshots/`
 - 车万女仆自定义包：`/tlm_custom_pack/`
-- 地图：
-    - BetaV0.1.2 及以下
-        - `/XaeroWaypoints/`
-        - `/XaeroWorldMap/`
-    - BetaV0.1.2 以上
-        - `/xaero/`
+- 地图：`/xaero/`
 - 服务器列表：`/servers.dat`
 
 可选但不建议转移的文件：
@@ -37,6 +29,4 @@
 
 ## 第三步 - 清理旧版本文件
 
-目前您的所有存档和依赖已经转移至新版本内，使用新版本内置启动器游玩即可，旧版本游戏文件夹现在可以被完全删除。
-
-祝您在奇迹之旅内游玩愉快！
+目前您的所有存档和依赖已经转移至新版本内，祝您在奇迹之旅内游玩愉快！
