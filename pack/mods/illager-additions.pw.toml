@@ -1,13 +1,13 @@
 name = "Illager Additions"
-filename = "illager_additions-1.19-0.1.17.5-beta.jar"
+filename = "illager_additions-1.19-0.1.17.5-release.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b213693b02068f993d0d16ba481aee7f5518cac0"
+hash = "d0c42caa81eeed64b6b1eea2866c9a7189fcc6b6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5977195
+file-id = 5980016
 project-id = 682835
