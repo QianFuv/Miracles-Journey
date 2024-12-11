@@ -17,15 +17,18 @@
     <a href="https://mjwiki.qianf.fun/">
       <img src="https://img.shields.io/uptimerobot/status/m797930572-49470041ab540b0efc30ac67?style=plastic&label=wiki%20status&color=blue" alt="Wiki Status" />
     </a>
+    <a href="https://mjlist.qianf.fun/">
+      <img src="https://img.shields.io/uptimerobot/status/m797930565-9f7c55f97df8ef494668e3b9?style=plastic&label=modlist%20status&color=blue" alt="Modlist Status" />
+    </a>
+    <br>
     <a href="https://github.com/QianFuv/Miracles-Journey/releases">
       <img src="https://img.shields.io/github/v/release/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Release" />
     </a>
-    <br>
     <a href="https://zh.minecraft.wiki/w/Java%E7%89%881.19.2">
-      <img src="https://img.shields.io/badge/minecraft-1.19.2-blue?style=plastic" alt="Release" />
+      <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FQianFuv%2FMiracles-Journey%2Frefs%2Fheads%2Fmain%2Fpack%2Fpack.toml&query=versions.minecraft&style=plastic&label=minecraft&color=blue" alt="Minecraft Version" />
     </a>
     <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html">
-      <img src="https://img.shields.io/badge/forge-43.4.6-blue?style=plastic" alt="Release" />
+      <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FQianFuv%2FMiracles-Journey%2Frefs%2Fheads%2Fmain%2Fpack%2Fpack.toml&query=versions.forge&style=plastic&label=forge&color=blue" alt="Forge Version" />
     </a>
     <a href="https://mjlist.qianf.fun/">
       <img src="https://img.shields.io/github/directory-file-count/QianFuv/Miracles-Journey/pack%2Fmods?style=plastic&label=mods&color=blue" alt="Mod Count" />
