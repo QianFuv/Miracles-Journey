@@ -1770,7 +1770,7 @@ hash = "27a358c10f7bccbe6c11b8560737e6950917bfc847187807ce4e6d518c2d534c"
 
 [[files]]
 file = "config/connectedness.json"
-hash = "77f86e18fff51b0c06b773b5bc9608b5b74e264e2220589d6b1723b044b18e10"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
 
 [[files]]
 file = "config/constructionwand-client.toml"
@@ -3552,7 +3552,7 @@ hash = "21ca6db7e69e1419b00466182d566ee0e408d85c2017bcdd091e6c5909bf77aa"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
-hash = "c5c276f79105258077c39701f2719e548d7e986c02b9d213262b05af15271ebe"
+hash = "f979a9cee58136bfcdd950e8f83356fa14880f841de405838e87e3c9a63e291e"
 
 [[files]]
 file = "config/pneumaticcraft/MicromissileDefaults.cfg"
@@ -3564,7 +3564,7 @@ hash = "052d37ccd8ea50a41b1313430b3b85690ae130e6fde53c1c4902ab40e51afb4f"
 
 [[files]]
 file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
-hash = "5546c545d7d0a1a1b8bfc43083c2b4b230f683218accf076c4ded630c7a9d231"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
 
 [[files]]
 file = "config/pneumaticcraft/thirdparty.cfg"
@@ -4468,7 +4468,7 @@ hash = "d0eb28d0b7cce1707f8d3590e0b7a6c5320847f6932b943b5440e74c34158953"
 
 [[files]]
 file = "kubejs/config/probejs.json"
-hash = "45998f3a11250c9a5a9f4f639cb85f10a3ca1cf7d0e2afb30a1b13d89d80f87a"
+hash = "487128db93fe40f02ce10e18600fed05b353b3544fdfa223f80d21e81545477f"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -6452,7 +6452,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "0d024f9415938dcc72141860ca17d489126541464b39a48fa2ae7f22a9877ab8"
+hash = "b6bedb0c1349c42c4bdaae2f31d2a5c3020ee51644816c606877d441f1724685"
 metafile = true
 
 [[files]]
