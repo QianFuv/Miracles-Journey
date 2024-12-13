@@ -92,4 +92,6 @@
 	#Always render Overlay Accessories on Dogs as Translucent 
 	#This is to prevent Special Variant's overlay to override on the Overlay Accessories
 	translucent_all_overlay = true
+	#Enable this to hide Wolf Mount Dog's Status Overlay when riding it.
+	hide_wolf_mount_status = false
 

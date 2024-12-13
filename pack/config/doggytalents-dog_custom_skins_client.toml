@@ -1,0 +1,14 @@
+#Specify the Strategy to be used when picking which Dog Custom Skin
+#will not be loaded clientside. The entry for these lists is
+#required to be the texture's path in ResourceLocation format
+#(e.g. doggytalents:textures/entity/dog/custom/arcanine_shiro.png).
+#Your client do need to be restarted for any changes to take places.
+#0: Allow all
+#1: Allow all except blacklisted
+#2: Disallow all except whitelisted
+#Other: Defaulted to 0
+#Range: > -2147483648
+strategy = 0
+whitelisted_id = []
+blacklisted_id = []
+
