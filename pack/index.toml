@@ -4892,11 +4892,6 @@ hash = "6b9e47c4002c2a1f5bfb069a8251a3d74c45844209d607d19d2bd515e87d0ea7"
 metafile = true
 
 [[files]]
-file = "mods/born-in-chaos.pw.toml"
-hash = "626106511d4df21ddf8b6f91ebb252801f7ade360786bc5eaf07dcc08b504e2b"
-metafile = true
-
-[[files]]
 file = "mods/bosses-of-mass-destruction-forge.pw.toml"
 hash = "4c8e96d4526329c13051ebf1d85a3b1f8cdc80d38063e5d1c30258dcaf5aee51"
 metafile = true
@@ -5226,11 +5221,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "1b9170da93d087b6dfbf73d3991dc58cbf80df54a0a51e56b325b39a019fdadc"
-metafile = true
-
-[[files]]
-file = "mods/create-compressed.pw.toml"
-hash = "5fb52b32e5073d0819a6343b936481703f1fb4d1e70ddf42ded0dec36c3f6d29"
 metafile = true
 
 [[files]]
@@ -6276,11 +6266,6 @@ hash = "a7a0a8393fd4a24f230c0cec54fb26eebd5f922135ba3a6614c5654f96dcff68"
 metafile = true
 
 [[files]]
-file = "mods/just-outdoor-stuffs.pw.toml"
-hash = "f6f3064758c0aa198cb28c3c44beecc4353db52f080bfb405c8466d241f55d80"
-metafile = true
-
-[[files]]
 file = "mods/just_dandy-1.19.2-1.0.2.jar"
 hash = "bb473e80a5344e48cdbdc2471d8b4f0baa83f53b34c9e1d834bbc1977400ee71"
 
@@ -6751,11 +6736,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "20df1bcaf0f5ea11542bceda16e751fb45fb4fc11298f5d2108a9e89412f23fd"
-metafile = true
-
-[[files]]
-file = "mods/nocubes-better-smoker.pw.toml"
-hash = "8f7d64fcf8c06bf6162ad789823fb018b07cc6161d2e871f036313ba2baafcd7"
 metafile = true
 
 [[files]]
