@@ -2038,7 +2038,11 @@ hash = "9c8067fbf4bc9dfc266dc52f7b64c00aba339c79b405e715086804d380cf5ace"
 
 [[files]]
 file = "config/doggytalents-client.toml"
-hash = "67a849998112ee809eb1b309356cf7fc2ddbe8d36f1d9f1e71ddba9d3e0c4fe1"
+hash = "c92935f826c94eef73f7eb56fcba4847e6c5c693c122eb695574c7bd07659581"
+
+[[files]]
+file = "config/doggytalents-dog_custom_skins_client.toml"
+hash = "922d6ea872ad4087927cfc62351886ad6b7b74550f4e6cb213c9fd0f3408f984"
 
 [[files]]
 file = "config/dragonfight.json"
@@ -3078,7 +3082,7 @@ hash = "ca0c564f02c5a513db42eb6ef800fa42a3844ad3e4a63dfec63396b2121a470a"
 
 [[files]]
 file = "config/lootintegrations.json"
-hash = "c8ac8df5eca9d1e788bc9f565b09d0c8b878f6591e3dbaf6211491986b9b3c5d"
+hash = "aa35b459eb46a0d9992889629afd6b7519b7925ee549261c439d94c59e9e2cb2"
 
 [[files]]
 file = "config/lucky77-common.toml"
@@ -4140,7 +4144,7 @@ hash = "80ff0df5f6599013f35a26319003be44079694964155bc7593bbe61e77a30b53"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "02ed6634e5879ecc1f689aef53c003168a1fa09830fe56bad9b810d2fdeb806a"
+hash = "0e84d48efd7ad6ceb4638b8804fa05f26f6990b5675ce8c320e34f48410a5a4c"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -7797,7 +7801,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "449b45b5938ce8afb84c287603d6c2811560d588ece7c3a0d1b2ce045e283b1b"
+hash = "d740e3278884837a5990f06f9e80f9851c0fd671e54dc8bd1aea561ed2b86e24"
 metafile = true
 
 [[files]]
@@ -7867,7 +7871,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "fe17dd297cea98a990df424cf08ea32f6a98f54595826bb48cbbbb747bbdcc27"
+hash = "c4a8a741fd6abc381a21abf7fb9a121d35bd693b772558ff9aeae7b5357f60c5"
 metafile = true
 
 [[files]]
@@ -7877,7 +7881,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6e6478cdef7102b12c97b657f74cf123aebc56648cf6e9864fa4aba1fe40e411"
+hash = "cefad5c635e349b99d9fa64ebe9449453854676714284dd693bd3ebafa4c39f5"
 metafile = true
 
 [[files]]
@@ -7987,7 +7991,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7e1d566d90bd22603d36c880b3448c3fb82cf21cfd4b1d51352dbf073ec4b1f7"
+hash = "8a9d9f85752d0e3811aa795b4bdc8c76f8b69e01f99e03c9fcd18d6d977bd857"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
