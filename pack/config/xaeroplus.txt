@@ -1,3 +1,4 @@
+[XP] Long Waypoint Initials:false
 [XP] WorldMap Baritone Goal Here:false
 [XP] Roof Y Level:250.0
 [XP] Switch to Nether:false
