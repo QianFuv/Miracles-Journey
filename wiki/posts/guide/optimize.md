@@ -11,7 +11,7 @@
 操作：
 
 1. 点击 `应用程序的自定义设置` 栏的 `添加桌面应用` 按钮
-2. 选择 `/.minecraft/versions/Miracles-Journey/GraalvmJDK21/bin/` 目录下的 `java.exe` 和 `javaw.exe`
+2. 选择 `/.minecraft/versions/Miracles-Journey/graalvm21/bin/` 目录下的 `java.exe` 和 `javaw.exe`
 3. 选中添加的 Java 程序，`GPU首选项` 设置为您的独立显卡
 
 ## 调整全屏分辨率并使用全屏游玩
