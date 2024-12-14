@@ -1,8 +1,8 @@
 # 优化教程
 
-以下优化选项均为可选，请各位整合包玩家根据自己实际情况进行修改。
+以下优化选项均为可选，请各位整合包玩家根据自己实际情况进行修改
 
-将按照推荐程度由高到低排序，`推荐度` = `增加帧数` / `降低画质`
+按照推荐程度由高到低排序，`推荐度` = `增加帧数` / `降低画质`
 
 ## 使用独立显卡渲染游戏
 
@@ -11,7 +11,7 @@
 操作：
 
 1. 点击 `应用程序的自定义设置` 栏的 `添加桌面应用` 按钮
-2. 选择 `/pack/launcher/.minecraft/versions/Miracles Journey/GraalvmJDK21/` 目录下的 `java.exe` 和 `javaw.exe`
+2. 选择 `/.minecraft/versions/Miracles-Journey/GraalvmJDK21/bin/` 目录下的 `java.exe` 和 `javaw.exe`
 3. 选中添加的 Java 程序，`GPU首选项` 设置为您的独立显卡
 
 ## 调整全屏分辨率并使用全屏游玩
@@ -57,7 +57,7 @@
 
 ## 光影设置优化
 
-> 官方推荐光影是 `ComplementaryReimagined_rx.x.x + EuphoriaPatches_x.x` （`x` 为版本号随版本变化），因此下面的设置只提供对推荐光影的设置调整，使用其他光影请自行参照设置。
+> 官方推荐光影是 `ComplementaryReimagined_rx.x.x + EuphoriaPatches_x.x` （`x` 为版本号随版本变化），因此下面的设置只提供对推荐光影的设置调整，使用其他光影请自行参照设置
 
 ### 关闭实体阴影
 
