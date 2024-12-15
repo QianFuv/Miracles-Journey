@@ -5300,7 +5300,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "9ea64459c76f9c7c8346615a1b8388673b8ac8b827818fea5ea5aff87b8d2fde"
+hash = "501b975050aeade2b4c86de6ee25c7e324f7a000d3a5b1f2aae378bc59d80fa7"
 metafile = true
 
 [[files]]
@@ -6804,7 +6804,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "07d825e921c0b5d99ba0d9cae12fc889aa09f7e0203137cd0142ccaa71d6868d"
+hash = "726905be441fe67705ce8d248de44399428cf7dbf667501b960a4fe9a512a8bf"
 metafile = true
 
 [[files]]
