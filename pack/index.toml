@@ -1874,11 +1874,11 @@ hash = "a51541bf93bd4d74d77fb77add1dca5fa948d5a52a60e1d57a8d954e91d5d310"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "9487da73d44f1c6ae8f697dd8ccba6c5ab3e4df31dbbb4be04b80b7aba5f047c"
+hash = "fcaebad3c3151160d67a5f1ef727c82c0a03919db21e2350677575dd17884755"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
-hash = "1dc87976eed1cbcb53fee40b5f440ec3945f25a03504767c5e4c07843d55ee3e"
+hash = "037ec46e69e418b97338b506fed59f6bd4cd15524c9331abcc440ba8f3f00d8c"
 
 [[files]]
 file = "config/createsifter-client.toml"
@@ -2047,6 +2047,10 @@ hash = "922d6ea872ad4087927cfc62351886ad6b7b74550f4e6cb213c9fd0f3408f984"
 [[files]]
 file = "config/dragonfight.json"
 hash = "522c5a0c2617e95f030a3c3cff8481f74f999525bbac23c1f5305fd0dab60206"
+
+[[files]]
+file = "config/dragonlib-common.toml"
+hash = "cd45321557f3bc16f9b068728c9a73ab05a205b23c649ae0969fcc47236b4f60"
 
 [[files]]
 file = "config/dragonmounts-client.toml"
@@ -2242,7 +2246,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "aa8d5fcad8094a6be1ee28adb0a982f6d7d03cff35ca6399bbca7edbb11a6abf"
+hash = "9a6165c2e8e85ee9b7ba9f13dcf4bbde8833c806bac26d6a3a36433a2c116e3e"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2958,7 +2962,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2566a1e3527ecc297d0fc80d9aef7c5135d2d62c7893dc867dafdd0a5312034e"
+hash = "31bea309923589fdc0bd5c106c6e6c80fd1215423afe1d7099fe13a5865c8cc2"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3840,7 +3844,7 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "c165d94b33a9470f8112801feb38c7529a996251db03b2032254f5cc3eafc8f9"
+hash = "d46e6c00c491c6fd764712bbd934716465515a4d98548c8aa604c200b7725dcc"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -4380,7 +4384,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "fe1603875bc4333d563cc7d37addda37807740c7305eafdf6a1cdc9166ef37e2"
+hash = "6bdee808334eabaa8e1f95af27037fae98b16314a36100293a77bf53cd97457d"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -5300,7 +5304,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "501b975050aeade2b4c86de6ee25c7e324f7a000d3a5b1f2aae378bc59d80fa7"
+hash = "fe1bd0cd429ee207aa3dab8f04bb213e6bef7317391ed2b2c2c568200b759589"
 metafile = true
 
 [[files]]
@@ -6804,7 +6808,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "726905be441fe67705ce8d248de44399428cf7dbf667501b960a4fe9a512a8bf"
+hash = "14df249d7d67e0385ef14931564d25ff9ec9e7af26703e4f6bd4569d0e2b80fb"
 metafile = true
 
 [[files]]
@@ -7971,7 +7975,107 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8a9d9f85752d0e3811aa795b4bdc8c76f8b69e01f99e03c9fcd18d6d977bd857"
+hash = "782976c02be8413ba8e8bc60946884bc77683a3a7d84a9ae3bf657bd1edea32b"
+
+[[files]]
+file = "patchouli_books/miracles_book/book.json"
+hash = "184f45b59a961c49824af5e0c98392ea2276e7a4645678c93eba19f7bb99011e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/adventure.json"
+hash = "ee15deb72af5ee813dacd90323a9bb3fc65562458a12631e65ae3cae7e43c8c5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/agriculture.json"
+hash = "d85e54235a9bc23524d934c8fce2ffd937897b9df9ae0fa07f010d51db6200de"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/assist.json"
+hash = "a6a24a979f6e992cf491221897d3926d913fd25fdef92051c0f54ab178dd6e95"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/custom.json"
+hash = "42f549c5328a5c49cbe948bb2ff1dda4adb8b40e995ed133d747f4e6f6a049a0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/datapacks.json"
+hash = "8f82fff752495f8ad909c2f455db6fcc57f602c7b95f9615abe2a8bdbaf741ac"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/decoration.json"
+hash = "59f000f66f1e8a27436ed49a13e08f01f1db60b90fa8728b24e3d2b24b08401f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/lib.json"
+hash = "bf748c637c22d8fa32c0b472c88c09f44a31da383d15ea6538ec072b2cbf8d5f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/magic.json"
+hash = "9f83442ae0c0a2e9f3b327874399e6dd916f6c51691252b37cd151fb7afc88e8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/resourcepacks.json"
+hash = "5a0a8b78c99a1beb55a0b325d22f82d92c461e29505d8123ba07c3055d93b263"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/shadepacks.json"
+hash = "81f29471a2d8d395e3871bc46942c669bf63c21b07a87df263a19b2625f87332"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/technology.json"
+hash = "0ec3b6330836c19b684956b1c01b4b555d7deb86549ad9409db3221b944032cd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/categories/utility.json"
+hash = "7ff2f8e33b34ac8afd12d9c92a37576a5c618cd943c83ebfda9da4bfe0fc8783"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/test_entry.json"
+hash = "de5cb1faf86f460c9010cff462d5cd405003639a1eb544ce19cb796b2f00a97b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/test_entry.json"
+hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

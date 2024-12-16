@@ -1,0 +1,5 @@
+{
+    "name": "辅助",
+    "description": "整个模组的重点在于脚本，主要使用GUI/按钮或指令来实现功能，通常未添加新的物品/方块。",
+    "icon": "naturescompass:naturescompass"
+}

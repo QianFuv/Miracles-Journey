@@ -34,4 +34,10 @@
 		#Every X cycles the scheduled times are updated to the current real-time data. (Default: 2; Disabled: 0)
 		#Range: > 0
 		auto_reset_timings = 2
+		#When activated, CRN uses the transit times provided by Create (if available) when initializing. When turned off, the initialization may take longer. (Default: ON)
+		use_create_transit_times_on_init = true
+
+	[createrailwaysnavigator_common_config.debug]
+		#Prints more details to the console to better observe the behavior of CRN. Only relevant for debugging.
+		advanced_logging = false
 
