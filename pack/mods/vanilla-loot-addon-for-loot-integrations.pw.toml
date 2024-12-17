@@ -1,0 +1,13 @@
+name = "Loot Integrations: Randomized Loot Compatibility"
+filename = "lootintegrations_vanilla-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4c23e95f3b0c0a4c8fb9106ce1780b13d4868a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5851183
+project-id = 1128055

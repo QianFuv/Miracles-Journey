@@ -2085,6 +2085,10 @@ file = "config/dungeons_enhanced-common.toml"
 hash = "f6633dfe6d0803f93b2c3fdeb19ac8914aeff24901c02c8ee1fe21523635bb50"
 
 [[files]]
+file = "config/dungeons_plus-common.toml"
+hash = "6a5d69bd73ad89ee598c00403d43c4baf2cfe288307cea40c0715f3e089698a8"
+
+[[files]]
 file = "config/dynamiccrosshair.json5"
 hash = "cd3a028b6a269b69490f3f74be3d021f698aa36bc65ec54ac491e6fd2866b27a"
 
@@ -2962,7 +2966,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "31bea309923589fdc0bd5c106c6e6c80fd1215423afe1d7099fe13a5865c8cc2"
+hash = "b3bf05ae8527d644bb54db714f6de12d9f6ec82251761db073333ac70270a36f"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3844,7 +3848,7 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "d46e6c00c491c6fd764712bbd934716465515a4d98548c8aa604c200b7725dcc"
+hash = "75334a1685051b3a3b23e9ca23c941c46b047f2d5cbda6e09a1544453842c4af"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -6449,6 +6453,71 @@ hash = "a5eb76698e4885297528e56c30f4cdd3f815f3d01c2afc31e5dc4135cc682e88"
 metafile = true
 
 [[files]]
+file = "mods/loot-integrations-bygone-nether-it-takes-a-pillage.pw.toml"
+hash = "b59a8099264f10c859ab311c8409bb893a9bc3045c7c961290acf8dfe4cf1935"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-cataclysm.pw.toml"
+hash = "25d949b0a3d98e2ec3cbe81b48ef8919c1bf04cbd47366ee9c750eff10f5aa01"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeon-crawl.pw.toml"
+hash = "825a76b3449e9a2fdaf229c2dd83907041d3ec4581ff06a537273e7d94ff4da1"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-dungeons-plus.pw.toml"
+hash = "c18e381b190ac04cc4351de41d4f39dd9a35cbd545c9524f1cad09090fe34cd9"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
+hash = "27df66ff3f0526621ee71687534829f29fabdbacf47d581e58feecdfce77d549"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-integrated-dungeons-villages.pw.toml"
+hash = "2332d25e2338e60f8554869565b2431294c22bcab3c407453c5974f73f2152ef"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
+hash = "d7d3396065ff30b42c296cfbae27d8ffcceacfbcd46db302160f142731b22a93"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-structory-towers.pw.toml"
+hash = "c6dc828d5693804f3ac669f8233b86be8abae87bb64c2d35cf08be7da10f1300"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-the-graveyard.pw.toml"
+hash = "85ef40d4e93c64dfdaef2039994c2694e33a15886e90e023fcf5e52009c957b1"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-the-lost-castle.pw.toml"
+hash = "448b83fa813a00461fbe40b57b164533803a884ec74b529b5286ba74b4f9c519"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-towns-and-towers.pw.toml"
+hash = "c21a52142ee283d25f2e28c2b395393adca5e12cc8bb629c8d0a45b64e3439c7"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-valhelsia-structures.pw.toml"
+hash = "be6aae4bd982701732573dd3ec44a906ffba18948412be55a2094de81d369f3f"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations-when-dungeons-arise.pw.toml"
+hash = "9ee4dc2ade4b997042e0b1832795419fe4f18417d023ea9aaebef6c5b32ed2dd"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "b6bedb0c1349c42c4bdaae2f31d2a5c3020ee51644816c606877d441f1724685"
 metafile = true
@@ -7731,6 +7800,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "ab793fac9538f5671cf3271537251ac65ec1e2c74eb37f68d993f953a5921c8f"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
+hash = "c486de69ef38168e7195722b2206723c27a7160fca42a14e195ee0d51272f6a8"
 metafile = true
 
 [[files]]

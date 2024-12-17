@@ -1,0 +1,13 @@
+name = "Loot Integrations: Integrated Dungeons, Villages & Strongholds"
+filename = "lootintegrations_integrated-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7aa9b78835f2ea20a7935275eed173794c7325a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5944036
+project-id = 1149272

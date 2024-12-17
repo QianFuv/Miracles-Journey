@@ -1,0 +1,13 @@
+name = "Loot Integrations: Dungeon Crawl"
+filename = "lootintegrations_dungeoncrawl-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46048dbe8cabe5eeca757f5369c90819bbb96616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5891110
+project-id = 1137456
