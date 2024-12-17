@@ -5525,6 +5525,11 @@ hash = "c0c6cef8b8eb1fbdb264c9e061e3cdfe96acff095e8e84ddda1730398f4a971f"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-plus.pw.toml"
+hash = "5769751915286a004dec2204f51cba385efbefd4525d151b65afef9031b9c11b"
+metafile = true
+
+[[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "bcaa5f3750f6e615e33461c4cc28f524601ddb249cb0c6be8ce5e39e73a67b69"
 metafile = true
@@ -6605,6 +6610,16 @@ metafile = true
 [[files]]
 file = "mods/monobank.pw.toml"
 hash = "d77b152b87611f277e5ab7050939d96238d68e330639a1d73bc1a2fd43a8556c"
+metafile = true
+
+[[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "247d0000daa1a043fafc473c9809d9503e17e9eb89626ca64ff1be9cbf76d191"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "ef39772c4da36febb1de77a6dfec7ef8b611a6ed558532cb04e81eb76d4aace2"
 metafile = true
 
 [[files]]
