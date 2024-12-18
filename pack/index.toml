@@ -1874,7 +1874,7 @@ hash = "a51541bf93bd4d74d77fb77add1dca5fa948d5a52a60e1d57a8d954e91d5d310"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "fcaebad3c3151160d67a5f1ef727c82c0a03919db21e2350677575dd17884755"
+hash = "e54941217487d8d240b5eed98078ccec6df81d46bc3ae4adab13be00c7be030e"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
@@ -2294,7 +2294,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "275d452779f124def31fde4a30eb6c09bfe790cc8b3540227b015c35e6892aec"
+hash = "3767691ae9afb4f906e47070ba3000f8c2b37b63b59c07086cffa0f81022b104"
 
 [[files]]
 file = "config/fancymenu/customization/01.txt"
@@ -4328,7 +4328,7 @@ hash = "be4aa72ac1cd57c91a18c4501b30f4f5e2cfe867728aaf25b276ec670080d7a2"
 
 [[files]]
 file = "config/waterframes-client.toml"
-hash = "bf923fe403db63bea7b244cad5f78d8a4645b8417b163f4b6286d55dda09cf62"
+hash = "60d98e7963e24cd9e26729be77f8ef278948833568cae6d068478ba63330c580"
 
 [[files]]
 file = "config/watermedia/assets/loading.gif"
@@ -7031,11 +7031,6 @@ hash = "a31279987bb4bb01fbd6f185d80b7040e56a08c5e2e5195c70465f8f5ad80574"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "f0de5ef6ea77e70d7d54843118a60d5434f78046839ee92d03d7e9a7e63d8505"
-metafile = true
-
-[[files]]
 file = "mods/ponder.pw.toml"
 hash = "023f57930e12f07d7d8431d0de80622f0e6c1693e07a3aea7d6dd31b60444ebb"
 metafile = true
@@ -8069,7 +8064,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "782976c02be8413ba8e8bc60946884bc77683a3a7d84a9ae3bf657bd1edea32b"
+hash = "472ac6a235977f887f215fdc9ff9d7229fb224c7974fca26ea78b904505d168d"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
