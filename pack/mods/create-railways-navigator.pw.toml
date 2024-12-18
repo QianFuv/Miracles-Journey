@@ -1,13 +1,13 @@
 name = "Create Railways Navigator"
-filename = "createrailwaysnavigator-forge-1.19.2-beta-0.7.0.jar"
+filename = "createrailwaysnavigator-forge-1.19.2-beta-0.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b6ef346e3b8cbb5ee29ac5d4adb5a4f29ad965df"
+hash = "4924043132310491c0d0436fbf243ada6e5cded8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5993115
+file-id = 5999614
 project-id = 935929

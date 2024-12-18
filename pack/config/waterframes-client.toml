@@ -16,4 +16,7 @@
 		#This is was done for developers who has mods that causes compatibilities with waterframes (or watermedia)
 		#Let those modders test waterframes x incompatible mods (i see you stellarity owner)
 		forceDevMode = false
+		#overrides 'waterframes.multimedia.slavistMode'
+		#Force-enable WATERMeDIA's slavist mode, slavism enhances youtube quality at the cost of have unstable playback
+		slavistMode = false
 
