@@ -5237,6 +5237,11 @@ hash = "b5c3054d2df7754fc9116164b97945a2b9ba79e7c98faacbf9638ba9e7f14126"
 metafile = true
 
 [[files]]
+file = "mods/create-creating-space.pw.toml"
+hash = "d82c46ae86400f714a8335f034a678098213ce1220cab3b780313956ce6a6ddb"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "2cba2bf9444d88e6f579205e37679abf969a264f7f661616b92125f913d006cd"
 metafile = true
@@ -5294,11 +5299,6 @@ metafile = true
 [[files]]
 file = "mods/create-metallurgy.pw.toml"
 hash = "c326dd33f7e8600178cb095bae345e98bc9c8ac48883d340187ee8c8aa717267"
-metafile = true
-
-[[files]]
-file = "mods/create-northstar.pw.toml"
-hash = "a9c00912cbc89358021418f77d0dce21f33f28271a8aedcaeaac8203488be76a"
 metafile = true
 
 [[files]]
