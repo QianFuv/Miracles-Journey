@@ -5401,6 +5401,10 @@ hash = "a14df507e8c423df9220a8c8feabab133be043bc46376c89771cb53db2c9ff53"
 metafile = true
 
 [[files]]
+file = "mods/datapackloaderrorfix-1.19.x-19.1.0.jar"
+hash = "0c23fac3fce2e7ce05e28988c4c784ee32eac0bd5fbbdf77b084ebcc1b07f4eb"
+
+[[files]]
 file = "mods/daves-potioneering.pw.toml"
 hash = "3ac459424241246dfab3ca49a807e189c335944573acdc66246f34f7f9b8ad1e"
 metafile = true
