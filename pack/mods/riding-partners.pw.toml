@@ -1,0 +1,13 @@
+name = "Riding Partners"
+filename = "riding_partners-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d14f391c2020133e1c4b644d2efd18ea9a4d3799"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367973
+project-id = 818725

@@ -1,0 +1,13 @@
+name = "Copper Overhaul"
+filename = "copperoverhaul-MC1.19.2-22.10.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec305ad0588abf0f315325ea92d22b53bdf71c11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4025995
+project-id = 625123

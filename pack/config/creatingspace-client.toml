@@ -1,0 +1,41 @@
+
+#.
+#config for the oxygen backtank
+[oxygenBacktank]
+	#.
+	#.
+	#the horizontal offset compared to default location
+	#Range: > -2147483648
+	xOffset = 0
+	#.
+	#the vertical offset compared to default location
+	#Range: > -2147483648
+	yOffset = 0
+	#.
+	#the corner from where the offset is calculated
+	#Allowed Values: BOTTOM_RIGHT, BOTTOM_LEFT, TOP_RIGHT, TOP_LEFT
+	place = "BOTTOM_LEFT"
+	#.
+	#the color of the oxygen gauge
+	#Allowed Values: WHITE, BLACK, RED, ORANGE, GREEN, BLUE
+	color = "WHITE"
+
+#.
+#config for the oxygen room
+[oxygenRoom]
+	#.
+	#turn this on to see the shape of the room
+	oxygenRoomDebugMode = false
+
+#.
+#client configs for the rockets
+[rocket]
+	#.
+	#multiplier for the rocket zoom out ( when on a seat)
+	#Range: 0.10000000149011612 ~ 20.0
+	zoomOut = 0.5
+	#.
+	#the type of measurement the flight recorder give for propellant quantities
+	#Allowed Values: VOLUMETRIC, MASS
+	recorder_measurement = "VOLUMETRIC"
+
