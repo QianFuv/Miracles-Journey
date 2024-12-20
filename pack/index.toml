@@ -2314,7 +2314,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "002278851e441c645fb5d6a94c6701fde9732b83ea872a23e4e46fe8271ca3ec"
+hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
 
 [[files]]
 file = "config/fancymenu/customization/01.txt"
@@ -2327,10 +2327,6 @@ hash = "2baeaa514e480651deee1910e7897bd795c3dfd0ecdf4e58a83927d908c39735"
 [[files]]
 file = "config/fancymenu/customization/03.txt"
 hash = "0e0cd22169e2d522aa90901b42ca10b25fd6fc17550f8dac2c948250ddd59f98"
-
-[[files]]
-file = "config/fancymenu/customization/04.txt"
-hash = "9781dfac1a8e3e399f57062aa497ae9a0c155ca92678003c864e3a5714f97094"
 
 [[files]]
 file = "config/fancymenu/customization/05.txt"
@@ -4785,7 +4781,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "079db08d8392c337bf40833684e94451441b8c8384d070bf09e9a362f4a64a34"
+hash = "567ae055fe9372033a13de58072087260abddee54ab976ca36a5fd40ff8d4a85"
 metafile = true
 
 [[files]]
@@ -5115,7 +5111,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloud-boots.pw.toml"
-hash = "9264a90d1986c12e1e0e7e8776034427dd426d2b965e756874e8b2e17c7123b9"
+hash = "97debe64aed1d888785f51600b76b794ddab3bf00bc15c1c9f91e374216fbca5"
 metafile = true
 
 [[files]]
@@ -8050,7 +8046,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "c4a8a741fd6abc381a21abf7fb9a121d35bd693b772558ff9aeae7b5357f60c5"
+hash = "802c52bff1bd20b9b9d80622501b74a816b5eba2de0c77ac07afa58a2eba5d22"
 metafile = true
 
 [[files]]
@@ -8170,7 +8166,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9c1b82492e6c2d560ecb7f3e943e942fbf54e25f34b67de4328bec5da36c2579"
+hash = "1a10cca91804e6d7ea5dd66894fa90d2bcaba2455f80e1070d9809374ef3238a"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
