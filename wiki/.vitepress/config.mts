@@ -32,6 +32,12 @@ export default defineConfig({
           { text: '可选优化', link: '/posts/guide/optimize' },
           { text: '常见问题', link: '/posts/guide/issue' }
         ]
+      },
+      {
+        text: '进阶指南',
+        items: [
+          { text: '贡献指南', link: '/posts/proguide/contribute' }
+        ]
       }
     ],
 

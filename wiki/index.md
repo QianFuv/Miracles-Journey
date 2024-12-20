@@ -11,17 +11,11 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: 如何安装
+      text: 基础指南
       link: /posts/guide/install
-    - theme: brand
-      text: 如何更新
-      link: /posts/guide/update
     - theme: alt
-      text: 可选优化
-      link: /posts/guide/optimize
-    - theme: alt
-      text: 常见问题
-      link: /posts/guide/issue
+      text: 进阶指南
+      link: /posts/proguide/contribute
 
 features:
   - title: 方法
@@ -31,3 +25,9 @@ features:
   - title: 工具
     details: 这里将提供一些有用的小工具给你，它们将帮助你的游戏体验变得更好！
 ---
+
+## 🏆 贡献者
+
+<a href="https://github.com/QianFuv/Miracles-Journey/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=QianFuv/Miracles-Journey" />
+</a>
