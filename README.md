@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FQianFuv%2FMiracles-Journey%2Frefs%2Fheads%2Fmain%2Fpack%2Fpack.toml&query=versions.forge&style=plastic&label=forge&color=blue" alt="Forge Version" />
     <img src="https://img.shields.io/github/directory-file-count/QianFuv/Miracles-Journey/pack%2Fmods?style=plastic&label=mods&color=blue" alt="Mod Count" />
     <img src="https://img.shields.io/github/repo-size/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Repo Size" />
-    <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-blue?style=plastic&color=blue" alt="License" />
+    <img src="https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-blue?style=plastic&color=blue" alt="License" />
     <img src="https://img.shields.io/github/stars/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Stars" />
   </p>
   <h4>
