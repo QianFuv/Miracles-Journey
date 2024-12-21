@@ -12612,11 +12612,11 @@ hash = "aa9428c7398fbd4e9febeed9e96cd979506142994ccc0f626c18b2aec39df17d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.zip.txt"
+file = "shaderpacks/BSL_v8.4.01.1.zip.txt"
 hash = "f429f695f04c47251540de916664f6b9c869da9e6b1cd268dc104920ca202632"
 
 [[files]]
-file = "shaderpacks/Bliss-Shader-1117.zip"
+file = "shaderpacks/Bliss-Shader-24-11-17.zip"
 hash = "c590edfc6c77caae2447dc02e3044beff59c0fdeb80822ece272a08018c30495"
 
 [[files]]
@@ -12644,11 +12644,11 @@ file = "shaderpacks/Lux_v1.1_patch2.zip.txt"
 hash = "6f73c7de1849ded82164ade49c54e01a65567259b064890e6269bb6c8f2edcc5"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1.zip"
-hash = "0cce753488233bbc1f7045150000d14f984d6e287e94b45df5871ae2e7d2270f"
+file = "shaderpacks/MakeUp-UltraFast-9.1b.zip"
+hash = "ba149fe03e76ca3473855741d31df3a36267a0cbd3aab522a2e4ef1b475073cf"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-9.1b.zip.txt"
 hash = "42f0d2d5cf0e18fa5f2c1a7015f75e99499a493e4e11f340ceac9f33dbb5fc3b"
 
 [[files]]
@@ -12662,7 +12662,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "6d6bca9402b092bac99d3fcb908d3b97996dd997fca6a504086c6a9dd8a6318e"
+hash = "4db086ddd817faf54e9293155e05128a537da70e7478dd7999d80832569ecfea"
 metafile = true
 
 [[files]]
@@ -12681,11 +12681,11 @@ hash = "112f2c88a8417d9962f5278e8d2c6474421c02491ea6b90ec4c7716b4e706034"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon-0817.zip"
-hash = "677d2169f073f307720bd0481ddf1a4014c64964f81b145e764dc43f79abbfe0"
+file = "shaderpacks/photon-dev-24-10-10.zip"
+hash = "3f630d1ab061af0bc2f6d61505db945d01cadf9250c628148c30ebfdbadd5748"
 
 [[files]]
-file = "shaderpacks/photon-0817.zip.txt"
+file = "shaderpacks/photon-dev-24-10-10.zip.txt"
 hash = "c26887fb17051a3d090c72935b2a990da5f6ab11f5f5b7c1812295c5b2d1620b"
 
 [[files]]
