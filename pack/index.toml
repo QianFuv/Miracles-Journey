@@ -1817,6 +1817,14 @@ file = "config/crash-pipe/crash.wav"
 hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "cd60c4552c073a9504231c38c58481757aca30a1e31c421177a2da3fe9e53ed1"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "97f2804fc1b3815d30afa21af1b5f881cd1132cf9fb7f8ad703d8ce129378aa8"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "0e27bb1655898a15edea5713415c790faf04e5e6d67d38d1a806a81470f88a95"
 
@@ -2270,7 +2278,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "43afe2604ad2a760b78f6d7bd7b70932696da23805722dc78592d761bac5d26a"
+hash = "8e7b4b0b561166224ad1ebe1ac3cc0a0d43c5434c1a5b16a656f79c486922b73"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -5008,7 +5016,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "955d3ab224f709193ce33a29450236808d77d829ca729d5a3c7d371f0d1f47f2"
+hash = "ac88dfe90112d0c7dfc86da24e839bbddd62a238f605d8703583ef2b8cedac0c"
 metafile = true
 
 [[files]]
@@ -5261,7 +5269,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e3988b1b704042e3e5d3b744bc2ea4bb68811330b24b2b47e802a5d5988b9958"
+hash = "86642d04f48bf7d5ce66736fc41907e88502b54a5c9983e3283b390feb06243b"
 metafile = true
 
 [[files]]
@@ -5291,7 +5299,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-creating-space.pw.toml"
-hash = "d82c46ae86400f714a8335f034a678098213ce1220cab3b780313956ce6a6ddb"
+hash = "da7d90d6af662d7ad8c4c9e78ae6f13b45f99ca68d40fcdeae9c589c88143a4e"
 metafile = true
 
 [[files]]
@@ -6188,7 +6196,7 @@ metafile = true
 
 [[files]]
 file = "mods/illager-additions.pw.toml"
-hash = "238f8bcaeaadaf09ed331b59870274e6fb586e4ebff517b86297b7e6f6705a6e"
+hash = "75ef78033a76ee540886837e52ab6c8107d03fb4655b16f98a31fe4bea604866"
 metafile = true
 
 [[files]]
@@ -12617,7 +12625,7 @@ hash = "f429f695f04c47251540de916664f6b9c869da9e6b1cd268dc104920ca202632"
 
 [[files]]
 file = "shaderpacks/Bliss-Shader-24-11-17.zip"
-hash = "c590edfc6c77caae2447dc02e3044beff59c0fdeb80822ece272a08018c30495"
+hash = "5c79c8ca72107dac6425711c21107ad21eca1e5945776eaf8fc5a7911c6edf4c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.zip"
@@ -12682,7 +12690,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon-dev-24-10-10.zip"
-hash = "3f630d1ab061af0bc2f6d61505db945d01cadf9250c628148c30ebfdbadd5748"
+hash = "a910650d34cca98b754147514ff32baa84b4c40136b70ff9b285d0268cb81c8f"
 
 [[files]]
 file = "shaderpacks/photon-dev-24-10-10.zip.txt"
