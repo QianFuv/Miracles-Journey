@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/github/commits-since/QianFuv/Miracles-Journey/latest?style=plastic&color=blue" alt="Commits Since Latest Release" />
     <img src="https://img.shields.io/github/commit-activity/w/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Commit Activity" />
-    <img src="https://img.shields.io/github/actions/workflow/status/QianFuv/Miracles-Journey/nightlybuild.yml?style=plastic&label=nightly build&color=blue" alt="Build Status" />
+    <img src="https://img.shields.io/github/actions/workflow/status/QianFuv/Miracles-Journey/testpack_build.yml?style=plastic&label=testpack build&color=blue" alt="Build Status" />
     <img src="https://img.shields.io/uptimerobot/status/m797930572-49470041ab540b0efc30ac67?style=plastic&label=wiki%20status&color=blue" alt="Wiki Status" />
     <img src="https://img.shields.io/uptimerobot/status/m797930565-9f7c55f97df8ef494668e3b9?style=plastic&label=modlist%20status&color=blue" alt="Modlist Status" />
     <br>
