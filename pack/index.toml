@@ -1822,7 +1822,7 @@ hash = "55c8307f7685dc206233bd5402067c9144cf4a747038545a962feb86a0e9bcc5"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "97f2804fc1b3815d30afa21af1b5f881cd1132cf9fb7f8ad703d8ce129378aa8"
+hash = "94852c7f9f762961937cf655d3406123577370fce8bd34635a3c48315f82c96b"
 
 [[files]]
 file = "config/create-client.toml"
@@ -5269,7 +5269,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "b13f017d8ac20d94ddd0f831eb9e65ea6bdef7fef0d70952aaae3bd051bcfe54"
+hash = "67120886bb743f0cc1f04a0656f800f74e2facfd90606b70ca16563eb9358861"
 metafile = true
 
 [[files]]
