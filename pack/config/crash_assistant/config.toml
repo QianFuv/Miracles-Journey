@@ -26,9 +26,9 @@
 	#Initial text of generated msg with links to all files.
 	msg = "Minecraft 崩溃辣！"
 	#Title label text, then crash report or hs_err exists.
-	title_crashed_with_report = "Oops, Minecraft crashed!"
+	title_crashed_with_report = "Ohno，Minecraft 崩溃辣！"
 	#Title label text, then no crash report exists.
-	title_crashed_without_report = "Oops, Minecraft crashed without crash report!"
+	title_crashed_without_report = "Ohno，Minecraft 崩溃辣！但是没有错误报告（悲）"
 	#Comment text under title.
 	comment_under_title = "Minecraft 崩溃辣！下面是几个解决此问题的选项。\n您可以查看可用日志列表及相应的操作按钮来 Debug。\n如果您不确定该如何处理，可以点击最下方按钮查看反馈途径。"
 
