@@ -1826,7 +1826,7 @@ hash = "55c8307f7685dc206233bd5402067c9144cf4a747038545a962feb86a0e9bcc5"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "122c7f93cd4b4b13808d54304e0cda9f4d0be03a039e7b305e2d89909fd7c994"
+hash = "52a6e06af6e12daefca43a6b4a1c5701e7deb8151c0c6a89ffd5cb5cb07e0f4c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -6793,6 +6793,11 @@ hash = "2902fd5015141faa31356b0544c8038323efd453560f01c69fa7e2242be4859b"
 metafile = true
 
 [[files]]
+file = "mods/mekalus-oculus-fork-with-fixed-mekanism-mekasuit.pw.toml"
+hash = "925bb0e35b257f24dd82f2bba8608be06ec6179df2928dafdd949e7ba7bc4568"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "d389d64a279bd60ce2c7928e392b576f6720f874ef93a8c29c38adef36eeff23"
 metafile = true
@@ -7045,11 +7050,6 @@ metafile = true
 [[files]]
 file = "mods/oculus-particle-fix.pw.toml"
 hash = "98708c6ac4d689f1eddd71bb8fdbc46f45158e7ae006bca26465162aa9cb01af"
-metafile = true
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "26d7cfc533fac6969f38170710bc4fd7fa229f921222436a2be7b10dbcd50cdc"
 metafile = true
 
 [[files]]
