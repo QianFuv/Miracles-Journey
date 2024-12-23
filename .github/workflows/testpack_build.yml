@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: 1. 检出仓库
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: 2. 设置 Go 语言环境
         uses: actions/setup-go@v5
