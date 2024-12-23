@@ -1,0 +1,13 @@
+name = "Let Me Feed You!"
+filename = "LetMeFeedYou-forge-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7bf92925bb295c6073e2c1e9a5616e7a6a3d7879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5833501
+project-id = 1107181

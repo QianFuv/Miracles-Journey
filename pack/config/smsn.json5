@@ -1,0 +1,11 @@
+{
+	"aetherMoaSkinsFeature": true,
+	"quarkContributorCheck": false,
+	"ipnUpdateCheckAndUserTracking": false,
+	"kubejsUpdateCheck": false,
+	"xaeroMapPatreonCheck": false,
+	"xaeroMapVersionCheck": false,
+	"citadelAprilFoolsContent": false,
+	"alexModsContributorCheck": false,
+	"obscureModsCheck": false
+}

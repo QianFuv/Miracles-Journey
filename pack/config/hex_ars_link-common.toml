@@ -1,0 +1,10 @@
+#convert ratio for lesser linker
+#Range: 0.0 ~ 1.0E10
+ratioLv1 = 10.0
+#convert ratio for advanced linker
+#Range: 0.0 ~ 1.0E10
+ratioLv2 = 200.0
+#convert ratio for great linker
+#Range: 0.0 ~ 1.0E10
+ratioLv3 = 500.0
+

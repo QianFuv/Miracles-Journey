@@ -61,6 +61,10 @@ file = "config/InventoryHUD/curios.json"
 hash = "9057dfa492c789fef258dbdee24d362765bbd7b16618b52294841f86d216d5bb"
 
 [[files]]
+file = "config/LetMeFeedYou.toml"
+hash = "4819230ef14350167e0cd7243b9404183c1fc2b4e1f89870db975e83ef69d449"
+
+[[files]]
 file = "config/ModernUI/bootstrap.properties"
 hash = "ca40fb5198906bd863bb4bdee9615dbe8c5ce43d5e4e76c68ebcbc0659c2744f"
 
@@ -1822,7 +1826,7 @@ hash = "55c8307f7685dc206233bd5402067c9144cf4a747038545a962feb86a0e9bcc5"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "94852c7f9f762961937cf655d3406123577370fce8bd34635a3c48315f82c96b"
+hash = "122c7f93cd4b4b13808d54304e0cda9f4d0be03a039e7b305e2d89909fd7c994"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2278,7 +2282,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "8e7b4b0b561166224ad1ebe1ac3cc0a0d43c5434c1a5b16a656f79c486922b73"
+hash = "b9be39612ff82ef0a2c948dc66e007bf5333bf2cbf2975f400be1a2401d8932d"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2765,6 +2769,26 @@ file = "config/goety/goety.toml"
 hash = "be0690575d39414d550ec57c1e707bbaab73f1582682908038c524fb9da32dba"
 
 [[files]]
+file = "config/goety_spillage/goety_spillage-attributes.toml"
+hash = "79d58b8d81ae42c7541a4cf1969a6a00423bf54e2a7559856593a3f315414295"
+
+[[files]]
+file = "config/goety_spillage/goety_spillage-items.toml"
+hash = "459bda80192f5ac3106cb386b0375e14f2b28aaff78aaac0b7418b196d29c069"
+
+[[files]]
+file = "config/goety_spillage/goety_spillage-mobs.toml"
+hash = "63c6c764d2b5550a6a079a9c4fb533ff193847c2ab1ea640b7fdadfe2f27f8fc"
+
+[[files]]
+file = "config/goety_spillage/goety_spillage-spells.toml"
+hash = "0b305b74d9f3f23d5835730d9cd662192765744dc1448b379e0d0e1248a6eff1"
+
+[[files]]
+file = "config/goety_spillage/goety_spillage.toml"
+hash = "b519f4ebede54a4e71eede6c7e50ed32bc81170cee154f033be8e9b75e1f919e"
+
+[[files]]
 file = "config/grapplemod.toml"
 hash = "0390dfc8ee58e0c47bd52b9649fcbeffc2664f104a7a42b629269a22308a3dee"
 
@@ -2799,6 +2823,10 @@ hash = "59816b4202084f1827122fc375531fec5fc7e9d1a0cfc94aa8b2643c85a9b69c"
 [[files]]
 file = "config/harvestwithease-common.toml"
 hash = "52143b3bd444252e4fc16a950862a20314dae5f9d04a412548fe542b238b2b84"
+
+[[files]]
+file = "config/hex_ars_link-common.toml"
+hash = "dbb4e6b5969c53bda3ab01eaaccb31da329e4e2860d754c09c7bfed2440e6bf3"
 
 [[files]]
 file = "config/hexcasting-client.toml"
@@ -2994,7 +3022,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "f9e743cf6bdb0e7b97ba6544dac50170eb4b5d36a94b0d779d075b0b365606a9"
+hash = "7f7e3778005dbd8a2327cf87e3d0cf293bfcbe776501c53e4456e2d09fdfacce"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3018,7 +3046,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "d0b01aaa9473f56a427dbd45867db6666642c344bb57f5b02b105771734fbe16"
+hash = "04789c103b65f7a92fec245a5a1c4fe101fac186e755ebbd84c155adcbc878f4"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -3831,6 +3859,10 @@ file = "config/smoothchunk.json"
 hash = "697b70b5a694ea71abee7c8989f4cfbee65408097db0959df1284f8ea30a94da"
 
 [[files]]
+file = "config/smsn.json5"
+hash = "f06b6c64585f73f0195cb4fc564eb6bfd953bd4fc3c5e5599bb44fd5c25ba620"
+
+[[files]]
 file = "config/sneaky_link-common.toml"
 hash = "04ea3f2c98fea68748f124769267af4c73a9762cc7220ebc6660b7987f22400b"
 
@@ -4009,6 +4041,10 @@ hash = "8402c19db801081e307a7b0537f5bab5240328c7f502c76fd0f247a349c062b0"
 [[files]]
 file = "config/structure_gel-common.toml"
 hash = "ee8596667284c92852895fa74bdd5454f7ddd2e733e8deb372f48c21de454812"
+
+[[files]]
+file = "config/structure_layout_optimizer.json5"
+hash = "7ba0c003f4c15162fbac20387a7ffe7b35ffcf7274025ba840efe75b9bc05895"
 
 [[files]]
 file = "config/structureessentials.json"
@@ -5238,6 +5274,11 @@ hash = "b7825607d1faabe63d169ca27e883a2b3201630d2e9a77bfe169cf943e603eb1"
 metafile = true
 
 [[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "13ca996655e2e4ac7742f14be6c5d81f18c0afc6f03610160eee5eabfabeddca"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "af18eb4767f675f96ad794a889422d9a09d34447822e8243e3eea9095ccf8274"
 metafile = true
@@ -5363,6 +5404,11 @@ hash = "c326dd33f7e8600178cb095bae345e98bc9c8ac48883d340187ee8c8aa717267"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "ec521b75f349e33fdb1f6b0ef9770d53e9c1bbace1a2d0565e4caff851b8798f"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "9878bbf354a9affe9848f3c95e30c7f8b6d32fd7a481a594216adcd012e2a076"
 metafile = true
@@ -5385,6 +5431,11 @@ metafile = true
 [[files]]
 file = "mods/create-track-map-1.4+mc1.19.2-forge-create-0.5.1.jar"
 hash = "3d5035ad472385c3875f60ed939101c573cd7461a3f6c49e4e01d80e208b685f"
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "b65eb3cd95ca7dfe41c9d6abae35094c2814126d5164ae649eba9ce4d20c8e11"
+metafile = true
 
 [[files]]
 file = "mods/create-vintage-improvements.pw.toml"
@@ -5587,6 +5638,11 @@ metafile = true
 [[files]]
 file = "mods/duckyperiphs-1.19.2-1.2.3-forge.jar"
 hash = "61088db45fbcb65238c86c65780283e5cfa7691e03b98cece5ffaa8323bfd037"
+
+[[files]]
+file = "mods/dumplings-delight-reload.pw.toml"
+hash = "5217bfadc1da0d1351122ad627f328c6934ca85a0b45550c6c3cf9e0698e5d7c"
+metafile = true
 
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
@@ -6028,6 +6084,11 @@ hash = "963cb973445760f09232a1b01aab1094d292fa63c4f3abfa2f5973be243e5bf3"
 metafile = true
 
 [[files]]
+file = "mods/goety-spillage.pw.toml"
+hash = "1ba2b4671f54b17c860b29af1507983a712d782d2d900ea9f6f30037d73c6029"
+metafile = true
+
+[[files]]
 file = "mods/goety.pw.toml"
 hash = "46ecd75d9dffec36a37c9f19dd0c505502057fce2cee68fe416e3572a462ed39"
 metafile = true
@@ -6079,6 +6140,11 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "bc3cfd3ad29152d2e7a2a836672753c695083423fb24d215700501891a71d79e"
+metafile = true
+
+[[files]]
+file = "mods/hex-ars-linker.pw.toml"
+hash = "d4fa11093bf3986ce8889466c267a164b741de4cb578deacce7910b4f3bef1dc"
 metafile = true
 
 [[files]]
@@ -6468,6 +6534,11 @@ hash = "0112b04502efe1b21d837889dc29b25121c069ad2ad7ba9335ebaf2b2bf7a15a"
 metafile = true
 
 [[files]]
+file = "mods/let-me-feed-you.pw.toml"
+hash = "32603007c8cbfd8e86129825e0068af0b8eed214e2acc6ac2dfee38ff451a66b"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery.pw.toml"
 hash = "bf4548d6bac8fc005334452bc524423f72698b9bb33880f2949abadf29d1fd46"
 metafile = true
@@ -6678,6 +6749,11 @@ hash = "b1cb46339d3a993098dcf388b66ce6eb70a66b42fdb1fcf959fd5dc4ffa9e5ee"
 metafile = true
 
 [[files]]
+file = "mods/mana-visualizer.pw.toml"
+hash = "e5c35426bee0ac5c6d703ef61abd55c77eafc6d2ee70b956a766b4d3cac66b35"
+metafile = true
+
+[[files]]
 file = "mods/mavapi.pw.toml"
 hash = "db2e03f16c7a34d8576834d1f2473342a29aa934ab64cf4721605eca31c8401b"
 metafile = true
@@ -6784,6 +6860,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "ef39772c4da36febb1de77a6dfec7ef8b611a6ed558532cb04e81eb76d4aace2"
+metafile = true
+
+[[files]]
+file = "mods/more-additional-paintings.pw.toml"
+hash = "0889df417dfcbe4bf67a7d004f3a99edcbde6847fe362b175760dad0978dc3b7"
 metafile = true
 
 [[files]]
@@ -7485,6 +7566,11 @@ hash = "e516ae0f6d27e36130d52a1135540f715db1ab7da5fc1bf83c956b910b5ac584"
 metafile = true
 
 [[files]]
+file = "mods/smsn.pw.toml"
+hash = "0dea44c84deb65d0ceb3e8f431b14c87639fa10fe56e501dd40e1ab19ca00ec1"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "720393a60ef07ec4f59d803ce4754ee256fe995a919928ae7be6168a3d3b8719"
 metafile = true
@@ -7606,6 +7692,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "df48ff6ede70406ba42fa796d007066770d7c17a30e11af27a1c31b86ea5f73f"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "6aeed45678b41aa5076431823af762dce34199475cab0e176ad984029025865f"
 metafile = true
 
 [[files]]
