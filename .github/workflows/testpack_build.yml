@@ -31,7 +31,7 @@ jobs:
         run: |
           packwiz curseforge export
           echo "PACK_NAME=$(ls *.zip | sed 's/.zip$//')" >> $GITHUB_ENV
-          echo "SHORT_SHA=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+          echo "SHORT_SHA=$(git log -1 --format="%h" -- pack/)" >> $GITHUB_ENV
 
       - name: 5. 创建空目录并解压
         run: |
