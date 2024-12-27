@@ -4740,7 +4740,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "3171a45183d398a2ef11b0c38ad8ebd9dcf717af4aa359942d0353381a8c18c6"
+hash = "2a6051ae967eecc5da5ab6ea98fb041ef8d9f4b04384fe4c60f1aff003dcfdfd"
 metafile = true
 
 [[files]]
@@ -5310,7 +5310,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "67120886bb743f0cc1f04a0656f800f74e2facfd90606b70ca16563eb9358861"
+hash = "1cda4000c0e7d960938aded325a762a9171aeb5099f2465b2868ce8128ec214f"
 metafile = true
 
 [[files]]
@@ -6745,7 +6745,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-liquidizer.pw.toml"
-hash = "b1cb46339d3a993098dcf388b66ce6eb70a66b42fdb1fcf959fd5dc4ffa9e5ee"
+hash = "065a839dc820a4b1fa5b3965ee98e1a031ccfbe9b37ea400dd13469cfd3a74fa"
 metafile = true
 
 [[files]]
@@ -7014,7 +7014,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "dc14fbd9a8f67fc4237e381f4d82a8e9092711fc08d1725b81c3d7512d08fa14"
+hash = "feb7bf31c4715c9c2b2d6d3fcb43578547d33f12472a5b1717f1f4439cdd65da"
 metafile = true
 
 [[files]]
@@ -7083,7 +7083,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "7fe9f7f6e903267348164e6fbea69dddc403a5de1f69772dcacdfdeb0f371c1f"
+hash = "f018db7f4541de930100bb993123ce30e5455afa13309212a0aefc2148c5305c"
 metafile = true
 
 [[files]]
@@ -8075,7 +8075,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d740e3278884837a5990f06f9e80f9851c0fd671e54dc8bd1aea561ed2b86e24"
+hash = "7ad872e40cf1a197e8ff4c0f2dfa5bac1e83cb6f0462509c4ab0df2629d8f4e8"
 metafile = true
 
 [[files]]
