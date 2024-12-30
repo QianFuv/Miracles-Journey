@@ -4,8 +4,6 @@
 	enable_animation = true
 	#Enable custom animation of falling
 	enable_falling_animation = false
-	#Enable first-person-view animations
-	enable_fov_animation = true
 	#Enable rotation of camera by Dodge
 	enable_camera_rotation_dodge = false
 	#Enable rotation of camera by Backward Wall-Jump
@@ -22,6 +20,8 @@
 	enable_camera_animation_hang-down = true
 	#Enable lean animation while FastRun
 	enable_lean_animation_fast_run = true
+	#Enable first-person-view animations
+	enable_fpv_animation = false
 
 	[Animations.Animators]
 		enable_BackwardWallJumpAnimator = true
@@ -50,7 +50,7 @@
 		enable_JumpChargingAnimator = true
 
 [Control]
-	#Control of FastRun
+	#Control of Fast Run
 	#Allowed Values: PressKey, Toggle, Auto
 	fast-run_control = "PressKey"
 	#Control of Crawl
@@ -87,22 +87,27 @@
 	#Control of Horizontal Wall Run
 	#Allowed Values: PressKey, Auto
 	h-wall-run_control = "PressKey"
+	#Control of Wall Jump
+	#Allowed Values: PressKey, ReleaseKey
+	wall-jump_control = "PressKey"
+	#Enable cooldown of wall jump
+	enable_wall_jump_cooldown = true
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
-	#Range: 15 ~ 40
+	#Range: 15 ~ 100
 	wall-run_continuable_tick = 25
 	#How long you can do Slide
-	#Range: 10 ~ 30
+	#Range: 10 ~ 60
 	sliding_continuable_tick = 15
 	#FastRun speed modifier
-	#Range: 0.001 ~ 4.0
+	#Range: 0.001 ~ 10.0
 	fast-run_modifier = 2.0
 	#Dodge speed modifier
-	#Range: 0.5 ~ 1.5
+	#Range: 0.5 ~ 3.0
 	dodge-speed_modifier = 1.0
 	#FastSwim speed modifier
-	#Range: 0.001 ~ 4.0
+	#Range: 0.001 ~ 10.0
 	fast-swim_modifier = 2.0
 
 [Stamina]
@@ -227,4 +232,8 @@
 	enable_sounds = true
 	#Whether ParCool is active
 	parcool_activation = false
+	#Enable particles triggered by Action
+	enable_particles = true
+	#Enable particles triggered by just-time breakfall
+	enable_particles_jt_breakfall = true
 

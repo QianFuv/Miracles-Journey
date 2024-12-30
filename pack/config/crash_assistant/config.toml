@@ -9,39 +9,50 @@
 	kill_old_app = true
 	#List of blacklisted log files. This files won't show in GUI logs list.
 	blacklisted_logs = ["CrashAssistant: latest.log"]
+	#If options.txt doesn't exist, the default language will be used.
+	default_lang = "en_us"
 
 #Here you can configure debug options for easier configuration of the mod.
 [debug]
 	#Setting this value to one of listed here, will crash the game in order to show/debug gui.
-	#NONE - default value, no crash. You can always crash game by holding vanilla F3+C keybind.
+	#NONE - default value, no crash. You can always crash game by holding vanilla F3+C keybind or '/crash_assistant crash' command
 	#MIXIN_SETUP - will crash game on Mixin setup. Crash report not generated.
 	#MOD_LOADING - will crash game on load of this mod. Can be used to show FML error screen. Crash report generated.
 	#GAME_STARTED - will crash game on first tick of TitleScreen. Crash report generated.
 	crash_game_on_event = "NONE"
 
-#Here you can change text of buttons, generated msg, etc
+#Here you can change text of lang placeHolders.
+#You can change any text in lang files.
+#You don't need to modify jar. You can change it in config/crash_assistant/lang. For more info read README.md file located where.
 [text]
-	#Text of request_help_button
-	request_help_button = "点击查看问题反馈途径"
-	#Initial text of generated msg with links to all files.
-	msg = "Minecraft 崩溃辣！"
-	#Title label text, then crash report or hs_err exists.
-	title_crashed_with_report = "Ohno，Minecraft 崩溃辣！"
-	#Title label text, then no crash report exists.
-	title_crashed_without_report = "Ohno，Minecraft 崩溃辣！但是没有错误报告（悲）"
-	#Comment text under title.
-	comment_under_title = "Minecraft 崩溃辣！下面是几个解决此问题的选项。\n您可以查看可用日志列表及相应的操作按钮来 Debug。\n如果您不确定该如何处理，可以点击最下方按钮查看反馈途径。"
+	#$SUPPORT_NAME$ in lang files will be replaced with this value.
+	#For example this placeHolder used in: "gui.request_help_button": "request help in $SUPPORT_NAME$"
+	support_name = "Modded Minecraft Discord"
+	#$SUPPORT_PLACE$ in lang files will be replaced with this value.
+	support_place = "player_help channel"
+	#$MODPACK_NAME$ in lang files will be replaced with this value.
+	#For example this placeHolder used in: "gui.title_crashed_with_report": "Oops, $MODPACK_NAME$ crashed!"
+	modpack_name = "Minecraft"
 
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.
 [modpack_modlist]
 	#Enable feature.
 	enabled = true
-	#UUID's of players, who considered as modpack creator.
+	#nicknames of players, who considered as modpack creator.
 	#Only this players can overwrite modlist.json
-	modpack_creators = ["e3dad091629f4e3cb43f2a7b0dc133e3"]
+	#If this feature is enabled and this array is empty, will be appended with nickname of current player.
+	modpack_creators = ["QianFuv"]
 	#If enabled, modlist.json will be overwritten on every launch(mod loading),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.
 	auto_update = true
+
+#Settings of '/crash_assistant crash' command feature.
+[crash_command]
+	#Enable feature.
+	enabled = true
+	#To ensure the user really wants to crash the game, the command needs to be run again within this amount of seconds.
+	#Set to <= 0 to disable the confirmation.
+	seconds = 10
 

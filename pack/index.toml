@@ -634,11 +634,11 @@ hash = "71011a1bca1ad7c0f07540e781656d36f6c66c6fe3e38f9e711f58832d8b58bd"
 
 [[files]]
 file = "config/armourers_workshop-client.toml"
-hash = "84d8ed6baae49394b8194ef129ef14735b1d3bfc211dc2fdbb2b31e7c8210b7e"
+hash = "a887a5322a881e438cfc0f4c86d3580e37bb4b42c718e800af85203d214e56bb"
 
 [[files]]
 file = "config/armourers_workshop-common.toml"
-hash = "e2baaebeb809f736b9e49682737948ad63a09cc7fb55310e0967697f9f363808"
+hash = "a40cfd17d79f6a2f9a36fb28b6b533701d54a6b555d1721fe3e43ed679ad07e2"
 
 [[files]]
 file = "config/ars_additions-common.toml"
@@ -1822,11 +1822,27 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "55c8307f7685dc206233bd5402067c9144cf4a747038545a962feb86a0e9bcc5"
+hash = "672506d716465506149893b334cefbc213db3d02206756f86cff0a7dda9d9452"
+
+[[files]]
+file = "config/crash_assistant/lang/README.md"
+hash = "45c6f75820a72bdd9dbe2a76b9b3297145c233e8d14fde6ef09c14895c940e17"
+
+[[files]]
+file = "config/crash_assistant/lang/en_us.json"
+hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
+
+[[files]]
+file = "config/crash_assistant/lang/ru_ru.json"
+hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
+
+[[files]]
+file = "config/crash_assistant/lang/zh_cn.json"
+hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "52a6e06af6e12daefca43a6b4a1c5701e7deb8151c0c6a89ffd5cb5cb07e0f4c"
+hash = "a66536c0a4c1a5e992ae338d1c25ea86fcb14574a9c04b14e817f3c8d5036122"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1946,7 +1962,7 @@ hash = "c639f1709e5072c9e117b5cb0b8c4f669245698d11655d4156392c069e42d541"
 
 [[files]]
 file = "config/customcredits/credits.json"
-hash = "32a9c791467d5f3e046c6753bb8569b16ce498fb842b1c1febbb9e86d83ae54a"
+hash = "d7c8d7f8352b1180d2bd9f940c3365a81433a006629ab7f427846221b6f463ab"
 
 [[files]]
 file = "config/customcredits/poem.txt"
@@ -3350,7 +3366,7 @@ hash = "2b4ec0fa72704975ad734baef83e209b5a9e639edf87266285e53c3f32265168"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "70c48102b521192fc6a33db08bede40f9a42b7cde15aa1770657df08a38e513f"
+hash = "58be11368b4771646c4348b18c7cb38a0673113a1e38e79c0869d3375f66d8bb"
 
 [[files]]
 file = "config/paintings-client.toml"
@@ -3370,7 +3386,7 @@ hash = "06c9c1217c9313b77d552b22c965a1a1058210c1d1f14c173d56c2d8a18bd870"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "3660652b8011eedc9f7cb1a161cee1935a166e99d419bc7e07d8f96b1fe70c8f"
+hash = "81d75cb13e15f1eab3400fe0fabe0d9bea80411b26660e1d725c4e147111a4d2"
 
 [[files]]
 file = "config/passablefoliage-common.toml"
@@ -4220,7 +4236,7 @@ hash = "80ff0df5f6599013f35a26319003be44079694964155bc7593bbe61e77a30b53"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "0e84d48efd7ad6ceb4638b8804fa05f26f6990b5675ce8c320e34f48410a5a4c"
+hash = "ad9fa38bf96db7fc6ed79dbf87ff79d4d7cb9842a93eac1310e72f6b94b1bd7e"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -5275,7 +5291,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "13ca996655e2e4ac7742f14be6c5d81f18c0afc6f03610160eee5eabfabeddca"
+hash = "99d927a4d081e25a819b794373330288f04e54ef351062551506f51a2c43bbd7"
 metafile = true
 
 [[files]]
@@ -5310,7 +5326,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1cda4000c0e7d960938aded325a762a9171aeb5099f2465b2868ce8128ec214f"
+hash = "7e07bcc75155a07c1e4d5d28988b480a63f2aa596d83216b0d9033ec508d87e5"
 metafile = true
 
 [[files]]
@@ -5474,7 +5490,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "eb9ddf11e4c1ce9eea0cd362681344feb0b10be59d55ff1987ee77b130e78310"
+hash = "1e358c2fe72e4cb23a89f6ae6f63ed00f4666fb9be59d2c50e8f0192ec6dbfb3"
 metafile = true
 
 [[files]]
@@ -5670,11 +5686,6 @@ hash = "bcaa5f3750f6e615e33461c4cc28f524601ddb249cb0c6be8ce5e39e73a67b69"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-crosshair.pw.toml"
-hash = "9042d3c91dcbb7730aa5c494ae9a37148bf4f9fafa4f6c21cc4350334d597550"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "bb40611e2f159b8a3a708e5d29b1f39b1df522c475d5c07a848928aecc87e090"
 metafile = true
@@ -5857,11 +5868,6 @@ metafile = true
 [[files]]
 file = "mods/exquisito.pw.toml"
 hash = "5cd982ca47d977badd679052125030426aa578ecc15cd2bfc53efbf14a9fd0c7"
-metafile = true
-
-[[files]]
-file = "mods/extended-noteblock-forge.pw.toml"
-hash = "298935433bde0ea4a701921a7c76e7ba6d0ebf126737a5f88d551b6382287315"
 metafile = true
 
 [[files]]
@@ -6277,7 +6283,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "50e9be54f2540ff38b3db51e1393c609b789ab32539b2b1fe06d507909ca0e25"
+hash = "6278846b960b2944045ce9f8f04c4517c0622816f2a2e6c61716be9a9ca21d56"
 metafile = true
 
 [[files]]
@@ -7118,7 +7124,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "0596d7ef9e30cb4236102090deb7fbdaa4dea60f9879821be440778ad5245651"
+hash = "c76790ad7d642fc3d594d353d6faa97ce778472c0eeb18476d71b65bee504f5b"
 metafile = true
 
 [[files]]
@@ -7695,11 +7701,6 @@ hash = "df48ff6ede70406ba42fa796d007066770d7c17a30e11af27a1c31b86ea5f73f"
 metafile = true
 
 [[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "6aeed45678b41aa5076431823af762dce34199475cab0e176ad984029025865f"
-metafile = true
-
-[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "d324dbfd98e48421a6f7119fb62e51870108bc3262f4a3becfa7fb377aa1f4ed"
 metafile = true
@@ -7716,7 +7717,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "a34e9cbafcbf54b5cd3683df2a6263dbdc1fd16e7dc5d946da8dc066f7c621b0"
+hash = "b5b9781984229e19a2d25c1a393cce9baacf7571f3b6d4e9837b91d52c7f8260"
 metafile = true
 
 [[files]]
@@ -8075,7 +8076,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7ad872e40cf1a197e8ff4c0f2dfa5bac1e83cb6f0462509c4ab0df2629d8f4e8"
+hash = "77753b3d303f7581a4dc38e87530968e012b640c738ba910a800cbdc1dffb315"
 metafile = true
 
 [[files]]
@@ -8145,12 +8146,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "802c52bff1bd20b9b9d80622501b74a816b5eba2de0c77ac07afa58a2eba5d22"
+hash = "123f26420c62f9a044917de9b94e530b0050a596b29de0f839ef3b83fca1c813"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "08524de59a43cff99ff605eba214e3f25e85154c32ef1bdbb7a789d59337284c"
+hash = "57fb3809884df16ceb0cd2433052fae729f6af769c9ecb22d5b1e7718413dbbe"
 metafile = true
 
 [[files]]
@@ -8265,7 +8266,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1a10cca91804e6d7ea5dd66894fa90d2bcaba2455f80e1070d9809374ef3238a"
+hash = "dc2263048c19466cd87d586755be72eeed7bff692cebf311ccb61e5af63d1b63"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
