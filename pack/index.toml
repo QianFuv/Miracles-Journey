@@ -1561,6 +1561,10 @@ file = "config/blur-client.toml"
 hash = "5d1f67d3dabefcc6eed0b1ac4074e79e6d918f000691f2c727f4d8739f6f59e7"
 
 [[files]]
+file = "config/bookwyrms.toml"
+hash = "d854bc539a39d7d054df455473e802b5a71ae631ba5ce196da6223c6d6ef3561"
+
+[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "7564bd719243a64b1d00424eb4602b85415e578905de5a9587f5f10ff2427d1f"
 
@@ -1842,7 +1846,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a66536c0a4c1a5e992ae338d1c25ea86fcb14574a9c04b14e817f3c8d5036122"
+hash = "68bee1bcd454f59c33c7cc966c82cc705dd022cfe2d8195513ed43c3abfcda8c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2298,7 +2302,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "b9be39612ff82ef0a2c948dc66e007bf5333bf2cbf2975f400be1a2401d8932d"
+hash = "9f30acdfd30691f58da5069dffc14f4d1f1b1d36d1d489d83eeba4ba5f297721"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2342,7 +2346,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
+hash = "b8caf2328f16449e7b5fad4ee993bfc71d4622a09c896aca86dc38b76cab95a5"
 
 [[files]]
 file = "config/fancymenu/customization/01.txt"
@@ -2741,6 +2745,10 @@ file = "config/fullturtlearmor.toml"
 hash = "bd4eb402fdef63f85238984b82717c4a9a8fd492d6018c8ac61b14629e7cf220"
 
 [[files]]
+file = "config/galoblender-common.toml"
+hash = "58e0611b846a75abb12a3ac6098e964641019cdfa3d9e2891f85b89b32591fc2"
+
+[[files]]
 file = "config/galosphere-common.toml"
 hash = "0b961dc85c90d313ce9095b92d34d5c84ba52558ea35632525908c00a6726add"
 
@@ -3038,7 +3046,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "7f7e3778005dbd8a2327cf87e3d0cf293bfcbe776501c53e4456e2d09fdfacce"
+hash = "3c8392fc326bfc2029c0a3335fc19d57bcca510cf619867719a70431a98ba0c0"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3354,7 +3362,7 @@ hash = "0db639ddbfefd17ba2e2558fa854fec413581f049610983965731e8665c97028"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9f1587f541baacfedfca5849f6733f1457f07036eb4d06ed350b732c116ebcc6"
+hash = "cbe9cc74027bc9cab9b7d40ec8ea34b73935423adbb1720c9afc035bc0cdca8d"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -3366,7 +3374,7 @@ hash = "2b4ec0fa72704975ad734baef83e209b5a9e639edf87266285e53c3f32265168"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "58be11368b4771646c4348b18c7cb38a0673113a1e38e79c0869d3375f66d8bb"
+hash = "555e0d679f47a84de2e5961a0af249c4a0d45524efdbcae963be7617fe3ac9d5"
 
 [[files]]
 file = "config/paintings-client.toml"
@@ -3402,7 +3410,7 @@ hash = "f0238d0915dc6edec1198f52af1257cfae15d9ea169dc1799778c5cbf55f64d0"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "adbf282ece2d71f26f48400ae18c6f762038288a33bb4e9a2018b6efee1aa86c"
+hash = "ed9c4754bc2e32a8a8b9764a9e7b0046326a14b870bc3cc92e128a670b4b2468"
 
 [[files]]
 file = "config/paxi/datapacks/FishermansTrapCompat.zip"
@@ -3413,8 +3421,16 @@ file = "config/paxi/datapacks/Formula Addition - Salt Block v.Alpha 1.1.0-1.19 1
 hash = "00f39d939d195e0973897f0df65ac19ed57c5e828fd7c7eba61051c0ee5ae496"
 
 [[files]]
-file = "config/paxi/datapacks/MiraclesJourney-ConfigDataPack.zip"
-hash = "37137d4bac99f8348a18e5edc2ab59af08d441754463c446efb0440815360a2a"
+file = "config/paxi/datapacks/MiraclesJourney-ConfigDataPack/data/idas/advancements/idas_root.json"
+hash = "b214c0aa49deaf7dd9c8000ac3bf29f02381303a59a73cf5c2c71c7e016039c9"
+
+[[files]]
+file = "config/paxi/datapacks/MiraclesJourney-ConfigDataPack/data/immersiveengineering/recipes/arc_recycling_list.json"
+hash = "0615f23ca0b68925532c55bf1335c633e44443beddc822f992705ce3bef26225"
+
+[[files]]
+file = "config/paxi/datapacks/MiraclesJourney-ConfigDataPack/pack.mcmeta"
+hash = "9d2b9462a92e8bdc3a5fa2f2f6270298756419dbfcc5635c05fd8d57fa8e19fa"
 
 [[files]]
 file = "config/paxi/datapacks/WorldHeightChange.zip"
@@ -3928,15 +3944,15 @@ hash = "2ba887d545925c40c5caa82814c96ffb327127310100393ec88dbfc6cccf2150"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "75334a1685051b3a3b23e9ca23c941c46b047f2d5cbda6e09a1544453842c4af"
+hash = "2355731d9b22b5928b43aee3dc91d76e7d44ad6e2460cf92be96dbac3ada7713"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "a243db218ac20d9ff375c650bad03d6d790141f72c5eb52902e3d86cce5ed48c"
+hash = "5c2f5421eee20037a8dcf1b482d0295af1eeac58eb6c15f35a8f7c2bc9de690d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "f55d6c8843c683be99c16d7d8124f43057de03d4baaf49c8c36582cf4db116e2"
+hash = "16e9834737d702e51d7d5821e729f9832fb27e12e663b034b1da20dce50fac56"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -4464,7 +4480,7 @@ hash = "2898bf544262cc99b1e530ce487af7ff5be807af7b98c8393966281803b2f581"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -4850,6 +4866,11 @@ hash = "b9562d4405616bc292e2133a6883a0e75d245cf9f78cf399cd5a14f46ef3feb3"
 metafile = true
 
 [[files]]
+file = "mods/bad-horse-fix.pw.toml"
+hash = "dc9c1fb15775eb032364caf00f597be4946ce43680511c46b9772a8cb73f0374"
+metafile = true
+
+[[files]]
 file = "mods/bag-of-holding-forge.pw.toml"
 hash = "aca667ce3c01dd61752faf803f61a51d27850b73d43e85083c3cc5ab0cc6d8e1"
 metafile = true
@@ -4985,6 +5006,11 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "69eac4f7bca820219c1ad0b328679b760fd182905b97108bffbab48621f8ad7a"
+metafile = true
+
+[[files]]
+file = "mods/book-wyrms.pw.toml"
+hash = "78365b1f625c1ead61b478a1156664cb9c5cdd58011434f627e9461438e12c95"
 metafile = true
 
 [[files]]
@@ -5821,11 +5847,6 @@ hash = "760d356cb59776168c16ad155315becbd5c4096761d09caa3d409cec466ae844"
 metafile = true
 
 [[files]]
-file = "mods/equipment-compare.pw.toml"
-hash = "c591963474bec863881d2a3ceb70ad5030e8e169a57664dbbd63f7de41b47cd3"
-metafile = true
-
-[[files]]
 file = "mods/etched.pw.toml"
 hash = "0e437bbc3cd99cdfb2e9537e9bfbc1057420a3d228088efce000443277497b5f"
 metafile = true
@@ -6032,6 +6053,11 @@ metafile = true
 [[files]]
 file = "mods/funky-fluids.pw.toml"
 hash = "07b782a92be289fc5e5c9b744c8b2fbd2e5d494b3706f6ca408427329edb63fa"
+metafile = true
+
+[[files]]
+file = "mods/galoblender.pw.toml"
+hash = "c3f7db0275cd93aebeca5f57f801a5e072d452e0488a94f6c6875353a3d8196b"
 metafile = true
 
 [[files]]
@@ -7098,6 +7124,11 @@ hash = "5b7059d1833a4ccefc4d75755b7a54f42d451401bd541dd954a62193ba12b74c"
 metafile = true
 
 [[files]]
+file = "mods/paintings-1-21-backport.pw.toml"
+hash = "35bc3b99dbdd713741beb5174fff752dc4d5d6acb1e73f7577e9fd53e3880c27"
+metafile = true
+
+[[files]]
 file = "mods/paintings.pw.toml"
 hash = "0c32905de66cdd5432130820b5394092d5bc8033fde97f4fea124edfda07b535"
 metafile = true
@@ -7175,6 +7206,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "7a4539386e6bfb354bf15a310660972df62ecdc242204db2765be9935d52ced9"
+metafile = true
+
+[[files]]
+file = "mods/placement-plus.pw.toml"
+hash = "7ae1f091dde0bb6ed228ef98a795fe94eb1e4d98df616a581681c38b32735323"
 metafile = true
 
 [[files]]
@@ -8266,7 +8302,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "dc2263048c19466cd87d586755be72eeed7bff692cebf311ccb61e5af63d1b63"
+hash = "ad3200f7f8025dc55f005e7dab547797bc21d0ed51b1adb34755d218bc5e82b6"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -12689,6 +12725,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/modern-font-pack-caxton-edition.pw.toml"
 hash = "927ffd17157e80536c34d667d62827430fc597e68b079acbc8da303766010e45"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nekos-enhanced-tools-and-armor.pw.toml"
+hash = "469021b8b8db737377b79c3109503423f35ff95cf7be1c13b1942b31687d4964"
 metafile = true
 
 [[files]]

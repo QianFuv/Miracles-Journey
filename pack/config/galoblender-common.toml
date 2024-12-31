@@ -1,0 +1,4 @@
+#The weighting of Galosphere biome region in the overworld (for reference, the overworld biomes' default is 10).
+#Range: > 0
+galosphereCavesWeight = 1
+

@@ -1,0 +1,13 @@
+name = "Book Wyrms"
+filename = "bookwyrms-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f248835ec9e89d246ab8d097ee195c531d6b07e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4645724
+project-id = 655973

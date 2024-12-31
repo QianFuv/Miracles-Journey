@@ -1,0 +1,13 @@
+name = "Galoblender"
+filename = "galoblender-1.19.2-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01e6baa1f74d94816f835873f6e660459914f908"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5955239
+project-id = 1027241
