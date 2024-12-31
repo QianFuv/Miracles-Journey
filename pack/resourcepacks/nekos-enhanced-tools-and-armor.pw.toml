@@ -1,0 +1,13 @@
+name = "Neko's Enhanced Tools and Armor"
+filename = "Nekos Enhanced Tools and Armour Plus.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2573f9e38a8e73cd9c093d509348aa7d72ba6ec7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5221090
+project-id = 650117
