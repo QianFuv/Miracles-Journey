@@ -1846,7 +1846,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "68bee1bcd454f59c33c7cc966c82cc705dd022cfe2d8195513ed43c3abfcda8c"
+hash = "99bd0f9f9387d479a8d9564c420713293b4e49cbec5cf3dd0de270c3d48055ca"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2262,7 +2262,7 @@ hash = "cde874f0c85fd1379f09e710c629b7c152dbc20f555ab7af16ca05f5c25fd1e4"
 
 [[files]]
 file = "config/etf_warnings.json"
-hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+hash = "fd7c91aae912db7c7043111006750d19b95f9ae0cdb61a3d2c160100e5e40e97"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
@@ -2362,11 +2362,11 @@ hash = "0e0cd22169e2d522aa90901b42ca10b25fd6fc17550f8dac2c948250ddd59f98"
 
 [[files]]
 file = "config/fancymenu/customization/05.txt"
-hash = "034934bc56b8b6bfa1f9962c6af695377c574fd0f6ba96d0ef7ebc291910224d"
+hash = "75e89c9995c9e1eb3db5d696a4817ac80bbc18dc01f324fb79b3ba798afc2d67"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "3c1fc3b418ba660aeadb5b65104278ee36c2f1f81e2b0e8a2cb76d58c9287c99"
+hash = "ca9b1d61556af0a37bb68a2edb69b963babd5dcac0c4616bae167ea41e0d4b84"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -2478,7 +2478,7 @@ hash = "95f7f4c408f09dd1e6f5767eff01c63fd421028688fc3de8613e329bd97f9048"
 
 [[files]]
 file = "config/forge-client.toml"
-hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
+hash = "fa8ee71584f7253b153e6401a696ea4e6c19a219978c9a02c51d1ffba847730c"
 
 [[files]]
 file = "config/forge-common.toml"
@@ -8297,7 +8297,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ad3200f7f8025dc55f005e7dab547797bc21d0ed51b1adb34755d218bc5e82b6"
+hash = "b99cb3ee252b8c654707ed5e5c0efe7b568fd1a96c81ba521f29a1ea2b93d56b"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -8430,6 +8430,14 @@ hash = "46f6fbe7fe5bfbcd46aa65c347c452f0e31414856180e5bdf3521c08dcb31e9c"
 [[files]]
 file = "resourcepacks/MeetYourEnhancedFightV1.0.zip"
 hash = "d8a1eca752f6ddb6dec749bf6e75c49bc2881da60901d99bcc1aca2365b329c5"
+
+[[files]]
+file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip"
+hash = "f9e528f09fa4ef565e1834072e741cea84765c39d83d2af5fc6f0ac7559a433e"
+
+[[files]]
+file = "resourcepacks/Minecraft-Mod-Language-Package-1.19-FE4A41.zip"
+hash = "fe4a413d7aef13531efbda096bd44e5e31a264920a11661545913f23d968edb9"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/README.md"
