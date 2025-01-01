@@ -7499,11 +7499,6 @@ hash = "0ab668b45b39e76d9c4fde2e84cbd651014e9f3335ffb08296be9edb898be654"
 metafile = true
 
 [[files]]
-file = "mods/scroll-of-harvests.pw.toml"
-hash = "f7ae47052108d33a12cc92fcb118a3bf0a9ff38ed85c889f669a6e237e82eef2"
-metafile = true
-
-[[files]]
 file = "mods/scuba-gear.pw.toml"
 hash = "a4604b8257415aef23f327d49a428a6acdac3aee3539d37273ba453404d0f31f"
 metafile = true
@@ -12766,7 +12761,7 @@ hash = "093845bd0883598a32b4ca77720b8596d7e55681f0f977b382fdce1527e47605"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.zip.txt"
-hash = "d219ff595fdfc58aff46bf2a1c8659c530377aa8c682fb1d8f02b96e9777d95a"
+hash = "6dd2d94f98265cf1a6af18360a1b01e83be8e742f8f99842601d0ea3af9b47d5"
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3 + EuphoriaPatches_1.4.3.zip"
