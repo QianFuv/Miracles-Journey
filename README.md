@@ -22,7 +22,7 @@
   <h4>
       <a href="https://github.com/QianFuv/Miracles-Journey/releases">下载版本</a>
     <span> · </span>
-      <a href="https://raindrop.io/QianFuv/-51098289">资源列表</a>
+      <a href="https://s.c1ns.cn/mjlist">资源列表</a>
     <span> · </span>
       <a href="https://mjwiki.qianf.fun/">查看文档</a>
     <span> · </span>
