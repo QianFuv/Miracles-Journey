@@ -8296,7 +8296,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b99cb3ee252b8c654707ed5e5c0efe7b568fd1a96c81ba521f29a1ea2b93d56b"
+hash = "407c73a25471568c523270983fd9103d5804db4f6b7c3902bf0f645ca02eb834"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -12732,6 +12732,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/nekos-enhanced-tools-and-armor.pw.toml"
 hash = "469021b8b8db737377b79c3109503423f35ff95cf7be1c13b1942b31687d4964"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "7248b6ea9e0275099ef03bc6dc58c2eda94fc552bfac04cbdd69b1524aef26ab"
 metafile = true
 
 [[files]]
