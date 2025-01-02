@@ -1846,7 +1846,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "99bd0f9f9387d479a8d9564c420713293b4e49cbec5cf3dd0de270c3d48055ca"
+hash = "71e58ba9345bec32ab12c6912deb7f702098c87c814f537511ab7afab41d53d1"
 
 [[files]]
 file = "config/create-client.toml"
@@ -7449,11 +7449,6 @@ hash = "c71a40b14a3ad77121867e82581b14656c7740d8b08ed0070353753fedc1c1fd"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "94da383d5178e62c32cc8861f047161232eb82d62a1d6eac1dee465b6b53c876"
-metafile = true
-
-[[files]]
 file = "mods/runelic.pw.toml"
 hash = "3a39dabc1189f03cf37091154000d4fb252ac2edd1e3de6653e6d9517b561e6a"
 metafile = true
@@ -7875,6 +7870,10 @@ metafile = true
 file = "mods/the-undergarden.pw.toml"
 hash = "15229faeb0414c1b955d3e6c19838eeffabbff8b78db4d68b37f481e7321ade8"
 metafile = true
+
+[[files]]
+file = "mods/threatengl-forge-1.3.3-release.1.jar"
+hash = "0f2d00169097c5e1d6bc72b68b28db4f2b8f87eee73e8e54f89a19eae2837ded"
 
 [[files]]
 file = "mods/tiny-item-animation.pw.toml"
