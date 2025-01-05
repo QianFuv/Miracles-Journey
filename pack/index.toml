@@ -8296,7 +8296,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a36d9660d8a55914a51dd84dcd5a63d9c58103933ae97c39590e251da73f5331"
+hash = "b623dc49d39cf4a8f0fb3082db8d663ba5eaa723c7655b30429e2d4c7082b901"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -12632,7 +12632,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/assorted-allays.pw.toml"
-hash = "35b353b9a5ad0d80e6d4f8bee69a6b4e28be998cf1290d0684b166b54550c141"
+hash = "949d8b0ce3b7e2ab94e72aa74e203244d6ace6d01fd82fadfcbabe9187e9ff25"
 metafile = true
 
 [[files]]
