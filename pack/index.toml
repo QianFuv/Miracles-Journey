@@ -1846,7 +1846,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "71e58ba9345bec32ab12c6912deb7f702098c87c814f537511ab7afab41d53d1"
+hash = "75062739c56d52b3d31fa897cf5f5742e8d585fd5f657ff7c924c8ef4faba7b3"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2026,7 +2026,7 @@ hash = "7176369fdecaa8eef8ec0bef195646c4bdeaf05f66c927f8c2566709fe681a28"
 
 [[files]]
 file = "config/diet-client.toml"
-hash = "5bb558ec66a008952542b79b08b0f3643398b75b40e8ed03c5a1321b691216e0"
+hash = "89f8426ee6efe27350bcef21f669a089090c080efa8fe9dd1278622c5be6ad9c"
 
 [[files]]
 file = "config/diet-server.toml"
@@ -5317,7 +5317,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "99d927a4d081e25a819b794373330288f04e54ef351062551506f51a2c43bbd7"
+hash = "d6a812c57791ab5af2a796f9a20fff180e7e4554e27a308fa5cbe97d5a5dc815"
 metafile = true
 
 [[files]]
@@ -6012,7 +6012,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgery.pw.toml"
-hash = "7bb9561bf651680b69ae171cc69c2ef17a32bb0d31bdd4947c8853a97cc0bd7e"
+hash = "7c02007f3948e1d58f481cb38128b6624cfadfd31f9067a8125b2fa144848651"
 metafile = true
 
 [[files]]
@@ -7100,7 +7100,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "14df249d7d67e0385ef14931564d25ff9ec9e7af26703e4f6bd4569d0e2b80fb"
+hash = "b4a96cfd3695f2517b8a3c7b50038265a466b36896d650747af2e5774f30c354"
 metafile = true
 
 [[files]]
@@ -7545,7 +7545,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-expansion.pw.toml"
-hash = "318f3cdebfaae4929a10a674b05ed97290ae77b79882cc9a7a8e305f600347be"
+hash = "dfd44d564c2a6165bb6be2a1a089820834227610ec0c498682a2ccd47f7bed05"
 metafile = true
 
 [[files]]
@@ -8106,7 +8106,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "77753b3d303f7581a4dc38e87530968e012b640c738ba910a800cbdc1dffb315"
+hash = "2b841897fccf692ce294c2fa23bf356c70b04757f3693f2ebea5476f579f1e5e"
 metafile = true
 
 [[files]]
@@ -8296,7 +8296,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "407c73a25471568c523270983fd9103d5804db4f6b7c3902bf0f645ca02eb834"
+hash = "a36d9660d8a55914a51dd84dcd5a63d9c58103933ae97c39590e251da73f5331"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
