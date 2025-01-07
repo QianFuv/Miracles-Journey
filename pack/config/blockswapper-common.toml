@@ -1,0 +1,44 @@
+
+[Config]
+
+	[Config.General]
+		#Enable swapping and excavating of ALL blocks when in creative mode
+		#default = true
+		affectedByCreativeMode = true
+		#
+		#Enable swapping in seeds, even if the block below is not farmland (they will still grow!)
+		#This is for decorative purposes only, the crops will break if they receive a block update!
+		#default = false
+		canPlantUniversally = false
+		#
+		#Disable block swapping when under the effect of Mining Fatigue
+		#default = true
+		affectedByMiningFatigue = true
+		#
+		#General block blacklist (swapping & excavating)
+		#example = ["minecraft:stone", "minecraft:oak_log"]
+		#default = ["minecraft:spawner"]
+		swapBlacklist = ["minecraft:spawner"]
+
+	[Config.Enchantment]
+		#Enable the Excavating enchantment
+		#default = true
+		enableExcavating = true
+		#
+		#Enable getting the Excavating enchantment from enchantment tables
+		#default = false
+		ExcavatingFromEnchantmentTable = false
+		#
+		#Enable villagers to trade Excavating books
+		#default = false
+		ExcavatingCanBeTraded = false
+		#
+		#Enable Excavating books generating in loot chests
+		#default = true
+		ExcavatingFromLootChests = true
+		#
+		#Excavating block blacklist (only excavating)
+		#example = ["minecraft:obsidian", "minecraft:anvil"]
+		#default = []
+		excavateBlacklist = []
+

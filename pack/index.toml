@@ -1541,6 +1541,10 @@ file = "config/blockswap/missing_block_ids.json5"
 hash = "252c07924ec7ae2ba6d588d7cced4efa7119d4ef6f92c9f2265d7fee891a4e69"
 
 [[files]]
+file = "config/blockswapper-common.toml"
+hash = "ab413940768dafc693570f9439ec55c396fb2178693feca0b48f1186461e6163"
+
+[[files]]
 file = "config/blue_skies-client.toml"
 hash = "b8240bc1d2aa385bd07c5247fe33ad8025106594c48fd5765ab72f5bae9022ad"
 
@@ -1846,7 +1850,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "75062739c56d52b3d31fa897cf5f5742e8d585fd5f657ff7c924c8ef4faba7b3"
+hash = "8db59ff8de33349c8ab85e84fbaa07f75712fcbc28c8ecc6d1458d5cdb69e0f7"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3046,7 +3050,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "3c8392fc326bfc2029c0a3335fc19d57bcca510cf619867719a70431a98ba0c0"
+hash = "6517c54ce77f48bc595fc2ae518ec7e14395abbceb72d81439a8b9442e9ccf6c"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -4989,6 +4993,11 @@ hash = "63b41a8c2dca2b26f86a2b5acd0ec39eb7106abd486f8e923019dbe90eb692a6"
 metafile = true
 
 [[files]]
+file = "mods/block-swapper.pw.toml"
+hash = "9cb22944f4867adcae3130349f5ea667c88ea9cab6b97b48aeffb21cb6c60378"
+metafile = true
+
+[[files]]
 file = "mods/blue-skies.pw.toml"
 hash = "bb382aa91eb8fd6c91544cfcc1a5bd4f3321a95dc39035b8d7aa6217edf749c9"
 metafile = true
@@ -5844,6 +5853,11 @@ metafile = true
 [[files]]
 file = "mods/ephemera.pw.toml"
 hash = "760d356cb59776168c16ad155315becbd5c4096761d09caa3d409cec466ae844"
+metafile = true
+
+[[files]]
+file = "mods/epic-dungeons-a-roguelike-journeyy.pw.toml"
+hash = "f4ebd47127d96c54516bca9eec8279e18c4adceae5d237a9d102d744badc64e7"
 metafile = true
 
 [[files]]
@@ -7727,6 +7741,11 @@ hash = "df48ff6ede70406ba42fa796d007066770d7c17a30e11af27a1c31b86ea5f73f"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "bf82c3465a3ab900ec6960d72ecd3c11c989a89804573e2d1e6de986885adbee"
+metafile = true
+
+[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "d324dbfd98e48421a6f7119fb62e51870108bc3262f4a3becfa7fb377aa1f4ed"
 metafile = true
@@ -8296,7 +8315,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b623dc49d39cf4a8f0fb3082db8d663ba5eaa723c7655b30429e2d4c7082b901"
+hash = "4136aab2ba3c7e43e511bef3016cc0c5fe42295752e33a026df97677e3977821"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
