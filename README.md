@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Commit Activity" />
     <img src="https://img.shields.io/github/actions/workflow/status/QianFuv/Miracles-Journey/testpack_build.yml?style=plastic&label=testpack build&color=blue" alt="Build Status" />
     <img src="https://img.shields.io/uptimerobot/status/m797930572-49470041ab540b0efc30ac67?style=plastic&label=wiki%20status&color=blue" alt="Wiki Status" />
-    <img src="https://img.shields.io/uptimerobot/status/m797930565-9f7c55f97df8ef494668e3b9?style=plastic&label=Reslist%20status&color=blue" alt="Resource List Status" />
+    <img src="https://img.shields.io/uptimerobot/status/m797930565-9f7c55f97df8ef494668e3b9?style=plastic&label=reslist%20status&color=blue" alt="Resource List Status" />
     <br>
     <img src="https://img.shields.io/github/v/release/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Release" />
     <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FQianFuv%2FMiracles-Journey%2Frefs%2Fheads%2Fmain%2Fpack%2Fpack.toml&query=versions.minecraft&style=plastic&label=minecraft&color=blue" alt="Minecraft Version" />
