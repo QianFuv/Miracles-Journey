@@ -230,7 +230,7 @@ hash = "e4989a4c0c3dfcfdcb134ce3db6d39d89bed378af5d38da268976bde8b708446"
 
 [[files]]
 file = "config/aether_redux_pack_config.json"
-hash = "7b45f651481ab9ccc17f1fb2fecc7a42e1ef972b7c521069a9e228b32e6f9019"
+hash = "303e043925460ee813b661745b0f714a05fa5f68a0482071880fa03ffc5baebb"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
