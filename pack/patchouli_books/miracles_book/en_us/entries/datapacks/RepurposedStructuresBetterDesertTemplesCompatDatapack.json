@@ -1,0 +1,13 @@
+{
+    "name": "RepurposedStructuresBetterDesertTemplesCompatDatapack",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:datapacks",
+    "pages": [
+        {
+            "type": "patchouli:link",
+            "text": "暂未完善内容，请点击下面的按钮查看详情！",
+            "url": "https://www.mcmod.cn/class/8948.html",
+            "link_text": "在浏览器中查看"
+        }
+    ]
+}
