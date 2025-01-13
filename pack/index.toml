@@ -230,7 +230,7 @@ hash = "e4989a4c0c3dfcfdcb134ce3db6d39d89bed378af5d38da268976bde8b708446"
 
 [[files]]
 file = "config/aether_redux_pack_config.json"
-hash = "303e043925460ee813b661745b0f714a05fa5f68a0482071880fa03ffc5baebb"
+hash = "7b45f651481ab9ccc17f1fb2fecc7a42e1ef972b7c521069a9e228b32e6f9019"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -1850,7 +1850,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "8db59ff8de33349c8ab85e84fbaa07f75712fcbc28c8ecc6d1458d5cdb69e0f7"
+hash = "0d459653980ab72f0802b8340d2829078bc35a8d22b11ef7135eddef1ff1706c"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2190,7 +2190,7 @@ hash = "376719d51b9fa8f8aff8c7da1e6696b64dc5d77943c97f2ff091d91b100ed012"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "1cacecd10d0dade8f300f59a0a1fdadfd4929a4a7366c024f756c80d353e5fb6"
+hash = "80d10ad080d5894fb8fd6acfce6ccc28bbb913779778766b4f52b075aee7ee58"
 
 [[files]]
 file = "config/embeddium-mixins.properties"
@@ -2306,7 +2306,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "9f30acdfd30691f58da5069dffc14f4d1f1b1d36d1d489d83eeba4ba5f297721"
+hash = "b37a0a3a415e7acbbe1cb08174184cfb3e75132c16c9acc3c5f9395bb05e3dc9"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -7920,21 +7920,6 @@ hash = "6f3a7303a16b9137efd962d602318b8df3be3e1ca4aa22cbb8525c9ec4933247"
 metafile = true
 
 [[files]]
-file = "mods/tofu-delight.pw.toml"
-hash = "e1f2f0acfb7a7802de95a5893e730428f7a4e6fa615ef7d99569955f3bf80923"
-metafile = true
-
-[[files]]
-file = "mods/tofucraftreload.pw.toml"
-hash = "e340c5fb1253430b0f2e185693d8f1ae27194ab65e6c7ef2d1631909bc71258c"
-metafile = true
-
-[[files]]
-file = "mods/tofucreate.pw.toml"
-hash = "920bf23804112a6696a82657807e32b0c7a335864f555b472fd358811082007a"
-metafile = true
-
-[[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "8356453e831b08a9dffd976151cc25a1751ba70ff2bf1c71515f27ee106f46d7"
 metafile = true
@@ -8315,7 +8300,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4136aab2ba3c7e43e511bef3016cc0c5fe42295752e33a026df97677e3977821"
+hash = "f3fd36daaeb0e6187e35e06069282f2c14a3133bfb47aa58313c176eada08a1a"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -8358,7 +8343,7 @@ file = "patchouli_books/miracles_book/en_us/categories/resourcepacks.json"
 hash = "5a0a8b78c99a1beb55a0b325d22f82d92c461e29505d8123ba07c3055d93b263"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/categories/shadepacks.json"
+file = "patchouli_books/miracles_book/en_us/categories/shaderpacks.json"
 hash = "81f29471a2d8d395e3871bc46942c669bf63c21b07a87df263a19b2625f87332"
 
 [[files]]
@@ -8370,52 +8355,3316 @@ file = "patchouli_books/miracles_book/en_us/categories/utility.json"
 hash = "7ff2f8e33b34ac8afd12d9c92a37576a5c618cd943c83ebfda9da4bfe0fc8783"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/adventure/test_entry.json"
-hash = "de5cb1faf86f460c9010cff462d5cd405003639a1eb544ce19cb796b2f00a97b"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/AlexsMobs.json"
+hash = "f8e055792756cd8f6ac68cf1f1f94086696531636b8d0e2237035892ce9f9bcd"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/agriculture/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/AmethystToolsMod.json"
+hash = "cabce7e9a0eacfb56e22753a83444f498e486cb0cc2aa7e9e22ca0ed7df39801"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/assist/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/AmplifiedNether.json"
+hash = "67ae8d56dc752737c2fff6603d404adb7ad24a505ca884a3ecb1dd5fc1d15c1c"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/custom/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/AquamiraeMod.json"
+hash = "1398cc00f2cd858aa1f2e98c9d6cdffe60df0b6285c09bd24a80d033f850755b"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/datapacks/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BeStyleWither.json"
+hash = "488e9145cd8e24d5e35e0324fec9efbec281b900967f3330dd968456b2522e14"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/decoration/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BeneathTheSnow.json"
+hash = "f9656ec14b407aa6ef41189f79b7ea8486bacdb1e36650bd62e72f77157b712f"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/lib/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BetterVillage.json"
+hash = "f8671d0418d19899ed7ec84af0c23a34b4e7a5452aab9b830a25f4b952e6efcd"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/magic/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BlueSkies.json"
+hash = "12641053c688cd945e8aa13816ca1e38947271eeb7eb7d959736aa1623c449c1"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BossesOfMassDestruction.json"
+hash = "80e1bb6cf7b1fd1914c645aea81fe20ac3da2bc449a61ce63670f54c2e130f4a"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/BygoneNether.json"
+hash = "73b8c2d476d6919125abdc107f26c277acfbd6c92c733b9becd3ca0977364c1a"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/technology/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Celestisynth.json"
+hash = "42efbe1710643ff54d81ae2fcf21a7f11688e1f1aca582a60b9c403c42186873"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/utility/test_entry.json"
-hash = "a0576b5e10132318452dd77f3c89847553d6a42b5e8944abd8a60e0fa0ad83a4"
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ChampionsUnofficial.json"
+hash = "c227bcaac19c8728e9658d100a8e4807e694f021223b4b0a1580cc643f755b8c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/CreeperOverhaul.json"
+hash = "8a3ec20c3a624609e5c1bfe7035d32039e382b4751fdafcf8d68fb7559b3db86"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DeepAether.json"
+hash = "56f9d1a2d806d54077aa1ce78b3e2d891636d32b4afcb4d047430cc7db02f1f7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DeeperAndDarker.json"
+hash = "467a02ba8d6c3b9b97d311622bdfe67b8d6fe3155bbd05bc700c2000575bbacf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DifficultRaids.json"
+hash = "2bb7891d090683e85718960939d25a7f712b8744b9bd2252a0df3cf5ffb2ab4a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DixtasArmory.json"
+hash = "2a4ed2f4c3891e745d455f4ee0b09bb9924102dd21351fcee3d881f4e48880c5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DoggyTalentsNext.json"
+hash = "0afd91b99937e34dc2f5076979b0784a73a0ab990e30e048994d0f333ad98e51"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DragonMountsLegacy.json"
+hash = "1b0f745d20ff3ecef6def0f5a56fc79ab7cdbfe6933a186584bffb5170465250"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonCrawl.json"
+hash = "fbd7107fd25b2967c6917782f53e1a04a8e5f7c307844665107f6620ea2a9486"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonNowLoading.json"
+hash = "8d2157a9e56509ed5e2c85cea90ad60f5a70c4297b3fcfcdefd299c57b4569b1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonsEnhanced.json"
+hash = "a867f1efbee79a94d0a63bf5abc28e34ab5fc838897a9763111b3e0b9315089a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonsPlus.json"
+hash = "44f7f7f5cbf92cdb5e87ca607ade0cc1e0d5cf16cebd9c4bd5d034d5aa2c8d50"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/EndRemastered.json"
+hash = "b1618edc37ad01a8d1c8504d022395754e32ba186c6b76f5c58f49ad3a061d65"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/EnderiteCjEdition.json"
+hash = "9bb48d6920ab2e619eaede4ece5bb032824ce7e78edea6319404d46757f0a9ba"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/EndermanOverhaul.json"
+hash = "4b8185de7ab722eaa9ca1401ccfea7af53b4223eb04eac3ca12c9b3fa4806cf1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/EpicDungeons.json"
+hash = "bfc9c04ccfe421e6ca042466303ee73ae0b7b355801d5e2be9da33ea464ecaed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/EwewukeksMusketMod.json"
+hash = "1055edd397ae2f31875b057effcaea58d0c42d0a22569baea8d3e53d36e04648"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ExoticBirds.json"
+hash = "6750c90c9aba027c764a0c415b06610f1f5cc7234fb7ee01b5531a8543f59086"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoes.json"
+hash = "50fd0d604fadf302560c4b64048bf485446a9fe618e898edcca5d6fb24f9c015"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoesBeekeeperHut.json"
+hash = "639bea14043b00f5177b7f173319c3b113b32ef132de8dd236a04cd7fa0d5af3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoesFloweryMooblooms.json"
+hash = "91ce956b094b9abfef2b36066e2238e710f18d744c8d941f6fe4c06abbb93547"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/FullTurtleArmor.json"
+hash = "ed12c02a7ba9a7f14fc8712018e52ec7ce50081ddc916196eba8de00c056c4e5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Galosphere.json"
+hash = "f465d3fd505fb13178bcb7393a293f358f1e3da40b0850a858fa4c47d9956496"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Ghost.json"
+hash = "9fda44885e0b1af0e9f40e4834e8e1129c72f17c3d950303502a8e5c0075c6a3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/GhostJump.json"
+hash = "7c0a56aea11b4487b837db5820f89fd6c59db1bbf40ea3e5ad5f437767025611"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/GunsWithoutRoses.json"
+hash = "5dbd4b8287a0f25d5b38cf0aef005ac4495e749d66ce87d9937ab0339fc022b7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/GunsWithoutRosesAdditions.json"
+hash = "13a2f0144443ce46e02e625a75b22ceee804305b074e995ae8fb91fdbda26b8b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Hearths.json"
+hash = "bddef26ccbdcde548346d960ab91520b5ab5da63324b787b5e7f126b322f7b4d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/HopoBetterRuinedPortals.json"
+hash = "fc9925e1c7bc297ef212629851636407b359acfe5d8c62723c350d3105834dfb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/HopoBetterUnderwaterRuins.json"
+hash = "9587d5f4fed3a43ffdf1f06750cbc40e89ff6b94dfc44530bae217bf09d1bb01"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/HunterIllager.json"
+hash = "3ce519a0eab270b5c57328dbccf4405d6f4c36633688bd1c7a42ffa2ef4718d5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IWannaSkate.json"
+hash = "516aa2dbf3f57e215cef6627e2faf6c71f9a7a7e8dc54adf2481222d24434f67"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IllageAndSpillage.json"
+hash = "ca14beb10ab90ea98ee9d393bbe90e7dfd4e2fcdd9c2e7956cad4dfc1e859f6c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IllagerAdditions.json"
+hash = "b21b04de55af2213fc94da56ac1669e985cc174d23fa423be7c1e4952581cacf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IllagersWearArmor.json"
+hash = "99a78b6468a551cd67968ca35bad7447f324bc65afb846d51b6d04331fb5bd25"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ImmersiveArmors.json"
+hash = "82b38280ae053770a2b600376e8fd19242900a73e475fa33fd344bc745ce5ef0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Incendium.json"
+hash = "d88f56af51981f4c271e5581e5421856e57119ced9c21c7df6df514c6ad2ad78"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IntegratedDungeonsAndStructures.json"
+hash = "8b25cfe1a8442ef821724aa9e98355edd8f2786b9e23c955d82518b3c9cf698e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/IntegratedStronghold.json"
+hash = "78d0b8c1e45f9a8e3c4118131efc716b77d8aef348d4afb23337a18c00fdd4a2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ItTakesAPillage.json"
+hash = "7e796207b70353011bc56a0fa255f8987316a1aa4752a44ba405e1b68ec70c7b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/KnavesNeeds.json"
+hash = "890f9f9383b6645d1e41d78d3aad1d4e10930c12d1b60d5c6d1c743fe6e20ed4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/LEndersCataclysm.json"
+hash = "4b57b2bbe6bb99bd678a79a0754294d6e55a5bb4c9092a8165b177f7319f47df"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Maced.json"
+hash = "73a0ea81de40a3e1051e8f5aba1555a97fe55af4497b91c2d4dc027d38dcb031"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MeetYourFight.json"
+hash = "79761f3f1ba7659661ffacb85ff5d960ab2c905a6c4dd5985cb500257c1ae6c8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ModularGolems.json"
+hash = "5659b22883d0fb4e1aceb2a55c98affdd92b48506b67283d3b6a5678b3c4e157"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MoogsEndStructures.json"
+hash = "716d17fa4d22c1253e5ceca31233c6ab0d4ba822997b14905341bb8b85bc0811"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MoogsVoyagerStructures.json"
+hash = "bbbf6e8197abc96b39af492ccb01bf70c4a32c1a8ae1cc6fc572011d421610e3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MoreBowsRestrung.json"
+hash = "005b13611ea144a0b359e370db6d95466901c99601eb099aea725f06a0c8e43c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MushroomVillagers.json"
+hash = "57529f7b02e89f1cbc9b62c91c946c5cee3ceb1369bcbc7bc67fe183faf48ab6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/MythicMounts.json"
+hash = "8e73b1331c3e8cd6b4093728bd9ca263769b17503703f98dca4ef15a4d141662"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/NetheriteHorseArmorCj.json"
+hash = "98068b9807164ec07374311cf722a0b051f28525245da1deaf6f0d68c3bae184"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Nyctophobia.json"
+hash = "38f59c53e2de9454047745c8af977da4af5b03a0d17e31523a1af9bd5850194b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/NyfsSpiders.json"
+hash = "0837588c0fa0439b9006c13b20f4d3b9ad5cfbafdc01370f8c9800afcf074e64"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/QraftysEndVillages.json"
+hash = "dddbd3267ee82d0c23e7ce26c5196945eb8408260dd95a505d9c01237d0a0097"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/QueenBee.json"
+hash = "3eee26fd1a32d2623919ba6532f5d67dd95c08fa82b9d1f070ad2e63eefc9add"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/RagnaGoblin.json"
+hash = "2eb0a39268b5c4f334ebc5753fb89a31ce8771d25a13fbe26aeb29e143637468"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Raided.json"
+hash = "bf394fd9a7870ce5f4494304386bc5abc650ea7e6ef0296764fe802d30da832a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/RepurposedStructures.json"
+hash = "2ae3b961fae62e80943552c1f84f7c05fc6e40a833f7eb127862a9fd71cb1de4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/RottenCreatures.json"
+hash = "bb49480756672db9599710f324cf558ac210d53998cbe4d579a206ae5f2eabe8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Sapience.json"
+hash = "000207465ba035faf45777fdfd2bdd4d27d56aa9c8d30896953eebe2aee561c0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SavageAndRavage.json"
+hash = "cf734ddf901e8cf8979c14de85403ef5b176afea6456281384ed96ad7fe3c2de"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SavageEnderDragon.json"
+hash = "18d1b7614f2e2594ac9fdbd960e54831d24e0be6731becef934810b99342a4fe"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SculkyBit.json"
+hash = "e27769771ad2eab43e3e9e83f321bd331f5bc9693f7bf87db302532c30160780"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SecretsOfForgingRevelations.json"
+hash = "23cf968373d02e964feb629111035ec36f90a22b342737e165b453890a87dd9d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ShieldExpansion.json"
+hash = "1c719d106b611687daee4bd5f80163bc47d63e6bd4c77463cad425e2651258b2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ShieldExpansionExpansion.json"
+hash = "ecbce483ac4ee57e5995370b2a4fc4f4ba7dafb51899cfd1271bb295d42b31d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SimplySwords.json"
+hash = "a56ad9140c31dd2f411482dc67bc56d178729138a7dca65121947479727c9faa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SkyVillages.json"
+hash = "c54aab3ad26389e05c2bcaa8fe8746b3026d974279ab6d7f6b2b487dee480fc6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SpawnerHead.json"
+hash = "a1aad5a8cf077d8a9dba675f02150dbf23dab6941d84f7aafd17790ffdbd3ad2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Spelunkery.json"
+hash = "91a0c82ccde50a827ac51987b6b5db8976af48dad121b6e4ef272bcca0ff805c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/StardewFishing.json"
+hash = "431854acf56ea699edb35e1fa0edd03211fd636c83fd2412f8e454ef8133457e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/Structory.json"
+hash = "61fcf0d83f3b26c2c63a13f59f47a900185173ba34f7671668a6d2c40a6dc4d5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/StructoryTowers.json"
+hash = "32aa777bf6e4f570ad0d59f0acf025c664496e78b2587761000f1dbf268fde96"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/SwingThroughGrass.json"
+hash = "0448b68caa0132838bd65899f170b0954fa7ae492152135da625de72af6620c5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TetraNicheMaterials.json"
+hash = "ae545f8ad5ac180f037e10d138bf0f3c0ecb52e2265bf097ac5675dae71bc17f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TheAether.json"
+hash = "b5ee97a3243599dccb05f37043d8020bff94aca49bf8784887d3d58ea10252ab"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TheConjurer.json"
+hash = "8af74c4edd53147158a2b71103ebecf68ebd1e3670702dbaa7227de5c23c117b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TheGraveyard.json"
+hash = "c8b5a3856ed992b6c48eb50867acac40709db3b0d2ce5f0eed0ed903c7cd76ff"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TheLostCastle.json"
+hash = "1a634549af3a1badbe2d589a2762574dfec16c4a09f629cb1001af43da2cf569"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TheUndergarden.json"
+hash = "937ca2a1f68b088c1586b1d0e1515447b830667cc4c9e5d6558e2b5fa3f5a65c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TinyFoes.json"
+hash = "443143bb7629765aefb00ba3609b428d910e7c1a6296a9c694d55723935b1070"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TntSlimes.json"
+hash = "6903d7058199a5f50ca4c1111dd2af89f55d962a8e1bc98a593590cb558bd83a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TowersOfTheWildModded.json"
+hash = "9f11e2041a0bc8e59ab9341dc6e3ad0a9e2e0f7d14761a69504422bee49014f6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/TownsAndTowers.json"
+hash = "82453d804917ced27d9a5ee25c2a8a776c4647ea6384673f7cfe0feccee0e52f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/UndergroundVillages.json"
+hash = "42a13ef03f88a8be5923ba69547fdf6c1b4ce2af5fdbe5cbe1d6c17851185c0f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/UpgradeAquatic.json"
+hash = "245febf50048a903947c4abf26586c549f0c97976b63213923bc7ef4e51d30be"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/UpgradedMobs.json"
+hash = "a7717b41fe98080171d32e75789047f1bc30db48ccf2646a656031c69ba5e113"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/ValhelsiaStructures.json"
+hash = "36cb3f6f2e6c4a5a6ff87c2882b6fb736f191ba5a4469773d3189bb8534b0669"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/VariantsAndVentures.json"
+hash = "347e8270b0e67a5beec22e329b5e33ce6bf49b389811770561919c3ebbbda902"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/VillagerWorkers.json"
+hash = "e76b70d7e5764f7ec3e8c15567087d7bac7ad14c8a4c7704846430f729ee2414"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/VillagesAndPillages.json"
+hash = "d498c82ff366d76d0ef37397f9fbe679e4eeb2dc588f1c20dc4480ef8fd2a8c3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/WhenDungeonsArise.json"
+hash = "2846aa6d7b58bcf78013341fcb97090de4f24853de7e72de599a602ce2e3e2b7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/WhenDungeonsAriseSevenSeas.json"
+hash = "0c43e85ffeb064b9c0e1d5ab71b824c8cb8252e022ae94901111cc0c781e9447"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/XtraArrows.json"
+hash = "b23c936c1f3b8b7fe5177142dafbf6f73afa8a3f5e9362b6f4186ad19dac02f0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterDesertTemples.json"
+hash = "b45f0487604c074bfdd5319fa73887bf6d91b29f4e1739305e4894f3839918d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterDungeons.json"
+hash = "45dfd7dc3180d058dc7cae8803c63c41b90913670151f5bc76e65967372a4d34"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterEndIsland.json"
+hash = "1dc3d533f02919dfcfdba83d71b5ddeaaa2ce23e77b625d94167845154289801"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterJungleTemples.json"
+hash = "495bfe7af03a3537e7df260ef622819138a7248a6974c7b6b0b10eada5834984"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterNetherFortresses.json"
+hash = "e7208ab5810db0193278e4da245793fdc8236ccd40bb66c6e2286bd6b1e614c4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterOceanMonuments.json"
+hash = "822d03ed3acc316e7ce112bb618a1a73822e7770ed6548c787261acf9c434553"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsBetterWitchHuts.json"
+hash = "9e5c9c8ca38548f99c701e753be65bf1bfbc6e5267c2fe2f31f7bd84b670b0cc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/adventure/YUNGsExtras.json"
+hash = "46bc4cc537769792324cdf66b6fd476dc2d8358d51519e432cf45f4881c679e5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/AbnormalsDelight.json"
+hash = "3d38df1aa63553ea852ae9d37f84829d16c425dc178de8220df632643e1b9d3b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/AetherDelight.json"
+hash = "34faf5944efd8d22c8c7cbbdf277f38aa62b5ff9bd2a5043fa2ffc5e14982689"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/AlexsDelight.json"
+hash = "165c6c77d54f7dbea354b6ab28ce7f9ee6331789aa8d7f6cf1133921eaa597f3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Aquaculture2.json"
+hash = "75fe94eb1795cedc8843fde9c7d242c9b4ebeee5019578c0aa81b850895e4040"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/AquacultureDelight.json"
+hash = "df21404bf2181db4a76f3a7dc38bed418005dac6c2af30b2c320aaf93fd8bbaa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Berrfect.json"
+hash = "c28b8ce0d98e5143e32c5f17304be287cdeaaf898234ef07c633ce7d97f76680"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/BerryGood.json"
+hash = "1cf6f4321ec0bdba597b7fd5f6ef75aaf9b3fc4e6816602e68c6c015508c5069"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Bettas.json"
+hash = "48227494d97f2974cf87387cfd105ccebd763fa3d6fe694903364c14b1ed43b9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/BrewinAndChewin.json"
+hash = "e4bddc69560a2a3e236b42fbb36706828da2278d97506bd445497dd2fed84a59"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/BuzzierBees.json"
+hash = "cc547495c30028ced3a9b4450964b81bb966cb8508430b44d765f92f8da81edb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CasualnessDelight.json"
+hash = "10c865d01717bc902e1b5ddbd11efa1162aa34e9a10ed03416f41da5469b88bc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/ChefsDelight.json"
+hash = "93605412d4920f77faabd3a0248c5cd848007fd80622aeaba6ceff6d0a1f1cc8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CollectorsReap.json"
+hash = "9402d194afa1e8ff2891e74118e98d98ccc51b62ac6d5ec9de0f63c1ae8e103b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Cookielicious.json"
+hash = "4d080ba1625f267da9823b67a8070ba4e573fa64947ace57a9e1431bbcbaff1b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CornDelight.json"
+hash = "b9e97b6042c9194ba889b21a66bb289e3e53a15f0bbc9be32193d2c586dd16fd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CozyFoodsMilkTea.json"
+hash = "0f1c651ac98c1e1fac996681fce031fc8475c0caf8ee2db1a4099b116047434a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CrabbersDelight.json"
+hash = "9134d7db175da16029fbf4d327625dee268bc149bd4f5754695a6f5da8a75f7b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CreateBitterballen.json"
+hash = "26c55d02392cc5c2bc819bf5d97c019d76082519cfb9490ec3d38e2316007516"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CreateCafe.json"
+hash = "0dffd4c609fccc3e51f74d966f47bb8c25d95b78512124441b6037287d3ae235"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CreateDeepfried.json"
+hash = "77fc7ad32a2a1a62deaa7735bcaf88326d28484b38cf833cfd48e15037ffc03c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CreateFactory.json"
+hash = "e52058934c38817ff10dab4eb75fb22c48016bc653d6cfcdb1dc92c6a1d0e8eb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CreateGarnished.json"
+hash = "f4b10cd2b089e5e4964563e083379115ede31777f852a7cd9fad55c556030b51"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CuisineDelight.json"
+hash = "7bea0f62b701701a333382b546167dcb4eddba8e4171d78be0143bd018d65f5a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/CulturalDelights.json"
+hash = "57f6e6ffa916e0e28fb9f9b6b232c25051ff2cc7cffcf8c70ae73edba8e65376"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Delightful.json"
+hash = "169599cc87650f97aca182d9621c6d09bdca9f0cb897ef05dd55e57342ea8607"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Diet.json"
+hash = "4feb5ab04a53057c0d68fca8ffbb49e6e252a08a6db79a7d6dadbe1971a25402"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/DumplingsDelightReload.json"
+hash = "74a04d0c63a076ba9d44776d837d98f5008e0bc76e20fdcd6192a03820970ebb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/EndersDelight.json"
+hash = "38c2ae9c633f1c299f4d44270b20a7a3d61a84528cdaa97fe3d4f868eb8c5d42"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/EndsDelight.json"
+hash = "79d45f39adb5390fbdc21b7d795ae31cc031d2951373da7ee990b87f17cc933f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/EngineersDelight.json"
+hash = "d99a0ebb3d7dad85c1e0c05016374ed8d457614194373b4453cf1b923540dd22"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Exquisito.json"
+hash = "b48088f4cb8df4546e68b4fcaa6b82ae284be0e0dae09a89123a6a394333e2c0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/ExtraDelight.json"
+hash = "7602e4b575a4f9dd4a6effe5485ced7d175aac6d956ab33325844638305d280f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/FarmersDelight.json"
+hash = "a2a13d739d35e2bc80002d146183bb0de1b22b7e2623db9355d29f0d70b8d728"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/FarmersRespite.json"
+hash = "6217901fd87f69dc8815511f0de981c7cb79ae7a8eb295d5e4bffc3ed8297cb2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/FarmingForBlockheads.json"
+hash = "5406882c14e47d584368f93629e05f93c73cb307a6d7280b7a42681a341c2b6d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/FestivalDelicacies.json"
+hash = "6bb69dc7bf91d5b26bd18157e90f807398190e0fe1bd9acc555b815e218e19bc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/GalosphereDelight.json"
+hash = "5b524c737d7c5ddb983e6aaf40a651668e2f3999eb6c7b5a19e229a827e39a59"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/GreenDelights.json"
+hash = "7272fb039d39bc284b0b46310250ccc31384f4bb720cd396b6f622fc48ca4067"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/LetsDoBakery.json"
+hash = "f34facd1e69090c25a5f1d3783dc2adf60b3f11f59bb6cf871b95977bbe4e06e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/LetsDoCandlelight.json"
+hash = "258b6eb831b0c5a1281a4ff51adf70e6ebaf230994a7e74994c229c1797403a5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/LetsdoWine.json"
+hash = "045166ef7306e792fed0f1e551100828b0ef27bcefc58b19dd6fe577574c5085"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/MinersDelight.json"
+hash = "2c6ab56432351989e630ed1e6a1995e697889c3406d4f0a33d96712d629d10b0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/MoreDelight.json"
+hash = "a2fbaf2db2a9e1d66b81fada200512a3033e71360c6bae739910270d5142d639"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/MyNethersDelight.json"
+hash = "d7406627902810c03c473c17a41c5f6d441edb5c30d35ad43c882be3530c8fb5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Neapolitan.json"
+hash = "d94d808a9d0b4a611a79337358f5cbee3fee3dffb3f4595be4746b0779150fe3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/NetherVinery.json"
+hash = "76131f9290613d6f9eb4e7c90ee2cf8bc02f4e080d578eea57285fa9f2c5e60f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/OceansDelight.json"
+hash = "5b756fd36f38cf61288e6bc480f02c8da7871bdf94bf88a815e92bd620052938"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/OnionOnion.json"
+hash = "f03c3afc7236635eb17712016aed72a8e192a3b97a247c34b7aea605886ffa68"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/PamsHarvestCraft2Crops.json"
+hash = "acc9376bfe1cb7ce3640426ed3bbf453dfefdbfdcbb22f6f591e79b904814edb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/PamsHarvestCraft2FoodCore.json"
+hash = "30e148d70559b3c7a9f631942286eb5715dee3d30ac3478e1dbe1c10b696d3d4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/PamsHarvestCraft2FoodExtended.json"
+hash = "6982197bc6bf02bf6d95a08e2485631791d4380aa34af1b599a4ea32df7230cb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/PamsHarvestCraft2Trees.json"
+hash = "3f3d0fe76f13db8a071ea8e832f4ed83eb527fc01ae337af0280b6b4cc7f8a8e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/PineappleDelight.json"
+hash = "d1cef4f288d6f696b6a74eeda12dede3af5e853681a3a674f5c49bfab3609ae5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/QuarkDelight.json"
+hash = "e72923f1e4e0da049bce04baee84ab07236183c9093deffefca5a09e41ab4116"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/RavenCoffee.json"
+hash = "5518b428dc39f94475d64b567d2e89c2b9cdc5f4a91b86a9771537f8aab8ca95"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Respiteful.json"
+hash = "51e205567468a3eed113d9fb2bc116641ec7ebe97b0797da434a24734ab6bab9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/RusticPancakes.json"
+hash = "d897efa0fd279595721818fac0a6fb20049106d45ec71c254b13b144eb02fc68"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/Seasonals.json"
+hash = "c732e9127201a7986c92f1db3081878578396f96986405c09497949c1ed49482"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/SmidgeonOBliss.json"
+hash = "30dd7632666f01dec9f2ba7b5b5438fe5a8fcbf7e3ac621b3cabf40d26e6164d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/SomeAssemblyRequired.json"
+hash = "0602d7ac4fc5a7cc08f91ec03f3cc1092ac0bfb45c63e10129a9ed185566a4dc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/SpiceOfLifeApplePieEdition.json"
+hash = "eaa264917894472ac22f04eb04d7f96adde02bbd25ccf2e03839c048a3db3180"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/SushiGoCrafting.json"
+hash = "02910e8cb30adf2bc8d75bbc872f7ffaf832817ba6697ad50d9cad42674f5928"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/UndergardenDelight.json"
+hash = "688fb0c2668cde339d839524126945827df4421588f5e80a6c992ab488bbc189"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/WithThursday.json"
+hash = "68a548e81809ad6bc07bf0a285f184e87186b182d8d03dbd0d91c3006ffaa683"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/agriculture/WithThursdayDelight.json"
+hash = "7e5dd274cd4dc3fb857ea8229b8cbd63efe9479fc17986d69e3e204b084ccc28"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/0Pack2Reload.json"
+hash = "77f4e23b53a4173337949f9b1a35dc0165c221f6c4d78fe2e36d061cce6dc0e3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AdvancementPlaques.json"
+hash = "f003677e408ed911842586844228951b037aa44fa9cd9329997677f135ed3d7d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AllArrowsInfinityFix.json"
+hash = "71a657287f246bf8453f12f7c28780f8e6745a2529384735be5e5e7c874b39ed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AlmostUnified.json"
+hash = "e48e2fa59a388fb0e8af15be18ea547b67f4640cbc35960df87c14c0cf0e1891"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Anchor.json"
+hash = "502b137fb78d7feb05cb55e5f0205e8fc8386f3765b09fdda23f6555d3b2d160"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AppleSkin.json"
+hash = "231c16ff10627f18d6f12f422948157275bc6f03bd82912d226d4d31cc17f693"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ArmorStatues.json"
+hash = "79d25a93c5ae95f167ab5781d4b05d980d2575dbed2cdb6b45ecfbcffe741861"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AttributeFix.json"
+hash = "df33f5481bec6e944c1847b1f041b012459a27a3850a3f388d7a67bbb9dee81a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/AxolotlBucketFix.json"
+hash = "c9bb3e4fc04d2fc0336366253fa76122d6748e507811a36f7101aec4c4f199b3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BackupManager.json"
+hash = "78dbb1b2f9aa3888ce3305b3a1d868693fb5a9b125fb370abb6a3366899691ca"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BadHorseFix.json"
+hash = "ef62d59301061f4ae010570baaf277862ce80faa2fe8c69104987cfa979fd952"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterAdvancements.json"
+hash = "c3e43e5ec08df6f96e1cabe55e7b875f4b743e1cfd3b55be12e81894984944a0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterCompatibilityChecker.json"
+hash = "33c224c7b2880bcd7edda2b4e8d440b56b6dc397c74f9ec0b10d52cafa06a09d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterDays.json"
+hash = "cd51b10f9e861ac29addc58990816bfa672eb433654858248fdaab1ec602470e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterDogsXDoggyTalentsNext.json"
+hash = "45df41e591319447ef0fe05b8cff60f59357f392159884596ffb6f32b19539d0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterF3.json"
+hash = "4421e53757f4ab7a8187d62327e62ffff0d0044093c9a24d720ba64bce63c8e7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterStatisticsScreen.json"
+hash = "0d507748c2cb1f76f2f852e07b6ca178eb1394b374b2c7b92e5c43c8945aa916"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterTaskbar.json"
+hash = "20dfcb0a0cccf7282d2ece6d415ce63661e07c1cde8da5743ccc35c4e9e465ee"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterThanMending.json"
+hash = "63ab3d6f9d65a6409be4279cd4bdacf4ab0c3192bee5c31c3b9ae12c275d52e2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BetterThirdPerson.json"
+hash = "905fe392c9d33c27241381cb67c901fb64631f3ca7ab8c18538da856beb444b1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BlockLimitFix.json"
+hash = "b57750be0965f6182bb101724039e844cc720fb962851730d8178101dde10897"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Blur.json"
+hash = "37e3549996cb2d7f82777937278ebe94b1fdc9807baad350e8f77ee4097658f9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/BridgingMod.json"
+hash = "c521311376cccb6957b07f40b09d3249109e25cfe67c4ff8bdb8c562d00254ec"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CITReforged.json"
+hash = "2c99e7ae96bce7ee9f2000a02f500199b758a19007d5ba48cbf46f44d2c4ad14"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Catalogue.json"
+hash = "322a7cc33326ffd1889e1b70a331cfec9267bec52556242272bbe260ec237441"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Caxton.json"
+hash = "12fec2c8406f5d423ea0c45078afc35424e693f09a0fc79123ed9eba1de83371"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ChatHeads.json"
+hash = "8217e2ad9219be7b1df029ff544f1d38416b287011326911a7c38bb5a4ee4be3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ChatImage.json"
+hash = "c4a677059a3a667ab2bdf9dc496f10907bbfa578938099b8b4d1b3f8ece3f612"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CherishedWorlds.json"
+hash = "60bb0596ac9d839bd8190fccae02e7a6949290d6de6fdb1dff954f430cb5d610"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ChunkSending.json"
+hash = "c9cd00c0ddf1e4cb8eaabaca64995337d7f19ce53fc38b7c5aa46f5c8527ae8a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ClickableAdvancements.json"
+hash = "307a958e59b387b93ded8572bc14625f702d5a45fd37c49e3272a4919469cb38"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Clumps.json"
+hash = "60074de587bd9965fc72b26b241a34876da4224f007f723b2771479512573267"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Companion.json"
+hash = "d2d9081d0dfa9e14f36ce0cb27f87ce21671bf880e9d15a6a4e3b43b0f822d8b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Configured.json"
+hash = "4e46f9b346c11444fff42c97e7853dc0b9152705cae7f4f931b2f80999c92c7c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ContingameIME.json"
+hash = "3a686ff643c947ecf1d3a54bfde7e1fd35cbbbd15abdb869c575c24c4306a31b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Controlling.json"
+hash = "3a59e47882dfdd3df24fbac55389cb42056381a6c84c9f2742c376d8a90fd6c2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CorpseXCuriosAPICompat.json"
+hash = "f52c46594aed239e95fdac8cfc87505891ed148267547c237bd2aef1e6b860f7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CrashAssistant.json"
+hash = "99fbbdddfc231cca924d3fe3ffeb1f7ccab88223634066d1b50e17ce3016d98c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CreateEnchantableMachinery.json"
+hash = "8764af3827a6264c678f2b2a6ba5b73cfdfddb20c65770ddd67a353fdb019bf3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CreateTrackMap.json"
+hash = "2e8f17da8b16c2462680884ea9d4ff091659deb89561848b830f6b9dae488ce3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CrosshairBobbing.json"
+hash = "824bfff8fbf3baf22ff292cbac5dd606d20d85bd657f3c7f2a039c3819fcba94"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CurioOfUndying.json"
+hash = "b85addab9d18914248cae9ca607703e1e312f42a2544102f4ac74c691aac7400"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CuriousElytra.json"
+hash = "dafc9a93e2b5e9c26b87260adc12d7c1f9a2b80a93a8046eab95335567b1a53c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/CustomSkinLoader.json"
+hash = "151c0c3a496f1eba1e363b556fa0146e20d4eb221c62a57722f64fb31fee52a0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DamageTilt.json"
+hash = "7d1331527d3fbbea6ae6d5c284d2305e0297f249422388d9256909a65210435d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DampUpgraded.json"
+hash = "81360e3a70b493f3ce178f1486c82b5ad974cd439a47295efc69c23df50c7d65"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DatapackLoadErrorFix.json"
+hash = "2984cedb941b5a84b2d6e5682d7bf6d8f7cbbd117205a45e8dfcca3bce9f91ec"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DeathQuotes.json"
+hash = "c828f00a10d28355f822c69e56d9dead1647eb24348fa6cde7bebf5f7a9c8a97"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DespawnTweaker.json"
+hash = "7014e57d91db34d7cf4bb9f47c361f7f80d7c2b66861d41982fe0769a6c3fd8e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DimensionTeleport.json"
+hash = "2d79ed2ce654606c0227512fdd4fd6e291648b62269d5ea58ba0429d7e3dc111"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DimensionalSyncFixes.json"
+hash = "2e6d3a5f810ce2a2656f7912e94718175a5e395022fec8932493e7c94f75e604"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Ding.json"
+hash = "5135adc1b648acc76481eebdbb9f7fd3dd4514ddf7eae5f2c61a93e9f32a5b2a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DirectionalDamageIndicator.json"
+hash = "7948b08718237d4f0ca305817f4a7387da99725fe65d578e44d7c0c6d897f593"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DismountEntity.json"
+hash = "de0cb409a0c3f9f0a484f07efefad552ae308e75e93ab2f90df3a833a7f87a9d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DrawersTooltip.json"
+hash = "75e2799607b789bdc132080c8f719f381f357845ecd93ee64a0952dc327187b7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DrippyLoadingScreen.json"
+hash = "7497edb67ff17cfe6c9374b6ac42c040ce6000e37ea261d772a50c7327d3336f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DungeonsEnhancedLootintegrationsAddon.json"
+hash = "9905ff96fd9a00e122c5a1cdea597f8062b939b3db24b0427936d9c053ece67d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EasyAnvils.json"
+hash = "2f5b957bae3c9b201bee2350cad0fe4e4ac664519edcc1150378a47c7e68ee32"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EasyMagic.json"
+hash = "d64627d910707d36b3cfc4ebd757ac7519fcca2ac273b995ff0f211b3bc724ea"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EatingAnimation.json"
+hash = "36a9c42b47733f68e714eabf424c75d9e61080bbdb838ecc67e30a225a17c15b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ElytraPhysics.json"
+hash = "02bd971dc8af2a53db64478c6f3584f5b762c3293917c2b48b54661b31101f43"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Embeddium.json"
+hash = "5cbf8aac8da3d0a66064a80a8593f681ffe7529392f6b6d35cc751aa895372ef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EmbeddiumPlusPlus.json"
+hash = "e7d42fbcb8b82a62859c5e8136c4dc0d27579550722798f3d6b3ec0719164e35"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EnchantmentDescriptions.json"
+hash = "26fe3cac1f3eb498cfe9af924c7ab0ba1c06a4ca920899b2337cc60f707e5780"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EnchantmentSort.json"
+hash = "e53e7c6b9df343e1435e92989d0a0e64b3c35616d4720a47017070526803d512"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EntityCollisionFpsFix.json"
+hash = "d355f7e767f278f2aff01a1513246ff432d91ee2036d969202163ca0ec835790"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EntityCulling.json"
+hash = "65a6fa0533577c314a0a7ae7fa46fc985b8eac64e1a7b2fffe5256d45444ab08"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EntityModelFeatures.json"
+hash = "7590fcbd635586057180df1b3c1c361f1f6b913cb6a989a4888da087684217c9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/EntityTextureFeatures.json"
+hash = "c9cece711d91f86791aea1c8957b4b0de60e6477429afd06553121801be63445"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ExtraGore.json"
+hash = "2c0ede8cd431167f70b96378d8b98a80be0a58686c5e5f6108f9b5a3612b092a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ExtraSounds.json"
+hash = "4c1ab2653969c5de8ad11dfd17dcbdfd23b48496a1e229906251b3d852532401"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ExtremeSoundMuffler.json"
+hash = "65b6c37f1051683dd707fe4b692b59e74f39a09166bf66fd13049eaac88a3dbf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FastFurnace.json"
+hash = "58bceee01984a9f1654c90239ea600fbf117ce681bf6bdd07714b45a8d5f088d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FastIpPing.json"
+hash = "5d4ecc7fdca3cb5a25060109367d0c530cbdcf2b6483920acce11066f6c975a5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FastPaintings.json"
+hash = "80bb769c0ad995cb8dd172520a7b5e113c23dc510d7135e5c932c9304bd17355"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FastSuite.json"
+hash = "a5ff1f3d2e069c1bb5ad69c435f00f373050c7e5eca985fd7348ff71afd7fa38"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FastWorkbench.json"
+hash = "b8ccc21aea1060f06e499b8aaf4fdcc037b7ede1d2eef6bbd0dbc96e39dc5180"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FerriteCore.json"
+hash = "94bb62b74add0eebd6cb157d7abca54721ee1b50de0dadfbaeaa92992b769959"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FixGpuMemoryLeak.json"
+hash = "856a91a7f6b6bc30f0016cf67c8ab2120a33144bf9b7cc87dfdd5278b7992b2c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FlameSweepingPotatoEdition.json"
+hash = "5c06a237c9e17e3b027e31f993611d4cdf2e00b0e39dd1e15511fe360c39752a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Forgery.json"
+hash = "524f0983215291354365f2f8153dec928211f691018b23b7035a61055be463fe"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FtbBackups2.json"
+hash = "e220786038a1e273efdddec19653ad26f5a987dd009a0a49a0e14c498688f2a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Galoblender.json"
+hash = "8b72e97d0f7187124014fc7cb0da2e706b1e982772776dc7fdb900ca9edcf3c5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/GeotaggedScreenshots.json"
+hash = "521573f8dfed22857c5ef5f704c69d0280b5e6fb1416b502320ccf25d9ccb038"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/HarvestWithEase.json"
+hash = "0d592292b0760b12047c789593184e1649fcabe8f5550fae0bcefc7047b2ce49"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/HorseStonks.json"
+hash = "43dee9f90c7f48ec831fa8b395c99e510d0a7f635eb4787d910424f6ae82a7cc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/I18nUpdateMod.json"
+hash = "ce378fc7d0746e5967518829d1f5518d04c82d2c15c5ccbfed35b382aefbb8fa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Icterine.json"
+hash = "930c7fc7d882cdad7ea00d2a21badb1858a6913abd10322a4594df10db28ba92"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ImmediatelyFast.json"
+hash = "a57653fb0d8db376d2ef7f9d4c682ec2a768a5ef4736c49e348092272b2a9154"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Incubation.json"
+hash = "1520fce92a074f03b437dbc4df3d8224f665136a72e5fc64a1a1e046d96d9a19"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/InfiniteMusic.json"
+hash = "f53d3f818cb42073bec207273c310f16d06409d14dd0d20f80b3244c8ef11581"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/InventoryHUDPlus.json"
+hash = "d1026e35dc353acc09b7b083e66979936ba8216a637124bff051425ac8df258c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/IrisAndOculusFlywheelCompat.json"
+hash = "d0cd76080af12bf9a4bff8ab2867f77afb84fe915eee807d998756c94eb59b59"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ItemBorders.json"
+hash = "1aca22902f22d56860c8252f5d2be6ccb94c0578a17208083cd76ce3718508ed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ItemHighlighter.json"
+hash = "a9b1afd68ca00d547fd916c00db7efccb2851bc804e213a7c66601748e6cc93a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ItemPhysicLite.json"
+hash = "4cfc56831d6c2301f9a90c10e3fcd37de5e88679cdc49b2347899c0182468252"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ItemZoom.json"
+hash = "ab6f4fe1deb4ed83dc89aa4f89270e5060139a87816c8157b8c94ff6d5551725"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Jade.json"
+hash = "3eaaad2c221404411c1aef6ffbc38dda80819aeda1c3e72a5cd17930e2feaee0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/JadeAddons.json"
+hash = "f7b203193f6e6928174a3bc63ca12f9c98f97a66117e1b7a764b67eb83d6df9b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/JerIntegration.json"
+hash = "c4835312bb4483c1d9796606a8fc646c8a9c4699ccef7f472c48c5c878dcd672"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/JustEnoughCharacters.json"
+hash = "c3c2a3d41cb4713b739cc5a1238d96ade433a15474c1a23f116b01f0f29adad7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/JustEnoughItems.json"
+hash = "bfbbac8e916bcbcf5920299b3032eb21554b5e949f98790eaa5db69ea98b1242"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/JustEnoughResources.json"
+hash = "2b114eec1bbde3ffc54f1466005e395a945e3d019a9e247f2280680e9a486889"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LanServerProperties.json"
+hash = "a8eeb03df6d63fac453d0a8b9dee66f06f8421476a5532713543b7ab2c3338ff"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LazyDFU.json"
+hash = "b1de805ab8ad15c3e3e1218b4a159ab274d4add60a8dee242f64c9b3134a02ef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LegendaryTooltips.json"
+hash = "3f108e1f1b8dee62fe73d5fa85874cdfa877ab687fdff15c466d070d179ed2d7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LetMeFeedYou.json"
+hash = "2a8aae7ac7a430cf8f1314df446fcc57bc0b87c2005b55640f2e01aa4a4432c1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Lightspeed.json"
+hash = "560d989c69e6740271a7d341b6ed3f1516a3e640385726eccc84abd55b455a2f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LoadMyFingTags.json"
+hash = "22d8bdd353d5c742ac15276523db38d4165234d4077a4c8f2ff7382db62c2c88"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LogBegone.json"
+hash = "87768db5fbce3d06d3d0b13b30549c6ab94b10e13a868950eba753c7052e5549"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrations.json"
+hash = "0255e96b0ff94f7efc912a52cc42081c38c161958c586e53004fff5fe2c8dede"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsBygoneNetherAndItTakesAPillage.json"
+hash = "3ca2d0fe70db0312d5393db5ff35f33c4f04e3f2f3ecc37f580bf7b3ebbed55c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsDungeonCrawl.json"
+hash = "e9663ce5b2ba50fce41fdbc043589b89595ea54d6ea06cee2905ef5628a4d15a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsDungeonsPlus.json"
+hash = "eb4f2da21a58ebd5620514c9ab54f61a714ff807866bcef82d37a3077a6f1fba"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsHopoBetterMineshaftRuinsAndPortals.json"
+hash = "58bca9ea925a87073ebc651c0ac053ed76dde084b36dbe35bc84703c0f2bef5f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsIntegratedDungeonsVillagesAndStrongholds.json"
+hash = "815f3b7343976a94a3412ec83f19859a02b1770a7e68ba270977054dde840286"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsL_EndersCataclysm.json"
+hash = "888591887b22e36c8157504fd595e837d0355a629789ba9d0933799e7d14d13c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsMoogsVoyagerSoaringEndAndNetherStructures.json"
+hash = "a5add49769fed0969cfbd97e8b002f2e59d8d8bc81966c992fa13fd11e0e7917"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsRandomizedLootCompatibility.json"
+hash = "f2849cd0c53fcd0f2eebfcd07219e63953723bf49f4bd781a5d61013a4435bfa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsStructoryAndTowers.json"
+hash = "cd29517b6581760b59eee023f9ba02cd9c7074ee9558f1253a0a8ede32883b39"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsTheGraveyard.json"
+hash = "4ade4478882a4594a124dee1f8b0be54d838a630528abc03005ce02d5a873c75"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsTheLostCastle.json"
+hash = "55ce4b20083617cfc9abec2e6c66ab4b327b13700f9d31bf17576453260b14c1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsTownsAndTowers.json"
+hash = "58d768751a912aded7f8e902216f61b320e21bbeb6219b100adb79fd6b545205"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsValhelsiaStructures.json"
+hash = "e5e84589d2a59603e267f50e83311c1e081f3c3189c4d43827d4b7d552a727b7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/LootIntegrationsWhenDungeonsAriseAndCo.json"
+hash = "723395e3d77dd5668594eecd314954e4302862e5d2dbe62a19a99c49c99dc2a7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MCretector.json"
+hash = "90fa74beb66c0c7d95406520a3c7b10fb4a9f334ad1da3df36515b629d65d8bf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MajruszsEnchantments.json"
+hash = "e09bcd74cb0ef7c5ba848435a3d5452e6f449823476aab9ff289665fa60426bf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Mclogs.json"
+hash = "a36607aa7ab007a0558ada24f6d2a4d58c10ae36cc8d8916bd4741b3a9ad9dc5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Mekalus.json"
+hash = "a709b790c720e26e8edaee42ec9efe37f9af8c8d8e481bd5a9e60baae32d11db"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MemoryLeakFix.json"
+hash = "53df9a8918310f2b9e3deb57dd9ae87643c740be90f0929f260270228e35382b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MiniEffects.json"
+hash = "e8ac584692d50ec90914fce27e9d85b3ccbf5778eea060525e53eff4e622635a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Mobtimizations.json"
+hash = "1d8805e74cad9c6865d947e3b04a76f049d756332cf140c23c8a12642cb2e29d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ModelGapFix.json"
+hash = "b792792de006c89d0c091115cce20aed8b829228d7cba583e473ee2669ec4f64"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ModernFix.json"
+hash = "a92b620aa1c0c92424816cf651de9f9211fa815d6a0130849daddc43dc622c84"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ModernWorldCreation.json"
+hash = "6109a19755072e9e2e8d6925f819fe8b6ba218b13134da429b11b551f68782f0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ModpackUpdateChecker.json"
+hash = "1b3468966ccc384ae1d52078647633a478a415122f52a33f89d244a1dcc2de2b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MoreThan50.json"
+hash = "a2893121ebe4a1f19a16b13b6170a2f774cb582be8d0e678ecb3c760e8ce65e4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/MouseTweaks.json"
+hash = "93dda5797655aa543335cdb54b1f3d77fb90d803e6205921fe03ab41ee67a773"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NameTagTweaks.json"
+hash = "b57b38e311eadf6c60008e0f53029d6361694d61c555cca8587189fbfa5bccd0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Neruina.json"
+hash = "b30601ac30d69d982f07710e94fd1408487c840de6103111f9657a54134c3588"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Nimble.json"
+hash = "851878cbdd10c7d08878249086386e1c8d692671b7759da1c0edde6b3164f134"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NoChatReports.json"
+hash = "53fb4fdb7f0be7e1625b440555c263f8d00c147819842cecfc32aa1572b303de"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NonConflictKeys.json"
+hash = "a3db32d5c0f9b53311b994af40b8dc69cdcfc766f00fa3a396ca8bada0fa6787"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NotEnoughAnimations.json"
+hash = "073204af67ccee139d948bce3075ae91177b4c1f69cf216385da7fbe5b5779d6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NotEnoughRecipeBook.json"
+hash = "12fec0b4552fbd516005efc88c77d8140627b90903fac296224ea28b9148d45e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/NotableBubbleText.json"
+hash = "0ab1268b27fb56fb48d6b848604ee993bec189beeb6ef183f776cba3df5ce6b7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/OculusParticleFix.json"
+hash = "20da4a1a759806ac3022196f42186af343158c88b5c13cea0efbdb4e2907b3cf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/OpenPartiesAndClaims.json"
+hash = "fc54429062764a8ada0fcfc071970b165e423a59e3066ab45f88f6145b9ca932"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/OverflowingBars.json"
+hash = "4c4a852b085db5eba45ebfa2bbfcf5bfa35ad7f3bf1c4f35bae3e7ba1f652455"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PacketFixer.json"
+hash = "0a1a772d86e1e616aeac76448d6f80c9876f15de3782ca2681be8f848b15f5ad"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ParCool.json"
+hash = "c76d8ef96fc05f575062c248f74bcb8e73c15462fefa60e10e825d3fe02c94a5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PassableFoliage.json"
+hash = "fa5d91fc68447917efe05ccf4c71765a1218922cbc9f3dc7fd1c097c16a18037"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Paxi.json"
+hash = "52071c6ecef6bec7a5f0c681babb672ab8b5fdd91e2908c6371aa61803df70a8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PickUpNotifier.json"
+hash = "281fc0d1034a6481ea57dae8c45fe762b387df1aae9578693f5ce645d736bbef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PigPenCipher.json"
+hash = "b697c2374fe29d1eec25d3927fb01914fc4f07d23ca12343d493ff95af13cc16"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PlacementPlus.json"
+hash = "08b89707eefaa77d0ed0caa0b08d845de791c2c99e157975dfd591f47ae15c30"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Polymorph.json"
+hash = "7b0d251ead0bfb10ddefa07683bcfa949fa909129e782f39167827d9ff37b5d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/PotatoNaNHealthFix.json"
+hash = "3325c024807b1adb278d88332f554399ce26e7f9fc564d946ac62ceffc07edac"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Quit.json"
+hash = "c5ed97364e66f0d74793e9bb2f499b0b17b1b8709f9f3aca7ac6e341bab80a07"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RSCraftingMonitorInGrid.json"
+hash = "196d18509d9ae20527f42d87405a652d14576a8de26115c0dbebe8656f762921"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RawsVisualKeybinder.json"
+hash = "073ab5307f4046e7b50bc899c5b570b17ebb01aa77624b3beef1a8a915ec2641"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RefinedPolymorphism.json"
+hash = "ebed229aeb7115014b8cdf47f5bbef406951f887c8f7a914e94a57ac874c4839"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RefinedStorageRequestify.json"
+hash = "154fcaf249aff3b891c04994fa663a4203a707226468256e9974ed2cde773db7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RidingPartners.json"
+hash = "eb91e2bb58845379f1b332c3ade4d1a6acc12850bc48a22f14d73e1c83ab772a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/RoadRunner.json"
+hash = "1eeb14e33f91b1baee99e2a2a53c2036a85b72317f87759bfeb9516c5ddd3dc6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Runelic.json"
+hash = "df6eecf9328a8b250a1b73ba3c07f0de69c6c034851082911348d53cbb8deb5c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SaveMyShakyNetwork.json"
+hash = "d1b7aa18426ef4cc87a6065f05e8788981a0b90081a68dc7df4c476aa799be3e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ScreenshotSharing.json"
+hash = "d978a38f5236451c9ef91f67da9644064c4879102a6d9780ab675fd5d9ed0374"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ScreenshotViewer.json"
+hash = "847663b5a137d973c775b75b5cf6a25e5addbda2a77c923b0d59cf45ce286e2f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Seamless.json"
+hash = "c8104a5201965f231d7264d0c3d07d7ff46a4975ead2bd5ce0d830d71dc7d391"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SeparatedLeaves.json"
+hash = "2e4138f8281708d98b6c915f4b9d4a19d5915970abfb069627977b2c1e67dbde"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Sit.json"
+hash = "685e0f1fbb5ebfc60b629f5b92193c3b0ac2ea244f5c282eb3e7eda52b5319d0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SmoothChunkSave.json"
+hash = "f46644e14f3ccadedd76a231c741baa33035ed9318085af3bad5bb776168bd44"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SoundPhysicsRemastered.json"
+hash = "643b676c136f63240ef3aff3e8205a4d19d50ebd496f6cfadc0f1e1ae6765b59"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Spark.json"
+hash = "0fa19a590bc4489635f93f78a8859ff481cf65e3e2c7fd5f1a8fa6fc6f2a2794"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SparseStructuresReforged.json"
+hash = "65038a6c8b5960847b3dc2a21bc263d7f945105ea52bea30cb07279946a6084e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SpyglassImprovements.json"
+hash = "4f3ea32b4cdb8e540811b25510e9efc011771e86a28839b70ad07d34971a9982"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/StackRefill.json"
+hash = "5080667237773eac0310da0cb0ef5573d3dcf407b3ee4e47d17d5e1b00507d0a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Starlight.json"
+hash = "5924c4fb9ca83d25c34a7c449d8f304d77afe9cb1917d5ec7c7f12fbdeef526f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/StructureEssentials.json"
+hash = "9f6ce046bc618c98f249d9ccfe340ad793278b79e2573ff773bb39ec21c57655"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/StructureLayoutOptimizer.json"
+hash = "dcc733141b002aa5beab9a1c07e7b31e07043e7296c1c1959fb8625e0d5d4a25"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SuggestionTweaker.json"
+hash = "25424001d5f6e59ccee586393543902db2484f02b33c14414feb470f24ea6816"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/SuperSaturation.json"
+hash = "d91191c53e35690564cf36200f48f8197cc2874398670268ea98b26fc6cbb5d9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TaxFreeLevels.json"
+hash = "62d55f7cffd67c12c3c2c7d088981603bbc0a6ae475b6ce4f9e3f7e0e686c0bb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TectonicPlusBiomesOPlentyCompat.json"
+hash = "610398fd02153132c03b888097c3d2fc99b85aa988b0afdd0a4e334e10f56d72"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TexTruesEmbeddiumOptions.json"
+hash = "c0da962ac489c604c8b6e233bf196047bd63e0e85c2ba4f04ee230587ce7845e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/ThreatenGL.json"
+hash = "16a9aec10d36895b44b59dfdb6d46515f4516300ef18a895e63f32e26d8a8c78"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TinyItemAnimations.json"
+hash = "8fe6f9e3a36c4d0a01cfe349467aa572020e2a13724bc65aca74316955ef5679"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Tips.json"
+hash = "40e4c48e8128ca3054ca4497d560ffa704053166adb9a6ad1f17088ce4d425ef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TrashSlot.json"
+hash = "14a5edb0d4697df2036dfa6178b4febe21c95d76e41f0a2e5c127310d70d4061"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TravelersTitles.json"
+hash = "1e5777522d603a47dfde81f86677177feb268e9ff535b3ccd72b30c1607e10e5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/TslatEntityStatus.json"
+hash = "f70fbc0255fc0d803b38a56398fb86efb6b7bb6194264382bd6103423a3a407f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/UniversalBoneMeal.json"
+hash = "670f566e2f90f2b82717515594551f25a649eff770abd4610fd906d935b8b260"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/WhatAreTheyUpTo.json"
+hash = "95363c4bc8a10eddaae3f0f9092ebb228f9484df6b8ba2067f32004303f90f75"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/WorldComment.json"
+hash = "5a84e3a88bcd0cf262f2cb1245bf739b0999e0e107984a7219d341ce587ea82d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/XaeroPlus.json"
+hash = "60adb6623f8b2207bcf9f77e9bd5d58a9aca22f94079a605f84d212d31eecbca"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/XaerosMinimap.json"
+hash = "18702cdde3267f3851588b6a3d2a2c173e0a3cd3f527b18f76b8dd7cd2f8a894"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/XaerosWorldMap.json"
+hash = "f79c132ff66a0ed979b9a92d3fdefca4df71ac64a11f037aabe844c7a4fb1d91"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/XpTome.json"
+hash = "d164d69fbb880678d461a5fb2f689121df04e3ba45add0287d8d9a0fc10b4e4a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/YeetusExperimentus.json"
+hash = "54117cf14e9ab7fc3fcec127fcdf2f101e06b04b1d2021ea86e6f75bf93dfac0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/YungStructuresAddonforLootIntegrations.json"
+hash = "5f2527d9aaa40d96dc8a5666249f7869451bf7f976769b8ced85950a894ca7c8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/ArmorCurve.json"
+hash = "736cccbb1b975ad60e71c787f429a2278b55c8fd8efb9a07fb2e3c525886fb83"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/BlockSwap.json"
+hash = "2fdae6e2525974cbb2ecd4154480f9fdf946f43cbd0937f94ac6cb1bbfeb90bb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/CustomCredits.json"
+hash = "1d250dcbffb189649dd85f969b8ad1ff46c07c89256a7a96ebc173bd6e401b28"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/FancyMenu.json"
+hash = "2bc6af5dc4fe20a526b4bb3e0b2a0325d8284e0c4452f00082c5876e3edd9f72"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/JsonThings.json"
+hash = "3a232abc1e0f4071e4d24ef9bf090575499bdc6e62fe001933ab0fc9eeaa0390"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJs.json"
+hash = "7e2de012782f737abc391d62ef7fdbf470f65e7ea052c36e56b1940e03ca46e2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsAdditions.json"
+hash = "cf2459e109692c90611b40ac4653c2a67a5deb1b10aa46485480966637ad1d25"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsArsNouveau.json"
+hash = "020057156a0d37604a92ec093e369df27ba7790bed0186950d046a3b504b4bd2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsBotania.json"
+hash = "64c91fd4cec903a227d73bb21a7e47738890dcbd97b108cfcc85ab72b153c01c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsCreate.json"
+hash = "5e341d747debc7a14162cf62c0e4e1dd4305d32e7e3dad7fcada5e9c812f90b0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsDelight.json"
+hash = "b73e30220ba982919e598d9e6994a6c3721c85f807940ed6f5fe87030f9fe788"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/KubeJsImmersiveEngineering.json"
+hash = "ea1d6ccc8b0e36b2b25a729b077332866ccb30747688baff792448d3bd22eace"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/LootJs.json"
+hash = "3dec06fdf03e432c90c12cbe1b2db251bac5f5e491da0a1915aebcd56c7a4b08"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/PonderForKubeJs.json"
+hash = "4a6f360edf49df23fcafb2d984403ddbdf02e03f45f11157dd99db151179c57d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/ProbeJs.json"
+hash = "8c48ef115dc13207d40728b5b4d4a8b29a30fdd865ed7133633cce3abd8583f5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/custom/StarterKit.json"
+hash = "2c251efe66a4221d89f26aa28fc09b5c5454910c69ccf4d1bd007dbe6da053fa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/2032WorldHeightEdit.json"
+hash = "a846bbbf207519946b43e80c47dc99670e417451a93a8480345c3b784ac87165"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/BetterEndCities.json"
+hash = "19c26e7d1c0ca131290a8ffe46917c97bf08c4ad051acff5578b90ba17afc07c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/BetterVillagesImmersiveEngineeringCompatibility.json"
+hash = "18e2b707bddde5b712d5e16e049d47cbe8a299e2c353a29134c0244082a6d70b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/BetterVillagesMoreVillagersCompatibility.json"
+hash = "483f1a8d77100014e30cdeb7682e47bbdfdb50736e08cc98c2bd4f1783e3c913"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/FishermansTrapCompat.json"
+hash = "f6d9d0f6aa174fd87a799dd9a74c5891679a63bedbf84d492f9c3f33e076faf2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/Formula_Addition_-_Salt_Block.json"
+hash = "1c6e065f557e6b7a7895279b840ac4ed79480f1a49e877d3a40256702b98d467"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/IntegratedDungeonsAndStructuresAlexsMobsIntegration.json"
+hash = "23bb395eaff62f422aca5c5486ad7d6afb56b9f4498259a1ef3c7570748e7a8b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/IntegratedDungeonsAndStructuresBiomesOPlentyIntegration.json"
+hash = "1d50b83193e6a49dac45363b509d62013b93937b007b2e96953cc43ddf75c5f2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/IntegratedStrongholdAlexsMobsIntegration.json"
+hash = "575723e9052ba69c13ea75059023068ccc20f0efd2e37453d77b1f3181e2d450"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/IntegratedStrongholdEndRemasteredIntegration.json"
+hash = "95a8b3aff81089bad6ba0e7297658dfa5cd0741b4a5bb9c2ac13a572f7c182a1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/IntegratedStrongholdTheGraveyardIntegration.json"
+hash = "fbb2e668f1ebf573a588b8b7dc5d9201436969f623b0b013b692bcbeb10ac19a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresAdvancedPeripheralsCompatDatapack.json"
+hash = "2c0eb7212b8df8fe2b0d400b941fb716931fa5d720c5efe2aa48c2d4c7d52b78"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBetterDesertTemplesCompatDatapack.json"
+hash = "ca4122e82cd677ab3ba2d54d4ba4afc7ebd20defa960fe73f6e8cdb463afb066"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBetterDungeonsCompatDatapack.json"
+hash = "efb253d7d198bd2f40ec9f5ce1dd898d3841b5e92799a7feec5a801eb6fe0ccc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBetterJungleTemplesCompat.json"
+hash = "8de34e5c4fce1ffc073e2e3fb265b8978970f6de6ace443a95ed5d1c4a182f10"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBetterOceanMonumentsCompatDatapack.json"
+hash = "ea2be6806a6a9ea674201902a01f0668a6cea6cdefecceeb1345248e2cd0fd18"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBetterWitchHutsCompatDatapack.json"
+hash = "183e9a03b08a502bfa49d98a66b505ffb613fcee5d0c1b63949702472a79899d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresBygoneNetherCompatDatapack.json"
+hash = "4ea9b835e3b828c3915b397915a23b342fb544c54c6d0cb3a9b91f2f0a8ec19c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresChefsDelightCompatDatapack.json"
+hash = "1cc229b28b514288bbb1709b3cd6f9a5e77eb7a02bdcb977eb49bd82baf92c6b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresEtchedCompatDatapack.json"
+hash = "96d99912e1a7d0304c858c33f5a21dfdf0cff95dc104f03c1113f3d9769ffda2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresFarmersDelightCompatDatapack.json"
+hash = "cbae407403ed5c0163e6edfef0c2e9355aebde527d56513f54d6a75667d69c09"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresFriendsAndFoesCompatDatapack.json"
+hash = "d9d2512f0eb7ace72ba722d4171175d67050885ffff2737f7c2f8611b555c409"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresImmersiveEngineeringCompatDatapack.json"
+hash = "42768a5914c9f5623a4c3d5f5f07146a8dcf4020651ecd7070f50e188f70ca5a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresMoreVillagersCompatDatapack.json"
+hash = "1b3faecd83ad85a9f5ee9e0c7069198274bb085a60ed345e3ee211e963863ed4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresSavageAndRavageCompatDatapack.json"
+hash = "40d46bc1d9ec157c05b1b225b0cf6be347f6911c666988048fbae14b4c268ef5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresVillagerPlusCompatDatapack.json"
+hash = "fe59a30822470e31ab205fa320af436083abf90cadf6a61e712088c67d6f98eb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresWaresCompatDatapack.json"
+hash = "7b305860ddb3162036ab7529ba1715289a34d14d20000532f47c93b92e0610f4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/RepurposedStructuresYungsBetterNetherFortressCompatDatapack.json"
+hash = "2b4a6b1948287283b04ed9156d34e6e76f3bd52b770c46eacce1156a07cf0971"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesFarmersDelightCompat.json"
+hash = "1af5137edf111e4db9364283b7c6e9e6157fdddd6601e85d68e72903a7b01e31"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesLetsDoBakeryCompat.json"
+hash = "d7d39025bcd30cc7dcf70b676e7cacf229039e508ff2f0d49fad6d4d8bca681f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesLetsDoBeachpartyCompat.json"
+hash = "1d9f3b740610b9c1390e4bc6253ddc344b55965b3dff24544520240b9cd58d1e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesLetsDoBreweryCompat.json"
+hash = "6630b225a47ff9d025b0d364f34b1f126d320c653f9b357d5521cc0c01a2c4d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesLetsDoCandlelightCompat.json"
+hash = "1746594316d2248b5ba6728906d10b0856f7e568c30498201d3e67cf72d87c8a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesLetsDoVineryCompat.json"
+hash = "30068e732cf1c4714ff45879248f3d35b9ff0a1e9ab366637175fb462d759e0b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesSupplementariesCompat.json"
+hash = "5c375abc3379b3317761a47d205cebb5048264d70acae544d2f8dfe5da2ddda2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesTheGraveyardCompat.json"
+hash = "29874e70b017faa52c2e3a02052dc5800381ec3eda5fac37fc6878c4f50c195f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/datapacks/SkyVillagesWaystonesCompat.json"
+hash = "e583224907f263a42f91f89517be9e122b7183e0ee5f2361742d5a59f9e17a06"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/AmbientEnvironment.json"
+hash = "e193b7bb857c67e6e980600be1c0af6c3cad23084236e7c1f8ea23f26a3aea31"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Arboria.json"
+hash = "a6b3865438a97abe79edc06cc0dfa2cdbf157d0faf30d1121ce5ad5ef84a9e70"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/ArmourersWorkshop.json"
+hash = "0fe4f8549a607ff6f7351cb2a8262146cafd09f7f69d597c9ac4e949d0e56913"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/ArtisticCraft.json"
+hash = "db55393917f025c1d2777a4d020a2fbd8c20eb2252a123ab595d1ada93db177e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Beautify.json"
+hash = "39fd99756f7991076345d02dfc877ed0cab437bc7d4376691e734c2c9d6dd1db"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/BiomesOPlenty.json"
+hash = "75f0178ef3dd23394e204eaa49c8a70d40f2b5a29800c52e7e269f77769a1d82"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/BlahajReforged.json"
+hash = "35e8e331f9c82fed0f6fcababc9630fe64684dff2369f114d2bbf4a8cf977403"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/BushierFlowers.json"
+hash = "546f65fc7a2117e7ed2e129750b95f1fba118f1a2491705fcc78c3795a49e322"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CarpetedStairsAndSlabs.json"
+hash = "1765cf8d7e6b3701293b8c1089c76af527c55fa4f52e5e265cf38e2f9967691d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Chimes.json"
+hash = "9514407c2b04992f3f8720c16fb1334a65c3f487fab484a11702226d0c0df381"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/ColorfulAzaleas.json"
+hash = "f203136cacb3726bc5ebc0442279a4e41502e430c7de6a973ef4590f7bd75899"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CompatOPlenty.json"
+hash = "34b6032622d32940e701e780de41c3277649728263f78b0b9b4d0bc359ec8eca"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Connectedness.json"
+hash = "f42231019498c1726b6faab1f690346d57dc128a0b77e749f8bf0799186e056d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CopperOverhaul.json"
+hash = "e254176085dbf9360ff242cc99ef028c823df9654ce600a587e70cde345730ab"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateBellsAndWhistles.json"
+hash = "b064be0395a580cd4796be39e77ba03702fe29362f234523776d35f481493769"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateCopycatsPlus.json"
+hash = "273c0c642890d3a8c86603df09791b5670c2db57fd14387d1ec70c21ad73a326"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateCrystalClear.json"
+hash = "d1c829715b64188598c00c5582d7eed5328ebd5b0765b0b98c3849ddc8bb9639"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateDeco.json"
+hash = "8fa4781841686f5575406346ee62ed81b14872eb85399fb21470275077e47a8e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateDesignNDecor.json"
+hash = "4a3d6814ed4fb8a1fcba1275ec5f6be73b14279f9d652866f58ff0ea8f0a1ac0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateEncased.json"
+hash = "ce04ff45aec3e1551f6d81d5123a33f5d1562c3d0365546b5877ce15c75851c3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateFramed.json"
+hash = "6797059e5f518e2a00bd76dcbe2092c0f47819dc27b720143d6a4cc115a4051c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/CreateInteriors.json"
+hash = "e262229c87a61d5436baf7bf8a5192b508e55cfe313bf3ad5297ade2ee57fae5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/DarkPaintings.json"
+hash = "fb4a28ed7401c0e1d0828c6487e25ddf2eb02871523666b04d8bc68d36f0b226"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/DawnOfTimeBuilderEdition.json"
+hash = "9e9231e3cba13d354467bc4b6935f7713f3d505c19163c136c51f0051e021b55"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/DecorationDelightRefurbished.json"
+hash = "229d4611c1d429c3733bfda3dc35361fc1c42827580e0ce45394a30f603ea7b3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/DiagonalFences.json"
+hash = "abf7324807240f55b95323dd9878388e5b35e975d8fd9fbb0b85ce4a75c8d88f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/DisplayCase.json"
+hash = "ab83836e96053a7b3b679813918346593b8286df37508c3b87029bef99697787"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Ecologics.json"
+hash = "bc013b16cecae990319dceba7471132423a1c3abf71f63ec22c8838c2d9f1881"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/EuphoriaPatches.json"
+hash = "a07937139b8d41411bfe2af9bcc54fe359a13b87dd814e08f1acfc8568f1790e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/FallingLeaves.json"
+hash = "b605ee8cbb6a45078ef4176af97fe73ecc7b21a0ad94747f47a5fb7b0f78d4c3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/FootprintParticle.json"
+hash = "95485759f6e74b6d51c94cc0fb5dd912ebbe5f255a2ed9a95c3b53c5eb37d36c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/FullStackWatchdog.json"
+hash = "b9b54863d4911572ba40ed24746c4c703ca101bf8aa44166bcdde4004796c236"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/GrassOverhaul.json"
+hash = "08d82c030bd5fc5689b9389f94e31b6bff801f40babe040cc8884f5bcb158628"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/HopoBetterMineshaft.json"
+hash = "9ef23a79ac18827cf656de1783ea24de2604ee526e2d84b2b2ef5b43f09a5578"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/ImmersivePosts.json"
+hash = "1d2b6dd1f8b584fbacfab66a7845b105aae11e36054f04d245d3df8b5ed42e73"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/JustDandy.json"
+hash = "60bd80cdf3ae3c35e74c8330695cad7d0a71e1c241e1dfa7be6b45bc318b7b38"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/LeftHanging.json"
+hash = "ce93b3a074d08cddcf90f57cda4f2138d6dc52f1a9ee9696d5e2ab81016183e7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/LeonsBackportPaintings.json"
+hash = "fcf15506f17081d9e61373ceba02e755d53d0819ee56213e926e425a1b39d720"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/LetsDoBeachparty.json"
+hash = "b4bf2a03843d094fc9ecb6f79c3e36b47b026d3977899dd0307e6d590ab27eeb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/LimitlessConcert.json"
+hash = "1cd53d99b3fe82abb419e8748bd322fa71a05ae5869c85f4b5beba5e6707158f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MacawsHolidays.json"
+hash = "45aa2277bd26b7ab70f1f8519cef53de8db8a5ba42d8db7ea97c3363738e1dce"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MacawsPaintings.json"
+hash = "e0dcce39af9ce42a60670532c5b205c5469bc72b7cbf6eaeafeb333502ce707e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MacawsStairs.json"
+hash = "c92d427f364da0b5030dae6eaafcd2a4c8754cb78ca90f83c9143a0f227b5f98"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MacawsWindows.json"
+hash = "64e98e3e475b3496d41518f5ba7bc38416ef9af97daa81f2cd15b0d0b10fd1eb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MedievalPaintings.json"
+hash = "44d6bdd714b5c5c3e4c29577c3d4eddc2891f78a8521ef2df91e8394b939b009"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MedievalSeedbags.json"
+hash = "edaf989ba800e637f05f45d3f91d264c2a26ce14a68ba4f8b85ac5d338d20e26"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MoreAdditionalPaintings.json"
+hash = "3b19882efa00edfd1bb10864a1804709250bb368c5fba96ed4d28854142a2fc3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MoreAxolotlVariantsMod.json"
+hash = "3672b0d9f8f92beb95aadaa86875345be1cf0069c2e003f23c664e285ecc591f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MrCrayfishsFurnitureModRefurbished.json"
+hash = "5dbf40f4bbaf6b14a54e1165311bee641b1940e5b3b394b15b8c693147957feb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/MultiBeds.json"
+hash = "f856cde5c2c03c881b95cf3224f6c651d08b63e8a7aac6b75dd6f19a130e34b2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/NatureArchitectPlantsAndDecorations.json"
+hash = "8fe590c0522a1c37047bc88f8fe1498412eb9c9e50d170f71843820dea6a64a3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/PaintingsPlusPlus.json"
+hash = "24a2911983cc0cdbba429b8024e9086dad87f9a154dbe0dc8ee7edfb83ce0342"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Platforms.json"
+hash = "d7846dbcac38a8dee04b9b75b74e0a1b13ae674b5571426fde0f4c878c579b84"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/PlayDate.json"
+hash = "5d456ed9f37f75e73207a3115c99beba9b8f60fc1109d9d8a05ed62a16e57e7c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Portfolio.json"
+hash = "1e4eb2663035ac96046908cae398ba31fb9c394b626811b2c245e122241e1761"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/REBIRTHPaintings.json"
+hash = "45c3abdd0bab131ba7fc2f94316f024ab5cb1705acfd8583499823122d6e8d07"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/SnowRealMagic.json"
+hash = "d1861032f7f40343e27ddc878b623a60dd8e1dea01c3570d2897706932100d0c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/StorageDelight.json"
+hash = "7c7c40076632bc69f27a8b3b2865c3640d92845dfff5495423bfdd8535e8d227"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Supplementaries.json"
+hash = "19b18e861535a8347e0e86a9086f257addaf32bb7ed5375ee8adbb3b5aa86776"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/SupplementariesSquared.json"
+hash = "84e28d590ae2ebe594fe0e5ed6418c1f3de858577ee97846856d96743d69cd80"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/SwampierSwamps.json"
+hash = "6453714dfb648ce4f73f48944f4d55c1eac04a12cf24875df4b74b8d13ca4a99"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/TanukiDecor.json"
+hash = "962ce91459603621bd45d07cecfe57a535f6289b7496f59b83cf621aa2a71763"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Tectonic.json"
+hash = "86bdacaa7c1a71868cfa2ca572a634471704dff1b7224b4fde2b7a807e45b572"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/TexelsPaintings.json"
+hash = "e2afbb4c338a4176dbc3789c07ee6433088621133b4a2f6710153ab1d085bea3"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/TheNewShutters.json"
+hash = "2c0b09efe216767dd398daf387f4db53cb40122c004f6bc39f3820501e5d1199"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Twigs.json"
+hash = "c3b870e70e0811d99ed35aae8f89d0359d5ec74a4e475fef72fa88c366b8d4f2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/ValhelsiaFurniture.json"
+hash = "23896e055cc8055a7e16b6666c84bf26663edd93ce27e0893e8152a3993c9076"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/VerdantVibes.json"
+hash = "55ebcf409ac714e661fd378bf47f33aa4803b4072a6d53552f19fdbdddd5b78d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/VisualityReforged.json"
+hash = "203928dfaca7fcc6e2470474724ee1d0a69049dbc487667ad6645cb85ae9af17"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Wabi-SabiStructures.json"
+hash = "a7e401494605e7893b067fe671958d39c857866a7a0484c0e3b36ef2d8fa9c6d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/WaterFrames.json"
+hash = "57ae312b14d7b3e84768bfb3194577c8dc9ef49e5e40253a77fe433dc2475855"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/YUNGsBetterMineshafts.json"
+hash = "646b73079523c3fdf4fa51462b074bddce2fb9ef940b528e865782f06526ea8d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/YUNGsBridges.json"
+hash = "5a041fd43d9d30d3a4ea4588ee4993638ace5208c4e94cdd90f7c19c41721993"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/YuushyaModelling.json"
+hash = "4eb0e9ed234b31c2590abef03ca3efbb96a66e6528aa6e3211c8399896e9a45a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/YuushyaTownscape.json"
+hash = "e276f1f8ed416c8e91b90a72c23f8b5a03792183672d40f57206c61db76929d0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/decoration/Zetter.json"
+hash = "53087c585d541282e0c59eca097d03c5a1794e50ab4372cb0f4ddfe9148c06f5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/AeroBlender.json"
+hash = "4d6e93817afc765f632e1422a1f3dfe3daacfeae6e3abbeb07b832c8d00d9db9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ArcheologyApi.json"
+hash = "190a09b6230594a4e56f15556fcf936bd9096d7d26f5565a8ab355855d25102a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ArchitecturyAPI.json"
+hash = "2a92661ff4ef65cc710a14d4b2faac0b54629bc1afc95da5819e086e86f84900"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/AutoRegLib.json"
+hash = "af96d62a8737f047d4867c246451a648f5aae0777a1fe9b4522a1643e487f8ac"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/AzureLib.json"
+hash = "a0fefc6f182ce464b9561065750eb3fd9abd849d2a43bcece525954457926c4a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Balm.json"
+hash = "dfde908f76d56eca96e9656403cb7f072b5eb8745759e369ec042dc341284ff8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/BluePrint.json"
+hash = "9ec10ddc4d27d78cd578a0ff52346a141cdc0c49c78bf4f330a21a8553cb0202"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Bookshelf.json"
+hash = "3b0e48ac64f9421030665fe92ea50ea1682ff299acf28748df812514998da540"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Botarium.json"
+hash = "ff5938b591ac0292af18f1896d757a286171b84d7cd749d50dc93ea2653c3697"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CaelusAPI.json"
+hash = "0d86b0d568e2f0be36646278416ff2c497e110ed0cf7081409e6e4b99d9d546a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Citadel.json"
+hash = "10ff23dae426b832c83539aacf87a82725830a0458e7c966dfdcb408033c5eab"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ClothConfigAPI.json"
+hash = "e63cd35d641059532cd210e1a5f088d6c6444593d0fda0708e0167a7bf66b678"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CoFHCore.json"
+hash = "ebb39dab2a7ec1446401bdea997bc5c30861eb5f3d32e726704365f84d703f01"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Cobweb.json"
+hash = "2a8c1cfa74513b9c2681043f07194827b18795ac5e6c956847cc3f340b93cd3b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CodeChickenLib.json"
+hash = "caa5f113190cd019a61040b63da9f6c73f6cfb21df20c4531aa78fbadb830757"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Collective.json"
+hash = "6fdc710fe39afd7890cb7ea197f83085f6ca599ccf3c1cb1be33b7ebba00220a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Configuration.json"
+hash = "40868a7b9c73b00cc43c83978ddfb84d3eb89320c81e7aaa00ebe6e4495ce269"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CoroUtil.json"
+hash = "665f55c0eae2115174f562bc6301fb8c2c17e2c806e632a35575482e9acf87d9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CosmosLibrary.json"
+hash = "ab7b40d61fa86346f6c1b6518f31c76ec4f6960a62a5bdb0e6481ba750da434f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CreativeCore.json"
+hash = "afc08b74e370e70257f75f0f44bf3e03ef75b9ffd669a7bac617bd737509fd51"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CupBoard.json"
+hash = "a190c7ce681813755a326616e3546da2b68f2bb19a49d703ff35add86a14c137"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/CuriosAPI.json"
+hash = "a83e061681c4475018b0ef828c033d548f9a3f0419362bf706e2aedd56176978"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/EdivadLib.json"
+hash = "576cdc79541fda41c6b1e6f8c483f71c1f45486df937ea956379de5e8a9fe351"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ExpandAbility.json"
+hash = "1964d15f005a3bdc5c2cfb7c57b3c82ababc3d887c8d5e0c83e3aa615b828c42"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Framework.json"
+hash = "f30df57f9fbcc2696576be17e4c1fa9e0ac5479274af4ad9bdb6105ea80c9caa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/GeckoLib.json"
+hash = "7fb0f6ae9fbda2dedb6d41f92dc08a13642bc27bc0ba824323aa169d579cdbb0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/IceBerg.json"
+hash = "2cdfb3488c4398f65ba3e90d07c2eae96508bbdfaf220016e5cf407e2230b696"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/IntegratedAPI.json"
+hash = "753ccbaf073e428f6bbd5c9706bbbdb451850e080be1323f9f2dd2c2d45c710d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Kiwi.json"
+hash = "d1c64696a07806884b914a6850f2b72bba28a4de69e7e5b235248be7e4385d39"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Konkrete.json"
+hash = "1cfcf5e4cb85cbb5e0b861aa6246772a982f5601347c9f39dad7158b83948fac"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/KotlinForForge.json"
+hash = "67ffc0bc26c2d79f2beaa40e78dcd18e4f2e31b258e197c35fe80ea3b7359410"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/L2Library.json"
+hash = "2cc432ef521cd27076c259271b36d6f714c591e26bbe2733522a3cfe1edac1cf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/LetsDoAPI.json"
+hash = "fbc4a7000eed0797f7d4dc34db07359c8668fcaf0b98e56b4c2c17b8d2c1dc7b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/LibX.json"
+hash = "1b2e97292f9f8fe3e831f4525aea9db92c96aefa5735e06aa9671f990f1c6ab6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/LibraryFerret.json"
+hash = "cb19317f4fc0ebbdf4be33d8d02e422db411d2f4886ae53284cea653d683cb06"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/LionfishAPI.json"
+hash = "53f5cfe2da4885115bcccd2123cf7402eadc180f08df5da7db5b47bee6985c1e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/LodestoneLib.json"
+hash = "c692e63c7a0b92b0e9b89369fc0a77104d706137f30fbd20102f8ab798a6c0fe"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Lucky77.json"
+hash = "332c9b3f23e35cb4d4cf2f5b5b34c927eb59e3f5e0be1fcae400047825fde4e6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/MajruszLibrary.json"
+hash = "4e22b0f5e7e21c0cc8a172b418588e167cf828f239dff9d76891585a18aa009a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Melody.json"
+hash = "d102a84ad7f2b02f8ea2978a091a7150ab152f53f3640f92f79ca1067880e5d4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/MoonlightLib.json"
+hash = "6c89c386bdfb0ffe5ea6ab68d96b54814e0bfe6580d9eacb0b464e7ecfb9c408"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/MoreAxolotlVariantsAPI.json"
+hash = "468fc31ef1126d6177642182d03d87a86f94b3ce52a913534fc7e8dd1f337637"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Mutil.json"
+hash = "0c3f92150c923d20079a0e7bd89e908006561a9997214b54e450f9e83ecae7cc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/MysteriousMountainLib.json"
+hash = "fab89e0bac8380f814fde8393da0640858b88df3f60227b0f66caebe3f53b780"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/NecronomiconAPI.json"
+hash = "8cab575ee918e6f543a034baf242e4eae4969076f0e7386cfabe20edea3c5f05"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ObscureAPI.json"
+hash = "fee4e26c100af87adc1f003d3a1fcfb501ce2cfd572c27c6ee065d61916b6b8e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Patchouli.json"
+hash = "364c6afc045c761c90f1b98c0d39b18580ce14f595cfb1ed3df2206437509834"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Paucal.json"
+hash = "56465faefe699a7a124412f96ce389386bdf6301684d5df705e10886e76b9a64"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Pehkui.json"
+hash = "dac213aef809889458ee1938a986570beda10930c1d4eaa63a85d36963ced477"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Placebo.json"
+hash = "1e58ddf76581c12a4f134243f19e19596efa192ff442fcff676c82d54ad17de2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/PlayerAnimator.json"
+hash = "7289fcf6b7e9d84facf703181cc54777f9489973cd9555fcdd83f2162e2cc78e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Pollen.json"
+hash = "834de0286267ca7bb2cfd211c3bb35539e875b7f6b885079c4421a2c01688d85"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/PolyLib.json"
+hash = "baa1b94ad7549d51e22004adf776f389eb21d81b4bcba026763961b24a9a39d0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Prism.json"
+hash = "a23b691e829ef2f53e758a2c560bc86ce6fb79ab7701642b1f06d706994a19f2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/PuzzlesLib.json"
+hash = "8f89935d80238d2bba81314289a3148125f8307fb6d0552dc53c80e9d3ea1a84"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/RavenBrewsCore.json"
+hash = "a55950428642236ea99677cc8ef9d0337025d0588f2b1af1e2c518c5deea3dab"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Reforgium.json"
+hash = "c90f338b2ff7cc4ffa1c9583640d1a5ebd3cd89e7f6d96d2c7744cc28d984b9c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ResourcefulConfig.json"
+hash = "dfa193aaecf517225c9303f6aba6c24e7b7406a866360342ad914bdab49e4839"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ResourcefulLib.json"
+hash = "19ba3bea0ef257edcbf862790c4b3d95d5d41186d8d4a35b356583055aa68740"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Rhino.json"
+hash = "3566b092846a1b8484c9059f5aa127edd7b83e419452ab18cfc26fe0a80b9c88"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/SandBox.json"
+hash = "a2fccb1c7e1b1848fbcba0f3be83e8a6901ef53387fc74fe7870a5c99b8a210d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/SebastrnLib.json"
+hash = "0eaa9132fbfde72b88eed51e7934a1825636ae0f16304376fd2505a0c0a956e7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ShetiPhianCore.json"
+hash = "dab980b84f921cbe6746be18101695c02ccd145feec45641a60cb5b87b6b2cd5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/SophisticatedCore.json"
+hash = "28485bf5777fa051a3ee020b4e883431136ac2c32fa1f312e4160ccafbdaf2b0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/StructureGelAPI.json"
+hash = "af5a6afe5ad84159c9bc400bb27f61587670f51218fbd2b5318a094a9a197bc0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/SuperMartijn642sConfigLib.json"
+hash = "37e289054cb9615b568517d8f2d807e9be58bc998a8dc50200c732ae19fdfa1f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/SuperMartijn642sCoreLib.json"
+hash = "500ee43a9b754ec2e1ef65b92319ec494b63c74287763501fdf16f6d9c2f397f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/TerraBlender.json"
+hash = "dbecf36621494f8bd1c09e9c7b21a5d8c9c24ba3071854c3654f652c92d5a411"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Titanium.json"
+hash = "54a4831fd3ce2c0fe13743a3a391bbc054aab807e4d271fcd42670dd85f694c2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/Transparent.json"
+hash = "af16cd5cde9009b33e4dfde0d09841847cf5a8a7f725c120168cad00a0743128"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/UpgradedCore.json"
+hash = "811558604d20c90954325d5ffbd18a23e824f0ea9d80611611988c0db96ae4d9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/ValhelsiaCore.json"
+hash = "41b6dd0d9382aa3cdd4716fc55f09070d1e8b70b57686cd7e060263bb2b41bc9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/WATERMeDIA.json"
+hash = "10d85ed0d6eb341854ab93db91fd412c9e5b43cd78f817dd6a57ca7e9c53c308"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/WhyNotBeOneItem.json"
+hash = "9510914f25adfab19d0c5cb9aed82f5b8940f7e0ef2b82475ae8388a3f0b30cd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/YUNGsAPI.json"
+hash = "8427d137b84e19a578ac0026f8d48d7409403c85e548598479a38c21b929d173"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/iChunUtil.json"
+hash = "41e86d9ebc233c68f75cf37774307128a92a0ff42c51d4e0e492cdd9bb9d75fd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsAdditions.json"
+hash = "870c56b5866c58aa6b59596100c9509b48695e7362c485c61214c09c79b3d43b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsArtifice.json"
+hash = "65f83014f9c80598533794a9d2d7cdc0705bb90958b8935508568b86371deb96"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsCreo.json"
+hash = "1273af66b4ac1e38ba5f2a3e06a7d24037f863a20eb9a089e2c8c59df11cd6a2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsElemental.json"
+hash = "ec34d790680e4dfdd48c814317c397a7dc36ecbc947f1342fb2e372d3c0817f5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsInstrumentum.json"
+hash = "ad60d072323ea8c77fb5966bd419fc42acfe53b5aefad43c9a90cffafb4c6be9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsNouveau.json"
+hash = "d6ad29cefd3cc10a68866bb55f2cb3e90c1d150fd5577244238aaf00ba022822"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ArsOmega.json"
+hash = "6f8edd345966229eeaa7ae7a6087863bd2c7341eb6288791fa51be9729ad3ad6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Astral.json"
+hash = "017c19ac19e0fb3388e4afd1161ac5cc05763807c49e04dbdd4a96abe2deb7af"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Botania.json"
+hash = "a77846bbd255651002d165cb4747e837e94af66633d6a0d1398af5c0db01c746"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/CataclysmSpellbooks.json"
+hash = "9d5a7ebaba5e17a339bd73c3bb67409a4c47e971acbc7e70ebee907187df1ade"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Discarnate.json"
+hash = "28fc635080a7fac0eb0cd0bfa000efd16c673b1897087ff7ebcb21e3fe9e96bc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/EidolonRebrewed.json"
+hash = "001859fe2b5c0cc9da178b4aa9777c8daf3dedcb851c87cdfca373005b061ec5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Ephemera.json"
+hash = "938d6c7d34620340241e9d565e308328bedc179d2b6731fac086408bc765fdbc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Goety.json"
+hash = "14abb9ade26db93f9ba41b61888f611e2e9f3891b804d84c2d4f04945eefe199"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/GoetyAndSpillage.json"
+hash = "132f3f4628d6b8ecec2e7682dc26cd83144ad4fd7d9d369ab029408d377c0290"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexArsLinker.json"
+hash = "f8c3bb7ae5e23671817fab8f92e2cd1dd511bdbbcfa8612617f545bd4889e253"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexCasting.json"
+hash = "f22da239cdcf5337f5679ab7c021c1b3d1ddfa33faeb6c99665d40c52379cb02"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexCircus.json"
+hash = "9b1cc6ce1d026dd183e46d1a146a5c60633dcc0b44a73a2fccd22777b5d79947"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexConjuring.json"
+hash = "c24679cc9693c77277f3bc05080503b5b9166bbebb9d95083a4300c0ab85994d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexGloop.json"
+hash = "4772bfc51da261740ccc80850a390e277dcb6d54a292b57956fd14c0d3b669db"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexKeys.json"
+hash = "233e9a82b6ad2fe347baf8b42c6f861d3a6613d6b10e0d0d70c0f98aec652c61"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexKinetics.json"
+hash = "8fc4f2d72bf5f37ed9aa002464b717363d78aed863c4b90e557c6c7e36de9b12"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexResearch.json"
+hash = "092b68ed92e4f1aaebc64c340615749765ffe17d0a1d36802fd54f87f12ecc30"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HexTweaks.json"
+hash = "8a6b7a9f776acc030a758af33fc7ff88711bf6a0aec949e22551a19391849861"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Hexal.json"
+hash = "01ccc91db81f16fbb658041842190b3e995a914d94a5ccbaf288e1286c9db71a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Hexerei.json"
+hash = "a1ade5deeecabebb94712784fa827e2080228ad42919cd77b25f1a8a114369ed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/HextendedStaves.json"
+hash = "ff949cc077e5bed5082e50c94d935b68ab36cfbe8d127043166b30d04e377213"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Intarsia.json"
+hash = "79dfbca2b3964d0f4e30c57855d426851eb3b0ca5194d228f8e9033bd1438ea4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/IronsSpellsNSpellbooks.json"
+hash = "922efe8fb06a88ef132e97aab878140e80c29635f24a0fc3c4555a63c675b462"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/MediaWorks.json"
+hash = "4ba0a1f800e68b238f55369a605e7fa6ba3a6ea84e74ac9e7fe2fe3dac30bf37"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/MoreIotas.json"
+hash = "d8e3953a1b28ffafa3dca105971471239ec539e0abe56cfbbf8c3da0dcc7e354"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/MythicBotany.json"
+hash = "c7ccc2c892bd301a75799e99cc6e79f1fbbbf28478b7c01a4406586867400f7f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/ScriptorMagicae.json"
+hash = "00625eb87d39d8126b8b0f0f3582bbe322f9041c948bcc74bdf204bae02a1e50"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Spirit.json"
+hash = "0f27a9a08b385b954ecfd2fc3304ee0fdb50ecc637d3a0a638b4555deaa3c9bc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/StarbuncleMania.json"
+hash = "6fce2ff095e01a62b0845c71977286b34e6348b1b47972685a983414a48955bf"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/TooManyGlyphs.json"
+hash = "7c6d28e5d5d47a930ead20be4cd889490fa77be906f737f20bc4553deca8e801"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/magic/Vitalize.json"
+hash = "27d1c34bcc2aa6a451bc7fa975bf4ad5d53532d2cffab5be4dcdac340d5edcb1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AetherRegenerated.json"
+hash = "3681aa3235a81a4655e73871aa3e4301445fca0d10541704349c546fa2377b3e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AlternativeRainSounds.json"
+hash = "c718815d7864bf710f67fbb92205cf6e3fa17a5bc03e65d7c76c44c09d57a55b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AnalogueWatchClock.json"
+hash = "ca86a0b2a5452e7874154309a031e7f663e717271ed886df0465cdce0d71656e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AssortedAllays.json"
+hash = "010d155cb13b1126b799f9158208233ca00a790d161125af95bc8a0e73fa60e6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AuthenticShadows.json"
+hash = "9077bebb08d5689c26e992d3c7202061fa1e3cd802846bdbb2357cd1089809e5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BeesReimagined.json"
+hash = "743b7fd1a5ab932e1736cc449991364fe16b035d69b150c7daf96694809304dd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BettaClickSound.json"
+hash = "018b8a7f79ec7f4a433f44edc067f289048292a51b5cb43392030d82afe2f127"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterCats.json"
+hash = "37970bd8c8ff026ddfa719ca110f932f96b0b475348681f56cc7c2fcd52fe38e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterChickens.json"
+hash = "a467c211b91c884e3ff02f7cd0b7961bcf8f64a10c461b808ff729a4da1eee69"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterCows.json"
+hash = "4ef48bf75235be4d7e103e54453cac1843c7bb5a638a7ff12d72c346ed7c67ca"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterDogs.json"
+hash = "a1c556af5ccb7e3759eacbf48e6852eb13c151b3a0b28ef0ffd09d44179b4a2d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterGrass.json"
+hash = "f4fb6fa57c06cc2dac56ee0ec6dcc1ed9fc5bce86cf22f35782b3cd6de5fb675"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterMapItems.json"
+hash = "769a90611072f0d5bffef908de693e643320d7f5969665aeefc1abf0719f3a65"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterPigs.json"
+hash = "468b1a0d89d031ddffae6b6ac45b2441c92f93ca87f7e8e4fa3b554432707323"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterRabbits.json"
+hash = "70726d0184a685d22b7a7675046097de554b7ffdaaa65d4920e023455d1a3856"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/BetterSheep.json"
+hash = "34d22a864aefbffad337fbba6965989d5e3228f13e1cb4cca7f76d50c399d337"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/C4Discs.json"
+hash = "e89464ea1ff0d163c9fb1d793adebe936d52490882899acaf2820d34d9feb072"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/C4DiscsRecordsAddon.json"
+hash = "467aa7eee7682eb27e684b02224ceec4678776dd8cbd0b42adef5fcb124ba547"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/CubicSunAndMoon.json"
+hash = "1bc65e133928467de8bb33d2eb5f84819b4d86f55413dfb3592901485468727c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/EclecticTrove.json"
+hash = "17ab54c3d7a51a98c403d31eb6ad40338ca74b6173f096bf10c864e148c183fd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/EnhancedMeetYourFight.json"
+hash = "df7439efcc1f3a0f69359741c29c3884361794e358c345177ffec8af38e657d6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/FancyBeds.json"
+hash = "eeb58e65b16dcc7de6075faf9edd68ff6d565d7dfa107e63f93dfc430549b741"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/FormidableFoxes.json"
+hash = "75dd1f32703c3bcd0c2eba253b339a4651f0750eb96345bedd09e0496afeb9d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/GuiRetextures.json"
+hash = "0df249d940c24e41e0c4e2b4dd348c6fa433931831496cb28d2b17fff9641e87"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/GuiRetexturesCompatibility.json"
+hash = "9fabeb6d8d6d57544d2d258f7c7a53339ef32c8d1a9b5ce3dd185dd6e9812117"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/NekosEnhancedToolsAndArmor.json"
+hash = "cd4c9911d6ed66836778dd0eb8f5126d8dfc0803db6d2cdf99662b7f1953de3c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/OsShulkers.json"
+hash = "12922c92fd09f54aa5b2600a4a9749b2e56d38f4ba8ef2a714d3ade318959256"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/RefinedStorageJappafied.json"
+hash = "7aefaff09c091bc781bae4085a5e7db63a5e09f960f947060cb949b91a05d34a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/SimpleBossBars.json"
+hash = "c873b16b85e8e181b47f2160b96a7f146020221a8ad782867c75d18e0f95166d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/SparklesStardustLabsResourcepack.json"
+hash = "cb18ac24f8b40e431c49340be6d0e698abbe4e5a9bf020a9bebc86e0468d4d2f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/SpryzeensBetterGlint.json"
+hash = "ee02950726c68a67eb5a4cf17cf2c830552eb75d9ac46ff82bcc0d89c50febb1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/TorchesReimagined.json"
+hash = "3304f4ea8c845615d6a36c4e087bbd1a973608fa5a3b41fb08ac961e1936e3bc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/UpdatedAquaculture.json"
+hash = "a19779125a3f4d96445665a2070c9b24a3731a167a59994891c490fd5a55222e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/UpdatedEngineering.json"
+hash = "2c78660f482a8c7e8232d186004e08f59467f9ca4cabb67bc68b2d901dddf3a0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/VanillaTweaksEdit.json"
+hash = "8549e08dd1d8b953239d6919fcb75111443afdf67abc5873d13ec27763e23fd1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/VanillafiedAdvancementPlaque.json"
+hash = "f19517992e3681d5d7cc9875dc129b4b3ff5512b7a343445be53ae7eb603b5d5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/Yuushya16xEdit.json"
+hash = "b15a7fef6b87d733526863793e9cff9e0ba9fa9f835cc7d1f825995190b622ed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/AstraLexShaders.json"
+hash = "acbcc9e76701bcb4a50d5707278bad93c49c4ff970867178614e05d38674f1f0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/BlissShaders.json"
+hash = "a433c5d2e05be21256fa16220739afaa867ac2fa5a9c2ad4878af1a694901950"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/BslShadersOriginal.json"
+hash = "dc3a9cd431c15be6ff7f667a666379e628cc1ed92ef4d61d7f79a1c2b6267167"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/ComplementaryShadersReimagined.json"
+hash = "e7014301eeb9f43949d88cfefb62b803e6949f85b60d4371342ab8df6d979f43"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/ComplementaryShadersUnbound.json"
+hash = "2d7d6c6e07ab09ee4652adf1ff9ff53277bc2f2323dd576b37a42e7d811a39a6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/KappaShader.json"
+hash = "b3e8b38437bba7b38658a203cf054d13e8ee501b553be63564946f68f11b297e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/Lux.json"
+hash = "7eefb2dd8204f6b79afb8556162d9e4072e6fad1b46b26542e159dc7e1fd5a0a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/MakeUpUltraFast.json"
+hash = "95896d8a7d0d21c83c733f22227673983737315ddd45502c2bc71e1b09515f61"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/NostalgiaShader.json"
+hash = "4de3db0bb5b2084a10d5c736cab01034df7934dc52bdfd6b619d330a66e9d46d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/PhotonShader.json"
+hash = "cd7326d150f8553cf13c44bc5692df38267bda7964ca2145d695b1eacb96c4d4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/AdvancedPeripherals.json"
+hash = "7c64a144445ca1041175bedced260ee015cf86604149f3cd713711b2b69997fd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CCTweaked.json"
+hash = "3fb44e5f35fcd3a5b3d532ec08da6f1b371e413cb094b8cf0dea54fb21f9eb19"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/ControlEngineering.json"
+hash = "90ef48cef2d86a12b9775ff7fc82ca1e9d3683c7aed0177c6755e0720f83f1be"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/Create.json"
+hash = "74b04426d47b412a822cc9d34ee6f6ded4afa5a0fee68fa5296ffd00112a4cb1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateCentralKitchen.json"
+hash = "5abd671de2d35f590e78eb9cc091b004ed72187bcb38e1e9408ce93170acf670"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateConnected.json"
+hash = "9af6481f45759cca9aecd5edddc247b8ba2df33035d75ba5726e76fdb4c5e4b4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateCraftsAndAdditions.json"
+hash = "7538240eee881b921a2f8107b0712f75722d27e1d1999c72ab6140ea008c845c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateCreatingSpace.json"
+hash = "70d8d3291cacb4e0b1d7a838e489638150cae9527f7370a227bd1389241d4e0d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateDreamsAndDesires.json"
+hash = "5a0947c5429455f445bf9536681766fce14282cbd98dffa9ba386bc39d405f07"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateJetpack.json"
+hash = "abdc18f45a7d7797edb393a09c46d2fd3eac60e54f753743cae5101bdb4bf45e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateMetallurgy.json"
+hash = "5bc4488cbae4b7ca362620d64caea6607a42b14306a704a64babc9d5c1ceb6e6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateTheFactoryMustGrow.json"
+hash = "3b7458299b76c12938f8fe432e49fc6c6c12b6638be8d032c801a17cbeb2d3e2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/CreateVintageImprovements.json"
+hash = "6bd956b27da4c041ed787d33cfc1a823a3a5dc2757a96e95d11ea3909b53fe9c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/DuckyPeripherals.json"
+hash = "14e3b4c8848b448d67a79e185d608584a2e5446fd2041adfbc2578a5c88a460e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/ExtraStorage.json"
+hash = "aa64f6df61161fb05c48c4e3884a3349d334abc020afc1606a0fecc3598ffb63"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/ImmersiveAircraft.json"
+hash = "bbb79f5eb5860d9983fe1bbe7ae074bd915762465f6022099547fe910597f186"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/ImmersiveEngineering.json"
+hash = "7b38a30a608813e628ffc9a4f159cca17caf44d1363e61717d7cc8987df2716d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/ManOfManyPlanes.json"
+hash = "e654dd14e28ea782826ef438754694d4c28cd6bbbad262c97d1943a824c87c71"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/MoreImmersiveWires.json"
+hash = "c7ab40a95b286f9bfd89d0c16d32d6b2d27c6f864f17df3452f55fb0f5ce8752"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/MorePeripherals.json"
+hash = "acd8ae16936c87dc8c36032866363f547b3753e6d253bad5b10effc5087e38bd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/PneumaticCraftRepressurized.json"
+hash = "9f4b0f9cd75bc4c75c081425dc0bd798c4e1d650230bb6705ea134c3e83044bb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/RebornStorage.json"
+hash = "740b069528eab7fca51241e7923c015343cf92ed4b3ffed23d722bc634ee893c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/RefinedStorage.json"
+hash = "58794e8bc82cdde081e186a0a01ce404e13ca5673b682f41da53ca054d0844ea"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/technology/RefinedStorageAddons.json"
+hash = "7a82618379e3b8d55d6c0996dc556539565009bce9755ae1b2ca5e0f59fbf57a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AdditionalAdditions.json"
+hash = "d035f158c6da8f436c2bf604381e93172a6fe76724286630a99dad9edc772c63"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AdditionalRedstone.json"
+hash = "f75019f5b3eed193d8ff78b5ae8b395f85911c496846e5634c9e10b16b44a678"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AdvancementFrames.json"
+hash = "13d508bbc6b0590a3a8129d4a3c362340c515f3ddcaa05e35168008750d94beb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AethericTetranomicon.json"
+hash = "e9b52ac481adbe698526180088f189b4406de2f568120771de15a1acb8242d57"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AnvilRestoration.json"
+hash = "923438ba37816ad2eb4aa91e1e6c316e00fd5acfb4096a8068c89eb287b2a28b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ArsArmiger.json"
+hash = "c6aa7e2c3abe59ac67800a19a0767dcf52e1f6e458fcec2f119786c4ac100b83"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ArtOfForging.json"
+hash = "57c28dd718dfb9c9bb8453f4b6285e45de4d1346ba45d7586fe478d2982e55db"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Artifacts.json"
+hash = "c4fafdd8dd2b44d1fe7549c07c20d7cd24cbccc19c2b688044bb853217aea58d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/AscendedQuark.json"
+hash = "394e1714308af1a690b0067669271900b1d66b6191430e92ff3bc75b69bc0bc1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Automobility.json"
+hash = "6ab16d48551cfa9ee6a1e0d7b9b5b37cec6198f420fcec7ffd51bff6401e93cd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BagOfHolding.json"
+hash = "b057e194208455385a8e234909ffecb76aac836071fe00b18a4a093ff072b4c5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BlendedCompat.json"
+hash = "abdb071a53aab3d21d18bdeafb04d2a6cf040862d74c6074b21cd4d024f45e44"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BlockSwapper.json"
+hash = "ba873671dc6de858aee00ec22c1efa49cee0b1bc13b70fd50a3d10bd5aac7eeb"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BoatLoad.json"
+hash = "3ac919c6222f426467519237bbb90368487f20c018bb829fadb31d735dc27d05"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BookWyrms.json"
+hash = "73f206dae70935723e01fbf9ecc50088ce631103eaaaf63ec74df40e1dda9a2d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BubbleBoots.json"
+hash = "7e5e10e11a37a381fd9778c3ec5044bb78918bb269a9be5f89bbe06f7bda7561"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BuildingGadgets.json"
+hash = "dc8c115ecea3f36edcc248fe53b01cf75baaccb1fa0523f0e68fc7ee5256827a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/BuildingWands.json"
+hash = "ada48601a4cbcd589c39d4dd3d13bfa4a09b0a08ad1d8aa65a56bad8b273f069"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CasinoCraft.json"
+hash = "fefcaa7ead15427bd5ffca2ba504be17186d3b911942d950e697955df26fd4c2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Chalk.json"
+hash = "8a78f3d30a5bafce6f13fbc6686930ccc2abd3ba07c07eef18b7fbb91dd2a7e6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Chess.json"
+hash = "01a5e67c8b6d4ea13b8cf73a560051b072a57b0b492c5f39e4dab9bbd2105bed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ChowderExpress.json"
+hash = "09c3b73994396a37652c562585ed9d42f2d5faa6ea1b49689e8e919b76aac96e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ClaySoldiersReborn.json"
+hash = "f52b92d7fd14896378f98a1eb23c974db2ec8af745fee264fa0495066b9d633d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CloudBoots.json"
+hash = "7d5c2514da2acb23ca5d3ef4a407f164a09506db29624a104e92b443319d44de"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CompressedCreativity.json"
+hash = "ac414dedb8e0e10f024dc569c35a35b44fc273a6a85b05f9ea19f0b616079991"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ConvenientCuriosContainer.json"
+hash = "d387b856f7cfe0cbb14506b62733b87572bf4e7d9b685692f8dd6070564e3f40"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CookingForBlockheads.json"
+hash = "cde04df912bcaba541f27888043f6541f5d3bafda7fbf213859680d93fc2795c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Corpse.json"
+hash = "65ea3da9c55dc26b9bb4e1dafda7d332273c5a41176845e4698691e538c13f62"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CosmosPortals.json"
+hash = "e756c3217ab837b1473b601c0fe50da49179004f994fbbc8dfb4614db6bef462"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CraftingAutomat.json"
+hash = "b97391b0828387721d8643d7f2d9ed26a65fecf41cc28f60b41d91bb1f69f6d9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateBigCannons.json"
+hash = "fca3136edb80e0bba52ebaec8e7fa8cb1c3fb0f4896017346dd5165f67f299a2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreatePatternSchematics.json"
+hash = "7077ab96eaf38887c8d80098e62f94e54a399ee33f5a15372aa7419e90a37a6a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreatePowerLoader.json"
+hash = "2d8ae0f84c2478c5e7ed7c22e0d4d56b9f9b5d08e9cf73ad0a33bfa449b5bbae"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateRailwaysNavigator.json"
+hash = "8564ec2321945096e155e8da98f97d0957e1fa5efa4937c230af551630e2b0a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateSandpaperOverhaul.json"
+hash = "472e24e155d0588bc04f4fd64c43cd938250991003b653c176d27738a06f0aed"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateSliceAndDice.json"
+hash = "f4a5e4760f5ae56951d9b74b0286703b90812644d4b31ce8e10442fdc0f28ec8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateSteamNRails.json"
+hash = "ee73dcb432be8eb167ce8e3b65b399bec8fdf62b59993efcb810c2105b1a6561"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateTradingFloor.json"
+hash = "800933a25222179ded9cdd519470c18487c0bc3242ad1899be3667d2ea182e28"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateUtilities.json"
+hash = "964f4f2f71b27026a27d1d1d6c72cd153c1fdf12ec2f51b77eb2838a8fac4e42"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/DarkUtilities.json"
+hash = "ae55df4fd7acc2343285b2b50a8a6870599df11c0646ae6b3b83abea75e06b0e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/DavesPotioneering.json"
+hash = "63f5a8d428307c53bc4ca46c87751a2b35f786e859eddae98d08b7894aa80aee"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/DimensionalPaintings.json"
+hash = "8aea42b3cbf2b8478307649a858b821bf5905675b57ca082c77861de268a61c8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/EccentricTome.json"
+hash = "ab4df2bbe137e073d7cb10b80f590e9d6444313edf9223f095e7ef4737414e85"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/EchoChest.json"
+hash = "8078675e3cfb3c1b5f08065f9e89e2def9e8842f31728115f968ee344281f6e5"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/EnderRelay.json"
+hash = "9dea7e304a30603469807f8c4fadc6352a4e1fea666677cdc9467023b508658b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/EnderStorage.json"
+hash = "edfda8dd1601a7153982662cc2808de34b287c9960b1dc271c520a36d7651d51"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Ensorcellation.json"
+hash = "b6669096e1b8d281f1ed48cdf575f3ed57eb33e82a35627711ff9ddd7a25f928"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Etched.json"
+hash = "fb60589d747645f6f27413fd6773ac5c18c05cd4b482fe614d3e4e18f477fd2e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/EveryXHotpot.json"
+hash = "18460653118fb6f7c9072d0757dcb7be4da97b8b56eb0cdd66442c5189f1a54e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ExperiencedCrops.json"
+hash = "6adfa7a3b493d7b5152443a475adb09500067b845005057e185331e7e6a87f8e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Exposure.json"
+hash = "798020dbf3b8eeed3fbafba4b135474fee733905644083b504aeb70b772cac96"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ExtraDisks.json"
+hash = "8c030d60396d00fb9ca6339d1f007ec1260926adafae301176155a9ef2a29fbd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/FarmersUtils.json"
+hash = "cc14d5ce79e93db6a0bb38cbfdabe41a610f1280153bc1b880a14cb67266e11b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/FishermansTrap.json"
+hash = "ea797d09ff4de3160d78e464c97c0481c77d5e0fde661a1a38d1011a94e77e47"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/FloorMats.json"
+hash = "a63f883d6fc7dd7cce8457eb7286579997045a241fb08b0793946b56043ba9c6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/FunkyFluids.json"
+hash = "191ceb5fc419e86a824f4fd11249d90dfc4fb3725963d5e4fafeef87bd3de5cd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/GardeningTools.json"
+hash = "b6882de54e98b907704216ddce54e035cd0be66a62d17ee30f2df8c3a3d98d9e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Glued.json"
+hash = "4adbb2d7bf3b59e42febae0f8e91b675fe1b35cc0735a4d15236427affc33329"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/GoblinTraders.json"
+hash = "d03cdeb39816bc1bf58806c2545a50add43266945c653d7484bf404983fb17aa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/GrapplingHookMod.json"
+hash = "7462d1c80d54215f29f62496e444d068cb6bb36d81ef3dbb62cde17d35930ee7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Growmeal.json"
+hash = "583677738dfd31a773282c798dcbba9d9d2c68036bf2241b046c322a26c0e93c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/HamstersPlus.json"
+hash = "8cdb3ed4279ae94377b38e698e5fc87e5730e48ae1436163e9c9e1e52a3b683f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/HangGlider.json"
+hash = "00a89f5ac2c516b7a47cef2c71de585f2ad408f7c18bbaf1b32c3ca4f481ecbc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ITank.json"
+hash = "534b1f3545f38cc13a594ec2dcac50d4c1cda109b5344e0e79d1b3efc7bb01b8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/InfinityButtons.json"
+hash = "ce6e81b383d46aeb2ae44a4b9b769e938e68bebe2e8947f929db90b09228526d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/InstrumentPlusPlus.json"
+hash = "def0030b013fa1c2dce3fb9cb22721a5984cfaa15611ecd9f581097de3294994"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/IronFurnaces.json"
+hash = "1bfeeedb118952cb07955fc9060947f3e75e55d55b6025d2df930a655945e06c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ItsMagispellingTime.json"
+hash = "b397c2bf14fa5bcc137652f8dc8a8b102dbe0251354b5a8586e0e2d5ae88fcf8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/LightingWand.json"
+hash = "e55d5e6bd5ff776b8a0a469ed7bba8872f0df6910cc07268bf97f9257956d50d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/LittleContraptions.json"
+hash = "af6ad1658c88ce0e3ab1277ce55bc074d0b9dc7b59b66c9808f1f203bb190e06"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/LittleLogistics.json"
+hash = "f6c08e88d85a0f9a2f42509e5e9f69a91bfbd5ae7a46e6b31481aa836aedd1dc"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Luggage.json"
+hash = "7709692a7bddbfcf294cce1f75f05936aff3d9df2867f3b4def1c76b7030ea55"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ManaLiquidizer.json"
+hash = "a9dcb75cfc8009d6f731eeaaddd842bf3361f0ce57ca26a486244e72ba42fe8a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ManaVisualizer.json"
+hash = "5f3613981a01b4f150487fc1c0c7125918df6876719b8f5d45f28fa3fe871c8d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/MmmMmmMmmMmm.json"
+hash = "67d29a5d91ec0c77429cc721245be52235a7db3e0981ee1815f62ff140ad6af8"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/MobLassos.json"
+hash = "3c591985f880133cf756a3ea70c8c2303d7772119009129ff6a8f25e56609a33"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Monobank.json"
+hash = "c20e9c4aacf54c82d9fbfc242bb3a38ed8609b816ff03efc44967fbd518692e1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/MoreMinecartsAndRails.json"
+hash = "a50f9dd512196de454c132a1c93a0f577d400bf43c80ab78fceadd6f98e43bc9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/MoreVillagers.json"
+hash = "2f72e42b95a4e3cbd66c657385382094b66811a9e7b973d146bb9e896f9f8c2e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/MusicMakerMod.json"
+hash = "6ec6744ac369c328306fd0e3b94e3ee33a15dce8fb27a04cec4a8e5fb0382e12"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/NaturesCompass.json"
+hash = "e65ed11f1439310880fd4caf8b22005fee0d161cc7c3b78e8fd117050705dc75"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/NetherDepthsUpgrade.json"
+hash = "8a6634dc1e67327f62bce3d4672f71a510452d628c9e88c5aae7cd63a54c7e8b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Omnis.json"
+hash = "af7fbd0c3f78feb092ff84248fc78c2536e858a1fa12f09647b6faa022764110"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/OreganizedMod.json"
+hash = "4c238a09a378059d5a57a60bd88bf6078745057a4df560065b9942fd2ae62b43"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/PackingTape.json"
+hash = "af1161d773770aedf24e408dce80518668da2c5e59382d5ccd069a64f832b217"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/PetPassTradeYourPets.json"
+hash = "2e0767c45b016e0c36af5e40a1699710a0b7045fdc2fde8a1ff86a64f8be25ea"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/PotionBundles.json"
+hash = "e0257594a7e9bcc63bb93043344d05e86b80af39faf9e6397a0f79b343d87c5c"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/PotionOfBees.json"
+hash = "58b7226330446eb46efaf36449552df2146e99306b1f40c9a0d477ec8a8dbc9e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/PresenceFootsteps.json"
+hash = "a4842de1088e061eb43405df609ce6392c785b2a527252e79ab53c758e0a18d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ProtectYourMoa.json"
+hash = "dbb8efb38735953e3edb5cde2075a84483cd8ffde222d2c8ab261588a757b7de"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Quark.json"
+hash = "c336802f3bed4a8746327d7c7d288e6ca5c2ee16f74d22a130d85a96345140b6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/QuarkOddities.json"
+hash = "75c834642e368191661b8e43f28abc91507b3555f64e7c7c329b309a2677edcd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/RandomiumOre.json"
+hash = "117099de324316c89b5311d7226a769aeb103b36a450f546fcc208df372f56b6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Reaper.json"
+hash = "33755e8e67079467392270ea9e25da39800d7cf56c84df58615584f10f3974d1"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/RedstonePen.json"
+hash = "f5b400dfa4939d91c44a478d49a9491b04773efe020851a53aecbfc5475615f6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/RefinedCooking.json"
+hash = "cbb5c97bc782b5dfd91bc98dfc6714ce8d0430fb6b6fbb74a33917958acf7b7d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ScubaGear.json"
+hash = "24c70c78f8867c336ecf2fcea3a8805a3a7df71a52f3135638c7625c1ff80991"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SimpleHats.json"
+hash = "ca9bf7b2cc1306d62411c12ea0acd1970230736741205d2edec01d191d129341"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SimplyHotSprings.json"
+hash = "413c2f173ebf9add2f60e745d99796af14b5b509fd3c8f551084a11ccabe1730"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SmallShips.json"
+hash = "309ba104f41655394c2ec023350528482eaa247982e277cfb10519a072447658"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SmarterFarmers.json"
+hash = "bc71da34a38101bf8b4478e23df5591499690f00b3d8a41e96c6f441a209f008"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SnowySpirit.json"
+hash = "f347a27ddef4854c4ad7de2807d650ca3051c95329a3773f5dcc273666bc18e7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SophisticatedBackpacks.json"
+hash = "2ff48cc1e2084696812f8c1746b064257c63168ef6ba8863a884c2a01e1e6d34"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/SophisticatedStorage.json"
+hash = "659590ceaf2d658b0f92b2a885b3f6e034212d5045d0d2323cbef664300dff10"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/StorageDrawers.json"
+hash = "af48c5234dfddc21375dc0f60b7c951da8326e6a950ae33e7878d7732944592b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/StorageLabels.json"
+hash = "0ab31ed19304729f72e4ebc14251a61e0c6285cb7d7486db959fa24f225bec24"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TableTopCraft.json"
+hash = "436aa81946d9ad34ca2dd899a5be0b35b4c2515978b4ee9f8ff1a1171cbed82e"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Telepass.json"
+hash = "fdc71d318d3756349744bf06d47cca925f87626da6176766c18d0526324e88ae"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Tetra.json"
+hash = "32af812bca2fdc1a0941884d8a2656beadc8d8095551e92021d5c0c245e5a074"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TetraExtras.json"
+hash = "aae51709776a615818181b68bce9da276888a84e822dea459787d99263a0b254"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TetraToolbooster.json"
+hash = "d1fe8148a6f039f9b4b0289d1ef1677081b4c8fd5473ba1e62b438d5bae7003d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Tetranomicon.json"
+hash = "be9d3244ef725001fa4241674f91c058752cd70ce4b777d92a34a09404f940cd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TetrasDelight.json"
+hash = "3899554f76bfaa3bc3e6397a4c39c2cab51e2e9c974277ee6e256152da3d00e2"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TheAetherRedux.json"
+hash = "1f3cd7342c598ac25e0c53b591d9fcaf1f9abbd318459d53ddbfa1d403bb0d6a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/TouhouLittleMaid.json"
+hash = "0cdd0ae21053d4a90c3a70357dfe46a7f547d24ff948e33afbefceb19d87a72d"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Transmog.json"
+hash = "cfa6300a9d2d4820245fa44ab951a0ab053ee554154248ea460e20e00d9b40be"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/UniversalGrid.json"
+hash = "54c3173c5de0499f3a6af6e0a394ffa75570066cca4bb08744e5a97f705374a6"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/UpgradedNetherite.json"
+hash = "a7bb518b71a2ec6824120e66d0ce7f940c1129ae7d4387e87111ecf587b72fdd"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/UpgradedNetheriteItems.json"
+hash = "5978df6fee9880087826fd477521666809614984a612b1bd3491c62f1a1e5270"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/UrkazMoonTools.json"
+hash = "5102a97c1155b5e46bf3e38ff1b3143c7fc43f167d962a2c24d7d725e6f491ac"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/UtilitiX.json"
+hash = "0af077422d9e5a77a53a2bee066fa45babf06dd728389f50622d90d0152d4862"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/VeinMining.json"
+hash = "9e11f68cd09b37d35db3e8de73e79d3944604fac44e88b142472523b105ca2b0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/VillageArtifacts.json"
+hash = "d2f0103b69a4c49dabc69f34cafca0312053d138ecba5c20aa0ff8afe0b6d544"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/VillagersPlus.json"
+hash = "3ed0a342d4ef48bde4b46ae42c465ad7d2cb36c7d783d6025d2db413c2b3ed89"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/VisualWorkbench.json"
+hash = "35949bfdb90ed692a1cae8eba64541e7c1060b62bc27d054b62619940afc7d4f"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Wares.json"
+hash = "63de0c651562176bc80d2bbd6e7adbd4ad49abdcc49ac3edd35b480de91794ef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WaterBalloon.json"
+hash = "8a2482f4693fbd18b2a9c85a8a8fc55dfcf483a9e87f531977eee06aecc6937b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WaxableCoral.json"
+hash = "90415bac18622c86b17e3ec5a029e8094bd09ce5dfb243488d60c679a167a1a0"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Waystones.json"
+hash = "1638fd6c2657d77d92a253498b2f5fd7062e76887babb48ba837d880d6aaa09b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WirelessSpeakers.json"
+hash = "c6380eee798e61c4940b32bdc5b0cb6d9e4e3b774e462f506b1089ee24a4613b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WitchMobility.json"
+hash = "46ad2f0f628bab83d971b5869021a465e5c81aa213c9cf733fb6441b1e935eaa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WitheringBoonForTetra.json"
+hash = "14c52c99ec1564c0e1dc486a0c685d4d09fb015c9420d96b1bfb535552cce723"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/WorkshopForHandsomeAdventurer.json"
+hash = "6111ced7dbc9b4b82a173376d141f5c2d2ec173df09ca2c6f634d4fa097e800a"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/Yippee.json"
+hash = "405c39c559592f4d74b4a229a901b919de8ee0fb705bf3929d660125802e14a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/YouveGoatToBeKiddingMe.json"
+hash = "1314c0b01875a443741b2e917fd67e9fafd7be7a485f097ef1d980cc241ed8e9"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/ZetterGallery.json"
+hash = "cf8423415c70d97581c060e4a0ad4397438d2eda1e1a9abfd0873b36d3bbd7fa"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
