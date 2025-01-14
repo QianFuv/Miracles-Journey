@@ -7263,11 +7263,6 @@ hash = "a31279987bb4bb01fbd6f185d80b7040e56a08c5e2e5195c70465f8f5ad80574"
 metafile = true
 
 [[files]]
-file = "mods/ponder.pw.toml"
-hash = "023f57930e12f07d7d8431d0de80622f0e6c1693e07a3aea7d6dd31b60444ebb"
-metafile = true
-
-[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "24d33c595971ce7640aff4eeb215397071271ac0431d92ed4e2619d850f900c4"
 metafile = true
@@ -11697,10 +11692,6 @@ hash = "46f6fbe7fe5bfbcd46aa65c347c452f0e31414856180e5bdf3521c08dcb31e9c"
 [[files]]
 file = "resourcepacks/MeetYourEnhancedFightV1.0.zip"
 hash = "d8a1eca752f6ddb6dec749bf6e75c49bc2881da60901d99bcc1aca2365b329c5"
-
-[[files]]
-file = "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip"
-hash = "f9e528f09fa4ef565e1834072e741cea84765c39d83d2af5fc6f0ac7559a433e"
 
 [[files]]
 file = "resourcepacks/Minecraft-Mod-Language-Package-1.19-FE4A41.zip"
