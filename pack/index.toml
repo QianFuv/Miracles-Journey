@@ -5667,6 +5667,11 @@ file = "mods/doapi-1.1.1.jar"
 hash = "fe0c2dbf1e854d0e54535651f2f33a0a2f250bddde372252a2586ca57a64d7f6"
 
 [[files]]
+file = "mods/doespotatotick.pw.toml"
+hash = "6e49aeae505018cab9d5c6706cea161c7e52592b66629a690fb0385caeb81012"
+metafile = true
+
+[[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "4fba1dad8c8d6d9eb00842a3b4cff96e5c423f85a1351b1975714cead1b1a5be"
 metafile = true
@@ -6052,6 +6057,21 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "461a50f8173421b50bf1010d57f8ed8931692b53ff7dbd18522f0238e9e6d955"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "5638286006ed92353ffaaac8a2a01a1c47a2965bf3a3091a786a147248f19fb3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
@@ -7110,11 +7130,6 @@ hash = "db9fc0ef52cbf368af10ef7fffbc700cca989fda2077ab35e8f21cc62752f09a"
 [[files]]
 file = "mods/opack2reload.pw.toml"
 hash = "66ab9c5ed74b3f6e72b58668e45bd2a2c2a9f67368d0782a305a7b7bf7a12d40"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "b4a96cfd3695f2517b8a3c7b50038265a466b36896d650747af2e5774f30c354"
 metafile = true
 
 [[files]]

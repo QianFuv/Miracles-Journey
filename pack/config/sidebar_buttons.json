@@ -1,1 +1,15 @@
-{}
+{
+	"ftbteams": {
+		"my_team": true
+	},
+	"ftblibrary": {
+		"toggle.gamemode": false,
+		"toggle.rain": false,
+		"toggle.day": false,
+		"toggle.night": false
+	},
+	"ftbchunks": {
+		"chunks": false,
+		"claim_chunks": true
+	}
+}
