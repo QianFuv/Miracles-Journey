@@ -121,7 +121,7 @@
 	## Waystone title settings. Only used if the Waystones mod is installed.
 	###########################################################################################################
 	["Traveler's Titles"."Waystone Titles"]
-		"Enable Waystone Titles" = true
+		"Enable Waystone Titles" = false
 		# How long the fade-in text effect lasts, in ticks.
 		# 20 ticks = 1 second.
 		# Default: 10
