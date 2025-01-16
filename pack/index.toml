@@ -1850,7 +1850,7 @@ hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0d459653980ab72f0802b8340d2829078bc35a8d22b11ef7135eddef1ff1706c"
+hash = "b2bf66fb8f7748a3c7400608358fbcd7ec0bfa90fa0e1865496150e7017e92e8"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2086,7 +2086,7 @@ hash = "2286e2f3700f2dc6a1aa8c95787f60a112808665358046c72084256c21c062d3"
 
 [[files]]
 file = "config/doespotatotick-common.toml"
-hash = "9c8067fbf4bc9dfc266dc52f7b64c00aba339c79b405e715086804d380cf5ace"
+hash = "dd1b888dd9444013b11256cf205a49fb8df0ff375e8809e71bb8c60c140fa1de"
 
 [[files]]
 file = "config/doggytalents-client.toml"
@@ -3050,7 +3050,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "6517c54ce77f48bc595fc2ae518ec7e14395abbceb72d81439a8b9442e9ccf6c"
+hash = "77bbf06a062fdaae7ab7ce34827875e37b39bd39bcdfcd20a250d8e1f1c8dc9a"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3074,7 +3074,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "04789c103b65f7a92fec245a5a1c4fe101fac186e755ebbd84c155adcbc878f4"
+hash = "512702e8d1e417ef7fab410849a1dfcdb5a619f38401d3abedc7a816dea5e162"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -3828,7 +3828,7 @@ hash = "c594c165ac260b22346a7aa75a2561af8522e4e2eeab821183a250603b0e39fd"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+hash = "1022f377c7c7f12252b06de554d798e2c8cf42b806c609e29c5469fb7e80ec33"
 
 [[files]]
 file = "config/simplehats-client.toml"
@@ -6160,9 +6160,8 @@ hash = "46ecd75d9dffec36a37c9f19dd0c505502057fce2cee68fe416e3572a462ed39"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook-mod.pw.toml"
-hash = "7e0ac30b2f0b31a269144f919a40ffa093480d10047b91b8b3a503c76aad2753"
-metafile = true
+file = "mods/grappling_hook_mod-1.19.2-1.19.2-v13.jar"
+hash = "023d16d58e672e9556f3b3498e4236080597418cb717775dfe8790b301f09376"
 
 [[files]]
 file = "mods/grass-overhaul.pw.toml"
@@ -8310,7 +8309,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f3fd36daaeb0e6187e35e06069282f2c14a3133bfb47aa58313c176eada08a1a"
+hash = "78e5de8028571aa6ef7450c6729822590cda3d1be7e7fd8a34b45521261d39ed"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
