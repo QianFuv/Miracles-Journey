@@ -15989,11 +15989,6 @@ hash = "13e70447c133417359fefdb16459686924bd569fd2049e59467a4b52a3231128"
 metafile = true
 
 [[files]]
-file = "resourcepacks/modern-font-pack-caxton-edition.pw.toml"
-hash = "927ffd17157e80536c34d667d62827430fc597e68b079acbc8da303766010e45"
-metafile = true
-
-[[files]]
 file = "resourcepacks/nekos-enhanced-tools-and-armor.pw.toml"
 hash = "469021b8b8db737377b79c3109503423f35ff95cf7be1c13b1942b31687d4964"
 metafile = true
