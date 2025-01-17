@@ -8369,7 +8369,7 @@ hash = "f8e055792756cd8f6ac68cf1f1f94086696531636b8d0e2237035892ce9f9bcd"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/AmethystToolsMod.json"
-hash = "cabce7e9a0eacfb56e22753a83444f498e486cb0cc2aa7e9e22ca0ed7df39801"
+hash = "7d819e17ef28a6437acc0e279439422e22a72b7fd554e792834c97399d2bc66a"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/AmplifiedNether.json"
@@ -8381,11 +8381,11 @@ hash = "1398cc00f2cd858aa1f2e98c9d6cdffe60df0b6285c09bd24a80d033f850755b"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/BeStyleWither.json"
-hash = "488e9145cd8e24d5e35e0324fec9efbec281b900967f3330dd968456b2522e14"
+hash = "e7cb18f5ffb26461209c77c7b9210182329f44c04bcf2f6b186bba0de3509cf1"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/BeneathTheSnow.json"
-hash = "f9656ec14b407aa6ef41189f79b7ea8486bacdb1e36650bd62e72f77157b712f"
+hash = "4f0094e702d199c32d798e97adb96ee3d44371b48326c84d4cc70e9fff82516a"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/BetterVillage.json"
@@ -8397,11 +8397,11 @@ hash = "12641053c688cd945e8aa13816ca1e38947271eeb7eb7d959736aa1623c449c1"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/BossesOfMassDestruction.json"
-hash = "80e1bb6cf7b1fd1914c645aea81fe20ac3da2bc449a61ce63670f54c2e130f4a"
+hash = "9dd9aab77df21e87d2d9aa7ced0a92ab6c90abdec98f7033367994c29d40cd80"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/BygoneNether.json"
-hash = "73b8c2d476d6919125abdc107f26c277acfbd6c92c733b9becd3ca0977364c1a"
+hash = "26924113a1cd4f9ebd154822f2bc0ccf299c29d61e7022a2e2814c71a9b90013"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/Celestisynth.json"
@@ -8421,19 +8421,19 @@ hash = "56f9d1a2d806d54077aa1ce78b3e2d891636d32b4afcb4d047430cc7db02f1f7"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DeeperAndDarker.json"
-hash = "467a02ba8d6c3b9b97d311622bdfe67b8d6fe3155bbd05bc700c2000575bbacf"
+hash = "4ae337e2a01e73950012338559fc81f9745f9774fc218e112f7650e47738bd20"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DifficultRaids.json"
-hash = "2bb7891d090683e85718960939d25a7f712b8744b9bd2252a0df3cf5ffb2ab4a"
+hash = "459dd3c745a8b5b9004a600268221abef44f592655b395b95e7da8e8cb7c2908"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DixtasArmory.json"
-hash = "2a4ed2f4c3891e745d455f4ee0b09bb9924102dd21351fcee3d881f4e48880c5"
+hash = "49483e3aae9642d4ccd734c88a0bcdbeef46e3b10ee66a17c0581bc7169c4848"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DoggyTalentsNext.json"
-hash = "0afd91b99937e34dc2f5076979b0784a73a0ab990e30e048994d0f333ad98e51"
+hash = "6c4a8bb1e3fbb43a929e30c32b45d4f386f0e925532aa36e90aa3fd408b33d33"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DragonMountsLegacy.json"
@@ -8441,19 +8441,19 @@ hash = "1b0f745d20ff3ecef6def0f5a56fc79ab7cdbfe6933a186584bffb5170465250"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonCrawl.json"
-hash = "fbd7107fd25b2967c6917782f53e1a04a8e5f7c307844665107f6620ea2a9486"
+hash = "f881c8f959af3423c7287ff33846af80421a6c652ea3b51c788c07dcd0dea894"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonNowLoading.json"
-hash = "8d2157a9e56509ed5e2c85cea90ad60f5a70c4297b3fcfcdefd299c57b4569b1"
+hash = "05fdf07f87f8fd84c3052f703e837ea4d4612b6358db65c82a08d16bfd79ef4a"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonsEnhanced.json"
-hash = "a867f1efbee79a94d0a63bf5abc28e34ab5fc838897a9763111b3e0b9315089a"
+hash = "685b3b7daeba6afa336a164a9c8b57499d67bf8e96db4d58a2e449a8409dfd82"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/DungeonsPlus.json"
-hash = "44f7f7f5cbf92cdb5e87ca607ade0cc1e0d5cf16cebd9c4bd5d034d5aa2c8d50"
+hash = "314cc69026cf6c1e73302643fe7fa5629b4b22b8a0266f40b1b5f612ab4f6d54"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/EndRemastered.json"
@@ -8461,7 +8461,7 @@ hash = "b1618edc37ad01a8d1c8504d022395754e32ba186c6b76f5c58f49ad3a061d65"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/EnderiteCjEdition.json"
-hash = "9bb48d6920ab2e619eaede4ece5bb032824ce7e78edea6319404d46757f0a9ba"
+hash = "eb91b84e07df6805e230fecac70b8531daacc25c961cf8b33f7dbe94da5a8610"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/EndermanOverhaul.json"
@@ -8469,11 +8469,11 @@ hash = "4b8185de7ab722eaa9ca1401ccfea7af53b4223eb04eac3ca12c9b3fa4806cf1"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/EpicDungeons.json"
-hash = "bfc9c04ccfe421e6ca042466303ee73ae0b7b355801d5e2be9da33ea464ecaed"
+hash = "bbed3b81a44c76942dd9ab0565db22f5bafde0e667acb92c9496e7e5825b791b"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/EwewukeksMusketMod.json"
-hash = "1055edd397ae2f31875b057effcaea58d0c42d0a22569baea8d3e53d36e04648"
+hash = "70654ff5a98a882c0de11f50af15df3d2e6741ce40e99300189f6a3cfeb47d80"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/ExoticBirds.json"
@@ -8481,27 +8481,27 @@ hash = "6750c90c9aba027c764a0c415b06610f1f5cc7234fb7ee01b5531a8543f59086"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoes.json"
-hash = "50fd0d604fadf302560c4b64048bf485446a9fe618e898edcca5d6fb24f9c015"
+hash = "5b579b057dcde8b82b93833175499e73b055b1a04c2f3b1833a083da1e71ee4f"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoesBeekeeperHut.json"
-hash = "639bea14043b00f5177b7f173319c3b113b32ef132de8dd236a04cd7fa0d5af3"
+hash = "5472e16cb07f3b3572dd641f9e3ed4239042ba5c0a52450f8fb81524c0b75e43"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/FriendsAndFoesFloweryMooblooms.json"
-hash = "91ce956b094b9abfef2b36066e2238e710f18d744c8d941f6fe4c06abbb93547"
+hash = "4b0913cc7e7459c9277abe69efb2eb548ef4f5392c140fe48e6766d9e2332a00"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/FullTurtleArmor.json"
-hash = "ed12c02a7ba9a7f14fc8712018e52ec7ce50081ddc916196eba8de00c056c4e5"
+hash = "a6d11bb1d15810c336a3bae67cfec228599b89a559bfac9debb92ac25a2d0e0b"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/Galosphere.json"
-hash = "f465d3fd505fb13178bcb7393a293f358f1e3da40b0850a858fa4c47d9956496"
+hash = "01f84c152c73d5cd05ffb7d9d4389d025ee75bf4d36f770df67885c160e355c8"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/Ghost.json"
-hash = "9fda44885e0b1af0e9f40e4834e8e1129c72f17c3d950303502a8e5c0075c6a3"
+hash = "fcbb79677fe876a48cd227be29e93f703b19393e96a0290c2e8ff565d07258c6"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/GhostJump.json"
@@ -8509,11 +8509,11 @@ hash = "7c0a56aea11b4487b837db5820f89fd6c59db1bbf40ea3e5ad5f437767025611"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/GunsWithoutRoses.json"
-hash = "5dbd4b8287a0f25d5b38cf0aef005ac4495e749d66ce87d9937ab0339fc022b7"
+hash = "3025766d7a17300b6c7155958e6a948a699284636abca13db3208c3a27e47865"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/GunsWithoutRosesAdditions.json"
-hash = "13a2f0144443ce46e02e625a75b22ceee804305b074e995ae8fb91fdbda26b8b"
+hash = "9d199e07ec5badb414dadc025194fc51d627cd5d9215bc26069820c1131062da"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/adventure/Hearths.json"
