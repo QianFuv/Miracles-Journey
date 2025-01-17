@@ -14,5 +14,10 @@
 
 	[dragonlib_common_config.caching]
 		#Specifies how aggressively data should be cached. The lower the value, the less data will be cached, which can reduce RAM usage. However, depending on the situation, less caching can lead to increased CPU usage and cause lag. Only works with mods that actively use the feature! If in doubt, leave unchanged. (Default: NORMAL, OFF = only the most important data will be cached)
+		#Allowed Values: NORMAL, REDUCED, MINIMAL, OFF
 		mode = "NORMAL"
+
+	[dragonlib_common_config.compat]
+		#Hides the warning when Sodium is installed, but no mod that fixes the visual glitches.
+		hide_sodium_warning = false
 

@@ -1,13 +1,13 @@
 name = "Cobweb"
-filename = "cobweb-forge-1.19.2-1.0.0.jar"
+filename = "cobweb-forge-1.19.2-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8dbcdfb75c1191e3c3bbe52cee0b3d6cf16b4d29"
+hash = "8645ec5a34c9801dc9952265cbf957b3fb193b8c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5441032
+file-id = 6089359
 project-id = 968456

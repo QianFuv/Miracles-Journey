@@ -1,13 +1,13 @@
 name = "Ephemera"
-filename = "ephemera-forge-1.19.2-0.1.2.jar"
+filename = "ephemera-forge-1.19.2-0.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f9888bd3064945fbb20cf04ef12d6b0e8672d0d5"
+hash = "023a1758603803cd35e6391d4ec4d648492d39a8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5527092
+file-id = 6093384
 project-id = 1052398

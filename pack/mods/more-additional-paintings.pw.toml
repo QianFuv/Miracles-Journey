@@ -1,13 +1,13 @@
 name = "More Additional Paintings"
-filename = "vanilla__pixel_paintings-1.0.0-forge-1.19.2.jar"
+filename = "More Additional Paintings-1.0.1-forge-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5b3ddaae557e309191efec2c41ee25f2b35f95cc"
+hash = "58427646337ad307bef046aed37870c2b4fd1f93"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5858734
+file-id = 6077291
 project-id = 1131013

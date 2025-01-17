@@ -4776,7 +4776,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "2a6051ae967eecc5da5ab6ea98fb041ef8d9f4b04384fe4c60f1aff003dcfdfd"
+hash = "4e2d9e7d4590c6e6d892c3700f9a7fd0002838747686effa7bb1fb9089703e0d"
 metafile = true
 
 [[files]]
@@ -5216,7 +5216,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "ae92f275be7875d6407fd527e72dd72b177dce483c8464fc54637a673270b34f"
+hash = "a848c36327b8c3003c6c5fb209cb216b17634c448af190b68b2df4d58bd0d776"
 metafile = true
 
 [[files]]
@@ -5361,7 +5361,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "7e07bcc75155a07c1e4d5d28988b480a63f2aa596d83216b0d9033ec508d87e5"
+hash = "e76aa8222d0fc1d5938236be7fa27fa68f4bafadc6bc7c25ecad8070c9f4a1c6"
 metafile = true
 
 [[files]]
@@ -5466,7 +5466,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ef7a96e152b3974ce589bfaeffe52d4316a7853eecbff62e60163604c1ba2b91"
+hash = "c2bb4c928e92bf1c19a0921893495b6b581213235386aa0d6a1f2b6dda106a13"
 metafile = true
 
 [[files]]
@@ -5545,7 +5545,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "f888050080473a531ec3ce95d35ed36f9482621fd1a0fdd0a2088574e56cc48d"
+hash = "57cd834f5defd43701c264d2f2d137ba4e72b7429aa0061a20326c6260a7cb7c"
 metafile = true
 
 [[files]]
@@ -5857,7 +5857,7 @@ metafile = true
 
 [[files]]
 file = "mods/ephemera.pw.toml"
-hash = "760d356cb59776168c16ad155315becbd5c4096761d09caa3d409cec466ae844"
+hash = "400551b8574e10becb44da8d6924c565175ccfb23416c5f3cb088f0c9683236c"
 metafile = true
 
 [[files]]
@@ -6031,7 +6031,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgery.pw.toml"
-hash = "7c02007f3948e1d58f481cb38128b6624cfadfd31f9067a8125b2fa144848651"
+hash = "c3ea55ede2239c4852300642f875aa5b89032a88ea659782a0a7d272014a5c81"
 metafile = true
 
 [[files]]
@@ -6595,7 +6595,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "0112b04502efe1b21d837889dc29b25121c069ad2ad7ba9335ebaf2b2bf7a15a"
+hash = "5788bb0aa8c8a2b615901491f8e01f2956c8b612f969df3ec6094f31bda0832d"
 metafile = true
 
 [[files]]
@@ -6934,7 +6934,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-additional-paintings.pw.toml"
-hash = "0889df417dfcbe4bf67a7d004f3a99edcbde6847fe362b175760dad0978dc3b7"
+hash = "cdd8d183ebfb4e82e1532999952553a6796540151e79cd1fc27ab3d1f8102220"
 metafile = true
 
 [[files]]
@@ -6944,7 +6944,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-delight-forge.pw.toml"
-hash = "8a18f291f9be805c5df1bea2ae83989ca76dd59b32c5398022707d96278191e0"
+hash = "228cbc574e556bd5a3f765c2f3c60b41f2b18c43d63a66ca9256e4532b82a27e"
 metafile = true
 
 [[files]]
@@ -7811,7 +7811,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "ea729567f96fbeb3ef9398e35b750760d546a1137e19986a9501ffbb3d2027a1"
+hash = "aebc7e8d5b2eee555b6616a3140bb4d69e7fd5fdc63c6b391302efb76a231d53"
 metafile = true
 
 [[files]]
@@ -8119,7 +8119,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2b841897fccf692ce294c2fa23bf356c70b04757f3693f2ebea5476f579f1e5e"
+hash = "a4fb99083123b3afc8c5dade90fc07bbfe9e8c767acfb485b47c14661ccef7b1"
 metafile = true
 
 [[files]]
