@@ -1618,7 +1618,7 @@ hash = "17e15050fd852f4b0c2a805bdd15e74e51705ed3a85558bbdbfe1cc04b86b196"
 
 [[files]]
 file = "config/cataclysm.toml"
-hash = "cc986941feeec99c2b3a655ef89fb100b9dc77394ea1641abf99697c48a59408"
+hash = "8e98772f6433e8b373cd3e006154e80ec9083b3305e6a58c3e0b53e33e3df86c"
 
 [[files]]
 file = "config/cataclysm/amethyst_crab_spawns.json"
@@ -1830,27 +1830,27 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "672506d716465506149893b334cefbc213db3d02206756f86cff0a7dda9d9452"
+hash = "4e61da61bb34df1ef577d324bbbaff57c075dcf700a2ad0e615256cf4e2a4676"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
-hash = "45c6f75820a72bdd9dbe2a76b9b3297145c233e8d14fde6ef09c14895c940e17"
+hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
+hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
+hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "aec3156b030344961191df1e1d0311a56d8420428c8bb97bd217e94737ae3463"
+hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b2bf66fb8f7748a3c7400608358fbcd7ec0bfa90fa0e1865496150e7017e92e8"
+hash = "ff86f4a0f158c5156d2c6ba5704afceec21eb596196d5b0106dd042c0614b6fa"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1914,7 +1914,7 @@ hash = "a51541bf93bd4d74d77fb77add1dca5fa948d5a52a60e1d57a8d954e91d5d310"
 
 [[files]]
 file = "config/createrailwaysnavigator-client.toml"
-hash = "e54941217487d8d240b5eed98078ccec6df81d46bc3ae4adab13be00c7be030e"
+hash = "2c66ebac8bf535a7d8aabf5058b13eac7ae8978a18c173aad7395a1cd4c0a7e3"
 
 [[files]]
 file = "config/createrailwaysnavigator-common.toml"
@@ -2102,7 +2102,7 @@ hash = "522c5a0c2617e95f030a3c3cff8481f74f999525bbac23c1f5305fd0dab60206"
 
 [[files]]
 file = "config/dragonlib-common.toml"
-hash = "cd45321557f3bc16f9b068728c9a73ab05a205b23c649ae0969fcc47236b4f60"
+hash = "71cfe3abaa9bc8050ff399c2ef9b97d669ec984727c9ed26e322a14cd839b814"
 
 [[files]]
 file = "config/dragonmounts-client.toml"
@@ -2306,7 +2306,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "b37a0a3a415e7acbbe1cb08174184cfb3e75132c16c9acc3c5f9395bb05e3dc9"
+hash = "7e560e96eddcc31fab1520a29ffa8ed6160a109ff87f7561f1f98325a922cc98"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -5008,11 +5008,6 @@ hash = "8df1982d168c9855e60bed76f5578374fedb75af8b2d2a4932449e3ab146299e"
 metafile = true
 
 [[files]]
-file = "mods/blur-forge.pw.toml"
-hash = "56598454e2e5fc188e83ae907ef87303c3697199bc776f1bcd53e380d2dd69ff"
-metafile = true
-
-[[files]]
 file = "mods/boatload.pw.toml"
 hash = "69eac4f7bca820219c1ad0b328679b760fd182905b97108bffbab48621f8ad7a"
 metafile = true
@@ -5110,10 +5105,6 @@ metafile = true
 file = "mods/catalogue.pw.toml"
 hash = "09b5cafc49bc591b0aad21a041ede29bb369667f5f3b0c5403818e739903ab9d"
 metafile = true
-
-[[files]]
-file = "mods/caxton-0.6.0-alpha.5+1.19.2-FORGE.jar"
-hash = "b5691f49f8b5104d8afe823b1b7770d540df1c1a2dcf9389f1c5f0f84bf9f492"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -5635,11 +5626,6 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "37d6c11145c015ca5f75343d7b4ac3160d2e33a424db300d6e2f60065badb587"
-metafile = true
-
-[[files]]
-file = "mods/ding.pw.toml"
-hash = "e28e9adb0f7da78066019832b81a5117f637c55c0243324e49f71d114b7dffdf"
 metafile = true
 
 [[files]]
@@ -6895,6 +6881,11 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "1cf10eba8da7bab38c0f786dfe5fa91fd32656bce36846ed8d46b14450fae64b"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "567b0d5d9a59770edf9745647354e675937982e179d880940bc33161cb148722"
 metafile = true
 
 [[files]]
@@ -8309,7 +8300,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "78e5de8028571aa6ef7450c6729822590cda3d1be7e7fd8a34b45521261d39ed"
+hash = "2e3e2f01c978be2ed1c1b6105e549f0c0fc5db421ad817560b3a3932ee9c2fb0"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
