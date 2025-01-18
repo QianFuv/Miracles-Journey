@@ -1850,7 +1850,7 @@ hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "662165185cb9575d7961a3f77ecbacae2c2f3dddeb6a1e7a25654b01861ac521"
+hash = "dd24ed1a8608a59fcf803eb9b78f2c94bba8fcbc80aa39990332c57f956feecc"
 
 [[files]]
 file = "config/create-client.toml"
@@ -1927,6 +1927,10 @@ hash = "ca73eec1ea753ce19b4c31c58a419f1afca09981ced5ea3fc817288b0e0f9482"
 [[files]]
 file = "config/createsifter-common.toml"
 hash = "f699d13e0e08e6ef0e5ac6dc17edec34041c224c5c5a08d6af9d7af0be9a4ea8"
+
+[[files]]
+file = "config/createtweakedcontrollers-client.toml"
+hash = "f51468a56c7bef97db59c1169054404cdaf178fb5d25c8e3f1883e6bd756107c"
 
 [[files]]
 file = "config/creatingspace-client.toml"
@@ -2358,7 +2362,7 @@ hash = "c89a802114efce79c5a8a89015c76bc49a181a025bdb2c8f681258464e67e397"
 
 [[files]]
 file = "config/fancymenu/customization/02.txt"
-hash = "2baeaa514e480651deee1910e7897bd795c3dfd0ecdf4e58a83927d908c39735"
+hash = "39b45834ed4517f5921525466a23659a4a56030db7c820427266d007e343373d"
 
 [[files]]
 file = "config/fancymenu/customization/03.txt"
@@ -3050,7 +3054,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "1ecfce6fcd774e93319203ee3bb45dae99edf774b5db3cfc9ff3aa9d287c013b"
+hash = "0c1b0ebac38a741fb315121c65e6d8a86e20fcb3e19a28614b50628059d609c8"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3713,6 +3717,10 @@ hash = "1b0427f143c9839c04fb94770f4ea10e824ef950249a8fd41a351c6afcf555bc"
 [[files]]
 file = "config/railways-common.toml"
 hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
+
+[[files]]
+file = "config/raised.json"
+hash = "9dd658b7841ec3dc96eccd99d84f0c6ed42693e58a9c2560327ab6c4ea5b07c0"
 
 [[files]]
 file = "config/randomium-common.toml"
@@ -4545,6 +4553,14 @@ hash = "293be7b70378dc89260db97d2ab02161d31aad05357562feac9a3dafe47b3670"
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
 hash = "f064b1c7591172d642b90687f55cf3d4b8abddf5a45ef98a552f459b2ce57c27"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "ea144b744f5f80dfbcdf0ddf47a9b8f0cdf8379b70e443cf5891e78bc2238c01"
 
 [[files]]
 file = "defaultconfigs/rrp.properties"
@@ -5482,6 +5498,11 @@ hash = "3d5035ad472385c3875f60ed939101c573cd7461a3f6c49e4e01d80e208b685f"
 [[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "b65eb3cd95ca7dfe41c9d6abae35094c2814126d5164ae649eba9ce4d20c8e11"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "b99ac07456bf5cb3ec2b0a600e7c002adfdb980b092286aa653772563c7c9531"
 metafile = true
 
 [[files]]
@@ -7348,6 +7369,11 @@ hash = "18261fa9c2c60d00d270183fe6e4ad074afe0079904a463d2520cacc05e98fac"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "24e6f8cd6d7118a3a208e756aa854f06826b901345bf83b51f762456326dcbc6"
+metafile = true
+
+[[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "f408cb98946098915dedb58dbeebb39baa664d9806e717e44b9b7c8263c8df25"
 metafile = true
@@ -8305,7 +8331,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "48a55642ecdfe27b30f92aab7bcfa6436cde69c77a55e18050dde815bffb96c0"
+hash = "0d697067db8e0085427cc3747a0e203c1df18a8350c13bb9d7db5246199f8dbe"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -11690,6 +11716,10 @@ hash = "6468e2bf15a80ed02413e91a78b8ed68c8933afc11c4259f7de46b54e2ec549d"
 [[files]]
 file = "resourcepacks/AeR - Vanilla Shaped.zip"
 hash = "b34869df36b246fd852884c7a9b1f6cc8be3c9bb69b0550ba7fc90da518b1a2c"
+
+[[files]]
+file = "resourcepacks/Alternative Sanding Wheel.zip"
+hash = "4712278437d690b4a5b119b0eb1f017f58f915aebdf860369051c0010527be69"
 
 [[files]]
 file = "resourcepacks/C4Discs.zip"
@@ -15889,6 +15919,11 @@ hash = "34097985a37c0f340c75028b71968c46ad10d15cae29824f47378a89422511cf"
 metafile = true
 
 [[files]]
+file = "resourcepacks/als-zombies-revamped.pw.toml"
+hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
+metafile = true
+
+[[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
 hash = "67517cc8605d7bc73f2ad582187c558e43a003b981c0238d4338c30677981f87"
 metafile = true
@@ -15944,11 +15979,6 @@ hash = "ea510b641670f0394a6cec5dcfda63a769aee0692d1f2f85338caedeca5b8032"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-grass-optifine.pw.toml"
-hash = "4f8c3a6359c9158d685d5430332d1036cc9271293c4d6ee26d46374295e21e4c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/better-map-items.pw.toml"
 hash = "27cd610d8fd82d18224c6b59098010c8bcf29c94db18ce17095bb1831c8702b5"
 metafile = true
@@ -15983,6 +16013,11 @@ hash = "b3a5566145b1672bdba65c5207594dc80f8e3d462814b62f44c811bf3188cb55"
 metafile = true
 
 [[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "7e073b0be99cdb8cf8593b3bd2814a9773ec972717722d43aada9864a6808d95"
+metafile = true
+
+[[files]]
 file = "resourcepacks/formidable-foxes.pw.toml"
 hash = "383cea983233ef5104cb715db2de41b5e9669bc1215fdd31e423b26d5660a59b"
 metafile = true
@@ -16000,6 +16035,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/nekos-enhanced-tools-and-armor.pw.toml"
 hash = "469021b8b8db737377b79c3109503423f35ff95cf7be1c13b1942b31687d4964"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ore-variants.pw.toml"
+hash = "4446fa71409b75ba36dd7a1c79a8afa8f675eaaa79b7648fe0a80df0ac345200"
 metafile = true
 
 [[files]]
