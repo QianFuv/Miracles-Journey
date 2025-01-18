@@ -8326,7 +8326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1a620f3f6470c94ea5907e836b654e79b917a323349b5c8b28897a2c06484f11"
+hash = "607b1ec2f65ea14edbd96fdf02959c4bca4d4071eea203cf4662645f3653d7b5"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
