@@ -2366,7 +2366,7 @@ hash = "39b45834ed4517f5921525466a23659a4a56030db7c820427266d007e343373d"
 
 [[files]]
 file = "config/fancymenu/customization/03.txt"
-hash = "0e0cd22169e2d522aa90901b42ca10b25fd6fc17550f8dac2c948250ddd59f98"
+hash = "d474057ac428a2fc63e92106a4bd9809b9814e3f3fbb18a24bc8fed57a6b93e5"
 
 [[files]]
 file = "config/fancymenu/customization/05.txt"
@@ -8331,7 +8331,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0d697067db8e0085427cc3747a0e203c1df18a8350c13bb9d7db5246199f8dbe"
+hash = "d1846674123c8212a7701a3f635f12f58b1bcd3154b9a260f59b03da5b5395ae"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -15919,6 +15919,16 @@ hash = "34097985a37c0f340c75028b71968c46ad10d15cae29824f47378a89422511cf"
 metafile = true
 
 [[files]]
+file = "resourcepacks/als-piglins-revamped.pw.toml"
+hash = "db0e5f694fa32d1dd1ef86106b66ad3c0747b2441fa58294491aa56828e780be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-skeletons-revamped.pw.toml"
+hash = "5fd9949e8e358a0c21cde38041aea57bd7c9a969acc5849e2646b51ec1fa0bbe"
+metafile = true
+
+[[files]]
 file = "resourcepacks/als-zombies-revamped.pw.toml"
 hash = "455d3c16ce72034c2ded69bac5fe56c51736a28e00f651d5ca6fdcf514848ea2"
 metafile = true
@@ -16030,11 +16040,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/gui-retextures.pw.toml"
 hash = "13e70447c133417359fefdb16459686924bd569fd2049e59467a4b52a3231128"
-metafile = true
-
-[[files]]
-file = "resourcepacks/nekos-enhanced-tools-and-armor.pw.toml"
-hash = "469021b8b8db737377b79c3109503423f35ff95cf7be1c13b1942b31687d4964"
 metafile = true
 
 [[files]]
