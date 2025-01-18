@@ -1850,7 +1850,7 @@ hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "dd24ed1a8608a59fcf803eb9b78f2c94bba8fcbc80aa39990332c57f956feecc"
+hash = "988894f53956858c045c625970cdf8e12995ec6f29eeabe4dbd3c72f3e503a03"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2366,7 +2366,7 @@ hash = "39b45834ed4517f5921525466a23659a4a56030db7c820427266d007e343373d"
 
 [[files]]
 file = "config/fancymenu/customization/03.txt"
-hash = "d474057ac428a2fc63e92106a4bd9809b9814e3f3fbb18a24bc8fed57a6b93e5"
+hash = "621080aa492718ea50fd37fe74b4635e36e73b25b21346de9fa375f31fb0de3b"
 
 [[files]]
 file = "config/fancymenu/customization/05.txt"
@@ -7082,11 +7082,6 @@ metafile = true
 [[files]]
 file = "mods/nimble.pw.toml"
 hash = "c426741247413901c1d97c1e43e4ecdece453e0a10fb9b4bd627ffec2f00976a"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "20df1bcaf0f5ea11542bceda16e751fb45fb4fc11298f5d2108a9e89412f23fd"
 metafile = true
 
 [[files]]
