@@ -1,0 +1,13 @@
+name = "Blur (Forge)"
+filename = "blur-forge-3.1.1+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dee4972a73b0d19cced5b8d21f64f163a4d455c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4906350
+project-id = 823106

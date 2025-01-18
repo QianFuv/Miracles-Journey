@@ -1850,7 +1850,7 @@ hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ff86f4a0f158c5156d2c6ba5704afceec21eb596196d5b0106dd042c0614b6fa"
+hash = "662165185cb9575d7961a3f77ecbacae2c2f3dddeb6a1e7a25654b01861ac521"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3050,7 +3050,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "77bbf06a062fdaae7ab7ce34827875e37b39bd39bcdfcd20a250d8e1f1c8dc9a"
+hash = "1ecfce6fcd774e93319203ee3bb45dae99edf774b5db3cfc9ff3aa9d287c013b"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -5008,6 +5008,11 @@ hash = "8df1982d168c9855e60bed76f5578374fedb75af8b2d2a4932449e3ab146299e"
 metafile = true
 
 [[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "8d26644f761bf13f42dc8317086d3f8e9f80b5b0082064248db286f6e609c0ac"
+metafile = true
+
+[[files]]
 file = "mods/boatload.pw.toml"
 hash = "69eac4f7bca820219c1ad0b328679b760fd182905b97108bffbab48621f8ad7a"
 metafile = true
@@ -5626,6 +5631,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "37d6c11145c015ca5f75343d7b4ac3160d2e33a424db300d6e2f60065badb587"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "340c0308f28b6c185e32a99f3a0792ee9e3b7dd4ed5c868c0d76b59025d9fda0"
 metafile = true
 
 [[files]]
@@ -6881,11 +6891,6 @@ metafile = true
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "1cf10eba8da7bab38c0f786dfe5fa91fd32656bce36846ed8d46b14450fae64b"
-metafile = true
-
-[[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "567b0d5d9a59770edf9745647354e675937982e179d880940bc33161cb148722"
 metafile = true
 
 [[files]]
@@ -8300,7 +8305,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2e3e2f01c978be2ed1c1b6105e549f0c0fc5db421ad817560b3a3932ee9c2fb0"
+hash = "48a55642ecdfe27b30f92aab7bcfa6436cde69c77a55e18050dde815bffb96c0"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -15869,6 +15874,10 @@ hash = "14247b09cc5da71244dbf18073d89ce1c2077d7a00d6fa93697019a2a7b53ecf"
 [[files]]
 file = "resourcepacks/VanillaTweaks_r578329.zip"
 hash = "961e3c1cc685e345b17fc32d9911341dc15c608c6b34dcefd8910b900206df09"
+
+[[files]]
+file = "resourcepacks/XPlus Font Pack v1.0.0.zip"
+hash = "807f39c92debddbb321532398934e07dbb90ec225ccbbb6fe81af2794a2243b0"
 
 [[files]]
 file = "resourcepacks/[1.19-1.20] Yuushya Release 0.18.2.zip"
