@@ -1830,7 +1830,7 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "4e61da61bb34df1ef577d324bbbaff57c075dcf700a2ad0e615256cf4e2a4676"
+hash = "3b4ebecabe56a0175e5240598aa3f15799a6beafb937acf37f4cf5fe74c3b80d"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1850,7 +1850,7 @@ hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "988894f53956858c045c625970cdf8e12995ec6f29eeabe4dbd3c72f3e503a03"
+hash = "3129a3a4ff24f2076d4689a57f4899c40d52abaeb25a51b5861643f35e949bd7"
 
 [[files]]
 file = "config/create-client.toml"
@@ -4556,7 +4556,7 @@ hash = "f064b1c7591172d642b90687f55cf3d4b8abddf5a45ef98a552f459b2ce57c27"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
-hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
+hash = "19e4fe5df714f30e59d06c880927df03856643f9c10e2c382d8bd064e7cb461b"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
@@ -5373,7 +5373,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "e76aa8222d0fc1d5938236be7fa27fa68f4bafadc6bc7c25ecad8070c9f4a1c6"
+hash = "f6892cba3c7defae3082d8737ec2b3df54bf72699ff37cb2436805a550463464"
 metafile = true
 
 [[files]]
@@ -6612,7 +6612,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "5788bb0aa8c8a2b615901491f8e01f2956c8b612f969df3ec6094f31bda0832d"
+hash = "4952e4ee42a6aa98ae5a479768cd7969dc74236b574428ed9193dc832ebc54f6"
 metafile = true
 
 [[files]]
@@ -6856,8 +6856,8 @@ hash = "3a9008f2445f760fcb74e4e238435cd622f3527301e8ca830be6029b448504d4"
 metafile = true
 
 [[files]]
-file = "mods/mediaworks-forge-1.19.2-1.0.7.jar"
-hash = "1a8f6a91dd8baadac926614a2b47a27a7c121f4c1a1ec9b9e0a39074200ea269"
+file = "mods/mediaworks-forge-1.19.2-1.0.8.jar"
+hash = "b3fc76adef8a295c9330089f9bc263fa781b34660468b1fdbf9752e1d56c51b6"
 
 [[files]]
 file = "mods/medieval-paintings.pw.toml"
@@ -8326,7 +8326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d1846674123c8212a7701a3f635f12f58b1bcd3154b9a260f59b03da5b5395ae"
+hash = "1a620f3f6470c94ea5907e836b654e79b917a323349b5c8b28897a2c06484f11"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
