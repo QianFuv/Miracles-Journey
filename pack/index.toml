@@ -9193,10 +9193,6 @@ file = "patchouli_books/miracles_book/en_us/entries/assist/Catalogue.json"
 hash = "322a7cc33326ffd1889e1b70a331cfec9267bec52556242272bbe260ec237441"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/assist/Caxton.json"
-hash = "12fec2c8406f5d423ea0c45078afc35424e693f09a0fc79123ed9eba1de83371"
-
-[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/ChatHeads.json"
 hash = "8217e2ad9219be7b1df029ff544f1d38416b287011326911a7c38bb5a4ee4be3"
 
@@ -9309,6 +9305,10 @@ file = "patchouli_books/miracles_book/en_us/entries/assist/DismountEntity.json"
 hash = "de0cb409a0c3f9f0a484f07efefad552ae308e75e93ab2f90df3a833a7f87a9d"
 
 [[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/DoesPotatoTick.json"
+hash = "56c61dd601f90559db6c7696930c34fea56500b68bbd481acb9e219a8e1f782d"
+
+[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/DrawersTooltip.json"
 hash = "75e2799607b789bdc132080c8f719f381f357845ecd93ee64a0952dc327187b7"
 
@@ -9419,6 +9419,10 @@ hash = "524f0983215291354365f2f8153dec928211f691018b23b7035a61055be463fe"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/FtbBackups2.json"
 hash = "e220786038a1e273efdddec19653ad26f5a987dd009a0a49a0e14c498688f2a4"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/FtbChunks.json"
+hash = "2fbce037da95d6edcfbd253cd81e4ec184d31dadbd9e38265cc59a76d0ab5222"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/Galoblender.json"
@@ -9657,10 +9661,6 @@ file = "patchouli_books/miracles_book/en_us/entries/assist/Nimble.json"
 hash = "851878cbdd10c7d08878249086386e1c8d692671b7759da1c0edde6b3164f134"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/assist/NoChatReports.json"
-hash = "53fb4fdb7f0be7e1625b440555c263f8d00c147819842cecfc32aa1572b303de"
-
-[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/NonConflictKeys.json"
 hash = "a3db32d5c0f9b53311b994af40b8dc69cdcfc766f00fa3a396ca8bada0fa6787"
 
@@ -9679,10 +9679,6 @@ hash = "0ab1268b27fb56fb48d6b848604ee993bec189beeb6ef183f776cba3df5ce6b7"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/OculusParticleFix.json"
 hash = "20da4a1a759806ac3022196f42186af343158c88b5c13cea0efbdb4e2907b3cf"
-
-[[files]]
-file = "patchouli_books/miracles_book/en_us/entries/assist/OpenPartiesAndClaims.json"
-hash = "fc54429062764a8ada0fcfc071970b165e423a59e3066ab45f88f6145b9ca932"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/OverflowingBars.json"
@@ -9731,6 +9727,10 @@ hash = "c5ed97364e66f0d74793e9bb2f499b0b17b1b8709f9f3aca7ac6e341bab80a07"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/RSCraftingMonitorInGrid.json"
 hash = "196d18509d9ae20527f42d87405a652d14576a8de26115c0dbebe8656f762921"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/assist/Raised.json"
+hash = "f9b306f9699a69e36ea9967f131074782659d07c455abda9f0aac80df0b2ac31"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/assist/RawsVisualKeybinder.json"
@@ -9949,10 +9949,6 @@ file = "patchouli_books/miracles_book/en_us/entries/custom/LootJs.json"
 hash = "3dec06fdf03e432c90c12cbe1b2db251bac5f5e491da0a1915aebcd56c7a4b08"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/custom/PonderForKubeJs.json"
-hash = "4a6f360edf49df23fcafb2d984403ddbdf02e03f45f11157dd99db151179c57d"
-
-[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/custom/ProbeJs.json"
 hash = "8c48ef115dc13207d40728b5b4d4a8b29a30fdd865ed7133633cce3abd8583f5"
 
@@ -10133,7 +10129,7 @@ file = "patchouli_books/miracles_book/en_us/entries/decoration/BiomesOPlenty.jso
 hash = "75f0178ef3dd23394e204eaa49c8a70d40f2b5a29800c52e7e269f77769a1d82"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/decoration/BlahajReforged.json"
+file = "patchouli_books/miracles_book/en_us/entries/decoration/BlåhajReforged.json"
 hash = "35e8e331f9c82fed0f6fcababc9630fe64684dff2369f114d2bbf4a8cf977403"
 
 [[files]]
@@ -10257,7 +10253,7 @@ file = "patchouli_books/miracles_book/en_us/entries/decoration/LeftHanging.json"
 hash = "ce93b3a074d08cddcf90f57cda4f2138d6dc52f1a9ee9696d5e2ab81016183e7"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/decoration/LeonsBackportPaintings.json"
+file = "patchouli_books/miracles_book/en_us/entries/decoration/LeonsBackportPaintings1.21.json"
 hash = "fcf15506f17081d9e61373ceba02e755d53d0819ee56213e926e425a1b39d720"
 
 [[files]]
@@ -10511,6 +10507,14 @@ hash = "1964d15f005a3bdc5c2cfb7c57b3c82ababc3d887c8d5e0c83e3aa615b828c42"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/lib/Framework.json"
 hash = "f30df57f9fbcc2696576be17e4c1fa9e0ac5479274af4ad9bdb6105ea80c9caa"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/FtbLibrary.json"
+hash = "3d6511f1fced9b43bf8571b21dab6f82e896449551d8d5282ea479b258b19aef"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/lib/FtbTeams.json"
+hash = "4775a59bd4ddaf28d1256b19a2d9e4086cae5f39da3eb7c3609aeb2e7fc12515"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/lib/GeckoLib.json"
@@ -10865,12 +10869,28 @@ file = "patchouli_books/miracles_book/en_us/entries/magic/Vitalize.json"
 hash = "27d1c34bcc2aa6a451bc7fa975bf4ad5d53532d2cffab5be4dcdac340d5edcb1"
 
 [[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/ALsPiglinsRevamped.json"
+hash = "851b06047d0c56f80b4017a6e234390c1c128faede5408bc0aa87f7dc7989b74"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/ALsSkeletonsRevamped.json"
+hash = "46d1a15529fb484df341eed3ef148d3b684fdb58d4db74d559ca618cd9a533a7"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/ALsZombiesRevamped.json"
+hash = "a1636d2538e6bde24d1f7554f77a99a1c443ce3307119e6fce4c9bc2c28e379b"
+
+[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AetherRegenerated.json"
 hash = "3681aa3235a81a4655e73871aa3e4301445fca0d10541704349c546fa2377b3e"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AlternativeRainSounds.json"
 hash = "c718815d7864bf710f67fbb92205cf6e3fa17a5bc03e65d7c76c44c09d57a55b"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AlternativeSandingWheel.json"
+hash = "1ff76fc46c8540c9decbc760e8fff6a03565a4a9692753e70db80b38b06bebf4"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/AnalogueWatchClock.json"
@@ -10953,6 +10973,10 @@ file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/FancyBeds.json
 hash = "eeb58e65b16dcc7de6075faf9edd68ff6d565d7dfa107e63f93dfc430549b741"
 
 [[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/FarcrsBetterDirt.json"
+hash = "45481e35bda37074bacc274959c1fcf56aefb2dc96a79dd13884342cce535f39"
+
+[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/FormidableFoxes.json"
 hash = "75dd1f32703c3bcd0c2eba253b339a4651f0750eb96345bedd09e0496afeb9d1"
 
@@ -10965,8 +10989,8 @@ file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/GuiRetexturesC
 hash = "9fabeb6d8d6d57544d2d258f7c7a53339ef32c8d1a9b5ce3dd185dd6e9812117"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/NekosEnhancedToolsAndArmor.json"
-hash = "cd4c9911d6ed66836778dd0eb8f5126d8dfc0803db6d2cdf99662b7f1953de3c"
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/OreVariants.json"
+hash = "f12622e8e127f4bce29904e56d2d708bdfafb7dd7d88e3d2811c6cd493a85794"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/OsShulkers.json"
@@ -11009,6 +11033,10 @@ file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/VanillafiedAdv
 hash = "f19517992e3681d5d7cc9875dc129b4b3ff5512b7a343445be53ae7eb603b5d5"
 
 [[files]]
+file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/XPlusFontPack.json"
+hash = "7c673a9aceee5ccb14f55160556fffb64eb7fcbae8bae3985f90a02bc6a65004"
+
+[[files]]
 file = "patchouli_books/miracles_book/en_us/entries/resourcepacks/Yuushya16xEdit.json"
 hash = "b15a7fef6b87d733526863793e9cff9e0ba9fa9f835cc7d1f825995190b622ed"
 
@@ -11021,8 +11049,8 @@ file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/BlissShaders.jso
 hash = "a433c5d2e05be21256fa16220739afaa867ac2fa5a9c2ad4878af1a694901950"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/BslShadersOriginal.json"
-hash = "dc3a9cd431c15be6ff7f667a666379e628cc1ed92ef4d61d7f79a1c2b6267167"
+file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/BslShaders.json"
+hash = "0d6ff231cf4e4a8eba57b5b508e2a0d6ca7bb31c071173b0579fa2fbb639ff26"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/shaderpacks/ComplementaryShadersReimagined.json"
@@ -11299,6 +11327,10 @@ hash = "ee73dcb432be8eb167ce8e3b65b399bec8fdf62b59993efcb810c2105b1a6561"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/utility/CreateTradingFloor.json"
 hash = "800933a25222179ded9cdd519470c18487c0bc3242ad1899be3667d2ea182e28"
+
+[[files]]
+file = "patchouli_books/miracles_book/en_us/entries/utility/CreateTweakedControllers.json"
+hash = "d1d7c4b2c356022558b1f368b876c73d42991ae0892b938a4c0c4ccdf2288954"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/utility/CreateUtilities.json"

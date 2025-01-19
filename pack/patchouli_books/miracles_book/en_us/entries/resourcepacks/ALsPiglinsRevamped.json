@@ -1,12 +1,12 @@
 {
-    "name": "禁用聊天举报",
+    "name": "ALsPiglinsRevamped",
     "icon": "minecraft:writable_book",
-    "category": "patchouli:assist",
+    "category": "patchouli:resourcepacks",
     "pages": [
         {
             "type": "patchouli:link",
             "text": "暂未完善内容，请点击下面的按钮查看详情！",
-            "url": "https://www.mcmod.cn/class/6756.html",
+            "url": "https://www.curseforge.com/minecraft/texture-packs/als-piglins-revamped",
             "link_text": "在浏览器中查看"
         }
     ]

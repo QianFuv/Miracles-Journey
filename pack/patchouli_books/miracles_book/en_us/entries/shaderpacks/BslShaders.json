@@ -1,12 +1,12 @@
 {
-    "name": "NekosEnhancedToolsAndArmor",
+    "name": "BslShaders",
     "icon": "minecraft:writable_book",
-    "category": "patchouli:resourcepacks",
+    "category": "patchouli:shaderpacks",
     "pages": [
         {
             "type": "patchouli:link",
             "text": "暂未完善内容，请点击下面的按钮查看详情！",
-            "url": "https://www.curseforge.com/minecraft/texture-packs/nekos-enhanced-tools-and-armor",
+            "url": "https://modrinth.com/shader/bsl-shaders",
             "link_text": "在浏览器中查看"
         }
     ]

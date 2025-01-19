@@ -1,12 +1,12 @@
 {
-    "name": "OpenPartiesAndClaims",
+    "name": "FtbLibrary",
     "icon": "minecraft:writable_book",
-    "category": "patchouli:assist",
+    "category": "patchouli:lib",
     "pages": [
         {
             "type": "patchouli:link",
             "text": "暂未完善内容，请点击下面的按钮查看详情！",
-            "url": "https://www.mcmod.cn/class/7945.html",
+            "url": "https://www.mcmod.cn/class/3184.html",
             "link_text": "在浏览器中查看"
         }
     ]

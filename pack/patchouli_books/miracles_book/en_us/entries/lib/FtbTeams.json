@@ -1,12 +1,12 @@
 {
-    "name": "BslShadersOriginal",
+    "name": "FTB 团队",
     "icon": "minecraft:writable_book",
-    "category": "patchouli:shaderpacks",
+    "category": "patchouli:lib",
     "pages": [
         {
             "type": "patchouli:link",
             "text": "暂未完善内容，请点击下面的按钮查看详情！",
-            "url": "https://modrinth.com/shader/bsl-shaders",
+            "url": "https://www.mcmod.cn/class/3179.html",
             "link_text": "在浏览器中查看"
         }
     ]
