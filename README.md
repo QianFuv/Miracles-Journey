@@ -2,7 +2,7 @@
   <img src="https://cdn.sa.net/2024/12/08/UjBJsQtbSafA28L.png" alt="logo" width="150" height="auto" />
   <h1>Miracles Journey - 奇迹之旅</h1>
   <p>
-    基于原版MC设计的全新大型整合包，提供全新体验。
+    因为爱好制作的超大型整合包，无线性内容，通过你的创造力来探索整个世界！
   </p>
   <p>
     <img src="https://img.shields.io/github/commits-since/QianFuv/Miracles-Journey/latest?style=plastic&color=blue" alt="Commits Since Latest Release" />
