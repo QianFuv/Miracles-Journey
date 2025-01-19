@@ -1838,15 +1838,15 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
+hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
+hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "e804bb73f74d364f898abac82d925c4d0921ce0279d64df19c15e0059aa1e7d1"
+hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
@@ -8326,7 +8326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "607b1ec2f65ea14edbd96fdf02959c4bca4d4071eea203cf4662645f3653d7b5"
+hash = "2f2023fb4c8d8a4b4a6455f4dd655bceb381848453cacef9323a098d6183b746"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -16068,7 +16068,7 @@ hash = "aa9428c7398fbd4e9febeed9e96cd979506142994ccc0f626c18b2aec39df17d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.01.1.zip.txt"
+file = "shaderpacks/BSL_v8.4.01.2.zip.txt"
 hash = "f429f695f04c47251540de916664f6b9c869da9e6b1cd268dc104920ca202632"
 
 [[files]]
@@ -16112,13 +16112,21 @@ file = "shaderpacks/Nostalgia_v5.0.zip.txt"
 hash = "a6584f19c63590f8611542e4209a54b926abe47bbf38a5309d949762667e1858"
 
 [[files]]
+file = "shaderpacks/Photon-GAMS-25-01-14.zip"
+hash = "97c2bc4eea46083f9516b78db1d9dad1b137827502ab2f95c58fe5515d488a62"
+
+[[files]]
+file = "shaderpacks/Photon-GAMS-25-01-14.zip.txt"
+hash = "d5f8d6f25eb91c9f69f447a0246894fcd50d2d24173f34d51844d8d07af51cd7"
+
+[[files]]
 file = "shaderpacks/astralex-shader-bsl-edit.pw.toml"
 hash = "08d5f98c632dc89d2c4b402e24cabb712b8ce6aec57ce34c902174e9079ba2b8"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "4db086ddd817faf54e9293155e05128a537da70e7478dd7999d80832569ecfea"
+hash = "d479bbe8293b2733e288c3b5591cb3e48bcfdccdb60ddbd578bca4770a744caa"
 metafile = true
 
 [[files]]
@@ -16137,12 +16145,12 @@ hash = "112f2c88a8417d9962f5278e8d2c6474421c02491ea6b90ec4c7716b4e706034"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon-dev-24-10-10.zip"
-hash = "a910650d34cca98b754147514ff32baa84b4c40136b70ff9b285d0268cb81c8f"
+file = "shaderpacks/photon-Origin-25-01-11.zip"
+hash = "d5cafadbfe26ba3f5db2e58ebbb03667cea8b9c24ed523181efce301d3e60bf0"
 
 [[files]]
-file = "shaderpacks/photon-dev-24-10-10.zip.txt"
-hash = "c26887fb17051a3d090c72935b2a990da5f6ab11f5f5b7c1812295c5b2d1620b"
+file = "shaderpacks/photon-Origin-25-01-11.zip.txt"
+hash = "26e3845cce2a3f48d2bb69f163a66f2ee7c7cc2cf1eae2ccb87f34b083efd2e9"
 
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"
