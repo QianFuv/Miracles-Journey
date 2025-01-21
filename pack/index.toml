@@ -1830,7 +1830,7 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "3b4ebecabe56a0175e5240598aa3f15799a6beafb937acf37f4cf5fe74c3b80d"
+hash = "4911a1de32376ef9968dc81ec5c4b65f8c8fd8f3d05fda2054f5c452d0139745"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1838,19 +1838,19 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
+hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
+hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "78a6a16db8254282f97bf6356b8fb378007a240edf77d8019db258164dc506b4"
+hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3129a3a4ff24f2076d4689a57f4899c40d52abaeb25a51b5861643f35e949bd7"
+hash = "14665fd15db061a4b600ae8d9ab78676cefd8a4d560ab36c1fbde06dabcd35f5"
 
 [[files]]
 file = "config/create-client.toml"
@@ -4500,7 +4500,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "6bdee808334eabaa8e1f95af27037fae98b16314a36100293a77bf53cd97457d"
+hash = "a5a422966efe2149dc504e933048d89784af5d7d43a0b283c4f4648a88263b79"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -4792,7 +4792,7 @@ metafile = true
 
 [[files]]
 file = "mods/armourers-workshop.pw.toml"
-hash = "4e2d9e7d4590c6e6d892c3700f9a7fd0002838747686effa7bb1fb9089703e0d"
+hash = "c7565157176ba053ada7caaaa076156649e4389d9ade2682a7951e6eb9edb70b"
 metafile = true
 
 [[files]]
@@ -5373,7 +5373,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "f6892cba3c7defae3082d8737ec2b3df54bf72699ff37cb2436805a550463464"
+hash = "ab99bf64c900cca92f7d46a4bf4563238964a3b6d40502362087f22c4a19ef9f"
 metafile = true
 
 [[files]]
@@ -5403,7 +5403,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-creating-space.pw.toml"
-hash = "da7d90d6af662d7ad8c4c9e78ae6f13b45f99ca68d40fcdeae9c589c88143a4e"
+hash = "81ccb1e46be9338358c2052e7b5ffe3cb16910c1eb4b05e3e15712491d777477"
 metafile = true
 
 [[files]]
@@ -6068,7 +6068,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "e6d5e722d80106d2c0bd834ddb2a6c3d1007abb4dccc7ef39b815f5028339861"
+hash = "ee7262ce7213a4c1f73057b56eeabd50056f9ad009208f059b7e11c2c7f4d6b4"
 metafile = true
 
 [[files]]
@@ -6612,7 +6612,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "4952e4ee42a6aa98ae5a479768cd7969dc74236b574428ed9193dc832ebc54f6"
+hash = "53bc0c6fb1d65ac8bd8d972a5487ea4727bc8bed6ddcd468d719514a63b23449"
 metafile = true
 
 [[files]]
@@ -7091,7 +7091,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "feb7bf31c4715c9c2b2d6d3fcb43578547d33f12472a5b1717f1f4439cdd65da"
+hash = "4c085fb6ee2757cae5326d84ce77c1e3e691b2742232df879ec921000ab283b0"
 metafile = true
 
 [[files]]
@@ -7828,7 +7828,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "aebc7e8d5b2eee555b6616a3140bb4d69e7fd5fdc63c6b391302efb76a231d53"
+hash = "e661a3cbc90603f02c0d09883e7703a2d1cea0bbf19fda0d3c33f51d6c43cce0"
 metafile = true
 
 [[files]]
@@ -8206,7 +8206,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "123f26420c62f9a044917de9b94e530b0050a596b29de0f839ef3b83fca1c813"
+hash = "7db098c88125c292381d3efd3350c489b4f1ec8c43be1e04aaa86380a86792fd"
 metafile = true
 
 [[files]]
@@ -8326,7 +8326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ed6d2dcf43618af5cd19a6095ddc0c67d6708cce76e2e8bb9a20dceeac2b3571"
+hash = "4f415d11d33c410ddcb3517239a07f59d9aabb5723e005bdf20a36cd407d9375"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
