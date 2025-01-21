@@ -8326,11 +8326,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2f2023fb4c8d8a4b4a6455f4dd655bceb381848453cacef9323a098d6183b746"
+hash = "ed6d2dcf43618af5cd19a6095ddc0c67d6708cce76e2e8bb9a20dceeac2b3571"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
-hash = "184f45b59a961c49824af5e0c98392ea2276e7a4645678c93eba19f7bb99011e"
+hash = "43141bc9be729eb9e2f990690797e55845ab51e45fc6ccd58aabc53678a206d1"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/categories/adventure.json"
@@ -10129,7 +10129,7 @@ file = "patchouli_books/miracles_book/en_us/entries/decoration/BiomesOPlenty.jso
 hash = "75f0178ef3dd23394e204eaa49c8a70d40f2b5a29800c52e7e269f77769a1d82"
 
 [[files]]
-file = "patchouli_books/miracles_book/en_us/entries/decoration/BlåhajReforged.json"
+file = "patchouli_books/miracles_book/en_us/entries/decoration/BlahajReforged.json"
 hash = "35e8e331f9c82fed0f6fcababc9630fe64684dff2369f114d2bbf4a8cf977403"
 
 [[files]]
