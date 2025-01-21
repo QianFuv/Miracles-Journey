@@ -5472,11 +5472,6 @@ hash = "ec521b75f349e33fdb1f6b0ef9770d53e9c1bbace1a2d0565e4caff851b8798f"
 metafile = true
 
 [[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "9878bbf354a9affe9848f3c95e30c7f8b6d32fd7a481a594216adcd012e2a076"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "c2bb4c928e92bf1c19a0921893495b6b581213235386aa0d6a1f2b6dda106a13"
 metafile = true
@@ -11303,10 +11298,6 @@ hash = "fca3136edb80e0bba52ebaec8e7fa8cb1c3fb0f4896017346dd5165f67f299a2"
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/utility/CreatePatternSchematics.json"
 hash = "7077ab96eaf38887c8d80098e62f94e54a399ee33f5a15372aa7419e90a37a6a"
-
-[[files]]
-file = "patchouli_books/miracles_book/en_us/entries/utility/CreatePowerLoader.json"
-hash = "2d8ae0f84c2478c5e7ed7c22e0d4d56b9f9b5d08e9cf73ad0a33bfa449b5bbae"
 
 [[files]]
 file = "patchouli_books/miracles_book/en_us/entries/utility/CreateRailwaysNavigator.json"
