@@ -1,0 +1,10 @@
+[
+    {
+        "mob": "upgrade_aquatic:thrasher",
+        "result": "deny"
+    },
+    {
+        "mob": "upgrade_aquatic:great_thrasher",
+        "result": "deny"
+    }
+]

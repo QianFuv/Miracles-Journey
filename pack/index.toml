@@ -1850,7 +1850,7 @@ hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "14665fd15db061a4b600ae8d9ab78676cefd8a4d560ab36c1fbde06dabcd35f5"
+hash = "c9c3eff9c9332e52ded907a68bc8ae8a5d3123ee04347bd733a926d01db597df"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2354,7 +2354,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "b8caf2328f16449e7b5fad4ee993bfc71d4622a09c896aca86dc38b76cab95a5"
+hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
 
 [[files]]
 file = "config/fancymenu/customization/01.txt"
@@ -2969,6 +2969,34 @@ file = "config/immersiveengineering-common.toml"
 hash = "86e8fcb146934c12487fc33a685fa77df1ca50500f8dd2a02f63d9a8179b3724"
 
 [[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "713a839a6c2a6da4ce801e19a32ac9c908a8595b36b2a5988d53635ed601bfee"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/special.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/infinitemusic.toml"
 hash = "27ae2a4f020fde457a02ec9de798a66a966b8771a15eb26f17da66478bf9160c"
 
@@ -3054,7 +3082,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "0c1b0ebac38a741fb315121c65e6d8a86e20fcb3e19a28614b50628059d609c8"
+hash = "e21be4f13f2804942f02dac18e6537949adfa47b8960bb8e2d19ccc1b236eda3"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -6373,6 +6401,11 @@ hash = "0c7cedd224d732f06e095b4b8b2ffc2b4baba35a7ab06ad176910e70892bf0ef"
 metafile = true
 
 [[files]]
+file = "mods/in-control.pw.toml"
+hash = "e250608f6d5bcebba97a58e1450f7c9834d1cafe3c06952b4e46c8e902c5dc45"
+metafile = true
+
+[[files]]
 file = "mods/incendium.pw.toml"
 hash = "e164049dbb15be89f7fc0d239519414c4f614999b8fd94eea7ab7d087ccc125d"
 metafile = true
@@ -8321,7 +8354,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4f415d11d33c410ddcb3517239a07f59d9aabb5723e005bdf20a36cd407d9375"
+hash = "ad3e540fd2ea57f060d72aff9c122a4d1ec3e38ef1ad8fbf525e777cdd67048c"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
