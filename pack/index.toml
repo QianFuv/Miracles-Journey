@@ -3720,7 +3720,7 @@ hash = "558417ea55258432623b65465dc29f3269c43777659adcec4da951894b49f786"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "330b7d116e9fb01b049168c7d5a55364c3e87aec11ad3c8520b0f150d836adf2"
+hash = "671e27308e86a0d7a4f118025352eea141a19997e1ca61825fb63f2d08312ed2"
 
 [[files]]
 file = "config/queen_bee.toml"
@@ -4364,7 +4364,7 @@ hash = "301df804bf7352d3138446411b62c4027268d380715d54539d566e57a65d4a4f"
 
 [[files]]
 file = "config/utilitix/common.json5"
-hash = "f94fc434a22bbe4595635951feea9fdb89f166fb0e6867556a60c3a6e1109224"
+hash = "6117d7b7001fc6261bb7b52caf975d4ff36633bd5a91b9b2bfb0eaeb38dbe451"
 
 [[files]]
 file = "config/valhelsia_core-client.toml"
