@@ -2274,7 +2274,7 @@ hash = "fd7c91aae912db7c7043111006750d19b95f9ae0cdb61a3d2c160100e5e40e97"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
-hash = "457d240f77f9f96d359a3e3152d82574e7df9fb51b4e1aab9009554777a208f5"
+hash = "215c7bdd2a4118cddcaf58e54504fb23046bc85a033a759975d3417da0317fd6"
 
 [[files]]
 file = "config/exoticbirds-common.toml"
@@ -3398,7 +3398,7 @@ hash = "0db639ddbfefd17ba2e2558fa854fec413581f049610983965731e8665c97028"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "cbe9cc74027bc9cab9b7d40ec8ea34b73935423adbb1720c9afc035bc0cdca8d"
+hash = "9166c1f1833d49ce17992d22ca31f3a32fcc2d5869671147f987a7988c46e831"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -16131,20 +16131,20 @@ file = "shaderpacks/Bliss-Shader-24-11-17.zip"
 hash = "5c79c8ca72107dac6425711c21107ad21eca1e5945776eaf8fc5a7911c6edf4c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.zip"
-hash = "093845bd0883598a32b4ca77720b8596d7e55681f0f977b382fdce1527e47605"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1.zip"
+hash = "57459d40f7d949aa220ae855932fc39a30c036106fcd1e24362ec304504ab2df"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.3 + EuphoriaPatches_1.4.3.zip.txt"
-hash = "6dd2d94f98265cf1a6af18360a1b01e83be8e742f8f99842601d0ea3af9b47d5"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1.zip.txt"
+hash = "977b378199bf6e0b1afcd4403a228ca9bed754fefde29d6d52dfbb49da37f1a2"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3 + EuphoriaPatches_1.4.3.zip"
-hash = "a6f933d3df07821ad773c766c686c17db6de6e1e38282721af2ce57aa93fc289"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip"
+hash = "7aeee1d44d03ac8fe9909270de4335eeb5a19ad4da6a056869e8d884d8f8d76a"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.3 + EuphoriaPatches_1.4.3.zip.txt"
-hash = "11e59dc2500d63a63aee5c0551c41eceb9ab3a5b2823017ba033fe2f9f33fc62"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip.txt"
+hash = "a571ddccbc2beffe782718aa64cc8ca4677af541d41ca95baccc4bc7d1ce4b76"
 
 [[files]]
 file = "shaderpacks/Kappa_v5.2.zip.txt"
