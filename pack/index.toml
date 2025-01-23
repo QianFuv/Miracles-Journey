@@ -1830,7 +1830,7 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "4911a1de32376ef9968dc81ec5c4b65f8c8fd8f3d05fda2054f5c452d0139745"
+hash = "02a31372b0d5cf6e2abe47e17e10d3eb5049603a6a89af7f33e2747488e1abe4"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1850,7 +1850,7 @@ hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c9c3eff9c9332e52ded907a68bc8ae8a5d3123ee04347bd733a926d01db597df"
+hash = "d964cf0e996ee1da3decddf72a12a5663cd74e67f9101fc8d388248477853781"
 
 [[files]]
 file = "config/create-client.toml"
@@ -4659,6 +4659,10 @@ file = "mods/Enderite-CJ-forge-mc1.19x-1.4.5.jar"
 hash = "18d656135302bbec8d5226c6df53a3d6fe6d49a8a2b181a98a64da6643df8dbe"
 
 [[files]]
+file = "mods/EuphoriaPatcher-1.5.1-r5.4-forge.jar"
+hash = "a9847e228f83c492e540c4730ed456a06112e5cd362ab759065c8d130faebbc5"
+
+[[files]]
 file = "mods/MyNethersDelight-1.19-1.7.jar"
 hash = "0420f8af870ae501539c38158a71d6eacd548a6f1f004d8c0f0dcf69ef3b91c5"
 
@@ -5401,7 +5405,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "ab99bf64c900cca92f7d46a4bf4563238964a3b6d40502362087f22c4a19ef9f"
+hash = "c3dc1a1a8bc273617b4d460895f6bd46f82d674f4fe030bfc6c55431f5a07a7d"
 metafile = true
 
 [[files]]
@@ -5908,11 +5912,6 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "0e437bbc3cd99cdfb2e9537e9bfbc1057420a3d228088efce000443277497b5f"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "f002123630104f4c2a86e7fe8f570f150e4cea5808c9d505472fbba6c4cbf1ab"
 metafile = true
 
 [[files]]
@@ -8159,12 +8158,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "b62d7ceb889d7b5eb7e4e54275349d61e5312d837fb506206a660846b8e0bcff"
+hash = "c37d28a2d335dcd9751d5645cfdaed8bd2e508f63270103ca4e5326f88d4d2b1"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "a4fb99083123b3afc8c5dade90fc07bbfe9e8c767acfb485b47c14661ccef7b1"
+hash = "878f5ea1aac33cf511f140200e20637bc5aa3bf5538ccdf54af21562506da033"
 metafile = true
 
 [[files]]
@@ -8354,7 +8353,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ad3e540fd2ea57f060d72aff9c122a4d1ec3e38ef1ad8fbf525e777cdd67048c"
+hash = "4fb87cb8c879b0ffe22a36fe03833a6da89cc3c8cfd14d3c12bc3da1defb8e37"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
