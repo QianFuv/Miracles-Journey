@@ -22,6 +22,11 @@
 1. 进入整合包最新版本的[发布页面](https://github.com/QianFuv/Miracles-Journey/releases/latest)
 2. 点击 `Assets` 列表下的 `Miracles-Journey-x.x.x.zip` 文件下载（“x”为版本号）
 
+== BBSMC
+
+1. 进入整合包[版本列表页面](https://bbsmc.net/modpack/miracles-journey/versions)
+2. 选择<sapn class="marker-text">最新的版本</sapn>下载
+
 == Alist
 
 1. 进入整合包 [Alist 托管页面](https://alist.qianf.fun/)
@@ -31,7 +36,7 @@
 == 群文件
 
 1. 进入整合包官方 Q 群：[点击加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZhRJUzbJ0KzlyBMu_SOcuqGkVg5VYpVT&authKey=g2%2BmqmzVTf1OeqqLgMRITVZ6ytQUm%2FoIG8BRqinpPGyD%2Bft5i72IuZprh8pRBI0m&noverify=0&group_code=160373490)
-2. 在群文件内点击`版本列表`文件夹进入整合包版本列表
+2. 在群文件内点击`稳定版 --- 版本列表`文件夹进入整合包版本列表
 3. 选择<sapn class="marker-text">上传时间最新的版本</sapn>下载
 
 == 自构建
@@ -40,7 +45,7 @@
 2. 安装 [Packwiz](https://github.com/packwiz/packwiz)：`go install github.com/packwiz/packwiz@latest`
 3. 进入[仓库标签列表](https://github.com/QianFuv/Miracles-Journey/tags)，选择<sapn class="marker-text">最新的标签</sapn>下方对应的 `Zip` 文件按钮下载压缩包并解压至合适目录
 4. 进入解压目录内的 `pack` 文件夹
-5. 打开 Cmd 使用 `packwiz curseforge export` 导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
+5. 打开 Cmd 使用 `packwiz curseforge export` 命令导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
 
 :::
 
@@ -55,13 +60,19 @@
 3. 没有登陆 Github 账号的需要在页面右上角登陆 Github（如已登录请跳过此步骤）
 4. 点击页面下方 `Artifacts` 列表内的文件下载
 
+== 群文件
+
+1. 进入整合包官方 Q 群：[点击加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ZhRJUzbJ0KzlyBMu_SOcuqGkVg5VYpVT&authKey=g2%2BmqmzVTf1OeqqLgMRITVZ6ytQUm%2FoIG8BRqinpPGyD%2Bft5i72IuZprh8pRBI0m&noverify=0&group_code=160373490)
+2. 在群文件内点击`Miracles-Journey@QianFuv`文件夹进入整合包版本列表
+3. 选择<sapn class="marker-text">上传时间最新的版本</sapn>下载
+
 == 自构建
 
 1. 安装 [Go](https://go.dev/dl/) 语言环境
 2. 安装 [Packwiz](https://github.com/packwiz/packwiz)：`go install github.com/packwiz/packwiz@latest`
 3. 下载[最新仓库文件](https://github.com/QianFuv/Miracles-Journey/archive/refs/heads/main.zip)并解压至合适的目录
 4. 进入解压目录内的 `pack` 文件夹
-5. 打开 Cmd 使用 `packwiz curseforge export` 导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
+5. 打开 Cmd 使用 `packwiz curseforge export` 命令导出整合包（导出的整合包为同目录下的 `Miracles-Journey-x.x.x.zip` 文件，“x”为版本号）
 
 :::
 
@@ -71,7 +82,7 @@
 
 ## 第四步 - Java 环境下载
 
-> 本整合包借助 GraalvmJDK 提供的高性能优化方案和参数达到最大的优化效果，请您无论是否有安装过 Java 环境，都按照指南下载 GraalvmJDK
+> 本整合包借助 GraalvmJDK 提供的高性能方案达到最大的优化效果，请您无论是否有安装过 Java 环境，都按照指南下载 GraalvmJDK
 >
 
 1. 进入整合包版本文件夹内的 `graalvm21` 文件夹，使用管理员运行 `download.bat` 脚本，将自动下载 GraalvmJDK21 到当前目录
@@ -82,7 +93,7 @@
 推荐使用的启动参数为（只能与 GraalvmJDK 搭配使用）：
 
 ```
--XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -XX:+UseG1GC -XX:MaxGCPauseMillis=37 -XX:+PerfDisableSharedMem -XX:G1HeapRegionSize=16M -XX:G1NewSizePercent=40 -XX:G1ReservePercent=15 -XX:SurvivorRatio=32 -XX:G1MixedGCCountTarget=3 -XX:G1HeapWastePercent=20 -XX:InitiatingHeapOccupancyPercent=20 -XX:G1RSetUpdatingPauseTimePercent=0 -XX:MaxTenuringThreshold=1 -XX:G1SATBBufferEnqueueingThresholdPercent=30 -XX:G1ConcMarkStepDurationMillis=5.0 -XX:GCTimeRatio=99
+-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+DisableExplicitGC -XX:AllocatePrefetchStyle=3 -XX:NmethodSweepActivity=1 -XX:-DontCompileHugeMethods -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:+EagerJVMCI -Dgraal.TuneInlinerExploration=1 -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Djdk.lang.Process.allowAmbiguousCommands=true -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true
 ```
 
 粘贴上面的启动参数至下方启动器对应位置即可：
