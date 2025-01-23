@@ -106,7 +106,7 @@
   // List of items which are allowed to be planted when despawn on correct soil
   // This is a resource list. See https://moddingx.org/libx/org/moddingx/libx/util/data/ResourceList.html#use_resource_lists_in_configs
   "plantsOnDespawn": {
-    "allow_list": false,
+    "allow_list": true,
     "elements": []
   },
   

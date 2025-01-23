@@ -4364,7 +4364,7 @@ hash = "301df804bf7352d3138446411b62c4027268d380715d54539d566e57a65d4a4f"
 
 [[files]]
 file = "config/utilitix/common.json5"
-hash = "208ac2228a9d7ef6bba7978bd76a902e0245abffa1a6bd6cde13f75bc71a6868"
+hash = "f94fc434a22bbe4595635951feea9fdb89f166fb0e6867556a60c3a6e1109224"
 
 [[files]]
 file = "config/valhelsia_core-client.toml"
