@@ -8353,7 +8353,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4fb87cb8c879b0ffe22a36fe03833a6da89cc3c8cfd14d3c12bc3da1defb8e37"
+hash = "04fcd8e4dd085fc0fc7692316a50461a8760ea2db587ec0596107a080bacb3c2"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -11776,8 +11776,8 @@ file = "resourcepacks/C4Discs.zip"
 hash = "3ba7a870a891be951ac266d9387d863fb09ea5c071569d803e2381005fb3daa6"
 
 [[files]]
-file = "resourcepacks/C4Music_v3.0.zip"
-hash = "46f6fbe7fe5bfbcd46aa65c347c452f0e31414856180e5bdf3521c08dcb31e9c"
+file = "resourcepacks/C4Music_v4.0.zip"
+hash = "357ae084225118eabb6b1b786db2d225b45229d9b18917741810dc5c01f2144e"
 
 [[files]]
 file = "resourcepacks/MeetYourEnhancedFightV1.0.zip"
