@@ -5805,9 +5805,8 @@ hash = "a957554a0d3870e0c1e0a2dc932ff43fc30d730b67d05243f0d94d6d271f053c"
 metafile = true
 
 [[files]]
-file = "mods/eidolon-rebrewed.pw.toml"
-hash = "67915861f48fe1b3c1868c504be9e53c5f907f1cd45fda3630805a4cc8157109"
-metafile = true
+file = "mods/eidolon-0.3.7.jar"
+hash = "b82878a998b254bd135cee9a5226e2bd87adf8aa8a18c06c7566336cb484237b"
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
