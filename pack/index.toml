@@ -1710,7 +1710,7 @@ hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "acdf3bcc731c6f660e4c2263bc6c5019befc39bfb964252222150e763bccf860"
+hash = "7c0f9726563c1830528ec5444b152eff74d2099f9e8fff0380371a0bf9441fe1"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2666,7 +2666,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "e21be4f13f2804942f02dac18e6537949adfa47b8960bb8e2d19ccc1b236eda3"
+hash = "5b647ec4d87a16220451bf70166f11eeb9ae6e6c1104895fe31998f6a84529a7"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2713,6 +2713,10 @@ file = "config/kiwi-client.toml"
 hash = "56cbad400a8c23137f6eb1418018f9d471975ba7c22bc60ebec8dc0242cfb398"
 
 [[files]]
+file = "config/kleeslabs-common.toml"
+hash = "b630e660d677e22c694d5b87b5f2da9d8029e2a0ca9cbecbcdb6a774eae6e5c0"
+
+[[files]]
 file = "config/knavesneeds/server.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
@@ -2743,6 +2747,10 @@ hash = "ff4d49e8887003f08adb512551c17ad62cbc8734fe20103da590a92e5675c9e9"
 [[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "6bf43947bcfbab82b948e4aabd31fa4ba68f75a23d16c4d15e70e59ab18c00c3"
+
+[[files]]
+file = "config/lightingwand-common.toml"
+hash = "f9e54af43dbea22febb0cfb1257bf62df68cc3d0702dc4bcb6e8175ab0a9e1fc"
 
 [[files]]
 file = "config/lithium.properties"
@@ -2807,6 +2815,10 @@ hash = "156be9d53f7f4943b3ab7bc960930054431ff638f23b9eed0a556b0046641c91"
 [[files]]
 file = "config/manaliquidizer.toml"
 hash = "425cdb66244e42769788b183bd17f95f0457ff0a41508c604095c522199336c8"
+
+[[files]]
+file = "config/memorysweep-common.toml"
+hash = "0f0874bd74dfd184c9131ac56520f87667edd4f01fc92c43b11b33b2c574bb6e"
 
 [[files]]
 file = "config/minieffects-client.toml"
@@ -3343,6 +3355,10 @@ file = "config/repurposed_structures-forge/modded_loot.toml"
 hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
 
 [[files]]
+file = "config/resourceful-config-web.json"
+hash = "976a5e37c2134360ac916090e814e55d51cbbb0dfd2a8ff89c49bd98c8f21d34"
+
+[[files]]
 file = "config/respiteful-common.toml"
 hash = "a4cd339aabcfc2b2dd64eb8c8725e86323e98536191d21f7c066a874e65d7af8"
 
@@ -3377,6 +3393,10 @@ hash = "f230f35153317b9aeceb9b8794abdd5fc6ab1e6f4f5dbc3f107fe7fe8ed4f026"
 [[files]]
 file = "config/scuba_gear-common.toml"
 hash = "11b550edb00f8c3274f0b02e9e43ba17c8343dca4f07bdcfc695075d73203076"
+
+[[files]]
+file = "config/seasonals-common.toml"
+hash = "405a1fd47de7572ceffeba414ef9f3ae7f3c2e6533b3962ec95d08da42e429bd"
 
 [[files]]
 file = "config/sebastrnlib-client.toml"
@@ -3796,7 +3816,7 @@ hash = "80ff0df5f6599013f35a26319003be44079694964155bc7593bbe61e77a30b53"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "ad9fa38bf96db7fc6ed79dbf87ff79d4d7cb9842a93eac1310e72f6b94b1bd7e"
+hash = "2a0bdaba0bc025929e00188af38baef73f974aad9f6f1b97c842a21f9c970e2d"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -3805,6 +3825,10 @@ hash = "5efa86db546b6f7773e0a20c9b8a2bba6053ecbc9ef91435b3bae03059aaf555"
 [[files]]
 file = "config/towns_and_towers/structure_rarity.json5"
 hash = "4d0ed3b01b6d8fd2b58c96fcf2209a901743500e178fbb6c65c442e4f61666e1"
+
+[[files]]
+file = "config/trade_cycling-client.toml"
+hash = "3c0d8ffdd06ce88b843ce1d94fd301da721d66ce602f4f2c584ac91ead0099de"
 
 [[files]]
 file = "config/transmog.json"
@@ -4879,6 +4903,11 @@ hash = "c3dc1a1a8bc273617b4d460895f6bd46f82d674f4fe030bfc6c55431f5a07a7d"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight-forge.pw.toml"
+hash = "5ddab96894fe36b187dfccbfae3b12d25e6b7ec7ee268b289572248e9252ff13"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "aa54382346f04b3a47a98b672a2d968e89025d5758997b197f5e47e8975017d2"
 metafile = true
@@ -4971,6 +5000,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "ec521b75f349e33fdb1f6b0ef9770d53e9c1bbace1a2d0565e4caff851b8798f"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "de6251a1747fea9b82cdc05dcc5a84b3182dc7bde70da1d5c06f079708754981"
 metafile = true
 
 [[files]]
@@ -6022,6 +6056,11 @@ hash = "e28f5ae96aed73a5d138ca935374c8531b226845556b002558215786150a93d2"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "c6e2a0c7fb38e49759444332fa4540e64a67f3aa84f527b44a2d38ded9e5f67f"
+metafile = true
+
+[[files]]
 file = "mods/knaves-needs.pw.toml"
 hash = "412b9290fd2dca98883d4cff4b099cfe3cd88c32b5f057307ae57fda2efa19ce"
 metafile = true
@@ -6373,6 +6412,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "d389d64a279bd60ce2c7928e392b576f6720f874ef93a8c29c38adef36eeff23"
+metafile = true
+
+[[files]]
+file = "mods/memorysweep.pw.toml"
+hash = "382afe7376d9e0c049395f8ef52abdc0f8004213aa88036d7a124cf6453c71dc"
 metafile = true
 
 [[files]]
@@ -7454,6 +7498,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "b3ad983095f5d490a68385af668eaee53b3046b40eedebc1319c1128e360b636"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "12f4ceee8a70c672c7e422e247cdd649b1e5576f25ea3f17e5184f05db805607"
 metafile = true
 
 [[files]]
