@@ -1,5 +1,0 @@
-shootProjectile = true
-energyPerUse = 50
-repairRecipe = true
-wandDurability = 255
-defaultLightColor = -683
