@@ -1926,7 +1926,7 @@ hash = "2286e2f3700f2dc6a1aa8c95787f60a112808665358046c72084256c21c062d3"
 
 [[files]]
 file = "config/doespotatotick-common.toml"
-hash = "5c7b5a936cd910289c4f1ab1005e4cc815db1e7a5b5a7485194a7dd7c74a567c"
+hash = "6fe2d5c56d7dafe89558906eb341b60395e12aef866b624464c4be496674f585"
 
 [[files]]
 file = "config/doggytalents-client.toml"
