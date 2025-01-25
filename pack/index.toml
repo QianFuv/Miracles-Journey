@@ -1850,7 +1850,7 @@ hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "d964cf0e996ee1da3decddf72a12a5663cd74e67f9101fc8d388248477853781"
+hash = "acdf3bcc731c6f660e4c2263bc6c5019befc39bfb964252222150e763bccf860"
 
 [[files]]
 file = "config/create-client.toml"
@@ -5160,6 +5160,10 @@ hash = "09b5cafc49bc591b0aad21a041ede29bb369667f5f3b0c5403818e739903ab9d"
 metafile = true
 
 [[files]]
+file = "mods/caxton-0.6.0-alpha.5+hexgloop-fix+1.19.2-FORGE.jar"
+hash = "0e305921d466ebca014f7e112b601dd1156825f23a1f88b933401ad8d2146600"
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "852c931e7647ec0c21e1b8c85a14f01e9770b4f883bcc1fd99ec8c40bab4b23e"
 metafile = true
@@ -8352,7 +8356,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "04fcd8e4dd085fc0fc7692316a50461a8760ea2db587ec0596107a080bacb3c2"
+hash = "0833798b76fa93c68a3f4b0e24036874aa0d334a434795e832e1d3ecb745338a"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -15955,10 +15959,6 @@ file = "resourcepacks/VanillaTweaks_r578329.zip"
 hash = "961e3c1cc685e345b17fc32d9911341dc15c608c6b34dcefd8910b900206df09"
 
 [[files]]
-file = "resourcepacks/XPlus Font Pack v1.0.0.zip"
-hash = "807f39c92debddbb321532398934e07dbb90ec225ccbbb6fe81af2794a2243b0"
-
-[[files]]
 file = "resourcepacks/[1.19-1.20] Yuushya Release 0.18.2.zip"
 hash = "c66d6e4c994c3c407822f67045835ddf680b7791d63213d2a650e5fb5984587b"
 
@@ -16089,6 +16089,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/gui-retextures.pw.toml"
 hash = "13e70447c133417359fefdb16459686924bd569fd2049e59467a4b52a3231128"
+metafile = true
+
+[[files]]
+file = "resourcepacks/modern-font-pack-caxton-edition.pw.toml"
+hash = "e7a0d9bb40da0af73bf36b47d114170c913bbdb744c26d9a6fea0e9225a24ca2"
 metafile = true
 
 [[files]]
