@@ -1690,7 +1690,7 @@ hash = "2d181ec0bc29ad4a4f241923fa5088714f76c5c62c095ee67dd39e2fcb8aa6cd"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "02a31372b0d5cf6e2abe47e17e10d3eb5049603a6a89af7f33e2747488e1abe4"
+hash = "4033d0b6b6deb793187549bc8fd5ce3e91235d9e38b5156a5da91855fc33f842"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1710,7 +1710,7 @@ hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7c0f9726563c1830528ec5444b152eff74d2099f9e8fff0380371a0bf9441fe1"
+hash = "88a45de970140202a4669b64bf264386b94e343891f4f434725003b0263097c9"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2666,7 +2666,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "5b647ec4d87a16220451bf70166f11eeb9ae6e6c1104895fe31998f6a84529a7"
+hash = "393f33e3554692c5671900446598982b354eede5f7015e15dab7dac5b1be407c"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3812,7 +3812,7 @@ hash = "1706d6b740d204580186ad1ee8211e8d8d95e5b42bc829d25af4b1abd157b529"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "80ff0df5f6599013f35a26319003be44079694964155bc7593bbe61e77a30b53"
+hash = "07e6c18d6b6af531744330a16cb874538296d34a665fa6c9a5e6f04fd606fc50"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
@@ -4028,7 +4028,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "a5a422966efe2149dc504e933048d89784af5d7d43a0b283c4f4648a88263b79"
+hash = "8f14a1676c24af9f31ba2357f1ffb58d31d9d8280b8dbec27fc3dcfe30c7020f"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -4680,7 +4680,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c8a3d642f4d30dcfd9855cc2ec6b21fcbf5d3803b8168dcc8e1986d4afd81727"
+hash = "ae335e84244a1547f2cfce22efbc26efbe87a1c61210d004dc6039d75b2e07ff"
 metafile = true
 
 [[files]]
@@ -4899,7 +4899,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "c3dc1a1a8bc273617b4d460895f6bd46f82d674f4fe030bfc6c55431f5a07a7d"
+hash = "244c78ae862033c8b5a52469e9bcfb9688805dd0aee88530724092d3002aeb11"
 metafile = true
 
 [[files]]
@@ -5879,7 +5879,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ed58d177fa0d9ed99dca1af4707c9192458640b0e13a58d82e0b6172616ed7d6"
+hash = "3dbac9a781be22979e237dda530f97af8b69d4c64fa2fa2c74797056d7548d8e"
 metafile = true
 
 [[files]]
@@ -7303,7 +7303,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "bf82c3465a3ab900ec6960d72ecd3c11c989a89804573e2d1e6de986885adbee"
+hash = "8f42c4e88225232588b51f5448ebe81b32291363e4da717e00b61e7e856a5ecc"
 metafile = true
 
 [[files]]
@@ -7487,7 +7487,7 @@ metafile = true
 
 [[files]]
 file = "mods/touhou-little-maid.pw.toml"
-hash = "81185a534964a9ae85bed48eea2c4426f3e310eb8c4e3fccc8591a989a479619"
+hash = "74dd9d33ac770f09085e49bf0c4f7958cb79f2602c3f9f864c40612c0203f387"
 metafile = true
 
 [[files]]
@@ -7746,12 +7746,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "7db098c88125c292381d3efd3350c489b4f1ec8c43be1e04aaa86380a86792fd"
+hash = "9956fc4e88c35b9cd0c9399c3441600514aea0cd2a4e2f4fed17db50dd8b2f8c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "57fb3809884df16ceb0cd2433052fae729f6af769c9ecb22d5b1e7718413dbbe"
+hash = "0d6779edde0dd20033218b33157dc17a5c6c495ae0d9c90d545ea9ec1eb9bc60"
 metafile = true
 
 [[files]]
@@ -7866,7 +7866,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0833798b76fa93c68a3f4b0e24036874aa0d334a434795e832e1d3ecb745338a"
+hash = "1f4694455ad5ab5c738790c0feca460641427e81452b1a555ad060f9f9a77e33"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"

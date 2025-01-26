@@ -64,6 +64,18 @@
 	#Recognition distance of a maid under the gun task, Suitable for pistols and shotguns
 	#Range: 0 ~ 512
 	MaidGunNearDistance = 32
+	#The max range of maid's bow attack
+	#Range: 8 ~ 192
+	BowRange = 48
+	#The max range of maid's crossbow attack
+	#Range: 8 ~ 192
+	CrossbowRange = 64
+	#The max range of maid's danmaku attack
+	#Range: 8 ~ 192
+	DanmakuRange = 64
+	#The max range of maid's trident attack
+	#Range: 8 ~ 192
+	TridentRange = 48
 
 [chair]
 	#Chair can switch models freely

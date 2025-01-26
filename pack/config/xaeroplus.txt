@@ -6,7 +6,6 @@
 [XP] Persist Dim Switch:true
 [XP] Disable Xaero Internet Access:false
 [XP] Waystone Waypoint Set:false
-[XP] Show Render Distance WorldMap:false
 [XP] WorldTools Highlights:true
 [XP] Save/Load Portals to Disk:true
 [XP] Cross Dim Cursor Coords:false
@@ -84,7 +83,6 @@
 [XP] Fix Main Entity Dot:true
 [XP] Liquid NewChunks Only Y > 0:false
 [XP] 2b2t Highways Opacity:100.0
-[XP] Show World Border WorldMap:false
 [XP] PortalSkip Portal Radius:15.0
 [XP] Save/Load OldChunks to Disk:true
 [XP] Always Render Player Icon:true
