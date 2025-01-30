@@ -2,7 +2,7 @@
   "schemaVersion": 7,
   "currentVersion": "0.2.0",
   "modpackName": "MiraclesJourney",
-  "modpackAuthor": "盈月工作室",
+  "modpackAuthor": "浅风 / QianFuv",
   "modpackReleaseType": "stable",
   "updateCheckerId": "https://proxy.qianfuv.fun/proxy/https://raw.githubusercontent.com/QianFuv/Miracles-Journey/refs/heads/main/pack/",
   "advanced": {
@@ -12,6 +12,7 @@
     "addButton": true,
     "mainMenuCreditsIntegration": true,
     "retroWarning": false,
+    "markdownRenderer": "builtin:basic",
     "modpackMods": []
   }
 }

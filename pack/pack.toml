@@ -1,12 +1,12 @@
 name = "Miracles-Journey"
 author = "QianFuv"
-version = "0.2.1"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a8fdb8612a14ad0f0fe0a77a24e1be02aa4aaf38c25e357175335dc794364a72"
+hash = "b917bf96899dea0b43591b2a9952fac48230f961d880d72ca925deb80b789971"
 
 [versions]
 forge = "43.4.12"

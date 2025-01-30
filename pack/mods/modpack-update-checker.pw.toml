@@ -1,13 +1,13 @@
 name = "Modpack Update Checker"
-filename = "modpack-update-checker-1.19.2-forge-0.15.3.jar"
+filename = "modpack-update-checker-1.19.2-forge-0.15.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "72189a385e9a4957ffdb57781786a017ce97c4b3"
+hash = "450c2b85b0bf204aafe516b4beaddca926907ee4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5929923
+file-id = 6126246
 project-id = 847414

@@ -1330,7 +1330,7 @@ hash = "fd282d494f12199fb5dffaa7b661f248099b2e7c30d6dcbadfa4988abcccdca1"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "39796976790685312c64fe1325f121b68672c79cd06a0c6da2e1e999b4418f88"
+hash = "e83f0405cd65c6b5a1ce953b26b208590ba82fbc66a12f2aa35d02327dbc7fbc"
 
 [[files]]
 file = "config/berrfect-common.toml"
@@ -1698,19 +1698,19 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
+hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
+hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "c60e638f56d9e9985565f43f5146b949a85b3d7f603c699de74a5eb1298e6270"
+hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "88a45de970140202a4669b64bf264386b94e343891f4f434725003b0263097c9"
+hash = "34b54ed5c94cef0685a88b70f79830f03d194b8ca948dcf1a90bbf97a103f226"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2218,7 +2218,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "318d9ce5671403c80119a954ef9ade033b3a9a24790ce216c81a3f1b18f009b4"
+hash = "655ab815004d272a5e66b55c679ff3791b198582f4c132024e5e6b21e28aa6bf"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2858,7 +2858,7 @@ hash = "a7c7e0ff18bcd6772998ff7b177626b93f4a6c948ce7462366cc8a58b3b71efe"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "456ac43679325e82386d753fe4930b7656f1ef4b06be5535c191fb9b76340914"
+hash = "5842d1a6d7ba786372b86f79212791e4193b0de0ff60818145d2adc9f6fe7446"
 
 [[files]]
 file = "config/modulargolems-common.toml"
@@ -6461,7 +6461,7 @@ metafile = true
 
 [[files]]
 file = "mods/modpack-update-checker.pw.toml"
-hash = "98894828e6a2074f469ad4fff14789df964326ef5b740c7a3d0b2ea3296b41ac"
+hash = "8774bfe7b7b7028f9171a60735fee9b2c94e041ac5d15495a7a540147992d5c8"
 metafile = true
 
 [[files]]
@@ -7866,7 +7866,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1f4694455ad5ab5c738790c0feca460641427e81452b1a555ad060f9f9a77e33"
+hash = "60e1bc85aaddd7b2833be5e9c35bfdf066fdfcfa0a9f4356a1a3951fb3d09541"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
