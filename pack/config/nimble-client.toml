@@ -1,8 +1,8 @@
 enable = true
 transitionSpeed = 1.0
-nimbleMounting = true
+nimbleMounting = false
 mountingEntityBlocklist = []
-nimbleElytra = true
+nimbleElytra = false
 elytraRollScreen = true
 elytraRollStrength = 20
 elytraTickDelay = 10

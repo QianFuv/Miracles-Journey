@@ -2958,7 +2958,7 @@ hash = "5abdafb3d74320ee4e0873838e829a4ce640876e87a6bb2efebf4b1f87656c5f"
 
 [[files]]
 file = "config/nimble-client.toml"
-hash = "adda60020d3230506c11e6aeab9c0e0bca4a7281448ec00c05f9f9bb32fc70d5"
+hash = "d4fe7646efeaca7ec9d05ab426138cdb31abdf9e54cd9ac7e2c1bc76db13b971"
 
 [[files]]
 file = "config/notablebubbletext-client.toml"
@@ -7866,7 +7866,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "60e1bc85aaddd7b2833be5e9c35bfdf066fdfcfa0a9f4356a1a3951fb3d09541"
+hash = "ad6f07cb0b0965b183a0411e4618aa43384d198aa61638453eb4fc1fa6c2a6ab"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
