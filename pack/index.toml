@@ -5703,7 +5703,7 @@ metafile = true
 
 [[files]]
 file = "mods/grappling_hook_mod-1.19.2-1.19.2-v13.jar"
-hash = "023d16d58e672e9556f3b3498e4236080597418cb717775dfe8790b301f09376"
+hash = "6afe7b1a1185fd7f078d89239a0a48363e1f09e7cf0332af36389638a83a6619"
 
 [[files]]
 file = "mods/grass-overhaul.pw.toml"
