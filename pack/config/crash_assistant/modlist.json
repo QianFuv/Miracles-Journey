@@ -855,9 +855,9 @@
     "modId": "dragonfight",
     "version": "1.19.2-4.4"
   },
-  "dragonmounts-1.19.2-1.2.3-beta.jar": {
+  "dragonmounts-1.19.2-1.2.4.jar": {
     "modId": "dragonmounts",
-    "version": "1.2.3-beta"
+    "version": "999"
   },
   "DrawersTooltip-1.19.2-forge-6.0.2.jar": {
     "modId": "drawerstooltip",

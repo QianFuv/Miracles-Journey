@@ -1710,7 +1710,7 @@ hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "34b54ed5c94cef0685a88b70f79830f03d194b8ca948dcf1a90bbf97a103f226"
+hash = "2b21863f9581e6de5be0568d5b87923e656ce3e135493f3de02908d1c65bbad0"
 
 [[files]]
 file = "config/create-client.toml"
@@ -5225,9 +5225,8 @@ hash = "4fba1dad8c8d6d9eb00842a3b4cff96e5c423f85a1351b1975714cead1b1a5be"
 metafile = true
 
 [[files]]
-file = "mods/dragon-mounts-legacy.pw.toml"
-hash = "6ce9ab1fb772604d414ce2a1dad11989ed97a3a239dc6078e6d42be276143d86"
-metafile = true
+file = "mods/dragonmounts-1.19.2-1.2.4.jar"
+hash = "24ec5e2d6f0635449cfd158c0df148dbcb2dcccff61433cb8e06a098178c3f5e"
 
 [[files]]
 file = "mods/drawers-tooltip.pw.toml"
