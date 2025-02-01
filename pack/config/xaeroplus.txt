@@ -15,6 +15,7 @@
 [XP] Roof Snow Opacity:10.0
 [XP] WorldTools Highlights Opacity:100.0
 [XP] Nether Cave Fix:true
+[XP] Window Update Interval:10.0
 [XP] Portal Highlights Opacity:100.0
 [XP] New Chunks Render Inverse:false
 [XP] Highlight Shader:true

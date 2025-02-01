@@ -1690,7 +1690,7 @@ hash = "2d181ec0bc29ad4a4f241923fa5088714f76c5c62c095ee67dd39e2fcb8aa6cd"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "4033d0b6b6deb793187549bc8fd5ce3e91235d9e38b5156a5da91855fc33f842"
+hash = "cc91f5d2b18bc3cdb36f88efa1fc36cf6f0bdb98bf6bd19cca597738c7a3150e"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1710,7 +1710,7 @@ hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "2b21863f9581e6de5be0568d5b87923e656ce3e135493f3de02908d1c65bbad0"
+hash = "607165e267bd6b08a50c54e67e4583920327201c2be72851a116e026da76a4a4"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2078,7 +2078,7 @@ hash = "fd7c91aae912db7c7043111006750d19b95f9ae0cdb61a3d2c160100e5e40e97"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
-hash = "215c7bdd2a4118cddcaf58e54504fb23046bc85a033a759975d3417da0317fd6"
+hash = "dc4d1e59d465205609899063aa3b6300765366a1b9dbc052f600f27a602869fa"
 
 [[files]]
 file = "config/exoticbirds-common.toml"
@@ -2974,7 +2974,7 @@ hash = "26ec7172798cc3f64bab99bcbafbbb3baca4a4d397ac12f28b41132264ac8457"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "9166c1f1833d49ce17992d22ca31f3a32fcc2d5869671147f987a7988c46e831"
+hash = "3ec885fb41a30c1867d69a93fac10e372454a9acac1d3cbebb4eb1bb53251138"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -4028,7 +4028,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "8f14a1676c24af9f31ba2357f1ffb58d31d9d8280b8dbec27fc3dcfe30c7020f"
+hash = "0c72eb38b79eac1005b03ddd9199eaaf323c83284016b61e2c0474b66caa805f"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -4157,10 +4157,6 @@ hash = "c92894c542488a5e7e5c978a4845b816b5a941f3548b49fed09b3f9b4334ce92"
 [[files]]
 file = "mods/Enderite-CJ-forge-mc1.19x-1.4.5.jar"
 hash = "18d656135302bbec8d5226c6df53a3d6fe6d49a8a2b181a98a64da6643df8dbe"
-
-[[files]]
-file = "mods/EuphoriaPatcher-1.5.1-r5.4-forge.jar"
-hash = "a9847e228f83c492e540c4730ed456a06112e5cd362ab759065c8d130faebbc5"
 
 [[files]]
 file = "mods/MyNethersDelight-1.19-1.7.jar"
@@ -4641,7 +4637,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "ac88dfe90112d0c7dfc86da24e839bbddd62a238f605d8703583ef2b8cedac0c"
+hash = "d2e5b3b3e9f460912266731c3fd81ff7994d1f8fcb5f5469977db149bb6e043b"
 metafile = true
 
 [[files]]
@@ -4670,7 +4666,7 @@ metafile = true
 
 [[files]]
 file = "mods/champions-unofficial.pw.toml"
-hash = "75ce4a9bbb2496b35da22a6711bc174f9be2d7e3209910ec82553445ffd70bfd"
+hash = "a231701ef46d06ad7530ff68fa2f9ea4609c5c186322a4b0e1fba444799c78da"
 metafile = true
 
 [[files]]
@@ -4899,7 +4895,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "244c78ae862033c8b5a52469e9bcfb9688805dd0aee88530724092d3002aeb11"
+hash = "fe6707bffb23bb6638786c7b5d42f0471a5b5d28b06543d0fdf1303d2808863c"
 metafile = true
 
 [[files]]
@@ -5414,6 +5410,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "0e437bbc3cd99cdfb2e9537e9bfbc1057420a3d228088efce000443277497b5f"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "a4d3d0c9423d5fb696fc9de76e6ed4a1a0655235f058d4f3a1d24d4048a18f03"
 metafile = true
 
 [[files]]
@@ -7745,7 +7746,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "9956fc4e88c35b9cd0c9399c3441600514aea0cd2a4e2f4fed17db50dd8b2f8c"
+hash = "803714ba9620b536f40b89b93476cd3e084b0ee52330132117a1104435184b7a"
 metafile = true
 
 [[files]]
@@ -15648,19 +15649,19 @@ file = "shaderpacks/Bliss-Shader-24-11-17.zip"
 hash = "5c79c8ca72107dac6425711c21107ad21eca1e5945776eaf8fc5a7911c6edf4c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1.zip"
-hash = "57459d40f7d949aa220ae855932fc39a30c036106fcd1e24362ec304504ab2df"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip"
+hash = "f8cdf4f9613c430ba492fb0950413afbfc40b8724f1515d1929762835e338297"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.1.zip.txt"
-hash = "977b378199bf6e0b1afcd4403a228ca9bed754fefde29d6d52dfbb49da37f1a2"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip.txt"
+hash = "9fc51ce1d985409a3a5da52ea716102eeb28c9b9a6ffc78ce86f5f182ce8eb1c"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip"
-hash = "7aeee1d44d03ac8fe9909270de4335eeb5a19ad4da6a056869e8d884d8f8d76a"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip"
+hash = "771c886f6c42355429a4f3b9c5f63206768e2b1595b4fa9851e43c9f14f8de7e"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.1.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip.txt"
 hash = "a571ddccbc2beffe782718aa64cc8ca4677af541d41ca95baccc4bc7d1ce4b76"
 
 [[files]]
