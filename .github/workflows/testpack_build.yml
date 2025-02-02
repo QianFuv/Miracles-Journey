@@ -53,3 +53,14 @@ jobs:
             --client_secret "$CLIENT_SECRET" \
             --file "$FILE_PATH" \
             --parent_id 6552398
+
+      - name: 7. 创建空目录并解压
+        run: |
+          mkdir -p unzipped
+          unzip -O UTF-8 "$FILE_PATH" -d unzipped/
+
+      - name: 6. 上传至 Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: $(basename "$FILE_PATH" .zip)
+          path: pack/unzipped/
