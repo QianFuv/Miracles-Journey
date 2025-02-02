@@ -7298,11 +7298,6 @@ hash = "df48ff6ede70406ba42fa796d007066770d7c17a30e11af27a1c31b86ea5f73f"
 metafile = true
 
 [[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "8f42c4e88225232588b51f5448ebe81b32291363e4da717e00b61e7e856a5ecc"
-metafile = true
-
-[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "d324dbfd98e48421a6f7119fb62e51870108bc3262f4a3becfa7fb377aa1f4ed"
 metafile = true
