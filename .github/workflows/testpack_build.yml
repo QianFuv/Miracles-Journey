@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     defaults:
       run:
         working-directory: ./pack
@@ -32,16 +32,24 @@ jobs:
         id: export
         run: |
           packwiz curseforge export
-          echo "PACK_NAME=$(ls *.zip | sed 's/.zip$//')" >> $GITHUB_ENV
-          cd .. && echo "SHORT_SHA=$(git log -1 --format="%h" -- pack/)" >> $GITHUB_ENV
 
-      - name: 5. 创建空目录并解压
+      - name: 5. 重命名整合包文件
         run: |
-          mkdir -p unzipped
-          unzip -O UTF-8 "${{ env.PACK_NAME }}.zip" -d unzipped/
+          original_name=$(ls *.zip | sed 's/.zip$//')
+          cd .. && short_sha=$(git log -1 --format="%h" -- pack/)
+          new_name="${original_name}-${short_sha}"
+          cd pack && mv "${original_name}.zip" "${new_name}.zip"
+          echo "FILE_PATH=${new_name}.zip" >> $GITHUB_ENV
 
-      - name: 6. 上传至 Artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ env.PACK_NAME }}-${{ env.SHORT_SHA }}
-          path: pack/unzipped/
+      - name: 6. 上传至 123 云盘
+        env:
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          FILE_PATH: ${{ env.FILE_PATH }}
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python3 ../.github/scripts/upload.py \
+            --client_id "$CLIENT_ID" \
+            --client_secret "$CLIENT_SECRET" \
+            --file "$FILE_PATH" \
+            --parent_id 6552398
