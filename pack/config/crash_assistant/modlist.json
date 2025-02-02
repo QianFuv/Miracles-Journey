@@ -391,9 +391,9 @@
     "modId": "casualness_delight",
     "version": "1.19.2-0.4"
   },
-  "cataclysm_spellbooks-1.1.1-1.19.2-all.jar": {
+  "cataclysm_spellbooks-1.1.2-1.19.2-all.jar": {
     "modId": "cataclysm_spellbooks",
-    "version": "1.1.1-1.19.2"
+    "version": "1.1.2-1.19.2"
   },
   "catalogue-1.7.0-1.19.2.jar": {
     "modId": "catalogue",
@@ -423,9 +423,9 @@
     "modId": "charmofundying",
     "version": "6.2.1+1.19.2"
   },
-  "chat_heads-0.13.11-forge-1.19.2.jar": {
+  "chat_heads-0.13.12-forge-1.19.2.jar": {
     "modId": "chat_heads",
-    "version": "0.13.11"
+    "version": "0.13.12"
   },
   "ChatImage-1.3.0+1.19+forge.jar": {
     "modId": "chatimage",
@@ -771,9 +771,9 @@
     "modId": "deathquotes",
     "version": "3.3"
   },
-  "deep_aether-1.19.2-1.0.2.jar": {
+  "deep_aether-1.19.2-1.0.3.jar": {
     "modId": "deep_aether",
-    "version": "1.19.2-1.0.2"
+    "version": "1.19.2-1.0.3"
   },
   "deeperdarker-forge-1.19.2-1.2.2.jar": {
     "modId": "deeperdarker",
