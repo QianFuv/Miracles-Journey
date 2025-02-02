@@ -4633,7 +4633,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "d2e5b3b3e9f460912266731c3fd81ff7994d1f8fcb5f5469977db149bb6e043b"
+hash = "abfffbc7550b27a74ddac74a66cb002a8d71dffe93862c29866038f0585ae0af"
 metafile = true
 
 [[files]]
@@ -4672,7 +4672,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "ae335e84244a1547f2cfce22efbc26efbe87a1c61210d004dc6039d75b2e07ff"
+hash = "f7e61deff9637472910b72dc9e8e5e1cc915b78bdd88992e0676d379f33c1175"
 metafile = true
 
 [[files]]
@@ -5129,7 +5129,7 @@ metafile = true
 
 [[files]]
 file = "mods/deep-aether.pw.toml"
-hash = "d9e7087f4976814974efad8ce735351cf884a34902f6318a5c63c2800a46bbf8"
+hash = "4296cf325317647c422d5d4697cd829f5d2c61576c6e80e58287ac8adc1cbc3e"
 metafile = true
 
 [[files]]
