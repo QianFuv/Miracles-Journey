@@ -1,4 +1,4 @@
-/.vscode
+/.github/scripts/__pycache__
 
 /pack/patchouli_books/miracles_book/en_us/entries/bookmark.json
 /pack/sync.ffs_db
