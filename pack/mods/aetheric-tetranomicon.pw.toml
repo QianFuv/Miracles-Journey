@@ -1,13 +1,13 @@
 name = "Aetheric Tetranomicon"
-filename = "aetheric_tetranomicon-1.1.2-1.19.2.jar"
+filename = "aetheric_tetranomicon-1.2.0-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6c85e0e005be6545a648f4f220d4a6143bf4df9"
+hash = "44c7d1a41bcb654b3042a3f8662d8561f8d39102"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5233587
+file-id = 6147223
 project-id = 966902

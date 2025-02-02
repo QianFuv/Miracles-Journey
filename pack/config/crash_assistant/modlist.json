@@ -51,9 +51,9 @@
     "modId": "aether_protect_your_moa",
     "version": "1.19.2-1.0.0-forge"
   },
-  "aetheric_tetranomicon-1.1.2-1.19.2.jar": {
+  "aetheric_tetranomicon-1.2.0-1.19.2.jar": {
     "modId": "aetheric_tetranomicon",
-    "version": "1.1.2-1.19.2"
+    "version": "1.2.0-1.19.2"
   },
   "alexsdelight-1.4.1.jar": {
     "modId": "alexsdelight",
@@ -1375,7 +1375,7 @@
     "modId": "illageandspillage",
     "version": "1.2.4"
   },
-  "illager_additions-1.19-0.1.18.5-beta.jar": {
+  "illager_additions-1.19-0.1.18.5-fixed.jar": {
     "modId": "illager_additions",
     "version": "1.19-test-build"
   },
@@ -1556,9 +1556,9 @@
     "modId": "l2library",
     "version": "1.10.0"
   },
-  "L_Enders_Cataclysm-2.39-1.19.2.jar": {
+  "L_Enders_Cataclysm-2.46-1.19.2.jar": {
     "modId": "cataclysm",
-    "version": "2.39"
+    "version": "2.46"
   },
   "labels-1.19.2-1.10.jar": {
     "modId": "labels",
@@ -2527,10 +2527,6 @@
   "structure_gel-1.19.2-2.7.3.jar": {
     "modId": "structure_gel",
     "version": "2.7.3"
-  },
-  "structure_layout_optimizer-forge-1.0.10.jar": {
-    "modId": "structure_layout_optimizer",
-    "version": "1.0.10"
   },
   "structureessentials-1.19.2-3.2.jar": {
     "modId": "structureessentials",

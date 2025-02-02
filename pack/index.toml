@@ -1698,19 +1698,19 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
+hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
+hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "87e632c776b70978cab4037269486b6c23a5e9609d3f6238da8cf73a0e1c171e"
+hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "607165e267bd6b08a50c54e67e4583920327201c2be72851a116e026da76a4a4"
+hash = "047da17623c2954b7b8f50b4e42ce242ee0e0abc08f524089d344de96e17c1b7"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2114,7 +2114,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "7e560e96eddcc31fab1520a29ffa8ed6160a109ff87f7561f1f98325a922cc98"
+hash = "fc844fa1db0fd5c32eb4ac77a34f8a9f7ee7741f5f9c9a335c048f3b5255a113"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -4067,16 +4067,12 @@ file = "config/zillagersweararmor-common.toml"
 hash = "19b06fed62b2e7ac87f0dbad27ee5921e469cc2d10b0b3231a0d02dd838327ee"
 
 [[files]]
-file = "defaultconfigs/champions-affixes.toml"
-hash = "85ad8ec88504c685ff51af24291af2f5db5502d124ea60556e88c3ed10f62fef"
-
-[[files]]
 file = "defaultconfigs/champions-entities.toml"
-hash = "7d1c82a41a2fd4b59db6c8cbb466b89389d59e8874d831bf2987541a5fb697f4"
+hash = "05109e7879bb5cda5ec61939a050b17734ebdae3d53729a401f59d16a32b7823"
 
 [[files]]
 file = "defaultconfigs/champions-ranks.toml"
-hash = "293be7b70378dc89260db97d2ab02161d31aad05357562feac9a3dafe47b3670"
+hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 
 [[files]]
 file = "defaultconfigs/ensorcellation-server.toml"
@@ -4230,7 +4226,7 @@ hash = "b13fd734cfe1230562f015e008ffa1e92c4a60da144117b2be71fc6b804bfd8f"
 
 [[files]]
 file = "mods/aetheric-tetranomicon.pw.toml"
-hash = "9d309cea1dde40e68724a995178e0d92c04163e6f27993c7851770d2ccc8d9b5"
+hash = "705ba34eb34fcd5afbb8f626205d489eb8d4b97423faa90803ea04ceb5849585"
 metafile = true
 
 [[files]]
@@ -5869,7 +5865,7 @@ metafile = true
 
 [[files]]
 file = "mods/illager-additions.pw.toml"
-hash = "e8872e6307114fb55dd5c7abc79de570f618a5dad3b4f4702b2f870ba44f9be4"
+hash = "ca92bfb70b99d26554aec1f2471c4e74e63bd2bec0e32907ba8b5fc90326a0dd"
 metafile = true
 
 [[files]]
@@ -6147,7 +6143,7 @@ metafile = true
 
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
-hash = "53bc0c6fb1d65ac8bd8d972a5487ea4727bc8bed6ddcd468d719514a63b23449"
+hash = "a9d933779a33e3c194d2ee2a9dfed5331f382d9d23e7c9f050c144e00c029ce0"
 metafile = true
 
 [[files]]
@@ -7866,7 +7862,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ad6f07cb0b0965b183a0411e4618aa43384d198aa61638453eb4fc1fa6c2a6ab"
+hash = "bc08f46973d3d8b5019372e36b15a131f29d7b7cbee6da855696bff1962b57db"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
