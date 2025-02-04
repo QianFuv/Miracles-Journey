@@ -1670,7 +1670,7 @@ hash = "9c4e1c84d2cd936b850b7d69ab97e4b617e464551cc3ce44aeb0aaed4eb6c6c5"
 
 [[files]]
 file = "config/copycats-common.toml"
-hash = "5d7b3cbf16b3d267bb85da4ee62f189de6127e2de89f128daf4308ccd90b28e9"
+hash = "3c68e6b3e15c236a627ca163cd7592f048c2cef6233b944dbd7d8a5941f05dfe"
 
 [[files]]
 file = "config/corn_delight-common.toml"
@@ -1710,7 +1710,7 @@ hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a90dcee796a0babc008b9b5ea44d8f1db0b984429d03a24949798eb446b518d9"
+hash = "c4dfb599ed193ae1fc16e5689e3920af5163c81b72e5fb9a106cacb9bdb31409"
 
 [[files]]
 file = "config/create-client.toml"
@@ -4028,7 +4028,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "0c72eb38b79eac1005b03ddd9199eaaf323c83284016b61e2c0474b66caa805f"
+hash = "27c8ec3a31f6a1a89a48929e54e9c642ab916bdf5db386de6c95620fef1dc152"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -4841,7 +4841,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "b955fb446f4cb3428faa8b643c19083cad8194ba6c9a84ff169a34207b92282e"
+hash = "4bba62e583b6bdf59f8575197c1d1b82cf759e710f82703161e8040439c67486"
 metafile = true
 
 [[files]]
@@ -4856,7 +4856,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "d6a812c57791ab5af2a796f9a20fff180e7e4554e27a308fa5cbe97d5a5dc815"
+hash = "a9d9e6145902376f581fd32b22c8d463d53a562a1d3f03bd56742b32b6678e5c"
 metafile = true
 
 [[files]]
@@ -4891,7 +4891,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "fe6707bffb23bb6638786c7b5d42f0471a5b5d28b06543d0fdf1303d2808863c"
+hash = "2efcde501e56f3f0ebd8d9a8fbbef9d2deb9df2271626bb2b69b02ca8673f2ea"
 metafile = true
 
 [[files]]
@@ -6333,7 +6333,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-stairs.pw.toml"
-hash = "4d2cfabf4f90fb571244cbef40001433670f2ae37199ee54216d2eb74c4f339f"
+hash = "c956c716cf23c3c8ed8e1b77e798acf8f7b76622f6f4e773e626c319747b5e77"
 metafile = true
 
 [[files]]
@@ -7414,7 +7414,7 @@ metafile = true
 
 [[files]]
 file = "mods/texels-paintings.pw.toml"
-hash = "96fe9e9249f67d5cff9c424feaee4a53012b8763145179b6b2384e4547c979e3"
+hash = "d0d5508b28d3fa0d6129799106da433d3cf8189efcad7fe353512315de63226e"
 metafile = true
 
 [[files]]
@@ -7528,7 +7528,7 @@ metafile = true
 
 [[files]]
 file = "mods/undergarden-delight.pw.toml"
-hash = "d2774b4e3b072ace183a90d287fb8755c017315af123e787b7015c423e7a7c15"
+hash = "6af8edf84b3fe59afdfdc1a297b8b8d5f32f45e8e2550a6c8750178fcb077fbb"
 metafile = true
 
 [[files]]
@@ -7737,7 +7737,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "803714ba9620b536f40b89b93476cd3e084b0ee52330132117a1104435184b7a"
+hash = "34c3207c577fa97e09ec3918db19274081444f6998cd4c02090c87ab1b001377"
 metafile = true
 
 [[files]]

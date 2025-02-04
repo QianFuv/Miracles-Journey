@@ -1,13 +1,13 @@
 name = "Undergarden Delight (A Farmer's Delight Add-on)"
-filename = "undergarden_delight_1.0.0_forge_1.19.2.jar"
+filename = "undergarden_delight_1.0.1_forge_1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f676bff1164d31b63384fb3f9fb112ecb8450670"
+hash = "741a88c0fdbbd587ba9b704cd1e2c012dc418e7d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5023537
+file-id = 6152519
 project-id = 960662

@@ -1,13 +1,13 @@
 name = "XaeroPlus"
-filename = "XaeroPlus-2.25.3+forge-1.19.2-WM1.39.2-MM25.0.0.jar"
+filename = "XaeroPlus-2.26+forge-1.19.2-WM1.39.2-MM25.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1147cf856e5263eff13fd018c50dd2290a952e51"
+hash = "6e79b1b7f673d35d004735dbbc4edd5f01cdae69"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6143964
+file-id = 6155296
 project-id = 866084

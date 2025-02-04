@@ -559,9 +559,9 @@
     "modId": "copperoverhaul",
     "version": "22.10.11"
   },
-  "copycats-2.1.4+mc.1.19.2-forge.jar": {
+  "copycats-2.2.0+mc.1.19.2-forge.jar": {
     "modId": "copycats",
-    "version": "2.1.4+mc.1.19.2-forge"
+    "version": "2.2.0+mc.1.19.2-forge"
   },
   "corn_delight-1.0.3-1.19.2.jar": {
     "modId": "corn_delight",
@@ -575,9 +575,9 @@
     "modId": "corpse",
     "version": "1.19.2-1.0.17"
   },
-  "corpsecurioscompat-1.19.2-Forge-2.0.1.jar": {
+  "corpsecurioscompat-1.18.x-1.20.x-Forge-2.1.0.jar": {
     "modId": "corpsecurioscompat",
-    "version": "2.0.1"
+    "version": "2.1.0"
   },
   "cosmoslibrary-1.19.2-8.2.2.0-universal.jar": {
     "modId": "cosmoslibrary",
@@ -599,9 +599,9 @@
     "modId": "craftingautomat",
     "version": "1.2.3"
   },
-  "crash_assistant-forge-1.3.2.jar": {
+  "crash_assistant-forge-1.3.4.jar": {
     "modId": "crash_assistant",
-    "version": "1.3.2"
+    "version": "1.3.4"
   },
   "cratedelight-24.12.27-1.19-forge.jar": {
     "modId": "cratedelight",
@@ -1780,9 +1780,9 @@
     "modId": "mcwpaintings",
     "version": "1.0.5"
   },
-  "mcw-stairs-1.0.0-1.19.2forge.jar": {
+  "mcw-stairs-1.0.1-1.19.2forge.jar": {
     "modId": "mcwstairs",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "mcw-windows-2.3.0-mc1.19.2forge.jar": {
     "modId": "mcwwindows",
@@ -2624,9 +2624,9 @@
     "modId": "tetrasdelight",
     "version": "1.19.2-2"
   },
-  "TexelsPaintings-forge-1.19.2-6.2.0.jar": {
+  "TexelsPaintings-forge-1.19.2-6.3.0.jar": {
     "modId": "texelspaintings",
-    "version": "6.2.0"
+    "version": "6.3.0"
   },
   "textrues_embeddium_options-0.1.1+mc1.19.2.jar": {
     "modId": "textrues_embeddium_options",
@@ -2732,9 +2732,9 @@
     "modId": "twigs",
     "version": "1.19.2-3.0.1"
   },
-  "undergarden_delight_1.0.0_forge_1.19.2.jar": {
+  "undergarden_delight_1.0.1_forge_1.19.2.jar": {
     "modId": "undergardendelight",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "UndergroundVillages-1.19.2-1.2.0.jar": {
     "modId": "underground_villages",
@@ -2892,9 +2892,9 @@
     "modId": "worldcomment",
     "version": "0.1.2+1.19.2"
   },
-  "XaeroPlus-2.25.3+forge-1.19.2-WM1.39.2-MM25.0.0.jar": {
+  "XaeroPlus-2.26+forge-1.19.2-WM1.39.2-MM25.0.0.jar": {
     "modId": "xaeroplus",
-    "version": "2.25.3"
+    "version": "2.26"
   },
   "Xaeros_Minimap_25.0.0_Forge_1.19.1.jar": {
     "modId": "xaerominimap",
