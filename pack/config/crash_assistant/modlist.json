@@ -2296,6 +2296,10 @@
     "modId": "rsrequestify",
     "version": "2.3.1"
   },
+  "rubidium-extra-0.4.19+mc1.19.2.jar": {
+    "modId": "rubidium_extra",
+    "version": "0.4.19+mc1.19.2-unknown"
+  },
   "Runelic-Forge-1.19.2-14.1.4.jar": {
     "modId": "runelic",
     "version": "14.1.4"

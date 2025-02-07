@@ -1698,19 +1698,19 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
+hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
+hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "49ae4c5a958f54986c53403a0294920d53b116fe3aa7c323e9b80c1a32e31115"
+hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c4dfb599ed193ae1fc16e5689e3920af5163c81b72e5fb9a106cacb9bdb31409"
+hash = "4838b1ea8285c153e0a5705c5d3f46816ebe523d61fa4d67d1b1e1a459305379"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3505,6 +3505,14 @@ hash = "4bda1a7c7502f04c769978d18739ca1351d0aa26c1a7ede6c07ba7abd0428d38"
 [[files]]
 file = "config/snowyspirit-common.toml"
 hash = "629a0de32a4f67da0bdfbbfeca98fe7a204dcea35184b736edfced559c77a319"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "dbe6b1c434e3d0494291a77a7ca16ada7226aaffc7ddb0d9bae3df42bcfaf7dd"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
 file = "config/solapplepie-client.toml"
@@ -7020,6 +7028,10 @@ hash = "c71a40b14a3ad77121867e82581b14656c7740d8b08ed0070353753fedc1c1fd"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra-0.4.19+mc1.19.2.jar"
+hash = "d9f8eb87a14215b55fe8d130341bb0768b5f64c1b176779938aa604f47a548c7"
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "3a39dabc1189f03cf37091154000d4fb252ac2edd1e3de6653e6d9517b561e6a"
 metafile = true
@@ -7857,7 +7869,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bc08f46973d3d8b5019372e36b15a131f29d7b7cbee6da855696bff1962b57db"
+hash = "0754f366f5dd9c2f91bd2bdc2c3f3653578464136fea9112d488742a7dbe660d"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
