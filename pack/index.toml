@@ -15648,9 +15648,8 @@ hash = "a0c5251f300b0fe5c0a3c6c9f12eef54bddfff1751cca19dcc667ec0bc723b48"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui-retextures.pw.toml"
-hash = "13e70447c133417359fefdb16459686924bd569fd2049e59467a4b52a3231128"
-metafile = true
+file = "resourcepacks/guiretextures-1.7.6.zip"
+hash = "0728bd013a0dca27a93acffc15584f34ca2d50039f5397f3db7ed5692ffc3bf5"
 
 [[files]]
 file = "resourcepacks/modern-font-pack-caxton-edition.pw.toml"
