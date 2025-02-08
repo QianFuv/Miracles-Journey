@@ -9,6 +9,11 @@ on:
 jobs:
   build:
     runs-on: self-hosted
+
+    permissions:
+      actions: write
+      contents: read
+    
     defaults:
       run:
         working-directory: ./pack
