@@ -11,6 +11,8 @@
   "nsfw": false,
   "cqCode": true,
   "checkImageUri": true,
+  "dragImage": true,
   "dragUseCicode": true,
+  "pasteImageUseCicode": true,
   "timeout": 60
 }

@@ -1,13 +1,13 @@
 name = "Loot Integrations: The Graveyard"
-filename = "lootintegrations_graveyard-1.0.jar"
+filename = "lootintegrations_graveyard-1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a623f06c73c2829ac63353460daf8911239563e7"
+hash = "3cf27e80f14f3bf295273b04c09a5179486164d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5933671
+file-id = 6170555
 project-id = 1146846

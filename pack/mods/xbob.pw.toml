@@ -1,13 +1,13 @@
 name = "Crosshair Bobbing"
-filename = "CrosshairBobbing-1.9.jar"
+filename = "CrosshairBobbing-1.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "75c623c95413e75f31d0e9d114d8b70ee4bed249"
+hash = "216bdc20b75723c4cdca48d8ccb8b4652fcb4765"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5613129
+file-id = 6159805
 project-id = 884276

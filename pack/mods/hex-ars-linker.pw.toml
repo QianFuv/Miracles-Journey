@@ -1,13 +1,13 @@
 name = "Hex-Ars Linker"
-filename = "hex_ars_link-1.19.2-0.8.0.jar"
+filename = "hex_ars_link-1.19.2-0.9.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "92011840cd3bb28fe9e1759e43a955a0ee6b5434"
+hash = "9e53623ddc24da24bc4259050ab4db268202bf2a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5982682
+file-id = 6181800
 project-id = 1134295

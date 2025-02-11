@@ -1,13 +1,13 @@
 name = "Loot Integrations: Structory & Towers"
-filename = "lootintegrations_structory-1.1.jar"
+filename = "lootintegrations_structory-1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "afa2a401416d41dc07b8e97f438ae6f510cc6b30"
+hash = "bee3624b41a31dfce6f916d8552d2a764c8b61d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5958870
+file-id = 6175710
 project-id = 1152720

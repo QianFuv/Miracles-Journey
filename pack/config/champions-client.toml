@@ -11,4 +11,13 @@
 	hudRange = 50
 	#Set to true to move the WAILA overlay underneath the champion HUD
 	enableWailaIntegration = true
+	#The affix line count of the jade compact
+	#Range: 1 ~ 20
+	lineCount = 5
+	#The Jade Star spacing, when rendering star.
+	#Range: 0 ~ 25
+	jadeStarSpacing = 2
+	#The Jade Star bottom padding, when rendering star.
+	#Range: 0 ~ 100
+	jadeStarBottomPadding = 3
 
