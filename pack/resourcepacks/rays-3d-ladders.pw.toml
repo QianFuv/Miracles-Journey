@@ -1,0 +1,13 @@
+name = "RAY's 3D Ladders"
+filename = "§9RAY's §f3D §6Ladders§8§o§k.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92f0b4d4f4e98efe2bc1b86b37f6a4e88c860afb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5894510
+project-id = 854122
