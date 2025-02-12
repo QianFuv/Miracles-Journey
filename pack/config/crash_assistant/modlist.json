@@ -1079,9 +1079,9 @@
     "modId": "fallingleaves",
     "version": "2.0.0-alpha+20221129-2000"
   },
-  "fancymenu_forge_3.4.0_MC_1.19.2.jar": {
+  "fancymenu_forge_3.4.4_MC_1.19.2.jar": {
     "modId": "fancymenu",
-    "version": "3.4.0"
+    "version": "3.4.4"
   },
   "FarmersDelight-1.19.2-1.2.4.jar": {
     "modId": "farmersdelight",
@@ -2252,9 +2252,9 @@
     "modId": "reforgium",
     "version": "1.0.12a"
   },
-  "refurbished_furniture-forge-1.19.2-1.0.8.jar": {
+  "refurbished_furniture-forge-1.19.2-1.0.9.jar": {
     "modId": "refurbished_furniture",
-    "version": "1.0.8"
+    "version": "1.0.9"
   },
   "repurposed_structures_forge-6.3.29+1.19.2.jar": {
     "modId": "repurposed_structures",
@@ -2896,13 +2896,13 @@
     "modId": "worldcomment",
     "version": "0.1.2+1.19.2"
   },
-  "XaeroPlus-2.26.1+forge-1.19.2-WM1.39.2-MM25.0.0.jar": {
+  "XaeroPlus-2.26.2+forge-1.19.2-WM1.39.2-MM25.1.0.jar": {
     "modId": "xaeroplus",
-    "version": "2.26.1"
+    "version": "2.26.2"
   },
-  "Xaeros_Minimap_25.0.0_Forge_1.19.1.jar": {
+  "Xaeros_Minimap_25.1.0_Forge_1.19.1.jar": {
     "modId": "xaerominimap",
-    "version": "25.0.0"
+    "version": "25.1.0"
   },
   "XaerosWorldMap_1.39.2_Forge_1.19.1.jar": {
     "modId": "xaeroworldmap",

@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "011cfc63fb9c91dced6f517023c410b8cc9e984dec7fbb90822444c81bb4f795"
+hash = "f83e25f4b333cd739d10609782eb658150969ac8154fdbb926fa3ebd6a830f2d"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2138,15 +2138,15 @@ hash = "0315650caee60422a4ddb4fd8bd8c975658cf6b53302e762bf6123d6e29d1a44"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
-hash = "9b4bf68c19929e2a392ebe5fdefd6b4e3fcf0f531961f72a7234723d2b635ee9"
+hash = "e5b73437c6b8853028c7c467f1d728485bb21bd05c3a599480272a4c123c84c0"
 
 [[files]]
 file = "config/fancymenu/assets/icon_16.png"
-hash = "051a77aeef5e4ec84b81c93ccc192af76ae6f0c09cc944a23d092ea1e5ab0520"
+hash = "607455232e2cab0d2b5041f1caa01869a85513dc09bdd2d9ffdfb26d719837b1"
 
 [[files]]
 file = "config/fancymenu/assets/icon_32.png"
-hash = "95be3e447c0db5c0e975bbbbaad284202cf631c4562408a8e940f9aa1a65182a"
+hash = "c9ac030a077d116766dc3ebd8e305b926f22bcce19dd9eb71c7ef8754be4bd65"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -2161,20 +2161,20 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
 
 [[files]]
-file = "config/fancymenu/customization/01.txt"
-hash = "c89a802114efce79c5a8a89015c76bc49a181a025bdb2c8f681258464e67e397"
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "cafd2151d5114ed75aa450cb8f5be389807d151371a499c527fae0881a2ac9a5"
 
 [[files]]
-file = "config/fancymenu/customization/02.txt"
-hash = "478595eee7fe5d233a2b6b49689c84a6cc98500b0b6d59cd4b213fcfd374b139"
-
-[[files]]
-file = "config/fancymenu/customization/03.txt"
-hash = "621080aa492718ea50fd37fe74b4635e36e73b25b21346de9fa375f31fb0de3b"
-
-[[files]]
-file = "config/fancymenu/customization/05.txt"
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
 hash = "75e89c9995c9e1eb3db5d696a4817ac80bbc18dc01f324fb79b3ba798afc2d67"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "6bed466c70e7b4c6b93ea8785aab33572d8846285fdbd2e234a8e761ad64e253"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "478595eee7fe5d233a2b6b49689c84a6cc98500b0b6d59cd4b213fcfd374b139"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -2654,7 +2654,7 @@ hash = "1a64044b6d4d3f5cba767a46f9139e9abb2d9c90f009c37bb6b7f1f9045c66c9"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "a50aac0c1f607f3e442bf114914639899686b973684f17579c7d13ef04927711"
+hash = "106da402d6f2d1f7136082402ed6b73bc0bd82f01f02c0811b50aa8bc9f941e7"
 
 [[files]]
 file = "config/jecharacters.toml"
@@ -5493,7 +5493,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8cc082d50cab8274566c8906d4c13aad25f9e5788cb934faad5f6cfbefa842d7"
+hash = "a387953973765526bae983f30a1e245ae40a075661e0d44ec69b777891b0c714"
 metafile = true
 
 [[files]]
@@ -6974,7 +6974,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "077350ca2156689fe38edaf8de12113f3d7db2d729390c254e688a30c481f0d7"
+hash = "874c0674603a915b4247f79f3a27d82da6d8e3eac81d0c7fcd1ceee1acf229ad"
 metafile = true
 
 [[files]]
@@ -7749,12 +7749,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "03a0c025c4a8f6e56016f74379e0d102173af626eb189fff2075e147c61a8423"
+hash = "c01cd78fab0d7166466d4f4d789e6435fc0d06797d43a82499c0e4d400ae8bc8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0d6779edde0dd20033218b33157dc17a5c6c495ae0d9c90d545ea9ec1eb9bc60"
+hash = "9dff2b407625c5974b06a05c4ca64f8ff009a25916b166b831dcfcc1f67d636f"
 metafile = true
 
 [[files]]
@@ -7869,7 +7869,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3279d92fd312e32b7380e53d502b3b17cc5f7116a16e2a97c299c8dea2bfff2c"
+hash = "5b02bde9da77c1541f389ca2951e4bc9496b37e857ce875cc5351aa7c94843e3"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
