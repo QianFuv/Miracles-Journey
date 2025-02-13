@@ -1,0 +1,13 @@
+name = "Enderite CJ Edition (Armor & Tools) [Fabric/Forge/NeoForge/Quilt]"
+filename = "Enderite-CJ-forge-mc1.19x-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33338be3f558d203d1cd145a075b955183717918"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4867320
+project-id = 845410

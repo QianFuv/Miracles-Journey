@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "f83e25f4b333cd739d10609782eb658150969ac8154fdbb926fa3ebd6a830f2d"
+hash = "bb0e897d7efd0b893e9db07bb3cba4da1871c09c1a5f2dd112518a34342d0a04"
 
 [[files]]
 file = "config/create-client.toml"
@@ -4159,18 +4159,6 @@ file = "mods/Damp-1.19.2-1.0.0.jar"
 hash = "c92894c542488a5e7e5c978a4845b816b5a941f3548b49fed09b3f9b4334ce92"
 
 [[files]]
-file = "mods/Enderite-CJ-forge-mc1.19x-1.4.5.jar"
-hash = "18d656135302bbec8d5226c6df53a3d6fe6d49a8a2b181a98a64da6643df8dbe"
-
-[[files]]
-file = "mods/MyNethersDelight-1.19-1.7.jar"
-hash = "0420f8af870ae501539c38158a71d6eacd548a6f1f004d8c0f0dcf69ef3b91c5"
-
-[[files]]
-file = "mods/NotableBubbleText-1.19.2-1.0.3.jar"
-hash = "e6c261c86be324522cedd36b10a68b6ce1657132c881a9d50ee29ddc0bf415cd"
-
-[[files]]
 file = "mods/Raided-1.19.2-0.1.4.jar"
 hash = "0473316ae561337903d4afa56a5a0cda3d8be10bc5a3dbe2b849aff17dd6abee"
 
@@ -4219,6 +4207,11 @@ hash = "ee5109051eb66ad1033501f662379b47a3c0f0da49685a0be1d0fd876ee11689"
 metafile = true
 
 [[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "920ccc957f27d58afdaf8f94c4f6ad33f752fb48f09c89eab30b1a539791f64e"
+metafile = true
+
+[[files]]
 file = "mods/aether-redux.pw.toml"
 hash = "5329f3cc78debf0582a29575cb4a0893663b356ff3625d5b61582125fac739a0"
 metafile = true
@@ -4227,10 +4220,6 @@ metafile = true
 file = "mods/aether.pw.toml"
 hash = "9068dc481b6d8359bfa4729d9101b20391dbf77f538b2f644c9da44c77d2246e"
 metafile = true
-
-[[files]]
-file = "mods/aether_protect_your_moa-1.19.2-1.0.0-forge.jar"
-hash = "b13fd734cfe1230562f015e008ffa1e92c4a60da144117b2be71fc6b804bfd8f"
 
 [[files]]
 file = "mods/aetheric-tetranomicon.pw.toml"
@@ -4507,8 +4496,9 @@ hash = "170fcd2b7443afc72c7110c2fd3c5697a09228743264d00a6ec04d87463e4773"
 metafile = true
 
 [[files]]
-file = "mods/betterdays-1.19.2-3.1.1.0-FORGE.jar"
-hash = "6b88b32e3d4d8be6bf55b23120b70d35dd1a1376be6f6aa974917a067c9e2c31"
+file = "mods/betterdays.pw.toml"
+hash = "b1212c8e3f60bd2d0d38fee270028786a77c1dd63792f3ac2843818e27f6c4c3"
+metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
@@ -5211,8 +5201,9 @@ hash = "c904cde271afcbac946a781bcf65868d1b42b4f5705165fad238f126e1090071"
 metafile = true
 
 [[files]]
-file = "mods/doapi-1.1.1.jar"
-hash = "fe0c2dbf1e854d0e54535651f2f33a0a2f250bddde372252a2586ca57a64d7f6"
+file = "mods/do-api.pw.toml"
+hash = "8e9b328fedeade590af9cbf1f945fa2e8f2d5764fff3e76ce7b45ff3b7ae9e25"
+metafile = true
 
 [[files]]
 file = "mods/doespotatotick.pw.toml"
@@ -5239,8 +5230,9 @@ hash = "ecd4c7011fac1a19c83fd4d9bdcda23a3773b7f64341fe7e643d8059dba91ce0"
 metafile = true
 
 [[files]]
-file = "mods/duckyperiphs-1.19.2-1.2.3-forge.jar"
-hash = "61088db45fbcb65238c86c65780283e5cfa7691e03b98cece5ffaa8323bfd037"
+file = "mods/ducky-periphs.pw.toml"
+hash = "92711c35fc043f4ce9da8e4edf01492ec1548bd059a7a20e0e91641e28e887c7"
+metafile = true
 
 [[files]]
 file = "mods/dumplings-delight-reload.pw.toml"
@@ -5349,6 +5341,11 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "1df30554062594ebacbc5932bc2ca4af1886aedf45f4298f7990599b4d20653f"
+metafile = true
+
+[[files]]
+file = "mods/enderite-cj-edition.pw.toml"
+hash = "8783f443174003dab56cbae9a85183bd4238e7a6308683a35ada11d9690460f1"
 metafile = true
 
 [[files]]
@@ -5715,8 +5712,9 @@ hash = "ff1c60338db46c6b032b1dcc3e055a540d161d5e8f65dbff0cd14f148e98230c"
 metafile = true
 
 [[files]]
-file = "mods/greendelights-1.0.1-1.19.2.jar"
-hash = "a2e1626231ccd2c2b7c23bd5c389adffe52ea9b1fb3141278db0ec9979564a15"
+file = "mods/green-delights.pw.toml"
+hash = "2b3264ceb6ef6b99d92b9e7ea8c74c6b9eb4ef6c7dd8fc1fc8fffd674dd3f66e"
+metafile = true
 
 [[files]]
 file = "mods/growmeal.pw.toml"
@@ -6559,6 +6557,11 @@ hash = "0e51ba3179bdf7f34fa053765af35ce7723a6ffa30b67941ea46e20a64a963a5"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "8e791c95e609a6238dfbe357be5d4c82d80c7a293a024c46e6adda0622f1f724"
+metafile = true
+
+[[files]]
 file = "mods/mysterious-mountain-lib.pw.toml"
 hash = "7dd0db9fb33ecb9f7226d81fbabb9bc6b7acda27a3fe058b24aa7b959a38f45f"
 metafile = true
@@ -6591,6 +6594,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "a0140106055732a14173b4d0973b9f8b45f04a938a3cbb9e61d16a74e78f2243"
+metafile = true
+
+[[files]]
+file = "mods/nbt.pw.toml"
+hash = "a676d6d4b44b2e8c14af9322d7c0eb2122f3981f91f79afda9eabfa8f7cb4e67"
 metafile = true
 
 [[files]]

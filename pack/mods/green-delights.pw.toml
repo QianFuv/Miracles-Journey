@@ -1,0 +1,13 @@
+name = "Green Delights"
+filename = "greendelights-1.0.1-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a70df0d4adba89a743e33201ac1291859ff53c27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5195319
+project-id = 940698

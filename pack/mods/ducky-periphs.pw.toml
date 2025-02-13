@@ -1,0 +1,13 @@
+name = "Ducky Periphs"
+filename = "duckyperiphs-1.19.2-1.2.3-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b167755a5725eb3ecbc68354dff01a5e51a6927"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4684485
+project-id = 832658
