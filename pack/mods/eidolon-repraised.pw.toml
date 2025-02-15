@@ -1,0 +1,13 @@
+name = "Eidolon : Repraised"
+filename = "eidolon_repraised-1.19.2-0.3.8.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4244eeac96ad26254b2252278510f1b71ec63db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5058501
+project-id = 870250
