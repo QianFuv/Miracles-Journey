@@ -1314,7 +1314,7 @@ hash = "5127cfc91bfb058ac7c1f10d06324f372964a1de56609cea5668a964ae3664ad"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "6d52d0179be844909b67172e17e01a3e626e7a5e9a7aa8fca76d1f60634d662b"
+hash = "0364ad5efebd85eea6bf83d1d552274875d80b92e2771bdb3b1fa0f0aa63c4b2"
 
 [[files]]
 file = "config/azurelib.json"
@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "bb0e897d7efd0b893e9db07bb3cba4da1871c09c1a5f2dd112518a34342d0a04"
+hash = "244d16baf94a61182f2882c261dcf8a710b28241a929ddec8d476091025ee2c9"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2010,7 +2010,7 @@ hash = "802d1db17dc65a2d9ce09d3177fcb9c74e2766b9304926f3e9072158e530c411"
 
 [[files]]
 file = "config/eidolon-common.toml"
-hash = "376719d51b9fa8f8aff8c7da1e6696b64dc5d77943c97f2ff091d91b100ed012"
+hash = "ea208bedfed2f122b05997b3af13b0d450e8a473914c1f0c089373166e0e5171"
 
 [[files]]
 file = "config/embeddium++.toml"
@@ -2666,7 +2666,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "393f33e3554692c5671900446598982b354eede5f7015e15dab7dac5b1be407c"
+hash = "54618455b5592ef26a14481daa45f7bb16fc1928cc1f22285fe975dd6f32b176"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2690,7 +2690,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "512702e8d1e417ef7fab410849a1dfcdb5a619f38401d3abedc7a816dea5e162"
+hash = "ed4ccb7d5e83e32ab9fbd2d742ce4f952827ba7cdaa5917cdd8ae96ad5ada8ef"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -5288,10 +5288,6 @@ hash = "a957554a0d3870e0c1e0a2dc932ff43fc30d730b67d05243f0d94d6d271f053c"
 metafile = true
 
 [[files]]
-file = "mods/eidolon-0.3.7.jar"
-hash = "b82878a998b254bd135cee9a5226e2bd87adf8aa8a18c06c7566336cb484237b"
-
-[[files]]
 file = "mods/eidolon-repraised.pw.toml"
 hash = "1119c8680a66311f9845551fe9f5169d91cc8b4ed320ca7db00c765a68f1a868"
 metafile = true
@@ -6053,11 +6049,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "c6e2a0c7fb38e49759444332fa4540e64a67f3aa84f527b44a2d38ded9e5f67f"
-metafile = true
-
-[[files]]
-file = "mods/knaves-needs.pw.toml"
-hash = "412b9290fd2dca98883d4cff4b099cfe3cd88c32b5f057307ae57fda2efa19ce"
 metafile = true
 
 [[files]]
@@ -7866,7 +7857,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5b02bde9da77c1541f389ca2951e4bc9496b37e857ce875cc5351aa7c94843e3"
+hash = "4413525180fe87a7bb5fe168bdf9d6f05230e4d88c7eb01b4cb2ab6ec1efa661"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"

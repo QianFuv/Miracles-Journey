@@ -308,6 +308,17 @@
         "value": 1024
       }
     },
+    "eidolon:chanting_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "tetra:draw_strength": {
       "enabled": false,
       "min": {
@@ -537,6 +548,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "eidolon:magic_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "tetra:ability_cooldown": {
