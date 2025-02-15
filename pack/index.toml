@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "244d16baf94a61182f2882c261dcf8a710b28241a929ddec8d476091025ee2c9"
+hash = "6c0d0d9c120c732be895dd6dd4d0274bdb020303f88a5f6493a9148881cef693"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3909,6 +3909,10 @@ hash = "db50f1cdeb8cd0ce59ed3db230632814684d9584533beee718d4c52e581e3118"
 [[files]]
 file = "config/variantsandventures.json"
 hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
+
+[[files]]
+file = "config/vaultpatcher_asm/config.json"
+hash = "9250314edd5454621997c1f396ffa15191fcf89a0fd796ce0507e6b1f8cacfe7"
 
 [[files]]
 file = "config/veinmining-client.toml"
@@ -7603,6 +7607,11 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "f841eece4d51bf765da9e056ad06641671ff7cf23762f9a2a5499646fa482041"
+metafile = true
+
+[[files]]
+file = "mods/vault-patcher.pw.toml"
+hash = "15410da1e9ba4292616120297f0d71e7e4a690cead4cb0061641e592a893acec"
 metafile = true
 
 [[files]]

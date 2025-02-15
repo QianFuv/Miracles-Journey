@@ -2776,6 +2776,10 @@
     "modId": "variantsandventures",
     "version": "1.0.6"
   },
+  "vaultpatcher-all-1.4.4+1.jar": {
+    "modId": "vaultpatcher",
+    "version": "1.4.4+1"
+  },
   "veinmining-forge-1.1.2+1.19.2.jar": {
     "modId": "veinmining",
     "version": "1.1.2+1.19.2"

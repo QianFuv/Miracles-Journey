@@ -1,0 +1,17 @@
+{
+  "mods": [],
+  "classes": [],
+  "apply_mods": [],
+  "default_language": "en_us",
+  "class_patch": false,
+  "debug_mode": {
+    "is_enable": false,
+    "output_format": "<source> -> <target> in <class> [<ordinal>] | <info>",
+    "output_mode": 0,
+    "hide_pairs": 7,
+    "output_node_debug": false,
+    "export_class": false,
+    "use_cache": true,
+    "missing_warn": true
+  }
+}
