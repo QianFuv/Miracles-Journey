@@ -843,9 +843,9 @@
     "modId": "dragonfight",
     "version": "1.19.2-4.4"
   },
-  "dragonmounts-1.19.2-1.2.4.jar": {
+  "dragonmounts-1.19.2-1.2.3-beta.jar": {
     "modId": "dragonmounts",
-    "version": "999"
+    "version": "1.2.3-beta"
   },
   "DrawersTooltip-1.19.2-forge-6.0.2.jar": {
     "modId": "drawerstooltip",
@@ -2280,9 +2280,9 @@
     "modId": "rsrequestify",
     "version": "2.3.1"
   },
-  "rubidium-extra-0.4.19+mc1.19.2.jar": {
+  "rubidium-extra-0.4.19+mc1.19.2-build.105.jar": {
     "modId": "rubidium_extra",
-    "version": "0.4.19+mc1.19.2-unknown"
+    "version": "0.4.19+mc1.19.2-build.105"
   },
   "Runelic-Forge-1.19.2-14.1.4.jar": {
     "modId": "runelic",

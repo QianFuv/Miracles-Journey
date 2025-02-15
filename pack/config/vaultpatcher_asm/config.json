@@ -3,7 +3,7 @@
   "classes": [],
   "apply_mods": [],
   "default_language": "en_us",
-  "class_patch": false,
+  "class_patch": true,
   "debug_mode": {
     "is_enable": false,
     "output_format": "<source> -> <target> in <class> [<ordinal>] | <info>",

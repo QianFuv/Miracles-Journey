@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "6c0d0d9c120c732be895dd6dd4d0274bdb020303f88a5f6493a9148881cef693"
+hash = "dae2e3787e371bdbf0d348c9f7dece5994e8a71519c2c58717913e331d845380"
 
 [[files]]
 file = "config/create-client.toml"
@@ -3912,7 +3912,7 @@ hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
 
 [[files]]
 file = "config/vaultpatcher_asm/config.json"
-hash = "9250314edd5454621997c1f396ffa15191fcf89a0fd796ce0507e6b1f8cacfe7"
+hash = "27cc0374489f3b3cf672fd510d19e720a4b454d87e8f8837eb8b0d193a1cf14e"
 
 [[files]]
 file = "config/veinmining-client.toml"
@@ -4164,7 +4164,7 @@ hash = "0473316ae561337903d4afa56a5a0cda3d8be10bc5a3dbe2b849aff17dd6abee"
 
 [[files]]
 file = "mods/WorldComment-0.1.2+1.19.2.jar"
-hash = "6df9a1a181a047eda411628acee763ee17beb1366b13fa2d301908a57861a337"
+hash = "ab6c1ecc684aa3289a989bc6dc5cd9c07428e3ff8302a7a83b44885ee0796bd0"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -5208,8 +5208,9 @@ hash = "4fba1dad8c8d6d9eb00842a3b4cff96e5c423f85a1351b1975714cead1b1a5be"
 metafile = true
 
 [[files]]
-file = "mods/dragonmounts-1.19.2-1.2.4.jar"
-hash = "24ec5e2d6f0635449cfd158c0df148dbcb2dcccff61433cb8e06a098178c3f5e"
+file = "mods/dragon-mounts-legacy.pw.toml"
+hash = "c429e090e53a1fc0541151959ed11187983081f1e458b35a81e82d2c2f8bf4bd"
+metafile = true
 
 [[files]]
 file = "mods/drawers-tooltip.pw.toml"
@@ -5696,8 +5697,9 @@ hash = "46ecd75d9dffec36a37c9f19dd0c505502057fce2cee68fe416e3572a462ed39"
 metafile = true
 
 [[files]]
-file = "mods/grappling_hook_mod-1.19.2-1.19.2-v13.jar"
-hash = "6afe7b1a1185fd7f078d89239a0a48363e1f09e7cf0332af36389638a83a6619"
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "ca7d4d2ba868dc18cca73af3567b7df52b4ed2cdf8190e7acde8f3343747beb5"
+metafile = true
 
 [[files]]
 file = "mods/grass-overhaul.pw.toml"
@@ -7024,8 +7026,9 @@ hash = "c71a40b14a3ad77121867e82581b14656c7740d8b08ed0070353753fedc1c1fd"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra-0.4.19+mc1.19.2.jar"
-hash = "d9f8eb87a14215b55fe8d130341bb0768b5f64c1b176779938aa604f47a548c7"
+file = "mods/rubidium-extra.pw.toml"
+hash = "29e5b37522eee968368d1a638b3c2aab49c8e04306d80386a2e186403d744572"
+metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
@@ -7866,7 +7869,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4413525180fe87a7bb5fe168bdf9d6f05230e4d88c7eb01b4cb2ab6ec1efa661"
+hash = "49cf736f962f0b69c1e12bf5b0d04caabaf1a4036423c583b94e7162fc8ff216"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -15776,3 +15779,31 @@ hash = "26e3845cce2a3f48d2bb69f163a66f2ee7c7cc2cf1eae2ccb87f34b083efd2e9"
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"
 hash = "5d92a672e90a876ea8aa46f8d23f4b740cb303640ec1ec2cc68f847344788d54"
+
+[[files]]
+file = "vaultpatcher/patch/com/github/kay9/dragonmounts/dragon/DMLEggBlock.class"
+hash = "0bb5faa8cc8403a0b61c07a3c4346eb9434dbc5beacffaa7723dd89746b91c24"
+
+[[files]]
+file = "vaultpatcher/patch/com/yyon/grapplinghook/client/ClientControllerManager.class"
+hash = "3a2b322de332dfa007a725674f4f127aa54b46b87e00c0c1d25c674dda5b2392"
+
+[[files]]
+file = "vaultpatcher/patch/com/yyon/grapplinghook/controllers/AirfrictionController.class"
+hash = "43d3b0616be38d608fc3a14105baf3d0ba4c5c58dcee67133ba6a5f9b3b52dc3"
+
+[[files]]
+file = "vaultpatcher/patch/com/yyon/grapplinghook/controllers/GrappleController.class"
+hash = "e186a8321d4f2bdb99855aa6b73ed932407c4b23d2a329ca9d232236f8db4969"
+
+[[files]]
+file = "vaultpatcher/patch/forge/cn/zbx1425/worldcomment/util/compat/Checkbox$Builder.class"
+hash = "1ddf9ddad12a464ebaaa6e92ae19b7ea65c691d166a530812d5b45e6d5356d46"
+
+[[files]]
+file = "vaultpatcher/patch/me/flashyreese/mods/sodiumextra/client/gui/SodiumExtraGameOptionPages.class"
+hash = "be6e6cd92de87825bcb87ddeb93f57f4261f0c12297f624e1fcffff1ddd84b3b"
+
+[[files]]
+file = "vaultpatcher/patch/me/flashyreese/mods/sodiumextra/mixin/reduce_resolution_on_mac/MixinWindow.class"
+hash = "161161e18769a2e2e8bca8b51df597c2a8c75b467453c88681f2f808476af116"
