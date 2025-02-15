@@ -1710,7 +1710,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "dae2e3787e371bdbf0d348c9f7dece5994e8a71519c2c58717913e331d845380"
+hash = "4be448dd130ddf8db1a662173a4484c8f4334df257d73b4ea2933553b2ca031a"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2666,7 +2666,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "54618455b5592ef26a14481daa45f7bb16fc1928cc1f22285fe975dd6f32b176"
+hash = "ecea7306d2021cef24f89e07574c2f3bf96cbff8c1bbc4bb9103aef472da3814"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2690,7 +2690,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "ed4ccb7d5e83e32ab9fbd2d742ce4f952827ba7cdaa5917cdd8ae96ad5ada8ef"
+hash = "b79a41d1272e6de96a2547482565556350273ad48f024201760c0283d2aae77f"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -4937,11 +4937,6 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "c1c7f2109c283b19e755b0642740d2f0d5f247f23a46d84fa6209cace7ce055d"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "08e07252b128482513fdd6626070e338b912351ff70eaf590ef76c4e32907332"
 metafile = true
 
 [[files]]
