@@ -4155,10 +4155,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "02d48ff6f28d5a657b8aaf07436957850788d89cd71cee9d90170b1d42b896a1"
 
 [[files]]
-file = "mods/Damp-1.19.2-1.0.0.jar"
-hash = "c92894c542488a5e7e5c978a4845b816b5a941f3548b49fed09b3f9b4334ce92"
-
-[[files]]
 file = "mods/Raided-1.19.2-0.1.4.jar"
 hash = "0473316ae561337903d4afa56a5a0cda3d8be10bc5a3dbe2b849aff17dd6abee"
 
@@ -4437,10 +4433,6 @@ hash = "89e7c09a36e733461a6f712d977ab49a4f42beff3fbbe2254413442034927ecb"
 metafile = true
 
 [[files]]
-file = "mods/beneath-the-snow-0.3.jar"
-hash = "cf23ac96e5c6dfcf2f6e8499da5f49a77aca8721b7ff1fb8273ec2662d97f803"
-
-[[files]]
 file = "mods/berrfect.pw.toml"
 hash = "9b84f64164a3d1658d7c952ba7f32b53014cc21dc849d9e6f74182759e79074e"
 metafile = true
@@ -4687,10 +4679,6 @@ metafile = true
 file = "mods/cherished-worlds.pw.toml"
 hash = "2d5be016e70945f42ebeb986b015264e9a6b9ff28d05f50c38df69e678441e90"
 metafile = true
-
-[[files]]
-file = "mods/chess-1.19.2-3.1.jar"
-hash = "06ffd11d7d6e842a74b6c0127de8ce2a00fe17e25fc3a4b576bf2cdd34a16de5"
 
 [[files]]
 file = "mods/chimes.pw.toml"
@@ -7148,10 +7136,6 @@ metafile = true
 file = "mods/simply-hot-springs.pw.toml"
 hash = "975d664ec5839edd1a5a9463c5b3655fe21c3902ff36d29f7ec7b384a9958770"
 metafile = true
-
-[[files]]
-file = "mods/simplyswords-1.47.1-1.19.2.jar"
-hash = "28b1ea24c8b8aa303bbb1475015d44352a1840eb74eb2a0c090b9a8c718bc67b"
 
 [[files]]
 file = "mods/sit.pw.toml"
@@ -15787,7 +15771,3 @@ hash = "26e3845cce2a3f48d2bb69f163a66f2ee7c7cc2cf1eae2ccb87f34b083efd2e9"
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"
 hash = "5d92a672e90a876ea8aa46f8d23f4b740cb303640ec1ec2cc68f847344788d54"
-
-[[files]]
-file = "sync.ffs_db"
-hash = "b797309bdda3d1168f65286db2744e8df44a0b1cecf17b9bb0a36bd2896f6d4f"
