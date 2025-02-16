@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "NonCurseForgeMods.md"
+hash = "7c457b6b6cab1451d5c769f41487cac5d460805b18ac7625886b35bde4a0ee21"
+
+[[files]]
 file = "TrashSlotSaveState.json"
 hash = "e54a02e4adf79ec98e7cd9de3786ee3c1ed0562fb5eb03572d98d02cdc1482e0"
 
@@ -4637,7 +4641,7 @@ metafile = true
 
 [[files]]
 file = "mods/caxton-0.6.0-alpha.5+hexgloop-fix+1.19.2-FORGE.jar"
-hash = "0e305921d466ebca014f7e112b601dd1156825f23a1f88b933401ad8d2146600"
+hash = "114732b793205bf24adce0c1f8791f8f1811179cc6bf33a657bc146e64d5f889"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -7231,8 +7235,9 @@ hash = "0be7c5ea4cc2c4e3e46a4e9009da25d02863e08e746393487cf1a8b13f7ccebd"
 metafile = true
 
 [[files]]
-file = "mods/spirit-forge-1.19.2-2.2.7.jar"
-hash = "8a9cd4f466f26900d38268d1874e01c0f66355fb3b7fd929b7d22da7ae30f3e8"
+file = "mods/spirit.pw.toml"
+hash = "dafeda8ba53414304cde3ee4418dba90670c1e306f2d879f2f86c7976bec5086"
+metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
@@ -7560,7 +7565,7 @@ metafile = true
 
 [[files]]
 file = "mods/upgraded-mobs-1.3.4.jar"
-hash = "40867f828ec57cb4645d67bc46a3768ba8a795c26d3c7916f62283abf78853f9"
+hash = "26c0f3a708af87b50de90afe3e6a2186dd94b2eda7db00ef863140c77cc77637"
 
 [[files]]
 file = "mods/upgraded-netherite-items.pw.toml"
