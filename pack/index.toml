@@ -5,6 +5,10 @@ file = "NonCurseForgeMods.md"
 hash = "7c457b6b6cab1451d5c769f41487cac5d460805b18ac7625886b35bde4a0ee21"
 
 [[files]]
+file = "NonCurseForgePacks.md"
+hash = "3150df6c73d0678cb9d5f65d34683cd3f179d239ec9e7f428e47b56a24e70b35"
+
+[[files]]
 file = "TrashSlotSaveState.json"
 hash = "e54a02e4adf79ec98e7cd9de3786ee3c1ed0562fb5eb03572d98d02cdc1482e0"
 
@@ -15700,19 +15704,11 @@ file = "shaderpacks/Bliss-Shader-24-11-17.zip"
 hash = "5c79c8ca72107dac6425711c21107ad21eca1e5945776eaf8fc5a7911c6edf4c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip"
-hash = "f8cdf4f9613c430ba492fb0950413afbfc40b8724f1515d1929762835e338297"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt"
 hash = "9fc51ce1d985409a3a5da52ea716102eeb28c9b9a6ffc78ce86f5f182ce8eb1c"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip"
-hash = "771c886f6c42355429a4f3b9c5f63206768e2b1595b4fa9851e43c9f14f8de7e"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.zip.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.txt"
 hash = "a571ddccbc2beffe782718aa64cc8ca4677af541d41ca95baccc4bc7d1ce4b76"
 
 [[files]]
@@ -15724,11 +15720,7 @@ file = "shaderpacks/Lux_v1.1_patch2.zip.txt"
 hash = "6f73c7de1849ded82164ade49c54e01a65567259b064890e6269bb6c8f2edcc5"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1b.zip"
-hash = "ba149fe03e76ca3473855741d31df3a36267a0cbd3aab522a2e4ef1b475073cf"
-
-[[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1b.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-9.1c.zip.txt"
 hash = "42f0d2d5cf0e18fa5f2c1a7015f75e99499a493e4e11f340ceac9f33dbb5fc3b"
 
 [[files]]
@@ -15754,6 +15746,16 @@ hash = "d479bbe8293b2733e288c3b5591cb3e48bcfdccdb60ddbd578bca4770a744caa"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
+metafile = true
+
+[[files]]
 file = "shaderpacks/kappa-shader-by-rre36.pw.toml"
 hash = "daaf2295b41722677db35ccbb9adf39027499251dc861a68de9743f8704e6567"
 metafile = true
@@ -15761,6 +15763,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/lux-shaders.pw.toml"
 hash = "534680cf9364f207e0fe6b3b6d483d8ef6bea9a2d589db245a6d592895995e30"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "632ba0bfd4209ba7423e63b037726020a295b71846df772ff67727e82ada9bab"
 metafile = true
 
 [[files]]
