@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "NonCurseForgeMods.md"
-hash = "7c457b6b6cab1451d5c769f41487cac5d460805b18ac7625886b35bde4a0ee21"
+hash = "8d9bf90a486024807d8290d7be1267bf94df787af227e2a05e9c77618b4b0615"
 
 [[files]]
 file = "NonCurseForgePacks.md"
@@ -1718,7 +1718,7 @@ hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "4be448dd130ddf8db1a662173a4484c8f4334df257d73b4ea2933553b2ca031a"
+hash = "299670b1d3dee49723c9d417db6e288037239792e5d6a6c01938d999ad024592"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2122,7 +2122,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "fc844fa1db0fd5c32eb4ac77a34f8a9f7ee7741f5f9c9a335c048f3b5255a113"
+hash = "0f0a3b102c06e92766dda3ba0d245163461b7090b6010ef8911e043d183ca50d"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2982,7 +2982,7 @@ hash = "26ec7172798cc3f64bab99bcbafbbb3baca4a4d397ac12f28b41132264ac8457"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "3ec885fb41a30c1867d69a93fac10e372454a9acac1d3cbebb4eb1bb53251138"
+hash = "00cf5095d0bc9eb51a75d6c74c48e2b6dcbc456f1e76e29596afb13342e5c75e"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -4165,6 +4165,10 @@ hash = "0ddf58c3ae88151a427daaf054051464882fbf49e348bd04db83603aad342ac5"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "02d48ff6f28d5a657b8aaf07436957850788d89cd71cee9d90170b1d42b896a1"
+
+[[files]]
+file = "mods/Create_Mortar_Mango_Edition-0.1.2-mod.jar"
+hash = "4dec8e0c8075a016b4581b6a5bc16b6474223f415da77c3a3191a1cca2c1536e"
 
 [[files]]
 file = "mods/Raided-1.19.2-0.1.4.jar"
@@ -7873,7 +7877,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "49cf736f962f0b69c1e12bf5b0d04caabaf1a4036423c583b94e7162fc8ff216"
+hash = "aac3a1238da40aa96729ecd2b0da6ca1c77bb4d01f779468596c5902faf114f4"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"

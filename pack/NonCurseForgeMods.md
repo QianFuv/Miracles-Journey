@@ -22,6 +22,16 @@ File: caxton-0.6.0-alpha.5+hexgloop-fix+1.19.2-FORGE.jar
 
 SHA-256: 114732B793205BF24ADCE0C1F8791F8F1811179CC6BF33A657BC146E64D5F889
 
+## Create: Mortar - Mango Edition
+
+Link: https://modrinth.com/datapack/create-mortar-mango-edition
+
+License: GNU Affero General Public License v3.0
+
+File: Create_Mortar_Mango_Edition-0.1.2-mod.jar
+
+SHA-256: 4DEC8E0C8075A016B4581B6A5BC16B6474223F415DA77C3A3191A1CCA2C1536E
+
 ## Create Track Map
 
 Link: https://modrinth.com/mod/create-track-map

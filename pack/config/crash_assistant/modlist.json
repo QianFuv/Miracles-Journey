@@ -631,6 +631,10 @@
     "modId": "create_jetpack",
     "version": "3.4.2"
   },
+  "Create_Mortar_Mango_Edition-0.1.2-mod.jar": {
+    "modId": "create_mortar",
+    "version": "0.1.2"
+  },
   "create_power_loader-1.5.0-mc1.19.2.jar": {
     "modId": "create_power_loader",
     "version": "1.5.0-mc1.19.2"
