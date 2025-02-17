@@ -10,7 +10,7 @@
 	#Close old CrashAssistantApp if it's still running when starting a new instance of Minecraft, to avoid confusing player with window from old crash.
 	kill_old_app = true
 	#List of blacklisted log files. This files won't show in GUI logs list.
-	blacklisted_logs = ["CrashAssistant: latest.log"]
+	blacklisted_logs = []
 	#If options.txt doesn't exist, the default language will be used.
 	default_lang = "en_us"
 	#Anyways log will be uploaded to mclo.gs, but with this option you can wrap link to gnomebot.dev for better formatting.
@@ -79,9 +79,20 @@
 	#Add ### prefix before filename.
 	#This can prevent too small, hard to hit on mobile links.
 	h3_prefix = true
+	#Replaces "\n" separator between logs to "   |   " to make message vertically smaller.
+	one_line_logs = true
+	#Adds line in log list about this Intel processor can be corrupted.
+	intel_corrupted_notification = true
 
 [greeting]
 	#You don't need to touch this option.
 	#On first world join of modpack creator if set to false shows greeting, then self enables.
 	shown_greeting = true
+
+#Settings of notifying about intel corrupted processors.
+[intel_corrupted]
+	#Enable feature.
+	enabled = true
+	#Show funny related gif in warning message.
+	show_gif = true
 

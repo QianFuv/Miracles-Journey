@@ -1685,6 +1685,10 @@ file = "config/corn_delight-common.toml"
 hash = "33c2b4ce58f3ed2bfc15da47242e9e9753e4f119a2bde101f7b97cf14bface5a"
 
 [[files]]
+file = "config/corpsecurioscompat-common.toml"
+hash = "8f1ac9f26c48f68802853018ae1e71a19e4b3cb6430da0fffd67bd5923b2a7d3"
+
+[[files]]
 file = "config/cosmos-portals-common.toml"
 hash = "4f638058efa451e8b071afd3cc902d60314c32ef8df7c7d5afec54829d645333"
 
@@ -1698,7 +1702,7 @@ hash = "2d181ec0bc29ad4a4f241923fa5088714f76c5c62c095ee67dd39e2fcb8aa6cd"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "cc91f5d2b18bc3cdb36f88efa1fc36cf6f0bdb98bf6bd19cca597738c7a3150e"
+hash = "c8c5659024f3fdd4c6da66e221d918fa788612b960b07f83879c80ec0e70ef93"
 
 [[files]]
 file = "config/crash_assistant/lang/README.md"
@@ -1706,19 +1710,19 @@ hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
 
 [[files]]
 file = "config/crash_assistant/lang/en_us.json"
-hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
+hash = "0fc84bca96054dec6d949f8cff17f28b4115372d7380626ac3bc0adbaf956256"
 
 [[files]]
 file = "config/crash_assistant/lang/ru_ru.json"
-hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
+hash = "0fc84bca96054dec6d949f8cff17f28b4115372d7380626ac3bc0adbaf956256"
 
 [[files]]
 file = "config/crash_assistant/lang/zh_cn.json"
-hash = "f6f40d7ae4d5920cd2248fb7f243b722eb63498dfcf55ffbeae8bc6a5145614b"
+hash = "0fc84bca96054dec6d949f8cff17f28b4115372d7380626ac3bc0adbaf956256"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "299670b1d3dee49723c9d417db6e288037239792e5d6a6c01938d999ad024592"
+hash = "12badaf036701c82e928381822af506ea68dd4ec0293eafbf8c942d80b259136"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2994,7 +2998,7 @@ hash = "2b4ec0fa72704975ad734baef83e209b5a9e639edf87266285e53c3f32265168"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "69806fd47f3807a5641cbac01456bdbb57743e4ae930c42e0c3ccb323ebb24fc"
+hash = "faac48f9f59dd61add6dcb108f13818d4ac0f91d7d5b95abe4f40d64bb13fba1"
 
 [[files]]
 file = "config/paintings-client.toml"
@@ -4683,7 +4687,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatimage.pw.toml"
-hash = "7a037efb1e4ddc6f096d592290b8b5505ff1a92999947d84a1b4404e850cec8e"
+hash = "8a1b4ec4e75a0c87b459692c90540448097e41ed3948c2788ecb7ecf15a4a003"
 metafile = true
 
 [[files]]
@@ -4858,7 +4862,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "a9d9e6145902376f581fd32b22c8d463d53a562a1d3f03bd56742b32b6678e5c"
+hash = "0aeb255b9b68cc14d4f622836efbc171f527089076bc2420e5fb8742f38f1f1a"
 metafile = true
 
 [[files]]
@@ -4893,7 +4897,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2efcde501e56f3f0ebd8d9a8fbbef9d2deb9df2271626bb2b69b02ca8673f2ea"
+hash = "639c8e4ec4cad3ee5c6402c98bf522c5c12d31a1bfb4909ba44d84fe5bd932c5"
 metafile = true
 
 [[files]]
@@ -6699,7 +6703,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "60eadd450e70dd09ae239ab7f5e90fd8623fd69daa0737a5f119eb9530e10a28"
+hash = "5ebfccec321146cf5c65f00b6cb98907930f2b927131d25b727f4c97fd34025e"
 metafile = true
 
 [[files]]
@@ -6739,7 +6743,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool.pw.toml"
-hash = "c76790ad7d642fc3d594d353d6faa97ce778472c0eeb18476d71b65bee504f5b"
+hash = "73575261e9f2bba2e2153e1bbac0aeaf84b0c801f74b08720e23c329ae41f101"
 metafile = true
 
 [[files]]
@@ -7687,7 +7691,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7c254ec1eb6b7eee1ace773513575c56d4eef7ccbf67498b1f9ecbb31e5dd061"
+hash = "cf8af40c238acb1c31fecc24dfd8f53dcf395c0ae744d5832499b7f5c3f556c8"
 metafile = true
 
 [[files]]
