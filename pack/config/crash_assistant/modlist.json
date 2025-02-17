@@ -403,10 +403,6 @@
     "modId": "computercraft",
     "version": "1.101.4"
   },
-  "celestisynth-1.19.2-1.1.5.jar": {
-    "modId": "celestisynth",
-    "version": "1.19.2-1.1.5"
-  },
   "chalk-1.19.2-1.6.3.jar": {
     "modId": "chalk",
     "version": "1.6.3"
@@ -782,10 +778,6 @@
   "DiagonalFences-v4.2.6-1.19.2-Forge.jar": {
     "modId": "diagonalfences",
     "version": "4.2.6"
-  },
-  "diet-forge-2.0.1+1.19.2.jar": {
-    "modId": "diet",
-    "version": "2.0.1+1.19.2"
   },
   "difficultraids-1.19.2-2.0-beta.11.jar": {
     "modId": "difficultraids",
@@ -2792,10 +2784,6 @@
     "modId": "villagersplus",
     "version": "1.2"
   },
-  "villagertools-1.19-1.0.3.jar": {
-    "modId": "villagertools",
-    "version": "1.19-1.0.3"
-  },
   "villagesandpillages-forge-mc1.19.2-1.0.2.jar": {
     "modId": "villagesandpillages",
     "version": "1.0.2"
@@ -2851,10 +2839,6 @@
   "waystones-forge-1.19.2-11.4.2.jar": {
     "modId": "waystones",
     "version": "11.4.2"
-  },
-  "witchmobility-1.3.2-1.19.2.jar": {
-    "modId": "witchmobility",
-    "version": "1.3.2-1.19.2"
   },
   "With_Thursday-R5.1(5.0FIX)-1.19.2.jar": {
     "modId": "with_thursday",

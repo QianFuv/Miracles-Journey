@@ -1722,7 +1722,7 @@ hash = "0fc84bca96054dec6d949f8cff17f28b4115372d7380626ac3bc0adbaf956256"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "12badaf036701c82e928381822af506ea68dd4ec0293eafbf8c942d80b259136"
+hash = "b28ab922f9486e9249faa6623d9a1fdc51d1e2258bcec541599e72435c42e55a"
 
 [[files]]
 file = "config/create-client.toml"
@@ -2126,7 +2126,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "0f0a3b102c06e92766dda3ba0d245163461b7090b6010ef8911e043d183ca50d"
+hash = "c3b12ec7013be8448e3be258981ea6aa7d8246c62331b1706332ee31a84d2e0f"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2678,7 +2678,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "ecea7306d2021cef24f89e07574c2f3bf96cbff8c1bbc4bb9103aef472da3814"
+hash = "84340d06028395a82d81fdec42461b216d2a4bb52d96d8875a4739a571410f46"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2702,7 +2702,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "b79a41d1272e6de96a2547482565556350273ad48f024201760c0283d2aae77f"
+hash = "f526de6485cec02533577e9ee81994894fe9aaaf934bbecfe14278107a26451c"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -3836,7 +3836,7 @@ hash = "07e6c18d6b6af531744330a16cb874538296d34a665fa6c9a5e6f04fd606fc50"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "2a0bdaba0bc025929e00188af38baef73f974aad9f6f1b97c842a21f9c970e2d"
+hash = "bc01735a487214ef1c2b7b3c2fd9ae50ffd9043d292fa1fbf45617c2df53349c"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -4164,7 +4164,7 @@ hash = "b52337110818fa674d6f82b10a4d7c8fbb340aaa2f70767e668d0c79e2338747"
 
 [[files]]
 file = "kubejs/server_scripts/recipe.js"
-hash = "0ddf58c3ae88151a427daaf054051464882fbf49e348bd04db83603aad342ac5"
+hash = "fceab6f498fe8e1b4a26b366d50684c1a4b803af4fb5f06231fd1abb984df203"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -4661,11 +4661,6 @@ hash = "852c931e7647ec0c21e1b8c85a14f01e9770b4f883bcc1fd99ec8c40bab4b23e"
 metafile = true
 
 [[files]]
-file = "mods/celestisynth.pw.toml"
-hash = "50f5ebdf1603ca67baadc21ff65bf410db99611dc0d6abe053dec0e851592d93"
-metafile = true
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "a87b545b387bbe57575ed84d4b9080997c893323e734b0f1b44feb8bc1e0566f"
 metafile = true
@@ -5151,11 +5146,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "2adf53935196aa778076611412233faeb48940b41c83e72a25b5210f9854ca35"
-metafile = true
-
-[[files]]
-file = "mods/diet.pw.toml"
-hash = "6d89acd9af9b0078fa98c13dcabe6f52a6068186ed08c2e43d9ac54eaf24a464"
 metafile = true
 
 [[files]]
@@ -7640,11 +7630,6 @@ hash = "42359ce4feace2afc93b5f9f23ccb831256398c762f5113c7fd1e924f6848059"
 metafile = true
 
 [[files]]
-file = "mods/villager-tools.pw.toml"
-hash = "6b08d26b000ba665bfb15391da618a4e9fc0e9170a9b1ee89e9b8072c0bb9fb6"
-metafile = true
-
-[[files]]
 file = "mods/villagersplus-forge.pw.toml"
 hash = "bbfbacb2902be408384fe88b4037db2dbfdd90cfb410f30b191ec822fc87b368"
 metafile = true
@@ -7722,11 +7707,6 @@ metafile = true
 [[files]]
 file = "mods/wireless-speakers.pw.toml"
 hash = "062d6b17919401dd69cb2e2b96416a9b737e2cfceb3071d45e24d6483fd89dea"
-metafile = true
-
-[[files]]
-file = "mods/witch-mobility.pw.toml"
-hash = "516d0bf30538d5a1eb6d100f5e0aea1dd5c8fdcaffe5a2de86e04e60a8e69d88"
 metafile = true
 
 [[files]]
@@ -7881,7 +7861,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "aac3a1238da40aa96729ecd2b0da6ca1c77bb4d01f779468596c5902faf114f4"
+hash = "eec0f976a03615fe26418f09d45a66dc1ee13f358ed0041364e8fc745600a60f"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
