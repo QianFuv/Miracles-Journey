@@ -1,0 +1,13 @@
+name = "All Music Remastered"
+filename = "MMR.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6596c8f0f1d58504144e5f5518908e4fb2bf76e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6149338
+project-id = 1191982

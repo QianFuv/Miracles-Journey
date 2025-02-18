@@ -2170,7 +2170,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
+hash = "b8caf2328f16449e7b5fad4ee993bfc71d4622a09c896aca86dc38b76cab95a5"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -7861,7 +7861,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eec0f976a03615fe26418f09d45a66dc1ee13f358ed0041364e8fc745600a60f"
+hash = "55e0ffe0cf73ff30cb1d6d07800811142902ad5a1c4bbc297afb1a042e2db4c7"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -11326,14 +11326,6 @@ hash = "b34869df36b246fd852884c7a9b1f6cc8be3c9bb69b0550ba7fc90da518b1a2c"
 [[files]]
 file = "resourcepacks/Alternative Sanding Wheel.zip"
 hash = "4712278437d690b4a5b119b0eb1f017f58f915aebdf860369051c0010527be69"
-
-[[files]]
-file = "resourcepacks/C4Discs.zip"
-hash = "3ba7a870a891be951ac266d9387d863fb09ea5c071569d803e2381005fb3daa6"
-
-[[files]]
-file = "resourcepacks/C4Music_v4.0.zip"
-hash = "357ae084225118eabb6b1b786db2d225b45229d9b18917741810dc5c01f2144e"
 
 [[files]]
 file = "resourcepacks/MeetYourEnhancedFightV1.0.zip"
@@ -15642,6 +15634,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/guiretextures-1.7.6.zip"
 hash = "d05ca0a2bb96600a331bd6bda5013039a73006370e7d12e2a22dd585c1475369"
+
+[[files]]
+file = "resourcepacks/minecraft-music-remastered-streamer-friendly.pw.toml"
+hash = "57c935e04ba05da3cf772c088acf7fb0e1f2017388a3dfaf7a2e9e856e0da3e4"
+metafile = true
 
 [[files]]
 file = "resourcepacks/modern-font-pack-caxton-edition.pw.toml"
