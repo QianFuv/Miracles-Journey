@@ -2330,7 +2330,7 @@ hash = "03cc3ba5b7f66fd989ce533ca8c1b87c2ea04a2409c81a6fbbf9db2f9342f85b"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "e5e909f16842b32ecd86b265b45d96a8294844ec327a79b12969f4bce61f4b4d"
+hash = "49299947780716807ce360ac78f01fcb2a121d7de087b49b09c597d7888a5b38"
 
 [[files]]
 file = "config/forgery/fscript.ini"
@@ -7861,7 +7861,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "55e0ffe0cf73ff30cb1d6d07800811142902ad5a1c4bbc297afb1a042e2db4c7"
+hash = "61de0bf46093e219e0372e1175631e43bf58a5e50dfcec569b22175b68e87d92"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
