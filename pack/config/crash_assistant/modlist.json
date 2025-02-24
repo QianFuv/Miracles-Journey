@@ -87,6 +87,10 @@
     "modId": "anchor",
     "version": "1.3.0"
   },
+  "angelblockrenewed-forge-1.3-1.19.jar": {
+    "modId": "angelblockrenewed",
+    "version": "1.3"
+  },
   "anvilrestoration-1.19.2-2.2.jar": {
     "modId": "anvilrestoration",
     "version": "2.2"
@@ -551,6 +555,10 @@
     "modId": "copycats",
     "version": "2.2.0+mc.1.19.2-forge"
   },
+  "CorgiLib-forge-1.19.2-1.0.0.34.jar": {
+    "modId": "corgilib",
+    "version": "1.0.0.34"
+  },
   "corn_delight-1.0.3-1.19.2.jar": {
     "modId": "corn_delight",
     "version": "1.0.3-1.19.2"
@@ -971,6 +979,10 @@
     "modId": "tmted",
     "version": "1.0.3"
   },
+  "Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar": {
+    "modId": "enhancedcelestials",
+    "version": "2.1.0.6"
+  },
   "ensorcellation-1.19.2-4.3.1.20.jar": {
     "modId": "ensorcellation",
     "version": "4.3.1"
@@ -1235,6 +1247,10 @@
     "modId": "sod",
     "version": "22.10.19"
   },
+  "great_scrollable_tooltips-11.1.0-beta.1+forge.jar": {
+    "modId": "great_scrollable_tooltips",
+    "version": "11.1.0-beta.1+forge"
+  },
   "greendelights-1.0.1-1.19.2.jar": {
     "modId": "greendelights",
     "version": "1.0.1"
@@ -1334,6 +1350,10 @@
   "I18nUpdateMod-3.6.0-all.jar": {
     "modId": "i18nupdatemod",
     "version": "3.6.0"
+  },
+  "iands_tweaks-1.3.1.jar": {
+    "modId": "iands_tweaks",
+    "version": "1.3.1"
   },
   "Iceberg-1.19.2-forge-1.1.4.jar": {
     "modId": "iceberg",
@@ -1732,6 +1752,10 @@
     "modId": "manaliquidizer",
     "version": "1.19.2-1.0.1"
   },
+  "maple-1.19.2-1.3.8-Forge.jar": {
+    "modId": "maple",
+    "version": "1.19.2-1.3.8-Forge"
+  },
   "mavapi-1.1.1-mc1.19.2.jar": {
     "modId": "mavapi",
     "version": "1.1.1"
@@ -2059,6 +2083,10 @@
   "Paxi-1.19.2-Forge-3.0.1.jar": {
     "modId": "paxi",
     "version": "1.19.2-Forge-3.0.1"
+  },
+  "PeacefulMoon-1.0.jar": {
+    "modId": "peacefulmoon",
+    "version": "1.19.2"
   },
   "Pehkui-3.8.2+1.19.2-forge.jar": {
     "modId": "pehkui",

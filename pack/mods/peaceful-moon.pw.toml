@@ -1,0 +1,13 @@
+name = "Peaceful Moon"
+filename = "PeacefulMoon-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0c50cc8c9f67fc7e413afa3a53137a8462346c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5487142
+project-id = 1053237
