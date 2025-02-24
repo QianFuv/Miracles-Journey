@@ -2170,7 +2170,7 @@ hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c31a5969b062b791085afff7768d852e608fa1c02819ffa0523c0b9d40c8037b"
+hash = "b8caf2328f16449e7b5fad4ee993bfc71d4622a09c896aca86dc38b76cab95a5"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -7861,7 +7861,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "61de0bf46093e219e0372e1175631e43bf58a5e50dfcec569b22175b68e87d92"
+hash = "fb8a069f8ebf54a60fd5ae0e03da711aaade2f52ac6260357519ad4289ff7285"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"
@@ -15232,8 +15232,8 @@ file = "resourcepacks/guiretextures-1.7.6.zip"
 hash = "d05ca0a2bb96600a331bd6bda5013039a73006370e7d12e2a22dd585c1475369"
 
 [[files]]
-file = "resourcepacks/minecraft-music-remastered-streamer-friendly.pw.toml"
-hash = "57c935e04ba05da3cf772c088acf7fb0e1f2017388a3dfaf7a2e9e856e0da3e4"
+file = "resourcepacks/just-enough-music.pw.toml"
+hash = "514c7253a4bd4a5dbaeda0ef4353cc2285999e3f354e1e26d1a5217513fe3b4e"
 metafile = true
 
 [[files]]

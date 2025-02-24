@@ -1,0 +1,13 @@
+name = "Just Enough Music! (Auxillary Soundtrack)"
+filename = "Just Enough Music!.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0a26b1c398cd619f3045a6de83a1d361129159f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5407531
+project-id = 895889
