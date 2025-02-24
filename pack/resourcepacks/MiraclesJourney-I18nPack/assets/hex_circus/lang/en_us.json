@@ -26,13 +26,14 @@
   "hex_circus.page.particles.bezier.1": "This new vector seems to attract the particle during its journey, making the line in which it moves bend towards the third vector.$(br2)Costs one 2 thousandth of an amethyst dust.$(br2)$(br2)Side note: The particle never seems to actually reach the third vector",
 
 
-  "hex_circus.page.crew_control.opening.0": "By studying the Evoker I believe I have discovered how they keep control over the Allay whose minds they have twisted into the devious Vex!Although I have not been able to fully recreate the permanent effects, I have devised my own, admittedly weaker version of this powerful ability.$(br)All creatures with a mind have something they want, something they $(italic)need.$(clear) This can be used to my advantage!",
-  "hex_circus.page.crew_control.opening.1": "By manipulating the minds of lesser creatures and affecting what they want, I can practically make them do anything! $(br2)Although for now I'll have to stick to making them walk to a location of my choosing.$(br2)The following pages contain information on how to command the will of lesser beings, as well as whittling away at their will to resist my commands.",
+  "hex_circus.page.mind_control.opening.0": "By studying the Evoker I believe I have discovered how they keep control over the Allay whose minds they have twisted into the devious Vex!Although I have not been able to fully recreate the permanent effects, I have devised my own, admittedly weaker version of this powerful ability.$(br)All creatures with a mind have something they want, something they $(italic)need.$(clear) This can be used to my advantage!",
+  "hex_circus.page.mind_control.opening.1": "By manipulating the minds of lesser creatures and affecting what they want, I can practically make them do anything! $(br2)Although for now I'll have to stick to making them walk to a location of my choosing.$(br2)The following pages contain information on how to command the will of lesser beings, as well as whittling away at their will to resist my commands.",
 
   "hex_circus.page.mind_control.command_creature.0": "Commands the will of a lesser creature to move to the position at the top of the stack",
   "hex_circus.page.mind_control.command_creature.1": "An ungodly amount of media is wasted to gain control control as the creature tries to resist the command, this varies from species to species",
 
-  "hex_circus.page.mind_control.whittle_will": "Whittles away at the will of the creature at the top of the stack, causing the cost of commanding it to halve. I should be careful with this, as a creature completely losing it's will to live results in cardiac arrest",
+  "hex_circus.page.mind_control.whittle_will.0": "Whittles away at the will of the creature at the top of the stack, causing the cost of commanding it to halve.",
+  "hex_circus.page.mind_control.whittle_will.1": "I should be careful with this, as a creature completely losing it's will to live results in cardiac arrest.$(br2)$(br2)Costs media equivalent to 64 charged amethyst",
 
   "hex_circus.page.mind_control.get_will": "Takes the creature at the top of the stack and replaces it with the amount of media in dust required to command it's mind, or null if commanding it is not possible.",
 

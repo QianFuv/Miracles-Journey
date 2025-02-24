@@ -1,0 +1,52 @@
+{
+  "itemGroup.yippee": "Yippee",
+
+  "item.yippee.tbh": "tbh",
+  "item.yippee.moyai_statue": "Moyai Statue",
+
+  "item.yippee.yippee": "Yippee",
+
+  "block.yippee.whoopee_cushion": "Whoopee Cushion",
+
+  "block.yippee.taco_bell": "Taco Bell",
+
+  "block.yippee.weight": "Weight",
+  "death.attack.weight": "%1$s was flattened by an immense weight",
+  "death.attack.weight.player": "%1$s was flattened by an immense weight whilst fighting %2$s",
+
+  "item.yippee.damaged_disc": "Damaged Disc",
+  "item.yippee.damaged_disc.desc": "ᓭᓭᓭᓭᓭᓭ...",
+  "item.yippee.broken_disc": "Broken Disc",
+  "item.yippee.broken_disc.desc": "∴⍑ᔑℸ ̣ 'ᓭ ⚍!¡",
+
+  "block.yippee.mystical_oak_planks": "Mystical Oak Planks",
+  "block.yippee.mystical_oak_sapling": "Mystical Oak Sapling",
+  "block.yippee.mystical_oak_door": "Mystical Oak Door",
+  "block.yippee.mystical_oak_trapdoor": "Mystical Oak Trapdoor",
+  "block.yippee.mystical_oak_log": "Mystical Oak Log",
+  "block.yippee.resting_mystical_oak_log": "Resting Mystical Oak Log",
+  "block.yippee.stripped_mystical_oak_log": "Stripped Mystical Oak Log",
+  "block.yippee.potted_mystical_oak_sapling": "Potted Mystical Oak Sapling",
+  "item.yippee.mystical_sap_bottle": "Mystical Sap Bottle",
+
+  "effect.yippee.flattened": "Flattened",
+  "effect.yippee.wise": "Wise",
+
+  "advancements.yippee.obtain_tbh.title": "Yippee",
+  "advancements.yippee.obtain_tbh.description": "Obtain the creature of immense excitement",
+  "advancements.yippee.place_weight.title": "Bonk",
+  "advancements.yippee.place_weight.description": "Place a Weight block and get up to mischief",
+  "advancements.yippee.harvest_sap.title": "Wise Mystical Encounter",
+  "advancements.yippee.harvest_sap.description": "Gather mystical sap from a curious-looking tree. If you are over 25 and own a Minecraft account you must try this mod",
+
+  "subtitles.block.yippee.mystical_wood.speak": "Mystical wisdom is shared",
+  "subtitles.item.yippee.mystical_sap.wise": "Ancient knowledge is released",
+
+  "subtitles.item.yippee.tbh.yippee": "tbh bursts of excitement",
+  "subtitles.item.yippee.moyai.boom": "Ancient Power awakens",
+  "subtitles.block.yippee.whoopee_cushion.pressed": "Cushion deflates",
+  "subtitles.block.yippee.whoopee_cushion.unpressed": "Cushion inflates",
+  "subtitles.block.yippee.taco_bell.ring": "Taco Bell Rings",
+  "subtitles.block.yippee.weight.fall": "Weight Drops",
+  "subtitles.item.yippee.disc.scratch": "Disc Scratches"
+}

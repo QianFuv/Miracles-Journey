@@ -1,0 +1,51 @@
+{
+  "advancements.goety_spillage.root.title": "The Spillage Arts",
+  "advancements.goety_spillage.root.description": "Of Goety and Spillage",
+  "advancements.goety_spillage.craft_spirit_hand_focus.title": "Showing These Hands",
+  "advancements.goety_spillage.craft_spirit_hand_focus.description": "Craft a Spirit Hand Focus",
+  "advancements.goety_spillage.obtain_dark_potion.title": "You Freakin' Freaks!",
+  "advancements.goety_spillage.obtain_dark_potion.description": "Obtain a Dark Potion.",
+  "advancements.goety_spillage.obtain_mutation_potion.title": "When Will You Learn?",
+  "advancements.goety_spillage.obtain_mutation_potion.description": "Obtain a Potion of Mutation.",
+  "advancements.goety_spillage.convert_ragno.title": "That Your Actions Have Consequences!",
+  "advancements.goety_spillage.convert_ragno.description": "Convert a Villager into a Ragno.",
+
+  "entity.goety_spillage.illager_soul": "Illager Soul",
+  "entity.goety_spillage.spirit_hand": "Spirit Hand",
+  "entity.goety_spillage.villager_victim": "Villager",
+  "entity.goety_spillage.bound_freakager": "Bound Freakager",
+  "entity.goety_spillage.ragno_servant": "Ragno",
+  "entity.goety_spillage.soul_beam": "Soul Beam",
+  "entity.goety_spillage.skull_bomb": "Skull Bomb",
+  "entity.goety_spillage.pumpkin_bomb": "Pumpkin Bomb",
+  "entity.goety_spillage.thrown_axe": "Thrown Axe",
+  "entity.goety_spillage.freaky_scythe": "Freaky Scythe",
+  "entity.goety_spillage.dark_potion": "Dark Potion",
+  "entity.goety_spillage.web": "Web",
+
+  "item.goety_spillage.bound_freakager_spawn_egg": "Bound Freakager Spawn Egg",
+
+  "item.goety_spillage.freaky_hat": "Freaky Hat",
+  "item.goety_spillage.freaky_robe": "Freaky Robe",
+
+  "item.goety_spillage.mutated_flesh": "Mutated Flesh",
+
+  "item.goety_spillage.pumpkin_bomb": "Pumpkin Bomb",
+  "item.goety_spillage.skull_bomb": "Skull Bomb",
+
+  "item.goety_spillage.mutation_potion": "Potion of Mutation",
+
+  "item.goety_spillage.impish_focus": "Impish Focus",
+  "item.goety_spillage.impish_focus.info": "Summon Imps in various positions around the caster.",
+  "item.goety_spillage.spirit_hand_focus": "Spirit Hand Focus",
+  "item.goety_spillage.spirit_hand_focus.info": "Summon two Spirit Hands. Cast crouching will summon the caster's servants towards them.",
+  "item.goety_spillage.requiem_focus": "Requiem Focus",
+  "item.goety_spillage.requiem_focus.info": "Summons a barrage of souls around the caster, that will charge at a target before exploding.",
+  "item.goety_spillage.soul_beam_focus": "Soul Beam Focus",
+  "item.goety_spillage.soul_beam_focus.info": "Shoots out a beam of souls that deals constant magic damage.",
+
+  "info.goety_spillage.freaky_hat": "Halves incoming attacks while riding a Ragno.",
+  "info.goety_spillage.freaky_hat_axe": "Iron Axes uses durability, instead of being fully used, when thrown.",
+  "info.goety_spillage.freaky_robe_power": "Press %s to perform a freaky ability.",
+  "info.goety_spillage.freaky_robe_axe": "Iron Axes can be thrown."
+}

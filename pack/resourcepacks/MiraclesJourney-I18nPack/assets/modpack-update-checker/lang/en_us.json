@@ -39,10 +39,18 @@
   "screen.modpack-update-checker.changelog.to-be-announced": "Release Date: TBA",
   "screen.modpack-update-checker.changelog.releasingOn": "Releasing On: %s",
   "screen.modpack-update-checker.changelog.releasedAt": "Released On: %s",
+  "screen.modpack-update-checker.changelog.modpackInfo": "Modpack Info",
+  "screen.modpack-update-checker.changelog.modpackAuthors": "By %s",
 
   "screen.modpack-update-checker.select-world.modpack-backup": "This world was last played in %s %s; you are on %s %s. Please make a backup in case you experience world corruptions!",
   "screen.modpack-update-checker.select-world.modpack-backup.incompatible": "This world was last played in %s %s, which is not compatible with the current version, %s %s.",
   "screen.modpack-update-checker.select-world.incompatible-modpack-version": "This world is not compatible with the current modpack.",
+
+  "screen.modpack-update-checker.missing-mods.title": "Missing Mods!",
+  "screen.modpack-update-checker.missing-mods.auto-download": "Auto Download",
+  "screen.modpack-update-checker.missing-mods.downloaded.client-launch": "Auto-downloaded",
+  "screen.modpack-update-checker.missing-mods.downloaded.automatic": "Auto-downloaded",
+  "screen.modpack-update-checker.missing-mods.downloaded.manual": "Found!",
 
   "command.mpuc.error.invalid-hotfix": "%s is not valid",
   "command.mpuc.error.hotfix-already-queued": "%s is already queued",
@@ -51,5 +59,10 @@
   "fancymenu.modpack-update-checker.placeholder.current-modpack-version": "Current Modpack Version",
   "fancymenu.modpack-update-checker.placeholder.current-modpack-version.description": "The currently installed version of the modpack.",
   "fancymenu.modpack-update-checker.placeholder.latest-modpack-version": "Latest Modpack Version",
-  "fancymenu.modpack-update-checker.placeholder.latest-modpack-version.description": "The latest available version of the modpack."
+  "fancymenu.modpack-update-checker.placeholder.latest-modpack-version.description": "The latest available version of the modpack.",
+
+  "modpack-update-checker.markdown.renderer.builtin.basic.title": "Basic",
+  "modpack-update-checker.markdown.renderer.builtin.basic.description": "Basic renderer that supports URLs and Markdown Links",
+  "modpack-update-checker.markdown.renderer.builtin.mpuc_lavendermd.title": "Lavender",
+  "modpack-update-checker.markdown.renderer.builtin.mpuc_lavendermd.description": "Lavender markdown renderer that supports images, headers, etc."
 }

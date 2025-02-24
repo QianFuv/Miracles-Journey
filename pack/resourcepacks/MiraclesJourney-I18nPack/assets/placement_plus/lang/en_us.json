@@ -1,0 +1,6 @@
+{
+  "key.place_plus.toggle": "Toggle on/off Placement+",
+  "response.placement_plus.enabled": "Placement+ is now enabled!",
+  "response.placement_plus.disabled": "Placement+ is now disabled; Using Vanilla placement",
+  "key.category.placement_plus": "Placement+"
+}

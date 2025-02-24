@@ -7,6 +7,7 @@
   "entity.hexal.wisp.ticking": "Cyclic Wisp",
   "entity.hexal.wisp.wandering": "Wandering Wisp",
 
+
   "hexcasting.mishap.non_player": "%s expected to be cast by a player.",
   "hexcasting.mishap.no_wisp": "%s expected to be cast by a wisp.",
   "hexcasting.mishap.others_wisp": "That wisp is owned by %s, not you.",
@@ -42,6 +43,7 @@
   "hexcasting.mishap.invalid_value.mote_not_size_one": "a mote with no NBT data or of size one",
   "hexcasting.mishap.invalid_value.gate.offset": "an offset of at most %f blocks",
 
+
   "hexcasting.iota.hexal:iota_type": "Iota Type",
   "hexcasting.iota.hexal:entity_type": "Entity Type",
   "hexcasting.iota.hexal:item_type": "Item Type",
@@ -51,6 +53,7 @@
   "hexal.spelldata.entity_type": "Type",
   "hexal.spelldata.gate": "Gate %d",
   "hexal.spelldata.item": "%s x%d",
+
 
   "hexcasting.spell.hexal:type/iota": "Classifier's Purification",
   "hexcasting.spell.hexal:type/entity": "Physician's Purification",
@@ -155,6 +158,8 @@
 
   "hexcasting.spell.hexal:tick": "Accelerate",
 
+
+
   "hexcasting.spell.book.hexal:light_level": "Lamplighter's Prfn.",
 
   "hexcasting.spell.book.hexal:running/sum": "Running Sum Prfn.",
@@ -165,6 +170,8 @@
   "hexcasting.spell.book.hexal:zone_entity/not_wisp": "Zone Dstl.: Non-Wisp",
 
   "hexcasting.spell.book.hexal:mote/storage/bind/temp": "Bind Storage - Temp.",
+
+
 
   "hexal.entry.slipways": "Slipways",
   "hexal.page.slipways": "I have heard tales of some geodes in which glowing portals called slipways lie. These slipways are regularly depicted with glowing sparks surrounding them that bear an incredible resemblance to the $(l:hexal:patterns/spells/wisps)$(thing)wisps/$ that I have heard tell of, which may be a connection to look into.",
@@ -262,7 +269,7 @@
   "hexal.page.motes.explanation.0": "This entry deals with bringing items into the media, making them referencable, countable, bringing order to them and to me and to my mind and-. A mediafied item iota (known as a mote) that has been added to the stack references a specific mote record in a Mote Nexus, since without something holding the thought-pattern of the item to this world it will wither away -away like my cognition is flensing-.",
   "hexal.page.motes.explanation.1": "Any duplicate of that first mote iota referencing a record references the same record, and any change to one affects them all for they all point to the one and only in the media. Splitting and merging and crafting and trading all affect all affect all-.",
   "hexal.page.motes.explanation.2": "A Mote Nexus is limited in some ways, but only some. It can contain 1023 different records, but each record can store items innumerable. I have yet to find any limit, I can merge and merge and merge forever and the record keeps growing and growing and growing...",
-  "hexal.page.motes.mediafed_storage_recipe": "The Mote Nexus is built from the mind of a cartographer endlessly mapping the contents of the $(item)Shulker Box/$ that it has been flayed into.",
+  "hexal.page.motes.mediafed_storage_recipe":  "The Mote Nexus is built from the mind of a cartographer endlessly mapping the contents of the $(item)Shulker Box/$ that it has been flayed into.",
   "hexal.page.motes.mote/storage/bind": "Target a Mote Nexus block in the world and bind yourself to it, meaning all items you mediafy will be added to that nexus' capacity. Targeting any other block will unbind you from your currently bound nexus. Costs 32 $(l:items/amethyst)$(item)Amethyst Dust/$.",
   "hexal.page.motes.mote/storage/bind/temp": "Target a Mote Nexus block in the world and bind to it for the remainder of this cast, temporarily overriding your primary binding. Costs one thousandth of an $(l:items/amethyst)$(item)Amethyst Dust/$.",
   "hexal.page.motes.mote/contained_type/get": "Gets all the types of motes contained in the currently bound Mote Nexus.",
@@ -303,6 +310,7 @@
   "hexal.page.types.zone_entity/type": "Remove an entity type, a position, and a radius from the stack, and returns a list of all entities of that type within that radius of that position.",
   "hexal.page.types.zone_entity/not_type": "Remove an entity type, a position, and a radius from the stack, and returns a list of all entities not of that type within that radius of that position",
 
+
   "hexal.entry.everbook": "Everbook",
   "hexal.page.everbook.0": "Your Everbook is a strange space that your broken mind can now reach. There are many yous that seem to share this record, worlds and worlds of progress, beginning again and again. Your Everbook can store patterns paired with iotas like an $(l:hexcasting:greatwork/akashiclib)$(item)Akashic Record/$, though the fragile nature of your mind these days makes it best to route all access to your Everbook through an $(l:hexcasting:greatwork/akashiclib)$(item)Akashic Record/$. Any world that you reach enlightenment in, you will have access to the entries you add to it now.",
   "hexal.page.everbook.everbook/read": "Takes the position of an $(l:hexcasting:greatwork/akashiclib)$(item)Akashic Record/$, as well as a Pattern as a key, and retrieves the iota at that key from your Everbook, storing it in the given $(l:hexcasting:greatwork/akashiclib)$(item)Akashic Record/$ if able.",
@@ -316,6 +324,8 @@
 
   "hexal.everbook_pattern_entry.header": "Stored Key: %d",
   "hexal.everbook_pattern_entry.macro_header": "Macro Key: %d",
+
+
 
   "_comment": "Config Entries",
   "text.autoconfig.hexal.title": "Hexal Configs",
@@ -378,6 +388,7 @@
   "text.autoconfig.hexal.option.server.itemSpells.maxRecordsInMediafiedStorage": "Maximum Num. Records in Mote Nexus",
   "text.autoconfig.hexal.option.server.itemSpells.maxRecordsInMediafiedStorage.@Tooltip[0]": "Maximum number of records that can be stored in a Mote Nexus.",
   "text.autoconfig.hexal.option.server.itemSpells.maxRecordsInMediafiedStorage.@Tooltip[1]": "Bounded from 128 to 16,384.",
+
 
   "text.autoconfig.hexal.option.server.greatSpells": "Great Spells",
   "text.autoconfig.hexal.option.server.greatSpells.consumeWispOwnCost": "Consume Own Wisp Cost",

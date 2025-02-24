@@ -1,9 +1,14 @@
 {
+  "advancement.ender_relay.title" : "Rely On The Relay",
+  "advancement.ender_relay.description" : "Use an Ender Relay to teleport in the End Dimension",
+
   "block.ender_relay.ender_relay": "Ender Relay",
 
-  "ender_relay.obstructed": "Location is obstructed",
-  "ender_relay.out_of_bounds": "Location is out of bounds",
-  "ender_relay.same_location": "Cannot teleport while already at destination",
-  "ender_relay.empty_location": "Lodestone position is not set",
+  "sounds.ender_relay.ender_relay_charge": "Ender Relay is charged",
+
+  "ender_relay.obstructed": "Destination is obstructed",
+  "ender_relay.out_of_bounds": "Destination is out of bounds",
+  "ender_relay.same_location": "Cannot warp while already at destination",
+  "ender_relay.empty_location": "Unknown destination",
   "ender_relay.lodestone_destroyed": "Lodestone was destroyed"
 }

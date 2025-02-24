@@ -1,0 +1,14 @@
+{
+  "item.ghosts.ghost_spawn_egg": "Spawn Ghost",
+  "entity.ghosts.ghost": "Ghost",
+
+  "item.ghosts.small_ghost_spawn_egg": "Spawn Small Ghost",
+  "entity.ghosts.small_ghost": "Small Ghost",
+
+  "ghosts.ghost_ambient": "Ghost swooshes",
+  "ghosts.ghost_death": "Ghost dies",
+  "ghosts.ghost_hurt": "Ghost hurts",
+  "ghosts.mini_ghost_ambient": "Small Ghost swooshes",
+  "ghosts.mini_ghost_death": "Small Ghost dies",
+  "ghosts.mini_ghost_hurt": "Small Ghost hurts"
+}

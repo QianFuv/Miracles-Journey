@@ -1,0 +1,28 @@
+{
+  "item.greendelights.cactus_crate": "Cactus Crate",
+  "block.greendelights.cactus_crate": "Cactus Crate",
+
+  "item.greendelights.cactus_peeled": "Peeled Cactus",
+  "item.greendelights.cactus_dried": "Dried Cactus",
+  "item.greendelights.cactus_sandwich": "Dustwich",
+  "item.greendelights.cactus_stick": "Cactus Thanghulu",
+  "item.greendelights.cactus_juice": "Cactus Juice",
+  "item.greendelights.cactus_cola": "CactusCola",
+  "item.greendelights.cactus_rum": "Cactus Rum",
+
+  "item.greendelights.bamboo_rice": "Rice with Bamboo and Seeds",
+  "item.greendelights.bamboo_pasta": "Pasta with Bamboo and Fish",
+  "item.greendelights.bamboo_beef": "Beef with Mushrooms and Bamboo",
+
+  "item.greendelights.slime_bread": "Slime Bread",
+  "item.greendelights.slime_popsicle": "Slime Popsicle",
+  "item.greendelights.slime_mousse": "Slime Mousse",
+  "item.greendelights.slime_jelly_block": "Slime Jelly",
+  "block.greendelights.slime_jelly_block": "Slime Jelly",
+  "item.greendelights.slime_jelly": "Slice of Slime Jelly",
+
+  "item.greendelights.creeper_cookie": "Creeper&Cream",
+  "item.greendelights.sea_salad": "Sea Salad",
+
+  "itemGroup.greendelightstab": "Green Delights"
+}

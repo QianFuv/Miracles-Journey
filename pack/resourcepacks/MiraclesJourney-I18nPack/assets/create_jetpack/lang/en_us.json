@@ -24,5 +24,6 @@
   "item.create_jetpack.netherite_jetpack.tooltip.control3": "Press [G]",
   "item.create_jetpack.netherite_jetpack.tooltip.control4": "Press [H]",
   "item.create_jetpack.netherite_jetpack.tooltip.summary": "Allows levitation using pressurized air",
-  "item.create_jetpack.netherite_jetpack_placeable": "Netherite Jetpack Placeable"
+  "item.create_jetpack.netherite_jetpack_placeable": "Netherite Jetpack Placeable",
+  "key.categories.movement.jetpack": "Create Jetpack"
 }

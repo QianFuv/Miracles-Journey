@@ -4,6 +4,7 @@
   "tetra.variant_category.rod.label": "Rods",
   "tetra.stats.unbreaking.tooltip_short": "Makes the tool unbreakable to a extent.",
 
+
   "comment_info_mysticalagriculture": "Mystical Agriculture stuff.",
   "tetra.material.imperium_ingot": "Imperium",
   "tetra.material.imperium_ingot.prefix": "Imperium",
@@ -19,6 +20,7 @@
   "comment_info_mysticalagradditions": "Mystical Agradditions stuff.",
   "tetra.material.insanium_ingot": "Insanium",
   "tetra.material.insanium_ingot.prefix": "Insanium",
+
 
   "comment_info_advancednetherite": "Advanced Netherite stuff.",
   "tetra.material.netherite_gold": "Netherite Gold",
@@ -38,6 +40,7 @@
   "tetra.material.enderium_ingot": "Enderium",
   "tetra.material.enderium_ingot.prefix": "Enderium",
 
+
   "tetra.material.etherium": "Etherium",
   "tetra.material.etherium.prefix": "Etherium",
   "tetra.material.nefarious": "Nefarious",
@@ -45,8 +48,10 @@
   "tetra.material.ender_rod": "Ender Rod",
   "tetra.material.ender_rod.prefix": "Ender Rod",
 
+
   "tetra.material.rope": "Rope",
   "tetra.material.rope.prefix": "Rope",
+
 
   "comment_upgradedn": "Upgraded Netherite ect Descriptions/More",
   "tetra.material.spiderite_ingot": "Spiderite",
@@ -72,11 +77,15 @@
   "tetra.material.ultimerite_ingot": "Ultimerite",
   "tetra.material.ultimerite_ingot.prefix": "Ultimerite",
 
+
+
   "tetra.material.canvas": "Canvas",
   "tetra.material.canvas.prefix": "Canvas",
 
+
   "tetra.material.neptunium_ingot": "Neptunium",
   "tetra.material.neptunium_ingot.prefix": "Neptunium",
+
 
   "tetra.material.copper_rod": "Copper Rod",
   "tetra.material.copper_rod.prefix": "Copper Rod",
@@ -87,10 +96,12 @@
   "tetra.material.brass": "Brass",
   "tetra.material.brass.prefix": "Brass",
 
+
   "tetra.material.ignitium_ingot": "Ignitium",
   "tetra.material.ignitium_ingot.prefix": "Ignitium",
   "tetra.material.cwitherite_ingot": "Witherite",
   "tetra.material.cwitherite_ingot.prefix": "Witherite",
+
 
   "comment_unorg": "All the stuff I haven't organized yet.",
   "tetra.material.cloth": "Cloth",

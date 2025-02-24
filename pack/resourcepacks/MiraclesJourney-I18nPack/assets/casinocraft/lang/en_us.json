@@ -99,10 +99,26 @@
   "rule.casinocraft.setting_4": "ONE SCORE ENTRY PER USER",
 
   "rule.casinocraft.game_11_0_0": "Roulette",
+  "rule.casinocraft.game_11_1_0": "Single ZERO Wheel",
+  "rule.casinocraft.game_11_1_1": "Double ZERO Wheel",
 
   "rule.casinocraft.game_21_0_0": "Black Jack",
+  "rule.casinocraft.game_21_0_1": "Baccarat",
 
-  "rule.casinocraft.game_22_0_0": "Poker",
+  "rule.casinocraft.game_22_0_0": "Single Poker",
+  "rule.casinocraft.game_22_0_1": "Poker",
+
+  "rule.casinocraft.game_22_1_0": "1 Card in Hand",
+  "rule.casinocraft.game_22_1_1": "2 Cards in Hand",
+  "rule.casinocraft.game_22_1_2": "3 Cards in Hand",
+  "rule.casinocraft.game_22_1_3": "4 Cards in Hand",
+  "rule.casinocraft.game_22_1_4": "5 Cards in Hand",
+
+  "rule.casinocraft.game_22_2_0": "---",
+  "rule.casinocraft.game_22_2_1": "River Cards",
+
+  "rule.casinocraft.game_22_3_0": "---",
+  "rule.casinocraft.game_22_3_1": "Can trade Cards",
 
   "rule.casinocraft.game_31_0_0": "Solitaire",
   "rule.casinocraft.game_31_1_0": "1 Suit",
@@ -164,19 +180,33 @@
   "rule.casinocraft.color_5": "VIOLET",
 
   "book.casinocraft.head_11_0": "Content",
-  "book.casinocraft.page_11_0": "1. Gameplay",
+  "book.casinocraft.page_11_0": "1.  Gameplay/b/b2.  Rules",
   "book.casinocraft.head_11_1": "Gameplay",
   "book.casinocraft.page_11_1": "You start by placing a token somewhere on the board and click PLACE to confirm. If the MiniGame has gambling active and you have enough items for another token, you can click ANOTHER to place another token, otherwise click WAIT to let the next Player place their tokens. Once each Player has finished their placements the roulette wheel appears and a small ball starts spinning. The number the ball stops at will be the winning number. Tokens on the Winning Number will stay colored and pay out their reward, otherwise they will turn grey.",
+  "book.casinocraft.head_11_2": "Rule - Wheels",
+  "book.casinocraft.page_11_2": "This rule decides the layout of the Roulette Wheel. Additional to the added 00, the placement of the numbers will be different on the double zero wheel.",
 
   "book.casinocraft.head_21_0": "Content",
-  "book.casinocraft.page_21_0": "1. Gameplay",
+  "book.casinocraft.page_21_0": "1.  Gameplay/b/b2. Game Modes/b2.1.  Mode A/b2.2.  Mode B",
   "book.casinocraft.head_21_1": "Gameplay",
-  "book.casinocraft.page_21_1": "You start with 2 Cards in Hand. You goal is to draw new Cards until you get close to 21 in combined card value. Get over it and you lose. An Ace counts as either 1 or 11, depending on what is better for you. Click DOUBLE to double down, placing an additional bet, receiving only one new card, and finishing your turn. If the 2 starting cards are the same value, you can click SPLIT to create a second hand from them and placing an additional bet. both hands start with 2 cards each. Once you finished your turn the dealer will start drawing. The dealer takes cards until its higher than you or over 16. You lose when the dealer is higher then you and still at 21 or lower.",
+  "book.casinocraft.page_21_1": "Your Goal is have a hand with a combined value higher than that of the dealer and without going over a certain limit.",
+  "book.casinocraft.head_21_2": "Game Mode A",
+  "book.casinocraft.page_21_2": "You start with 2 Cards in Hand. You goal is to draw new Cards until you get close to 21 in combined card value. Get over it and you lose. An Ace counts as either 1 or 11, depending on what is better for you. Click DOUBLE to double down, placing an additional bet, receiving only one new card, and finishing your turn. If the 2 starting cards are the same value, you can click SPLIT to create a second hand from them and placing an additional bet. both hands start with 2 cards each. Once you finished your turn the dealer will start drawing. The dealer takes cards until its higher than you or over 16. You lose when the dealer is higher then you and still at 21 or lower.",
+  "book.casinocraft.head_21_3": "Game Mode B",
+  "book.casinocraft.page_21_3": "You start with 2 Cards in Hand. You goal is to combined value higher than the dealer. Only the ones digit count. A value of 11 counts as 1. You can decide to get one additional card or not. A starting hand of 8 or 9 immediately ends the game.",
 
   "book.casinocraft.head_22_0": "Content",
-  "book.casinocraft.page_22_0": "1. Gameplay",
+  "book.casinocraft.page_22_0": "1.  Gameplay/b/b2. Game Modes/b2.1.  Mode A/b2.2.  Mode B/b/b3.  Rules/b3.1.  Cards in Hand/b3.2.  River Cards",
   "book.casinocraft.head_22_1": "Gameplay",
-  "book.casinocraft.page_22_1": "You start with 5 Cards in Hand. Your Goal is to switch out your cards and try to get a winning hand. You can set the cards you want to keep with the HOLD buttons, all other will be replaced once you click DRAW. In the next step your cards gets rearranged to create a winning hand. Payout depends on how good your hand is.",
+  "book.casinocraft.page_22_1": "You start with a set amount of Cards in Hand. Your Goal is to get specific combinations of cards, called winning hands.",
+  "book.casinocraft.head_22_2": "Game Mode A",
+  "book.casinocraft.page_22_2": "You play against yourself. Click on cards to select them and click on DRAW to trade them out. You win a multiple of your bet depending on your winning hand.",
+  "book.casinocraft.head_22_3": "Game Mode B",
+  "book.casinocraft.page_22_3": "You play against other players. Click on CHECK go to the next player. Click on FOLD to give up. Click on RAISE to increase the bet. All other player need to CALL and add the bet or FOLD and give up. After three rounds the winner is decided.",
+  "book.casinocraft.head_22_4": "Rule - Cards in Hand",
+  "book.casinocraft.page_22_4": "The rule decides the amount of cards you hold in hand.",
+  "book.casinocraft.head_22_5": "Rule - River Cards",
+  "book.casinocraft.page_22_5": "This rule activates the River (or Community Cards), 5 cards each player has access to to create their winning hand.",
 
   "book.casinocraft.head_31_0": "Content",
   "book.casinocraft.page_31_0": "1.  Gameplay/b/b2.  Rules/b2.1.  Suits/b2.2.  Sorting/b2.3.  Reserve Cards/b2.4.  Placement",

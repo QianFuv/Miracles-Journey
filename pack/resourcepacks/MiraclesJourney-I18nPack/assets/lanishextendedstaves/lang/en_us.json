@@ -28,6 +28,16 @@
   "item.lanishextendedstaves.extended_obsidian_staff": "Extended Obsidian Staff",
   "item.lanishextendedstaves.extended_purpur_staff": "Extended Purpur Staff",
 
+  "item.lanishextendedstaves.extended_quartz_staff": "Extended Quartz Staff",
+  "item.lanishextendedstaves.extended_blaze_staff": "Extended Blaze Staff",
+  "item.lanishextendedstaves.extended_wither_staff": "Extended Wither Staff",
+  "item.lanishextendedstaves.extended_owlbert_staff": "Extended Owl Staff",
+  "item.lanishextendedstaves.extended_ghost_staff": "Extended Ghost Staff",
+  "item.lanishextendedstaves.extended_celestial_staff": "Extended Celestial Staff",
+  "item.lanishextendedstaves.extended_longinus_staff": "Extended Longinus Staff",
+  "item.lanishextendedstaves.extended_ice_staff": "Extended Ice Staff",
+  "item.lanishextendedstaves.extended_carrot_staff": "Extended Carrot Staff",
+  "item.lanishextendedstaves.extended_bee_staff": "Extended Bee Staff",
 
 
 
@@ -46,12 +56,29 @@
 
 
   "lanishextendedstaves.entry.functional_staves_1": "Functional Staves",
-  "lanishextendedstaves.page.functional_staves_1.0": "Of course, in my ingenuity, it would be narrow-minded to craft extensions of my staff only in the physical sense. If I'm to cultivate a flexible and oh so utile art, my tools must so be as well. The first, a cleverly-thought but crudely built staff of amethyst. Peculiarly, the amethyst block will more readily crumble when directly used to weave the _media, providing itself to my _Hexes.",
+  "lanishextendedstaves.page.functional_staves_1.0": "Of course, in my ingenuity, it would be narrow-minded to craft extensions of my staff only in the $(l:lanishextendedstaves:items/basic_extended_staves)physical sense$(/l). If I'm to cultivate a flexible and oh so utile art, my tools must so be as well. The first, a cleverly-thought but crudely built staff of amethyst. Peculiarly, the amethyst block will more readily crumble when directly used to weave the _media, providing itself to my _Hexes.",
   "lanishextendedstaves.page.functional_staves_1.crafting.header.0": "Improvised Amethyst Staff",
   "lanishextendedstaves.page.functional_staves_1.crafting.desc.0": "For when you forget wood and you're already ~100 blocks deep in the geode",
   "lanishextendedstaves.page.functional_staves_1.crafting.header.1": "Sealed Improvised Amethyst Staff",
   "lanishextendedstaves.page.functional_staves_1.crafting.desc.1": "$(italic)We made it. We created it. We brought it forth from the night of the ages. We alone. Our hands. Our mind. Ours alone and only./$",
   "lanishextendedstaves.page.functional_staves_1.1": "Furthermore, should I find myself enamored in its impure yet ordered, crude yet elegant, pungent yet aloft, glistening yet vacuous yet glistening yet-- $(br2)If I should like to keep it, I have found means of preventing its crumble, sealing it so that I may use it indefinitely.",
+
+  "lanishextendedstaves.entry.crossmod_staves_1": "Cross-Mod Staves",
+  "lanishextendedstaves.page.crossmod_staves_1.0": "Whilst stumbling across the other powers that inhabit my world in addition to _Hexcasting, I've found myself entertaining the thought of using their arcane materials in staff construction. $(br2)To think, wielding a purple-gem-adorned staff carved from a magical wood that isn't purple! How blasphemous!",
+  "lanishextendedstaves.page.crossmod_staves_1.1": "In any case, these staves as well do not yet provide any additional benefit that I can discern. However, I maintain that they look quite a bit nicer when accompanying other tools made of the same materials in my arsenal. If I study other diverse tools and decide to use them myself, I'd do well to have a staff that feels at home next to them in my bag.",
+  "lanishextendedstaves.page.crossmod_staves_1.crafting.header.botania": "Botanical Staves",
+  "lanishextendedstaves.page.crossmod_staves_1.crafting.desc.botania": "Mana? I hardly-- wait, what was I $(o)supposed/$ to reference?",
+  "lanishextendedstaves.page.crossmod_staves_1.crafting.header.arsnouveau": "Archwood Staves",
+  "lanishextendedstaves.page.crossmod_staves_1.crafting.desc.arsnouveau": "",
+
+  "lanishextendedstaves.entry.gloopstended_staves": "Gloop-stended Staves",
+  "lanishextendedstaves.page.gloopstended_staves.0": "$(o)\"Gloop\"! Ha! Wondrous./$$(br2)Recently I've caught wind of a curious substance simply dubbed \"gloop\". Along with it, even more staff designs have $(m)glooped/$ blown my way.",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.header.0": "Nether Staves",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.desc.0": "Hm. Not much seems to elicit foreboding strength $(o)quite/$ like waving around half a wither.$(br2)(note the lack of skulls in this recipe, dear reader!)",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.header.1": "Mept Staves",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.desc.1": "\"Say goodnight, sister!\"$(br2)Some legends tell of staves that made use of circular patterns. Sounds nothing short of wild witchery!",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.desc.2": "Nicknamed the \"Garden Staff\", it lets you cast the Revive Magick withou-- er, it's very... healthy to wield?",
+  "lanishextendedstaves.page.gloopstended_staves.crafting.desc.3": "Likewise to the Garden Staff, you may instead refer to this staff as the Hive Staff. Now populated with the hum of media $(o)and/$ the hum of busy friends!",
 
   "itemGroup.lanishextendedstaves.hextended_gear": "Hextended's Gear"
 }

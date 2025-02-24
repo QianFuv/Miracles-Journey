@@ -1,4 +1,6 @@
 {
+  "modmenu.descriptionTranslation.inventoryhud": "Displays inventory on screen while playing.",
+
   "key.inventoryhud.category": "Inventory HUD+",
   "key.inventoryhud.toggle": "Toggle InventoryHUD on/off",
   "key.inventoryhud.openconfig": "Open config",
@@ -69,6 +71,31 @@
   "key.inventoryhud.togglearm": "Toggle ArmorHUD on/off",
 
   "inventoryhud.config.gui.update" : "New version is available, ",
-  "inventoryhud.config.gui.updateclick" : "Click to get"
+  "inventoryhud.config.gui.updateclick" : "Click to get",
 
+  "inventoryhud.config.gui.keepnotify": "Notify more than once:",
+  "inventoryhud.config.gui.keepnotify.tt": "If false - you will receive notification about new version only once per version.",
+
+  "inventoryhud.config.gui.hiddeneffects": "Show hidden:",
+  "inventoryhud.config.gui.hiddeneffects.tt": "Show icons for hidden effects",
+
+  "inventoryhud.config.gui.bl.title": "Blacklist Editor",
+  "inventoryhud.config.gui.blacklist": "Blacklist:",
+  "inventoryhud.config.gui.blacklist.tt": "List of effects with disabled icons",
+  "inventoryhud.config.gui.blacklistbtn": "Edit",
+  "inventoryhud.config.gui.bl.add": "Add Effect",
+  "inventoryhud.config.gui.bl.delete": "Delete",
+  "inventoryhud.config.gui.bl.save": "Save",
+
+  "inventoryhud.config.gui.withdebug": "With debug:",
+  "inventoryhud.config.gui.invdebug.tt": "Show Inventory HUD when debug gui is ON",
+  "inventoryhud.config.gui.potdebug.tt": "Show Potion HUD when debug gui is ON",
+  "inventoryhud.config.gui.armdebug.tt": "Show Armor HUD when debug gui is ON",
+
+  "inventoryhud.config.gui.arrowswithoutweapon": "Arrows without weapon:",
+  "inventoryhud.config.gui.arrowswithoutweapon.tt": "Show arrows count even when no weapon in your hands",
+
+  "inventoryhud.config.gui.potionlevels": "Levels:",
+  "inventoryhud.config.gui.potionlevels.tt.1": "If 'true' Potion HUD will show all levels,",
+  "inventoryhud.config.gui.potionlevels.tt.2": "instead of infinity symbol for effects with level higher than nine"
 }
