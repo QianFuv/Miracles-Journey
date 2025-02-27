@@ -1830,11 +1830,11 @@ hash = "c639f1709e5072c9e117b5cb0b8c4f669245698d11655d4156392c069e42d541"
 
 [[files]]
 file = "config/customcredits/credits.json"
-hash = "d7c8d7f8352b1180d2bd9f940c3365a81433a006629ab7f427846221b6f463ab"
+hash = "92a54d4b8695f5dcc94da3ffa41328bd3b80aa26b3ce9c5e9c7c129cda8e65f1"
 
 [[files]]
 file = "config/customcredits/poem.txt"
-hash = "5cc387f1c14fbd8fce79a6b7994b07867b56f427f72f307b3c378a1401bd101a"
+hash = "22b898b2c1e5c3c689294bc6d28274fce95c34958eebb9f8b5dae9dbba5ff76a"
 
 [[files]]
 file = "config/customcredits/postcredits.txt"
