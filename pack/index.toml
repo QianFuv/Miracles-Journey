@@ -2230,7 +2230,7 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "655ab815004d272a5e66b55c679ff3791b198582f4c132024e5e6b21e28aa6bf"
+hash = "0f3f01d72fdeb0e4751627f5c0868c9accf48bd7dc1057e0696a9406ff15556f"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2878,7 +2878,7 @@ hash = "a7c7e0ff18bcd6772998ff7b177626b93f4a6c948ce7462366cc8a58b3b71efe"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
-hash = "a3de34dbf374906c4d2df6924df394311756256762c7378c36a261e62c568db1"
+hash = "7f18bcfc8a5496ac191238d594fde94f5b883a2a49f4fa273e9c3408ab334ba4"
 
 [[files]]
 file = "config/modulargolems-common.toml"
@@ -3844,7 +3844,7 @@ hash = "07e6c18d6b6af531744330a16cb874538296d34a665fa6c9a5e6f04fd606fc50"
 
 [[files]]
 file = "config/touhou_little_maid/info.json"
-hash = "bc01735a487214ef1c2b7b3c2fd9ae50ffd9043d292fa1fbf45617c2df53349c"
+hash = "abd18d9f2efe32e5e4540e14b5b89595eeba39914bae0ee7133dda012ce8207c"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable.json5"
@@ -7904,7 +7904,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4f9ffeaa04bb711ac4b8e0d673c60d846f6156d91fd29ba9bc0aa4447294b997"
+hash = "0778dc46a759b1551e74e89f9611922faf564bbd14487285ef594a53580005e6"
 
 [[files]]
 file = "patchouli_books/miracles_book/book.json"

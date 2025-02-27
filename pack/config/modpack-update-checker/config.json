@@ -1,6 +1,6 @@
 {
   "schemaVersion": 7,
-  "currentVersion": "0.2.0",
+  "currentVersion": "0.3.0",
   "modpackName": "MiraclesJourney",
   "modpackAuthor": "浅风 / QianFuv",
   "modpackReleaseType": "stable",
@@ -12,7 +12,6 @@
     "addButton": true,
     "mainMenuCreditsIntegration": true,
     "retroWarning": false,
-    "markdownRenderer": "builtin:basic",
     "modpackMods": []
   }
 }

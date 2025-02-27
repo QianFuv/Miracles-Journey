@@ -6,4 +6,5 @@
 /wiki/.vitepress/cache
 /wiki/node_modules
 
+/commit-categorizer.py
 /MJ.ffs_gui

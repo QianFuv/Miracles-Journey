@@ -1,0 +1,227 @@
+# V0.3.0 更新日志
+## 整合包 （共 107 项）
+### ➕ （33 项, 30.8%）
+- 新增模组 Angel Block Renewed、CorgiLib、Enhanced Celestials、Great Scrollable Tooltips、Harder Illage and Spillage、Maple、Peaceful Moon (7cbc024)
+- 使用 Just Enough Music 替换 All Music Remastered (6c81d7e)
+- 使用 All Music Remastered 替换 C4Music 系列 (b3400c9)
+- 新增模组（Create: Mortar - Mango Edition） (cce9ddc)
+- 新增模组（Vault Patcher） (e85ebeb)
+- 使用 Eidolon : Repraised 替换 Eidolon Rebrewed (511e417)
+- 新增资源包（RAY's 3D Ladders） (28380fb)
+- 新增模组（Rubidium extra） (84106fa)
+- 新增模组 Crate Delight、Create: Power Loader、KleeSlabs、MemorySweep、Trade Cycling (9f267d8)
+- 关闭长尾鲨生成 (42df35c)
+- 新增 Photon-GAMS 光影、调整原有光影配置 (ad31686)
+- 调整资源包 新增：AL's Piglins Revamped、AL's Skeletons Revamped 删除：Neko's Enhanced Tools and Armor (bf6d92e)
+- 新增模组、（调整）资源包 新增模组：Create: Tweaked Controllers、Raised 新增资源包：AL's Zombies Revamped、Alternative Sanding Wheel、Farcr's Better Dirt、Ore Variants 删除资源包：Better Grass (OptiFine) (b87b8c9)
+- 重新加回现代化 UI 删除模组：Blur (Forge)、Caxton、Ding (Forge) (68a67c5)
+- 新增模组 Block Swapper、Epic Dungeons: A Roguelike Journey、Structure Layout Optimizer (b4de52a)
+- 新增资源包（RAY's 3D Rails） (daa9271)
+- 新增模组 Bad Horse Fix、Book Wyrms、Galoblender、Leon's Backport Paintings 1.21、Placement+ (00844a2)
+- 新增资源包（Neko's Enhanced Tools and Armor） (b34e2d7)
+- 新增模组 Corpse x Curios API Compat、Create: Pattern Schematics、Create: Trading Floor、Dumplings Delight Reload、Goety & Spillage、Hex-Ars Linker、Let Me Feed You!、Mana Visualizer、More Additional Paintings、Save My Shaky Network、Structure Layout Optimizer (e14045e)
+- 新增模组 很多就不一一列出了 awa (d9d3f07)
+- 新增模组（Dimension Data Fix） (41d9e76)
+- Create : Creating Space 替换 Create: Northstar (6d6b81d)
+- 新增模组（大部分结构战利品表优化） (5abde28)
+- 新增模组（丰富结构） Dungeons Plus、MES - Moog's End Structures、MVS - Moog's Voyager Structures (84dba4b)
+- 新增模组 Infinity Buttons、Mushroom Villagers、Scroll of Harvests、Champions Unofficial (51fd30b)
+- 新增模组 MAtmos ambient sound、Nimble、TCT Core (e14f746)
+- 新增模组 HexKinetics (5e625b0)
+- 替换 Paragliders 为 Hang Glider (e9d07f1)
+- 新增模组 Advancement Frames、ArtisticCraft、Born in Chaos、Colorful Azaleas、Cooking for Blockheads、Cosmos Library、Cosmos Portals、Dimension Teleport、Dimensional Sync Fixes、Echo Chest、Illagers Wear Armor、Just Outdoor Stuffs、Lighting Wand、Potion Bundles、Randomium Ore、Refined Cooking、SwingThroughGrass (d34d7ac)
+- 新增模组 Decoration Delight: Refurbished、Hex Conjuring (cfbae00)
+- 新增模组 Ephemera、Rustic Pancakes (342c6cf)
+- 新增一系列模组 Anvil Restoration、Chowder Express、Create Compressed、Dynamic Crosshair、Funky Fluids、Grass Overhaul、Green Delights、Horse Stonks、The New Shutters、Medieval Seedbags、More Than 50、Nature Architect: Plants and Decorations、NoCube's Better Smoker、qrafty's End Villages、Trade Uses、Waxable Coral、Workshop for handsome adventurer (8c7e75b)
+- 新增模组（Mclogs、Spark） (aac4b25)
+
+### 🐛 （18 项, 16.8%）
+- 修复飞行特性失效 (10e7ba3)
+- 使用 Vault Patcher 实现了之前的几个 Bug 修复 (e757ebd)
+- 修复暂停界面元素错位 (eb790a9)
+- 修复奇旅全书条目错误 (82f785c)
+- 修复部分结构生成冻结游戏 (944b802)
+- 修复原版龙蛋复制 Bug (438d5cd)
+- 修复二段跳与鞘翅冲突 (dd33899)
+- 修复 Hexgloop 渲染问题 (0b3abe1)
+- 修复查看火盆配方崩溃 (9ed81b4)
+- 修复双开门无法使用 (bcb8f78)
+- 修复奇旅全书条目显示错误 (dbbd398)
+- 修复 HexGloop 渲染错误 (ac037c4)
+- 修复二段跳爬梯摔落伤害异常 (655dfc4)
+- 修复异常网络占用、卡顿 删除 TofuCraftReload、Tofu Delight 和 TofuCreate (f64a8db)
+- 修复 Complementary Reimagined 配置错误 (4eaec29)
+- 修复 Oculus 内存泄漏 (de6a8d1)
+- 修复光影包错误 (fdaa4e8)
+- 修复饱和度显示错误 (894948d)
+
+### 🔧 （15 项, 14.0%）
+- 允许复刻怪生成 (0644378)
+- 关闭骑乘/鞘翅自动第三人称 (bfbe5b2)
+- 关闭树苗自动种植 (97cb6f9)
+- 优化键位设置 (26ec2f7)
+- 关闭 FtbChunks 死亡路径点 (e2b2c78)
+- 调整远物停载配置（刷怪塔认领区块使用） (2f84351)
+- 关闭传送石碑提示 (df609c1)
+- 更新 Crash Assistant 窗口提示语和相关链接 (2c4325d)
+- 自定义全部 Forgery 特性 (4d9f53e)
+- 常规配置同步 (19ad07d)
+- 常规配置同步 (8d313c0)
+- 常规配置同步 (df44dd4)
+- 配置 Better Compatibility Checker (2a31aab)
+- 优化准星表现 (aaf92f8)
+- 更新版本名称 (239cf5a)
+
+### ➖ （14 项, 13.1%）
+- 删除模组 Celestisynth、Diet、Village Artifacts、Witch Mobility (17d8052)
+- 删除 Knaves' Needs（简易刀剑没删干净） (17a1fe0)
+- 删除功能较小、生态位重复模组 Damp、Simply Swords、Chess、Beneath the snow (f05122f)
+- 删除功能较小、重复模组 Block Swapper、Building Wands、Mana Visualizer (6653a4b)
+- 删除模组（Create: Power Loader） (913f5a0)
+- 删除模组（No Chat Reports） (2d7e7ce)
+- 删除模组（Scroll of Harvests） (ba16a10)
+- 删除模组（Equipment Compare） (6abc19c)
+- 删除模组 Dynamic Crosshair、Extended Noteblock - Forge、Structure Layout Optimizer (b482dfe)
+- 删除 Polytone（不生效） (a317a67)
+- 删除部分 MCreator 模组 Born in Chaos、Create Compressed、Just Outdoor Stuffs、NoCube's Better Smoker (9a4c86a)
+- 删除环境音效（MAtmos ambient sound、TCT Core） (ec31d6e)
+- 删除模组（Trade Uses） 低版本与 Fancymenu 冲突 (9078f58)
+- 删除 Mob Compack 内容极少 (927cc3d)
+
+### 📝 （5 项, 4.7%）
+- 规范收录非 Curseforge 光影 (fcd48a0)
+- 规范收录非 Curseforge 模组 (645e44e)
+- 手册匹配最新模组列表 (435d8c1)
+- 奇旅全书目录初始化 (b921632)
+- 新增奇旅全书（完成框架设计） (ccf4689)
+
+### 💄 （5 项, 4.7%）
+- 物品栏连接材质回归、调整准心大小 (6a4f80a)
+- 删除 GUI 配方书图案 (9fc7415)
+- 奇旅全书使用自定义字体 (ae1f5d3)
+- 调整 Diet 按钮位置 (5d45688)
+- 优化资源包页面 (bb23acb)
+
+### 🔥 （4 项, 3.7%）
+- 关闭通用保护特性 (32897c7)
+- 删除多余的配置文件 (4821d43)
+- 删除多余的资源包 (6fe9587)
+- 删除更新日志自定义布局 (22be317)
+
+### 🌐 （3 项, 2.8%）
+- 更新模组语言文件（英文） (2e7c2c0)
+- 汉化奇旅全书中部分模组名称 (6667f11)
+- 添加额外的汉化 (daad6ee)
+
+### ✨ （2 项, 1.9%）
+- 添加 pintree 书签自动转换脚本 (04da074)
+- 新增食物分类提示 (aef3f36)
+
+### 🚚 （2 项, 1.9%）
+- 优化配置数据包结构 (b8fb4e3)
+- 更新更新链接（？雾） (c0d1fbf)
+
+### 🔖 （2 项, 1.9%）
+- 更新测试版版本号 (f3aced8)
+- 发布版本 V0.2.0 (e41ef94)
+
+### 🎨 （1 项, 0.9%）
+- 优化终末之诗翻译 (86f0df7)
+
+### 💸 （1 项, 0.9%）
+- 新增赞助者（keker） (4860d47)
+
+### 📌 （1 项, 0.9%）
+- 强制使用 OpenGL 4.6 (b1f7e4a)
+
+### 👥 （1 项, 0.9%）
+- 更新赞助者列表 (de86543)
+
+
+## 文档 （共 20 项）
+### 📝 （9 项, 45.0%）
+- 规范下载方式 (5460b37)
+- 添加更多下载方式 (8021c9c)
+- 部分格式修改 (f01f1d1)
+- 明确反馈途径 (cb74c22)
+- 更新版本路径 (e55fa8d)
+- 优化内存分配提醒 (16173ae)
+- 优化更新教程表述 (f52cd12)
+- 更新安装教程 (756b205)
+- 更新更新教程（？雾） (3c150ed)
+
+### 💄 （5 项, 25.0%）
+- 使用新 LOGO 和配色 (4ceda79)
+- 使用默认字体 (1c75925)
+- 美化页面 (60a6ad5)
+- 添加自定义字体 (e1d6672)
+- 添加颜色模式过渡动画 (a78bc2f)
+
+### 🔥 （2 项, 10.0%）
+- 删除实体阴影配置（已默认关闭） (73c6d41)
+- 删除主界面部分废话 (0632499)
+
+### 🚚 （2 项, 10.0%）
+- 再次更新版本路径 (cc4d0f3)
+- 更新仓库链接 (d7a415a)
+
+### 🎨 （1 项, 5.0%）
+- 调整文件结构 (b895fdb)
+
+### 🐛 （1 项, 5.0%）
+- 修复荧光笔标识 (616e007)
+
+
+## 仓库 （共 33 项）
+### 📝 （11 项, 33.3%）
+- 删除维基和资源列表监控 (65073f1)
+- 更新整合包描述 (9210626)
+- 删除 Badge 链接 (7ba53e1)
+- 添加模组列表 Badge、优化版本显示逻辑 (556fba4)
+- 添加模组列表链接 (2b68796)
+- 优化图像链接、删除 Star 记录 (48f6039)
+- 更新自述文件 (39617e6)
+- 更新自述文件 (9c24ecb)
+- 更新自述文件 (c27f6bb)
+- 更新 Wiki 链接 (a2de734)
+- 更新加群链接 (fdf70c4)
+
+### 💚 （5 项, 15.2%）
+- 修复可能出现的  '/usr/bin/git' 错误 (16e0e6c)
+- 修复 Artifact 文件名格式错误 (13b0043)
+- 尝试修复 SHA 错误 (7b192c8)
+- 尝试修复目录导致 SHA 为空的问题 (12e031f)
+- 尝试修复 § 特殊字符 (0fa50e4)
+
+### 👷 （5 项, 15.2%）
+- 规范构建格式使其符合语义化版本 (e9ae3a4)
+- 加回 Artifact 上传 (d20342c)
+- 配置自动构建上传 123 云盘 (99d31e8)
+- 优化测试版命名（适配手动触发） (53ee0e4)
+- 优化构建描述 (be0546a)
+
+### 🙈 （4 项, 12.1%）
+- 删除无关条目 (b004656)
+- 忽略 __pycache__ 目录 (73b8a4a)
+- 删除无效条目 (2b4abe9)
+- 更新 gitignore (afab05b)
+
+### 💬 （2 项, 6.1%）
+- 更新资源列表链接x2 (72fc4a8)
+- 更新资源列表链接 (061eeb0)
+
+### 📄 （2 项, 6.1%）
+- 修改协议（CC BY-NC-ND 4.0） (6f33ec8)
+- 添加协议（CC BY-NC-SA 4.0） (29bc992)
+
+### 🔧 （1 项, 3.0%）
+- 关闭空 Issue 模板 (f95b860)
+
+### 💄 （1 项, 3.0%）
+- 使用新 LOGO (464a325)
+
+### 🐛 （1 项, 3.0%）
+- 修复大写错误 (5175bb7)
+
+### 🚚 （1 项, 3.0%）
+- 修复错误的文件夹命名 (c2705b7)
