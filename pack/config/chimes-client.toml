@@ -4,12 +4,6 @@
 	Animations = true
 	#Toggle falling Bamboo Leaf particles from Bamboo Wind Chimes
 	"Bamboo Wind Chime Leaf Particles" = true
-	#Toggle Ambient Wind sounds that Wind Chimes make
-	"Ambient Wind" = true
-	#Adjust the volume of ambient Wind Chime Sounds.
-	#Range: 0.0 ~ 1.0
-	"Ambient Wind Chime Sound Volume" = 1.0
-	#Adjust the volume of interaction Wind Chime Sounds.
-	#Range: 0.0 ~ 1.0
-	"Interaction Wind Chime Sound Volume" = 1.0
+	#Toggle on/off pre 1.20 Bamboo Wind Chime textures
+	"Previous Bamboo Wind Chime texture" = false
 

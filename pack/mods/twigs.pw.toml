@@ -1,13 +1,13 @@
 name = "Twigs"
-filename = "twigs-forge-1.19.2-3.0.1.jar"
+filename = "Twigs-1.20.1-3.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6c5ab9b69d9f6aee6a88a8ac46200733a67f48a"
+hash = "704711f8abebf051945dca2ae2a1eba9c3405c57"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4533061
+file-id = 4998195
 project-id = 496913

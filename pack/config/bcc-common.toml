@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "Miracles-Journey"
+	modpackName = "PLEASE_CHANGE_ME"
 	#The version of the modpack
-	modpackVersion = "0.3.0"
+	modpackVersion = "CHANGE_ME"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

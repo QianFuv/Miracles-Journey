@@ -1,13 +1,13 @@
 name = "Bushier Flowers"
-filename = "bushierflowers-0.0.2-1.19.2.jar"
+filename = "bushierflowers-0.0.3-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "48d13b41cdbcfa8e0576507e9f783bb77a9e5910"
+hash = "f37f505fbb57634a98672ba3efbd1949f3eee309"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4035417
+file-id = 4621366
 project-id = 682644

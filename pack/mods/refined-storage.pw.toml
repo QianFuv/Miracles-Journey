@@ -1,13 +1,13 @@
 name = "Refined Storage"
-filename = "refinedstorage-1.11.7.jar"
+filename = "refinedstorage-1.12.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc81064ecf2e703a48fb82db1e842772921ed1fb"
+hash = "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4861827
+file-id = 4844585
 project-id = 243076

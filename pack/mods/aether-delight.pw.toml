@@ -1,13 +1,13 @@
 name = "Aether Delight (A Farmer's Delight Add-on)"
-filename = "aether_delight_1.0.0_forge_1.19.2.jar"
+filename = "aether_delight_1.0.0_forge_1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c22e78a87fe394783fe64ce158b034c0bea390d"
+hash = "06fa2c938df90e4a8220b8bb4168a637b5c15989"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5029293
+file-id = 5029396
 project-id = 961108

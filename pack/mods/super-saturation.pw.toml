@@ -1,13 +1,13 @@
 name = "Super Saturation"
-filename = "supersaturation-1.19.2-4.0.0.jar"
+filename = "supersaturation-1.20.1-5.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5a3862b44fad8e6df559c8adf004c61b096b8b79"
+hash = "a2ff9e3eb16fc7f780c857af99e257edd5d67f00"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4171469
+file-id = 4998350
 project-id = 431906

@@ -1,13 +1,13 @@
 name = "Create Encased"
-filename = "CreateCasing-1.19.2-1.6.1-fix3.jar"
+filename = "Create Encased-1.20.1-1.7.0-fix1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "916a369033ccf39ebd3c75288751dd16a65266e5"
+hash = "45327db0766f66be1f1b7eac5d63c486833a8fa4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5695477
+file-id = 6272228
 project-id = 829380

@@ -37,6 +37,13 @@
         "negate": false,
         "value": "minecraft:deep_lukewarm_ocean"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "alexscaves:abyssal_chasm"
+      }
     ]
   ]
 }

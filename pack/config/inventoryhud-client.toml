@@ -44,14 +44,14 @@
 	#Show/Hide empty slot icon
 	showEmpty = true
 	#Show overall count of items in main/off hand
-	showCount = false
+	showCount = true
 	#ArmorHUD scale in persentage from 50 to 150
 	#Range: 50 ~ 150
 	armScale = 100
 	#Show Armor HUD when debug menu is open
 	armWithDebug = true
 	#Show arrows count when no weapon in your hands
-	showArrowsWithoutWeapon = true
+	showArrowsWithoutWeapon = false
 
 #Settings for Potions HUD
 [potionshud]
@@ -77,13 +77,13 @@
 	#Show Potion HUD when debug menu is open
 	potWithDebug = true
 	#Show all levels of effects
-	potionLevels = true
+	potionLevels = false
 
 #DONT TOUCH THESE FIELDS!
 [positions]
 	#Inventory HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	invValign = "CENTER"
+	invValign = "BOTTOM"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
 	invHalign = "MIDDLE"
@@ -92,19 +92,19 @@
 	xPos = 0
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = -21
+	yPos = 150
 	#Armor HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	armValign = "BOTTOM"
 	#Armor HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	armHalign = "RIGHT"
+	armHalign = "LEFT"
 	#Armor HUD position (X)
 	#Range: -9999 ~ 9999
-	xArmPos = 93
+	xArmPos = 0
 	#Armor HUD position (Y)
 	#Range: -9999 ~ 9999
-	yArmPos = 73
+	yArmPos = 70
 	#Potion HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
 	potValign = "TOP"
@@ -116,7 +116,7 @@
 	xPotionPos = 18
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 16
+	yPotionPos = 15
 	#Helmet position (X)
 	#Range: -9999 ~ 9999
 	helmPosX = 103
@@ -217,7 +217,7 @@
 #Notification settings
 [notification]
 	#Last notified mod version
-	lastNotifiedVersion = "2.36.2"
+	lastNotifiedVersion = "2.5.29.4"
 	#Notify more than once
 	keepNotifying = true
 

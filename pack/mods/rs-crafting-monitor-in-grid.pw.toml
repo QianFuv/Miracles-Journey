@@ -1,13 +1,13 @@
 name = "RS: Crafting Monitor in Grid"
-filename = "RS_CraftingMonitorInGrid-1.19.2-3.1.jar"
+filename = "RS_CraftingMonitorInGrid-1.20.1-4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9b1fff9a38888ce8fd1b215e2900b46a6ba34c9a"
+hash = "cf19cdcdbf80220fd72c8e23d7d73fefcc0e7b09"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4550683
+file-id = 4632730
 project-id = 865533

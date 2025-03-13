@@ -1,13 +1,13 @@
 name = "TelePass"
-filename = "TelePass-1.19.2-1.2.2.jar"
+filename = "TelePass-forge-1.20.1-2.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc38a06a3c9cf4ad00acae07d6e98a1a73654c0a"
+hash = "ed7997dd8b9b20ccf609fab755fe674a6a1387bc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4172221
+file-id = 5327218
 project-id = 341875

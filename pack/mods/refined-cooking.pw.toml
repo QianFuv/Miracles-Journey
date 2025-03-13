@@ -1,13 +1,13 @@
 name = "Refined Cooking"
-filename = "refinedcooking-3.0.3.jar"
+filename = "refinedcooking-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d264a39cceedf1225ab1efc4c80f63ca17c35942"
+hash = "a67202a1ea133c8a8f154a4498ff7a6bc7629f8e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4110182
+file-id = 4706949
 project-id = 543972

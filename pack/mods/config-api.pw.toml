@@ -1,0 +1,13 @@
+name = "Config API [Fabric/Forge/NeoForge/Quilt]"
+filename = "ConfigAPI-CJ-forge-mc-1.20-2.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b70e0b086ea1aaeb14b1775703d42c0acbadf9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5467942
+project-id = 968816

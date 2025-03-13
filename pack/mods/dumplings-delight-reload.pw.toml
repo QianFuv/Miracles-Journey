@@ -1,13 +1,13 @@
 name = "Dumplings Delight Reload"
-filename = "dumplings_delight-1.0.1.jar"
+filename = "dumplings_delight-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c3f0dd140c17ef9d9479831d6fef9474d0b168ed"
+hash = "5b70cc630db9cf5f1eb87e71d8dbe1f3a60490c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5908127
+file-id = 5908130
 project-id = 1098363

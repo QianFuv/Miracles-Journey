@@ -1,13 +1,13 @@
 name = "Yuushya Modelling"
-filename = "yuushya-modelling-1.19.2-forge-2.2.0.jar"
+filename = "yuushya-modelling-1.20.1-forge-2.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "96dd2f1478f2b0451a9b3b81459ded8c3f4f4783"
+hash = "1ca5eb194a56f8d0fe35c54b025e7be7a78a7c31"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5739072
+file-id = 5739061
 project-id = 899087

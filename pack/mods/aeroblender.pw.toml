@@ -1,13 +1,13 @@
 name = "AeroBlender"
-filename = "aeroblender-1.19.2-1.0.1.jar"
+filename = "aeroblender-1.20.1-1.0.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "935d52c587bc0d0cf62917a5c01fae3a104c5dac"
+hash = "98e6a2a4c312f2aae0eb674ea5a923037378c7da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5178797
+file-id = 4789008
 project-id = 879879

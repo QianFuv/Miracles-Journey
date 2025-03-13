@@ -1,13 +1,13 @@
-name = "Dawn Of Time - Builder Edition "
-filename = "dotbe-1.4.2.jar"
+name = "Dawn Of Time"
+filename = "Dawn Of Time-forge-1.20.1-1.5.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f450a76c23326e7600a1b8dbf789849e5d59b3a0"
+hash = "b27651bf27f9e50340420c1e3bf6c7a0c7204cd8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5977217
+file-id = 6291920
 project-id = 312359

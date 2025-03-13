@@ -1,0 +1,13 @@
+name = "EveryX Hotpot"
+filename = "everyxhotpot-1.1.2BF2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5cc6484188c2cc129d1ff64d03568948bfd9a8c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5409065
+project-id = 1032719

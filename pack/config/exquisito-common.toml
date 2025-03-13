@@ -36,12 +36,12 @@
 	[Compatibility."Specific Settings"]
 		#Whether to enable the modifications for Enlightend.
 		"Enlightend Modification" = true
+		#Whether to enable the modifications for Oh The Biomes You'll Go.
+		"Oh The Biomes You'll Go Modification" = true
 		#Whether to enable the modifications for End's Delight.
 		"End's Delight Compatibility" = true
 		#Whether to enable the modifications for Unusual End.
 		"Unusual End Compatibility" = true
-		#Whether to enable the modifications for Oh The Biomes You'll Go.
-		"Oh The Biomes You'll Go Modification" = true
 		#Whether to enable the modifications for Ender's Delight.
 		"Ender's Delight Compatibility" = true
 		#Whether to enable the modifications for Vanilla Cookbook.

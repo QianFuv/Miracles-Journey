@@ -1,13 +1,13 @@
 name = "SebastrnLib"
-filename = "sebastrnlib-2.0.2.jar"
+filename = "sebastrnlib-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "32b013cca8be92b16c48704abbc7bf95ce0ac60c"
+hash = "9cfed6776ff5ccda300dd0cee610dddb68c5fa15"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4431427
+file-id = 4706669
 project-id = 709936

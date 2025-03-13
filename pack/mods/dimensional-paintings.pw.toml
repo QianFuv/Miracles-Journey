@@ -1,13 +1,13 @@
 name = "Dimensional Paintings"
-filename = "Dimensional-Paintings-1.19.2-1.4.1.jar"
+filename = "Dimensional-Paintings-1.20.1-2.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8a49ef49dc34b9a5d18eacc3f9bb3f25b5754604"
+hash = "12aecfdc666f26473b1598efb8e2886144ad43cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4363227
+file-id = 6034814
 project-id = 480500

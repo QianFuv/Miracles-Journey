@@ -1,5 +1,8 @@
 {
   "weapons": {
+    "materials": {
+    },
+
     "regular": {
       "wooden_dagger": {
         "tier": "Wood",
@@ -60,6 +63,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 1,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.05,
@@ -125,6 +129,22 @@
         "twoHandedMajDamage": 3,
         "twoHandedMajSpeed": 0.5
       },
+
+      "wooden_battle_axe": {
+        "tier": "Wood",
+        "weaponType": "Axe",
+
+        "damage": 7,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 3,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "wooden_glaive": {
         "tier": "Wood",
@@ -150,6 +170,7 @@
         "piercingAmount": 0.8,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 1,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -184,6 +205,117 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 2,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "wooden_throwing_knife": {
+        "tier": "Wood",
+
+        "damage": 1,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 4,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "wooden_shuriken": {
+        "tier": "Wood",
+
+        "damage": 1,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 1.5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "wooden_chakram": {
+        "tier": "Wood",
+
+        "damage": 2,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 3,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "wooden_javelin": {
+        "tier": "Wood",
+
+        "damage": 2,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 0.8,
+
+        "throwingWeapon": {
+          "damage": 5,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "stone_dagger": {
@@ -245,6 +377,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 1,
         "twoHandedMajDamage": 4,
         "twoHandedMinSpeed": 0.05,
@@ -310,6 +443,22 @@
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.5
       },
+
+      "stone_battle_axe": {
+        "tier": "Stone",
+        "weaponType": "Axe",
+
+        "damage": 9.7,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 3,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "stone_glaive": {
         "tier": "Stone",
@@ -335,6 +484,7 @@
         "piercingAmount": 0.8,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 2,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -369,6 +519,117 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 3,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "stone_throwing_knife": {
+        "tier": "Stone",
+
+        "damage": 2,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 3,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "stone_shuriken": {
+        "tier": "Stone",
+
+        "damage": 2,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 2.5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "stone_chakram": {
+        "tier": "Stone",
+
+        "damage": 3,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 5,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "stone_javelin": {
+        "tier": "Stone",
+
+        "damage": 3,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 0.8,
+
+        "throwingWeapon": {
+          "damage": 7,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "golden_dagger": {
@@ -430,6 +691,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 1,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.05,
@@ -495,6 +757,22 @@
         "twoHandedMajDamage": 3,
         "twoHandedMajSpeed": 0.5
       },
+
+      "golden_battle_axe": {
+        "tier": "Gold",
+        "weaponType": "Axe",
+
+        "damage": 7,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 3,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "golden_glaive": {
         "tier": "Gold",
@@ -520,6 +798,7 @@
         "piercingAmount": 0.8,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 1,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -554,6 +833,117 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 2,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "golden_throwing_knife": {
+        "tier": "Gold",
+
+        "damage": 4,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 2,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "golden_shuriken": {
+        "tier": "Gold",
+
+        "damage": 1,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 1.5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "golden_chakram": {
+        "tier": "Gold",
+
+        "damage": 2,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 3,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "golden_javelin": {
+        "tier": "Gold",
+
+        "damage": 2,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 0.8,
+
+        "throwingWeapon": {
+          "damage": 5,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "iron_dagger": {
@@ -615,6 +1005,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 1,
         "twoHandedMajDamage": 4,
         "twoHandedMinSpeed": 0.1,
@@ -681,6 +1072,22 @@
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.5
       },
+
+      "iron_battle_axe": {
+        "tier": "Iron",
+        "weaponType": "Axe",
+
+        "damage": 12.3,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 3,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "iron_glaive": {
         "tier": "Iron",
@@ -706,6 +1113,7 @@
         "piercingAmount": 0.8,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 2,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -741,7 +1149,118 @@
         "twoHandedMajDamage": 3,
         "twoHandedMajSpeed": 0.3
       },
-      
+
+      "iron_throwing_knife": {
+        "tier": "Iron",
+
+        "damage": 3,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 6,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "iron_shuriken": {
+        "tier": "Iron",
+
+        "damage": 3,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 3.5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "iron_chakram": {
+        "tier": "Iron",
+
+        "damage": 4,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 7,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "iron_javelin": {
+        "tier": "Iron",
+
+        "damage": 4,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 0.8,
+
+        "throwingWeapon": {
+          "damage": 9,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
       "diamond_dagger": {
         "tier": "Diamond",
         
@@ -801,6 +1320,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 2,
         "twoHandedMajDamage": 5,
         "twoHandedMinSpeed": 0.05,
@@ -867,6 +1387,22 @@
         "twoHandedMajDamage": 5,
         "twoHandedMajSpeed": 0.5
       },
+
+      "diamond_battle_axe": {
+        "tier": "Diamond",
+        "weaponType": "Axe",
+
+        "damage": 15,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 4,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "diamond_glaive": {
         "tier": "Diamond",
@@ -892,6 +1428,7 @@
         "piercingAmount": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -916,16 +1453,127 @@
       
       "diamond_pike": {
         "tier": "Diamond",
-        
+
         "damage": 8,
         "speed": 0.8,
         "range": 5,
-        
+
         "piercingAmount": 2,
-        
+
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "diamond_throwing_knife": {
+        "tier": "Diamond",
+
+        "damage": 3,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 7,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "diamond_shuriken": {
+        "tier": "Diamond",
+
+        "damage": 3,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 4.5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "diamond_chakram": {
+        "tier": "Diamond",
+
+        "damage": 5,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 9,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "diamond_javelin": {
+        "tier": "Diamond",
+
+        "damage": 4,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 1,
+
+        "throwingWeapon": {
+          "damage": 11,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "netherite_dagger": {
@@ -987,6 +1635,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 2,
         "twoHandedMajDamage": 5,
         "twoHandedMinSpeed": 0.05,
@@ -1053,6 +1702,22 @@
         "twoHandedMajDamage": 5,
         "twoHandedMajSpeed": 0.5
       },
+
+      "netherite_battle_axe": {
+        "tier": "Netherite",
+        "weaponType": "Axe",
+
+        "damage": 17.7,
+        "speed": 0.6,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 5,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "netherite_glaive": {
         "tier": "Netherite",
@@ -1078,6 +1743,7 @@
         "piercingAmount": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -1112,6 +1778,117 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "netherite_throwing_knife": {
+        "tier": "Netherite",
+
+        "damage": 4,
+        "speed": 3,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+
+        "throwingWeapon": {
+          "damage": 8,
+          "force": 1.5,
+          "ammo": 8,
+
+          "chargeTime": 8,
+          "inaccuracy": 0.5,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "netherite_shuriken": {
+        "tier": "Netherite",
+
+        "damage": 3,
+        "speed": 2.5,
+        "range": 1.8,
+
+        "invincibilityTime": 5,
+
+        "throwingWeapon": {
+          "damage": 5,
+          "force": 1.3,
+          "ammo": 8,
+
+          "chargeTime": 4,
+          "inaccuracy": 4,
+          "weight": 1,
+          "waterInertia": 0.3,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "netherite_chakram": {
+        "tier": "Netherite",
+
+        "damage": 6,
+        "speed": 2,
+        "range": 2.25,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 5,
+          "inaccuracy": 1.5,
+          "weight": 0.5,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "netherite_javelin": {
+        "tier": "Netherite",
+
+        "damage": 5,
+        "speed": 1.2,
+        "range": 4,
+
+        "piercingAmount": 1,
+
+        "throwingWeapon": {
+          "damage": 12,
+          "force": 3,
+          "ammo": 4,
+
+          "chargeTime": 15,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "electrum_dagger": {
@@ -1182,6 +1959,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 2,
         "twoHandedMajDamage": 5,
         "twoHandedMinSpeed": 0.05,
@@ -1256,6 +2034,24 @@
         "twoHandedMajDamage": 5,
         "twoHandedMajSpeed": 0.5
       },
+
+      "electrum_battle_axe": {
+        "dependencies": "oreganized",
+
+        "tier": "Electrum",
+        "weaponType": "Axe",
+
+        "damage": 15,
+        "speed": 0.65,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 5,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "electrum_glaive": {
         "dependencies": "oreganized",
@@ -1285,6 +2081,7 @@
         "piercingAmount": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -1323,6 +2120,110 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "electrum_throwing_knife": {
+        "tier": "Electrum",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 8,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "electrum_shuriken": {
+        "tier": "Electrum",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 16,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "electrum_chakram": {
+        "tier": "Electrum",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 0.5,
+          "waterInertia": 1,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "electrum_javelin": {
+        "tier": "Electrum",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 2,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       },
       
       "adamantite_dagger": {
@@ -1394,6 +2295,7 @@
         "sweepDamage": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMinDamage": 2,
         "twoHandedMajDamage": 5,
         "twoHandedMinSpeed": 0.05,
@@ -1468,6 +2370,24 @@
         "twoHandedMajDamage": 5,
         "twoHandedMajSpeed": 0.5
       },
+
+      "adamantite_battle_axe": {
+        "dependencies": "enlightened_end",
+
+        "tier": "Adamantite",
+        "weaponType": "Axe",
+
+        "damage": 20.4,
+        "speed": 0.5,
+        "range": 3.25,
+
+        "twoHandedLevel": 1,
+		"createThdCopy": true,
+        "twoHandedMinDamage": 1,
+        "twoHandedMajDamage": 5,
+        "twoHandedMinSpeed": 0.1,
+        "twoHandedMajSpeed": 0.3
+      },
       
       "adamantite_glaive": {
         "dependencies": "enlightened_end",
@@ -1497,6 +2417,7 @@
         "piercingAmount": 2,
         
         "twoHandedLevel": 1,
+		"createThdCopy": true,
         "twoHandedMajDamage": 3,
         "twoHandedMinSpeed": 0.1,
         "twoHandedMajSpeed": 0.55
@@ -1535,6 +2456,110 @@
         "twoHandedLevel": 2,
         "twoHandedMajDamage": 4,
         "twoHandedMajSpeed": 0.3
+      },
+
+      "adamantite_throwing_knife": {
+        "tier": "Adamantite",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 8,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.7,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
+      },
+
+      "adamantite_shuriken": {
+        "tier": "Adamantite",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 16,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": false
+          }
+        }
+      },
+
+      "adamantite_chakram": {
+        "tier": "Adamantite",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 4,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 0.5,
+          "waterInertia": 1,
+
+          "modelData": {
+            "textureSize": "16X",
+            "useAnim": "spear",
+            "rotating": true,
+            "horizontal": true
+          }
+        }
+      },
+
+      "adamantite_javelin": {
+        "tier": "Adamantite",
+
+        "damage": 5,
+        "speed": 1.6,
+        "range": 3,
+
+        "throwingWeapon": {
+          "damage": 10,
+          "force": 2.5,
+          "ammo": 2,
+
+          "chargeTime": 10,
+          "inaccuracy": 1,
+          "weight": 1,
+          "waterInertia": 0.6,
+
+          "modelData": {
+            "textureSize": "32X",
+            "useAnim": "spear",
+            "rotating": false,
+            "horizontal": false
+          }
+        }
       }
     }
   }

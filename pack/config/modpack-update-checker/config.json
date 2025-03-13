@@ -1,17 +1,17 @@
 {
-  "schemaVersion": 7,
-  "currentVersion": "0.3.0",
-  "modpackName": "MiraclesJourney",
-  "modpackAuthor": "浅风 / QianFuv",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://proxy.qianf.fun/proxy/https://raw.githubusercontent.com/QianFuv/Miracles-Journey/refs/heads/main/pack/",
-  "advanced": {
-    "bccEnabled": false,
-    "expandButton": true,
-    "updateCheckerType": 2,
-    "addButton": true,
-    "mainMenuCreditsIntegration": true,
-    "retroWarning": false,
-    "modpackMods": []
-  }
+    "schemaVersion": 7,
+    "currentVersion": "0.3.0",
+    "modpackName": "MiraclesJourney",
+    "modpackAuthor": "浅风 / QianFuv",
+    "modpackReleaseType": "stable",
+    "updateCheckerId": "https://proxy.qianf.fun/proxy/https://raw.githubusercontent.com/QianFuv/Miracles-Journey/refs/heads/main/pack/",
+    "advanced": {
+        "bccEnabled": false,
+        "expandButton": true,
+        "updateCheckerType": 2,
+        "addButton": true,
+        "mainMenuCreditsIntegration": true,
+        "retroWarning": false,
+        "modpackMods": []
+    }
 }

@@ -1,15 +1,19 @@
 {
     "globalSettings": {
-        "configVersion": 11,
+        "configVersion": 12,
         "configType": "Forge",
         "printBiomes": false,
         "globalDebug": false,
         "enable3rdPersonFlying": false,
+        "mountedFlightAllowed": true,
         "enableFlyingGravity": true,
         "mountFriendlyFireProtection": false,
         "disableUiOverlay": false,
         "mobCap": 16,
-        "mobCapRange": 192
+        "mobCapRange": 192,
+        "speedRange": .9,
+        "healthRange": 10,
+        "jumpRange": .6
     },
     "itemGroups": {
         "flowerItems": ["sugar", "dandelion", "poppy", "blue_orchid", "allium", "azure_bluet", "red_tulip", "orange_tulip", "white_tulip", "pink_tulip", "oxeye_daisy", "cornflower", "lily_of_the_valley", "lilac", "rose_bush", "peony", "flowering_azalea_leaves"],

@@ -9,5 +9,5 @@
 	#Hide crosshair when scoping
 	showcrosshair = false
 	#Smooth camera while scoping
-	smoothcamera = true
+	smoothcamera = false
 

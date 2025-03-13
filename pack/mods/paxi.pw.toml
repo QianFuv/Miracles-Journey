@@ -1,13 +1,13 @@
 name = "Paxi (Forge)"
-filename = "Paxi-1.19.2-Forge-3.0.1.jar"
+filename = "Paxi-1.20-Forge-4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2b2f2fb80ab85437a81253dc0149250dc1d84e2c"
+hash = "a3a7008e07a27b3c831af7e4c82fbbc10a4da328"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4327033
+file-id = 4749994
 project-id = 515708

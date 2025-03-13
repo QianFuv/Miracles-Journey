@@ -1,13 +1,13 @@
 name = "Chowder Express"
-filename = "ChowderExpress-1.19.2-1.1.0.jar"
+filename = "ChowderExpress-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac3222694fb256904fd240337e695505ec2c0615"
+hash = "4e3c6949c8f3c9d91bdd8c8ada074a10cfa8be39"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4305252
+file-id = 4610694
 project-id = 783410

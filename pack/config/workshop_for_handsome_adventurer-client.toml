@@ -4,10 +4,10 @@
 	"Render items on top of tables" = true
 
 [Bookshelves]
-	#If this option is turned you'll see a list of enchantments for your books.
+	#If this option is turned on, you'll see a list of enchantments for your books.
 	"Detailed info for enchanted books in Jade/TOP/WTHIT" = true
 
 [Toolracks]
-	#If this option is turned you'll see a list of enchantments for your tools.
+	#If this option is turned on, you'll see a list of enchantments for your tools.
 	"Detailed info for enchanted tools in Jade/TOP/WTHIT" = false
 

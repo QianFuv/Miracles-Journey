@@ -1,13 +1,13 @@
 name = "ItemZoom"
-filename = "itemzoom-1.19-2.7.0.jar"
+filename = "itemzoom-1.20.1-2.9.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65a6fe7c992f45a447ef1e2421e00371f31130c9"
+hash = "9e10fd943727c916329b9c6e35998b72eeddcb15"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3903160
+file-id = 5043628
 project-id = 261725

@@ -1,50 +1,128 @@
 {
   "minecraft": {
-    "block_inventory.detailed_amount": 54,
+    "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": true,
+    "harvest_tool.show_unbreakable": false,
+    "animal_owner": true,
+    "harvest_tool.effective_tool": true,
+    "item_storage": false,
+    "item_storage.normal_amount": 9,
+    "harvest_tool": false,
+    "armor_stand": true,
+    "fluid_storage.detailed": false,
+    "energy_storage": true,
+    "entity_armor.max_for_render": 0,
+    "breaking_progress": true,
+    "tnt_stability": true,
+    "item_storage.items_per_line": 9,
+    "item_frame": true,
+    "crop_progress": true,
+    "command_block": true,
+    "mob_growth": true,
+    "waxed": true,
+    "harvest_tool.new_line": false,
+    "entity_health.max_for_render": 0,
+    "entity_health.show_fractions": false,
+    "mob_spawner": true,
+    "redstone": true,
+    "fluid_storage": false,
     "chicken_egg": true,
-    "block_inventory.items_per_line": 9,
     "jukebox": true,
     "brewing_stand": true,
-    "animal_owner": true,
-    "block_inventory.normal_amount": 9,
-    "energy_storage.detailed": false,
-    "harvest_tool.effective_tool": true,
+    "energy_storage.detailed": true,
     "note_block": true,
     "beehive": true,
-    "block_inventory.show_name_amount": 5,
-    "block_inventory": true,
+    "item_storage.detailed_amount": 54,
     "player_head": true,
     "block_states": false,
     "lectern": true,
     "entity_armor": true,
-    "harvest_tool": false,
-    "armor_stand": true,
-    "fluid": true,
+    "harvest_tool.creative": false,
     "horse_stats": true,
     "item_tooltip": true,
     "entity_health": true,
-    "energy_storage": true,
-    "entity_armor.max_for_render": 0,
-    "breaking_progress": true,
     "enchantment_power": true,
-    "tnt_stability": true,
+    "zombie_villager": true,
     "villager_profession": true,
     "mob_breeding": true,
     "entity_health.icons_per_line": 10,
-    "item_frame": true,
-    "fluid.detailed": false,
-    "crop_progress": true,
     "total_enchantment_power": true,
     "potion_effects": true,
-    "command_block": true,
-    "mob_growth": true,
     "painting": true,
-    "harvest_tool.new_line": true,
-    "entity_health.max_for_render": 0,
-    "mob_spawner": true,
-    "redstone": true
+    "chiseled_bookshelf": true
+  },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "collectorsreap": {
+    "crop_progress": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": false
+  },
+  "infinitybuttons": {
+    "hide_secret_buttons": true,
+    "hide_lantern_buttons": true,
+    "hide_torch_buttons": true
+  },
+  "platforms": {
+    "hud": true
+  },
+  "utilitix": {
+    "glue_information": true,
+    "experience_crystal": true,
+    "linked_repeater": true,
+    "crude_furnace": true,
+    "advanced_brewery": true
+  },
+  "workshop_for_handsome_adventurer": {
+    "jade_plugin2": true,
+    "jade_plugin3": true,
+    "jade_plugin1": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "goety": {
+    "block_owner": true,
+    "soul_energy": true,
+    "servant_mode": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "summon_lifespan": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "preservation_chamber": true,
+    "milk_jar": true,
+    "toaster": true
+  },
+  "multibeds": {
+    "hud": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   },
   "champions": {
     "enable_affix_compact": true
@@ -57,35 +135,16 @@
     "camo": true,
     "semiblock": true
   },
-  "immersiveengineering": {
-    "hemp": true,
-    "multiblock_icon": true
-  },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": false
+  "extrastorage": {
+    "crafter": true,
+    "advanced_crafter": true
   },
   "refinedcooking": {
     "kitchen_access_point": true,
     "kitchen_station": true
   },
-  "infinitybuttons": {
-    "hide_secret_buttons": true,
-    "hide_lantern_buttons": true,
-    "hide_torch_buttons": true
-  },
-  "platforms": {
-    "hud": true
-  },
-  "utilitix": {
-    "experience_crystal": true,
-    "linked_repeater": true,
-    "crude_furnace": true,
-    "advanced_brewery": true
+  "balm": {
+    "jade": true
   },
   "ars_nouveau": {
     "mob_jar": true
@@ -94,12 +153,8 @@
     "equipment_requirement": ""
   },
   "exposure": {
-    "lightroom": true
-  },
-  "workshop_for_handsome_adventurer": {
-    "jade_plugin2": true,
-    "jade_plugin3": true,
-    "jade_plugin1": true
+    "lightroom": true,
+    "photograph_frame": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,
@@ -107,47 +162,14 @@
     "hud.redstone": true
   },
   "delightful": {
-    "crop_progress": true
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
   },
-  "touhou_little_maid": {
-    "maid": true,
-    "shrine_lamp": true
-  },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": false,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
-  "waystones": {
-    "waystone": true
+  "supplementaries": {
+    "hat_stand": true
   },
   "corpse": {
     "corpse": true
-  },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "summon_lifespan": true
-  },
-  "cookingforblockheads": {
-    "fridge": true,
-    "oven": true,
-    "sink": true,
-    "milk_jar": true,
-    "toaster": true
-  },
-  "multibeds": {
-    "hud": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "display.content": true,
-    "display.status": true
   }
 }

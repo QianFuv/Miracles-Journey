@@ -1,0 +1,13 @@
+name = "Blueprint Texture Issue Fix"
+filename = "blueprintfix-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95568c3ffac58b666d444c182a2662e1ac8288c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5688206
+project-id = 1095995

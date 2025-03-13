@@ -1,5 +1,5 @@
 # This holds the schematic version for internal purposes. DO NOT TOUCH!
-schematicVersion = 1
+schematicVersion = 2
 
 # This category holds configs that define ship behaviour.
 [Ship]

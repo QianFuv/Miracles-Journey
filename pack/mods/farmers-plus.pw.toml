@@ -1,0 +1,13 @@
+name = "Farmer's Plus"
+filename = "farmersplus-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ec5b36111bfee1d05593cc58de65d664944a9e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5519276
+project-id = 1027020

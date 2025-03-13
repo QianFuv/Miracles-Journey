@@ -5,14 +5,14 @@
   "limitHeight": 125,
   "paddingLeft": 1,
   "paddingRight": 1,
-  "paddingTop": 1,
-  "paddingBottom": 1,
+  "paddingTop": 0,
+  "paddingBottom": 0,
   "gifSpeed": 3,
   "nsfw": false,
   "cqCode": true,
   "checkImageUri": true,
   "dragImage": true,
-  "dragUseCicode": true,
+  "dragUseCicode": false,
   "pasteImageUseCicode": true,
   "timeout": 60
 }

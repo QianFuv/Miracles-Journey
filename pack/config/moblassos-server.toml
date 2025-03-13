@@ -2,6 +2,8 @@
 #Set to -1 to disable the timer.
 #Range: > -1
 golden_lasso_time = 120
+#Can a villager accept a contract allowing it to be captured by an emerald lasso.
+villager_accepts_contract = true
 #Time in seconds for which a creative lasso is able to hold a mob.
 #Set to -1 to disable the timer.
 #Range: > -1
@@ -32,7 +34,4 @@ aqua_lasso_time = 240
 #Set to -1 to disable the timer.
 #Range: > -1
 hostile_lasso_time = 180
-#The chance for a villager to accept a contract allowing it to be captured by an emerald lasso.
-#Range: 0.0 ~ 1.0
-villager_accepts_contract_chance = 0.2
 

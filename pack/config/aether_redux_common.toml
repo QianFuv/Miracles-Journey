@@ -13,13 +13,15 @@
 		#Causes mobs to try to avoid walking on quicksoil.
 		"Mobs Avoid Quicksoil" = true
 
+	["Gameplay Changes".Loot]
+		#Enables the Valkyrie Ring as a drop from Valkyries
+		"Valkyrie Ring" = true
+
 	["Gameplay Changes"."Mob Spawns"]
 		#Allows Endermen to spawn in the Aether
 		"Enderman Spawns" = false
 		#Allows Vanilla Swets to spawn in the Aether
 		"Vanilla Swet Spawns" = true
-		#Allows Dark Swets to spawn in the Aether
-		"Dark Swet Spawns" = true
 
 	["Gameplay Changes"."Existing Content Alterations"]
 		#Nerfs Gummy Swets, but also makes them craftable. Note: Requires the Aether's Gummy Swet Healing config to be false to properly nerf the hunger effect. Requires datapack reload.
@@ -33,10 +35,6 @@
 		"Gravitite Ingots" = true
 		#Makes Light Dungeon stones use better recipes
 		"Better Light Dungeon Stone Recipes" = true
-		#Changes Gold Aercloud behavior to launch entities downwards
-		"Gold Aerclouds launch entities downwards" = true
-		#Changes Gold Parachute behavior cause rapid descension, and to have only one durability
-		"Gold Parachutes push the user downwards" = false
 
 	["Gameplay Changes".Additions]
 		#Use Raw ores for different Aether metals.
@@ -48,11 +46,10 @@
 		#Makes blockstate conversion sounds (ambrosium, swet ball) better
 		"Better Conversion Sounds" = true
 
-	["Gameplay Changes".Loot]
-		#Enables the Valkyrie Ring as a drop from Valkyries
-		"Valkyrie Ring" = true
-
 [Worldgen]
+	#Uses an alternative island noise for the Aether. By default, this is disabled with the Ancient Aether mod installed.
+	#Allowed Values: TRUE, FALSE, WITHOUT_AA
+	"Redux Noise" = "without_aa"
 
 	[Worldgen."Additional Features"]
 		#Enables Mossy Holystone as an ore. Configurable so that if you disable it, it's easier to tell if you've come across a dungeon.
@@ -74,6 +71,13 @@
 			#Range: -4.0 ~ 4.0
 			"Cloud Layer Threshold Max" = 1.0
 
+	[Worldgen."Bronze Dungeon"]
+		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
+		#Allowed Values: sentry_only, all, no_golems
+		"Genesis Mobs in Spawners" = "all"
+		#Upgrades the Bronze Dungeon structure with new blocks and more depth
+		"Bronze Dungeon Upgrade" = true
+
 	[Worldgen.Biomes]
 		#When enabled, any biome value config changes will be reset. It is recommended that you disable this if you want to keep any custom biome parameters you may have set.
 		"Auto-Reset Biome Values" = true
@@ -81,6 +85,8 @@
 		"Region Size" = 20
 		#Improves the water color of Aether biomes, making the color match the rest of the dimension better
 		"Better Water Color" = true
+		#Alters the sky colors of the Aether, to be a bit more in line with vanilla. Also adds some new unique colors as well to some of Redux's new biomes
+		"Alternate Sky Colors" = true
 		#Enables the Blight biome.
 		"Enable the Blight" = true
 		#Enables the Gilded Groves and Gilded Grasslands biomes.
@@ -95,17 +101,6 @@
 		"Enable Skyroot Shrublands" = true
 		#Uses Enchanted Aether Grass for the ground in the Gilded Groves. May require a Minecraft restart.
 		"Enchanted Gilded Grass" = true
-		#Alters the sky colors of the Aether, to be a bit more in line with vanilla. Also adds some new unique colors as well to some of Redux's new biomes
-		"Alternate Sky Colors" = true
-
-	[Worldgen.Dungeon]
-		#Adds dungeon mobs from the Aether: Genesis to the spawners added to the Bronze Dungeon if it is installed
-		#Allowed Values: sentry_only, all, no_golems
-		"Genesis Mobs in Spawners" = "all"
-		#Upgrades the Bronze Dungeon structure with new blocks and more depth
-		"Bronze Dungeon Upgrade" = true
-		#Replaces chests in the dungeons with Skyroot Chests. Does not do anything when Ascended Quark is installed.
-		"Skyroot Dungeon Chests" = true
 
 [Internal]
 	#Internal value, used to decide if the Aeroblender configs should be changed

@@ -1,5 +1,7 @@
 
 [general]
+	#Enable debug for game testing
+	enableDebug = false
 	#The range from an active beacon where no champions will spawn (0 to disable)
 	#Range: 0 ~ 1000
 	beaconProtectionRange = 64
@@ -26,8 +28,6 @@
 	showParticles = true
 	#Set to true to show champion tier and affixes in The One Probe overlay
 	enableTOPIntegration = true
-	#Enable debug for game testing
-	enableDebug = false
 	#Set to true to enable champions entity allow list configuration by datapack
 	allowChampionsList = true
 	#The permission of champions entity allow list datapack.

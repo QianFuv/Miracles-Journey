@@ -2,5 +2,5 @@
 [GhostJump]
 	#Range: 1 ~ 100
 	Chance = 7
-	SummonedEntity = "graveyard:reaper"
+	SummonedEntities = ["graveyard:reaper"]
 

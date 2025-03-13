@@ -18,7 +18,7 @@
 	#.
 	#Whether to actually apply the dev cape (ignored for non-devs)
 	#This setting may require a relog to take effect
-	useDevCape = false
+	useDevCape = true
 	#.
 	#Should the normal create conductor cap be rendered on top of the conductors existing hat?
 	renderNormalCap = true

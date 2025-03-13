@@ -37,6 +37,13 @@
         "negate": false,
         "value": "terralith:gravel_desert"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:snowblossom_grove"
+      }
     ]
   ]
 }

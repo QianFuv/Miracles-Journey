@@ -11,4 +11,6 @@
 	minTicks = 4000
 	#Maximum ticks before seafood can be gathered by the crab trap. Default = 8000
 	maxTicks = 8000
+	#Requires the crab trap to have a 3x3 of open water or waterlogged blocks around it to be able to function. Default = true
+	require_surrounding_water = true
 

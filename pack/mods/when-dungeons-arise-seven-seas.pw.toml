@@ -1,13 +1,13 @@
 name = "When Dungeons Arise - Seven Seas"
-filename = "DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
+filename = "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b585510746697689562f2661313e5f66718e5861"
+hash = "0390b912cc5534bbe0f01853337d777453ca08de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4981372
+file-id = 4981380
 project-id = 953637

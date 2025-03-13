@@ -1,13 +1,13 @@
 name = "Lucky77"
-filename = "Lucky77_1.19.2_v04.jar"
+filename = "Lucky77_1.20.1_v04.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4b7522c5e78cc13b36acd6ce004ff84f1a64bb3c"
+hash = "81993ad3dd053395283f5ad64f7330d531153c52"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5140500
+file-id = 5140501
 project-id = 476196

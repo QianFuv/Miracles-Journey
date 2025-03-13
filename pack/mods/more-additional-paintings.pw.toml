@@ -1,13 +1,13 @@
 name = "More Additional Paintings"
-filename = "More Additional Paintings-1.0.1-forge-1.19.2.jar"
+filename = "More Additional Paintings-1.0.1 Forge 1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "58427646337ad307bef046aed37870c2b4fd1f93"
+hash = "44b81beb164383001c7255513f9f93bf38a568bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6077291
+file-id = 6078762
 project-id = 1131013

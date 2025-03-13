@@ -1,13 +1,13 @@
 name = "EdivadLib"
-filename = "EdivadLib-1.19.2-1.2.0.jar"
+filename = "EdivadLib-1.20.1-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e24b30347457ab7a2c534ea6c7953e23af6c9f9c"
+hash = "7c4d3b7f341554e5a09c4fa289519a5d9b090b62"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3927847
+file-id = 4717006
 project-id = 638508

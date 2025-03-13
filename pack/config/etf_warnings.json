@@ -1,9 +1,3 @@
 {
-  "ignoredConfigIds": [
-    "quark",
-    "enhancedblockentities",
-    "figura",
-    "iris \u0026 3d skin layers",
-    "emf"
-  ]
+  "ignoredConfigIds": []
 }

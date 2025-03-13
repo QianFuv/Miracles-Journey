@@ -1,23 +1,51 @@
 
-#Configure Collector's Reap
+#Enabled items
 [Items]
 	adzuki_gummy = true
 	aloe_gummy = true
 	apple_gummy = true
 	baked_portobello_cap = true
 	banana_gummy = true
+	beetroot_gummy = true
 	berry_limeade = true
+	big_rice_ball = true
 	black_tea_gummy = true
+	buttered_legs = true
 	candied_lime = true
+	chieftain_claw = true
+	chieftain_crab = true
+	chieftain_crab_bucket = true
+	chieftain_crab_meat = true
+	chieftain_crab_spawn_egg = true
+	chieftain_leg = true
+	chiseled_urchin_test_bricks = true
 	chocolate_arils = true
 	chocolate_gummy = true
+	clam = true
+	clam_bucket = true
+	clam_chowder = true
+	clam_meat = true
+	clam_meatball_stew = true
+	clam_pasta = true
+	clam_roll = true
+	clam_spawn_egg = true
 	cod_ceviche = true
 	coffee_gummy = true
+	cooked_platinum_bass = true
+	cooked_platinum_bass_head = true
+	cooked_platinum_bass_slice = true
+	cooked_tiger_prawn = true
+	crab_lasagna = true
+	crab_miso = true
+	crab_noodles = true
 	crimson_carrot_roast = true
 	deluxe_salad = true
+	fish_mix = true
 	glazed_strider = true
+	glow_berry_gummy = true
 	green_tea_gummy = true
 	honey_lime_chicken = true
+	land_and_sea_burger = true
 	lime = true
 	lime_cake = true
 	lime_cake_slice = true
@@ -34,12 +62,21 @@
 	lime_seeds = true
 	lime_slice = true
 	limeade = true
+	lunar_pearl = true
 	mediterranean_salmon = true
 	melon_gummy = true
 	mint_gummy = true
 	mint_limeade = true
-	passionfruit_gummy = true
+	passion_fruit_gummy = true
+	pearly_claw = true
 	pink_limeade = true
+	platinum_bass = true
+	platinum_bass_bucket = true
+	platinum_bass_head = true
+	platinum_bass_roe = true
+	platinum_bass_slice = true
+	platinum_bass_spawn_egg = true
+	platinum_bass_stew = true
 	pomegranate = true
 	pomegranate_bean_salad = true
 	pomegranate_black_tea = true
@@ -67,31 +104,52 @@
 	portobello_risotto = true
 	portobello_wrap = true
 	potato_fritters = true
+	prawn_ceviche = true
+	prawn_noodles = true
+	prawn_po_boy = true
+	prawn_roll = true
+	prawn_stew = true
 	pumpkin_gummy = true
 	salmon_tartare = true
+	salmon_wrapped_prawn = true
+	sea_wrap = true
+	shimmering_apple = true
+	shimmering_pearl = true
 	spicy_grenadine_jelly = true
 	strawberry_gummy = true
 	strawberry_jam_bun = true
 	stuffed_portobello_cap = true
+	stygian_pomegranate = true
+	sweet_berry_gummy = true
+	tiger_prawn = true
+	tiger_prawn_bucket = true
+	tiger_prawn_roe = true
+	tiger_prawn_spawn_egg = true
+	uni = true
+	uni_roll = true
+	urchin = true
+	urchin_bucket = true
+	urchin_dart = true
+	urchin_needle = true
+	urchin_spawn_egg = true
+	urchin_test = true
+	urchin_test_block = true
+	urchin_test_brick_slab = true
+	urchin_test_brick_stairs = true
+	urchin_test_brick_wall = true
+	urchin_test_bricks = true
+	urchin_test_tile_slab = true
+	urchin_test_tile_stairs = true
+	urchin_test_tile_wall = true
+	urchin_test_tiles = true
 	vanilla_gummy = true
 	yellow_tea_gummy = true
 	yucca_gummy = true
 
-[Generation]
-	#Chance of generating clusters. Smaller value = more frequent (once every ...). To disable, set the item Portobello to false above.
-	#Range: > 0
-	chance_portobello = 30
-	#Chance of generating bushes. Smaller value = more frequent (once every ...). To disable, set the item Lime to false above.
-	#Range: > 0
-	chance_lime_bush = 22
-	#Chance of generating bushes. Smaller value = more frequent (once every ...). To disable, set the item Pomegranate to false above.
-	#Range: > 0
-	chance_pomegranate_bush = 15
-
 [Behavior]
 	#Whether Lime Bushes require Bee pollination to reach final growth stage.
 	lime_pollination = true
-	#Whether Pomegranate Bushes require Bee pollination to reach final growth stage in overworld.
+	#Whether Pomegranate Bushes require Bee pollination to reach final growth stage in the Overworld.
 	pomegranate_pollination = true
 	#Whether bee pollination of bushes should occur much quicker (when Bee collides with it) rather than on Bee's AI scheduled timing. Use this if having issues with pollination.
 	fast_pollinate = false

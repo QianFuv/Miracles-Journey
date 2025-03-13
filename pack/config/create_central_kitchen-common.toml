@@ -8,7 +8,7 @@
 	enableCuttingBoardDeploying = true
 	#.
 	#List of Block Entities that can be boosted when placed on Blaze Stove
-	boostingCookerList = ["farmersdelight:cooking_pot", "farmersdelight:skillet", "farmersrespite:kettle", "miners_delight:copper_pot"]
+	boostingCookerList = ["farmersdelight:cooking_pot", "farmersdelight:skillet", "miners_delight:copper_pot"]
 
 #.
 #Config for Integration with other mods
@@ -26,10 +26,6 @@
 	#For harvester to function properly, turning on this support will cause the collision shape of the overweight crop block to disappear.
 	#[@cui:RequiresReload:server]
 	enableHarvesterSupportForOverweightFarming = true
-	#.
-	#For harvester to function properly, turning on this support will cause the collision shape of Coffee Bush and Tea Bush block to disappear.
-	#[@cui:RequiresReload:server]
-	enableHarvesterSupportForFarmersRespite = true
 	#.
 	#Basket of Farmers Delight has a 8 ticks transfer cooldown. Disable the cooldown for better automation.
 	#[@cui:RequiresReload:server]

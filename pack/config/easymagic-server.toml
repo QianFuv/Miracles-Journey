@@ -14,6 +14,12 @@ reroll_catalyst_cost = 1
 #Choose how many enchantments are shown on the enchanting tooltip, if any at all.
 #Allowed Values: NONE, SINGLE, ALL
 enchantment_hint = "SINGLE"
+#Do chiseled bookshelves provide enchanting power to an enchanting table, one for every three contained books.
+#NONE: Vanilla behavior, no power is provided.
+#FACING: The bookshelf must face the enchanting table to provide any power.
+#ALL: Chiseled bookshelves provide enchanting power regardless of where they are facing.
+#Allowed Values: NONE, FACING, ALL
+chiseled_bookshelf_enchanting_power = "FACING"
 #Catalyst items for re-rolling are defined by the 'easymagic:reroll_catalysts' item tag instead of 'easymagic:enchanting_catalysts' (which includes just lapis lazuli by default).
 #Unlocks an additional slot for providing those items in the enchanting table interface.
 dedicated_reroll_catalyst = false

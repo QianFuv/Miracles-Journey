@@ -1,13 +1,13 @@
 name = "Catalogue"
-filename = "catalogue-1.7.0-1.19.2.jar"
+filename = "catalogue-forge-1.20.1-1.8.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e6f401e3a5dc3943a6780a31438cd223a3511eda"
+hash = "b8cc73db430fa6015671492d4332a65a8c2f5cae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4171024
+file-id = 4766090
 project-id = 459701

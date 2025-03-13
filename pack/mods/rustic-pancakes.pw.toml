@@ -1,13 +1,13 @@
 name = "Rustic Pancakes"
-filename = "rusticpancakes-forge-1.19.2-1.0.0.jar"
+filename = "rusticpancakes-forge-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "02879a3bd26123753e800a032ba6d4aeed0dafc7"
+hash = "0f32013a4ee4bf7c230f603d63b739745a773dfd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5931341
+file-id = 6199422
 project-id = 1144166

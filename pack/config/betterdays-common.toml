@@ -33,7 +33,7 @@
 		#WARNING: This setting overwrites the randomTickSpeed game rule. To modify the base random tick speed,
 		#use the baseRandomTickSpeed setting instead of changing the game rule directly.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		randomTickEffect = "SLEEPING"
+		randomTickEffect = "NEVER"
 		#The base random tick speed used by the randomTickEffect time effect.
 		#Range: > 0
 		baseRandomTickSpeed = 3
@@ -43,20 +43,20 @@
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night.
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		potionEffect = "SLEEPING"
+		potionEffect = "NEVER"
 		#When applied, this effect progresses player hunger effects to match the rate of the current time-speed.
 		#This results in faster healing when food level is full, and faster harm when food level is too low.
 		#This effect does not apply if time speed is 1.0 or less.
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night. Not recommended on higher difficulty settings
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		hungerEffect = "SLEEPING"
+		hungerEffect = "NEVER"
 		#When applied, this effect progresses block entities like furnaces, hoppers, and spawners to match the rate of the current time-speed.
 		#WARNING: This time-effect has a significant impact on performance.
 		#This effect does not apply if time speed is 1.0 or less.
 		#When set to SLEEPING, this effect only applies when at least one player is sleeping in a dimension.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		blockEntityEffect = "SLEEPING"
+		blockEntityEffect = "NEVER"
 
 [sleep]
 	#Enables or disables the sleep feature of this mod. Enabling this setting will modify the vanilla sleep functionality
@@ -66,7 +66,7 @@
 	#The maximum speed at which time passes when all players are sleeping.
 	#A value of 110 is nearly equal to the time it takes to sleep in vanilla.
 	#Range: 0.0 ~ 24000.0
-	sleepSpeedMax = 50.0
+	sleepSpeedMax = 110.0
 	#The minimum speed at which time passes when only 1 player is sleeping in a full server.
 	#Range: 0.0 ~ 24000.0
 	sleepSpeedMin = 1.0
@@ -86,7 +86,7 @@
 	#Set to 'true' for the weather to clear when players wake up in the morning as it does in vanilla.
 	#Set to 'false' to force weather to pass naturally. Adds realism when accelerateWeather is enabled.
 	#Note: This setting is ignored if game rule doWeatherCycle is false.
-	clearWeatherOnWake = false
+	clearWeatherOnWake = true
 	#When true, players are allowed to sleep at all times of day in dimensions controlled by Better Days.
 	#Note: Other mods may override this ability.
 	allowDaySleep = false

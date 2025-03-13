@@ -3,15 +3,9 @@ type = customizablemenus
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
-me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
-}
-
-net.minecraft.client.gui.screens.PauseScreen {
-}
-
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
-net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

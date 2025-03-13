@@ -1,13 +1,13 @@
 name = "Netherite Horse Armor CJ [Fabric/Forge/Quilt]"
-filename = "NetheriteHorseArmor-CJ-forge-mc1.19x-1.4.0.jar"
+filename = "NetheriteHorseArmor-CJ-forge-mc-1.20-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "afed63c02b405694844a2af199c80a99f586f6a0"
+hash = "ffe10108b4d4ff32930e6d028fc4054dd14c312a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4576880
+file-id = 5117355
 project-id = 650478

@@ -1,13 +1,13 @@
 name = "Tanuki Decor"
-filename = "tanukidecor-19.2.1.0.jar"
+filename = "tanukidecor-20.1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a3d6e3b02c1d61e09cb59a354284945cc07a571"
+hash = "efc650df395d938bb67058d848d0b35cb9df32bb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5138710
+file-id = 5139065
 project-id = 953094

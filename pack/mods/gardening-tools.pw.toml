@@ -1,13 +1,13 @@
 name = "Gardening Tools"
-filename = "gardentools-1.19-1.1.4.jar"
+filename = "gardentools-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8b9626b2156c9ac0523af4b0bb0ec4d98a0777fa"
+hash = "5a5715ba619a67c34d49f9ae5a5ba097951fa48a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3916041
+file-id = 5664432
 project-id = 351990

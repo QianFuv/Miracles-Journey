@@ -1,0 +1,7 @@
+
+[client]
+	#A multiplier for how many particles emanate from dandies in general
+	particleSpawnMultiplier = 1.0
+	#A multiplier for how long particles last upon spawn
+	particleLifetimeMultiplier = 1.0
+

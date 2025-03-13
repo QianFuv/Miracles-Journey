@@ -1,11 +1,15 @@
 {
 	"aetherMoaSkinsFeature": true,
 	"quarkContributorCheck": false,
+	"botaniaContributorCheck": false,
 	"ipnUpdateCheckAndUserTracking": false,
 	"kubejsUpdateCheck": false,
 	"xaeroMapPatreonCheck": false,
 	"xaeroMapVersionCheck": false,
 	"citadelAprilFoolsContent": false,
 	"alexModsContributorCheck": false,
-	"obscureModsCheck": false
+	"petrolparkBadgeCheck": false,
+	"obscureModsCheck": false,
+	"supplementariesCreditsCheck": false,
+	"bagusLibSupportersCheck": false
 }

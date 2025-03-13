@@ -1,13 +1,13 @@
 name = "Pet Pass: Trade Your Pets"
-filename = "pettransfer-1.19.2.jar"
+filename = "pettransfer-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de251a9b0c35b9343edecff76fbf244e0a0b74f3"
+hash = "1f39223a1f3e5f09f94286ae3f72f61a727e42a9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4074984
+file-id = 4632291
 project-id = 699722

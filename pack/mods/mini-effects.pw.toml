@@ -1,13 +1,13 @@
 name = "Mini Effects (Forge)"
-filename = "MiniEffects-1.19.2-forge-5.1.0.jar"
+filename = "MiniEffects-1.20.1-forge-7.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9dfdf4c2c3c7c54d104294a63455b3f9616dc49c"
+hash = "4471cb3ba11a0b4c5312c00487cb0a6e17c4779d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4359266
+file-id = 4593109
 project-id = 502649

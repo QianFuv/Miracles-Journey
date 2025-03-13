@@ -1,13 +1,13 @@
 name = "FootprintParticle"
-filename = "footprintparticle-0.5.1-mc1.19.2.jar"
+filename = "footprintparticle-0.5.2-mc1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a536cb80f503d1e27b0eaa85e852e5b80919353b"
+hash = "fde6a5d9c4f708367d32eb9eeef0b2762a019d2c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4962988
+file-id = 5476636
 project-id = 832070

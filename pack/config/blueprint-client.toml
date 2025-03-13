@@ -10,11 +10,11 @@ disableExperimentalSettingsScreen = true
 #Slabfish patron hat settings.
 [slabfishSettings]
 	#If the slabfish hat should be enabled
-	enabled = false
+	enabled = true
 	#If the slabfish hat's backpack should be enabled
-	backpackEnabled = false
+	backpackEnabled = true
 	#If the slabfish hat's sweater should be enabled
-	sweaterEnabled = false
+	sweaterEnabled = true
 	#If the slabfish hat's custom type should be enabled. If false, the default swamp slabfish appears
-	typeEnabled = false
+	typeEnabled = true
 

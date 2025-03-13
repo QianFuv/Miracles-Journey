@@ -115,9 +115,24 @@
   // Minimum: 0
   "wanderingTraderExtraTime": 400,
   
+  "Backpack": {
+  
+    // The maximum size of a backpack when merging with other backpacks
+    // Beyond this number, backpacks cannot be merged
+    // Range: 1 - 154
+    "maxSize": 54,
+    
+    // The initial size of a backpack
+    // Range: 1 - 154
+    "slotSize": 9
+  },
+  
   // Config options for experience crystal
   "ExperienceCrystal": {
   
+    // A ResourceLocation for a fluid xp fluid. If it exists in the tag #forge:experience or #forge:xpjuice, the crystal will always store this type of fluid xp
+    "fluidXp": null,
+    
     // Maximum experience which can be stored
     // Minimum: 0
     "maxXp": 2147483647,

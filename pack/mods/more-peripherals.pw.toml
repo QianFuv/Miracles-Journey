@@ -1,13 +1,13 @@
 name = "More Peripherals"
-filename = "MorePeripherals_1.19.2-1.8.8.jar"
+filename = "MorePeripherals_1.20.1-1.13.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "150ff163b35539084fa35d6f9cd848efe5a08914"
+hash = "2135a9f3a2bf2ee17e3975183ceb74eb72f81fd5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4795182
+file-id = 5268197
 project-id = 570908

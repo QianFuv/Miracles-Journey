@@ -2,6 +2,11 @@
   "biomes": [
     [
       {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:no_default_monsters"
+      },
+      {
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "minecraft:soul_sand_valley"

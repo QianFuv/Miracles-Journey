@@ -1,13 +1,13 @@
 name = "Quark Delight"
-filename = "quark_delight_1.0.0_forge_1.19.2.jar"
+filename = "quark_delight_1.0.0_forge_1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "809d9d802324e2095e47833ec5e7c64bdccb9843"
+hash = "06e0c415a201f80969fdf8ff0eb1f07c8c7a5751"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5041313
+file-id = 5052580
 project-id = 963245

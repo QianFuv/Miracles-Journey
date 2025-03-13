@@ -257,6 +257,20 @@
         "negate": false,
         "value": "terralith:cloud_forest"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:cherry_grove"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "biomesoplenty:snowblossom_grove"
+      }
     ]
   ]
 }

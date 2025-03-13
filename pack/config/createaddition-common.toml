@@ -43,10 +43,10 @@
 [rolling_mill]
 	#Rolling Mill duration in ticks.
 	#Range: > 0
-	rolling_mill_processing_duration = 100
+	rolling_mill_processing_duration = 120
 	#Rolling Mill base stress impact.
 	#Range: 0 ~ 1024
-	rolling_mill_stress = 16
+	rolling_mill_stress = 8
 
 #Wires
 [wires]
@@ -59,6 +59,9 @@
 	#Small Connector max wire length in blocks.
 	#Range: 0 ~ 256
 	small_connector_wire_length = 16
+	#Small Connector With Light energy consumption in FE/t.
+	#Range: > 0
+	small_light_connector_consumption = 1
 	#Large Connector max input in FE/t (Energy transfer).
 	#Range: > 0
 	large_connector_max_input = 5000
@@ -72,9 +75,6 @@
 	connector_ignore_face_check = true
 	#Allows blocks attached to a connector to freely pass energy to and from the connector network.
 	connector_allow_passive_io = true
-	#Small Connector With Light energy consumption in FE/t.
-	#Range: > 0
-	small_light_connector_consumption = 1
 
 #Accumulator
 [accumulator]

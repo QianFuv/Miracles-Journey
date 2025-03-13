@@ -1,13 +1,13 @@
 name = "Potion of Bees"
-filename = "potionofbees-1.19.2-2.0.0.0.jar"
+filename = "potionofbees-1.20.1-3.0.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b6efdc8bd257274ee5f2cca08f84632de3a094ac"
+hash = "8b547513a62bd37db2c693dd7cd01ddee08a4e58"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3943639
+file-id = 4595113
 project-id = 355348

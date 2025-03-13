@@ -1,13 +1,13 @@
 name = "Better Statistics Screen"
-filename = "betterstats-2.2.2+1.19.2.jar"
+filename = "betterstats-3.12.6+fabric-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf112a2358904efac58aa0c46b0a5325765e104d"
+hash = "bda0ac4e8937cfbe38f9a4a8aadb77f6a882407e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4413139
+file-id = 5607266
 project-id = 667464

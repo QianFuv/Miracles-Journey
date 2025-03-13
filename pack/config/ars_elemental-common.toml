@@ -20,6 +20,7 @@
 ["Elemental Spell Foci - Abilities"]
 	"Enable glyph empowering" = true
 	"Enable regen bonus under special conditions" = true
+	"Enable iframe skip combos" = true
 
 #Adjust Elemental Armor Mana Buffs
 ["Elemental Armors"]
@@ -79,6 +80,9 @@
 	squirrelRefreshRate = 600
 	#If enabled, soulbound enchantment can appear in randomly enchanted loot chests.
 	soulbound_loot = true
+	#Define the maximum number of pierce that a lens can apply to a spell.
+	#Range: > 1
+	pierceLensLimit = 10
 
 [Mobs-Disabled]
 	#If true, the wandering mages will target players too, unless they wear the focus of the same school.

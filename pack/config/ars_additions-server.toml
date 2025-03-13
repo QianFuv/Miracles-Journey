@@ -40,4 +40,7 @@
 	#How much durability should targeting a location with Recall cost?
 	#Range: 0 ~ 1000
 	cost_location = 50
+	#How long should the Marked effect last (in seconds) when Mark is cast on a player?
+	#Range: > -1
+	effect_duration = 300
 

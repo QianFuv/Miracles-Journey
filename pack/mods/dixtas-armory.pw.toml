@@ -1,13 +1,13 @@
 name = "dixta's Armory"
-filename = "dixtas_armory-1.1.3-1.19.2-beta.jar"
+filename = "dixtas_armory-1.2.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d56e4b590782736119fb50dd574d9b2a1f53ffc7"
+hash = "6315852849f6acf334e611c7e6025e4c28e0b08e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4960603
+file-id = 6220933
 project-id = 844090

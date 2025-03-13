@@ -9,5 +9,5 @@
 	overlayLineOffset = 1
 	#The side for information rendered on the HUD. Ex: LEFT, RIGHT
 	#Allowed Values: LEFT, RIGHT
-	overlaySide = "RIGHT"
+	overlaySide = "LEFT"
 

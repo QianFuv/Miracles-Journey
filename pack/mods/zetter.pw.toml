@@ -1,13 +1,13 @@
 name = "Zetter — Painting Mod"
-filename = "zetter-1.19.2-0.21.6-rc.jar"
+filename = "zetter-1.20.1-0.21.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f7f96e155c3bc0b999135abd146ef0478d9e9d11"
+hash = "f854393594fd186789fc181b21619ef99e83aab9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5065325
+file-id = 4809808
 project-id = 465532

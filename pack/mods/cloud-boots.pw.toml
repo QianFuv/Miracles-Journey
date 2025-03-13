@@ -1,13 +1,13 @@
 name = "Cloud Boots (Forge/Fabric)"
-filename = "CloudBoots-1.19.2-3.0.0.jar"
+filename = "CloudBoots-1.20.1-3.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2e8262d21be64163a6edd265d51063cb5cc5451"
+hash = "cf8033a193785f5ac0d66404478d3878629739d7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4891353
+file-id = 4891359
 project-id = 291246

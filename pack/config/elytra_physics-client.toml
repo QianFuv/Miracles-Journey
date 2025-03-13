@@ -1,0 +1,3 @@
+#Classpaths of modded elytra layers
+inject_layers = ["com.illusivesoulworks.colytra.client.ColytraLayer", "com.illusivesoulworks.elytraslot.client.ElytraSlotLayer", "com.kyanite.deeperdarker.client.render.SoulElytraRenderer", "pw.lakuna.elytra_trinket.ElytraTrinketFeatureRenderer", "org.betterx.betterend.client.render.ArmoredElytraLayer"]
+

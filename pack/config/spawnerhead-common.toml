@@ -15,4 +15,19 @@
 	"Drop Special Loot" = true
 	#Allow players to use spawn eggs to modify the spawner mob
 	"Allow Spawn Egg Use" = true
+	#Allows spawner heads to become charged when struck by lightning
+	"Can Be Charged By Lightning" = true
+	#Min spawn delay in ticks
+	"Min Spawn Delay" = 200
+	#Max spawn delay in ticks
+	"Max Spawn Delay" = 800
+	#Min spawn delay in ticks when charged
+	"Charged Min Spawn Delay" = 200
+	#Max spawn delay in ticks when charged
+	"Charged Max Spawn Delay" = 400
+	#Allows charged spawner heads to spawn charged creepers if spawner is a creeper spawner
+	"Charged Spawns Charged Creepers" = true
+	#Percent chance for a spawner head to place its spawner block on death
+	#Range: 0 ~ 100
+	"Drop Spawner Chance" = 25
 

@@ -155,6 +155,146 @@ name = "minecraft:vanishing_curse"
 max_lvl = 1
 
 [[entries]]
+name = "grapplemod:wallrunenchantment"
+max_lvl = 1
+
+[[entries]]
+name = "grapplemod:doublejumpenchantment"
+max_lvl = 1
+
+[[entries]]
+name = "grapplemod:slidingenchantment"
+max_lvl = 1
+
+[[entries]]
+name = "undergarden:ricochet"
+max_lvl = 3
+
+[[entries]]
+name = "undergarden:longevity"
+max_lvl = 3
+
+[[entries]]
+name = "undergarden:self_sling"
+max_lvl = 1
+
+[[entries]]
+name = "additionaladditions:precision"
+max_lvl = 3
+
+[[entries]]
+name = "additionaladditions:speed"
+max_lvl = 3
+
+[[entries]]
+name = "veinmining:vein_mining"
+max_lvl = 1
+
+[[entries]]
+name = "bagofholding:preservation"
+max_lvl = 3
+
+[[entries]]
+name = "garnished:salvaging"
+max_lvl = 2
+
+[[entries]]
+name = "garnished:ravaging"
+max_lvl = 1
+
+[[entries]]
+name = "garnished:striking"
+max_lvl = 4
+
+[[entries]]
+name = "garnished:quick_step"
+max_lvl = 3
+
+[[entries]]
+name = "garnished:rejuvenate"
+max_lvl = 2
+
+[[entries]]
+name = "garnished:leeching_curse"
+max_lvl = 1
+
+[[entries]]
+name = "alexsmobs:straddle_jump"
+max_lvl = 3
+
+[[entries]]
+name = "alexsmobs:lavawax"
+max_lvl = 1
+
+[[entries]]
+name = "alexsmobs:serpentfriend"
+max_lvl = 1
+
+[[entries]]
+name = "alexsmobs:board_return"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:sidewinder"
+max_lvl = 2
+
+[[entries]]
+name = "iwannaskate:clambering"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:inertial"
+max_lvl = 3
+
+[[entries]]
+name = "iwannaskate:pedalling"
+max_lvl = 2
+
+[[entries]]
+name = "iwannaskate:aerial"
+max_lvl = 4
+
+[[entries]]
+name = "iwannaskate:secured"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:earthcrosser"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:surfing"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:hardwood"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:bashing"
+max_lvl = 4
+
+[[entries]]
+name = "iwannaskate:onboarding"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:benthic"
+max_lvl = 1
+
+[[entries]]
+name = "iwannaskate:instant_return"
+max_lvl = 1
+
+[[entries]]
+name = "farmersdelight:backstabbing"
+max_lvl = 3
+
+[[entries]]
+name = "scriptor:charged"
+max_lvl = 1
+
+[[entries]]
 name = "maced:breach"
 max_lvl = 4
 
@@ -179,12 +319,16 @@ name = "gunswithoutroses:preserving"
 max_lvl = 3
 
 [[entries]]
-name = "scriptor:charged"
-max_lvl = 1
+name = "gunswithoutroses:deadeye"
+max_lvl = 2
 
 [[entries]]
 name = "passablefoliage:leaf_walker"
 max_lvl = 1
+
+[[entries]]
+name = "hunters_return:bounce"
+max_lvl = 3
 
 [[entries]]
 name = "mythicbotany:hammer_mobility"

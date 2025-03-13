@@ -1,5 +1,0 @@
-{
-  "pack.galoblender.mod.description": "Galoblender resources",
-  "galoblender.config.common.galosphereCavesWeight": "Galosphere Caves Weight",
-  "galoblender.config.common.galosphereCavesWeight.tooltip": "The weighting of Galosphere biome region in the overworld (for reference, the overworld biomes' default is 10)."
-}

@@ -1,13 +1,13 @@
 name = "Screenshot Sharing"
-filename = "ScreenshotSharing-Forge-1.19.2-1.0.0.jar"
+filename = "ScreenshotSharing-Forge-1.20.4-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e29ac98bc96460415b7bc0b6b4be633d01f7fe37"
+hash = "4c452891cadd2352caf10f557411e0980d874bce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5140420
+file-id = 5140425
 project-id = 980207

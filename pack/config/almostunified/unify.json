@@ -1,15 +1,12 @@
 {
   "modPriorities": [
     "minecraft",
-    "oreganized",
-    "tetranichematerials",
+    "kubejs",
+    "crafttweaker",
     "create",
-    "createbigcannons",
-    "createindustry",
-    "createaddition",
-    "createdeco",
+    "thermal",
     "immersiveengineering",
-    "galosphere"
+    "mekanism"
   ],
   "stoneStrata": [
     "stone",
@@ -41,7 +38,6 @@
     "bitumen",
     "brass",
     "bronze",
-    "cast_iron",
     "charcoal",
     "chrome",
     "cinnabar",

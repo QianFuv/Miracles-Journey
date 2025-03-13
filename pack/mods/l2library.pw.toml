@@ -1,13 +1,13 @@
 name = "L2 Library"
-filename = "l2library-1.10.0.jar"
+filename = "l2library-2.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d9f4453d5e59a05a44f6e253331f6f533d14861b"
+hash = "7c4c24097ecbcb99f8efad0fc9e549a988e96d24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4951847
+file-id = 6291630
 project-id = 620203

@@ -1,13 +1,13 @@
 name = "MemorySweep"
-filename = "MemorySweep-1.19.3-0.8.jar"
+filename = "memorysweep-forge-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e55e4a2d8e012130472d8edd2516c1e8fc436722"
+hash = "ecf5791f11dbe734c1c68b1b61792a8ca8ce235c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4351577
+file-id = 6295271
 project-id = 784959

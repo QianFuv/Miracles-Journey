@@ -1,18 +1,69 @@
-version = 2
+version = 4
 
 # Maximum bullet travel distance (in blocks)
 bulletMaxDistance = 256.0
 
+# Number of loading stages
+loadingStages = 3
+# Loading stage duration (in seconds)
+loadingStageDuration = 0.5
+
+# Damage multiplier for pvp
+pvpDamageMultiplier = 1.0
+# Damage multiplier for monsters
+mobDamageMultiplier = 0.5
+
+# Probability of Pillager having a pistol
+pistolPillagerChance = 0.2
+# Probability of Skeleton having a musket
+musketSkeletonChance = 0.05
+
+# Extra damage per Power enchantment level
+damagePerPowerLevel = 0.5
 # Musket
 
 # Standard deviation of bullet spread (in degrees)
-bulletStdDev = 1.0
+musketBulletStdDev = 1.0
 # Muzzle velocity of bullet (in blocks per second)
-bulletSpeed = 180.0
-# Minimum damage at point-blank range
-damageMin = 20.5
-# Maximum damage at point-blank range
-damageMax = 21.0
+musketBulletSpeed = 180.0
+# Damage at point-blank range
+musketDamage = 16.0
+# Headshot damage multiplier
+headshotDamageMultiplier = 1.3
+# Durability (applied on restart)
+musketDurability = 250
+
+# Musket with bayonet
+
+# Bayonet damage (applied on restart)
+bayonetDamage = 5
+
+# Bayonet attack speed (applied on restart)
+bayonetSpeed = 2.0
+
+# Musket with scope
+
+# Standard deviation of bullet spread (in degrees)
+scopedMusketBulletStdDev = 0.2
+# Scope zoom factor
+scopeZoom = 3.0
+# Bullet gravity multiplier
+bulletGravityMultiplier = 0.5
+# Durability (applied on restart)
+scopedMusketDurability = 150
+
+# Blunderbuss
+
+# Standard deviation of bullet spread (in degrees)
+blunderbussBulletStdDev = 2.5
+# Muzzle velocity of bullet (in blocks per second)
+blunderbussBulletSpeed = 160.0
+# Damage at point-blank range
+blunderbussDamage = 21.0
+# Pellet count
+blunderbussPelletCount = 9
+# Durability (applied on restart)
+blunderbussDurability = 200
 
 # Pistol
 
@@ -20,7 +71,18 @@ damageMax = 21.0
 pistolBulletStdDev = 1.5
 # Muzzle velocity of bullet (in blocks per second)
 pistolBulletSpeed = 140.0
-# Minimum damage at point-blank range
-pistolDamageMin = 12.0
-# Maximum damage at point-blank range
-pistolDamageMax = 12.5
+# Damage at point-blank range
+pistolDamage = 12.0
+# Loading time reduction per Quick Charge level (in seconds)
+reductionPerQuickChargeLevel = 0.15
+# Durability (applied on restart)
+pistolDurability = 200
+
+# Dispenser
+
+# Standard deviation of bullet spread (in degrees)
+dispenserBulletStdDev = 2.0
+# Muzzle velocity of bullet (in blocks per second)
+dispenserBulletSpeed = 120.0
+# Damage at point-blank range
+dispenserDamage = 10.0

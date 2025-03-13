@@ -1,13 +1,13 @@
 name = "Better Days"
-filename = "betterdays-1.19.2-3.1.1.1-FORGE.jar"
+filename = "betterdays-1.20.1-3.1.1.1-FORGE.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "806e635c1c4ef64452e7fab3436cb3018f36a92a"
+hash = "6ab76d72bf0589730b863cd92b63e4140cd3bd82"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5877543
+file-id = 5877548
 project-id = 895618

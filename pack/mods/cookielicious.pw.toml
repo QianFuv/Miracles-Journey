@@ -1,13 +1,13 @@
 name = "Cookielicious"
-filename = "cookielicious-1.19.2-3.0.0.jar"
+filename = "cookielicious-1.20.1-4.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "05089f5d7d3107c801e7a7bd6718934210c3c0d8"
+hash = "b966e1905359a5c2c18b49a312ae1cc2d353fccb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4718799
+file-id = 6194565
 project-id = 409577

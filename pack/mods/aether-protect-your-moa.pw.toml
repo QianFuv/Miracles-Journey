@@ -1,13 +1,13 @@
 name = "Aether Addon: Protect Your Moa"
-filename = "aether_protect_your_moa-1.19.2-1.0.0-forge.jar"
+filename = "aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb4621e977d78c138e20022cd7b71da300f7d964"
+hash = "8675d7bb13e179992a4ed3b3d0386f1fbf425711"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5343204
+file-id = 5343207
 project-id = 1016303

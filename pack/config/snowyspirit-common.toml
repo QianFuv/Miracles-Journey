@@ -29,7 +29,7 @@
 	mod_creative_tab = false
 
 [blocks_and_items]
-	gumdrops = true
+	gumdrop = true
 	glow_lights = true
 	candy_cane = true
 	ginger = true
@@ -39,13 +39,16 @@
 	#Only make sense to turn off with both ginger and gumdrops off
 	gingerbread_golem = true
 
-[sleds]
+[sled]
 	enabled = true
+	#Max allowed size of a sled entity puller. Allowing bigger ones could cause issue as hitbox will clash with sled itself
+	#Range: 0.1 ~ 3.0
+	max_sled_puller_size = 1.25
 
-	[sleds.physics]
+	[sled.physics]
 
 		#Advanced settings. Use to alter sled physics
-		[sleds.physics.friction]
+		[sled.physics.friction]
 			#Controls how sleds slide along other blocks.In other words its the inverse of frictionThis number affect how the sled speed is multiplied each tick. A value of 1 will make it keep its velocity foreverIncreasing these values will effectively increase the sled top speed when on these blocks
 			#Range: 0.0 ~ 1.0
 			sand_slipperiness = 0.83
@@ -64,7 +67,7 @@
 			#Range: 0.0 ~ 1.0
 			rotation_slipperiness_on_forward_acceleration = 0.75
 
-		[sleds.physics.steering]
+		[sled.physics.steering]
 			#Controls the forces applied each tick when moving a sledAlso effectively indirectly alters the sled max speed
 			#Intensity of velocity increase applied when pressing forward
 			#Range: 0.0 ~ 1.0

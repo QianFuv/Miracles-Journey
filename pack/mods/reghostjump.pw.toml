@@ -1,0 +1,13 @@
+name = "ReGhostJump"
+filename = "ReGhostJump-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22279f4ef6bda3ea0ad9f4087c5611d9b3539405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5563769
+project-id = 1070814

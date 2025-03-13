@@ -1,13 +1,13 @@
 name = "mutil"
-filename = "mutil-1.19.2-5.2.0.jar"
+filename = "mutil-1.20.1-6.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b575fd494ee6161917aaea028aa23b9695312186"
+hash = "a5030682cbbb003aa487763e7476643e0793d840"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4941248
+file-id = 4824501
 project-id = 351914

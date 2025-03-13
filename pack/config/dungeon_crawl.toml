@@ -11,10 +11,6 @@
 
 ["World Generation"]
 	#----------------------------------------------------------------------------------------------------+
-	# Experimental. Prevents caves, ravines, etc.. from interfering with a dungeon.
-	#
-	bury = false
-	#----------------------------------------------------------------------------------------------------+
 	# When enabled, the dungeons will ignore caves instead of trying to adjust to them (by not generating specific blocks).
 	#
 	solid = false
@@ -22,25 +18,6 @@
 	# Whether falling blocks like sand or gravel should drop down after being placed during dungeon generation.
 	#
 	tick_falling_blocks = true
-
-["Dungeon Placement"]
-	#----------------------------------------------------------------------------------------------------+
-	# The cell size of the grid used to generate the dungeons in chunks. Each cell of this grid can only contain one dungeon.
-	# You can also see this as the average distance between two adjacent dungeons in chunks.
-	# !! Has to be higher than the separation! !! 
-	# Reduce this value to make the dungeons more common, increase it to make them more rare.
-	# Halving it will quadruple the amount of dungeons, doubling it would have the opposite effect.
-	#
-	#Range: 9 ~ 4096
-	spacing = 32
-	#----------------------------------------------------------------------------------------------------+
-	# The minimum distance between two adjacent dungeons in chunks. Has to be lower than the spacing!
-	# The closer the separation is to the spacing, the more grid-aligned and predictable the dungeon placement will be.
-	# Generally, bigger values allow for less, and smaller values for more randomness.
-	# !! Has to be lower than the spacing! !!
-	#
-	#Range: 8 ~ 4095
-	separation = 12
 
 ["Dungeon Settings"]
 	#----------------------------------------------------------------------------------------------------+

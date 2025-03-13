@@ -1,13 +1,13 @@
 name = "Sapience"
-filename = "sapience-1.19.2-1.0.1.jar"
+filename = "sapience-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d6cf7b9e9bddb854e64e891fda23ee28e152243"
+hash = "d347450f23df1f5807548fd3c5a97404019ceab6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4502823
+file-id = 4806500
 project-id = 426097

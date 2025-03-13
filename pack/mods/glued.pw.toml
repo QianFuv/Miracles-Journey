@@ -1,13 +1,13 @@
 name = "Glued"
-filename = "glued-1.19.2-1.3.jar"
+filename = "glued-1.20.1-1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6a536ebc23aeb62756bd796c4431f6827ab2cce8"
+hash = "ae2ee389e362026aa35894d79a94cd18e46bdd0f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3971022
+file-id = 5103913
 project-id = 666699

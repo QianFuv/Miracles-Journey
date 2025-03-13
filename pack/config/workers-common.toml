@@ -115,10 +115,10 @@ Version = 7
 	#----False -> only one villager can become a recruit with one table.----
 	#	(takes effect after restart)
 	#	default: true
-	WorkersTablesPOIReleasing = true
+	WorkersTablesPOIReleasing = false
 	#
 	#----Should the profession tables drop when breaking?----
 	#	(takes effect after restart)
 	#	default: true
-	ProfessionBlocksDrop = false
+	ProfessionBlocksDrop = true
 

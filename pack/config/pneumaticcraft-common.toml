@@ -99,6 +99,9 @@
 	disenchanting_blacklist = ["quark:ancient_tome", "tetra:"]
 	#ID's of dimensions in which the Aerial Interface is not allowed to operate. You can use wildcarded dimensions here, e.g. 'somemod:*'.
 	aerial_interface_dimension_blacklist = []
+	#Minimum interval in ticks which the player can use the Vortex Cannon to boost their own speed
+	#Range: > 1
+	vortex_cannon_player_boost_rate = 10
 
 ["Pneumatic Armor"]
 	#Jetboots air usage in mL/tick (per Jet Boots Upgrade)
@@ -141,8 +144,10 @@
 	#Base explosion damage (modified by missile setup)
 	#Range: 0.0 ~ 1.7976931348623157E308
 	base_explosion_damage = 1.0
-	#Do micromissile explosions cause terrain damage?
+	#Do micromissile explosions cause terrain damage? Note: when set to true, the 'tntExplosionDropDecay' gamerule is used to determine block drops.
 	damage_terrain = false
+	#Do micromissile explosions start fires?
+	start_fires = false
 	#Cooldown for missile firing in ticks
 	#Range: > 0
 	launch_cooldown = 15

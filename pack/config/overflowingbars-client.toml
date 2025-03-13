@@ -57,8 +57,6 @@
 [general]
 	#Move chat messages above armor/absorption bar.
 	move_chat_above_armor = true
-
-[integration]
-	#Disables restored health preview in Apple Skin mod as it conflicts with stacked heart rendering. Only disable when integration breaks.
-	apple_skin_integration = true
+	#Move the experience level display above the experience bar.
+	move_experience_above_bar = true
 

@@ -1,13 +1,13 @@
 name = "Armor Statues [Forge & Fabric]"
-filename = "ArmorStatues-v4.0.8-1.19.2-Forge.jar"
+filename = "ArmorStatues-v8.0.6-1.20.1-Forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c80e1d459f65aa96cfe66cc59279861f2edde370"
+hash = "dbeb8229973c26d233b4bdf21ed6a4aa6b3ebd55"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4670976
+file-id = 5242480
 project-id = 682566

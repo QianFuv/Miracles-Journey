@@ -1,76 +1,62 @@
 #Raids Configurations
 #Controls whether the Shogun spawns in raids, usually set to true
-shogun_raid_Spawning = true
+"Shogun Raid Spawning" = true
 #Controls whether the Samurai spawns in raids, usually set to true
-samurai_raid_Spawning = true
+"Samurai Raid Spawning" = true
 #Controls whether the special Samurai spawns in raids, usually set to true
-special_samurai_raid_Spawning = true
+"Special Samurai Raid Spawning" = true
 #Controls whether the Guard spawns in raids, usually set to true
-guard_raid_Spawning = true
+"Guard Raid Spawning" = true
 #Controls whether the Blastioner spawns in raids, usually set to true
-blastioner_raid_Spawning = true
+"Blastioner Raid Spawning" = true
 #Controls whether the Royal Guards spawns in raids, usually set to false
-royal_guards_raid_Spawning = true
+"Royal Guards Raid Spawning" = true
 #Controls whether the Cowboy spawns in raids, usually set to true
-cowboy_raid_Spawning = false
-#Controls whether the Redstone Golem spawns in raids, usually set to true
-redstone_golem_raid_Spawning = true
-#Controls whether the Arcana Wardeer spawns in raids, usually set to true
-arcana_wardeer_raid_spawning = true
+"Cowboy Raid Spawning" = false
 
 [Config]
+	#Combat Configurations
 	#Controls the Samurai ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
-	samurai_ai_strength = 1
+	"Samurai ai strength" = 1
 	#Controls the Shogun ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
-	shogun_ai_strength = 1
+	"Shogun ai strength" = 1
 	#Controls the Cowboy ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
-	cowboy_ai_strength = 1
+	"Cowboy ai strength" = 1
 	#Controls the Guard ai strength, usually set to 1 
 	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
-	guard_ai_strength = 1
-	#Controls whether the Shogun takes Griefing Action, usually set to false
-	shogun_griefing = false
-	#Controls the Shogun Attack Damage Multiplier, usually set to 1 
+	"Guard ai strength" = 1
+	#Controls the Shogun Attack Damage Multiplier, usually set to 0.7 
 	#0.35 = easy, 0.7 = normal, 1.5 = hard, 1.9 = hardest
-	shogun_attack_multiply = 0.625
-	#Combat Configurations
-	#Controls whether the Arch-Illager summon Spellcasters (who is illager and could spelling magic), usually set to false
-	arch_illager_summon_spellcaster = false
-	#Controls whether the Arch-Illager only summon entity that has register Raider class, usually set to true
-	arch_illager_only_summon_raider = true
-	#Disable mobs that the arch-illager can summon (You can get the entity list that can summon by Arch-illager form game log) . 
-	#You can enter "disable_all" to disable all entity for arch-illager summoning, and make that the Arch-illager only summon vanilla mobs.
-	#To do so, enter the namespace ID of the mob, like "minecraft:pillager".
-	arch_illager_summon_blacklist = ["illager_additions:cowboy", "illager_additions:royal_guard_spearman", "illager_additions:shogun"]
-	#When arch-illager try to summon the warrior, all object from this list would add to the entity list for arch-illager summoning . 
-	#To do so, enter the namespace ID of the mob, like "minecraft:vindicator".
-	#>>>This list will skip config "arch_illager_summon_blacklist" to work<<<
-	arch_illager_summon_warrior_addition_list = ["minecraft:vindicator"]
-	#When arch-illager try to summon the archer, all object from this list would add to the entity list for arch-illager summoning . 
-	#To do so, enter the namespace ID of the mob, like "minecraft:pillager".
-	#>>>This list will skip config "arch_illager_summon_blacklist" to work<<<
-	arch_illager_summon_archer_addition_list = ["minecraft:pillager"]
-	#When arch-illager try to summon the mage, all object from this list would add to the entity list for arch-illager summoning . 
-	#To do so, enter the namespace ID of the mob, like "minecraft:evoker".
-	#>>>This list will skip config "arch_illager_summon_blacklist" to work<<<
-	arch_illager_summon_mage_addition_list = ["minecraft:evoker"]
-	#Controls the Arch-illager ai strength, usually set to 1 
-	#0 = easy, 1 = normal, 2 = hard, 3 = hardest
-	arch_illager_ai_strength = 1
+	"Shogun Attack Damage Multiplier" = 0.7
+	#Controls the Shogun Griefing, usually set to false
+	"Shogun Griefing" = false
 
 ["Raid Wave Member Configuration"]
-	samurai_wave_counts = [0, 1, 2, 0, 2, 1, 1, 4]
-	guard_wave_counts = [0, 1, 1, 0, 2, 1, 1, 2]
-	blastioner_wave_counts = [0, 0, 0, 0, 0, 1, 0, 1]
-	royal_guards_wave_counts = [0, 1, 0, 0, 1, 0, 1, 1]
-	cowboy_wave_counts = [0, 0, 1, 0, 1, 0, 0, 1]
+	#    Shogun Wave Counts
 	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
 	#
-	shogun_wave_count = [0, 0, 0, 0, 0, 0, 0, 1]
-	arcana_wardeer_wave_counts = [0, 0, 0, 1, 0, 1, 0, 1]
-	redstone_golem_wave_counts = [0, 0, 0, 0, 0, 0, 0, 1]
-	royal_guard_with_shield_wave_counts = [0, 0, 2, 3, 2, 2, 0, 4]
+	"Shogun Wave Count" = [0, 0, 0, 0, 0, 0, 0, 1]
+	#    Samurai Wave Counts
+	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
+	#
+	"Samurai Wave Counts" = [0, 1, 2, 0, 2, 1, 1, 4]
+	#    Guard Wave Counts
+	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
+	#
+	"Guard Wave Counts" = [0, 1, 1, 0, 2, 1, 1, 2]
+	#    Blastioner Wave Counts
+	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
+	#
+	"Blastioner Wave Counts" = [0, 0, 0, 0, 0, 1, 0, 1]
+	#    Knights Wave Counts
+	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
+	#
+	"Royal Guards Wave Counts" = [0, 0, 0, 0, 1, 0, 1, 1]
+	#    Cowboy Wave Counts
+	#    Requires a list of no more and less than 8 integers, each corresponding to its respective wave.
+	#
+	"Cowboy Wave Counts" = [0, 1, 0, 1, 0, 1, 0, 1]
 

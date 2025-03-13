@@ -153,6 +153,10 @@
 		#Range: > 0
 		warpCost = 1
 		#Range: > 1000
+		accurePlaceCooldown = 1000
+		#Range: > 0
+		accurePlaceCost = 1
+		#Range: > 1000
 		scanBlocksCooldown = 2000
 		#Range: > 1
 		scanBlocksMaxFreeRadius = 8
@@ -170,8 +174,4 @@
 		scanEntitiesExtraBlockCost = 0.17
 		#Range: > 1000
 		chatMessageCooldown = 1000
-		#Range: > 1000
-		accurePlaceCooldown = 1000
-		#Range: > 0
-		accurePlaceCost = 1
 

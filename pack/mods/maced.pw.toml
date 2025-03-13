@@ -1,13 +1,13 @@
 name = "Maced"
-filename = "Maced-Forge-1.19.2-24w13a-2.0.0-hotfix.jar"
+filename = "Maced-Forge-1.20.1-24w13a-2.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4fdfe5a18352b2c9cdd3c2a14bea87005653bd2e"
+hash = "a26bca62d431b06b3f3b3aced9ecaf1bd36eca50"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5219307
+file-id = 5217876
 project-id = 992767

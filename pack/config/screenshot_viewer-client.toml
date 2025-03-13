@@ -19,4 +19,23 @@ screenshotElementBackgroundOpacity = 100
 renderScreenshotElementFontShadow = true
 #Color of the texts describing the screenshots elements.
 screenshotElementTextColor = "#FFFFFF"
+#The ordering of the screenshots when the screen is opened.
+#Allowed Values: ASCENDING, DESCENDING
+defaultListOrder = "ASCENDING"
+#The offset in pixels of the screenshot manager button if shown in the pause menu (from 0 to how much you want).
+#Range: > 0
+pauseMenuButtonOffset = 4
+#The path to the folder containing the screenshots images that will be displayed in the screen.
+screenshotsFolder = "D:\\QianFuv\\Miracles-Journey-Develop\\.minecraft\\screenshots"
+#If enabled, clicking on the link printed in the chat when taking a screenshot will open it directly in the screenshot manager.
+redirectScreenshotChatLinks = false
+#The visibility state of the screenshots names.
+#Allowed Values: VISIBLE, SHOW_ON_HOVER, HIDDEN
+screenshotElementTextVisibility = "VISIBLE"
+#If enabled, it inverts the scroll direction during zoom in the Screenshot Viewer menu
+invertZoomDirection = false
+#Controls whether a tooltip giving useful info should appear when hovering a screenshot for a prolonged period.
+displayHintTooltip = true
+#Whether the properties buttons should be rendered wide or square.
+renderWidePropertiesButton = true
 

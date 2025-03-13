@@ -1,17 +1,1 @@
-Miracles Journey - 奇迹之旅
-
-基于原版MC设计的全新大型整合包，提供全新体验。
-
-注：奇迹之旅从未开设官方服务器，整合包内容完全免费公开，请勿上当受骗！！！
-
-相关链接：
-
-作者（浅风）主页：https://github.com/QianFuv
-
-奇迹之旅 Github 仓库：https://github.com/QianFuv/Miracles-Journey
-
-奇迹之旅文档：https://mjwiki.qianf.fun/
-
-奇迹之旅模组列表：https://mjlist.qianf.fun/
-
-官方 Q 群：160373490
+Put whatever you want on this screen, lines will wrap, and URLs will be clickable, example: https://www.youtube.com/channel/UC151j_E5Qin4I-pl7PNo12g/ :)

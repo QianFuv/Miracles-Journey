@@ -7,7 +7,7 @@
 	#Removes warm-tinting of the lightmap in the Aether, giving the lighting a colder feel
 	"Makes lightmap colder" = true
 	#Enables a green-tinted sunrise and sunset in the Aether, similar to the original mod
-	"Enables green sunrise/sunset" = true
+	"Enables green sunrise/sunset" = false
 
 [Gui]
 	#Adds a button to the top right of the main menu screen to toggle between the Aether and vanilla menu
@@ -25,7 +25,7 @@
 	#Determines the default Minecraft menu style to switch to with the menu theme button
 	"Default Minecraft menu style" = "cumulus_menus:minecraft"
 	#Adds random trivia and tips to the bottom of loading screens
-	"Enables random trivia" = false
+	"Enables random trivia" = true
 	#Makes the extra hearts given by life shards display as silver colored
 	"Enables silver life shard hearts" = true
 	#Disables the Aether's accessories button from appearing in GUIs
@@ -45,19 +45,23 @@
 	#The y-coordinate of the accessories button in the accessories menu
 	"Button y-coordinate in accessories menu" = 68
 	#The x-coordinate of the perks button layout when in the pause menu
-	"Layout x-coordinate in pause menu" = -126
+	"Layout x-coordinate in pause menu" = -116
 	#The y-coordinate of the perks button layout when in the pause menu
 	"Layout y-coordinate in pause menu" = 0
 	#Enables the overlay at the top of the screen for the Hammer of Kingbdogz' cooldown
 	"Enables Hammer of Kingbdogz' cooldown overlay" = true
 
 [Audio]
+	#Makes Blue Aerclouds have their wobbly sounds that play when bouncing on them
+	"Blue Aercloud bouncing sounds" = true
 	#Sets the minimum delay for the Aether's music manager to use if needing to reset the song delay outside the Aether
 	"Set backup minimum music delay" = 12000
 	#Sets the maximum delay for the Aether's music manager to use if needing to reset the song delay outside the Aether
 	"Set backup maximum music delay" = 24000
 	#Disables the Aether's internal music manager, if true, this overrides all other audio configs
-	"Disables Aether music manager" = true
+	"Disables Aether music manager" = false
+	#Disables the Aether's boss fight music, only works if 'Disables Aether music manager' is false
+	"Disables Aether boss music" = false
 	#Disables the Aether's menu music in case another mod implements its own, only works if 'Disables Aether music manager' is false
 	"Disables Aether menu music" = false
 	#Disables the menu music on the vanilla world preview menu, only works if 'Disables Aether music manager' is false
@@ -68,4 +72,6 @@
 [Miscellaneous]
 	#Disables the Cumulus menu selection screen button on launch
 	"Disable Cumulus button" = false
+	#Enables a direct join button for the official server
+	"Enables server button" = false
 

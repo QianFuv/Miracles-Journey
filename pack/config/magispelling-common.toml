@@ -3,4 +3,39 @@ stronger-magispeller = true
 #modifies the boss randomizer mechanic
 #disable if facing compat issue
 boss-randomizer-tweak = true
+#make magispeller do silly dances when winning a raid
+magispeller-dance = false
+#setting to 0 will remove cooldown
+#Range: 0.0 ~ 20.0
+spell-cooldown-multiplier = 1.0
+#the value used to modify xp amount when wearing the big brain
+#Range: 1.0 ~ 20.0
+big-brain-xp-multiplier = 2.0
+#setting to 0 will disable the usage of fireball spell
+#this option affect fireballs not owned by players
+#Range: 0.0 ~ 20.0
+fireball-explosion-multiplier = 1.0
+#setting to 0 will disable the usage of vexes spell
+#Range: 0 ~ 20
+summon-vex-amount = 5
+#setting to 0 will disable the usage of fangrun spell
+#Range: 0.0 ~ 20.0
+fangrun-range-multiplier = 1.0
+#list of effects to be applied when using potions spell
+#leaving empty will disable the usage of potions spell
+potion-spell-effects = ["minecraft:strong_slowness"]
+#time in ticks before the crashager explodes
+#setting to 0 will disable the usage of crashager spell
+#Range: 0 ~ 1200
+crashager-lifetime = 120
+#max amount of summoned dispensers per player
+#setting to 0 will disable the usage of dispenser spell
+#Range: 0 ~ 20
+dispenser-limit = 3
+#max amount of illashooters per dispenser
+#Range: 1 ~ 20
+illashooter-limit = 5
+#setting to 0 will disable the usage of kaboomer spell
+#Range: 0.0 ~ 20.0
+kaboomer-explosion-multiplier = 1.0
 

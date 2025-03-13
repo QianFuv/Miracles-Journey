@@ -1,13 +1,13 @@
 name = "Flame Sweeping Potato Edition"
-filename = "flamesweeping-1.19.2-1.0.0.jar"
+filename = "flamesweeping-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "83238148bfa304d18a1c1d8260912aa9c70485fd"
+hash = "0c2bae4a95f7ef79090d03d1e6406f84a89da744"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4613596
+file-id = 4613689
 project-id = 871518

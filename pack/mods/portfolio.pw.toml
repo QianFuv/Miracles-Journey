@@ -1,13 +1,13 @@
 name = "Portfolio"
-filename = "Portfolio-1.19.2-1.2.0-forge.jar"
+filename = "portfolio-1.20.1-1.4.0-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b43d3367a0ecbbe38382f4cbd0fd539b131a832"
+hash = "a81944099b81d3872199073b018c2db8fa435890"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4517550
+file-id = 5654124
 project-id = 851131

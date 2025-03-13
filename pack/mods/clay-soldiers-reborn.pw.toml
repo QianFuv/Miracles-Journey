@@ -1,13 +1,13 @@
 name = "Clay Soldiers Reborn [Forge/Fabric]"
-filename = "clay-0.4.2-forge-1.19.2.jar"
+filename = "clay-1.0.0-forge-1.20.1-1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3be975291125c8aa7ac052839c3ca8c1673fedf9"
+hash = "d33ad7d4f59edc1eafbca4e2c087642452859fa8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4134460
+file-id = 5477712
 project-id = 714097

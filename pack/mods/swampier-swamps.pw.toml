@@ -1,13 +1,13 @@
 name = "Swampier Swamps (Forge)"
-filename = "swampier_swamps-1.19-1.2.0.jar"
+filename = "swampier_swamps-1.20-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c48dedba7a98e6df51c82c61ae5753cd7377a2b0"
+hash = "894f27d2ff3016f8c778174c04cb79a785b2d0d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4463591
+file-id = 4578599
 project-id = 632591

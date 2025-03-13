@@ -1,13 +1,13 @@
 name = "Better Dogs X Doggy Talents Next"
-filename = "Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [1.18.2-1.19.2].jar.jar"
+filename = "Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "46ed6919ba5497bf1bf34c8eeb1b17ed54e8d094"
+hash = "56f07df677ee7d80dd5d7939335470aeeb86a3c7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5375492
+file-id = 5375499
 project-id = 922672

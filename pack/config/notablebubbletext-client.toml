@@ -12,5 +12,5 @@
 	#Offset the bubble text if the entity's name is rendered above their head
 	nameOffset = true
 	#Show the username of the player who sent the message in the bubble
-	showUsername = false
+	showUsername = true
 

@@ -13,6 +13,13 @@
         "negate": false,
         "value": "minecraft:deep_frozen_ocean"
       }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "alexscaves:abyssal_chasm"
+      }
     ]
   ]
 }

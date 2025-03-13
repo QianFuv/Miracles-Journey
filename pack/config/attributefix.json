@@ -11,17 +11,6 @@
         "value": 100
       }
     },
-    "forge:attack_range": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "forge:step_height_addition": {
       "enabled": false,
       "min": {
@@ -77,28 +66,6 @@
         "value": 100
       }
     },
-    "obscure_api:resilience": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "forge:entity_gravity": {
-      "enabled": false,
-      "min": {
-        "default": -8,
-        "value": -8
-      },
-      "max": {
-        "default": 8,
-        "value": 8
-      }
-    },
     "irons_spellbooks:nature_magic_resist": {
       "enabled": false,
       "min": {
@@ -143,48 +110,15 @@
         "value": 100
       }
     },
-    "irons_spellbooks:holy_magic_resist": {
+    "gunswithoutroses:gwr.damage_base": {
       "enabled": false,
       "min": {
-        "default": -100,
-        "value": -100
+        "default": -1024,
+        "value": -1024
       },
       "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.flat_max_mana": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
-    "cataclysm_spellbooks:abyssal_magic_resist": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10,
-        "value": 10
-      }
-    },
-    "lodestone:magic_proficiency": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.luck": {
@@ -196,17 +130,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "irons_spellbooks:fire_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "eidolon:persistent_soul_hearts": {
@@ -231,15 +154,576 @@
         "value": 100
       }
     },
-    "cataclysm_spellbooks:abyssal_spell_power": {
+    "forge:entity_reach": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 10,
-        "value": 10
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "eidolon:chanting_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:cast_time_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "gunswithoutroses:gwr.damage_total": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "l2damagetracker:fire_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "l2damagetracker:crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.wixie": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 1000000
+      }
+    },
+    "doggytalents:generic.crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "obscure_api:accuracy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "ars_nouveau:ars_elemental.perk.summon_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "l2damagetracker:explosion_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "irons_spellbooks:holy_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "reach-entity-attributes:reach": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:evocation_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "gunswithoutroses:gwr.spread": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "modulargolems:golem_size": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "doggytalents:generic.jump_power": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "irons_spellbooks:evocation_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "modulargolems:golem_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "oreganized:kinetic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 30
+      }
+    },
+    "irons_spellbooks:lightning_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "caelus:fall_flying": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "botania:pixie_spawn_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "obscure_api:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "irons_spellbooks:spell_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:magic_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "eidolon:max_soul_hearts": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2000,
+        "value": 2000
+      }
+    },
+    "minecraft:generic.max_health": {
+      "enabled": true,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
+    "irons_spellbooks:mana_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "gunswithoutroses:gwr.knockback": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:ice_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "gunswithoutroses:gwr.fire_delay": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:horse.jump_strength": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.spell_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "gunswithoutroses:gwr.sniper_crit_mult": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:max_mana": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000000,
+        "value": 1000000
+      }
+    },
+    "ars_nouveau:ars_nouveau.perk.warding": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "gunswithoutroses:gwr.chance_ammo": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
+      }
+    },
+    "modulargolems:golem_jump": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "irons_spellbooks:holy_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "gunswithoutroses:gwr.shotgun_projectiles": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "irons_spellbooks:fire_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "l2damagetracker:damage_absorption": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
       }
     },
     "galosphere:illager_resistance": {
@@ -297,28 +781,6 @@
         "value": 100000
       }
     },
-    "forge:reach_distance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "eidolon:chanting_speed": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "tetra:draw_strength": {
       "enabled": false,
       "min": {
@@ -330,33 +792,11 @@
         "value": 2048
       }
     },
-    "diet:natural_regeneration": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2,
-        "value": 2
-      }
-    },
     "obscure_api:healing_power": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "irons_spellbooks:cast_time_reduction": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
       },
       "max": {
         "default": 100,
@@ -385,28 +825,6 @@
         "value": 100
       }
     },
-    "feathers:feathers.feather_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "paraglider:max_stamina": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
-        "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-      }
-    },
     "parcool:stamina_recovery": {
       "enabled": false,
       "min": {
@@ -416,17 +834,6 @@
       "max": {
         "default": 10000,
         "value": 10000
-      }
-    },
-    "minecraft:zombie.spawn_reinforcements": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "irons_spellbooks:ice_spell_power": {
@@ -451,17 +858,6 @@
         "value": 1000000
       }
     },
-    "lodestone:magic_resistance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "forge:swim_speed": {
       "enabled": false,
       "min": {
@@ -471,39 +867,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.wixie": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "minecraft:generic.armor_toughness": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 20,
-        "value": 1000000
-      }
-    },
-    "doggytalents:generic.crit_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "tetra:draw_speed": {
@@ -517,15 +880,15 @@
         "value": 2048
       }
     },
-    "obscure_api:accuracy": {
+    "reach-entity-attributes:attack_range": {
       "enabled": false,
       "min": {
-        "default": 0,
-        "value": 0
+        "default": -1024,
+        "value": -1024
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 1024,
+        "value": 1024
       }
     },
     "irons_spellbooks:fire_magic_resist": {
@@ -561,6 +924,28 @@
         "value": 10
       }
     },
+    "l2damagetracker:bow_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "l2damagetracker:damage_reduction": {
+      "enabled": false,
+      "min": {
+        "default": -10000,
+        "value": -10000
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
     "tetra:ability_cooldown": {
       "enabled": false,
       "min": {
@@ -573,17 +958,6 @@
       }
     },
     "irons_spellbooks:ender_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "irons_spellbooks:holy_spell_power": {
       "enabled": false,
       "min": {
         "default": -100,
@@ -627,37 +1001,15 @@
         "value": 100
       }
     },
-    "irons_spellbooks:evocation_magic_resist": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "forge:block_reach": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "astral:generic.astral_attack_damage": {
+    "l2damagetracker:crit_rate": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2048,
-        "value": 2048
+        "default": 1,
+        "value": 1
       }
     },
     "obscure_api:parry": {
@@ -669,28 +1021,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.percent_max_mana": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
-    "minecraft:generic.attack_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
       }
     },
     "ars_nouveau:ars_nouveau.perk.mana_regen": {
@@ -715,17 +1045,6 @@
         "value": 1000000
       }
     },
-    "forge:attack_reach": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "irons_spellbooks:ender_magic_resist": {
       "enabled": false,
       "min": {
@@ -748,17 +1067,6 @@
         "value": 1
       }
     },
-    "feathers:feathers.max_feathers": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "minecraft:generic.armor": {
       "enabled": true,
       "min": {
@@ -768,28 +1076,6 @@
       "max": {
         "default": 30,
         "value": 1000000
-      }
-    },
-    "doggytalents:generic.jump_power": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "irons_spellbooks:evocation_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "irons_spellbooks:blood_spell_power": {
@@ -814,50 +1100,6 @@
         "value": 100
       }
     },
-    "modulargolems:golem_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
-      }
-    },
-    "minecraft:generic.flying_speed": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.toughness": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "irons_spellbooks:lightning_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "minecraft:generic.movement_speed": {
       "enabled": true,
       "min": {
@@ -869,121 +1111,11 @@
         "value": 1024
       }
     },
-    "caelus:fall_flying": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "botania:pixie_spawn_chance": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "obscure_api:critical_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "irons_spellbooks:spell_resist": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "eidolon:max_soul_hearts": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2000,
-        "value": 2000
-      }
-    },
-    "minecraft:generic.max_health": {
-      "enabled": true,
-      "min": {
-        "default": 1,
-        "value": 1
-      },
-      "max": {
-        "default": 1024,
-        "value": 1000000
-      }
-    },
-    "irons_spellbooks:mana_regen": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "irons_spellbooks:ice_magic_resist": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "parcool:max_stamina": {
       "enabled": false,
       "min": {
         "default": 10,
         "value": 10
-      },
-      "max": {
-        "default": 10000,
-        "value": 10000
-      }
-    },
-    "minecraft:horse.jump_strength": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2,
-        "value": 2
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.spell_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
       },
       "max": {
         "default": 10000,
@@ -999,50 +1131,6 @@
       "max": {
         "default": 1,
         "value": 1
-      }
-    },
-    "irons_spellbooks:max_mana": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000000,
-        "value": 1000000
-      }
-    },
-    "ars_nouveau:ars_nouveau.perk.warding": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
-    "minecraft:generic.knockback_resistance": {
-      "enabled": true,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
-    "lodestone:magic_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
       }
     }
   }

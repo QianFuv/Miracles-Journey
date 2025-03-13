@@ -10,12 +10,16 @@
 	totemUndying = true
 	#Arca will save the Player if past Totem Maximum Soul Count, Default: true
 	arcaUndying = true
+	#Using an item while holding a wand or staff on main/offhand will cause the wand or staff to be put on cooldown to prevent accidental spellcasting, Default: true
+	wandCoolItemUse = true
 	#Gives Players a Totem of Roots when first entering World, Default: false
 	starterTotem = false
 	#Gives Players the Black Book when first entering World and Patchouli is loaded, Default: false
 	starterBook = false
 	#Gives Players the Witch's Brew when first entering World and Patchouli is loaded, Default: false
 	starterWitchBook = false
+	#Entities part of a Player's Book of Goodwill will not take most damage from said Player rather than just spells, Default: false
+	goodwillNoDamage = false
 	#Show the Soul Energy Bar if Player has Totem of Souls/Arca, Default: true
 	soulGuiShow = true
 	#Show currently equipped focus on Wand/Staff in Gui, Default: true
@@ -44,10 +48,16 @@
 	bossMusic = true
 	#Players camera can shake. Default: true
 	cameraShake = true
-	#Using an item while holding a wand or staff on main/offhand will cause the wand or staff to be put on cooldown to prevent accidental spellcasting, Default: true
-	wandCoolItemUse = true
-	#Entities part of a Player's Book of Goodwill will not take most damage from said Player rather than just spells, Default: false
-	goodwillNoDamage = false
+
+["Mod Compatibility"]
+	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: false
+	betterDragonFireball = false
+	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
+	cataclysmLootCompat = true
+	#If Iron's Spells and Spellbooks is installed, certain robes provides Spell resistances. Default: true
+	robesIronResist = true
+	#If Iron's Spells and Spellbooks is installed, certain curios provides Spell buffs. Default: true
+	ironBuff = true
 
 [Blocks]
 	#Add mobs that Hook Bells don't work on. 
@@ -55,6 +65,12 @@
 	hookBellBlackList = []
 	#Whether Night Beacons are allowed to function, turning Daytime to Midnight so long as it's activated, Default: true
 	enableNightBeacon = true
+	#Whether enchanting through Rituals are enabled, Default: true
+	ritualEnchants = true
+	#Whether creating items through Rituals will transfer enchantments from the original item, Default: true
+	ritualCraftEnchant = true
+	#Whether creating items through Rituals will transfer damage from the original item, Default: false
+	ritualCraftDamage = false
 	#Maximum level of experience the Dark Anvil will stick to instead of capping if Cap is disabled, Default: 30
 	#Range: > 1
 	darkAnvilRepairCost = 30
@@ -83,16 +99,6 @@
 	sculkGrowerContinue = true
 	#Whether Sculk Grower can accept Potency enchantment, which allows the Grower to grow plants faster, Default: true
 	sculkGrowerPotency = true
-	#Allow looted Pithos to regenerate Loot and spawn Skull Lord again when right-clicked with respawn_boss tagged item, Default: true
-	pithosRespawn = true
-	#Allow used Crystal Balls to spawn Crones again when right-clicked with respawn_boss tagged item, Default: true
-	crystalBallRespawn = true
-	#Whether enchanting through Rituals are enabled, Default: true
-	ritualEnchants = true
-	#Whether creating items through Rituals will transfer enchantments from the original item, Default: true
-	ritualCraftEnchant = true
-	#Whether creating items through Rituals will transfer damage from the original item, Default: false
-	ritualCraftDamage = false
 	#The amount of Soul Energy used to power the Shrieking Obelisk, Default: 100
 	#Range: > 0
 	shriekObeliskCost = 100
@@ -101,6 +107,10 @@
 	#The amount of Soul Energy used to power the Animator per block distance, Default: 10
 	#Range: > 0
 	animatorCost = 10
+	#Allow looted Pithos to regenerate Loot and spawn Skull Lord again when right-clicked with respawn_boss tagged item, Default: true
+	pithosRespawn = true
+	#Allow used Crystal Balls to spawn Crones again when right-clicked with respawn_boss tagged item, Default: true
+	crystalBallRespawn = true
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2
@@ -135,8 +145,14 @@
 	otherSouls = 5
 
 [Lich]
+	#Whether players can obtain Lichdom without commands, Default: true
+	lichEnable = true
 	#Enable Liches healing using Soul Energy, Default: true
 	lichSoulHeal = true
+	#Enable Liches healing be stunted when hurt by Smite Enchantment, Default: true
+	lichSmite = true
+	#Whether players lose their lichdom if their Arca is removed, Default: true
+	lichArcaRemove = true
 	#How much Soul Energy is cost to heal the Player per configured second if they've become a Lich, Default: 5
 	#Range: > 0
 	lichHealCost = 5
@@ -156,31 +172,15 @@
 	lichMagicResist = false
 	#If Lich Undead Friendly is set to true, Only undead that have lower than 'lichPowerfulFoesHealth' max health are friendly, Default: true
 	lichPowerfulHostile = true
-	#If Villagers provide negative Reputation to Liches and non-Player Iron Golems are automatically aggressive against them, Default: true
-	lichVillagerHate = true
-	#Whether the player needs to read a Forbidden Scroll to start the Potion of Transformation ritual, Default: true
-	lichScrollRequirement = true
-	#Whether players can obtain Lichdom without commands, Default: true
-	lichEnable = true
-	#Enable Liches healing be stunted when hurt by Smite Enchantment, Default: true
-	lichSmite = true
-	#Whether the player in Lich Mode will emit Lich sounds, Default: true
-	lichModeSounds = true
-	#If Liches bare-handed attacks inflicts negative effects, Default: true
-	lichTouch = true
 	#If 'lichPowerfulHostile' is enabled, the highest max health an Undead mob can be without being hostile, Default: 100.0
 	#Range: 0.0 ~ 1.7976931348623157E308
 	lichPowerfulFoesHealth = 100.0
-	#Whether players lose their lichdom if their Arca is removed, Default: true
-	lichArcaRemove = true
-
-["Mod Compatibility"]
-	#If L_Ender Cataclysm is installed, certain loots are modified and change between this and the latter mod. Default: true
-	cataclysmLootCompat = true
-	#If Iron's Spells and Spellbooks is installed, certain robes provides Spell resistances. Default: true
-	robesIronResist = true
-	#If Iron's Spells and Spellbooks is installed, certain curios provides Spell buffs. Default: true
-	ironBuff = true
-	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: true
-	betterDragonFireball = true
+	#If Villagers provide negative Reputation to Liches and non-Player Iron Golems are automatically aggressive against them, Default: true
+	lichVillagerHate = true
+	#If Liches bare-handed attacks inflicts negative effects, Default: true
+	lichTouch = true
+	#Whether the player needs to read a Forbidden Scroll to start the Potion of Transformation ritual, Default: true
+	lichScrollRequirement = true
+	#Whether the player in Lich Mode will emit Lich sounds, Default: true
+	lichModeSounds = true
 

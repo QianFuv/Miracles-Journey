@@ -1,13 +1,13 @@
 name = "Discarnate"
-filename = "Discarnate-2.2.1+1.19.2-forge.jar"
+filename = "Discarnate-2.2.1+1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0cbf56bee624966ea56235eb62a8e52be14699ed"
+hash = "3dc14d4142065e1da295aed83324d4512b04bcab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4690920
+file-id = 4690936
 project-id = 304796

@@ -1,7 +1,7 @@
 
 ["It Takes A Pillage - Config"]
 	#Replace naturally spawning Iron Golems with Clay Golems?
-	"Replace Iron Golems" = false
+	"Replace Iron Golems" = true
 	#Clay Golem replacement rate (Peaceful difficulty)
 	"Peaceful Replacement Rate" = 0.0
 	#Clay Golem replacement rate (Easy difficulty)

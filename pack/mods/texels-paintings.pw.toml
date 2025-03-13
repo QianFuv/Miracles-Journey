@@ -1,13 +1,13 @@
 name = "Texels Paintings"
-filename = "TexelsPaintings-forge-1.19.2-6.3.1.jar"
+filename = "TexelsPaintings-forge-1.20.1-10.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cab5362d9944209b83c159f7452db5a418f3468c"
+hash = "540307e58bac54a0535f3b58173fac9fc537a221"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6173388
+file-id = 6173398
 project-id = 749675

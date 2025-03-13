@@ -1,0 +1,7 @@
+
+["Client configs for Tiny Foes"]
+	#Should resize baby villager head?
+	villagerHeadFix = true
+	#Should the baby held items be oversized?
+	oversizedItems = true
+

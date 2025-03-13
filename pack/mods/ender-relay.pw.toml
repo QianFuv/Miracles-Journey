@@ -1,13 +1,13 @@
 name = "Ender Relay [Forge/Fabric]"
-filename = "Ender-Relay-1.19.2-Forge-1.1.0.jar"
+filename = "Ender-Relay-1.20.1-Forge-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9112ebb352ab3eb0c0825e92cd4ade3bccef96bf"
+hash = "e8c245a88d016a99fe05887a77c16da98bfd1214"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5500226
+file-id = 5500211
 project-id = 1003537

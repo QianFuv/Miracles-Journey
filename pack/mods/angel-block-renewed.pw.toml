@@ -1,13 +1,13 @@
 name = "Angel Block Renewed"
-filename = "angelblockrenewed-forge-1.3-1.19.jar"
+filename = "angelblockrenewed-forge-1.3-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e65e609f983af4335669e783104d4336eda797c"
+hash = "d5f741b1403657676c63734747f0ca0302340372"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4690391
+file-id = 4690392
 project-id = 659250

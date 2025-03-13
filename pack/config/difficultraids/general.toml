@@ -51,6 +51,8 @@
 	#This gets applied on top of whatever difficulty a Raid is at. This will not apply to Default Raids.
 	#Range: 1.0 ~ 1.7976931348623157E308
 	insanityCountMultiplier = 3.0
+	#Toggles whether or not to display 'Insane' on the raid
+	displayInsanityMode = true
 
 #Customize which Raiders will show up in Raids. By default, all raiders are enabled.
 ["Enabled Raiders"]
@@ -87,6 +89,7 @@
 		enablePreservers = true
 		enableAbsorbers = true
 		enableCrocofangs = true
+		enableEngineers = true
 		enableMagispellers = true
 		enableSpiritcallers = true
 		enableFreakagers = true
@@ -97,15 +100,4 @@
 		enableExecutioners = true
 		enableTricksters = true
 		enableSavageRavageIceologers = true
-
-	["Enabled Raiders"."Requires Dungeon Mobs"]
-		enableMountaineers = true
-		enableRoyalGuards = true
-		enableGeomancers = true
-		enableDungeonMobsIllusioners = true
-		enableMages = true
-		enableDungeonMobsIceologers = true
-		enableWindcallers = true
-		enableSquallGolems = true
-		enableRedstoneGolems = true
 

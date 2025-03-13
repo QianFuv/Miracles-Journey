@@ -49,6 +49,9 @@
 	#Maximum screen roll in degrees when banking left or right during Jet Boots flight - cosmetic only
 	#Range: 0 ~ 90
 	max_jet_boots_roll = 35
+	#Which component initialisation messages to display when armor is booting up
+	#Allowed Values: ALL, ENABLED_ONLY, NONE
+	component_init_messages = "ALL"
 
 [sound]
 	#Volume level of the Elevator while running

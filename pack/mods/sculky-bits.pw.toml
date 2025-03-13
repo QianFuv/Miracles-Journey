@@ -1,13 +1,13 @@
 name = "Sculky Bits"
-filename = "sculkybits-0.9c.jar"
+filename = "sculkybits-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "07c4b913d8979e528ce27199d38c663f7dfdfe4c"
+hash = "5dff01f33f0ac2e6d56ab082fb285e0c3c917ac5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4121327
+file-id = 4584771
 project-id = 547635

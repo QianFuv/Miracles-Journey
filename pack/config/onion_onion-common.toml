@@ -4,7 +4,8 @@
 	"Onion fun" = true
 	#Do Big Onion blocks from Overweight Farming trigger the effects of cutting onions when peeled
 	"Big onion reactions" = true
-	#The range in which blocks and entities are affected by cutting onions. Capped at 16
+	#The range in which blocks and entities are affected by cutting onions.
+	#Range: 0 ~ 16
 	"Onion chop radius" = 2
 
 	[config.entity_changes]

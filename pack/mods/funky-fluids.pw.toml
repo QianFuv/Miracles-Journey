@@ -1,13 +1,13 @@
 name = "Funky Fluids"
-filename = "funkyfluids-1.19.2-1.1.1.jar"
+filename = "funkyfluids-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a309ea5f12b49dd328d016da26900e41359ed894"
+hash = "9aff1347b87dbf3653210c906370ed3b73bc65b9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4437386
+file-id = 5144061
 project-id = 658115

@@ -1,13 +1,13 @@
 name = "Storage Delight (Forge & Neoforge)"
-filename = "storagedelight-24.12.17-1.19-forge.jar"
+filename = "storagedelight-25.03.09-1.20-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5ad6ea24f380ad7d054a9b10647a0927f957b22"
+hash = "da642a2abe762ce67ce6ed5733d78d359e2cae28"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5997865
+file-id = 6282660
 project-id = 979761

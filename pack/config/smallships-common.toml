@@ -1,5 +1,5 @@
 # This holds the schematic version for internal purposes. DO NOT TOUCH!
-schematicVersion = 4
+schematicVersion = 5
 
 # This category holds configs that define ship behaviour.
 [Ship]
@@ -12,22 +12,22 @@ schematicVersion = 4
 		#The damage that is delivered to entities on collision with a cruising ship. Set 0 to disable feature.
 		#Range: 0.0 ~ 100.0
 		shipGeneralCollisionDamage = 7.5
-		#Should the ship item be dropped when the ship is fully damaged?
-		shipGeneralDoItemDrop = true
 		#Should entities be pushed on collision with a cruising ship?
 		shipGeneralCollisionKnockBack = true
+		#Should the ship item be dropped when the ship is fully damaged?
+		shipGeneralDoItemDrop = true
 
 		#General speed modifiers for ships.
 		[Ship.General.Modifier]
 			#Maximum speed penalty for a filled container in percent.
 			#Range: -500.0 ~ 500.0
 			shipGeneralContainerModifier = 10.0
-			#Speed bonus for a paddle ship while paddling in percent.
-			#Range: -500.0 ~ 500.0
-			shipGeneralPaddlingModifier = 35.0
 			#Speed penalty per cannon in percent.
 			#Range: -500.0 ~ 500.0
 			shipGeneralCannonModifier = 2.5
+			#Speed bonus for a paddle ship while paddling in percent.
+			#Range: -500.0 ~ 500.0
+			shipGeneralPaddlingModifier = 35.0
 			#Maximum speed bonus and penalty depending on the ship biome type in percent.
 			#Range: 0.0 ~ 500.0
 			shipGeneralBiomeModifier = 20.0

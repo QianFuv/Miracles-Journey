@@ -4,6 +4,14 @@
 	# When loading files from datapacks, set this to true to log missing registry data for things like items.
 	# Default: false
 	log_missing_registry_data_for_datapacks = false
+	#
+	# When true, generated world regions, 1024 blocks wide, will be saved as a file to make generating chunks faster in already visited areas. If file size is a concern or issues arise, this may be disabled.
+	# Default: true
+	write_world_regions_to_disk = true
+	#
+	# When printing "Blue Skies' player capability wasn't present for...", crash the game.
+	# Default: false
+	crash_on_missing_capability_for_dungeon = false
 
 ["Holiday Content"]
 	#
@@ -20,15 +28,6 @@
 	# The emerald cost for the Zeal Lighter sold by the Gatekeeper.
 	# Default: 8
 	zeal_lighter_cost = 8
-
-	[Gatekeeper."Gatekeeper House"]
-
-		[Gatekeeper."Gatekeeper House".placement]
-			#
-			# Percent chance of generating in an allowed chunk.
-			# Default: 75
-			#Range: 0 ~ 100
-			probability = 75
 
 ["Mod Compatibility"]
 	#

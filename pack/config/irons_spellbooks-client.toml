@@ -1,24 +1,19 @@
 
-[Animations]
-	#What to render in first person while casting.
-	showFirstPersonArms = true
-	showFirstPersonItems = true
-
-########################################################################################################################
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###   ATTENTION: These are client configs. For gameplay settings, go to the SERVER CONFIGS (in the world save file)   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-###                                                                                                                   ##
-########################################################################################################################
+###############################################################################################
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###   ATTENTION: These are client configs. For gameplay settings, go to the SERVER CONFIGS   ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###                                                                                          ##
+###############################################################################################
 #
 [UI]
 
@@ -26,9 +21,9 @@
 		#By default (Contextual), the mana bar only appears when you are holding a magic item or are not at max mana.
 		#Allowed Values: Never, Always, Contextual
 		manaBarDisplay = "Contextual"
-		manaBarYOffset = 0
 		#Used to adjust mana bar's position (11 is one full hunger bar up).
 		manaBarXOffset = 0
+		manaBarYOffset = 0
 		manaBarTextVisible = true
 		#Allowed Values: Hunger, XP, Center, TopLeft, TopRight, BottomLeft, BottomRight
 		manaBarAnchor = "Hunger"
@@ -50,6 +45,11 @@
 		recastAnchor = "TopCenter"
 		recastXOffset = 0
 		recastYOffset = 0
+
+[Animations]
+	#What to render in first person while casting.
+	showFirstPersonArms = true
+	showFirstPersonItems = true
 
 [Renderers]
 	#By default, both fireballs are replaced with an enhanced model used by fire spells.

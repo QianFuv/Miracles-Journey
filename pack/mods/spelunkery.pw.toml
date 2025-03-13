@@ -1,13 +1,13 @@
 name = "Spelunkery"
-filename = "spelunkery-1.19.2-0.2.6-forge.jar"
+filename = "spelunkery-1.20.1-0.3.16-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c27dd94002e26bd7a1fc2d37eb1d08a165c8efe8"
+hash = "d6de614c207775d0522e53d88dea75226e34955b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4719507
+file-id = 6122072
 project-id = 790530

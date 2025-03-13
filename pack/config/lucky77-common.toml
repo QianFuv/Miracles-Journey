@@ -5,7 +5,7 @@
 	Drowned = false
 	Husk = false
 	Stray = false
-	"Cave Spider" = false
+	CaveSpider = false
 	Creeper = false
 	Enderman = false
 	Giant = false

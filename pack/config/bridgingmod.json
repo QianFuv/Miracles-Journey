@@ -1,7 +1,19 @@
 {
-  "enableBridgingAssist": true,
-  "enableSlabAssist": true,
-  "showCrosshair": true,
-  "showDebugHighlight": true,
-  "showDebugTrace": false
+	"version": 3,
+	"enableBridgingAssist": true,
+	"onlyBridgeWhenCrouched": false,
+	"supportedBridgeAxes": "BOTH",
+	"supportedBridgeAxesWhenCrouched": "FALLBACK",
+	"delayPostBridging": 4,
+	"showCrosshair": true,
+	"showOutline": false,
+	"showOutlineEvenWhenNotBridging": false,
+	"nonBridgeRespectsCrouchRules": true,
+	"outlineColour": 1711276032,
+	"skipTorchBridging": true,
+	"enableSlabAssist": true,
+	"enableNonSolidReplace": true,
+	"showDebugHighlight": true,
+	"showNonBridgingDebugHighlight": false,
+	"showDebugTrace": false
 }

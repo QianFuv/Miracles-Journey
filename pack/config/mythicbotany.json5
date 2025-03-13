@@ -1,4 +1,7 @@
 {
+  // Whether to add an extra ring slot to curios.
+  "addExtraRingSlot": true,
+  
   // Whether the alfheim dimension is enabled. When this is set to false, you'll still be able to use
   // the mead of kvasir as usual but the portal to alfheim will not work.
   "enableAlfheim": true,

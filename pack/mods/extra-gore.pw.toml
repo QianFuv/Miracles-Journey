@@ -1,13 +1,13 @@
 name = "Extra Gore"
-filename = "extragore-1.19.2-3.2.3.1.jar"
+filename = "extragore-1.20.1-5.2.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "89814250a9c5622f33d05554b6d740c40f9568f3"
+hash = "54efacc6db27a314284ba29bb176ca089e20a18b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5398539
+file-id = 5398532
 project-id = 937006

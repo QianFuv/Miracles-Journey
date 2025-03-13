@@ -1,13 +1,13 @@
 name = "Stardew Fishing"
-filename = "stardew_fishing-1.19.2-1.3-all.jar"
+filename = "stardew_fishing-1.3-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7033110ae85e9a073e84eebed2e03048ea16f3bc"
+hash = "da870cd6f31ed61730596c9b49d6252c2cf1a2e3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5593593
+file-id = 5565142
 project-id = 1066037

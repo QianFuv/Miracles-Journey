@@ -39,6 +39,9 @@
 	#The maximum number of threads that will be used to bake models. 
 	#Range: 1 ~ 16
 	modelBakingThreadCount = 10
+	#The maximum number of threads that will be used to build model vertexes. 
+	#Range: 1 ~ 16
+	vertexCompileThreadCount = 2
 	#When enabled skin will render in multiple passes to reduce visual artifacts.
 	#Disabling this will improve skin rendering performance at the cost of visual quality.
 	multipassSkinRendering = true
@@ -48,9 +51,6 @@
 	#Number of LOD models to create. Higher number should give a boost to framerate at a small cost to VRAM.
 	#Range: 0 ~ 4
 	maxLodLevels = 4
-	#The maximum number of threads that will be used to build model vertexes. 
-	#Range: 1 ~ 16
-	vertexCompileThreadCount = 2
 
 #Change (memory use/IO access) ratio by changing setting in this category.
 [cache]
@@ -111,6 +111,12 @@
 [debug]
 	#Shows shader mixin results in logs.
 	shader = false
+	#Shows resource register/unregister in logs.
+	resource = false
+	#Shows animation running states in logs.
+	animation = false
+	#Shows molang compile states in logs.
+	molang = false
 	#Shows extra info on the F3 debug screen.
 	showF3DebugInfo = true
 	#Texture painting replacing the players texture with a painted version.
@@ -124,10 +130,4 @@
 	#3 = model_replace_aw (render using a aw model - faster, less compatible)
 	#Range: -1 ~ 2
 	texturePaintingType = 0
-	#Shows animation running states in logs.
-	animation = false
-	#Shows molang compile states in logs.
-	molang = false
-	#Shows resource register/unregister in logs.
-	resource = false
 

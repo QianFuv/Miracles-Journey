@@ -1,0 +1,13 @@
+name = "Create Track Map: Forge"
+filename = "create-track-map-1.4+mc1.20.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb5a15f1c2d8cc68f5f80e2d04ad3e796de07a6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5965965
+project-id = 1154049

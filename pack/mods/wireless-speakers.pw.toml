@@ -1,13 +1,13 @@
 name = "Wireless Speakers"
-filename = "SpeakerMod-1.19-41.1.6.01.jar"
+filename = "wirelessspeakers-1.20-46.6.02.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1c099c8e12dc06f2704251b5910159f3079b418f"
+hash = "b523a46550ed73861ba7f0e28da9e17efa7c2498"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3972962
+file-id = 4593619
 project-id = 470829

@@ -1,13 +1,13 @@
 name = "Left Hanging"
-filename = "LeftHanging-forge-1.19.2-4.3.0.0.jar"
+filename = "LeftHanging-forge-1.20.1-6.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "20113d90294a3f4133d7957977c1daf1b099ad13"
+hash = "6fa7fd177170e61090156d09432f47a74ef96617"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3951548
+file-id = 5431340
 project-id = 532595

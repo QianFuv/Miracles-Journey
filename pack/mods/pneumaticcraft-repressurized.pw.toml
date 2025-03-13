@@ -1,13 +1,13 @@
 name = "PneumaticCraft: Repressurized"
-filename = "pneumaticcraft-repressurized-1.19.2-4.3.15-52.jar"
+filename = "pneumaticcraft-repressurized-6.0.20+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de75bb8b5c882f29defdb2f8b7a3ec519c8b7690"
+hash = "3c0a07fe8366f340944e436dd02f5a3c9f6b31cc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5280236
+file-id = 6142963
 project-id = 281849

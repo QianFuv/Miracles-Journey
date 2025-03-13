@@ -13,22 +13,22 @@
 	maximumBaseXpCost = 3.0
 	#How much xp is needed per leashed animal to travel with you
 	#Range: > -2147483648
-	xpCostPerLeashed = 1
+	xpCostPerLeashed = 0
 	#The base xp level cost when travelling between dimensions. Ignores block distance.
 	#Range: > -2147483648
 	dimensionalWarpXpCost = 3
 	#The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	globalWaystoneXpCostMultiplier = 1.0
+	globalWaystoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting using a Warp Stone item (not the Waystone block, Konstantin)
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	warpStoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from one waystone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	waystoneXpCostMultiplier = 1.0
+	waystoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from one sharestone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	sharestoneXpCostMultiplier = 1.0
+	sharestoneXpCostMultiplier = 0.0
 	#The multiplier applied to the base xp cost when teleporting from a portstone.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	portstoneXpCostMultiplier = 0.0
@@ -70,7 +70,7 @@
 	globalWaystoneCooldownMultiplier = 1.0
 	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
 	#Range: > -2147483648
-	warpStoneCooldown = 300
+	warpStoneCooldown = 30
 	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
 	#Range: > -2147483648
 	warpStoneUseTime = 32
@@ -124,8 +124,6 @@
 [client]
 	#If enabled, the text overlay on waystones will no longer always render at full brightness.
 	disableTextGlow = false
-	#If enabled, activated waystones will not emit particles.
-	disableParticles = false
 
 [compatibility]
 	#If enabled, JourneyMap waypoints will be created for each activated waystone.

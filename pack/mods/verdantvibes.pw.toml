@@ -1,13 +1,13 @@
 name = "VerdantVibes"
-filename = "verdantvibes-1.0.1-1.19.2.jar"
+filename = "verdantvibes-1.0.3-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f9f81771c2e03a182b07ec29ccd5f903c583dc96"
+hash = "599c02021d99b77d78eec5d97ee8b801d149880d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4783113
+file-id = 4903601
 project-id = 917969

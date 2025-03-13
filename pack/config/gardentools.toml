@@ -32,6 +32,10 @@
 		#Watering can range
 		#Range: 1 ~ 32
 		range = 4
+		#
+		#Power of the watering can: 0.1 is very weak and 0.99 is very strong
+		#Range: 0.0010000000474974513 ~ 1.0
+		power = 0.5
 
 	[gardentools.fertilizer]
 		#

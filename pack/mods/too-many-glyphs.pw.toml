@@ -1,13 +1,13 @@
 name = "Too Many Glyphs"
-filename = "toomanyglyphs-1.19.2-2.2.376.1564.jar"
+filename = "toomanyglyphs-1.20.1-2.3.2.12345.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d225e63cbfa88c77afa427ee23cf8f0a74563b7c"
+hash = "5adbcc67259deaad1e1625dae3947b415ed81bac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4711927
+file-id = 4813803
 project-id = 560595
