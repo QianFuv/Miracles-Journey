@@ -1,10 +1,5 @@
 /.github/scripts/__pycache__
 
-/pack/patchouli_books/miracles_book/en_us/entries/bookmark.json
-
 /wiki/.vitepress/dist
 /wiki/.vitepress/cache
 /wiki/node_modules
-
-/commit-categorizer.py
-/MJ.ffs_gui

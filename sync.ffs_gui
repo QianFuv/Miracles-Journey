@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="23">
+    <Notes/>
+    <Compare>
+        <Variant>Content</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Differences LeftOnly="right" LeftNewer="right" RightNewer="right" RightOnly="right"/>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\.persistent</Item>
+            <Item>\armourers_workshop</Item>
+            <Item>\assets</Item>
+            <Item>\backups</Item>
+            <Item>\ChatImageCache</Item>
+            <Item>\Code</Item>
+            <Item>\config\blockswap\known_states</Item>
+            <Item>\config\starterkit\starterkit-old*.txt</Item>
+            <Item>\config\paxi\datapacks</Item>
+            <Item>\crash-reports</Item>
+            <Item>\CustomSkinLoader</Item>
+            <Item>\data</Item>
+            <Item>\ESM</Item>
+            <Item>\fancymenu_data</Item>
+            <Item>\graalvm21\bin</Item>
+            <Item>\graalvm21\conf</Item>
+            <Item>\graalvm21\include</Item>
+            <Item>\graalvm21\jmods</Item>
+            <Item>\graalvm21\legal</Item>
+            <Item>\graalvm21\lib</Item>
+            <Item>\graalvm21\GRAALVM-README.md</Item>
+            <Item>\graalvm21\LICENSE.txt</Item>
+            <Item>\graalvm21\license-information-user-manual.zip</Item>
+            <Item>\graalvm21\release</Item>
+            <Item>\keybinding presets</Item>
+            <Item>\libraries</Item>
+            <Item>\local</Item>
+            <Item>\logs</Item>
+            <Item>\mod_data</Item>
+            <Item>\modernfix</Item>
+            <Item>\mods</Item>
+            <Item>\music_sheets</Item>
+            <Item>\patchouli_books</Item>
+            <Item>\resourcepacks</Item>
+            <Item>\saves</Item>
+            <Item>\schematics</Item>
+            <Item>\screenshots</Item>
+            <Item>\shaderpacks</Item>
+            <Item>\thingpacks</Item>
+            <Item>\thumbnails</Item>
+            <Item>\tlm_custom_pack</Item>
+            <Item>\versions</Item>
+            <Item>\xaero</Item>
+            <Item>\XaeroWaypoints_*</Item>
+            <Item>\.gitattributes</Item>
+            <Item>\.packwizignore</Item>
+            <Item>\.qmenu_opened.marker</Item>
+            <Item>\BTLib.dll</Item>
+            <Item>\fabricloader.log</Item>
+            <Item>\index.toml</Item>
+            <Item>\launcher_profiles.json</Item>
+            <Item>\meta.json</Item>
+            <Item>\pack.toml</Item>
+            <Item>\packwiz.json</Item>
+            <Item>\packwiz-installer.jar</Item>
+            <Item>\packwiz-installer-bootstrap.jar</Item>
+            <Item>\patchouli_data.json</Item>
+            <Item>\rhino.local.properties</Item>
+            <Item>\seamless.txt</Item>
+            <Item>\usercache.json</Item>
+            <Item>\usernamecache.json</Item>
+        </Exclude>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>D:\QianFuv\Miracles-Journey-Develop\.minecraft</Left>
+            <Right>D:\QianFuv\Miracles-Journey\pack</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <GridViewType>Difference</GridViewType>
+</FreeFileSync>
