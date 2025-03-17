@@ -1474,9 +1474,9 @@
     "modId": "manaliquidizer",
     "version": "1.20.1-1.0.0"
   },
-  "mavapi-1.1.4-mc1.20.1.jar": {
+  "mavapi-1.1.2-mc1.20.1.jar": {
     "modId": "mavapi",
-    "version": "1.1.4"
+    "version": "1.1.2"
   },
   "mavm-1.2.6-mc1.20.1.jar": {
     "modId": "mavm",

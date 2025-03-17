@@ -5642,7 +5642,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
+hash = "f243cda21c9ce227402054b2ef93410d3832afb985a392a7b368d80b80f88c7a"
 metafile = true
 
 [[files]]
@@ -6981,6 +6981,16 @@ hash = "a85d20b55630a09ca9153e75d383615e91a6c815c96988d462f14d3669fddf42"
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/pack.mcmeta"
 hash = "cfb36ce1784e68b732e02f2f3341a181f920bbe9ae595b6fe2812ddc69ededac"
+
+[[files]]
+file = "resourcepacks/bibliophilia.pw.toml"
+hash = "b7fa3da47b4d72d9dda9d08658ac78815a6db57885584515621758ce75cd7257"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "0ee45cd61744912663080a74c055cbbd6cae19b2eaab90708f82f2f633214d46"
+metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v8.4.01.2.zip.txt"
