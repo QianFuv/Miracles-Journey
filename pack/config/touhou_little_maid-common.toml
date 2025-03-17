@@ -151,3 +151,17 @@
 	#Range: 1 ~ 128
 	MaidMaxHistoryChatSize = 16
 
+[render]
+	EnableCompassTip = true
+	EnableGoldenAppleTip = true
+	EnablePotionTip = true
+	EnableMilkBucketTip = true
+	EnableScriptBookTip = true
+	EnableGlassBottleTip = true
+	EnableNameTagTip = true
+	EnableLeadTip = true
+	EnableSaddleTip = true
+	EnableShearsTip = true
+	EnableYsmRouletteTip = true
+	EnableAIChatTip = true
+

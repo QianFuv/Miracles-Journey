@@ -14,5 +14,6 @@
   "dragImage": true,
   "dragUseCicode": false,
   "pasteImageUseCicode": true,
+  "experimentalTextComponentCompatibility": true,
   "timeout": 60
 }

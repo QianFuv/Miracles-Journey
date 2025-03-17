@@ -1,13 +1,13 @@
 name = "Data Anchor"
-filename = "Data_Anchor-forge-1.20.1-1.0.0.9.jar"
+filename = "Data_Anchor-forge-1.20.1-1.0.0.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d81e9f0075fc3e050ccb3456c5649e7f63888fd6"
+hash = "fe0a19ba516455afbc0ffd3a2c74feb36da44e1b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6298626
+file-id = 6301800
 project-id = 1203668

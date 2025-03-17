@@ -21,8 +21,8 @@
 [XP] 2b2t Highways Color:2
 [XP] Region Writes While Dim Switched:false
 [XP] Switch to Overworld:false
-[XP] Min WorldMap Zoom:0.1
 [XP] Minimap FPS Limit:60.0
+[XP] Min WorldMap Zoom:0.1
 [XP] New Chunks Inverse Color:1
 [XP] Minimap Scaling Factor:1.0
 [XP] Spawn Chunks:false
@@ -38,8 +38,8 @@
 [XP] PortalSkip Color:6
 [XP] Spawn Chunks Entity Processing Color:1
 [XP] New Chunks Color:0
-[XP] Roof Obsidian Opacity:150.0
 [XP] Old Chunks Color:3
+[XP] Roof Obsidian Opacity:150.0
 [XP] Save/Load OldBiomes To Disk:true
 [XP] Palette NewChunks Version Upgraded:true
 [XP] Fix Main Entity Dot:true
@@ -48,6 +48,7 @@
 [XP] Save/Load OldChunks to Disk:true
 [XP] Fast Zip Writes:true
 [XP] PortalSkip Search Delay:10.0
+[XP] Map Art Grid Color:0
 [XP] Sodium/Embeddium Setting Integration:true
 [XP] Show Render Distance:false
 [XP] WorldMap Baritone Goal Here:false
@@ -93,6 +94,7 @@
 [XP] OldChunks Inverse:false
 [XP] Player Spawn Chunks:false
 [XP] Always Render Player Name:true
+[XP] Map Art Grid:false
 [XP] Waypoint Beacon Scale Min:0.0
 [XP] Show World Border:false
 [XP] Baritone Goal Waypoint:true

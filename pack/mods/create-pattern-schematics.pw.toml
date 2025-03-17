@@ -1,13 +1,13 @@
 name = "Create: Pattern Schematics"
-filename = "pattern_schematics-1.2.0+forge-1.20.1.jar"
+filename = "pattern_schematics-1.2.3+forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b5c0ab791420acee5a8424606df967a9f332681"
+hash = "d752660d32d4f87b4c4d7fee49bafdf9d011529e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6264702
+file-id = 6310778
 project-id = 1072349

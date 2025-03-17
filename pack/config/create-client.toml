@@ -21,9 +21,6 @@
 	#Range: 1.0 ~ 3.4028234663852886E38
 	filterItemRenderDistance = 10.0
 	#.
-	#Show kinetic debug information on blocks while the F3-Menu is open.
-	enableRainbowDebug = false
-	#.
 	#Choose the menu row that the Create config button appears on in the main menu
 	#Set to 0 to disable the button altogether
 	#Range: 0 ~ 4

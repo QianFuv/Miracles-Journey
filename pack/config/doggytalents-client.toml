@@ -111,4 +111,7 @@
 	#Set this option to any value less than zero to remove the limit.
 	#Range: > -2147483648
 	max_dog_bed_model_cache = 65536
+	#By default, DTN will render your Dogs' Names through walls. Disable
+	#this to make Owned Dogs' Names no longer visible through walls.
+	show_dog_name_thru_wall = true
 
