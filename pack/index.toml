@@ -1486,7 +1486,7 @@ hash = "3a429334ee23f897a7f9433e25af1246a735b289629d32cb0c730a9885a3c240"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a0801a5a2963edb6140a593c8734831951eeea0eec55da8b8f941b0619c13288"
+hash = "01db1736083725a5ad1bf2c65cae7b326e2152dafca3b62cefc3ce8806b7fa3d"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2030,7 +2030,7 @@ hash = "eca4eecb177e090e504da69e8e344c9e55f696341beeb9bbfaa5958127f8b912"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4d7f7c985870a089f426c3dd7fbe8d82f76a7e19cc981ac19a1f7874db728b9d"
+hash = "01c53002181df44e9030b3e9a044a62eed1fd65dbc5ef1779e90f52505d7b33f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -2042,7 +2042,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "3f006b773f0c247d3ded5692a3bc6a49ad20339e0a2edfcca79e25845e3bb75d"
+hash = "ff909c5f1c76bdb56641cbc448e2fe4a515e514f4bc85a15181d77191357f8a3"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -2138,7 +2138,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "843ae74b1ffe6b6c5830267ff35c03714c74b9f859bb8f8fd3dbbe58ba02e511"
+hash = "50b6f7ad8a16c89824fe4202d85fc86a1e7dd5c1c8ae5455ef58e01c97b5171f"
 
 [[files]]
 file = "config/forgery/fscript.ini"
@@ -2494,7 +2494,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "4b21bd18159fbf8e923df1c1b6b54d1e8a9cf5f33acc0b6767cafa4a13af677f"
+hash = "fa498915211c47994e337d865664ae7b6e07a08b2064798c3d6db9819d7a6e5a"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -6972,7 +6972,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f4a6868fbc145b1e5562d5709aef4bd498c5246c05ee390995bdd3d680c4cfc3"
+hash = "2ccf3d9c5f0cab82ee2bd72fb51228984c9663e64cca1069c44db73892fb4289"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/assets/miraclesjourney/textures/font/ark-pixel-inherited-12px-proportional.ttf"
