@@ -1,0 +1,13 @@
+name = "Bibliophilia | Enchanted Books"
+filename = "Bibliophilia 1.14 (1.20.1).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ed2722285bad21dd89a2da411e516ce953744ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6085795
+project-id = 657574
