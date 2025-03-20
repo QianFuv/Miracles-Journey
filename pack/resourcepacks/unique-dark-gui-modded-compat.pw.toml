@@ -1,0 +1,13 @@
+name = "Unique Dark Gui - Modded Compat"
+filename = "Unique Dark Gui Modded Compat 1.19.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd7a3358b9ddaaee3f5434fdf56a56df11cf876a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4922725
+project-id = 666743

@@ -12,13 +12,23 @@
 
 ### 新增
 
-- ➕ (pack): 新增资源包
+- <details>
+  <summary> ➕ (pack): 新增资源包（共 3 个） </summary>
+  
+  Bibliophilia、Unique Dark、Unique Dark Gui - Modded Compat
+  
+  </details>
 - 📝 (repo): 新增更新日志文件
 - 🔨 (repo): 添加 FreeFileSync 同步脚本
 
 ### 更改
 
-- ⬆️ (pack): 模组更新（共 28 次）
+- <details>
+  <summary> ⬆️ (pack): 模组更新（共 28 个） </summary>
+  
+  AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
+  
+  </details>
 
 ### 修复
 

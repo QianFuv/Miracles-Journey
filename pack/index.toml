@@ -6972,7 +6972,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2ccf3d9c5f0cab82ee2bd72fb51228984c9663e64cca1069c44db73892fb4289"
+hash = "2feed778ad946e8a3d4ab49722ee8b29439e8bf189fd673532bb107800efa001"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/assets/miraclesjourney/textures/font/ark-pixel-inherited-12px-proportional.ttf"
@@ -6985,6 +6985,11 @@ hash = "cfb36ce1784e68b732e02f2f3341a181f920bbe9ae595b6fe2812ddc69ededac"
 [[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
 hash = "b7fa3da47b4d72d9dda9d08658ac78815a6db57885584515621758ce75cd7257"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark-gui-modded-compat.pw.toml"
+hash = "ec036fc3aa68cd10c1535e658deb1526d5ea42bd3b6805092930fd702b235601"
 metafile = true
 
 [[files]]
