@@ -13,7 +13,7 @@
 ### 新增
 
 - <details>
-  <summary> ➕ (pack): 新增资源包（共 3 个） </summary>
+  <summary> ➕ (pack): 新增资源包（共 2 个） </summary>
   
   Bibliophilia、Mandala's GUI - Dark mode
   

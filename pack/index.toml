@@ -58,7 +58,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "f7c65fccb8210bd703cd82ad78ff0ae53cb4ba13a6d81eaa461968365ca44b55"
+hash = "de97d5be46418eaf45104d35335273db25441d9d663db75c2d7d034c5b9682e4"
 
 [[files]]
 file = "config/ModernUI/common.toml"
