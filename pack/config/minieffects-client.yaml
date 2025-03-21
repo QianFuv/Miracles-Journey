@@ -1,4 +1,4 @@
 # Use Cloth Config mod for the descriptions.
 ---
-effectsOnLeft: false
+effectsOnLeft: true
 requiresHoldingTab: false
