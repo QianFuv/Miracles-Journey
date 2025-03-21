@@ -49,7 +49,7 @@
     "waterframes:all"
   ],
   "borderlessAttachModeF11": "OFF",
-  "fastLanguageReload": false,
+  "fastLanguageReload": true,
   "enableZoom": false,
   "maxZoom": 50.0,
   "dynLightSpeed": "REALTIME",
