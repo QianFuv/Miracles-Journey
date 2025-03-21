@@ -30,10 +30,12 @@
   
   </details>
 - 💄 (pack): 更新字体为 Noto Sans SC
+- 🔧 (pack): 调整药水状态位置
 
 ### 修复
 
 - 🐛 (pack): 修复 CIT 失效
+- 🐛 (pack): 解决滚轮逻辑冲突
 
 <details>
 
