@@ -22,7 +22,7 @@
     <span> · </span>
       <a href="https://s.c1ns.cn/mjlist">资源列表</a>
     <span> · </span>
-      <a href="https://mjwiki.qianf.fun/">查看文档</a>
+      <a href="https://mjwiki.qianfuv.fun/">查看文档</a>
     <span> · </span>
       <a href="https://github.com/QianFuv/Miracles-Journey/issues/new/choose">问题反馈</a>
     <span> · </span>
