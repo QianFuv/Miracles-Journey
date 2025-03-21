@@ -58,7 +58,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ModernUI/client.toml"
-hash = "d9b746f2aa443c71835a10860eae33b9be40bda2dfd668bb0d0f4424cb9e8e46"
+hash = "f7c65fccb8210bd703cd82ad78ff0ae53cb4ba13a6d81eaa461968365ca44b55"
 
 [[files]]
 file = "config/ModernUI/common.toml"
@@ -70,7 +70,7 @@ hash = "c6a56cc176ee7506442882e43a52bde0251c5f623137fb8b29bca5d1979306ec"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
 file = "config/MythicMountsConfig.json"
@@ -1358,7 +1358,7 @@ hash = "c4093536d06ebf10b96ce5a40deb0801bca9678cd89a8d9342a8d93f762b7761"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "6bd07065010332588e4b1a9f7b39397036e65cd4609c4da212c12327f9780315"
+hash = "fe71eb3c8d677cae7fededed17b0777b3a250828f6ca3fc6b01b6e517a7d4af8"
 
 [[files]]
 file = "config/chunksending.json"
@@ -2682,7 +2682,7 @@ hash = "7b1d114f2eda58365e26cab1bf535aab3d66ac5ef8553f45028f2613024f7061"
 
 [[files]]
 file = "config/minieffects-client.yaml"
-hash = "c747cc3ba78926eeab66e88c4a5b0d974cfe436d5a8c297c54157348c38d3d15"
+hash = "b9ae1be92f248b48c8cd60f066208908d446c3581eef7e569598c0b32c4ced26"
 
 [[files]]
 file = "config/moblassos-server.toml"
@@ -6972,11 +6972,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2feed778ad946e8a3d4ab49722ee8b29439e8bf189fd673532bb107800efa001"
+hash = "93c021c2590368c97320cd3d54a16d5029d765e6072fd4a3cb7f06915ef9e11b"
 
 [[files]]
-file = "resourcepacks/MiraclesJourney-ResPack/assets/miraclesjourney/textures/font/ark-pixel-inherited-12px-proportional.ttf"
-hash = "a85d20b55630a09ca9153e75d383615e91a6c815c96988d462f14d3669fddf42"
+file = "resourcepacks/MiraclesJourney-ResPack/assets/miraclesjourney/textures/fonts/NotoSansSC-Medium.ttf"
+hash = "8c5b3182c8544a0aa5bbc477e96d339b6c839c7bcbecab34c946804763e6f231"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/pack.mcmeta"
@@ -6988,13 +6988,8 @@ hash = "b7fa3da47b4d72d9dda9d08658ac78815a6db57885584515621758ce75cd7257"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unique-dark-gui-modded-compat.pw.toml"
-hash = "ec036fc3aa68cd10c1535e658deb1526d5ea42bd3b6805092930fd702b235601"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unique-dark.pw.toml"
-hash = "0ee45cd61744912663080a74c055cbbd6cae19b2eaab90708f82f2f633214d46"
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "427320d2bb8d8ee2afaa9af7be44ffafaf6150cd5e706643620e27ac8f62d879"
 metafile = true
 
 [[files]]

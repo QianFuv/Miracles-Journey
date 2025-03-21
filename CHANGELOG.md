@@ -15,7 +15,7 @@
 - <details>
   <summary> ➕ (pack): 新增资源包（共 3 个） </summary>
   
-  Bibliophilia、Unique Dark、Unique Dark Gui - Modded Compat
+  Bibliophilia、Mandala's GUI - Dark mode
   
   </details>
 - 📝 (repo): 新增更新日志文件
