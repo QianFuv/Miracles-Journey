@@ -2,7 +2,7 @@
 	// When multiple starter kits are added via /starterkit add, there are two ways to distribute them. With this enabled, one is chosen at random. When disabled, players can choose one on first join.
 	"randomizeMultipleKitsToggle": true,
 	// Whether items that existed in the inventory, such as books added by other mods, should be added back to the inventory after the kit was set. If disabled, they'll be removed. You can still manually set them via the kit.
-	"addExistingItemsAfterKitSet": true,
+	"addExistingItemsAfterKitSet": false,
 	// If potion/mob effect functionality should be enabled. This means that when creating a kit via /sk (add/set), it also saves the active effects the player has. And when handing out the starter kits, it adds the effects to new players.
 	"usePotionEffectsInStarterKit": true,
 	// If kit names should be formatted. Each word will be capitalized.

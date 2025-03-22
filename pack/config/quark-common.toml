@@ -24,11 +24,11 @@
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -52,17 +52,17 @@
 
 [automation]
 	"Chains Connect Blocks" = true
-	Chute = true
+	Chute = false
 	Crafter = true
 	"Dispensers Place Blocks" = true
 	"Ender Watcher" = true
 	"Feeding Trough" = true
 	Gravisand = true
-	"Iron Rod" = true
-	"Metal Buttons" = true
+	"Iron Rod" = false
+	"Metal Buttons" = false
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
-	"Redstone Randomizer" = true
+	"Pistons Move Tile Entities" = false
+	"Redstone Randomizer" = false
 
 	[automation.crafter]
 		#Setting this to true will change the Crafter to use Emi's original design instead of Mojang's.
@@ -135,7 +135,7 @@
 	"Sturdy Stone" = true
 	Thatch = true
 	"Variant Bookshelves" = true
-	"Variant Chests" = true
+	"Variant Chests" = false
 	"Variant Furnaces" = true
 	"Variant Ladders" = true
 	"Vertical Planks" = true
@@ -197,8 +197,8 @@
 
 	[building.leaf_carpet]
 		#This feature disables itself if any of the following mods are loaded:
-		# - immersive_weathering
 		# - woodworks
+		# - immersive_weathering
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -237,8 +237,8 @@
 		#Allowed values: [0,1]
 		"Fall Damage Multiplier" = 0.5
 		#This feature disables itself if any of the following mods are loaded:
-		# - environmental
 		# - goated
+		# - environmental
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -246,8 +246,8 @@
 	[building.variant_bookshelves]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -266,8 +266,8 @@
 	[building.variant_ladders]
 		"Change Names" = true
 		#This feature disables itself if any of the following mods are loaded:
-		# - woodster
 		# - woodworks
+		# - woodster
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
@@ -282,10 +282,10 @@
 		"Enable Pillar" = true
 
 [management]
-	"Automatic Tool Restock" = true
-	"Easy Transfering" = true
+	"Automatic Tool Restock" = false
+	"Easy Transfering" = false
 	"Expanded Item Interactions" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
@@ -312,10 +312,10 @@
 		"Enable Shift Lock" = true
 
 	[management.expanded_item_interactions]
-		"Enable Armor Interaction" = true
+		"Enable Armor Interaction" = false
 		"Enable Shulker Box Interaction" = true
 		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
+		"Allow Opening Shulker Boxes" = false
 		"Allow Rotating Bundles" = true
 
 	[management.hotbar_changer]
@@ -349,7 +349,7 @@
 	"Pathfinder Maps" = true
 	Pickarang = true
 	"Seed Pouch" = true
-	"Skull Pikes" = true
+	"Skull Pikes" = false
 	"Slime In A Bucket" = true
 	"Torch Arrow" = true
 	Trowel = true
@@ -511,48 +511,48 @@
 		"Trowel Max Durability" = 0
 
 [tweaks]
-	"Armed Armor Stands" = true
+	"Armed Armor Stands" = false
 	"Automatic Recipe Unlock" = true
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
-	"Compasses Work Everywhere" = true
+	"Compasses Work Everywhere" = false
 	"Coral On Cactus" = true
-	"Diamond Repair" = true
+	"Diamond Repair" = false
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
-	Emotes = true
+	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
+	"Gold Tools Have Fortune" = false
 	"Grab Chickens" = true
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
 	"Improved Sponges" = true
-	"Lock Rotation" = true
+	"Lock Rotation" = false
 	"Magma Keeps Concrete Powder" = true
 	"Map Washing" = true
 	"More Banner Layers" = true
 	"More Note Block Sounds" = true
 	"More Villagers" = true
 	"No Durability On Cosmetics" = true
-	"Pat The Dogs" = true
+	"Pat The Dogs" = false
 	"Petals On Water" = true
 	"Pig Litters" = true
 	"Poison Potato Usage" = true
-	"Reacharound Placing" = true
+	"Reacharound Placing" = false
 	"Renewable Spore Blossoms" = true
-	"Replace Scaffolding" = true
-	"Safer Creatures" = true
+	"Replace Scaffolding" = false
+	"Safer Creatures" = false
 	"Shulker Packing" = true
-	"Simple Harvest" = true
+	"Simple Harvest" = false
 	"Slabs To Blocks" = true
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Utility Recipes" = true
 	"Vexes Die With Their Masters" = true
 	"Villagers Follow Emeralds" = true
-	"Zombie Villagers On Normal" = true
+	"Zombie Villagers On Normal" = false
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -1552,20 +1552,20 @@
 					"Is Blacklist" = false
 
 [client]
-	"Auto Walk Keybind" = true
+	"Auto Walk Keybind" = false
 	"Back Button Keybind" = true
 	"Buckets Show Inhabitants" = true
-	Camera = true
-	"Chest Searching" = true
-	"Elytra Indicator" = true
-	"Greener Grass" = true
+	Camera = false
+	"Chest Searching" = false
+	"Elytra Indicator" = false
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Soul Candles" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1825,9 +1825,9 @@
 	Crate = true
 	Magnets = true
 	"Matrix Enchanting" = false
-	Pipes = true
+	Pipes = false
 	"Tiny Potato" = true
-	"Totem Of Holding" = true
+	"Totem Of Holding" = false
 
 	[oddities.backpack]
 		#Set this to true to allow the backpacks to be unequipped even with items in them
