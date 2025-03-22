@@ -1,0 +1,13 @@
+name = "Create: Sweets & Treats"
+filename = "create_snt-0.6.9_forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c8fdf3ced7a743c236657e71d50c45bc5a5f6d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6298952
+project-id = 927187

@@ -92,6 +92,9 @@
     "jade_plugin3": true,
     "jade_plugin1": true
   },
+  "create_mechanical_spawner": {
+    "spawner_data": true
+  },
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true
@@ -114,6 +117,9 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "barbequesdelight": {
+    "grill": true
   },
   "multibeds": {
     "hud": true

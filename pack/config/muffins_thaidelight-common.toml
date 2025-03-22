@@ -1,0 +1,10 @@
+
+#World Generation
+[world]
+	#Should generate wild lime.
+	genWildLime = true
+	#Should generate wild pepper.
+	genWildPepper = true
+	#Should generate wild papaya.
+	genWildPapaya = true
+

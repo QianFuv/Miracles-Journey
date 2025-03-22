@@ -1,0 +1,13 @@
+name = "Baked Delight"
+filename = "bakeddelight-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dc6dbe995df61b81d3b1e8bedd8ad2308c595da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5282936
+project-id = 1003990

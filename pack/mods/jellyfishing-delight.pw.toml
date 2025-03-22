@@ -1,0 +1,13 @@
+name = "Jellyfishing Delight"
+filename = "jellyfishingdelight-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5ac0760d239ddcc0fd54a6a3d0e5f864a0911dc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6270080
+project-id = 1177206

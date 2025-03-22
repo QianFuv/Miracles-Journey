@@ -1,0 +1,47 @@
+
+[visuals]
+	#waterEffects
+	clientBoolean = true
+	#Range: 0.0 ~ 5.0
+	splashThreshold = 0.3
+	#Range: 0 ~ 100
+	flowingWaterSplashingDensity = 50
+	cascades = true
+	#Range: 0 ~ 5
+	cascadeCloudDensity = 2
+	#Range: 0 ~ 5
+	cascadeMistDensity = 1
+	shouldFlowingWaterSpawnParticlesOnFirstTick = true
+	#Range: 0 ~ 10
+	lapisBlockUpdateParticleChance = 1
+	#Range: 0 ~ 10
+	rainRippleDensity = 5
+	glowingPlankton = true
+	#Range: 0.0 ~ 10.0
+	fireflyDensity = 1.0
+
+[mobEffects]
+	allayTwinkles = true
+	goldenAllays = true
+
+[illuminatedEffects]
+	#Range: 0.0 ~ 10.0
+	chorusPetalDensity = 1.0
+
+[improvedEffects]
+	#Allowed Values: BOTH, TRAIL, TWINKLE, NONE
+	spectralArrowTrails = "TWINKLE"
+
+[screenShakeEffects]
+	#Intensity of screenshake, higher numbers increase amplitude. Set to 0 to turn off screenshake. 
+	#Range: 0.0 ~ 5.0
+	screenShakeIntensity = 1.0
+	wardenScreenShake = true
+	sonicBoomScreenShake = true
+	ravagerScreenShake = true
+	dragonScreenShake = true
+
+[miscellaneousEffects]
+	#Range: 0.0 ~ 100.0
+	sculkDustDensity = 100.0
+

@@ -4,7 +4,7 @@
 
 本文件的格式基于 [如何维护更新日志](https://keepachangelog.com/zh-CN/1.1.0/)，且本项目遵循 [语义化版本规范](https://semver.org/lang/zh-CN/)。
 
-## [ 未发布 ]
+## [0.4.0] - 未发布
 
 > [!IMPORTANT]
 >
@@ -16,6 +16,12 @@
   <summary> ➕ (pack): 新增资源包（共 2 个） </summary>
   
   Bibliophilia、Mandala's GUI - Dark mode
+  
+  </details>
+- <details>
+  <summary> ➕ (pack): 新增模组（共 32 个） </summary>
+  
+  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight
   
   </details>
 - 📝 (repo): 新增更新日志文件
@@ -121,7 +127,7 @@ Full Changelog: https://github.com/Qian-F/Miracles-Journey/commits/Beta-0.0.1
 </details>
 
 
-[ 未发布 ]: https://github.com/QianFuv/Miracles-Journey/compare/0.3.0...main
+[0.4.0]: https://github.com/QianFuv/Miracles-Journey/compare/0.3.0...main
 [0.3.0]: https://github.com/QianFuv/Miracles-Journey/compare/0.2.0...0.3.0
 [0.2.0]: https://github.com/QianFuv/Miracles-Journey/commits/0.2.0/
 [0.1.3]: https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.1.2...Beta-0.1.3

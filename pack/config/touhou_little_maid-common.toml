@@ -125,13 +125,13 @@
 
 [vanilla]
 	#Whether to replace the vanilla slime model with the yukkuri.
-	ReplaceSlimeModel = true
+	ReplaceSlimeModel = false
 	#Whether to replace the vanilla xp orb texture with the point items.
-	ReplaceXPTexture = true
+	ReplaceXPTexture = false
 	#Whether to replace the vanilla totem texture with the life point.
-	ReplaceTotemTexture = true
+	ReplaceTotemTexture = false
 	#Whether to replace the vanilla bottle of xp texture with the point items.
-	ReplaceXPBottleTexture = true
+	ReplaceXPBottleTexture = false
 
 [ai]
 	#Whether or not to enable the AI Chat feature

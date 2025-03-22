@@ -1,0 +1,13 @@
+name = "Delightful Burgers"
+filename = "delightfulburgers-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cb9c2a1486e63b9a7225c8ea02654a0d9b84ee4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5334997
+project-id = 1016925

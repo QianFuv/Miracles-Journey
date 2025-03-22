@@ -1,0 +1,13 @@
+name = "Brazilian Delight"
+filename = "braziliandelight-1.1.0-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "495a04f99bc9230ccf49087c539893179cc41dee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5734884
+project-id = 1094418

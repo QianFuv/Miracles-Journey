@@ -1,0 +1,13 @@
+name = "Create Mechanical Spawner"
+filename = "create_mechanical_spawner-1.20.1-0.1.4-6.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87d53dd7cdf916fc79eaf1d2af7f433dce622947"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6273129
+project-id = 821828

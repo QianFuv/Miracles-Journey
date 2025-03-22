@@ -1,0 +1,13 @@
+name = "Deltabox Lib"
+filename = "deltaboxlib-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96cd6b863fa24b26f546ce3491e560ce4c838f7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6117927
+project-id = 973463

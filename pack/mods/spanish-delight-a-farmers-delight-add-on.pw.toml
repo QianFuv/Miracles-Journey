@@ -1,0 +1,13 @@
+name = "Spanish Delight (A Farmer's Delight Add-on)"
+filename = "spanishdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e21cde98e7065d070c41a7d21fc42a87859acfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5818902
+project-id = 1121967

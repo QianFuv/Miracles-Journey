@@ -1,0 +1,12 @@
+
+#World generation
+[villages]
+	#Should SD crops show up planted randomly in various village farms?
+	genSDCropsOnVillageFarms = true
+
+#Wild crops generation
+[wild_crops]
+	#Chance of generating clusters. Smaller value = more frequent.
+	#Range: > 0
+	chance = 60
+

@@ -1,0 +1,13 @@
+name = "Create: Addon Compatibility"
+filename = "createaddoncompatibility-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ce0de488e84236d382a82b97585372535cfefbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6310791
+project-id = 1000148

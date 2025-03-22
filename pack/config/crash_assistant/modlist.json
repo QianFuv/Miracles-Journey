@@ -107,6 +107,10 @@
     "modId": "aquamirae",
     "version": "6.API15"
   },
+  "aquamirae_delight-1.5.2-forge-1.20.1.jar": {
+    "modId": "aquamirae_delight",
+    "version": "1.5.2"
+  },
   "architectury-9.2.14-forge.jar": {
     "modId": "architectury",
     "version": "9.2.14"
@@ -146,6 +150,10 @@
   "ars_nouveau-1.20.1-4.12.6-all.jar": {
     "modId": "ars_nouveau",
     "version": "4.12.6"
+  },
+  "arsdelight-1.1.3.jar": {
+    "modId": "arsdelight",
+    "version": "1.1.3"
   },
   "art_of_forging-1.8.3-1.20.1-patched.jar": {
     "modId": "art_of_forging",
@@ -187,9 +195,17 @@
     "modId": "bagus_lib",
     "version": "1.20.1-5.3.0"
   },
+  "bakeddelight-0.1.2.jar": {
+    "modId": "bakeddelight",
+    "version": "0.1.2"
+  },
   "balm-forge-1.20.1-7.3.18-all.jar": {
     "modId": "balm",
     "version": "7.3.18"
+  },
+  "barbequesdelight-1.0.5.jar": {
+    "modId": "barbequesdelight",
+    "version": "1.0.5"
   },
   "beautify-2.0.2.jar": {
     "modId": "beautify",
@@ -298,6 +314,10 @@
   "Botania-1.20.1-447-FORGE.jar": {
     "modId": "botania",
     "version": "1.20.1-447-FORGE"
+  },
+  "braziliandelight-1.1.0-all.jar": {
+    "modId": "braziliandelight",
+    "version": "1.1.0"
   },
   "BrewinAndChewin-1.20.1-3.2.1.jar": {
     "modId": "brewinandchewin",
@@ -548,6 +568,10 @@
     "modId": "createtrackmap",
     "version": "1.4"
   },
+  "create_aquatic_ambitions_forge-1.20.1-1.1.3.jar": {
+    "modId": "create_aquatic_ambitions",
+    "version": "1.20.1-1.1.1"
+  },
   "create_factory-0.4b-1.20.1.jar": {
     "modId": "create_factory",
     "version": "0.4b-1.20.1"
@@ -555,6 +579,14 @@
   "create_jetpack-forge-4.4.0.jar": {
     "modId": "create_jetpack",
     "version": "4.4.0"
+  },
+  "create_mechanical_spawner-1.20.1-0.1.4-6.0.2.jar": {
+    "modId": "create_mechanical_spawner",
+    "version": "1.20.1-0.1.4-6.0.2"
+  },
+  "create_misc_and_things_ 1.20.1_4.0A.jar": {
+    "modId": "create_things_and_misc",
+    "version": "1.0.0"
   },
   "Create_Mortar_Mango_Edition-0.1.3-mod.jar": {
     "modId": "create_mortar",
@@ -564,6 +596,10 @@
     "modId": "create_power_loader",
     "version": "2.0.0-mc1.20.1"
   },
+  "create_snt-0.6.9_forge.jar": {
+    "modId": "create_snt",
+    "version": "0.6.9"
+  },
   "create_tweaked_controllers-1.20.1-1.2.5.jar": {
     "modId": "create_tweaked_controllers",
     "version": "1.20.1-1.2.5"
@@ -571,6 +607,10 @@
   "createaddition-1.20.1-1.3.1.jar": {
     "modId": "createaddition",
     "version": "1.20.1-1.3.1"
+  },
+  "createaddoncompatibility-0.2.4.jar": {
+    "modId": "createaddoncompatibility",
+    "version": "0.2.4"
   },
   "createbicbit-1.20.1-1.0.jar": {
     "modId": "create_bic_bit",
@@ -672,6 +712,14 @@
     "modId": "delightful",
     "version": "3.7.1"
   },
+  "delightfulburgers-1.20.1.jar": {
+    "modId": "delightfulburgers",
+    "version": "1.20.1"
+  },
+  "deltaboxlib-1.1.3.jar": {
+    "modId": "deltaboxlib",
+    "version": "1.1.3"
+  },
   "despawn_tweaker-1.20.1-1.0.0.jar": {
     "modId": "despawn_tweaker",
     "version": "1.20.1-1.0.0"
@@ -707,6 +755,10 @@
   "Display Case-forge-1.20-1.0.8.jar": {
     "modId": "display_case",
     "version": "1.0.8"
+  },
+  "displaydelight-1.2.0.jar": {
+    "modId": "displaydelight",
+    "version": "1.2.0"
   },
   "dixtas_armory-1.2.0-1.20.1.jar": {
     "modId": "dixtas_armory",
@@ -799,6 +851,10 @@
   "EdivadLib-1.20.1-2.0.1.jar": {
     "modId": "edivadlib",
     "version": "2.0.1"
+  },
+  "effective-1.0.2-all.jar": {
+    "modId": "effective",
+    "version": "1.0.2"
   },
   "eidolon_repraised-1.20.1-0.3.8.15.jar": {
     "modId": "eidolon",
@@ -1019,6 +1075,14 @@
   "friendsandfoes-forge-mc1.20.1-3.0.8.jar": {
     "modId": "friendsandfoes",
     "version": "3.0.8"
+  },
+  "fruitsdelight-1.0.21.jar": {
+    "modId": "fruitsdelight",
+    "version": "1.0.21"
+  },
+  "frycooks_delight-1.20.1-1.0.1.jar": {
+    "modId": "frycooks_delight",
+    "version": "1.20.1-1.0.1"
   },
   "ftb-chunks-forge-2001.3.5.jar": {
     "modId": "ftbchunks",
@@ -1289,6 +1353,14 @@
     "modId": "jei",
     "version": "15.20.0.106"
   },
+  "Jellyfishing-2.0.7.jar": {
+    "modId": "jellyfishing",
+    "version": "2.0.0"
+  },
+  "jellyfishingdelight-1.0.6.jar": {
+    "modId": "jellyfishingdelight",
+    "version": "1.0.6"
+  },
   "jerintegration-5.5.0.jar": {
     "modId": "jerintegration",
     "version": "5.5.0"
@@ -1450,6 +1522,10 @@
     "modId": "lucky77",
     "version": "4.0"
   },
+  "luncheon-meat-s-delight-1.0.3-forge-1.20.1.jar": {
+    "modId": "luncheonmeatsdelight",
+    "version": "1.20.1-1.0.3"
+  },
   "Maced-Forge-1.20.1-24w13a-2.0.0.jar": {
     "modId": "maced",
     "version": "2.0.0"
@@ -1473,6 +1549,10 @@
   "Mana_Liquidizer-1.20.1.jar": {
     "modId": "manaliquidizer",
     "version": "1.20.1-1.0.0"
+  },
+  "maturidelight-1.20.1-3.0.0.jar": {
+    "modId": "maturidelight",
+    "version": "1.20.1-3.0.0"
   },
   "mavapi-1.1.2-mc1.20.1.jar": {
     "modId": "mavapi",
@@ -1593,6 +1673,10 @@
   "MouseTweaks-forge-mc1.20.1-2.25.1.jar": {
     "modId": "mousetweaks",
     "version": "2.25.1"
+  },
+  "muffins-thai-delight-forge-1.0.0.jar": {
+    "modId": "muffins_thaidelight",
+    "version": "1.0.0"
   },
   "multibeds-forge-1.20.1-1.2.jar": {
     "modId": "multibeds",
@@ -1765,6 +1849,10 @@
   "PineappleDelight-Forge-1.20-1.0.8-Fix2.jar": {
     "modId": "pineapple_delight",
     "version": "1.0.8"
+  },
+  "pizzadelight-1.20.1-1.0.0.jar": {
+    "modId": "pizzadelight",
+    "version": "1.0.0"
   },
   "Placebo-1.20.1-8.6.3.jar": {
     "modId": "placebo",
@@ -2002,6 +2090,10 @@
     "modId": "shutter",
     "version": "2.1.1-1.20.1"
   },
+  "silentsdelight-forge-1.0.1-1.20.1.jar": {
+    "modId": "silentsdelight",
+    "version": "1.20.1-1.0.0"
+  },
   "simplehats-forge-1.20.1-0.3.2.jar": {
     "modId": "simplehats",
     "version": "1.20.1-0.3.2"
@@ -2013,6 +2105,10 @@
   "SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar": {
     "modId": "skyvillages",
     "version": "1.0.4"
+  },
+  "SlavicDelight-0.3.0-forge-1.20.1.jar": {
+    "modId": "slavic_delight",
+    "version": "0.3.0"
   },
   "sliceanddice-forge-3.4.0.jar": {
     "modId": "sliceanddice",
@@ -2073,6 +2169,10 @@
   "sound-physics-remastered-forge-1.20.1-1.4.8.jar": {
     "modId": "sound_physics_remastered",
     "version": "1.20.1-1.4.8"
+  },
+  "spanishdelight-1.0.1-1.20.1.jar": {
+    "modId": "spanishdelight",
+    "version": "1.0.0-1.20.1"
   },
   "spark-1.10.53-forge.jar": {
     "modId": "spark",
@@ -2262,6 +2362,14 @@
     "modId": "tntslimes",
     "version": "3.0.0"
   },
+  "TofuCraftReload-1.20.1-5.16.0.1.jar": {
+    "modId": "tofucraft",
+    "version": "1.20.1-5.16.0.1"
+  },
+  "tofudelight-1.20.1-3.2.0.jar": {
+    "modId": "tofudelight",
+    "version": "1.20.1-3.2.0"
+  },
   "toolbooster-1.0-1.20.1.jar": {
     "modId": "toolbooster",
     "version": "1.0-1.20.1"
@@ -2290,6 +2398,10 @@
     "modId": "trading_floor",
     "version": "2.0.1"
   },
+  "trailandtales_delight-0.3.5-all.jar": {
+    "modId": "trailandtales_delight",
+    "version": "0.3.5"
+  },
   "transmog-forge-1.3.0+1.20.jar": {
     "modId": "transmog",
     "version": "1.3.0+1.20"
@@ -2309,6 +2421,10 @@
   "Twigs-1.20.1-3.1.0.jar": {
     "modId": "twigs",
     "version": "1.20.1-3.1.1"
+  },
+  "ubesdelight-forge-1.20.1-0.3.4.jar": {
+    "modId": "ubesdelight",
+    "version": "0.3.4"
   },
   "undergardendelight-1.1.2-forge-1.20.1.jar": {
     "modId": "undergardendelight",
@@ -2358,6 +2474,10 @@
     "modId": "vaultpatcher",
     "version": "1.4.4+1"
   },
+  "veggiesdelight-1.7.2.jar": {
+    "modId": "veggiesdelight",
+    "version": "1.7.2"
+  },
   "veinmining-forge-1.5.0+1.20.1.jar": {
     "modId": "veinmining",
     "version": "1.5.0+1.20.1"
@@ -2373,6 +2493,10 @@
   "villagesandpillages-forge-mc1.20.1-1.0.2.jar": {
     "modId": "villagesandpillages",
     "version": "1.0.2"
+  },
+  "vintagedelight-0.1.6.jar": {
+    "modId": "vintagedelight",
+    "version": "0.1.6"
   },
   "visual_keybinder-1.20.1 - 0.1.7.jar": {
     "modId": "visual_keybinder",

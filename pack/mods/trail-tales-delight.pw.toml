@@ -1,0 +1,13 @@
+name = "Trail&Tales Delight"
+filename = "trailandtales_delight-0.3.5-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecdae12a16fbe364d3f6975c79e00d07787e6569"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6328344
+project-id = 1198527
