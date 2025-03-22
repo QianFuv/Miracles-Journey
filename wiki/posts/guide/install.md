@@ -53,7 +53,7 @@
 1. 进入整合包的 [自动构建页面](https://github.com/QianFuv/Miracles-Journey/actions)
 2. 点击打开 <sapn class="marker-text">最新的（最上面的）构建</sapn>
 3. 没有登陆 Github 账号的需要在页面右上角登陆 Github（如已登录请跳过此步骤）
-4. 点击页面下方 `Artifacts` 列表内的文件下载
+4. 点击页面下方 Artifacts 列表内的 `Miracles-Journey-x.x.x-build-yyyyyyy.zip` 文件下载（“x”为版本号，“y”为提交短 SHA）
 
 == 自构建
 
