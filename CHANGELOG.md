@@ -13,36 +13,46 @@
 ### 新增
 
 - <details>
-  <summary> ➕ (pack): 新增资源包（共 40 个） </summary>
-  
+  <summary> 新增资源包（共 40 个） </summary>
   Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit
   
   </details>
 - <details>
-  <summary> ➕ (pack): 新增模组（共 32 个） </summary>
-  
-  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight
+  <summary> 新增模组（共 35 个） </summary>
+  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith
   
   </details>
-- 📝 (repo): 新增更新日志文件
-- 🔨 (repo): 添加 FreeFileSync 同步脚本
+- 添加更新日志文件
+- 添加 FreeFileSync 同步脚本
 
 ### 更改
 
 - <details>
-  <summary> ⬆️ (pack): 模组更新（共 28 个） </summary>
-  
+  <summary> 模组更新（共 28 个） </summary>
   AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
   
   </details>
-- 💄 (pack): 更新字体为 Noto Sans SC
-- 🔧 (pack): 调整药水状态位置
-- 👷 (repo): 取消使用自部署 Worker
+  
+- 更新字体为 Noto Sans SC
+
+- 调整药水状态位置
+
+- 测试版构建取消使用自部署 Worker
+
+- 调整部分模组配置（较小侵入性修改）
+
+### 删除
+
+- <details>
+  <summary> 删除模组（共 3 个） </summary>
+  ChatImage、Display Delight、Screenshot Sharing
+  
+  </details>
 
 ### 修复
 
-- 🐛 (pack): 修复 CIT 失效
-- 🐛 (pack): 解决滚轮逻辑冲突
+- 修复 CIT 失效
+- 解决滚轮逻辑冲突
 
 <details>
 

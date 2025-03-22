@@ -3,6 +3,10 @@
     "modId": "opack2reload",
     "version": "1.0.1"
   },
+  "[forge]ctov-3.4.12.jar": {
+    "modId": "ctov",
+    "version": "3.4.12"
+  },
   "abnormals_delight-1.20.1-5.0.0.jar": {
     "modId": "abnormals_delight",
     "version": "5.0.0"
@@ -391,10 +395,6 @@
     "modId": "chat_heads",
     "version": "0.13.13"
   },
-  "ChatImage-1.4.2+1.20.1+forge.jar": {
-    "modId": "chatimage",
-    "version": "1.4.2"
-  },
   "chefs-delight-1.0.3-forge-1.20.1.jar": {
     "modId": "chefsdelight",
     "version": "1.0.3-forge-1.20.1"
@@ -755,10 +755,6 @@
   "Display Case-forge-1.20-1.0.8.jar": {
     "modId": "display_case",
     "version": "1.0.8"
-  },
-  "displaydelight-1.2.0.jar": {
-    "modId": "displaydelight",
-    "version": "1.2.0"
   },
   "dixtas_armory-1.2.0-1.20.1.jar": {
     "modId": "dixtas_armory",
@@ -1438,6 +1434,10 @@
     "modId": "lionfishapi",
     "version": "2.4-Fix"
   },
+  "lithostitched-forge-1.20.1-1.4.4.jar": {
+    "modId": "lithostitched",
+    "version": "1.4"
+  },
   "littlelogistics-mc1.20.1-v1.20.1.2.jar": {
     "modId": "littlelogistics",
     "version": "1.20.1.2"
@@ -2038,10 +2038,6 @@
     "modId": "screenshot_viewer",
     "version": "1.3.2-forge-mc1.20.1"
   },
-  "ScreenshotSharing-Forge-1.20.4-1.0.0.jar": {
-    "modId": "screenshotsharing",
-    "version": "1.0.0"
-  },
   "scriptor-1.2.6-1.20.1-forge-sgd.jar": {
     "modId": "scriptor",
     "version": "1.2.6-1.20.1"
@@ -2293,6 +2289,10 @@
   "TerraBlender-forge-1.20.1-3.0.1.10.jar": {
     "modId": "terrablender",
     "version": "3.0.1.10"
+  },
+  "Terralith_1.20.x_v2.5.4.jar": {
+    "modId": "terralith",
+    "version": "2.5.4"
   },
   "TES-forge-1.20.1-1.5.1.jar": {
     "modId": "tslatentitystatus",
