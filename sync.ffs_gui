@@ -23,8 +23,14 @@
             <Item>\ChatImageCache</Item>
             <Item>\Code</Item>
             <Item>\config\blockswap\known_states</Item>
+            <Item>\config\fabric\indigo-renderer.properties</Item>
+            <Item>\config\jei\world</Item>
+            <Item>\config\sound_physics_remastered</Item>
+            <Item>\config\spark\activity.json</Item>
             <Item>\config\starterkit\starterkit-old*.txt</Item>
             <Item>\config\paxi\datapacks</Item>
+            <Item>\config\bettervillage_1.properties</Item>
+            <Item>\config\libraryferret_1.properties</Item>
             <Item>\crash-reports</Item>
             <Item>\CustomSkinLoader</Item>
             <Item>\data</Item>
@@ -64,6 +70,7 @@
             <Item>\.packwizignore</Item>
             <Item>\.qmenu_opened.marker</Item>
             <Item>\BTLib.dll</Item>
+            <Item>\cherishedworlds-favorites.dat</Item>
             <Item>\fabricloader.log</Item>
             <Item>\index.toml</Item>
             <Item>\launcher_profiles.json</Item>
