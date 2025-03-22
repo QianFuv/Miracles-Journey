@@ -1,0 +1,13 @@
+name = "Assorted Allays"
+filename = "Assorted Allays - V.8.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2423fc7bf01162ca9833dae9b59ff488307b2855"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6251816
+project-id = 847744

@@ -1,0 +1,13 @@
+name = "Ore Variants "
+filename = "Ore Variants v2.9.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a055f13f78c29dfa6b6c9b8630723243d779c759"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4842024
+project-id = 476719

@@ -1,0 +1,13 @@
+name = "Refined Storage Jappafied"
+filename = "Refined Storage Jappafied v1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6091373b4e839448027d8f40c14d949045541d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4743892
+project-id = 832840

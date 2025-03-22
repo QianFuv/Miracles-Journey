@@ -1,0 +1,13 @@
+name = "RAY's 3D Rails"
+filename = "§9RAY's §f3D §6Rails§8§o§k.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b0f28b314e616029b3537035a084ce22621986c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6303900
+project-id = 861245

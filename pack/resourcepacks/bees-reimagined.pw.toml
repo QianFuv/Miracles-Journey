@@ -1,0 +1,13 @@
+name = "Bees Reimagined"
+filename = "§eBees§0_§eReimagined§0_§8[v1]§0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c78a4907b008b8e4c0a9b0186f3c29987e7250a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5016068
+project-id = 500044

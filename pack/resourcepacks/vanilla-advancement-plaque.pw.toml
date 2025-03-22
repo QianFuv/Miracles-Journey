@@ -1,0 +1,13 @@
+name = "Vanillafied Advancement Plaque "
+filename = "Vanilla Advancement.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8264c41f16ba4c7fd87587f9fece8173a74e158"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4014791
+project-id = 542335

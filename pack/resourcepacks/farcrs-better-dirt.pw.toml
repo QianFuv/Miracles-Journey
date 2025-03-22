@@ -1,0 +1,13 @@
+name = "Farcr's Better Dirt"
+filename = "Farcr's Better Dirt V1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ca24365cb19f654c7c81fc089de600dfeedd75de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5257284
+project-id = 916929

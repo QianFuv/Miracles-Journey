@@ -1,0 +1,13 @@
+name = "Better Map Items"
+filename = "Better Map Items 1.20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e1f0d0958d8e2c6236eb5d63ea711eefef82bcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4753779
+project-id = 711031
