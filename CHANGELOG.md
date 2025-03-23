@@ -34,17 +34,11 @@
   </details>
   
 - 更新字体为 Noto Sans SC
-
 - 调整药水状态位置
-
 - 测试版构建取消使用自部署 Worker
-
 - 调整部分模组配置（较小侵入性修改）
-
 - 更新 Issue 模板相关链接
-
 - 更新文档依赖
-
 - 更新文档教程以适配 0.4.0
 
 ### 删除
@@ -59,6 +53,7 @@
 
 - 修复 CIT 失效
 - 解决滚轮逻辑冲突
+- 修复内存清扫配置失效
 
 <details>
 
@@ -76,43 +71,43 @@
 
 ## [0.1.3] - 2024-09-28
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.1.3/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.1.3/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.1.2...Beta-0.1.3
 
 ## [0.1.2] - 2024-07-24
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.1.2/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.1.2/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.1.1...Beta-0.1.2
 
 ## [0.1.1] - 2024-06-23
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.1.1/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.1.1/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.1.0...Beta-0.1.1
 
 ## [0.1.0] - 2024-06-02
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.1.0/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.1.0/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.0.9...Beta-0.1.0
 
 ## [0.0.9] - 2024-05-08
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.0.9/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.0.9/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.0.8...Beta-0.0.9
 
 ## [0.0.8] - 2024-03-22
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.0.8/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.0.8/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.0.7...Beta-0.0.8
 
 ## [0.0.7] - 2024-01-17
 
-更新日志详见：https://github.com/Qian-F/Miracles-Journey/blob/Beta-0.0.7/CHANGELOG.md
+更新日志详见：https://github.com/QianFuv/Miracles-Journey-Old/blob/Beta-0.0.7/CHANGELOG.md
 
 更新明细对比：https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.0.6...Beta-0.0.7
 
@@ -138,7 +133,7 @@ Full Changelog: https://github.com/QianFuv/Miracles-Journey-Old/compare/Beta-0.0
 
 ## [0.0.1] - 2023-10-27
 
-Full Changelog: https://github.com/Qian-F/Miracles-Journey/commits/Beta-0.0.1
+Full Changelog: https://github.com/QianFuv/Miracles-Journey-Old/commits/Beta-0.0.1
 
 </details>
 
