@@ -1490,7 +1490,7 @@ hash = "3a429334ee23f897a7f9433e25af1246a735b289629d32cb0c730a9885a3c240"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3146191b2afd60de97728e62a6d849647502918c92c44a8b4dd3ddfa8814e4f5"
+hash = "75a8c1ac56f8cb5475af0237705aa319f4c3f279f05ab345f1d637df0e53f1cd"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2702,7 +2702,7 @@ hash = "425cdb66244e42769788b183bd17f95f0457ff0a41508c604095c522199336c8"
 
 [[files]]
 file = "config/memorysweep.json"
-hash = "3205b72468daf7a66abce86894a690c8727ce5dbea92814c49440d742e3e3cc0"
+hash = "43a72f740c8e609a18ef184499db4afe6de0909a41837883c52de5af0602e11a"
 
 [[files]]
 file = "config/memorysweep.json5"
@@ -3002,7 +3002,7 @@ hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "c88e6a10056debbd2f68483b7c42f0370a29e9fdd33409a374bf47185cb3f1d6"
+hash = "c5b31d4afaf6ae9e94b7dda434a35f4fbb324e2a659d8977ff6c344193338c92"
 
 [[files]]
 file = "config/queen_bee.toml"
@@ -3470,7 +3470,7 @@ hash = "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4"
 
 [[files]]
 file = "config/touhou_little_maid-common.toml"
-hash = "5dc5fd0f7005fd2d912c00ae999af27d78ad06e32a6ab4c651461a77f78e37ad"
+hash = "d2a96b76604be9b558915e3353f593c79c0842137bbaab1d6bb9dc9e3fb420ac"
 
 [[files]]
 file = "config/touhou_little_maid/available_sites.yml"
@@ -5843,7 +5843,7 @@ metafile = true
 
 [[files]]
 file = "mods/memorysweep.pw.toml"
-hash = "8826987c05efbd80ce3ad6e26ea568829f77646a9e25bd7b527539cd11725f15"
+hash = "0f166cb54d56f7eed8e3ce0763dc96eb4555a9ae738e69c42368a0cebdf1e498"
 metafile = true
 
 [[files]]
