@@ -13,12 +13,16 @@
 ### 新增
 
 - <details>
+
   <summary> 新增资源包（共 40 个） </summary>
+
   Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit
   
   </details>
 - <details>
+
   <summary> 新增模组（共 35 个） </summary>
+
   Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith
   
   </details>
@@ -28,7 +32,9 @@
 ### 更改
 
 - <details>
+
   <summary> 模组更新（共 28 个） </summary>
+
   AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
   
   </details>
@@ -40,11 +46,16 @@
 - 更新 Issue 模板相关链接
 - 更新文档依赖
 - 更新文档教程以适配 0.4.0
+- 夸克配置全面调整
+- 配置开局装备
+- 更改部分模组绑定按键
 
 ### 删除
 
 - <details>
+
   <summary> 删除模组（共 3 个） </summary>
+
   ChatImage、Display Delight、Screenshot Sharing
   
   </details>

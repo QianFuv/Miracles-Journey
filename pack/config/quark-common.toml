@@ -518,7 +518,7 @@
 	"Compasses Work Everywhere" = false
 	"Coral On Cactus" = true
 	"Diamond Repair" = false
-	"Double Door Opening" = true
+	"Double Door Opening" = false
 	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
 	Emotes = false
