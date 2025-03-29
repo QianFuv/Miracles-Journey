@@ -1,13 +1,13 @@
 name = "Zeta"
-filename = "Zeta-1.0-24.jar"
+filename = "Zeta-1.0-28.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e261d5550bb66cd6802597b1b33462470e3b8dae"
+hash = "b7d710667be19ab14f6bd412d1f67a70ebecc49e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5597406
+file-id = 6312779
 project-id = 968868

@@ -106,6 +106,37 @@ Version = 7
 	#	(takes effect after restart)
 	#	default: true
 	PillagerAttackWorkers = true
+	#
+	#RecruitsPayment
+	#	(takes effect after restart)
+	#	
+	#Should workers need to be payed in intervals?
+	#default: false
+	WorkersPayment = false
+	#
+	#RecruitsPaymentInterval
+	#	(takes effect after restart)
+	#	
+	#The interval in minutes workers need to be payed?
+	#default: 15
+	#Range: 1 ~ 1453
+	WorkersPaymentInterval = 15
+	#
+	#RecruitsPaymentAmount
+	#	(takes effect after restart)
+	#	
+	#The amount of currency workers need to be payed?
+	#default: 1
+	#Range: 1 ~ 1453
+	WorkersPaymentAmount = 1
+	#
+	#RecruitsNoPaymentAction
+	#	(takes effect after restart)
+	#	
+	#The action the workers will do when they don't get payed.
+	#default: DISBAND
+	#Allowed Values: DISBAND, DESPAWN
+	WorkersNoPaymentAction = "DISBAND"
 
 #Recruit Village Config:
 [Villages]

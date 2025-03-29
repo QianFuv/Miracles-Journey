@@ -32,10 +32,10 @@
 ### 更改
 
 - <details>
-
-  <summary> 模组更新（共 28 个） </summary>
-
-  AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
+  <summary> 模组更新（共 79 次） </summary>
+  
+  - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
+  - AllTheLeaks、Ars Nouveau's Flavors & Delight、Artifacts、Ascended Quark、Balm、Bubble boots、Corpse x Curios API Compat、Crabber's Delight、Create: Central Kitchen、Create : Creating Space、Create Encased、Create: Framed、Create Mechanical Spawner、Create、CustomSkinLoader、Data Anchor、Enhanced Celestials、Entity Culling、FastSuite、Friends&Foes、Create: Garnished、GeckoLib、Goety、Hopo Better Mineshaft、Hopo Better Ruined Portals、Hopo Better Underwater Ruins、I18nUpdateMod、Integrated Dungeons and Structures、Immersive Aircraft、L2 Library、L_Ender 's Cataclysm、Loot Integrations、Not Enough Animations、Pineapple Delight、Quark、Moonlight Lib、Smarter Farmers、Save My Shaky Network、Some Assembly Required、Sophisticated Core、Sound Physics Remastered、Stardew Fishing、Supplementaries、Towers of the Wild Modded、TrashSlot、Urkaz Moon Tools、WATERMeDIA、What Are They Up To、Villager Workers、YetAnotherConfigLib、Zeta
   
   </details>
   

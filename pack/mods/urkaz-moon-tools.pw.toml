@@ -1,0 +1,13 @@
+name = "Urkaz Moon Tools [Fabric/NeoForge]"
+filename = "UrkazMoonTools-forge-2.2.1-44.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "732602b09e23d55f0282e56dc59efb7c41d786fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6345686
+project-id = 362825

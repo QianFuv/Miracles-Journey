@@ -1,13 +1,13 @@
 name = "Some Assembly Required"
-filename = "some-assembly-required-1.20.1-4.0.1.jar"
+filename = "some-assembly-required-1.20.1-4.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c3992cd9fbf805e72145bae89af7219a5d39eb39"
+hash = "75d11a5954f78043073e9327b75c14162db00124"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5409747
+file-id = 6343314
 project-id = 422951

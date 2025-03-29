@@ -1,13 +1,13 @@
 name = "Pineapple Delight"
-filename = "PineappleDelight-Forge-1.20-1.0.8-Fix2.jar"
+filename = "PineappleDelight-Forge-1.20-1.0.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "76b167300265b5af848c06d32b9f56f548e29ada"
+hash = "a69f8b849b07872600768d6ccbb5b33a378c236d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5974388
+file-id = 6315348
 project-id = 687974
