@@ -70,6 +70,7 @@
             <Item>\.packwizignore</Item>
             <Item>\.qmenu_opened.marker</Item>
             <Item>\BTLib.dll</Item>
+            <Item>\chatboost.db</Item>
             <Item>\cherishedworlds-favorites.dat</Item>
             <Item>\fabricloader.log</Item>
             <Item>\index.toml</Item>
