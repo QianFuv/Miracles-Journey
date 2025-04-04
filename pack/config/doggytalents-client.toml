@@ -53,7 +53,7 @@
 	#will make DTN directly reference the in-game texture.
 	use_vanilla_res_for_classical = false
 	#Show a fun icon on world loading screen.
-	world_load_icon = true
+	world_load_icon = false
 	#DTN's fun little world loading icon will occasionally
 	#show Ammy instead of Classical Pale. Disable this
 	#to force the icon to always show Classical Pale.
