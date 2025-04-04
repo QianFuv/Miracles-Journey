@@ -1,0 +1,13 @@
+name = "Botanic Pledge"
+filename = "botanicpledge-1.20.1-0.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2501dee7ef0a6d2abb782eb4402971fd193f4b68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6181355
+project-id = 664074

@@ -1,0 +1,13 @@
+name = "Chat Boost"
+filename = "ChatBoost-forge-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b89f021f8770785f16af6813dcd324ec5c6ff4bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5958888
+project-id = 1152722

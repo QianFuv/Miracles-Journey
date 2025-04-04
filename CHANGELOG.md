@@ -16,14 +16,14 @@
 
   <summary> 新增资源包（共 40 个） </summary>
 
-  Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit
+  Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit、AeR - Blue Icestone、AeR - Consistent Bushes、AeR - Super Veridium、AeR - Vanilla Shaped
   
   </details>
 - <details>
 
-  <summary> 新增模组（共 35 个） </summary>
+  <summary> 新增模组（共 69 个） </summary>
 
-  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith
+  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith、alex's caves addon、Alex's Caves: Trimmed!、Alex's Caves、Ars Botania、Ars Repairing、Botanic Pledge、Botarium、Cave Delight、Chat Boost、Crash pipe、Create: Fuel & Water Information、Create: New Age、Create: Oppenheimered、Create Optical、Daily Dad、Draggable Lists、Galosphere: Spellbooks、Illage and Spell-age: Iron's Spells Addon、Immersive Machinery、Loading Backgrounds、Lodestone、Malum、Mana Unification、Create: New Age / Alex's Caves Integration、OWorld2Create、Potions Master、Satisfying Buttons、Structurify、Supernatural、Tiny Alex's Caves Tweaks、HT's TreeChop、Turtle Charging Station、World Play Time、World Preview
   
   </details>
 - 添加更新日志文件
@@ -50,6 +50,10 @@
 - 配置开局装备
 - 更改部分模组绑定按键
 - 关闭女仆妖精生成
+- 关闭加载屏幕的狗狗
+- 开启动态资源加载（实验性）
+- 开启夸克双开门设置
+- MemoryLeakFix 使用 Modrinth 源
 
 ### 删除
 
@@ -57,7 +61,7 @@
 
   <summary> 删除模组（共 3 个） </summary>
 
-  ChatImage、Display Delight、Screenshot Sharing
+  ChatImage、Display Delight、Screenshot Sharing、UtilitX
   
   </details>
 
@@ -67,6 +71,8 @@
 - 解决滚轮逻辑冲突
 - 修复内存清扫配置失效
 - 修复落叶粒子失效
+- 修复 HUD 部分图标显示错误
+- 修复 JEI 错误空位
 
 <details>
 

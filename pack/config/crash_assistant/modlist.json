@@ -3,6 +3,10 @@
     "modId": "opack2reload",
     "version": "1.0.1"
   },
+  "0World2Create-Universal-1.19-1.20.X-1.0.0.jar": {
+    "modId": "oworld2create",
+    "version": "1.0.0"
+  },
   "[forge]ctov-3.4.12.jar": {
     "modId": "ctov",
     "version": "3.4.12"
@@ -54,6 +58,22 @@
   "aetheric_tetranomicon-1.2.0-1.20.1.jar": {
     "modId": "aetheric_tetranomicon",
     "version": "1.2.0-1.20.1"
+  },
+  "alex_cave_addon-5.1.0-1.20.1.jar": {
+    "modId": "alex_cave_addon",
+    "version": "5.1.0"
+  },
+  "alexscaves-2.0.2.jar": {
+    "modId": "alexscaves",
+    "version": "2.0.2"
+  },
+  "alexscavesdelight-1.0.23-1.20.1.jar": {
+    "modId": "alexscavesdelight",
+    "version": "1.0.23-1.20.1"
+  },
+  "alexscavestrimmed-2.0.0.jar": {
+    "modId": "alexscaves_trimmed",
+    "version": "2.0.0"
   },
   "alexsdelight-1.5.jar": {
     "modId": "alexsdelight",
@@ -131,6 +151,10 @@
     "modId": "armourers_workshop",
     "version": "3.2.0-beta"
   },
+  "Ars-Repairing-1.20.1-1.0.2.jar": {
+    "modId": "ars_repairing",
+    "version": "1.20.1-1.0.2"
+  },
   "ars_additions-1.20.1-1.6.7.jar": {
     "modId": "ars_additions",
     "version": "1.20.1-1.6.7"
@@ -138,6 +162,10 @@
   "ars_artifice-1.20.1-2.0.4.jar": {
     "modId": "ars_artifice",
     "version": "1.20.1-2.0.4"
+  },
+  "ars_botania-1.0.0.jar": {
+    "modId": "ars_botania",
+    "version": "1.0.0"
   },
   "ars_creo-1.20.1-4.3.0.jar": {
     "modId": "ars_creo",
@@ -319,6 +347,14 @@
     "modId": "botania",
     "version": "1.20.1-447-FORGE"
   },
+  "botanicpledge-1.20.1-0.8.2.jar": {
+    "modId": "botanicpledge",
+    "version": "1.20.1-0.8.2"
+  },
+  "botarium-forge-1.20.1-2.3.4.jar": {
+    "modId": "botarium",
+    "version": "2.3.4"
+  },
   "braziliandelight-1.1.0-all.jar": {
     "modId": "braziliandelight",
     "version": "1.1.0"
@@ -371,6 +407,10 @@
     "modId": "catalogue",
     "version": "1.8.0"
   },
+  "cavedelight-1.0.2.jar": {
+    "modId": "cavedelight",
+    "version": "1.0.2"
+  },
   "cc-tweaked-1.20.1-forge-1.115.1.jar": {
     "modId": "computercraft",
     "version": "1.115.1"
@@ -378,6 +418,10 @@
   "CerbonsAPI-Forge-1.20.1-1.1.0.jar": {
     "modId": "cerbons_api",
     "version": "1.1.0"
+  },
+  "cfwinfo-1.4.0.jar": {
+    "modId": "cfwinfo",
+    "version": "1.4.0"
   },
   "chalk-1.20.1-1.6.5.jar": {
     "modId": "chalk",
@@ -394,6 +438,10 @@
   "chat_heads-0.13.13-forge-1.20.jar": {
     "modId": "chat_heads",
     "version": "0.13.13"
+  },
+  "ChatBoost-forge-1.1.4.jar": {
+    "modId": "chatboost",
+    "version": "1.1.4"
   },
   "chefs-delight-1.0.3-forge-1.20.1.jar": {
     "modId": "chefsdelight",
@@ -544,6 +592,10 @@
     "modId": "cozyfoods",
     "version": "1.4"
   },
+  "cpf-cn.ksmcbrigade.jar": {
+    "modId": "cpf",
+    "version": "1.0"
+  },
   "CrabbersDelight-1.20.1-1.1.7e.jar": {
     "modId": "crabbersdelight",
     "version": "1.1.7e"
@@ -563,6 +615,10 @@
   "create-1.20.1-6.0.4.jar": {
     "modId": "create",
     "version": "6.0.4"
+  },
+  "create-new-age-forge-1.20.1-1.1.3.jar": {
+    "modId": "create_new_age",
+    "version": "1.1.3"
   },
   "create-track-map-1.4+mc1.20.1-neoforge.jar": {
     "modId": "createtrackmap",
@@ -595,6 +651,14 @@
   "Create_Mortar_Mango_Edition-0.1.3-mod.jar": {
     "modId": "create_mortar",
     "version": "0.1.3"
+  },
+  "create_oppenheimered-1.0.5.jar": {
+    "modId": "create_oppenheimered",
+    "version": "1.0.5"
+  },
+  "create_optical-0.3.1.jar": {
+    "modId": "create_optical",
+    "version": "0.3.1"
   },
   "create_power_loader-2.0.0-mc1.20.1.jar": {
     "modId": "create_power_loader",
@@ -679,6 +743,10 @@
   "CustomSkinLoader_ForgeV2-14.23.jar": {
     "modId": "customskinloader",
     "version": "14.23"
+  },
+  "DailyDad-forge-1.20-1.6.0.jar": {
+    "modId": "dailydad",
+    "version": "1.6.0"
   },
   "damageindicator-2.1.0-1.20.1.jar": {
     "modId": "damageindicator",
@@ -776,9 +844,13 @@
     "modId": "doespotatotick",
     "version": "1.20.1-4.0.2"
   },
-  "DoggyTalentsNext-1.20.1-1.18.44.jar": {
+  "DoggyTalentsNext-1.20.1-1.18.45.jar": {
     "modId": "doggytalents",
-    "version": "1.18.44"
+    "version": "1.18.45"
+  },
+  "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar": {
+    "modId": "draggable_lists",
+    "version": "1.0.1"
   },
   "dragonfight-1.20.1-4.6.jar": {
     "modId": "dragonfight",
@@ -992,9 +1064,9 @@
     "modId": "fabric_api",
     "version": "0.92.2+1.11.12+1.20.1"
   },
-  "fallingleaves-1.20.1-2.1.2.jar": {
+  "fallingleaves-1.15.6+1.20.1.jar": {
     "modId": "fallingleaves",
-    "version": "2.1.2"
+    "version": "1.15.6"
   },
   "fancymenu_forge_3.4.6_MC_1.20.1.jar": {
     "modId": "fancymenu",
@@ -1127,6 +1199,10 @@
   "Galosphere-1.20.1-1.4.1-Forge.jar": {
     "modId": "galosphere",
     "version": "1.20.1-1.4.1"
+  },
+  "galosphere_spellbooks-1.1.0.jar": {
+    "modId": "galosphere_spellbooks",
+    "version": "1.1.0"
   },
   "gardentools-1.20.1-1.2.0.jar": {
     "modId": "gardentools",
@@ -1261,6 +1337,10 @@
     "modId": "idas",
     "version": "1.11.1+1.20.1"
   },
+  "illage-and-spell-age-0.5.0-1.20.1.jar": {
+    "modId": "ias_spellbooks",
+    "version": "0.5.0-1.20.1"
+  },
   "illageandspillagerespillaged-1.2.8.jar": {
     "modId": "illageandspillage",
     "version": "1.2.8"
@@ -1280,6 +1360,10 @@
   "immersive_armors-1.6.1+1.20.1-forge.jar": {
     "modId": "immersive_armors",
     "version": "1.6.1+1.20.1"
+  },
+  "immersive_machinery-0.1.1+1.20.1-forge.jar": {
+    "modId": "immersive_machinery",
+    "version": "0.1.1+1.20.1"
   },
   "Incendium_1.20.x_v5.3.5.jar": {
     "modId": "incendium",
@@ -1454,6 +1538,14 @@
     "modId": "lmft",
     "version": "1.0.4+1.20.1"
   },
+  "loadingbackgrounds-forge-1.20.2-1.8.0.jar": {
+    "modId": "loadingbackgrounds",
+    "version": "1.8.0"
+  },
+  "lodestone-1.20.1-1.6.4.1.jar": {
+    "modId": "lodestone",
+    "version": "1.20.1-1.6.4.1"
+  },
   "Log-Begone-Forge-1.20.1-1.0.8.jar": {
     "modId": "logbegone",
     "version": "1.0.8"
@@ -1550,6 +1642,10 @@
     "modId": "majruszsenchantments",
     "version": "1.10.8"
   },
+  "malum-1.20.1-1.6.6.jar": {
+    "modId": "malum",
+    "version": "1.20.1-1.6.6"
+  },
   "man_of_many_planes-0.2.0+1.20.1-forge.jar": {
     "modId": "man_of_many_planes",
     "version": "0.2.0+1.20.1"
@@ -1557,6 +1653,10 @@
   "Mana_Liquidizer-1.20.1.jar": {
     "modId": "manaliquidizer",
     "version": "1.20.1-1.0.0"
+  },
+  "manaunification-1.20.1-1.0.3.jar": {
+    "modId": "manaunification",
+    "version": "1.0.3"
   },
   "maturidelight-1.20.1-3.0.0.jar": {
     "modId": "maturidelight",
@@ -1746,6 +1846,10 @@
     "modId": "netheritehorsearmor",
     "version": "1.20-1.5.0"
   },
+  "newagealexscaves-1.20.1-1.0.0.jar": {
+    "modId": "newagealexscaves",
+    "version": "1.20.1-1.0.0"
+  },
   "Nimble-1.20.1-forge-5.0.1.jar": {
     "modId": "nimble",
     "version": "5.0.1"
@@ -1902,6 +2006,10 @@
     "modId": "potionofbees",
     "version": "3.0.0.0"
   },
+  "potionsmaster-1.20.1-47.1.70-0.6.0.jar": {
+    "modId": "potionsmaster",
+    "version": "0.6.0"
+  },
   "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar": {
     "modId": "presencefootsteps",
     "version": "1.20.1-1.9.1-beta.1"
@@ -2037,6 +2145,10 @@
   "sapience-1.20.1-1.0.0.jar": {
     "modId": "sapience",
     "version": "1.20.1-1.0.0"
+  },
+  "satisfying_buttons-forge-1.1.2-1.20.1.jar": {
+    "modId": "satisfying_buttons",
+    "version": "1.1.2"
   },
   "savage_and_ravage-1.20.1-6.0.0.jar": {
     "modId": "savage_and_ravage",
@@ -2242,9 +2354,17 @@
     "modId": "structureessentials",
     "version": "1.20.1-4.5"
   },
+  "structurify-forge-mc1.20.1-1.0.11.jar": {
+    "modId": "structurify",
+    "version": "1.0.11"
+  },
   "suggestion-tweaker-1.20-1.5.2-forge.jar": {
     "modId": "suggestion_tweaker",
     "version": "1.20-1.5.2"
+  },
+  "Supernatural-2.12.1.jar": {
+    "modId": "supernatural",
+    "version": "2.12.1"
   },
   "supersaturation-1.20.1-5.0.0.jar": {
     "modId": "supersaturation",
@@ -2269,6 +2389,10 @@
   "table_top_craft-1.20.1-6.1.2.jar": {
     "modId": "table_top_craft",
     "version": "1.20.1-6.1.2"
+  },
+  "tact-1.3.0+1.20.1.jar": {
+    "modId": "tact",
+    "version": "1.3.0"
   },
   "takesapillage-1.0.3-1.20.1.jar": {
     "modId": "takesapillage",
@@ -2426,6 +2550,14 @@
     "modId": "travelerstitles",
     "version": "1.20-Forge-4.0.2"
   },
+  "TreeChop-1.20.1-forge-0.19.0-fixed.jar": {
+    "modId": "treechop",
+    "version": "0.19.0"
+  },
+  "turtlechargingstation-1.6.0-1.20.1-forge.jar": {
+    "modId": "turtlechargingstation",
+    "version": "1.6.0"
+  },
   "Twigs-1.20.1-3.1.0.jar": {
     "modId": "twigs",
     "version": "1.20.1-3.1.1"
@@ -2461,10 +2593,6 @@
   "UrkazMoonTools-forge-2.2.1-44.jar": {
     "modId": "urkazmoontools",
     "version": "2.2.1-44"
-  },
-  "UtilitiX-1.20.1-0.8.25.jar": {
-    "modId": "utilitix",
-    "version": "1.20.1-0.8.25"
   },
   "valhelsia_core-forge-1.20.1-1.1.2.jar": {
     "modId": "valhelsia_core",
@@ -2570,9 +2698,17 @@
     "modId": "workshop_for_handsome_adventurer",
     "version": "1.32.5"
   },
+  "world_preview-forge-1.20.1-1.3.1.jar": {
+    "modId": "world_preview",
+    "version": "1.3.1"
+  },
   "WorldComment-0.2.0+1.20.1.jar": {
     "modId": "worldcomment",
     "version": "0.2.0+1.20.1"
+  },
+  "worldplaytime-1.2.3-1.20.x-FORGE.jar": {
+    "modId": "worldplaytime",
+    "version": "1.2.3"
   },
   "XaeroPlus-2.26.5+forge-1.20.1-WM1.39.4-MM25.2.0.jar": {
     "modId": "xaeroplus",

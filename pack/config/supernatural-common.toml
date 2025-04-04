@@ -1,0 +1,36 @@
+
+[Supernatural]
+	#How much extra damage does a Supernatural do?
+	#Range: > 0
+	"Supernatural Damage" = 3
+	#How much extra speed does a Supernatural have in percentage?
+	#Range: > 0
+	"Supernatural Speed" = 15
+	#Should vampires spawn within raids at night?
+	"Vampiric Raiders" = true
+	#How strong is the heal effect for the Leeching Enchantment?
+	#Range: > 0
+	"Vampiric Leech" = 1
+	#Should vampires be immune to sun damage?
+	"Vampiric Sunlight" = false
+	#How much health does a Vampire needs to be at in percentage to die instantly to a Wooden Sword?
+	#Range: 0.0 ~ 1.0
+	"Vampiric Weakness" = 0.6
+	#Should vampires have their original textures?
+	"Original Vampires" = false
+
+["Ritual Altar"]
+	#What should be the base power for soul enchanting?
+	#Range: > 0
+	Soulpower = 7
+	#Should Rituals require sacrifices?
+	"Ritual Sacrifice" = true
+
+[Misc]
+	#Should Vexes spawn from Grave Soil?
+	"Gravy Vexes" = true
+	#Should Spooks target armor stands?
+	"Possessed Armor" = true
+	#Should Angels have a holy aura that burns nearby vampires and undead?
+	"Holy Blessing" = true
+

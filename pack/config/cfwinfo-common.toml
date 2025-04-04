@@ -1,0 +1,7 @@
+
+["Configs for Create: Fuel & Water Levels Mod"]
+	#This will determine whether to display fuel and water information.
+	"Enable/Disable Jetpack Information" = false
+	#Determine to show a simplified version of the fuel and water levels.
+	"Enable/Disable simplified information" = true
+

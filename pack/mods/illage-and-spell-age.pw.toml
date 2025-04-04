@@ -1,0 +1,13 @@
+name = "Illage and Spell-age: Iron's Spells Addon"
+filename = "illage-and-spell-age-0.5.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14c30f8e8f17b3ea20caf133408772f3733824f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5962364
+project-id = 1152648

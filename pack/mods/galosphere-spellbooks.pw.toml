@@ -1,0 +1,13 @@
+name = "Galosphere: Spellbooks"
+filename = "galosphere_spellbooks-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5269505b1cd138e055303d3d7a11f824f4c578b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5911862
+project-id = 1111928

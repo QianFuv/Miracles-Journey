@@ -1,0 +1,13 @@
+name = "Ars Botania"
+filename = "ars_botania-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdd499143949397329a0679f1a5ab40393a44238"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6163770
+project-id = 1194681

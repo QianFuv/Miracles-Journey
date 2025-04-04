@@ -1,0 +1,11 @@
+{
+  "config_version": "1.0.11",
+  "general": {
+    "min_structure_distance_from_world_center": 0,
+    "disable_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structures": [],
+  "structure_sets": []
+}

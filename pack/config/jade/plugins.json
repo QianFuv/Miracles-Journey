@@ -51,6 +51,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": false,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -79,13 +84,6 @@
   },
   "platforms": {
     "hud": true
-  },
-  "utilitix": {
-    "glue_information": true,
-    "experience_crystal": true,
-    "linked_repeater": true,
-    "crude_furnace": true,
-    "advanced_brewery": true
   },
   "workshop_for_handsome_adventurer": {
     "jade_plugin2": true,

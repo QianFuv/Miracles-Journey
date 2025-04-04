@@ -1,0 +1,13 @@
+name = "Supernatural"
+filename = "Supernatural-2.12.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfb9820f403e1143be576a3d281663b4b90dda2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5820483
+project-id = 610880

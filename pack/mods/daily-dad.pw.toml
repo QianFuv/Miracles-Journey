@@ -1,0 +1,13 @@
+name = "Daily Dad"
+filename = "DailyDad-forge-1.20-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47c1c94c36e518119ab6985e2dc94d201086c527"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4578326
+project-id = 559851
