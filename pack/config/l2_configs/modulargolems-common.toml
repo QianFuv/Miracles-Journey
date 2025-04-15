@@ -65,6 +65,9 @@ dogGolemSlot = 2
 	#Healing when thunder immune golems are striked
 	#Range: 1 ~ 10000
 	thunderHeal = 10
+	#Armor Penetration modifier: chance for damage to bypass armor per level
+	#Range: 0.0 ~ 1.0
+	armorBypassChance = 0.2
 
 ["twilight forest compat"]
 	#Percentage damage addition per level of fiery
@@ -198,4 +201,18 @@ dogGolemSlot = 2
 	#Atomic Fueling modifier: boost duration per uranium nugget used
 	#Range: 20 ~ 20000
 	atomicDuration = 200
+
+["goety compat"]
+	#Chance per armor per modifier level to summon haunted armor servant
+	#Range: 0.05 ~ 1.0
+	hauntedBaseChance = 0.05
+	#Soul Repair modifier healing soul cost as multiple of item repair soul cost
+	#Range: 1 ~ 100
+	soulHealingCost = 2
+	#Soul Repair modifier healing rate per second
+	#Range: 1 ~ 100
+	soulHealingRate = 2
+	#Soul Repair modifier healing only when golem health is below this percentage
+	#Range: 0.0 ~ 1.0
+	soulHealingThreshold = 0.75
 

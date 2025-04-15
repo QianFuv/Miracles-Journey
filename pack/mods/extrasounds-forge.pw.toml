@@ -1,13 +1,13 @@
 name = "ExtraSounds Next"
-filename = "extrasounds-1.20.1-forge-1.3.jar"
+filename = "ExtraSoundsNext-forge-1.20.1-1.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f5904eca3c41552c613b807b0e4967ef1c84206a"
+hash = "e2167a2e3e016cfb65a130d31c47cddcb765bd14"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5304296
+file-id = 6374963
 project-id = 946784

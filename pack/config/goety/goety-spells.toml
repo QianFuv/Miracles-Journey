@@ -1485,6 +1485,9 @@
 	#Total number of Redstone Monstrosities an individual player can have, Default: 1
 	#Range: > 0
 	redstoneMonstrosityPlayerLimit = 1
+	#Number of Wither Necromancer Servants that an individual player can have in total, Default: 2
+	#Range: > 1
+	witherNecromancerLimit = 2
 
 [Enchantments]
 	#Soul Eater Maximum Enchantment Level, Default: 5

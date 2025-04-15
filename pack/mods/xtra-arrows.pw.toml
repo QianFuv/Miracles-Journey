@@ -1,13 +1,13 @@
 name = "Xtra Arrows"
-filename = "xtraarrows-3.0.10.1-forge-mc1.20.1.jar"
+filename = "xtraarrows-3.0.11-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2b70ab50f7793626754dcb50bfb049859328474"
+hash = "cc15877c4dbc9dfb7912606d918a15479e0b6b11"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5366282
+file-id = 6406467
 project-id = 566441
