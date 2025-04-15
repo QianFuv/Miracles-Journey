@@ -1,0 +1,13 @@
+name = "Ender Mail"
+filename = "EnderMail-1.20.1-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fcca821cfba4c93219b82506bee89bd20eb30bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4606473
+project-id = 374771

@@ -1,0 +1,12 @@
+{
+  "bee_knight": {
+  
+    // What should be the aggravation range of the Bee Knights, when someone tries to steal their honey!
+    // Minimum: 3
+    "aggrevation_range": 20,
+    
+    // How much reputation the player needs to have for the bee_knight to not attack them.
+    // Minimum: 0
+    "required_reputation": 35
+  }
+}

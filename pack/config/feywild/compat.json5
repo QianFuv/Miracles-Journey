@@ -1,0 +1,7 @@
+{
+  // Whether dwarves in blacksmiths should be replaced with runestones
+  "replace_dwarves": false,
+  
+  // Whether waystones should generate in Feywild structures.
+  "waystones": true
+}

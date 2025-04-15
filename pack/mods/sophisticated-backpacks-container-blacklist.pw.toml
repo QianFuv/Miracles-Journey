@@ -1,0 +1,13 @@
+name = "Sophisticated Backpacks Container Blacklist"
+filename = "sbblacklist-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8739d17b4522945aceff2ef1749dd2230adb3aef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5637839
+project-id = 1080174

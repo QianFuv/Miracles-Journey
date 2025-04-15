@@ -1,0 +1,13 @@
+name = "Vending Machine"
+filename = "VendingMachine-1.20-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "413a5ad63ab0a9265cfd52d3107243c781641b38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5825896
+project-id = 392236

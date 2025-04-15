@@ -1,0 +1,13 @@
+name = "Slab Machines"
+filename = "SlabMachines-1.20-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bea8c1f3fc9ad9fe5e14a61865a743bcc28cef5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4583763
+project-id = 301854

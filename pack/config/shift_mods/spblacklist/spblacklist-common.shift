@@ -1,0 +1,5 @@
+
+[Containers]
+	#A list of containers to prevent interaction with.
+	blacklisted = ["projecte:transmutation_table"]
+

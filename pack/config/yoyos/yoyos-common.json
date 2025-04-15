@@ -1,0 +1,122 @@
+{
+  "wooden": {
+    "weight": 2.2,
+    "length": 6.0,
+    "duration": 100,
+    "damage": 3.0
+  },
+  "stone": {
+    "weight": 4.0,
+    "length": 7.0,
+    "duration": 200,
+    "damage": 4.0
+  },
+  "copper": {
+    "weight": 4.5,
+    "length": 7.5,
+    "duration": 250,
+    "damage": 4.5
+  },
+  "iron": {
+    "weight": 5.0,
+    "length": 8.0,
+    "duration": 300,
+    "damage": 5.0
+  },
+  "gold": {
+    "weight": 6.5,
+    "length": 11.0,
+    "duration": 450,
+    "damage": 4.5
+  },
+  "diamond": {
+    "weight": 4.0,
+    "length": 9.0,
+    "duration": 500,
+    "damage": 6.0
+  },
+  "netherite": {
+    "weight": 6.2,
+    "length": 10.0,
+    "duration": 600,
+    "damage": 7.0
+  },
+  "creative": {
+    "weight": 0.9,
+    "length": 24.0,
+    "duration": -1,
+    "damage": 256.0
+  },
+  "compressed_iron": {
+    "weight": 5.5,
+    "length": 7.5,
+    "duration": 350,
+    "damage": 5.5
+  },
+  "hallowed_gold": {
+    "weight": 6.5,
+    "length": 12.0,
+    "duration": 550,
+    "damage": 5.0
+  },
+  "malignant_pewter": {
+    "weight": 6.0,
+    "length": 10.0,
+    "duration": 600,
+    "damage": 6.5
+  },
+  "soul_stained_steel": {
+    "weight": 5.5,
+    "length": 9.0,
+    "duration": 450,
+    "damage": 5.5
+  },
+  "andesite_alloy": {
+    "weight": 4.5,
+    "length": 7.5,
+    "duration": 250,
+    "damage": 4.5
+  },
+  "zinc": {
+    "weight": 5.0,
+    "length": 8.0,
+    "duration": 300,
+    "damage": 5.0
+  },
+  "brass": {
+    "weight": 5.0,
+    "length": 9.0,
+    "duration": 400,
+    "damage": 5.5
+  },
+  "manasteel": {
+    "weight": 4.5,
+    "length": 9.0,
+    "duration": 400,
+    "damage": 5.5
+  },
+  "elementium": {
+    "weight": 5.0,
+    "length": 10.0,
+    "duration": 500,
+    "damage": 6.0
+  },
+  "terrasteel": {
+    "weight": 6.0,
+    "length": 11.0,
+    "duration": 650,
+    "damage": 7.0
+  },
+  "gaia_spirit": {
+    "weight": 5.0,
+    "length": 12.0,
+    "duration": 700,
+    "damage": 8.0
+  },
+  "alfsteel": {
+    "weight": 6.0,
+    "length": 18.0,
+    "duration": 800,
+    "damage": 9.0
+  }
+}

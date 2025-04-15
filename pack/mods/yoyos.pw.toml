@@ -1,0 +1,13 @@
+name = "Yoyos"
+filename = "yoyos-1.20.1-1.0.2-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60c29387de3cd1c27a545ab331e4d7b8842d8576"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6267461
+project-id = 262692

@@ -1,0 +1,136 @@
+
+#General Settings -- Negative values are ignored
+[general]
+	#Tower Separation values below only change how often the game tries to spawn the structure. Several other factors (Land height/other structures) can affect whether the structure actually spawns.
+	#The minimum possible distance between Land Towers measured in chunks. (9 chunk minimum. Default: 20 Chunks
+	#Range: 9 ~ 999999999
+	landMinimumSeparation = 30
+	#The minimum possible distance between Ocean Towers measured in chunks. (6 chunk minimum. Default: 16 Chunks
+	#Range: 9 ~ 999999999
+	oceanMinimumSeparation = 35
+	#Minimum distance from spawn a Tower can be measured in chunks (Applies to X and Z). Default: 25 chunks 
+	firstTowerDistance = 25
+	#Whether to include acceptable Terralith biomes during the tower's Biome check.
+	terralith = false
+	#Whether to include acceptable Biomes of Plenty biomes during the tower's Biome check.
+	biomesofPlenty = false
+	#Whether to include acceptable Oh The Biomes You'll Go biomes during the tower's Biome check.
+	ohTheBiomesYoullGo = false
+
+#Advanced Settings -- take note of the range for each value, values outside the ranges will be discarded
+[advanced]
+	#The total health of the Land Golem, divide by two per heart. I.E a value of 300 is 150 hearts
+	#Range: 200.0 ~ 100000.0
+	landGolemHealth = 250.0
+	#This value is added to the Land Tower minimum separation above to get the average separation between Land Towers for spawning measured in chunks.
+	#I.E. if you leave the minimum separation at 20, and change this value to 8 then Land Towers would spawn at:  minimum = 20 chunks | average = 28 chunks (20 + 8) | maximum = 36 chunks (20 + 16)
+	#Range: 1 ~ 100
+	landAverageSeparationModifier = 4
+	#Length of time in seconds after Golem is defeated before the Land Tower collapses
+	#Range: 30 ~ 60
+	landCollapseTimer = 30
+	#How much of the tower is destroyed after defeating the Golem. Default: 85% of tower.
+	#Range: 0.0 ~ 1.0
+	landTowerDestruction = 0.85
+	#The total health of the Ocean Golem, divide by two per heart. I.E a value of 300 is 150 hearts
+	#Range: 250.0 ~ 100000.0
+	oceanGolemHealth = 300.0
+	#This value is added to the Ocean Tower minimum separation above to get the average separation between Ocean Towers for spawning measured in chunks.
+	#See Land Tower Average Separation for explanation of use.
+	#Range: 1 ~ 100
+	oceanAverageSeparationModifier = 8
+	#Length of time in seconds after Golem is defeated before the Ocean Tower crumbles
+	#Range: 30 ~ 60
+	oceanCollapseTimer = 30
+	#How much of the tower is destroyed after defeating the Golem. Default: 100% of tower.
+	#Range: 0.5 ~ 1.0
+	oceanTowerDestruction = 1.0
+	#Makes the Ocean trench around the Ocean tower much smaller, reducing the lag on load
+	smallOceanTrench = false
+
+#Crashable settings -- If you edit these, and the game crashes, its on you
+[crashable]
+
+	[crashable.towerMobs]
+		#Lists of mob ids of possible mobs to spawn in spawners inside each Tower. Each list must contain at least one value
+		landTowerMobs = ["minecraft:zombie", "minecraft:zombie", "minecraft:skeleton", "minecraft:spider"]
+		oceanTowerMobs = ["minecraft:drowned", "minecraft:guardian", "minecraft:drowned", "minecraft:drowned", "minecraft:drowned", "minecraft:pufferfish"]
+
+	[crashable.towerLootOptions]
+		#The number of xp levels books and tools are enchanted with in loot, Ie a 20 here means that books and tools that appear in loot will contain enchants as if enchanted with 20 levels of xp  up to 41 (3 extra per tower floor)
+		#Range: 0 ~ 40
+		bookXPLevels = 10
+		#Whether or not armor in loot should be enchanted
+		enchantedArmor = true
+		#Whether or not tools/weapons in loot should be enchanted
+		enchantedTools = true
+		#List of extra specifiable container types for use in custom tower floors
+		extraChestTypes = ["White Shulker"]
+		#List of extra container blocks for placing in custom tower floors
+		extraChestBlocks = ["minecraft:white_shulker_box"]
+
+	[crashable.towerExtendableLootPools]
+		#Rarity starts at zero on floor 1 of any tower and increases by 1 every 2 floors.
+		#A Rarity 0 item for the meat pool would be rotten flesh, while a rarity 4 item would be rabbit stew (as seen below)
+		#Every item you add to the 'Pool Extra' needs a matching entry in the rarity and amount sections
+		#The amount section is a float with the '.' separating the min amount of the item from the max amount. I.E 1.3 is a range of 1-3
+		meatLootPool = ["minecraft:rabbit_stew"]
+		meatLootRarity = [4]
+		meatLootAmounts = [1.1]
+		veggieLootPool = []
+		veggieLootRarity = []
+		veggieLootAmounts = []
+		cookedLootPool = []
+		cookedLootRarity = []
+		cookedLootAmounts = []
+		gemsLootPool = []
+		gemsLootRarity = []
+		gemsLootAmounts = []
+		metalsLootPool = []
+		metalsLootRarity = []
+		metalsLootAmounts = []
+		oreLootPool = []
+		oreLootRarity = []
+		oreLootAmounts = []
+		buildingBlocksLootPool = []
+		buildingBlocksLootRarity = []
+		buildingBlocksLootAmounts = []
+		libraryLootPool = []
+		libraryLootRarity = []
+		libraryLootAmounts = []
+		weaponLootPool = []
+		weaponLootRarity = []
+		weaponLootAmounts = []
+		armorLootPool = []
+		armorLootRarity = []
+		armorLootAmounts = []
+		toolLootPool = []
+		toolLootRarity = []
+		toolLootAmounts = []
+		consumableLootPool = []
+		consumableLootRarity = []
+		consumableLootAmounts = []
+		bedsideLootPool = []
+		bedsideLootRarity = []
+		bedsideLootAmounts = []
+		plantsLootPool = []
+		plantsLootRarity = []
+		plantsLootAmounts = []
+		waterPlantsLootPool = []
+		waterPlantsLootRarity = []
+		waterPlantsLootAmounts = []
+		treePlantsLootPool = []
+		treePlantsLootRarity = []
+		treePlantsLootAmounts = []
+
+	[crashable.towerChestLootTableReplacements]
+		#Adding a resource location of a custom loot-table to one of these lists replaces the loot generated 
+		#    using the Tower Extendable Loot Pools above  for floor/golem chests with loot from the supplied loot-table.
+		#Each list is in floor order with the first item being the table for floor 1 and the last item being the table for the Golem (Boss) chest
+		landTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+		oceanTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+		coreTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+		netherTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+		endTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+		sskyTowerChestPools = ["", "", "", "", "", "", "", "", ""]
+

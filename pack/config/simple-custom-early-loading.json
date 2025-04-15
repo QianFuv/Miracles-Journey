@@ -1,0 +1,37 @@
+{
+  "elements": [
+    // note that order matters - elements are rendered from top to bottom+
+    // gifs are not supported
+    {
+      // example background
+      "image": "stellarview.png",
+      "type": "percentage",
+      "x1": 0,
+      "x2": 100,
+      "y1": 0,
+      "y2": 100
+    },
+    {
+      "image": "loading.png",
+      // type: absolute / percentage
+      "type": "percentage",
+      // place loading image somewhere between mojang logo and progress bar
+      "x1": 37.225,
+      "x2": 62.775,
+      "y1": 55,
+      "y2": 65.55
+    }
+  ],
+  // "progress_bar": null to remove the default element
+  "progress_bar": {
+    "type": "percentage",
+    // The coords of the bar center
+    "x": 50,
+    "y": 70
+  },
+  "performance_bar": true,
+  "anvil": true,
+  "log_messages": true,
+  "forge_version": true
+  // I dont think it would be nice to remove the mojang logo and change the branding, so I am not allowing it here
+}

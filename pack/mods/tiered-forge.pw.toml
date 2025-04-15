@@ -1,0 +1,13 @@
+name = "Reforged (formerly Tiered)"
+filename = "Tiered-1.20.1-6.0.8-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ccb2576b038d16a9f914c70829b562f7ed6f08ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6109619
+project-id = 453889
