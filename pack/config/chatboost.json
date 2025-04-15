@@ -12,7 +12,7 @@
   "counterColor": 16777045,
   "counterCompact": false,
   "counterCompactDistance": 0,
-  "boundary": true,
+  "boundary": false,
   "boundaryFormat": "\u00268[\u0026r$\u00268]",
   "boundaryColor": 5636095,
   "chatLog": true,
@@ -20,10 +20,10 @@
   "chatWidth": 0,
   "chatMaxMessages": 100,
   "chatNameFormat": "\u003c$\u003e",
-  "shiftChat": 10,
-  "messageDrafting": false,
+  "shiftChat": 0,
+  "messageDrafting": true,
   "searchDrafting": true,
-  "hideSearchButton": false,
+  "hideSearchButton": true,
   "copyColor": 5636095,
   "copyReplyFormat": "/msg $ "
 }
