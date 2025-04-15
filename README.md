@@ -18,20 +18,28 @@
     <img src="https://img.shields.io/github/stars/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Stars" />
   </p>
   <h4>
-      <a href="https://github.com/QianFuv/Miracles-Journey/releases">下载版本</a>
-    <span> · </span>
-      <a href="https://s.c1ns.cn/mjlist">资源列表</a>
-    <span> · </span>
-      <a href="https://mjwiki.qianfuv.fun/">查看文档</a>
-    <span> · </span>
-      <a href="https://github.com/QianFuv/Miracles-Journey/issues/new/choose">问题反馈</a>
-    <span> · </span>
-      <a href="https://afdian.com/a/qianfuv">给予赞助</a>
+      <a href="https://github.com/QianFuv/Miracles-Journey/releases">下载版本</a><span> · </span><a href="https://mjlist.qianfuv.fun/">资源列表</a><span> · </span><a href="https://mjwiki.qianfuv.fun/">查看文档</a><span> · </span><a href="https://github.com/QianFuv/Miracles-Journey/issues/new/choose">问题反馈</a><span> · </span><a href="https://afdian.com/a/qianfuv">给予赞助</a>
   </h4>
 </div>
 
-## 🏆 贡献者
+
+## ✨ 亮点
+
+- 模组全面：包含几乎所有维度的模组，并且经过精心挑选以确保游戏性
+- 精心配置：通过合理且全面地配置模组让玩家得到最舒适的游戏体验
+- 极致优化：全维度的极致优化造就了奇迹之旅突破常识的性能
+- 积极更新：对于问题反馈和修复及时全面，并且鼓励玩家积极反馈交流
+
+## 🏆 贡献
 
 <a href="https://github.com/QianFuv/Miracles-Journey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=QianFuv/Miracles-Journey" />
 </a>
+
+## 🤗 鸣谢
+
+- Github
+- Vscode
+- Packwiz
+- Free File Sync
+- Graalvm JDK 21
