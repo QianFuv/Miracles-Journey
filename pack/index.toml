@@ -1646,7 +1646,7 @@ hash = "aff530e3c4943da0bb9d47723785ad21929bf93892dcb12dc2c3783ec7688648"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a1d74ebe25bf4e0a7af891a5d9a6d5cdee7279147600fce24cd46bed7878b1b6"
+hash = "b477d90c7d40b1dca938aff18a6a4002ca249607eacbb1b09722788edea7c9f4"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2250,11 +2250,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f2874636c89aeb8c1942a4b5b3b6dde515e88cd37862f0a0a463ac06ea0db505"
+hash = "6a21be714427e38b1904a555d30a45abec7cae7f72f65d997a4c1c648c7dfd71"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "68e7516837f134dae370e10fa8e26291d00d6d7f2e9074876b6acfe96c1e7978"
+
+[[files]]
+file = "config/fancymenu/customization/pack_selection_screen_layout.txt"
+hash = "9edbb1cb3290bb415084190e4018d61f6c8af4b2318cbcb682665a2ec2e368a0"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -2274,7 +2278,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e3022b97d5034ab212e0a8965a01896ffe9c14a860691507a298d41c0e884b87"
+hash = "9bd5d616841fdd4b1e89b117378bab25e831ad64cec0b80a685d06a8ae4b6b85"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -4387,6 +4391,10 @@ hash = "2061e0e682bb3ba361af8e2b8ebd93eb36fb1abd5356e90342cc66685f1f8f44"
 [[files]]
 file = "mods/PeacefulMoon-1.20.jar.disabled"
 hash = "11c69cd4daf2d3547eb3fbaf6f4c7a3554e7bf6df9dc0009478d8251eb0ae5af"
+
+[[files]]
+file = "mods/SimpleCustomEarlyLoading-1.20.x-dev.jar"
+hash = "33bb65750e84c2d5e108bd849561c8ee19649737085e5a8572935f10e32c70d3"
 
 [[files]]
 file = "mods/Steam_Rails-1.6.7+forge-mc1.20.1.jar.disabled"
@@ -7429,6 +7437,11 @@ hash = "5f5ff476ec6082dc2dbba0755ea82f82a6559ab776bedc9a66d0e8cc05f6b93a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "6dfb07c0fc1887d9fad138aebd7d6ab7eedfab3129167a9e1ff317072f1562e8"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "71e2e4f2f05ca301c554f20595b58f80cd4fc4601eb028601cfb1ab1af4020e9"
 metafile = true
@@ -8140,7 +8153,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "481c3b75c419216d77e28e0a0bd42b1647ea93a4f9d7984a71fbdaf6287c087c"
+hash = "37313814b6fac704aaf76703356a791b961411ef5fa22b5413d0855acfe7ffba"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

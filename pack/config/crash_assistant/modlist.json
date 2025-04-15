@@ -2883,6 +2883,10 @@
     "modId": "worldplaytime",
     "version": "1.2.3"
   },
+  "XaeroPlus-2.26.5+forge-1.20.1-WM1.39.4-MM25.2.0.jar": {
+    "modId": "xaeroplus",
+    "version": "2.26.5"
+  },
   "Xaeros_Minimap_25.2.0_Forge_1.20.jar": {
     "modId": "xaerominimap",
     "version": "25.2.0"
