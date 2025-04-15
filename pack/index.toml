@@ -8212,10 +8212,6 @@ file = "resourcepacks/VanillaTweaks_r561040_MC1.20.x.zip"
 hash = "dca51f8b621c9796efe09df9a649c2b65c25f186ee603de2646ed6ab4644a37d"
 
 [[files]]
-file = "resourcepacks/[1.19-1.20] Yuushya Release 0.18.2.zip"
-hash = "c66d6e4c994c3c407822f67045835ddf680b7791d63213d2a650e5fb5984587b"
-
-[[files]]
 file = "resourcepacks/aether-regenerated.pw.toml"
 hash = "5e8db13c87185e49cf511da61127c966487509155a8dc37c6212d69494c9f1bf"
 metafile = true
