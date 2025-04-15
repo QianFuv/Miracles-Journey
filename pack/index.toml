@@ -4958,11 +4958,6 @@ hash = "d960f68e4c5e5f79eff91a277dc22d7acb49f04080fcf0fe1648b5a9a83e3d4f"
 metafile = true
 
 [[files]]
-file = "mods/chloride-mod.pw.toml"
-hash = "9788961ba837c0a318d3a29ea4d0253a3a38100e2ec0d9f54a2ecfcb2fbe5689"
-metafile = true
-
-[[files]]
 file = "mods/chloride.pw.toml"
 hash = "b2bebe337b0d0ce2377357291ab72c7a45ed90d40fd630fbfcd139f8663c979e"
 metafile = true
@@ -7700,11 +7695,6 @@ metafile = true
 [[files]]
 file = "mods/tidesdelight-1.20.1-1.04.jar.disabled"
 hash = "133807cd91a3714289ae0865cb94b0c0d9575762e04314c56a135ab563e82c64"
-
-[[files]]
-file = "mods/tidesdelight.pw.toml"
-hash = "1e05503344cbb2ec27e7b17e98c920e87f571b6c632915199271a6e07d949a7f"
-metafile = true
 
 [[files]]
 file = "mods/tiered-forge.pw.toml"
