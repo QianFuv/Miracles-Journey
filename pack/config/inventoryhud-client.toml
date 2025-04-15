@@ -27,16 +27,16 @@
 	#Show/Hide armor
 	showArmor = true
 	#Show/Hide armor
-	showMain = false
+	showMain = true
 	#Show/Hide armor
-	showOff = false
+	showOff = true
 	#Show/Hide armor
-	showArrows = false
+	showArrows = true
 	#Show/Hide armor
-	showInv = false
+	showInv = true
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "OFF"
+	armView = "PERCENTAGE"
 	#Show item durability bar
 	armBars = true
 	#Move all items at once or each one
@@ -51,7 +51,7 @@
 	#Show Armor HUD when debug menu is open
 	armWithDebug = true
 	#Show arrows count when no weapon in your hands
-	showArrowsWithoutWeapon = false
+	showArrowsWithoutWeapon = true
 
 #Settings for Potions HUD
 [potionshud]
@@ -66,7 +66,7 @@
 	#Potion HUD mini mode
 	potMini = true
 	#Potion HUD horizontal mode
-	potHor = true
+	potHor = false
 	#Full bar duration
 	#Range: > 1
 	barDuration = 300
@@ -113,7 +113,7 @@
 	potHalign = "RIGHT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 18
+	xPotionPos = 54
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
 	yPotionPos = 15
