@@ -31,6 +31,9 @@
             <Item>\config\paxi\datapacks</Item>
             <Item>\config\bettervillage_1.properties</Item>
             <Item>\config\libraryferret_1.properties</Item>
+            <Item>\config\world_preview\renderConfig.json</Item>
+            <Item>\config\yoyos\pack</Item>
+            <Item>\config\explorerscompass</Item>
             <Item>\crash-reports</Item>
             <Item>\CustomSkinLoader</Item>
             <Item>\data</Item>
@@ -85,6 +88,8 @@
             <Item>\seamless.txt</Item>
             <Item>\usercache.json</Item>
             <Item>\usernamecache.json</Item>
+            <Item>\supportercache.json</Item>
+            <Item>\PCL.ini</Item>
         </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
