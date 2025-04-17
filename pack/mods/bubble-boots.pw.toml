@@ -1,0 +1,13 @@
+name = "Bubble Boots"
+filename = "bubble_boots-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GFXZ8NgR/versions/zcpsxMaz/bubble_boots-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "1dea790c31b9783d3db2348dd5e1914cb0d2ef334b3aaf9c5a637382b33f253aa8525babfae7f4444a1f7b238342dbeea54f31c50ba98dd87118f1d730c020ac"
+
+[update]
+[update.modrinth]
+mod-id = "GFXZ8NgR"
+version = "zcpsxMaz"

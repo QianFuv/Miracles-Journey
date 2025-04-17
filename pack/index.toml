@@ -1646,7 +1646,7 @@ hash = "aff530e3c4943da0bb9d47723785ad21929bf93892dcb12dc2c3783ec7688648"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "b477d90c7d40b1dca938aff18a6a4002ca249607eacbb1b09722788edea7c9f4"
+hash = "c2cffcba336d94885467743a4133db46dd103bcbc299b48c3f3ccabbb73080f9"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -4377,10 +4377,6 @@ file = "mods/CreateAbyssCatalysis-0.1.jar.disabled"
 hash = "fdde4371a130956b938335d731403acbae4cdfde0adc984b8da0e032e12cde6c"
 
 [[files]]
-file = "mods/Create_Mortar_Mango_Edition-0.1.3-mod.jar"
-hash = "13d53c9bb7f2b241722fc1de3fe750b3451683e391ac9f6f1613e4d399e255fd"
-
-[[files]]
 file = "mods/Crystal-Clear-2.1-Beta-forge.jar.disabled"
 hash = "b2e60925d453e4067a17b48158a550c8e00cfd8b176eacbc4c8b92c6c5033d71"
 
@@ -4399,10 +4395,6 @@ hash = "33bb65750e84c2d5e108bd849561c8ee19649737085e5a8572935f10e32c70d3"
 [[files]]
 file = "mods/Steam_Rails-1.6.7+forge-mc1.20.1.jar.disabled"
 hash = "42a153910c6c528492936b2736516b3431bb69a4b93c63e855b850dc3ab2b88d"
-
-[[files]]
-file = "mods/WorldComment-0.3.0+1.20.1.jar"
-hash = "aed89d1a61e40dd2d794eaa9f42baa24b0a39de5356ddd974a770c93e443a11c"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -4475,6 +4467,11 @@ hash = "fee69953cb8aa913b3e5e6ac0ffc0ed0a470109f7acae7dac199f095b8120be9"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves-delight.pw.toml"
+hash = "be372dec0ddff24a350d9b41a43df7eb4f8b56ccde039e03c401e4204ba2940e"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves-trimmed.pw.toml"
 hash = "75437d88a40468a6d69476df3bbb6e194f45aeb576d225f595854e4e159af948"
 metafile = true
@@ -4493,10 +4490,6 @@ metafile = true
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
-
-[[files]]
-file = "mods/alexscavesdelight-1.0.23-1.20.1.jar"
-hash = "b494b8a985169f3499e5199bf9c1fcaa6667cb3dddfe3e399af5a68211885b8e"
 
 [[files]]
 file = "mods/all-arrows-infinity-fix.pw.toml"
@@ -4858,8 +4851,9 @@ hash = "dfab7d93321e388374ad76d38b5ed6f0ccc677f8501daee6d09356c0d89a1fef"
 metafile = true
 
 [[files]]
-file = "mods/bubble_boots-1.20.1-2.0.2.jar"
-hash = "0d7b26fd0bbffbd2ee26fb9b9b164815ad9367321d3fe51f7837e539e4508849"
+file = "mods/bubble-boots.pw.toml"
+hash = "de5a98a24e41c2d74cbc99554d9d5be9b2d3e67f7e002e9cf8b0c85bf7e04318"
+metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
@@ -4917,8 +4911,9 @@ hash = "f86c8e57ac3b71ab5ad42de7e144532f1e376b3020fab2a021abc228e3009d79"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-forge-1.115.1.jar"
-hash = "21d84f2d7052a9acce9c8108c792db7961f3182d0add78617bc94752b0f93185"
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
+metafile = true
 
 [[files]]
 file = "mods/cerbons-api.pw.toml"
@@ -5255,6 +5250,16 @@ metafile = true
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "7c275b5da697f2275618e42b939357d6ff4ff456139c5b6166ed090e04cd3936"
+metafile = true
+
+[[files]]
+file = "mods/create-mortar-mango-edition.pw.toml"
+hash = "bc9697fe8b45616f4f93c9148de8ee37d71ec5ef690091eaf4e5ffcce8f91695"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age-alexs-caves-integration.pw.toml"
+hash = "7af72d7a97da0797b0bc16625c46b76dfffbbe22004f4eeafc1ba08f8cc2769e"
 metafile = true
 
 [[files]]
@@ -5852,8 +5857,9 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
-file = "mods/festival_delicacies-1.20.1-1.0-beta.jar"
-hash = "cab8b9193b10eed89db9ba8cd077450a4353f114eeb0b444d120abf5bddc6974"
+file = "mods/festival-delicacies.pw.toml"
+hash = "3c260d2aeae672c5ea1f470ffce92318317e5da87d4c140c9bdd2fb0128a28e4"
+metafile = true
 
 [[files]]
 file = "mods/feywild.pw.toml"
@@ -6336,6 +6342,11 @@ hash = "09f312d16a1a26a7a66f7c577802a6f6e1c69e67183acc63c72462c81f5765a0"
 metafile = true
 
 [[files]]
+file = "mods/just-dandy.pw.toml"
+hash = "c9fd75a880f37c9ad2b7da27d9ddcdd4cfa6c7a712619e9b13b744dc73280767"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-characters.pw.toml"
 hash = "ec23394e3d7a4b7a9203d353f8da8e3653539c08fbae97835f31a0948d9d0e52"
 metafile = true
@@ -6344,10 +6355,6 @@ metafile = true
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
-
-[[files]]
-file = "mods/just_dandy-1.20.1-2.1.6.jar"
-hash = "0a11b99461a0f27f9e4f1e2534584a62a5d3026cda2203a0391b290864cb0938"
 
 [[files]]
 file = "mods/kambrik.pw.toml"
@@ -6549,8 +6556,9 @@ hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
-file = "mods/luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar"
-hash = "9056ac0351f6f375e2549424306488b10fd48a4f4e6223a43c423cdfd6e6f5ad"
+file = "mods/luncheon-meat-s-delight.pw.toml"
+hash = "526458f89b555ef73c138205cd003d734db2bab50fdfdc6ee836767deb596893"
+metafile = true
 
 [[files]]
 file = "mods/macaws-holidays.pw.toml"
@@ -6638,8 +6646,9 @@ hash = "0b9cc190139b0eb2d5f0153f05717ed53edd499ad2a3eeee99ea75d22fd0ef1c"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
-hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
 
 [[files]]
 file = "mods/memorysweep.pw.toml"
@@ -6747,8 +6756,9 @@ hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
 
 [[files]]
-file = "mods/muffins-thai-delight-forge-1.0.0.jar"
-hash = "b574741b76c33c634c877fbc66c63c9a547cb0e2cf11f44949d683693a8e50f9"
+file = "mods/muffins-thais-delight.pw.toml"
+hash = "564a74d38bec1249013d842d27be9a58981dde3d2c22121cdd8f1a3497bb6682"
+metafile = true
 
 [[files]]
 file = "mods/multibeds.pw.toml"
@@ -6826,10 +6836,6 @@ hash = "9af33e2996a3be99593591c99f8bc4fdd4eb3805aa060fa226dce8e1ab3f5616"
 metafile = true
 
 [[files]]
-file = "mods/newagealexscaves-1.20.1-1.0.0.jar"
-hash = "082fd0b5ae9fea83498cb977756c61b703d93df9812848f61f7d1cc3ce4e0bec"
-
-[[files]]
 file = "mods/nimble.pw.toml"
 hash = "4ff439551590f448c7bf0e8fad7de94ecd21e86bfcb21101c6cb287f95f1b638"
 metafile = true
@@ -6894,8 +6900,9 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/onion_onion-1.20.1-2.0.3.jar"
-hash = "f221072e70734561736d1a0fc636831876e747bc209cec047eb92c09d6497576"
+file = "mods/onion-onion.pw.toml"
+hash = "6ccfc3d59842bfbfc2e49a195fd9cb22cf60a7636ef15b28e63d06107868a4e5"
+metafile = true
 
 [[files]]
 file = "mods/opack2reload.pw.toml"
@@ -7398,8 +7405,9 @@ hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
-file = "mods/smsn-forge-1.1.5+mc1.20.1.jar"
-hash = "420c2af488a7052842828d246761d1087105b464196119c387a5555b7bf819f7"
+file = "mods/smsn.pw.toml"
+hash = "d5212882f85391e027f16dd214e0c6c8d4fb25e9ea820ba6ad1ad58d2f4f9e15"
+metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
@@ -7697,8 +7705,9 @@ hash = "4a51e5a0f11ba9b7599dcea129862829bfd028c57bf9997f9513b38defbc7e51"
 metafile = true
 
 [[files]]
-file = "mods/threatengl-forge-1.3.3-release.2.jar"
-hash = "55626965088590e91859a2f352a11b9602c6ce871700777e3caaf96659f46b55"
+file = "mods/threatengl.pw.toml"
+hash = "5f2ad738c4d259b0d90c6246c0b44510afa04ce1e6000ae67b2a7113f999b53d"
+metafile = true
 
 [[files]]
 file = "mods/tide.pw.toml"
@@ -7810,8 +7819,9 @@ hash = "15af8d1b761076f112ac3a81edb2b2d5647688d7e30ea2460fe7841d43323b27"
 metafile = true
 
 [[files]]
-file = "mods/turtlechargingstation-1.6.0-1.20.1-forge.jar"
-hash = "bfb62f20868307c35fca86be911d8252543d09eb3ada6365987c8e287c44f94c"
+file = "mods/turtle-charging-station.pw.toml"
+hash = "a6bf4d8b6e943ce37f6bf9166efee0a634ea9dabff970446d033dc4b0f944cd4"
+metafile = true
 
 [[files]]
 file = "mods/twigs.pw.toml"
@@ -7854,8 +7864,9 @@ hash = "62ca870c6d8ce9ac3721d25e4f283d0916f0fd673260c497e109b03ad7b304fe"
 metafile = true
 
 [[files]]
-file = "mods/upgraded-mobs-1.3.4.jar"
-hash = "26c0f3a708af87b50de90afe3e6a2186dd94b2eda7db00ef863140c77cc77637"
+file = "mods/upgraded-mobs.pw.toml"
+hash = "6728fef02644e4fb4ea04f2f85fd3931ea846f3213256bbfd99057297857dfe1"
+metafile = true
 
 [[files]]
 file = "mods/urkaz-moon-tools.pw.toml"
@@ -8014,6 +8025,11 @@ metafile = true
 [[files]]
 file = "mods/workshop-for-handsome-adventurer.pw.toml"
 hash = "92cc6cc3e5856d8d086a386a9c03d8939ffedf569bcc203096fad367f87e0704"
+metafile = true
+
+[[files]]
+file = "mods/world-comment.pw.toml"
+hash = "81030d638c0c96eca0589c8fbe79d239d5d17984fa10e56b143b75c28239386d"
 metafile = true
 
 [[files]]

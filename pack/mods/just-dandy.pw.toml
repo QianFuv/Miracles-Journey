@@ -1,0 +1,13 @@
+name = "Just Dandy"
+filename = "just_dandy-1.20.1-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6xf9nu0K/versions/dMcZDCvl/just_dandy-1.20.1-2.1.6.jar"
+hash-format = "sha512"
+hash = "f189341a3118ecda5002b0d571c6b7abd3bb10babf414f1cbeae6ad4a510050c48440d64baa4d1522691ddca8ee39a2a1849936c9d98e2412f331a65a5d9d822"
+
+[update]
+[update.modrinth]
+mod-id = "6xf9nu0K"
+version = "dMcZDCvl"

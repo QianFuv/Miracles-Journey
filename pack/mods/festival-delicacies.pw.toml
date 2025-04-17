@@ -1,0 +1,13 @@
+name = "Festival Delicacies"
+filename = "festival_delicacies-1.20.1-1.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zcrRcvE0/versions/xjpVDMBR/festival_delicacies-1.20.1-1.0-beta.jar"
+hash-format = "sha512"
+hash = "809cc7006627dfd8edc689bb258a5035eed7bdb924855c720e986496966ded93184b27563f392476587ddb12ca012d751b126b655158b6aca6d22150eb740fa4"
+
+[update]
+[update.modrinth]
+mod-id = "zcrRcvE0"
+version = "xjpVDMBR"

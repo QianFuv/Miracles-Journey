@@ -1,0 +1,13 @@
+name = "Turtle Charging Station"
+filename = "turtlechargingstation-1.6.0-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f7J3NZvt/versions/IIWxrrzi/turtlechargingstation-1.6.0-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "91c838f3911226829ed8dc7c3351c959952710962cce7de4c96ed46722e055d594e0d33aa1e8fe40254eb627384b91feec74eb02a48d9b7f7e547ac8cb9b9b7c"
+
+[update]
+[update.modrinth]
+mod-id = "f7J3NZvt"
+version = "IIWxrrzi"
