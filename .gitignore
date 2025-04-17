@@ -1,4 +1,5 @@
 /.github/scripts/__pycache__
+/pack/mods/*.disabled
 /wiki/.vitepress/dist
 /wiki/.vitepress/cache
 /wiki/node_modules
