@@ -69,3 +69,49 @@ jobs:
         with:
           name: ${{ env.FILE_NAME }}
           path: pack/unzipped/
+
+      - name: 9. 提取当前版本更新日志
+        working-directory: .
+        run: |
+          python .github/scripts/get_changelog.py
+          if [ -f "CHANGELOG_NOW.md" ]; then
+            echo "CHANGELOG_EXISTS=true" >> $GITHUB_ENV
+          else
+            echo "CHANGELOG_EXISTS=false" >> $GITHUB_ENV
+          fi
+
+      - name: 10. 获取版本号
+        id: get_version
+        run: |
+          VERSION=$(grep -oP 'version\s*=\s*"\K[^"]+' pack.toml)
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "版本: $VERSION"
+
+      - name: 11. 更新 testpack 标签
+        run: |
+          cd ..
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          
+          # 检查标签是否存在，如果存在则删除
+          if git tag -l "testpack" | grep -q "testpack"; then
+            git tag -d testpack
+            git push origin :refs/tags/testpack || true
+          fi
+          
+          # 创建新标签
+          git tag -a testpack -m "Latest test build for version ${{ env.VERSION }}"
+          git push origin testpack
+
+      - name: 12. 创建或更新 GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: "testpack"
+          name: "Miracles-Journey-Testpack-${{ env.VERSION }}"
+          bodyFile: ${{ env.CHANGELOG_EXISTS == 'true' && 'CHANGELOG_NOW.md' || github.workspace }}
+          commit: ${{ github.sha }}
+          prerelease: true
+          draft: false
+          allowUpdates: true
+          removeArtifacts: true
+          artifacts: "pack/${{ env.FILE_PATH }}"
