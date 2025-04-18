@@ -7,7 +7,7 @@
   <p>
     <img src="https://img.shields.io/github/commits-since/QianFuv/Miracles-Journey/latest?style=plastic&color=blue" alt="Commits Since Latest Release" />
     <img src="https://img.shields.io/github/commit-activity/w/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Commit Activity" />
-    <img src="https://img.shields.io/github/actions/workflow/status/QianFuv/Miracles-Journey/testpack_build.yml?style=plastic&label=testpack build&color=blue" alt="Build Status" />
+    <img src="https://img.shields.io/github/actions/workflow/status/QianFuv/Miracles-Journey/testpack_build.yml?style=plastic&label=testpack%20build&color=blue" alt="Build Status" />
     <img src="https://img.shields.io/github/v/release/QianFuv/Miracles-Journey?style=plastic&color=blue" alt="Release" />
     <br>
     <img src="https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FQianFuv%2FMiracles-Journey%2Frefs%2Fheads%2Fmain%2Fpack%2Fpack.toml&query=versions.minecraft&style=plastic&label=minecraft&color=blue" alt="Minecraft Version" />
