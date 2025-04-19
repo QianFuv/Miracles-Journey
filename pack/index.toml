@@ -4334,7 +4334,7 @@ hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
 
 [[files]]
 file = "graalvm21/download.bat"
-hash = "8fbe16910b52f121a82b32a1f0f027826abcd5492b66b14ca6cc30674715f139"
+hash = "159fd748c6e10d0ab3c6cd8e44bab0eee736306d47316fcd18f5f2f58cf02238"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -4373,8 +4373,28 @@ file = "mods/Ars-Repairing-1.20.1-1.0.2.jar"
 hash = "005265838c36f78a0e58db93e9d6aca87be3087e552703fa08518ab173fed260"
 
 [[files]]
+file = "mods/CreateAbyssCatalysis-0.1.jar.disabled"
+hash = "fdde4371a130956b938335d731403acbae4cdfde0adc984b8da0e032e12cde6c"
+
+[[files]]
+file = "mods/Crystal-Clear-2.1-Beta-forge.jar.disabled"
+hash = "b2e60925d453e4067a17b48158a550c8e00cfd8b176eacbc4c8b92c6c5033d71"
+
+[[files]]
+file = "mods/I18nUpdateMod-3.6.2-all.jar.disabled"
+hash = "2061e0e682bb3ba361af8e2b8ebd93eb36fb1abd5356e90342cc66685f1f8f44"
+
+[[files]]
+file = "mods/PeacefulMoon-1.20.jar.disabled"
+hash = "11c69cd4daf2d3547eb3fbaf6f4c7a3554e7bf6df9dc0009478d8251eb0ae5af"
+
+[[files]]
 file = "mods/SimpleCustomEarlyLoading-1.20.x-dev.jar"
 hash = "33bb65750e84c2d5e108bd849561c8ee19649737085e5a8572935f10e32c70d3"
+
+[[files]]
+file = "mods/Steam_Rails-1.6.7+forge-mc1.20.1.jar.disabled"
+hash = "42a153910c6c528492936b2736516b3431bb69a4b93c63e855b850dc3ab2b88d"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -5026,6 +5046,10 @@ hash = "bdfe98c86ba63c3f8b39e1639920b898456346d913c7f2690feb193207fa74b7"
 metafile = true
 
 [[files]]
+file = "mods/compressedcreativity-1.20.1-0.1.8.b.jar.disabled"
+hash = "ef27562a1994a410479e4d1c2badd79f6fc061bf0d996156b56d6886978a16df"
+
+[[files]]
 file = "mods/config-api.pw.toml"
 hash = "41cbf8e1d9272563d4d669fdf6ffef2acb54a68d6067fa1e6f04b1103c5f7706"
 metafile = true
@@ -5074,6 +5098,10 @@ metafile = true
 file = "mods/cooking-for-blockheads.pw.toml"
 hash = "4df05f5b4ffd71d44d4a9d2572548b5fa34103e88c151cb7ed0cddb662eb677e"
 metafile = true
+
+[[files]]
+file = "mods/copycats-2.2.1+mc.1.20.1-forge.jar.disabled"
+hash = "a3b664b296552ffc9d52c8f13ade159d3ad1686674a3f1913bb532ddb2be4c15"
 
 [[files]]
 file = "mods/corgilib.pw.toml"
@@ -5295,6 +5323,22 @@ hash = "405ff79c6621a967dd641150b7cd5f10b33a0d646b976176f5d3b85f0731e61b"
 metafile = true
 
 [[files]]
+file = "mods/createbigcannons-5.8.2-mc.1.20.1-forge.jar.disabled"
+hash = "66455fe5c503f018056e69efc462f418957957bfa5d9d7068873a02386190c9e"
+
+[[files]]
+file = "mods/createenchantablemachinery-2.9.10-mc1.20.1-forge.jar.disabled"
+hash = "4522d4bc2f5506b9e4d8d1213abd5eeb3c75cba080215d817bdc00f54494a962"
+
+[[files]]
+file = "mods/createmetallurgy-0.0.6-1.20.1.jar.disabled"
+hash = "44d38fa6f4e03627e971b3c9aafa133b276739e362d68c9b2e04dfa12f1ee627"
+
+[[files]]
+file = "mods/createrailwaysnavigator-forge-1.20.1-beta-0.7.2.jar.disabled"
+hash = "de5a90a7fd8416c7234f02bb2ae3b15f3c2e70b0559b4c6ba2589686641db695"
+
+[[files]]
 file = "mods/createutilities.pw.toml"
 hash = "6a14085e5138a7c49b1b0c778d2832211f26ef65f726f19d39bececb511179a1"
 metafile = true
@@ -5408,6 +5452,10 @@ metafile = true
 file = "mods/deltaboxlib.pw.toml"
 hash = "0dfbd9dbbec6d213200d6da7e8f5bb3c02ea2f3ea4d2fa92e77a8f9a1e15241d"
 metafile = true
+
+[[files]]
+file = "mods/design_decor-0.4.0b-1.20.1.jar.disabled"
+hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
 
 [[files]]
 file = "mods/despawntweaker.pw.toml"
@@ -6409,6 +6457,10 @@ hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
 
 [[files]]
+file = "mods/littlecontraptions-forge-1.20.1.2.jar.disabled"
+hash = "d73ec6a9d281553e57da3c58c57f32f1320df0484c196e5d0282d3717cac1c20"
+
+[[files]]
 file = "mods/lmft.pw.toml"
 hash = "afca79f6ef3b857bfd147d4d7f9887ee433a73f8fcd1ec4476c49ac3349926d0"
 metafile = true
@@ -6837,6 +6889,10 @@ metafile = true
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
+
+[[files]]
+file = "mods/oculus-flywheel-compat-forge1.20.1+1.1.4.jar.disabled"
+hash = "811440638f88dc328f88de8d6ed0b42d4db08e84e0586457740ec424f3c99296"
 
 [[files]]
 file = "mods/oculus.pw.toml"
@@ -7659,6 +7715,10 @@ hash = "ad6bf9649c4a1cdc9643579cf708566f4eb25d6549ab0e3e26fe6f9edd2f75fc"
 metafile = true
 
 [[files]]
+file = "mods/tidesdelight-1.20.1-1.04.jar.disabled"
+hash = "133807cd91a3714289ae0865cb94b0c0d9575762e04314c56a135ab563e82c64"
+
+[[files]]
 file = "mods/tiered-forge.pw.toml"
 hash = "a9ea3abf0c68420a2fa4487d5719c95e4dc4ef26329903668e86970514b21f0e"
 metafile = true
@@ -7877,6 +7937,10 @@ metafile = true
 file = "mods/vintage-delight.pw.toml"
 hash = "50849065002ee424c74bf52a50e152a7bd269dae665a09d2581f86f55b1ae528"
 metafile = true
+
+[[files]]
+file = "mods/vintageimprovements-1.20.1-0.2.0.3.jar.disabled"
+hash = "7f58e22948968343fe37e7af1fe060a67e28f90e9cf869d50e600489393fd5ae"
 
 [[files]]
 file = "mods/visual-workbench.pw.toml"

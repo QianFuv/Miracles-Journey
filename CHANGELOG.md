@@ -20,22 +20,25 @@
   
   </details>
 - <details>
-
-  <summary> 新增模组（共 69 个） </summary>
-
-  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith、alex's caves addon、Alex's Caves: Trimmed!、Alex's Caves、Ars Botania、Ars Repairing、Botanic Pledge、Botarium、Cave Delight、Chat Boost、Crash pipe、Create: Fuel & Water Information、Create: New Age、Create: Oppenheimered、Create Optical、Daily Dad、Draggable Lists、Galosphere: Spellbooks、Illage and Spell-age: Iron's Spells Addon、Immersive Machinery、Loading Backgrounds、Lodestone、Malum、Mana Unification、Create: New Age / Alex's Caves Integration、OWorld2Create、Potions Master、Satisfying Buttons、Structurify、Supernatural、Tiny Alex's Caves Tweaks、HT's TreeChop、Turtle Charging Station、World Play Time、World Preview
+  <summary> 新增模组（共 113 个） </summary>
+  
+  Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith、alex's caves addon、Alex's Caves: Trimmed!、Alex's Caves、Ars Botania、Ars Repairing、Botanic Pledge、Botarium、Cave Delight、Chat Boost、Crash pipe、Create: Fuel & Water Information、Create: New Age、Create: Oppenheimered、Create Optical、Daily Dad、Draggable Lists、Galosphere: Spellbooks、Illage and Spell-age: Iron's Spells Addon、Immersive Machinery、Loading Backgrounds、Lodestone、Malum、Mana Unification、Create: New Age / Alex's Caves Integration、OWorld2Create、Potions Master、Satisfying Buttons、Structurify、Supernatural、Tiny Alex's Caves Tweaks、HT's TreeChop、Turtle Charging Station、World Play Time、World Preview、Aether: Lost Content Addon、AsyncParticles、Better Snowball Fight 3、Better Than Llamas、Bouncier Beds、Bountiful、BrassAmber BattleTowers、Cat Jammies、Connectible Chains、Crafting Tweaks、Create: Mobile Packages、Dimensional Dungeons、Dustrial Decor、Ender Mail、The Endergetic Expansion、Explorer's Compass Edited、Feywild、Heracles、Iglee's Library、Immersive Cooking、Immersive UI、Kambrik、Mermod、Overweight Farming、PaperDoll、Peculiars、Reactive Music、Relics、RSInfinityBooster、Sakura、Scholar、Simple Custom Early Loading、Slab Machines、Snuffles、Sophisticated Backpacks Container Blacklist、The Lost Cities、Tide、Tide's Delight、Reforged、Tumbleweed、UnionLib、Vending Machine、Warrior Rage、Yoyos
   
   </details>
 - 添加更新日志文件
 - 添加 FreeFileSync 同步脚本
+- 添加更新日志提取脚本
 
 ### 更改
 
 - <details>
-  <summary> 模组更新（共 79 次） </summary>
+
+  <summary> 模组更新（共 147 次） </summary>
+  
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
   - AllTheLeaks、Ars Nouveau's Flavors & Delight、Artifacts、Ascended Quark、Balm、Bubble boots、Corpse x Curios API Compat、Crabber's Delight、Create: Central Kitchen、Create : Creating Space、Create Encased、Create: Framed、Create Mechanical Spawner、Create、CustomSkinLoader、Data Anchor、Enhanced Celestials、Entity Culling、FastSuite、Friends&Foes、Create: Garnished、GeckoLib、Goety、Hopo Better Mineshaft、Hopo Better Ruined Portals、Hopo Better Underwater Ruins、I18nUpdateMod、Integrated Dungeons and Structures、Immersive Aircraft、L2 Library、L_Ender 's Cataclysm、Loot Integrations、Not Enough Animations、Pineapple Delight、Quark、Moonlight Lib、Smarter Farmers、Save My Shaky Network、Some Assembly Required、Sophisticated Core、Sound Physics Remastered、Stardew Fishing、Supplementaries、Towers of the Wild Modded、TrashSlot、Urkaz Moon Tools、WATERMeDIA、What Are They Up To、Villager Workers、YetAnotherConfigLib、Zeta
+  - AllTheLeaks、Ars Elemental、Artifacts、Balm、Biomes O' Plenty、Blueprint、Botania、Chat Heads、Chloride、ChoiceTheorem's Overhauled Village、Collective、Cookielicious、Crash Assistant、Create: Central Kitchen、Create: Connected、Create Deco、Create: Deepfried、Create Encased、Create: Framed、Create: Trading Floor、CreativeCore、Cultural Delights、Dimensional Dungeons、Doggy Talents Next、Drippy Loading Screen、Ender's Delight、Exquisito、Extra Disks、ExtraSounds Next、FancyMenu、Flerovium、FLIB、Create: Garnished、Goety、Guns Without Roses、Hearths、Integrated API、Iron's Spells 'n Spellbooks、The New Shutters、L_Ender 's Cataclysm、Luncheon Meat 'S Delight、Meet Your Fight、ModernFix、Modular Golems、mutil、Oreganized、Polymorph、Puzzles Lib、Moonlight Lib、Simple Custom Early Loading、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Sound Physics Remastered、Stardew Fishing、Structure Essentials、Supplementaries、Tetra、ThreatenGL、TofuCraftReload、Trail&Tales Delight、Upgrade Aquatic、WATERFrAMES、WorldComment、Xtra Arrows、Yuushya Townscape、Zeta
   
   </details>
   
@@ -54,6 +57,16 @@
 - 开启动态资源加载（实验性）
 - 开启夸克双开门设置
 - MemoryLeakFix 使用 Modrinth 源
+- 降级 Curios 版本
+- 关闭 Forge 版本检查
+- 更改禁用模组的管理逻辑
+- 调整 ChatBoost 配置
+- 调整状态效果和信息提示的样式
+- 调整小地图和世界地图配置
+- 自定义暂停界面布局
+- 调整拾取提示的速度和显示时间
+- 自定义资源包界面布局
+- 使用 Modrinth 代理替换非 Curseforge 模组
 
 ### 删除
 
@@ -61,7 +74,14 @@
 
   <summary> 删除模组（共 3 个） </summary>
 
-  ChatImage、Display Delight、Screenshot Sharing、UtilitX
+  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight
+  
+  </details>
+  
+- <details>
+  <summary> 删除资源包（共 1 个） </summary>
+  
+  Updated Aquaculture、Yuushya 16x
   
   </details>
 
@@ -73,6 +93,7 @@
 - 修复落叶粒子失效
 - 修复 HUD 部分图标显示错误
 - 修复 JEI 错误空位
+- 修复仓库 Readme Badge 失效
 
 <details>
 
