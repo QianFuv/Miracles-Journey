@@ -21,15 +21,21 @@
   Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit、AeR - Blue Icestone、AeR - Consistent Bushes、AeR - Super Veridium、AeR - Vanilla Shaped
   
   </details>
+
 - <details>
+
   <summary> 新增模组（共 113 个） </summary>
   
   Aquamirae Delight、Ars Nouveau's Flavors & Delight、Baked Delight、Barbeque's Delight、Brazilian Delight、Create: Aquatic Ambitions、Create Mechanical Spawner、Create : Misc & Things、Create: Sweets & Treats、Create：Abyss Catalysis、Create: Addon Compatibility、Delightful Burgers、Deltabox Lib、Display Delight、Effecticularity、Fruits Delight、Frycook's Delight、Jellyfishing Delight、Jellyfishing、Luncheon Meat 'S Delight、Maturi Delight、Muffin's Thai's Delight、Pizza Delight、Silent's Delight、Slavic Delight、Spanish Delight、Tofu Delight、TofuCraftReload、Trail&Tales Delight、Ube's Delight、Veggies Delight、Vintage Delight、ChoiceTheorem's Overhauled Village、Lithostitched、Terralith、alex's caves addon、Alex's Caves: Trimmed!、Alex's Caves、Ars Botania、Ars Repairing、Botanic Pledge、Botarium、Cave Delight、Chat Boost、Crash pipe、Create: Fuel & Water Information、Create: New Age、Create: Oppenheimered、Create Optical、Daily Dad、Draggable Lists、Galosphere: Spellbooks、Illage and Spell-age: Iron's Spells Addon、Immersive Machinery、Loading Backgrounds、Lodestone、Malum、Mana Unification、Create: New Age / Alex's Caves Integration、OWorld2Create、Potions Master、Satisfying Buttons、Structurify、Supernatural、Tiny Alex's Caves Tweaks、HT's TreeChop、Turtle Charging Station、World Play Time、World Preview、Aether: Lost Content Addon、AsyncParticles、Better Snowball Fight 3、Better Than Llamas、Bouncier Beds、Bountiful、BrassAmber BattleTowers、Cat Jammies、Connectible Chains、Crafting Tweaks、Create: Mobile Packages、Dimensional Dungeons、Dustrial Decor、Ender Mail、The Endergetic Expansion、Explorer's Compass Edited、Feywild、Heracles、Iglee's Library、Immersive Cooking、Immersive UI、Kambrik、Mermod、Overweight Farming、PaperDoll、Peculiars、Reactive Music、Relics、RSInfinityBooster、Sakura、Scholar、Simple Custom Early Loading、Slab Machines、Snuffles、Sophisticated Backpacks Container Blacklist、The Lost Cities、Tide、Tide's Delight、Reforged、Tumbleweed、UnionLib、Vending Machine、Warrior Rage、Yoyos
   
   </details>
+
 - 添加更新日志文件
+
 - 添加 FreeFileSync 同步脚本
+
 - 添加更新日志提取脚本（供 Action 使用）
+
 - 添加 Prerelease 自动发布功能，便利没有 Github 账号的玩家下载
 
 ### 更改
@@ -94,6 +100,7 @@
 ### 删除
 
 - <details>
+
   <summary> 删除模组（共 6 个） </summary>
   
   ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight
@@ -101,6 +108,7 @@
   </details>
   
 - <details>
+
   <summary> 删除资源包（共 2 个） </summary>
   
   Updated Aquaculture、Yuushya 16x
@@ -110,12 +118,19 @@
 ### 修复
 
 - 修复 CIT 失效
+
 - 解决滚轮逻辑冲突
+
 - 修复内存清扫配置失效
+
 - 修复落叶粒子失效
+
 - 修复 HUD 部分图标显示错误
+
 - 修复 JEI 错误空位
+
 - 修复仓库 Readme Badge 失效
+
 - 修复 Action 权限不足
 
 <details>
