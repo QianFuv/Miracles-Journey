@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      actions: write
-      contents: read
+      contents: write
     
     defaults:
       run:
@@ -88,24 +87,24 @@ jobs:
           echo "版本: $VERSION"
 
       - name: 11. 更新 testpack 标签
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
         run: |
           cd ..
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          
-          # 检查标签是否存在，如果存在则删除
+          git config --global user.name "QianFuv"
+          git config --global user.email "qianfuv@qq.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/QianFuv/Miracles-Journey.git
           if git tag -l "testpack" | grep -q "testpack"; then
             git tag -d testpack
             git push origin :refs/tags/testpack || true
           fi
-          
-          # 创建新标签
           git tag -a testpack -m "Latest test build for version ${{ env.VERSION }}"
           git push origin testpack
 
       - name: 12. 创建或更新 GitHub Release
         uses: ncipollo/release-action@v1
         with:
+          token: ${{ secrets.TOKEN }}
           tag: "testpack"
           name: "Miracles-Journey-Testpack-${{ env.VERSION }}"
           bodyFile: ${{ env.CHANGELOG_EXISTS == 'true' && 'CHANGELOG_NOW.md' || github.workspace }}

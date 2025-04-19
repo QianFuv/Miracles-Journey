@@ -8,9 +8,11 @@
 
 > [!IMPORTANT]
 >
-> 此版本 MC 大版本由 1.19.2 升级到 1.20.1，模组有诸多变化，所以**存档无法兼容**，敬请谅解！
+> 此版本 MC 大版本由 1.19.2 升级到 1.20.1，模组有诸多变化，也将重新开始配置，所以**存档无法兼容**，敬请谅解！
 
 ### 新增
+
+> 资源包新增计数为从 0 开始，模组新增计数为全部模组从 1.19.2 迁移至 1.20.1 后开始。 
 
 - <details>
 
@@ -27,7 +29,8 @@
   </details>
 - 添加更新日志文件
 - 添加 FreeFileSync 同步脚本
-- 添加更新日志提取脚本
+- 添加更新日志提取脚本（供 Action 使用）
+- 添加 Prerelease 自动发布功能，便利没有 Github 账号的玩家下载
 
 ### 更改
 
@@ -42,44 +45,63 @@
   
   </details>
   
-- 更新字体为 Noto Sans SC
-- 调整药水状态位置
+- 更新字体为[方舟像素字体 - 传承字形](https://github.com/TakWolf/ark-pixel-font-inherited)
+
 - 测试版构建取消使用自部署 Worker
-- 调整部分模组配置（较小侵入性修改）
+
 - 更新 Issue 模板相关链接
+
 - 更新文档依赖
+
 - 更新文档教程以适配 0.4.0
+
 - 夸克配置全面调整
+
 - 配置开局装备
+
 - 更改部分模组绑定按键
+
 - 关闭女仆妖精生成
+
 - 关闭加载屏幕的狗狗
-- 开启动态资源加载（实验性）
+
+- 开启动态资源加载（**实验性**）
+
 - 开启夸克双开门设置
+
 - MemoryLeakFix 使用 Modrinth 源
+
 - 降级 Curios 版本
+
 - 关闭 Forge 版本检查
+
 - 更改禁用模组的管理逻辑
+
 - 调整 ChatBoost 配置
+
 - 调整状态效果和信息提示的样式
+
 - 调整小地图和世界地图配置
+
 - 自定义暂停界面布局
+
 - 调整拾取提示的速度和显示时间
+
 - 自定义资源包界面布局
+
 - 使用 Modrinth 代理替换非 Curseforge 模组
 
 ### 删除
 
 - <details>
-
-  <summary> 删除模组（共 3 个） </summary>
-
+  <summary> 删除模组（共 6 个） </summary>
+  
   ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight
   
   </details>
   
 - <details>
-  <summary> 删除资源包（共 1 个） </summary>
+  <summary> 删除资源包（共 2 个） </summary>
   
   Updated Aquaculture、Yuushya 16x
   
@@ -94,6 +116,7 @@
 - 修复 HUD 部分图标显示错误
 - 修复 JEI 错误空位
 - 修复仓库 Readme Badge 失效
+- 修复 Action 权限不足
 
 <details>
 
