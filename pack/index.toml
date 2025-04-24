@@ -1646,7 +1646,7 @@ hash = "aff530e3c4943da0bb9d47723785ad21929bf93892dcb12dc2c3783ec7688648"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c2cffcba336d94885467743a4133db46dd103bcbc299b48c3f3ccabbb73080f9"
+hash = "a6a5e0ada38ccbd2ab9c494db7935152822ab3ea2de9ef1807758ce9d40719af"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2362,7 +2362,7 @@ hash = "77b5b58e59686f9b15018cff229cd49946a2120f39acc9573a73704ab50d5366"
 
 [[files]]
 file = "config/fml.toml"
-hash = "3ee3691e84f66327fe87d6d76b3daeee48c62a0dafe3a6997e6daef56f64b73a"
+hash = "fc47c0e1a52dd22532c82bb61fd506c051f2fe58213ca354f089f2ddd1ec0a03"
 
 [[files]]
 file = "config/footprintparticle.json"
@@ -4387,10 +4387,6 @@ hash = "2061e0e682bb3ba361af8e2b8ebd93eb36fb1abd5356e90342cc66685f1f8f44"
 [[files]]
 file = "mods/PeacefulMoon-1.20.jar.disabled"
 hash = "11c69cd4daf2d3547eb3fbaf6f4c7a3554e7bf6df9dc0009478d8251eb0ae5af"
-
-[[files]]
-file = "mods/SimpleCustomEarlyLoading-1.20.x-dev.jar"
-hash = "33bb65750e84c2d5e108bd849561c8ee19649737085e5a8572935f10e32c70d3"
 
 [[files]]
 file = "mods/Steam_Rails-1.6.7+forge-mc1.20.1.jar.disabled"

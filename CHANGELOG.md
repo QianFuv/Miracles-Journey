@@ -103,7 +103,7 @@
 
   <summary> 删除模组（共 6 个） </summary>
   
-  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight
+  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Simple Custom Early Loading
   
   </details>
   
