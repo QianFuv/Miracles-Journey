@@ -97,11 +97,25 @@
 
 - 使用 Modrinth 代理替换非 Curseforge 模组
 
+- 开启 DFU 优化
+
+- 统一测试版命名
+
+- 后移 123 云盘上传并忽略错误（不稳定）
+
+- 提高 Java 下载脚本解压速度
+
+- 将测试版构建添加到预发布中
+
+- 添加更新日志提取脚本
+
+- 使用 VaultPatcher 修复锻造之艺
+
 ### 删除
 
 - <details>
 
-  <summary> 删除模组（共 6 个） </summary>
+  <summary> 删除模组（共 7 个） </summary>
   
   ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Simple Custom Early Loading
   

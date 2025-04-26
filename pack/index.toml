@@ -1646,7 +1646,7 @@ hash = "aff530e3c4943da0bb9d47723785ad21929bf93892dcb12dc2c3783ec7688648"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "a6a5e0ada38ccbd2ab9c494db7935152822ab3ea2de9ef1807758ce9d40719af"
+hash = "f6fcb13b926fce881a9e48acb6780a614cea9d858297753e7bfb8e0170e14ccb"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -4598,8 +4598,9 @@ hash = "cdcc42a6d70281c2d3e391c79bb828b30a5c2d95e066d928464a512995cb40dc"
 metafile = true
 
 [[files]]
-file = "mods/art_of_forging-1.8.3-1.20.1-patched.jar"
-hash = "e14a2c77048b4ccce96f10b76bbbc891f4042f34cea9211005156fb6b34b8ed4"
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "36291d22a203786b8e00ac34126d592a2d57732f1a7a9f031697e22f1d85933b"
+metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
@@ -8488,6 +8489,90 @@ hash = "ac476b017d4e572d8462023acab0027c9ce16127be4659fbd882575b2d7019f9"
 [[files]]
 file = "vaultpatcher/patch/me/flashyreese/mods/sodiumextra/mixin/reduce_resolution_on_mac/MixinWindow.class"
 hash = "ed1203a0abd1eae7e00e56d7f1bdc0e93b3478740d71982513a832932062785d"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/DismountingEffect.class"
+hash = "8f88e5bf68b39f4525f1b06a3261ef7acd3ec21c591788827dd4168f0f1cc57d"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/DisorientingEffect.class"
+hash = "70284f94c6978f8de905d75fb14814543ea7a6be07b5bf82679b399faf150011"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/DragonMistEffect.class"
+hash = "c5f864701e45e23645d51f0b605c0f6c564563e612b6bf0398e770f0751207ae"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/EvokingMawEffect.class"
+hash = "e27b98ceb30f1d7ae0bde931faf6d99307144ad78d0ef2cbc33ea5ef5eb8a28d"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/FeastingEffect.class"
+hash = "29d26f0e69e08df0357845899545ca2a41e30eb0dec6562c0fcd4631ef2a7bb0"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/InfernalRebukeEffect.class"
+hash = "d1733670c01828015dd179759cc405e48992445d00df0cef467f8b60031ec36d"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/JudgementEffect.class"
+hash = "a322f0b639f918dda09f2173ae8d91bfba65c058b91dc1eb3b676edbb7dbe984"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/LifeStealEffect.class"
+hash = "325197dc0098eb0a214307d4993c3af2e4ad855d985ec14020ac07b67dddaa5b"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/ResolveEffect.class"
+hash = "e7379ee8a192b78bd91fb9baa136910fe082c0e6b19415b48f5bde167ea1f1e9"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/RetributionEffect.class"
+hash = "ea287d64b5865e5ec13edd0f02ed5c083764a1bd4cbc1a3be21eb63f34fb57f8"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/SlaughteringEffect.class"
+hash = "dbca04245f7c026ec56f5a400640bc87c998c67848908e28fd87dea69d24adfb"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/SonicShockEffect.class"
+hash = "c49d79dcfdc855705b4ad6c0c125a26e8e3da841dc448e1c037ad4d005b030fd"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/SoulChargedEffect.class"
+hash = "56881733adc4ba227b3b35aae6b4148c97dd3a6483e33972b1c7e3abdab16f10"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/StormCallerEffect.class"
+hash = "f0831d248363157956418a5aa3f19c23a30b95b849b4da88f43238269200a6fb"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/VengeanceEffect.class"
+hash = "0a6b028b698a9472bcbc834af472a894af2df83d86bc3f89e7de53cff1d624a1"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/WitheringEffect.class"
+hash = "bf93116bfccaefe3d61cb8e955ce1e49b84ac71522b8c6e3b0c408b31955db81"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/curio/CurioGlowingEffect.class"
+hash = "3071293214430b0af6e3a0a603760dc43459668673411d7b5fd7ef0f0f1561c9"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/curio/CurioKarmaEffect.class"
+hash = "941102404e0258dba7ff6dbc8b5fde2cd44b246a215fca4fa069105c05767220"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/curio/CurioMagicResistanceEffect.class"
+hash = "3ba5eccda61ac6c44c0bffb52f97cf6dbf0d45a86aee48da3aec6d8eb1c9c779"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/effects/gui/EffectGuiStats.class"
+hash = "63b1b0f85b0d73207f6c314dda5cea606b0e19f089a583643e1385c1b2c23a28"
+
+[[files]]
+file = "vaultpatcher/patch/net/acetheeldritchking/art_of_forging/item/modular/ModularArtifact.class"
+hash = "bf3f82036822b6fa392e92246d967845e584a388571631eae686d7146b532e90"
 
 [[files]]
 file = "vaultpatcher/patch/snownee/minieffects/mixin/jei/InventoryEffectRendererGuiHandlerMixin.class"
