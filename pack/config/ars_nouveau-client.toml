@@ -28,7 +28,7 @@
 	yTooltip = 0
 	#X offset for the Mana Bar
 	#Range: > -2147483648
-	xManaBar = 0
+	xManaBar = 25
 	#Y offset for the Mana Bar
 	#Range: > -2147483648
 	yManaBar = 0
