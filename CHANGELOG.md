@@ -111,6 +111,16 @@
 
 - 使用 VaultPatcher 修复锻造之艺
 
+- 优化进度牌匾字体颜色
+
+- 关闭视频设置内的 XaeroPlus 页面
+
+- 调整纸娃娃面向角度
+
+- 调整魔力条位置
+
+- 关闭 InventoryHUD 物品栏提示
+
 ### 删除
 
 - <details>

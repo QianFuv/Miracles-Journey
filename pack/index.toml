@@ -110,7 +110,7 @@ hash = "b6d15c6368aa4a63f1aaea55f40ece9ac0b7eb051063c0a3744116a488ef4411"
 
 [[files]]
 file = "config/advancementplaques-common.toml"
-hash = "6e67084769c1b382f961fb40b4430a8572f25bc599f4164e52d15a800b93daf1"
+hash = "22efd5b9da4816ae115a1a95b667ba394e13e475d32bcac1f13a0aabe168f99d"
 
 [[files]]
 file = "config/aeroblender-common.toml"
@@ -770,7 +770,7 @@ hash = "f2f8cd685cf4496d9a9c8b471c7f484126c690b2777a64f4526a0deee343d33c"
 
 [[files]]
 file = "config/ars_nouveau-client.toml"
-hash = "240343ce50d099b12dac2f16f787631af07488829bc0fe5d59ca364c8cb5bf48"
+hash = "ac2030162acb285960e6b98706ecf81a80df3f34a15532ba8c83db2544a47a6f"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -2690,7 +2690,7 @@ hash = "af1074083254e25f03149abdfcadad5b4227f5f675ffa5311e3a9c5e0aa0d4fe"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
-hash = "deb4bc33c291665e56cbfc7ba7472c0b8c1fed39355d4b5ee22b64b444b145dc"
+hash = "b5d7aca8140784ffa4c2faef112d67c560448cac0e7c3297aa360530f3579b70"
 
 [[files]]
 file = "config/ironfurnaces-client.toml"
@@ -3246,7 +3246,7 @@ hash = "3a061cf93df17f94c375bef31cf2f5f4821457d7061fdeb3d581de8a03e04d6f"
 
 [[files]]
 file = "config/paperdoll.json"
-hash = "c92c7773a23bd5ce54bf3f1390766dd55ec02a4293ae8ee246fd80dc08d53e5b"
+hash = "e834681768c44b0e0411e946dd39687a45c1082b0a5bc7af3bd1ae4d310f91df"
 
 [[files]]
 file = "config/parcool-client.toml"
@@ -4274,7 +4274,7 @@ hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "9d2627273cce43494fd6b5bf4e3ae5df57fe5ca6323255f6c922858ad7437a81"
+hash = "df8981c2b23b7509b0b40f933ea323498d636b013205fe0afc2e0a8e27fd9042"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
