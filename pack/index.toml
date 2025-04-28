@@ -7347,6 +7347,11 @@ hash = "cd09a652479857b51f049d73ee45f41c443f5172f421fe506d625b8c0b7b5ace"
 metafile = true
 
 [[files]]
+file = "mods/simple-custom-early-loading.pw.toml"
+hash = "fb75a4a971823a5d22c578bdf457c97c8f72f77d7e151509ac9947ce49de506a"
+metafile = true
+
+[[files]]
 file = "mods/simplehats.pw.toml"
 hash = "9982ecd54ac42374a1949e01ac7eda3deeed4721d86fcbb0199baf6cc6796500"
 metafile = true
