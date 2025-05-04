@@ -11,9 +11,9 @@
     "modId": "oworld2create",
     "version": "1.0.0"
   },
-  "[forge]ctov-3.4.13.jar": {
+  "[forge]ctov-3.4.14.jar": {
     "modId": "ctov",
-    "version": "3.4.13"
+    "version": "3.4.14"
   },
   "abnormals_delight-1.20.1-5.0.0.jar": {
     "modId": "abnormals_delight",
@@ -71,9 +71,9 @@
     "modId": "alexscaves",
     "version": "2.0.2"
   },
-  "alexscavesdelight-1.0.23-1.20.1.jar": {
+  "alexscavesdelight-1.0.26-1.20.1.jar": {
     "modId": "alexscavesdelight",
-    "version": "1.0.23-1.20.1"
+    "version": "1.0.26-1.20.1"
   },
   "alexscavestrimmed-2.0.0.jar": {
     "modId": "alexscaves_trimmed",
@@ -91,13 +91,13 @@
     "modId": "allarrowsinfinityfix",
     "version": "1.5"
   },
-  "alltheleaks-0.1.3-beta+1.20.1-forge.jar": {
+  "alltheleaks-0.1.4-beta+1.20.1-forge.jar": {
     "modId": "alltheleaks",
-    "version": "0.1.3-beta+1.20.1-forge"
+    "version": "0.1.4-beta+1.20.1-forge"
   },
-  "almostunified-forge-1.20.1-0.9.4.jar": {
+  "almostunified-forge-1.20.1-0.9.5.jar": {
     "modId": "almostunified",
-    "version": "1.20.1-0.9.4"
+    "version": "1.20.1-0.9.5"
   },
   "AmbientEnvironment-forge-1.20.1-11.0.0.1.jar": {
     "modId": "ambientenvironment",
@@ -159,9 +159,9 @@
     "modId": "ars_artifice",
     "version": "1.20.1-2.0.4"
   },
-  "ars_botania-1.0.0.jar": {
+  "ars_botania-1.0.1.jar": {
     "modId": "ars_botania",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "ars_creo-1.20.1-4.3.0.jar": {
     "modId": "ars_creo",
@@ -199,9 +199,9 @@
     "modId": "ash_api",
     "version": "3.0.2+1.20.1"
   },
-  "AsyncParticles-1.10.0+1.20.1-beta.0.jar": {
+  "AsyncParticles-1.10.1+1.20.1-beta.1.jar": {
     "modId": "asyncparticles",
-    "version": "1.10.0+1.20.1-beta.0"
+    "version": "1.10.1+1.20.1-beta.1"
   },
   "AttributeFix-Forge-1.20.1-21.0.4.jar": {
     "modId": "attributefix",
@@ -375,9 +375,9 @@
     "modId": "bountiful",
     "version": "6.0.4+1.20.1"
   },
-  "braziliandelight-1.1.0-all.jar": {
+  "braziliandelight-2.0.1-forge-1.20.1.jar": {
     "modId": "braziliandelight",
-    "version": "1.1.0"
+    "version": "2.0.1"
   },
   "BrewinAndChewin-1.20.1-3.2.1.jar": {
     "modId": "brewinandchewin",
@@ -459,9 +459,9 @@
     "modId": "charmofundying",
     "version": "6.5.0+1.20.1"
   },
-  "chat_heads-0.13.16-forge-1.20.jar": {
+  "chat_heads-0.13.18-forge-1.20.jar": {
     "modId": "chat_heads",
-    "version": "0.13.16"
+    "version": "0.13.18"
   },
   "ChatBoost-forge-1.1.4.jar": {
     "modId": "chatboost",
@@ -479,9 +479,9 @@
     "modId": "chimes",
     "version": "2.0.1"
   },
-  "chloride-FORGE-mc1.20.1-v1.5.5.jar": {
+  "chloride-FORGE-mc1.20.1-v1.6.0.jar": {
     "modId": "chloride",
-    "version": "1.5.5"
+    "version": "1.6.0"
   },
   "ChowderExpress-1.20.1-2.0.0.jar": {
     "modId": "chowderexpress",
@@ -535,9 +535,9 @@
     "modId": "cofh_core",
     "version": "11.0.2"
   },
-  "collective-1.20.1-8.1.jar": {
+  "collective-1.20.1-8.3.jar": {
     "modId": "collective",
-    "version": "8.1"
+    "version": "8.3"
   },
   "collectorsreap-1.20.1-1.3.4.jar": {
     "modId": "collectorsreap",
@@ -588,6 +588,10 @@
     "modId": "cookingforblockheads",
     "version": "16.0.13"
   },
+  "copycats-3.0.0+mc.1.20.1-forge.jar": {
+    "modId": "copycats",
+    "version": "3.0.0+mc.1.20.1-forge"
+  },
   "Corgilib-Forge-1.20.1-4.0.3.3.jar": {
     "modId": "corgilib",
     "version": "4.0.3.3"
@@ -632,9 +636,9 @@
     "modId": "craftingtweaks",
     "version": "18.2.5"
   },
-  "crash_assistant-forge-1.19.2-1.20.1-1.7.4.jar": {
+  "CrashAssistant-forge-1.19.2-1.20.1-1.7.18.jar": {
     "modId": "crash_assistant",
-    "version": "1.7.4"
+    "version": "1.7.18"
   },
   "cratedelight-24.11.29-1.20-forge.jar": {
     "modId": "cratedelight",
@@ -648,17 +652,17 @@
     "modId": "create",
     "version": "6.0.4"
   },
-  "create-new-age-forge-1.20.1-1.1.3.jar": {
+  "create-new-age-forge-1.20.1-1.1.4.jar": {
     "modId": "create_new_age",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   "create-track-map-1.4+mc1.20.1-neoforge.jar": {
     "modId": "createtrackmap",
     "version": "1.4"
   },
-  "create_aquatic_ambitions_forge-1.20.1-1.1.3.jar": {
+  "create_aquatic_ambitions-1.20.1-1.1.5.jar": {
     "modId": "create_aquatic_ambitions",
-    "version": "1.20.1-1.1.1"
+    "version": "1.20.1-1.1.5"
   },
   "create_central_kitchen-1.20.1-for-create-6.0.4-1.4.0.d.jar": {
     "modId": "create_central_kitchen",
@@ -688,13 +692,13 @@
     "modId": "create_things_and_misc",
     "version": "1.0.0"
   },
-  "create_mobile_packages-0.2.3.jar": {
+  "create_mobile_packages-1.20.1-0.4.1.jar": {
     "modId": "create_mobile_packages",
-    "version": "0.2.3"
+    "version": "0.4.1"
   },
-  "Create_Mortar_Mango_Edition-0.1.3-mod.jar": {
+  "Create_Mortar_Mango_Edition-mod-1.20.1-0.1.4.jar": {
     "modId": "create_mortar",
-    "version": "0.1.3"
+    "version": "0.1.4"
   },
   "create_oppenheimered-1.0.5.jar": {
     "modId": "create_oppenheimered",
@@ -736,9 +740,17 @@
     "modId": "createdeco",
     "version": "2.0.3-1.20.1-forge"
   },
+  "createenchantablemachinery-3.3.3+mc1.20.1-forge.jar": {
+    "modId": "createenchantablemachinery",
+    "version": "3.3.3"
+  },
   "createframed-1.20.1-1.6.3.jar": {
     "modId": "createframed",
     "version": "1.6.3"
+  },
+  "createmetallurgy-0.0.7-C6-1.20.1.jar": {
+    "modId": "createmetallurgy",
+    "version": "0.0.7-C6-1.20.1"
   },
   "createutilities-0.3.1+1.20.1.jar": {
     "modId": "createutilities",
@@ -776,9 +788,9 @@
     "modId": "cupboard",
     "version": "1.20.1-2.7"
   },
-  "curios-forge-5.12.0+1.20.1.jar": {
+  "curios-forge-5.14.1+1.20.1.jar": {
     "modId": "curios",
-    "version": "5.12.0+1.20.1"
+    "version": "5.14.1+1.20.1"
   },
   "customcredits-1.20.1-1.7.jar": {
     "modId": "customcredits",
@@ -792,9 +804,9 @@
     "modId": "dailydad",
     "version": "1.6.0"
   },
-  "damageindicator-2.1.0-1.20.1.jar": {
+  "damageindicator-2.2.1-1.20.1.jar": {
     "modId": "damageindicator",
-    "version": "2.1.0-1.20.1"
+    "version": "2.2.1-1.20.1"
   },
   "DarkPaintings-Forge-1.20.1-17.0.4.jar": {
     "modId": "darkpaintings",
@@ -804,9 +816,9 @@
     "modId": "darkutils",
     "version": "17.0.5"
   },
-  "Data_Anchor-forge-1.20.1-1.0.0.13.jar": {
+  "Data_Anchor-forge-1.20.1-1.0.0.15.jar": {
     "modId": "dataanchor",
-    "version": "1.0.0.13"
+    "version": "1.0.0.15"
   },
   "Dave\u0027s Potioneering-forge-1.20.1-12.jar": {
     "modId": "davespotioneering",
@@ -840,9 +852,9 @@
     "modId": "delightfulburgers",
     "version": "1.20.1"
   },
-  "deltaboxlib-1.1.3.jar": {
+  "deltaboxlib-2.1.1-forge-1.20.1.jar": {
     "modId": "deltaboxlib",
-    "version": "1.1.3"
+    "version": "2.1.1"
   },
   "despawn_tweaker-1.20.1-1.0.0.jar": {
     "modId": "despawn_tweaker",
@@ -884,17 +896,17 @@
     "modId": "display_case",
     "version": "1.0.8"
   },
-  "dixtas_armory-1.2.0-1.20.1.jar": {
+  "dixtas_armory-1.3.1-1.20.1.jar": {
     "modId": "dixtas_armory",
-    "version": "1.2.0-1.20.1"
+    "version": "1.3.1-1.20.1"
   },
   "doespotatotick-1.20.1-4.0.2.jar": {
     "modId": "doespotatotick",
     "version": "1.20.1-4.0.2"
   },
-  "DoggyTalentsNext-1.20.1-1.18.46.jar": {
+  "DoggyTalentsNext-1.20.1-1.18.49.jar": {
     "modId": "doggytalents",
-    "version": "1.18.46"
+    "version": "1.18.49"
   },
   "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar": {
     "modId": "draggable_lists",
@@ -1032,9 +1044,9 @@
     "modId": "endermanoverhaul",
     "version": "1.0.4"
   },
-  "endersdelight-forge-1.20.1-1.1.2.jar": {
+  "endersdelight-forge-1.20.1-1.1.3.jar": {
     "modId": "endersdelight",
-    "version": "1.1.2"
+    "version": "1.1.3"
   },
   "EnderStorage-1.20.1-2.11.0.188-universal.jar": {
     "modId": "enderstorage",
@@ -1092,13 +1104,13 @@
     "modId": "experienced_crops",
     "version": "1.20.1-1.1.0"
   },
-  "explorerscompass-edited-1.20.1-1.3.7-forge.jar": {
+  "explorerscompass-edited-1.20.1-1.3.8-forge.jar": {
     "modId": "explorerscompass",
     "version": "1.20.1-1.3.3-forge"
   },
-  "exposure-1.20.1-1.7.10-forge.jar": {
+  "exposure-1.20.1-1.7.13-forge.jar": {
     "modId": "exposure",
-    "version": "1.7.10"
+    "version": "1.7.13"
   },
   "Exquisito-1.20.1-2.5.2-hotfix.jar": {
     "modId": "exquisito",
@@ -1192,9 +1204,9 @@
     "modId": "flamesweeping",
     "version": "1.20.1-1.0.0"
   },
-  "flerovium-forge-1.20.1-1.2.7-all.jar": {
+  "flerovium-forge-1.20.1-1.2.10-all.jar": {
     "modId": "flerovium",
-    "version": "1.2.7"
+    "version": "1.2.10"
   },
   "flib-1.20.1-0.0.15.jar": {
     "modId": "flib",
@@ -1212,9 +1224,9 @@
     "modId": "footprintparticle",
     "version": "0.5.2-mc1.20"
   },
-  "forgery-3.5.8+1.20.jar": {
+  "forgery-3.6.0+1.20.jar": {
     "modId": "fabrication",
-    "version": "3.5.8+1.20"
+    "version": "3.6.0+1.20"
   },
   "framework-forge-1.20.1-0.7.12.jar": {
     "modId": "framework",
@@ -1232,9 +1244,9 @@
     "modId": "frycooks_delight",
     "version": "1.20.1-1.0.1"
   },
-  "ftb-chunks-forge-2001.3.5.jar": {
+  "ftb-chunks-forge-2001.3.6.jar": {
     "modId": "ftbchunks",
-    "version": "2001.3.5"
+    "version": "2001.3.6"
   },
   "ftb-library-forge-2001.2.9.jar": {
     "modId": "ftblibrary",
@@ -1300,7 +1312,7 @@
     "modId": "glued",
     "version": "1.0"
   },
-  "gml-4.0.9-all.jar": {},
+  "gml-4.0.11-all.jar": {},
   "goated-1.20-1.3.4.jar": {
     "modId": "goated",
     "version": "1.20-1.3.4"
@@ -1309,13 +1321,13 @@
     "modId": "goblintraders",
     "version": "1.9.3"
   },
-  "goety-2.5.31.5.jar": {
+  "goety-2.5.33.0.jar": {
     "modId": "goety",
-    "version": "2.5.31.5"
+    "version": "2.5.33.0"
   },
-  "goety_spillage-1.20-1.2.4.jar": {
+  "goety_spillage-1.20-1.3.0.jar": {
     "modId": "goety_spillage",
-    "version": "1.20-1.2.4"
+    "version": "1.20-1.3.0"
   },
   "gpumemleakfix-1.20.1-1.8.jar": {
     "modId": "gpumemleakfix",
@@ -1329,9 +1341,9 @@
     "modId": "grassoverhaul",
     "version": "23.10.10"
   },
-  "great_scrollable_tooltips-15.4.0-beta.1+forge.jar": {
+  "great_scrollable_tooltips-15.4.0+forge.jar": {
     "modId": "great_scrollable_tooltips",
-    "version": "15.4.0-beta.1+forge"
+    "version": "15.4.0+forge"
   },
   "greendelights-1.0.1-1.20.1.jar": {
     "modId": "greendelights",
@@ -1441,9 +1453,9 @@
     "modId": "immersive_cooking",
     "version": "2.0.1"
   },
-  "immersive_machinery-0.1.1+1.20.1-forge.jar": {
+  "immersive_machinery-0.2.0+1.20.1-forge.jar": {
     "modId": "immersive_machinery",
-    "version": "0.1.1+1.20.1"
+    "version": "0.2.0+1.20.1"
   },
   "ImmersiveUI-FORGE-0.3.0.jar": {
     "modId": "immersiveui",
@@ -1489,9 +1501,9 @@
     "modId": "ironfurnaces",
     "version": "4.1.6"
   },
-  "irons_spellbooks-1.20.1-3.4.0.8.jar": {
+  "irons_spellbooks-1.20.1-3.4.0.9.jar": {
     "modId": "irons_spellbooks",
-    "version": "1.20.1-3.4.0.8"
+    "version": "1.20.1-3.4.0.9"
   },
   "ITank-1.20.1-2.1.0.jar": {
     "modId": "itank",
@@ -1553,9 +1565,9 @@
     "modId": "kambrik",
     "version": "6.1.1+1.20.1"
   },
-  "Kiwi-1.20.1-Forge-11.8.30.jar": {
+  "Kiwi-1.20.1-Forge-11.8.31.jar": {
     "modId": "kiwi",
-    "version": "11.8.30+forge"
+    "version": "11.8.31+forge"
   },
   "kleeslabs-forge-1.20.1-15.0.6.jar": {
     "modId": "kleeslabs",
@@ -1846,17 +1858,17 @@
     "modId": "modpackupdatechecker",
     "version": "0.15.4"
   },
-  "modulargolems-2.5.15.jar": {
+  "modulargolems-2.5.19.jar": {
     "modId": "modulargolems",
-    "version": "2.5.15"
+    "version": "2.5.19"
   },
   "monobank-1.20.1-1.1.4.jar": {
     "modId": "monobank",
     "version": "1.1.4"
   },
-  "moonlight-1.20-2.13.81-forge.jar": {
+  "moonlight-1.20-2.13.83-forge.jar": {
     "modId": "moonlight",
-    "version": "1.20-2.13.81"
+    "version": "1.20-2.13.83"
   },
   "More Additional Paintings-1.0.1 Forge 1.20.1.jar": {
     "modId": "vanilla__pixel_paintings",
@@ -1998,9 +2010,9 @@
     "modId": "oculus",
     "version": "1.8.0"
   },
-  "onion_onion-1.20.1-2.0.3.jar": {
+  "onion_onion-1.20.1-2.0.4.jar": {
     "modId": "onion_onion",
-    "version": "2.0.3"
+    "version": "2.0.4"
   },
   "Oreganized 1.20.1-4.0.0.carcinogenious.jar": {
     "modId": "oreganized",
@@ -2026,9 +2038,9 @@
     "modId": "paintings",
     "version": "11.0.0.2"
   },
-  "paperdoll-forge-1.2.7-mc1.20.1.jar": {
+  "paperdoll-forge-1.3.0-mc1.20.1.jar": {
     "modId": "paperdoll",
-    "version": "1.2.7"
+    "version": "1.3.0"
   },
   "ParCool-1.20.1-3.3.1.1.jar": {
     "modId": "parcool",
@@ -2102,9 +2114,9 @@
     "modId": "polylib",
     "version": "2000.0.3-build.143"
   },
-  "polymorph-forge-0.49.9+1.20.1.jar": {
+  "polymorph-forge-0.49.10+1.20.1.jar": {
     "modId": "polymorph",
-    "version": "0.49.9+1.20.1"
+    "version": "0.49.10+1.20.1"
   },
   "portfolio-1.20.1-1.4.0-forge.jar": {
     "modId": "portfolio",
@@ -2138,9 +2150,9 @@
     "modId": "mr_qraftys_endvillages",
     "version": "1"
   },
-  "Quark-4.0-461.jar": {
+  "Quark-4.0-462.jar": {
     "modId": "quark",
-    "version": "4.0-461"
+    "version": "4.0-462"
   },
   "quark_delight_1.0.0_forge_1.20.1.jar": {
     "modId": "quarkdelight",
@@ -2266,9 +2278,9 @@
     "modId": "rusticpancakes",
     "version": "1.1.0"
   },
-  "Sakura-1.0.8-1.20.1.jar": {
+  "Sakura-1.0.9-1.20.1.jar": {
     "modId": "sakura",
-    "version": "1.0.8-1.20.1"
+    "version": "1.0.9-1.20.1"
   },
   "sapience-1.20.1-1.0.0.jar": {
     "modId": "sapience",
@@ -2338,9 +2350,9 @@
     "modId": "shieldexp",
     "version": "1.2.2"
   },
-  "shutter-2.1.2-1.20.1.jar": {
+  "shutter-2.1.4-1.20.1.jar": {
     "modId": "shutter",
-    "version": "2.1.2-1.20.1"
+    "version": "2.1.4-1.20.1"
   },
   "silentsdelight-forge-1.0.1-1.20.1.jar": {
     "modId": "silentsdelight",
@@ -2387,9 +2399,9 @@
     "modId": "smoothchunk",
     "version": "1.20.1-4.1"
   },
-  "smsn-forge-1.1.5+mc1.20.1.jar": {
+  "smsn-forge-1.1.6+mc1.20.1.jar": {
     "modId": "smsn",
-    "version": "1.1.5+mc1.20.1"
+    "version": "1.1.6+mc1.20.1"
   },
   "SnowRealMagic-1.20.1-Forge-10.6.1.jar": {
     "modId": "snowrealmagic",
@@ -2407,25 +2419,25 @@
     "modId": "solapplepie",
     "version": "1.20.1-2.3.0"
   },
-  "some-assembly-required-1.20.1-4.1.1.jar": {
+  "some-assembly-required-1.20.1-4.2.0.jar": {
     "modId": "some_assembly_required",
-    "version": "1.20.1-4.1.1"
+    "version": "1.20.1-4.2.0"
   },
-  "sophisticatedbackpacks-1.20.1-3.23.11.1222.jar": {
+  "sophisticatedbackpacks-1.20.1-3.23.14.1233.jar": {
     "modId": "sophisticatedbackpacks",
-    "version": "3.23.11.1222"
+    "version": "3.23.14.1233"
   },
-  "sophisticatedcore-1.20.1-1.2.42.946.jar": {
+  "sophisticatedcore-1.20.1-1.2.51.966.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.2.42.946"
+    "version": "1.2.51.966"
   },
-  "sophisticatedstorage-1.20.1-1.3.29.1117.jar": {
+  "sophisticatedstorage-1.20.1-1.3.40.1140.jar": {
     "modId": "sophisticatedstorage",
-    "version": "1.3.29.1117"
+    "version": "1.3.40.1140"
   },
-  "sophisticatedstoragecreateintegration-1.20.1-0.1.8.26.jar": {
+  "sophisticatedstoragecreateintegration-1.20.1-0.1.9.28.jar": {
     "modId": "sophisticatedstoragecreateintegration",
-    "version": "0.1.8.26"
+    "version": "0.1.9.28"
   },
   "soul-fire-d-forge-1.20.1-4.0.11.jar": {
     "modId": "soul_fire_d",
@@ -2459,25 +2471,25 @@
     "modId": "spyglass_improvements",
     "version": "1.5+mc1.20+forge"
   },
-  "stackrefill-1.20.1-4.6.jar": {
+  "stackrefill-1.20.1-4.7.jar": {
     "modId": "stackrefill",
-    "version": "4.6"
+    "version": "4.7"
   },
   "starbunclemania-1.20.1-1.2.3.0.jar": {
     "modId": "starbunclemania",
     "version": "1.20.1-1.2.3.0"
   },
-  "stardew_fishing-1.20.1-2.2.jar": {
+  "stardew_fishing-1.20.1-2.3.jar": {
     "modId": "stardew_fishing",
-    "version": "2.2"
+    "version": "2.3"
   },
   "starlight-1.1.2+forge.1cda73c.jar": {
     "modId": "starlight",
     "version": "1.1.2+forge.1cda73c"
   },
-  "starterkit-1.20.1-7.3.jar": {
+  "starterkit-1.20.1-7.4.jar": {
     "modId": "starterkit",
-    "version": "7.3"
+    "version": "7.4"
   },
   "storagedelight-25.03.09-1.20-forge.jar": {
     "modId": "storagedelight",
@@ -2519,9 +2531,9 @@
     "modId": "supersaturation",
     "version": "1.20.1-5.0.0"
   },
-  "supplementaries-1.20-3.1.26.jar": {
+  "supplementaries-1.20-3.1.30.jar": {
     "modId": "supplementaries",
-    "version": "1.20-3.1.26"
+    "version": "1.20-3.1.30"
   },
   "suppsquared-1.20-1.1.21.jar": {
     "modId": "suppsquared",
@@ -2627,10 +2639,6 @@
     "modId": "tide",
     "version": "1.5.0"
   },
-  "Tiered-1.20.1-6.0.8-Forge.jar": {
-    "modId": "tiered",
-    "version": "1.20.1-6.0.8-Forge"
-  },
   "tinyfoes-1.20.1-1.1-forge.jar": {
     "modId": "tinyfoes",
     "version": "1.20.1-1.1"
@@ -2671,9 +2679,9 @@
     "modId": "totw_modded",
     "version": "1.0.6"
   },
-  "touhoulittlemaid-1.20.1-release-1.2.1.jar": {
+  "touhoulittlemaid-1.20.1-release-1.2.2-hotfix.jar": {
     "modId": "touhou_little_maid",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "Towns-and-Towers-1.12-Fabric+Forge.jar": {
     "modId": "t_and_t",
@@ -2683,13 +2691,9 @@
     "modId": "trade_cycling",
     "version": "1.20.1-1.0.17"
   },
-  "trading_floor-forge-1.20.1-2.0.2.jar": {
-    "modId": "trading_floor",
-    "version": "2.0.2"
-  },
-  "trailandtales_delight-forge 1.20.1-all.jar": {
+  "trailandtales_delight-1.3-all.jar": {
     "modId": "trailandtales_delight",
-    "version": "1.1.5"
+    "version": "1.3"
   },
   "transmog-forge-1.3.0+1.20.jar": {
     "modId": "transmog",
@@ -2735,10 +2739,6 @@
     "modId": "underground_villages",
     "version": "2.1.0"
   },
-  "UnionLib-1.20.1-10.2.7-Forge.jar": {
-    "modId": "unionlib",
-    "version": "10.2.7"
-  },
   "UniversalBoneMeal-v8.0.1-1.20.1-Forge.jar": {
     "modId": "universalbonemeal",
     "version": "8.0.1"
@@ -2775,9 +2775,9 @@
     "modId": "variantsandventures",
     "version": "1.0.6"
   },
-  "vaultpatcher-all-1.4.4+1.jar": {
+  "vaultpatcher-all-1.4.4+3.jar": {
     "modId": "vaultpatcher",
-    "version": "1.4.4+1"
+    "version": "1.4.4+3"
   },
   "veggiesdelight-1.7.2.jar": {
     "modId": "veggiesdelight",
@@ -2839,9 +2839,9 @@
     "modId": "waterframes",
     "version": "2.1.14"
   },
-  "watermedia-2.1.23.jar": {
+  "watermedia-2.1.24.jar": {
     "modId": "watermedia",
-    "version": "2.1.23"
+    "version": "2.1.24"
   },
   "watut-forge-1.20.1-1.2.3.jar": {
     "modId": "watut",
@@ -2883,9 +2883,9 @@
     "modId": "worldplaytime",
     "version": "1.2.3"
   },
-  "XaeroPlus-2.26.5+forge-1.20.1-WM1.39.4-MM25.2.0.jar": {
+  "XaeroPlus-2.26.7+forge-1.20.1-WM1.39.4-MM25.2.0.jar": {
     "modId": "xaeroplus",
-    "version": "2.26.5"
+    "version": "2.26.7"
   },
   "Xaeros_Minimap_25.2.0_Forge_1.20.jar": {
     "modId": "xaerominimap",
@@ -2899,9 +2899,9 @@
     "modId": "xercamusic",
     "version": "1.20.1-1.0.2"
   },
-  "xtraarrows-3.0.11-forge-mc1.20.1.jar": {
+  "xtraarrows-3.0.12-forge-mc1.20.1.jar": {
     "modId": "xtraarrows",
-    "version": "3.0.11"
+    "version": "3.0.12"
   },
   "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar": {
     "modId": "yeetusexperimentus",
@@ -2971,9 +2971,9 @@
     "modId": "ywzj_midi",
     "version": "1.20.1-forge-1.9.1"
   },
-  "Zeta-1.0-29.jar": {
+  "Zeta-1.0-30.jar": {
     "modId": "zeta",
-    "version": "1.0-29"
+    "version": "1.0-30"
   },
   "zetter-1.20.1-0.21.5.jar": {
     "modId": "zetter",

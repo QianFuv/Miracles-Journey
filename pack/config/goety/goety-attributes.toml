@@ -156,7 +156,7 @@
 			#How much natural Armor Crushers have, Default: 0.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			crusherArmor = 0.0
-			#How much damage Crushers deals, Default: 10.0
+			#How much damage Crushers deals, Default: 12.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			crusherDamage = 10.0
 
@@ -263,6 +263,9 @@
 			#How much Max Health Haunted Armor have, Default: 25.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			hauntedArmorHealth = 25.0
+			#How much damage Haunted Armor deals, Default: 3.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			hauntedArmorDamage = 3.0
 
 	[Attributes."Summoned Mobs"]
 

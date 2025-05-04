@@ -107,6 +107,14 @@
 			#If Redstone Monstrosities have custom textures, Default: true
 			redstoneMonstrosityTexture = true
 
+		[Textures."Summoned Mobs"."Reaper Servants"]
+			#If Reaper Servants have custom textures, Default: true
+			reaperServantTexture = true
+
+		[Textures."Summoned Mobs"."Guardian Servants"]
+			#If Guardian Servants have custom textures, Default: true
+			guardianServantTexture = true
+
 [Servants]
 	#Whether Servants can teleport to Players, Default: false
 	servantTeleport = false
@@ -142,6 +150,8 @@
 	servantHealHalt = 5
 	#Whether certain servants being ridden by other servants will not be controlled by their rider., Default: false
 	servantRideAutonomous = false
+	#Whether mobs owned by player outside of Goety Servants can heal while wearing appropriate robes, Default: true
+	compatMinionHeal = true
 
 	[Servants."Undead Servants"]
 		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false
@@ -152,7 +162,7 @@
 		undeadServantSunlightBurn = true
 		#Whether Undead Servants' helmet take damage when in Sunlight. Only takes effect if undeadServantSunlightBurn is enabled, Default: true
 		undeadServantSunlightHelmet = true
-		#Whether owned Necromancers drop Soul Jars, Default: true
+		#Whether owned Necromancers fills Empty Soul Jars, Default: true
 		necromancerSoulJar = true
 		#Whether Necromancer's summons have limited lifespans, Default: true
 		necromancerSummonsLife = true
@@ -389,6 +399,14 @@
 			#Must have no more and no less than 8 integers
 			maverickRaidCount = [0, 1, 0, 1, 0, 0, 0, 1]
 
+		[Illagers.Raid.Heretic]
+			#Whether Heretics appear in Raids, Default: true
+			hereticRaid = true
+			#How many Heretics each wave
+			#Requires game restart
+			#Must have no more and no less than 8 integers
+			hereticRaidCount = [0, 0, 0, 1, 0, 0, 2, 1]
+
 [Villagers]
 	#Wearing a Robe, along with variants, causes Villagers around the Player to have a negative Reputation unless said Player has 25 or more reputation among them, Default: false
 	villagerHate = false
@@ -405,37 +423,6 @@
 	traderConvertMaverick = true
 
 [Misc]
-	#Whether Wights can spawn near players that have a high amount of Soul Energy, Default: true
-	wightSpawn = true
-	#How many ticks it takes for Wights to spawn, Default: 24000
-	#Range: > 0
-	wightSpawnFreq = 24000
-	#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 10
-	#Range: > 0
-	wightSpawnChance = 10
-	#Whether Goety Mobs can spawn in Overworld-like modded dimensions, Default: false
-	interDimensionalMobs = false
-	#Spawn Weight for Warlock, Default: 5
-	#Range: > 0
-	warlockSpawnWeight = 5
-	#Spawn Weight for Reaper, Default: 10
-	#Range: > 0
-	reaperSpawnWeight = 10
-	#Spawn Weight for Wraith, Default: 20
-	#Range: > 0
-	wraithSpawnWeight = 20
-	#Spawn Weight for Web Spiders, Default: 40
-	#Range: > 0
-	webSpiderSpawnWeight = 40
-	#Spawn Weight for Necromancer, Default: 1
-	#Range: > 0
-	necromancerSpawnWeight = 1
-	#Spawn Weight for Heretic, Default: 5
-	#Range: > 0
-	hereticSpawnWeight = 5
-	#Spawn Weight for Maverick, Default: 5
-	#Range: > 0
-	maverickSpawnWeight = 5
 	#Whether Mobs with Tall Heads(ie. Villagers, Illagers, etc.) will drop Tall Skulls, Default: true
 	tallSkullDrop = true
 	#Whether Wraiths should teleport towards their targets if they can't see them instead of just teleporting away when they're near them, Default: true
@@ -446,9 +433,6 @@
 	hellfireFireProtection = true
 	#Whether undead mobs in the Crypts remain hostile even if players wear Necro Set, Default: true
 	hostileCryptUndead = true
-	#Spawn Weight for Icy Spiders, Default: 40
-	#Range: > 0
-	icySpiderSpawnWeight = 40
 
 	[Misc.Apostle]
 		#Apostle spreads Nether biomes, and Nether Meteors deals environmental damage and spread Nether biomes as well. WARNING: Causes lots of lag. Default: false
@@ -473,4 +457,115 @@
 		obsidianMonolithSpread = true
 		#Whether unowned Obsidian Monoliths, empowered by Heretics, change Overworld biomes to Nether biomes, Default: true
 		obsidianMonolithBiome = true
+
+[Spawning]
+
+	[Spawning.Wight]
+		#Whether Wights can spawn near players that have a high amount of Soul Energy, Default: true
+		wightSpawn = true
+		#How many ticks it takes for Wights to spawn, Default: 24000
+		#Range: > 0
+		wightSpawnFreq = 24000
+		#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 10
+		#Range: > 0
+		wightSpawnChance = 10
+
+	[Spawning.Warlock]
+		#Spawn Weight for Warlock, Default: 5
+		#Range: > 0
+		warlockSpawnWeight = 5
+		#Spawn minimum group count for Warlock, Default: 1
+		#Range: > 1
+		warlockSpawnMinCount = 1
+		#Spawn maximum group count for Warlock, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		warlockSpawnMaxCount = 1
+
+	[Spawning.Reaper]
+		#Spawn Weight for Reaper, Default: 10
+		#Range: > 0
+		reaperSpawnWeight = 10
+		#Spawn minimum group count for Reaper, Default: 1
+		#Range: > 1
+		reaperSpawnMinCount = 1
+		#Spawn maximum group count for Reaper, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		reaperSpawnMaxCount = 1
+
+	[Spawning.Wraith]
+		#Spawn Weight for Wraith, Default: 20
+		#Range: > 0
+		wraithSpawnWeight = 20
+		#Spawn minimum group count for Wraith, Default: 1
+		#Range: > 1
+		wraithSpawnMinCount = 1
+		#Spawn maximum group count for Wraith, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		wraithSpawnMaxCount = 1
+
+	[Spawning."Muck Wraith"]
+		#Spawn Weight for Muck Wraith, Default: 20
+		#Range: > 0
+		muckWraithSpawnWeight = 20
+		#Spawn minimum group count for Muck Wraith, Default: 1
+		#Range: > 1
+		muckWraithSpawnMinCount = 1
+		#Spawn maximum group count for Muck Wraith, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		muckWraithSpawnMaxCount = 1
+
+	[Spawning."Web Spider"]
+		#Spawn Weight for Web Spiders, Default: 40
+		#Range: > 0
+		webSpiderSpawnWeight = 40
+		#Spawn minimum group count for Web Spiders, Default: 4
+		#Range: > 1
+		webSpiderSpawnMinCount = 4
+		#Spawn maximum group count for Web Spiders, must be equal or higher than min count, Default: 4
+		#Range: > 1
+		webSpiderSpawnMaxCount = 4
+
+	[Spawning."Icy Spider"]
+		#Spawn Weight for Icy Spiders, Default: 40
+		#Range: > 0
+		icySpiderSpawnWeight = 40
+		#Spawn minimum group count for Icy Spiders, Default: 4
+		#Range: > 1
+		icySpiderSpawnMinCount = 4
+		#Spawn maximum group count for Icy Spiders, must be equal or higher than min count, Default: 4
+		#Range: > 1
+		icySpiderSpawnMaxCount = 4
+
+	[Spawning.Necromancer]
+		#Spawn Weight for Necromancer, Default: 1
+		#Range: > 0
+		necromancerSpawnWeight = 1
+		#Spawn minimum group count for Necromancer, Default: 1
+		#Range: > 1
+		necromancerSpawnMinCount = 1
+		#Spawn maximum group count for Necromancer, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		necromancerSpawnMaxCount = 1
+
+	[Spawning.Heretic]
+		#Spawn Weight for Heretic, Default: 5
+		#Range: > 0
+		hereticSpawnWeight = 5
+		#Spawn minimum group count for Heretic, Default: 1
+		#Range: > 1
+		hereticSpawnMinCount = 1
+		#Spawn maximum group count for Heretic, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		hereticSpawnMaxCount = 1
+
+	[Spawning.Maverick]
+		#Spawn Weight for Maverick, Default: 5
+		#Range: > 0
+		maverickSpawnWeight = 5
+		#Spawn minimum group count for Maverick, Default: 1
+		#Range: > 1
+		maverickSpawnMinCount = 1
+		#Spawn maximum group count for Maverick, must be equal or higher than min count, Default: 1
+		#Range: > 1
+		maverickSpawnMaxCount = 1
 

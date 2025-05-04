@@ -183,4 +183,6 @@
 	lichScrollRequirement = true
 	#Whether the player in Lich Mode will emit Lich sounds, Default: true
 	lichModeSounds = true
+	#Whether players lose their lichdom if they don't have enough Soul Energy to revive, Default: true
+	lichNoSERemove = true
 

@@ -1,13 +1,13 @@
 name = "Goety - The Dark Arts"
-filename = "goety-2.5.31.5.jar"
+filename = "goety-2.5.33.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dd3510b515535382dcfb4bd714b92cb62b31f26f"
+hash = "4995becfa15a93258ee15222a485965ae99b6d1b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6366932
+file-id = 6475771
 project-id = 586095

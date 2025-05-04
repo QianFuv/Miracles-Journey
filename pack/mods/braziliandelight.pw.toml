@@ -1,13 +1,13 @@
 name = "Brazilian Delight"
-filename = "braziliandelight-1.1.0-all.jar"
+filename = "braziliandelight-2.0.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "495a04f99bc9230ccf49087c539893179cc41dee"
+hash = "b047e7fea5fd67bfa2acbf20bc7cedfaa8abf7af"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5734884
+file-id = 6433448
 project-id = 1094418

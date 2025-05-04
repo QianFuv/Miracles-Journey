@@ -1,13 +1,13 @@
 name = "Alex's Caves Delight"
-filename = "alexscavesdelight-1.0.23-1.20.1.jar"
+filename = "alexscavesdelight-1.0.26-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/c9CEGwyC/versions/kKZDwhFE/alexscavesdelight-1.0.23-1.20.1.jar"
-hash-format = "sha512"
-hash = "aca98e61cac1d1bf2613626220b59b7c57304fb1ea42733bdf53ee26bef8c4a9b5c083b940a77e42699543f8fdf07a1a9872d3685dc6c1a245c5a065f555d1f8"
+hash-format = "sha1"
+hash = "cbf8d3c1464311f7461fefd888f1daadb4f050f9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "c9CEGwyC"
-version = "kKZDwhFE"
+[update.curseforge]
+file-id = 6441650
+project-id = 1035901

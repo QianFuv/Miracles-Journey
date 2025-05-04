@@ -1,13 +1,13 @@
 name = "Stack Refill"
-filename = "stackrefill-1.20.1-4.6.jar"
+filename = "stackrefill-1.20.1-4.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cc54e5cdf07abf0139ea52d42f20e93a394588d"
+hash = "30926d30a4aa4c83e1f009a5cebcf83eb243e2df"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6185105
+file-id = 6494406
 project-id = 411813

@@ -52,4 +52,13 @@
 	#Number of Ragnos that an individual player can have in total, Default: 1
 	#Range: > 1
 	ragnoLimit = 1
+	#How many Engineer Machines (Chagrin, Hinder, Factory) owned by a player or servant can be placed 100 blocks near them, Default: 3
+	#Range: > 1
+	engineerMachineLimit = 3
+	#How many Factory Servants (Beeper, Sniper, Poker) made by a Factory owned by a player or servant can be placed 100 blocks near them, Default: 5
+	#Range: > 1
+	factoryServantLimit = 5
+	#Number of Zombie Absorbers that an individual player can have in total, Default: 2
+	#Range: > 1
+	zombieAbsorberLimit = 2
 

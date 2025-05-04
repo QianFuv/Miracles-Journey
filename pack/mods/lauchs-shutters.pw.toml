@@ -1,13 +1,13 @@
 name = "The New Shutters"
-filename = "shutter-2.1.2-1.20.1.jar"
+filename = "shutter-2.1.4-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "28583068a42a1e7809fe25c24205eff3ed7acdbd"
+hash = "38d42a17ee2533d4ccc0129d766d25b9ac8e70dd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6388766
+file-id = 6487208
 project-id = 714019

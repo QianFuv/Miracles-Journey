@@ -150,6 +150,10 @@
 	#The maximum historical conversation length cached by the maid
 	#Range: 1 ~ 128
 	MaidMaxHistoryChatSize = 16
+	#STT Url address, currently only the player2 app is supported
+	STTUrl = "http://127.0.0.1:4315/v1/stt"
+	#STT Proxy Address, such as 127.0.0.1:1080, empty is no proxy, SOCKS proxies are not supported
+	STTProxyAddress = ""
 
 [render]
 	EnableCompassTip = true

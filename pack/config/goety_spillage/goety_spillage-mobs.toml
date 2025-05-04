@@ -3,3 +3,20 @@
 	#Having an owned Ragno, causes Villagers around the Player to have a negative Reputation, Default: true
 	villagerHateRagno = true
 
+[Servants]
+	#Whether Hinders made by players or servants will stop healing after a while and enter cooldown, Default: true
+	hinderCool = true
+	#If 'hinderCool' is enabled, how long Hinders can heal before entering cooldown, count seconds, Default: 5
+	#Range: > 0
+	hinderHealTime = 5
+	#If 'hinderCool' is enabled, how long Hinders' cooldown last before they can heal again, count seconds, Default: 10
+	#Range: > 0
+	hinderCoolTime = 10
+
+	[Servants."Undead Servants"]
+		#Whether Zombie Absorbers can heal if summoned while wearing Necro Cape, Default: true
+		zombieAbsorberHeal = true
+		#How frequent Zombie Absorbers heal, count seconds, Default: 60
+		#Range: > 0
+		zombieAbsorberHealTime = 60
+

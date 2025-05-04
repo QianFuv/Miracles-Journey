@@ -197,6 +197,9 @@
 		#Define the Mining Level for Special Tools, example, 3 = Diamond, 4 = Netherite, Default: 3
 		#Range: > 0
 		specialToolsMiningLevel = 3
+		#How many seconds Rampaging Axe gives Rampage for, Default: 10
+		#Range: > 1
+		rampagingAxeDuration = 10
 
 	["Tools & Weapons".Misc]
 		#How much damage Philosopher's Mace deals, Default: 9.0

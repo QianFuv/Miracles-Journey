@@ -1,13 +1,13 @@
 name = "Save My Shaky Network"
-filename = "smsn-forge-1.1.5+mc1.20.1.jar"
+filename = "smsn-forge-1.1.6+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oXzIQwRj/versions/CwmHWT1I/smsn-forge-1.1.5%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/oXzIQwRj/versions/rerRVnUr/smsn-forge-1.1.6%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "51f575c925539a227d74943e39d88c33129adb6cdb6a2441053a7348a96300efd0299fd0da681b701ffa042132851a107b24990e8de5235eee639b20c89d7a0b"
+hash = "da7f9407415dcb3771909c21ec3aa9d71d94c755ae90135512c3a6701b667f356ef097b4ae9e0161460ca29898c04696b37719c954df95227bb50500378d8478"
 
 [update]
 [update.modrinth]
 mod-id = "oXzIQwRj"
-version = "CwmHWT1I"
+version = "rerRVnUr"

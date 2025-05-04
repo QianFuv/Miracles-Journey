@@ -46,10 +46,21 @@
 			#How much Max Health Ragno Servants have, Default: 180.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			ragnoServantHealth = 180.0
-			#How much natural armor points Ragno Servants have, Default: 0.0
+			#How much natural armor points Ragno Servants have, Default: 10.0
 			#Range: 0.0 ~ 1.7976931348623157E308
 			ragnoServantArmor = 0.0
 			#How much damage Ragno Servants deals, Default: 5.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			ragnoServantDamage = 5.0
+
+		[Attributes."Summoned Mobs"."Zombie Absorber"]
+			#How much Max Health Zombie Absorbers have, Default: 200.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			zombieAbsorberHealth = 100.0
+			#How much natural armor points Zombie Absorbers have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			zombieAbsorberArmor = 0.0
+			#How much damage Zombie Absorbers deals, Default: 15.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			zombieAbsorberDamage = 15.0
 

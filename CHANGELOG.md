@@ -42,12 +42,12 @@
 
 - <details>
 
-  <summary> 模组更新（共 147 次） </summary>
-  
+  <summary> 模组更新（共 208 次） </summary>
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
   - AllTheLeaks、Ars Nouveau's Flavors & Delight、Artifacts、Ascended Quark、Balm、Bubble boots、Corpse x Curios API Compat、Crabber's Delight、Create: Central Kitchen、Create : Creating Space、Create Encased、Create: Framed、Create Mechanical Spawner、Create、CustomSkinLoader、Data Anchor、Enhanced Celestials、Entity Culling、FastSuite、Friends&Foes、Create: Garnished、GeckoLib、Goety、Hopo Better Mineshaft、Hopo Better Ruined Portals、Hopo Better Underwater Ruins、I18nUpdateMod、Integrated Dungeons and Structures、Immersive Aircraft、L2 Library、L_Ender 's Cataclysm、Loot Integrations、Not Enough Animations、Pineapple Delight、Quark、Moonlight Lib、Smarter Farmers、Save My Shaky Network、Some Assembly Required、Sophisticated Core、Sound Physics Remastered、Stardew Fishing、Supplementaries、Towers of the Wild Modded、TrashSlot、Urkaz Moon Tools、WATERMeDIA、What Are They Up To、Villager Workers、YetAnotherConfigLib、Zeta
   - AllTheLeaks、Ars Elemental、Artifacts、Balm、Biomes O' Plenty、Blueprint、Botania、Chat Heads、Chloride、ChoiceTheorem's Overhauled Village、Collective、Cookielicious、Crash Assistant、Create: Central Kitchen、Create: Connected、Create Deco、Create: Deepfried、Create Encased、Create: Framed、Create: Trading Floor、CreativeCore、Cultural Delights、Dimensional Dungeons、Doggy Talents Next、Drippy Loading Screen、Ender's Delight、Exquisito、Extra Disks、ExtraSounds Next、FancyMenu、Flerovium、FLIB、Create: Garnished、Goety、Guns Without Roses、Hearths、Integrated API、Iron's Spells 'n Spellbooks、The New Shutters、L_Ender 's Cataclysm、Luncheon Meat 'S Delight、Meet Your Fight、ModernFix、Modular Golems、mutil、Oreganized、Polymorph、Puzzles Lib、Moonlight Lib、Simple Custom Early Loading、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Sound Physics Remastered、Stardew Fishing、Structure Essentials、Supplementaries、Tetra、ThreatenGL、TofuCraftReload、Trail&Tales Delight、Upgrade Aquatic、WATERFrAMES、WorldComment、Xtra Arrows、Yuushya Townscape、Zeta
+  - Alex's Caves Delight、AllTheLeaks、Almost Unified、Ars Botania、AsyncParticles、Brazilian Delight、Chat Heads、Chloride、ChoiceTheorem's Overhauled Village、Collective、Create: Copycats+、Crash Assistant、Create: Aquatic Ambitions、Create: Enchantable Machinery、Create: Metallurgy、Create: Mobile Packages、Create: Mortar - Mango Edition、Create: New Age、Curios API、Data Anchor、Deltabox Lib、dixta's Armory、Doggy Talents Next、Ender's Delight、Explorer's Compass Edited、Exposure、Flerovium、Forgery、FTB Chunks、GroovyModLoader、Goety & Spillage、Goety、Great Scrollable Tooltips、Immersive Machinery、Iron's Spells 'n Spellbooks、JeremySeq's Damage Indicators、Kiwi、The New Shutters、Modular Golems、Onion Onion、PaperDoll、Polymorph、Quark、Sakura、Moonlight Lib、Save My Shaky Network、Some Assembly Required、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Stack Refill、Stardew Fishing、Starter Kit、Supplementaries、Trail&Tales Delight、Vault Patcher、WATERMeDIA、XaeroPlus、Xtra Arrows、Zeta
   
   </details>
   
@@ -107,8 +107,6 @@
 
 - 将测试版构建添加到预发布中
 
-- 添加更新日志提取脚本
-
 - 使用 VaultPatcher 修复锻造之艺
 
 - 优化进度牌匾字体颜色
@@ -121,13 +119,23 @@
 
 - 关闭 InventoryHUD 物品栏提示
 
+- 初始化自定义 Early Loading Screen
+
+- 暂时禁用 Reforged、UnionLib
+
+- 使 InventoryHUD 的状态效果提示可以换行
+
+- 调整右上角元素布局
+
+- 适配新版本 Chloride 配置
+
 ### 删除
 
 - <details>
 
-  <summary> 删除模组（共 7 个） </summary>
+  <summary> 删除模组（共 8 个） </summary>
   
-  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Simple Custom Early Loading
+  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Create: Trading Floor、Touhou Little Maid
   
   </details>
   

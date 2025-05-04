@@ -11,6 +11,17 @@
         "value": 100
       }
     },
+    "unionlib:generic.arrow_velocity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "forge:step_height_addition": {
       "enabled": false,
       "min": {
@@ -121,6 +132,17 @@
         "value": 2048
       }
     },
+    "unionlib:generic.dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "attributeslib:armor_pierce": {
       "enabled": false,
       "min": {
@@ -165,6 +187,17 @@
         "value": 2048
       }
     },
+    "stardew_fishing:line_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "gunswithoutroses:gwr.damage_base": {
       "enabled": false,
       "min": {
@@ -196,6 +229,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "stardew_fishing:exp_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "eidolon:persistent_soul_hearts": {
@@ -240,6 +284,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "stardew_fishing:bar_size": {
+      "enabled": false,
+      "min": {
+        "default": 4,
+        "value": 4
+      },
+      "max": {
+        "default": 142,
+        "value": 142
       }
     },
     "irons_spellbooks:cast_time_reduction": {
@@ -416,6 +471,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "unionlib:generic.arrow_damage": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "forge:block_reach": {
@@ -671,6 +737,17 @@
         "value": 100
       }
     },
+    "stardew_fishing:treasure_chance_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "gunswithoutroses:gwr.fire_delay": {
       "enabled": false,
       "min": {
@@ -911,6 +988,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "unionlib:generic.critical_rate": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "l2damagetracker:damage_absorption": {
@@ -1243,6 +1331,17 @@
         "value": 100
       }
     },
+    "unionlib:generic.accuracy": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "attributeslib:crit_damage": {
       "enabled": false,
       "min": {
@@ -1419,6 +1518,17 @@
         "value": 100
       }
     },
+    "unionlib:generic.critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "malum:arcane_resonance": {
       "enabled": false,
       "min": {
@@ -1505,6 +1615,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "unionlib:generic.draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0.00010,
+        "value": 0.00010
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     }
   }
