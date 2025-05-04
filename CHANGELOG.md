@@ -146,6 +146,8 @@
   Updated Aquaculture、Yuushya 16x
   
   </details>
+  
+- 删除过时和冗余的配置文件
 
 ### 修复
 
