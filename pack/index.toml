@@ -2658,7 +2658,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "cdf1f5931cb6ad3824da02c73f010b90a926d5114ea3234f563daead81e8f2a9"
+hash = "16a4af8cfef274a61f23c34d2714cd6ca2f275942e75a67d5f13f8e79b5c6911"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -2682,7 +2682,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "6c76a03c4d92daa67b78dbbf646bf8a17f827dfb09ec3c1ac42e4d7c0381ca47"
+hash = "9a933a9e0a3e224f33e1b4fa714e5b3fb52154d3da2873250775ec9ace330572"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -3454,7 +3454,7 @@ hash = "fe2b34b485c33c2eac4d2659c8cc4a111a64349df0c9364870ad2b72ee8d50a3"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "4fa742f19125f078d43ac1633664292735dca722c800793ceb2945b660569c19"
+hash = "1022f377c7c7f12252b06de554d798e2c8cf42b806c609e29c5469fb7e80ec33"
 
 [[files]]
 file = "config/silentsdelight-client.toml"
@@ -4150,7 +4150,7 @@ hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/client-config.snbt"
-hash = "6d5592c9b61ca156d7901a1b2a626d9c1f5401ec6988e73fe01fab57c7df2260"
+hash = "f8e5484b548a7c24886feb245b8655ba5e377e4f96c7eb8847524d46c964b46b"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
