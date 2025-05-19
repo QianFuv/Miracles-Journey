@@ -1,13 +1,13 @@
 name = "Trade Cycling"
-filename = "trade-cycling-forge-1.20.1-1.0.17.jar"
+filename = "trade-cycling-forge-1.20.1-1.0.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d5a845201906f1c0af38a374ab6501025c41647d"
+hash = "fbe3dfba11bd9e1c73b673f252c7d4f5cececa06"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6209007
+file-id = 6497870
 project-id = 570431

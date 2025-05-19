@@ -1,13 +1,13 @@
-name = "World Comment"
-filename = "WorldComment-0.3.1+1.20.1.jar"
+name = "WorldComment"
+filename = "WorldComment-0.3.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNAofCJ3/versions/cBfVRO4i/WorldComment-0.3.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/GNAofCJ3/versions/SebcJV8H/WorldComment-0.3.2%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "3615516775836a8a59e6f9941d82e181897163717633d2df3d4e08185acdcc5d06d47812e3cc7ce5a7d6ea0b92b274e560c781e088903ef73b049505473196c2"
+hash = "f28de50e5b968cd182f3100898e95078812970bcb72a91b8167eba485fa181734d7aa9f7fa32964b4c09cc820b939045d0f033cc9364a9327021f5eade83d0c7"
 
 [update]
 [update.modrinth]
 mod-id = "GNAofCJ3"
-version = "cBfVRO4i"
+version = "SebcJV8H"

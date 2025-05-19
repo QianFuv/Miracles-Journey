@@ -1,13 +1,13 @@
 name = "Dawn Of Time"
-filename = "Dawn Of Time-forge-1.20.1-1.5.12.jar"
+filename = "Dawn Of Time-forge-1.20.1-1.5.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "857fe7c754cc69fd535fe0e190e0a37fb002f456"
+hash = "5305b896f63e332b23cb2a4274aaa2d1817c0449"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6304900
+file-id = 6498509
 project-id = 312359
