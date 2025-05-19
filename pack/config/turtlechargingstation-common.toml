@@ -7,7 +7,8 @@
 	#The amount of FE required to increase the turtle fuel level by 1
 	#Range: > 0
 	chargingStationConversionRate = 256
-	#The amount of time (in ticks) that is added to the thundercharge dynamo charge.
+	#The amount of time (in ticks) that is added to the charge when the thundercharge
+	#dynamo is struck by lightning.
 	#1 minute = 1200 in-game ticks
 	#Range: > 0
 	dynamoRechargeAmount = 1200

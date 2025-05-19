@@ -256,7 +256,7 @@
 		#Range: > 0
 		illagerAssaultSpawnFreq = 12000
 		#Spawn Chance for Illagers Hunting the Player every Spawn Frequency, the lower the more likelier, Default: 5
-		#Range: > 0
+		#Range: > 1
 		illagerAssaultSpawnChance = 5
 		#How much Soul Energy the Player has is required for Special Illagers to spawn, Default: 2500
 		#Range: > 0
@@ -417,7 +417,7 @@
 	villagerHateSpells = 0
 	#Villagers have a chance of converting into Warlocks if they're underneath a Block of Crying Obsidian, Default: true
 	villagerConvertToWarlock = true
-	#Villagers have a chance of converting into Heretics if they're near an active Nether Portal, Default: false
+	#Villagers have a chance of converting into Heretics if they're sleeping near an active Nether Portal, Default: false
 	villagerConvertToHeretic = false
 	#Wandering Traders transforms into Mavericks when struck by lightning, Default: true
 	traderConvertMaverick = true
@@ -467,7 +467,7 @@
 		#Range: > 0
 		wightSpawnFreq = 24000
 		#Spawn Chance for Wights spawning near the Player every Spawn Frequency, the lower the more likelier, Default: 10
-		#Range: > 0
+		#Range: > 1
 		wightSpawnChance = 10
 
 	[Spawning.Warlock]

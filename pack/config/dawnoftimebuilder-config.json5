@@ -13,5 +13,17 @@
 	// If the plant could have grown (see climbingPlantGrowthChance), it has a probability to spread to an adjacent block equal to 1/x, where x is the config value.
 	climbingPlantSpreadChance: 5,
 	// Worms have a probability to grow on random tick equal to 1/x, where x is the config value.
-	stickBundleGrowthChance: 25
+	stickBundleGrowthChance: 25,
+	generateChestLoot: true,
+	generateSilk: true,
+	generateGrapes: true,
+	generateMaize: true,
+	generateRice: true,
+	generateMulberry: true,
+	generateBlackClayTile: true,
+	generateBlueClayTile: true,
+	generateCyanClayTile: true,
+	generateOrangeClayTile: true,
+	generateWhiteClayTile: true,
+	generateGrayClayRoofTile: true
 }

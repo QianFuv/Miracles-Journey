@@ -1,0 +1,13 @@
+name = "TelluriumForge"
+filename = "telluriumforge-1.4.0-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GPY7zsQZ/versions/5ghCAy0g/telluriumforge-1.4.0-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "a1272f68b2c1dc143224dce1a4a1d4b5550b80f0b4e99b256f0a6ee96012eb987376957c36d91e2b2649d265d018e99f2381863fc282ae4a2c0a46451dafb684"
+
+[update]
+[update.modrinth]
+mod-id = "GPY7zsQZ"
+version = "5ghCAy0g"
