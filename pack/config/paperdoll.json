@@ -2,11 +2,15 @@
   "dollEnabled": true,
   "location": "TOP_RIGHT",
   "dollXOffset": -5,
-  "dollYOffset": 22,
+  "dollYOffset": 17,
   "dollSize": 5,
   "dollLookingSides": -20,
   "dollLookingUpDown": -20,
   "dollHeadMode": "FREE",
+  "lockElytra": true,
+  "lockSpinning": true,
   "autoHide": false,
-  "hideInF5": true
+  "autoHideBlacklist": [],
+  "hideInF5": true,
+  "hideVehicle": false
 }
