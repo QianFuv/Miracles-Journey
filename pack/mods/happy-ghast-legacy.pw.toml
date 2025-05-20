@@ -1,0 +1,13 @@
+name = "Happy Ghast Legacy"
+filename = "happy_ghast_legacy-1.6.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e6671a6133691ceab58481577bac391647861b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6545802
+project-id = 1248466

@@ -737,6 +737,17 @@
         "value": 100
       }
     },
+    "ice_and_fire_delight:number_of_explosions": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 9999,
+        "value": 9999
+      }
+    },
     "stardew_fishing:treasure_chance_bonus": {
       "enabled": false,
       "min": {

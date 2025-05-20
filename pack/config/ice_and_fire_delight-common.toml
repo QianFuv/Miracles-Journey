@@ -1,0 +1,29 @@
+
+[General]
+	#This variable is responsible for give book on startup or not. Default: true  
+	give_book_on_startup = true
+
+["Special pie"]
+	#Will there be an explosion when eating a special pie. Default: true
+	enable_explosions_when_eat_special_pie = true
+	#This variable is responsible for the chance of an explosion when eating a special pie. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]
+	chance_explosions_when_eat_special_pie = 0.2
+	#Number of deaths before explosions stop after eating special pie. Default: 1; Range: [1 ~ 9999]
+	number_death_before_explosions_stop_when_eating_special_pie = 1.0
+
+["Special pie slice"]
+	#Will there be an explosion when eating a special pie slice. Default: true
+	enable_explosions_when_eat_special_pie_slice = true
+	#This variable is responsible for the chance of an explosion when eating a special pie slice. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]
+	chance_explosions_when_eat_special_pie_slice = 0.2
+	#Number of deaths before explosions stop after eating special pie slice. Default: 1; Range: [1 ~ 9999]
+	number_death_before_explosions_stop_when_eating_special_pie_slice = 1.0
+
+["Special sausage"]
+	#Will there be an explosion when eating a special sausage. Default: true
+	enable_explosions_when_eat_special_sausage = true
+	#This variable is responsible for the chance of an explosion when eating a special sausage. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]
+	chance_explosions_when_eat_special_sausage = 0.2
+	#Number of deaths before explosions stop after eating special sausage. Default: 1; Range: [1 ~ 9999]
+	number_death_before_explosions_stop_when_eating_special_sausage = 1.0
+

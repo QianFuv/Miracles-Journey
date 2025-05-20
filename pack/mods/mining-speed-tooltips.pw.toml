@@ -1,0 +1,13 @@
+name = "Mining Speed Tooltips"
+filename = "miningspeedtooltips-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "774bd9c6f659a96a83b3ddbb97ba36b048003bdb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6463952
+project-id = 1251740

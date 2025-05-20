@@ -1,0 +1,13 @@
+name = "Ice and Fire Delight"
+filename = "ice_and_fire_delight-forge-1.20.1-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41a740d3c40cf8665f3f89b5bab027b2499a9972"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6473461
+project-id = 1002304

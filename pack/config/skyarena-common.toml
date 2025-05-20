@@ -1,0 +1,48 @@
+#Below is the description of the configuration settings found in the skyarena.json file. Below you will find the configs of the current file.
+#
+#startingPoints – The number of Altar of Battle points at the first difficulty level.
+#pointsIncrease – The additional number of points gained for each difficulty level beyond the first.
+#mobSpawnRadius – The radius of the circle in which mobs will spawn. Mobs will appear at the height of the lower block of the Altar of Battle.
+#spawnDistanceFromPlayer – The minimum distance around the player where mobs cannot spawn.
+#mobCostRatio – Mobs will primarily spawn if their cost is at least points / mobCostRatio. If no suitable mob is found after 5 attempts, a random one will be summoned.
+#baseScalingThreshold – If baseScalingThreshold < points / mobCostRatio, the cost and stats of mobs will increase until this condition is no longer met. When points exceed baseScalingThreshold * mobCostRatio, difficulty progression will be ensured by increasing mob stats (HP and damage) rather than the number of mobs.
+#mobStatGrowthCoefficient - The percentage increase in mob stats on average over 10 difficulty levels can be calculated using the formula:
+#                           1000 * pointsIncrease / (baseScalingThreshold * mobCostRatio) * mobStatGrowthCoefficient
+#squadSpawnChance – The chance of spawning a squad. A squad consists of identical mobs to make opponents less chaotic.
+#squadSpawnSize – The size of the squad.
+#battleLossDistance – The distance between the Altar of Battle and the player at which the battle is considered lost.
+#mobTeleportDistance – The distance between the Altar of Battle and a mob at which the mob will be teleported back to a random point in the arena.
+#maxDifficultyLevel – Upon reaching this difficulty level, the Altar of Battle can no longer be activated. A value of 0 removes this restriction.
+#allowDifficultyReset – If set to true, the difficulty level of the Altar of Battle can be reset to 1 by using a netherite ingot (the item will be consumed).
+#allowWaterAndAirSpawn –
+#If false: The block below the mob must be occupied, while all surrounding blocks (center, top, right, left, front, back) must be empty (air).
+#If true: The lower block is not checked, and surrounding blocks must be passable by the player (e.g., air, water, grass, etc.).
+#individualPlayerStats –
+#If false: The block has a single difficulty level shared by all players.
+#If true: Each player has their own difficulty level for this block.
+#nightTime – If true: Switches the time to night when the Altar of Battle is activated.
+#enableRain – If true: Starts rain when the Altar of Battle is activated.
+#enableMobItemDrop – If false, mobs do not drop items.
+#reward – The loot table, which is the reward for the battle
+#rewardIncreaseInterval – The number of difficulty levels required to increase the reward amount by 1.
+#mobValues – Contains a list of mobs and their associated costs.
+#keys – Contains a list of keys and the loot tables they unlock when used on a chest.
+#trophies – Contains a list of trophies, their cooldown times, and the effects with their duration and level that they apply.
+#
+#
+#
+#
+#If true, the reward key can only be used on empty chests.
+#If false, the chest's contents will be cleared before being filled with loot.
+requireEmptyChest = false
+#
+#If true, a defeat message will be shown when the player leaves the arena.
+enableLossMessageLeave = true
+#
+#If true, a defeat message will be shown when the player dies in battle.
+enableLossMessageDeath = true
+#
+#If true, when mobs receive the Glowing effect, a message will appear recommending leaving the arena to restart the battle.
+#The message appears only once per game session.
+enableUnclaimedRewardMessage = true
+
