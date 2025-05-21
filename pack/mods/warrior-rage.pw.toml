@@ -1,13 +1,13 @@
 name = "Warrior Rage (Forge/Fabric)"
-filename = "warriorrage-forge-1.20.1-1.0.2.jar"
+filename = "warriorrage-forge-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "863eba47c79d0f6bdd5c88907383f0ab5c9a8e95"
+hash = "7b2300f722acba9c95e70d75ba7247f9ad542f45"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6120039
+file-id = 5323413
 project-id = 631764

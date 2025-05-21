@@ -5,8 +5,6 @@
 	renderRageBar = true
 	#Render Rage Icon next to player's Hotbar
 	renderRageIcon = true
-	#Render fire particles around player when rage is active
-	renderFireParticles = true
 	#Negative offsets to left side, positive to right
 	#Range: > -2147483648
 	offsetX = 0

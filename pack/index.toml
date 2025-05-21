@@ -1586,7 +1586,7 @@ hash = "fe3f825ab66a7359f08c0cd95f393ed02a0863380d689e5016e5e2db71202cda"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7549ff5102a0abfb5e51252e2a8f892ea8b3de13d465cedaf445c870d5eff373"
+hash = "dc295b7e6842505bd1f89d3ab73052396d3128ba9f36abb03c6ebcba76822746"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2838,7 +2838,7 @@ hash = "0ed2e84e1c9b6ab06e2e0739cda61744c0481c1e30f3ba1cdfca184eee65c363"
 
 [[files]]
 file = "config/itemzoom-client.toml"
-hash = "641d3f92304dffc32cdcc4bdafbdce6c4ff2d8338b589276667c89370cbe48d2"
+hash = "e3baa97baba97dcfac0fd2a22041ff28956e35f43424ff25cd7928aa4beb194d"
 
 [[files]]
 file = "config/iwannaskate-client.toml"
@@ -3191,6 +3191,10 @@ hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "473ed02492269f6425185e62440c1f0975d650865cebf51da27438a0df46a82c"
+
+[[files]]
+file = "config/modpack-update-checker-info.txt"
+hash = "bfc1860899ada3d33561ae91d25b1a1d67486b5a7cc60d574e16340fb0db867a"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
@@ -4274,7 +4278,7 @@ hash = "034c1f861927388df6f8aa1e08eb6dbe584a47a712a4291b105df88e251c02c8"
 
 [[files]]
 file = "config/warriorrage-client.toml"
-hash = "897d1fe3b0ca8bdaa584239446b3ae3774743773654f30694f07c20b7b487222"
+hash = "9ed75ee31d7a96e7a0848ab4a2f0044c188cf6cf6b35a4f097257d5d0e5d0658"
 
 [[files]]
 file = "config/waterframes-client.toml"
@@ -6428,8 +6432,8 @@ hash = "a5fce7042fd6a902a7f67df5488dd96d3b82f1c5c818db3e5bd7c3a3aeb6adff"
 metafile = true
 
 [[files]]
-file = "mods/itemzoom.pw.toml"
-hash = "6641b70b57ddcbeaf3b4da664a5a14246a206c2c1341ab9ba682a4baff7d0123"
+file = "mods/itemzoommore.pw.toml"
+hash = "56448fa595e1497e939d0bf43ce1ee465510622ee5af2d6eb7f6bc07e881810a"
 metafile = true
 
 [[files]]
@@ -8135,7 +8139,7 @@ metafile = true
 
 [[files]]
 file = "mods/warrior-rage.pw.toml"
-hash = "2c43b460848b53b4e9609eb2cb7a5cde0b4113e28d52b0b096d5c3527d217b6d"
+hash = "deb047c0a515d5f61ec6dd99f7d4d06b86aaa2e2d3b6ba57e04c296a5eee22c9"
 metafile = true
 
 [[files]]
@@ -8340,7 +8344,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "eae78962289b462d6bbcb41354d575fd0b7a994f4a02329383a15630af056618"
+hash = "820379c413c4e19ea62c3cc30f9695d252b7a731c0a546ad3ebba3b4fe24f9f7"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -8647,6 +8651,34 @@ hash = "5d92a672e90a876ea8aa46f8d23f4b740cb303640ec1ec2cc68f847344788d54"
 [[files]]
 file = "vaultpatcher/patch/com/legacy/scuba_gear/ScubaEvents.class"
 hash = "9c2523ab6a92dbb4f23c22e974dc86c875cfb10ca890230d3595365751d10831"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/ForgeEventHandler.class"
+hash = "4bfc41870faca04ce1c24f160c113051e9e668e2fdaf10d60ccf0dd35740db93"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/WarriorRageConfig$Client.class"
+hash = "81734841220ac76222f31af52faf42719c06c731825d4ecf8842e190a1ac843b"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/WarriorRageConfig$Server.class"
+hash = "c0cb4b81f4cc7d33465518721ec3e68e50dd8a47cf813053f6d7a657d4d5685f"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/WarriorRageConfig.class"
+hash = "61088234eba92e346908becc68e7bc7d7fe551529caee270da3455f8a27543b0"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/capability/IRage.class"
+hash = "1eca1f79ae71a228c97fd334ba0482027a6299acf87b0df2089dc1078852a896"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/capability/Rage.class"
+hash = "f4934ebf3685d8318a8d72c19dd713eb6bf8cc070f87ae0322a59e4ec45faddc"
+
+[[files]]
+file = "vaultpatcher/patch/com/tiviacz/warriorrage/network/SyncRageCapabilityClient.class"
+hash = "3b769d5ca93b48936b452c986495cceb9653323d494194eb800b2294c3e03d17"
 
 [[files]]
 file = "vaultpatcher/patch/com/yyon/grapplinghook/client/ClientControllerManager.class"
