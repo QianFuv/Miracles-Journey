@@ -16,6 +16,7 @@
             <Item>*</Item>
         </Include>
         <Exclude>
+            <Item>\.mixin.out</Item>
             <Item>\.persistent</Item>
             <Item>\armourers_workshop</Item>
             <Item>\assets</Item>
@@ -35,6 +36,7 @@
             <Item>\config\yoyos\pack</Item>
             <Item>\config\explorerscompass</Item>
             <Item>\crash-reports</Item>
+            <Item>\cosmetics</Item>
             <Item>\CustomSkinLoader</Item>
             <Item>\data</Item>
             <Item>\ESM</Item>
@@ -54,6 +56,7 @@
             <Item>\local</Item>
             <Item>\logs</Item>
             <Item>\mod_data</Item>
+            <Item>\moddata</Item>
             <Item>\modernfix</Item>
             <Item>\mods</Item>
             <Item>\music_sheets</Item>
@@ -86,6 +89,8 @@
             <Item>\patchouli_data.json</Item>
             <Item>\rhino.local.properties</Item>
             <Item>\seamless.txt</Item>
+            <Item>\uacm.db</Item>
+            <Item>\ucache.db</Item>
             <Item>\usercache.json</Item>
             <Item>\usernamecache.json</Item>
             <Item>\supportercache.json</Item>
