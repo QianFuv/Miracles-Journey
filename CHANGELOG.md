@@ -147,6 +147,7 @@
 
 - 使用 Accessories 替换 Curios
 
+- 降低鸟类下蛋频率
 
 ### 删除
 

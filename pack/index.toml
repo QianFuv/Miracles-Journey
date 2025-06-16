@@ -2118,7 +2118,7 @@ hash = "7d0bfba8907b0a95119a276acf5fb6377521bcdbf15aa9f9b99b7d8591c724bc"
 
 [[files]]
 file = "config/exoticbirds-common.toml"
-hash = "16f0e21912c233fcf526b9f0bc285db9890a804d852c7c930a3645090e7688fa"
+hash = "35c44c4bb8d4add1743c7948f7c070c74c315c31c6900abdad663727f955c266"
 
 [[files]]
 file = "config/explorerscompass-client.toml"

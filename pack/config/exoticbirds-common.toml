@@ -12,7 +12,7 @@
 		allowPhoenixHatching = true
 		#How many ticks it takes for a bird to lay an egg. Default = 12000
 		#Range: > 6000
-		eggLayRate = 12000
+		eggLayRate = 144000
 
 	[general.entity]
 		#Allow magpies to scavenge for items. Default = true
