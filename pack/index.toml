@@ -3214,7 +3214,7 @@ hash = "e8744f82489ed8d4780db9d449030536a6577f3995698eb259040ee50eb34f7c"
 
 [[files]]
 file = "config/modpack-update-checker-info.txt"
-hash = "bfc1860899ada3d33561ae91d25b1a1d67486b5a7cc60d574e16340fb0db867a"
+hash = "a7c7e0ff18bcd6772998ff7b177626b93f4a6c948ce7462366cc8a58b3b71efe"
 
 [[files]]
 file = "config/modpack-update-checker/config.json"
