@@ -1,0 +1,13 @@
+name = "CTOV - Savage and Ravage Compat"
+filename = "ctov-savage-and-ravage-add-on-v2-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b276907bbcb26a9459a295e036fab7a9091715d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4602682
+project-id = 878428

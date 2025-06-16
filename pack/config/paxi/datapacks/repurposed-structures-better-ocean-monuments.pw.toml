@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Ocean Monuments Compat Datapack"
+filename = "Repurposed_Structures-Better_Monuments_v6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8a3a0582a5ebb659993a8c1a60b83a1ed348848"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750077
+project-id = 690393

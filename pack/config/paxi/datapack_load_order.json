@@ -1,3 +1,7 @@
 {
-  "loadOrder": []
+    "loadOrder": [
+        "idasbop-1.9.3-1.20.1.zip",
+        "idasalexsmobs-1.20.zip",
+        "MiraclesJourney-DataPack"
+    ]
 }

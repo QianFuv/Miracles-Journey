@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Wares Compat Datapack"
+filename = "Repurposed_Structures-Wares_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b076ef4320a9fcc467c716a361c71acf9f08dd95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4717972
+project-id = 905738

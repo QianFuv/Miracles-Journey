@@ -1,0 +1,13 @@
+name = "CTOV - PneumaticCraft: Repressurized compat"
+filename = "ctov-pneumaticcraft-add-on-v1-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27be6444ae4787e67a312302c161a03b5cd1d608"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4674224
+project-id = 897037

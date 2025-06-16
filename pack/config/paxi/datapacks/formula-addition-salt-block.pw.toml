@@ -1,0 +1,13 @@
+name = "Recipes Addition - Salt Block"
+filename = "Formula Addition - Salt Block v.1.0.3-1.19 1.20.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jJTZXicI/versions/QgkJ776u/Formula%20Addition%20-%20Salt%20Block%20v.1.0.3-1.19%201.20.zip"
+hash-format = "sha512"
+hash = "c63b0e97d07794f2473b2b448be5148ef926099d3e853ad172f1abce2204be046afdd0e7ed3df51d81dbc453d64e248d31654d37fa795070244b7079c8db532d"
+
+[update]
+[update.modrinth]
+mod-id = "jJTZXicI"
+version = "QgkJ776u"

@@ -1,0 +1,13 @@
+name = "Alexs Mods x Tide Compat"
+filename = "Alexs Mods Tide Compat.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gnNLBSDb/versions/hlaQvJcV/Alexs%20Mods%20Tide%20Compat.zip"
+hash-format = "sha512"
+hash = "c35b87a736160fecc83c4c7e9c565731425912e332eaad608a888741ae254bbeaf2b47054bb900de0f062d2ff03efe27dc7f955045c14fcd1a3c17ef13f79e98"
+
+[update]
+[update.modrinth]
+mod-id = "gnNLBSDb"
+version = "hlaQvJcV"

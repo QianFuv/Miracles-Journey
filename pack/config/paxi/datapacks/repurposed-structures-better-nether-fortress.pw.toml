@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Nether Fortress Compat Datapack"
+filename = "Repurposed_Structures-Better_Nether_Fortress_v6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b99f45ecd694b0fb1b8320934111173889453d8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750044
+project-id = 837728

@@ -1,0 +1,13 @@
+name = "Integrated Stronghold- The Graveyard Integration"
+filename = "intstrong_graveyard-1.0.0-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "205daf5dcae0c8045eaea2a7462d58701d6b65be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5134399
+project-id = 832112

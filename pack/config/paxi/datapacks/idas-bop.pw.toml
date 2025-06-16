@@ -1,0 +1,13 @@
+name = "Integrated Dungeons and Structures- Biomes O' Plenty Integration"
+filename = "idasbop-1.9.3-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37f453e8f2cdf92a67a50ae4be955186a64aeacc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5223040
+project-id = 663101

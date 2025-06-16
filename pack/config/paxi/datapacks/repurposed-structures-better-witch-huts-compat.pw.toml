@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Witch Huts Compat Datapack"
+filename = "Repurposed_Structures-Better_Witch_Huts_v4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d4407319ef0d01b19495506ccc46b266facc457"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4749246
+project-id = 634440

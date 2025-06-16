@@ -1,0 +1,13 @@
+name = "2032 World Height"
+filename = "2032-world-height.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JTNe4RSx/versions/SCIudYUC/2032-world-height.zip"
+hash-format = "sha512"
+hash = "0450d5831c4834a15e92c7583825fcb2e771af6d97a968f7f434c4a61e0c0f37329ce14cde4b695e681a1c62f363dc8dea9341af71b2585baee2928662f1e79b"
+
+[update]
+[update.modrinth]
+mod-id = "JTNe4RSx"
+version = "SCIudYUC"

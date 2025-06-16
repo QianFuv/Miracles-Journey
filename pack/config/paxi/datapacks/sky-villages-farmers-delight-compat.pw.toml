@@ -1,0 +1,13 @@
+name = "Sky Villages - Farmer's Delight Compat"
+filename = "SkyVillages-FarmersDelightCompat-1.20.1-1.0.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a79f0bb95bcab95934d3d909e6c83b42249c4542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4849958
+project-id = 934914
