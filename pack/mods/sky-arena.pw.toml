@@ -1,13 +1,13 @@
 name = "Demi's Sky Arena"
-filename = "SkyArena-1.2.5.jar"
+filename = "SkyArena-1.2.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a0cef9ba46fedc32a84f7b5ae281c25603a021c4"
+hash = "839f9e008f62e32b77d8eaea793a032b280bfc87"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6465823
+file-id = 6651138
 project-id = 1141465

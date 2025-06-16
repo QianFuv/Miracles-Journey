@@ -462,17 +462,6 @@
         "value": 1024
       }
     },
-    "irons_spellbooks:evocation_magic_resist": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "unionlib:generic.arrow_damage": {
       "enabled": false,
       "min": {
@@ -482,6 +471,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "irons_spellbooks:evocation_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "forge:block_reach": {
@@ -497,6 +497,17 @@
     },
     "gunswithoutroses:gwr.spread": {
       "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "minecraft:player.block_break_speed": {
+      "enabled": true,
       "min": {
         "default": 0,
         "value": 0
@@ -1331,17 +1342,6 @@
         "value": 100
       }
     },
-    "irons_spellbooks:ender_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "unionlib:generic.accuracy": {
       "enabled": false,
       "min": {
@@ -1351,6 +1351,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "irons_spellbooks:ender_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "attributeslib:crit_damage": {

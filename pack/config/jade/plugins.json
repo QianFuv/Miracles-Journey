@@ -93,20 +93,19 @@
   "create_mechanical_spawner": {
     "spawner_data": true
   },
-  "touhou_little_maid": {
-    "maid": true,
-    "shrine_lamp": true
-  },
   "waystones": {
     "waystone": true
   },
   "goety": {
     "block_owner": true,
     "soul_energy": true,
+    "raider_leader": true,
     "servant_mode": true,
     "zombie_villager": true,
     "villager_profession": true,
-    "summon_lifespan": true
+    "train_to": true,
+    "summon_lifespan": true,
+    "trainable": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -164,6 +163,9 @@
     "hud.rgb16": true,
     "hud": true,
     "hud.redstone": true
+  },
+  "aether_redux": {
+    "logicator": true
   },
   "delightful": {
     "crop_progress": true,

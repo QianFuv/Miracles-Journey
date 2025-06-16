@@ -12,6 +12,13 @@
 	#If 'hinderCool' is enabled, how long Hinders' cooldown last before they can heal again, count seconds, Default: 10
 	#Range: > 0
 	hinderCoolTime = 10
+	#Whether Chagrin Sentries made by players or servants shoot ghost arrows, Default: true
+	chagrinGhostArrow = true
+	#Whether Snipers made by players or servants shoot ghost arrows, Default: true
+	sniperGhostArrow = true
+	#How long Preserver Servant's Hay Armor lasts, count seconds, Default: 300
+	#Range: > 0
+	preserverDuration = 300
 
 	[Servants."Undead Servants"]
 		#Whether Zombie Absorbers can heal if summoned while wearing Necro Cape, Default: true
@@ -19,4 +26,8 @@
 		#How frequent Zombie Absorbers heal, count seconds, Default: 60
 		#Range: > 0
 		zombieAbsorberHealTime = 60
+		#Whether Bound Freakagers burns in Sunlight, Default: false
+		boundFreakagerSun = false
+		#Whether Bound Engineers burns in Sunlight, Default: false
+		boundEngineerSun = false
 

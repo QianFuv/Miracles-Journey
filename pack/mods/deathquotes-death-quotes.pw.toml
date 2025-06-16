@@ -1,13 +1,13 @@
 name = "DeathQuotes / Death Quotes"
-filename = "deathquotes-forge-1.20.1-3.3.jar"
+filename = "deathquotes-forge-1.20.1_1.20.4-3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "17f496829de8f875080d0a59b369cde332c2ed59"
+hash = "616f30b8ecafb1c7ca17a93151f09779709eb5a6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4674574
+file-id = 6559203
 project-id = 253947

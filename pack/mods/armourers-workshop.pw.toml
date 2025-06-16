@@ -1,13 +1,13 @@
 name = "Armourer's Workshop"
-filename = "armourersworkshop-forge-1.20.1-3.2.0-beta.jar"
+filename = "armourersworkshop-forge-1.20.1-3.2.1-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7a2e6aaf8e171c3c9d0ab19874872d974b24de3"
+hash = "96d55dc1e639a2c7870d27f7efe63bf54bfc0e88"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6232905
+file-id = 6650060
 project-id = 229523

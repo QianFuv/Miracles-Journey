@@ -24,7 +24,7 @@
 	#GUI in Talents > Pack Puppy.
 	dog_inv_button_in_inv = true
 	#Set a custom position for the universal dog inventory access button here.
-	#Can be utilizedwhen the button overlaps with another mod's GUI feature or you 
+	#Can be utilized when the button overlaps with another mod's GUI feature or you 
 	#simply prefer it being in a different position.
 	#This option only affects the Survival inventory screen.
 	#The position is the offset of the button is the offset from the top left corner
@@ -114,4 +114,26 @@
 	#By default, DTN will render your Dogs' Names through walls. Disable
 	#this to make Owned Dogs' Names no longer visible through walls.
 	show_dog_name_thru_wall = true
+	#Enable this to hide Wolf Mount Dog's Status Overlay when riding it in Creative.
+	hide_wolf_mount_status_creative = true
+	#Use DTN's Dedicated Wolf Mount Overlay when riding the Dog to show its
+	#status. This will takes up two health lines and will render where
+	#the Vanilla Vehicle Health is and instead of it.
+	dtn_wolf_mount_overlay = true
+	#Enable this if you want to automatically clear the Dog Bed Model
+	#Cache every time Tags is updated on client side.
+	dog_bed_clear_cache_auto = false
+	#Move the world load icon to the right corner.
+	world_load_icon_r = false
+	#Set the world load icon offset from the corner.
+	#Range: -500 ~ 500
+	world_load_icon_x = 0
+	#Range: -500 ~ 500
+	world_load_icon_y = 0
+	#Force DTN's Dedicated Wolf Mount Overlay to always render Dog
+	#Health and Dog Hunger in percentages.
+	#When disabled, these entries will be rendered as their absolute
+	#values and only if the max values of these entries exceed 3 digits,
+	#they will be rendered as percentages.
+	dtn_wolf_mount_overlay_percent = true
 

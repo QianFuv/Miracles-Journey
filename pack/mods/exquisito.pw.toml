@@ -1,13 +1,13 @@
 name = "Exquisito"
-filename = "Exquisito-1.20.1-2.5.2-hotfix.jar"
+filename = "Exquisito-1.20.1-2.5.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f075ca0b70033c44492d777ceeb14565ee1e5df3"
+hash = "17e3237b908df7fdace03d873f59d5e0fd26cd6a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6410831
+file-id = 6586448
 project-id = 859262

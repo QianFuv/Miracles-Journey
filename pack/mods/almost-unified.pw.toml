@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-forge-1.20.1-0.9.5.jar"
+filename = "almostunified-forge-1.20.1-0.10.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "951d61850b161182929a144d37d4391e454f9a5e"
+hash = "9003f4d3baf3873387a9e2e9059bfe7a650714d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6471161
+file-id = 6552475
 project-id = 633823

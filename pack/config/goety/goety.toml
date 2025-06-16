@@ -111,6 +111,9 @@
 	pithosRespawn = true
 	#Allow used Crystal Balls to spawn Crones again when right-clicked with respawn_boss tagged item, Default: true
 	crystalBallRespawn = true
+	#How big of a range Dark Altars can count blocks to make a ritual and detect sacrifices/conversion victims, Default: 16
+	#Range: > 1
+	ritualRange = 8
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2

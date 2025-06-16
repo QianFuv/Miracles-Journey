@@ -1,13 +1,13 @@
 name = "Forgery"
-filename = "forgery-3.6.1+1.20.jar"
+filename = "forgery-3.6.2+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "664657f78cd95ce5cd311b8d6dec3796a88c6a07"
+hash = "2e6426a345fb03c6f2a88c1b8fa9f6a38ad97ffa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6522707
+file-id = 6586436
 project-id = 434087

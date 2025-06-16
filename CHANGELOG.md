@@ -42,13 +42,14 @@
 
 - <details>
   
-  <summary> 模组更新（共 268 次） </summary>
+  <summary> 模组更新（共 349 次） </summary>
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
   - AllTheLeaks、Ars Nouveau's Flavors & Delight、Artifacts、Ascended Quark、Balm、Bubble boots、Corpse x Curios API Compat、Crabber's Delight、Create: Central Kitchen、Create : Creating Space、Create Encased、Create: Framed、Create Mechanical Spawner、Create、CustomSkinLoader、Data Anchor、Enhanced Celestials、Entity Culling、FastSuite、Friends&Foes、Create: Garnished、GeckoLib、Goety、Hopo Better Mineshaft、Hopo Better Ruined Portals、Hopo Better Underwater Ruins、I18nUpdateMod、Integrated Dungeons and Structures、Immersive Aircraft、L2 Library、L_Ender 's Cataclysm、Loot Integrations、Not Enough Animations、Pineapple Delight、Quark、Moonlight Lib、Smarter Farmers、Save My Shaky Network、Some Assembly Required、Sophisticated Core、Sound Physics Remastered、Stardew Fishing、Supplementaries、Towers of the Wild Modded、TrashSlot、Urkaz Moon Tools、WATERMeDIA、What Are They Up To、Villager Workers、YetAnotherConfigLib、Zeta
   - AllTheLeaks、Ars Elemental、Artifacts、Balm、Biomes O' Plenty、Blueprint、Botania、Chat Heads、Chloride、ChoiceTheorem's Overhauled Village、Collective、Cookielicious、Crash Assistant、Create: Central Kitchen、Create: Connected、Create Deco、Create: Deepfried、Create Encased、Create: Framed、Create: Trading Floor、CreativeCore、Cultural Delights、Dimensional Dungeons、Doggy Talents Next、Drippy Loading Screen、Ender's Delight、Exquisito、Extra Disks、ExtraSounds Next、FancyMenu、Flerovium、FLIB、Create: Garnished、Goety、Guns Without Roses、Hearths、Integrated API、Iron's Spells 'n Spellbooks、The New Shutters、L_Ender 's Cataclysm、Luncheon Meat 'S Delight、Meet Your Fight、ModernFix、Modular Golems、mutil、Oreganized、Polymorph、Puzzles Lib、Moonlight Lib、Simple Custom Early Loading、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Sound Physics Remastered、Stardew Fishing、Structure Essentials、Supplementaries、Tetra、ThreatenGL、TofuCraftReload、Trail&Tales Delight、Upgrade Aquatic、WATERFrAMES、WorldComment、Xtra Arrows、Yuushya Townscape、Zeta
   - Alex's Caves Delight、AllTheLeaks、Almost Unified、Ars Botania、AsyncParticles、Brazilian Delight、Chat Heads、Chloride、ChoiceTheorem's Overhauled Village、Collective、Create: Copycats+、Crash Assistant、Create: Aquatic Ambitions、Create: Enchantable Machinery、Create: Metallurgy、Create: Mobile Packages、Create: Mortar - Mango Edition、Create: New Age、Curios API、Data Anchor、Deltabox Lib、dixta's Armory、Doggy Talents Next、Ender's Delight、Explorer's Compass Edited、Exposure、Flerovium、Forgery、FTB Chunks、GroovyModLoader、Goety & Spillage、Goety、Great Scrollable Tooltips、Immersive Machinery、Iron's Spells 'n Spellbooks、JeremySeq's Damage Indicators、Kiwi、The New Shutters、Modular Golems、Onion Onion、PaperDoll、Polymorph、Quark、Sakura、Moonlight Lib、Save My Shaky Network、Some Assembly Required、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Stack Refill、Stardew Fishing、Starter Kit、Supplementaries、Trail&Tales Delight、Vault Patcher、WATERMeDIA、XaeroPlus、Xtra Arrows、Zeta
   - Ars Nouveau's Flavors & Delight、Art of Forging: A Tetra Addon、AsyncParticles、Balm、Blended Compat、Chloride、Corpse x Curios API Compat、Crash Assistant、Create: Central Kitchen、Create: Connected、Create Jetpack、Create Mechanical Spawner、Create: Power Loader、Create Railways Navigator、Data Anchor、Dawn Of Time、Deep Aether、Doggy Talents Next、Dungeons Enhanced Lootintegrations Addon、Dungeons Enhanced、Extreme sound muffler、FancyMenu、Flerovium、Forgery、Framework、Fruits Delight、Goety、Immersive Armors、In Control、L_Ender 's Cataclysm、Lithostitched、Loot Integrations: Bygone Nether & It Takes a Pillage、Loot Integrations: Hopo Better Mineshaft, Ruins & Portals、Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures、Loot Integrations: Structory & Towers、Loot Integrations: Towns and Towers、Loot Integrations、ModernFix、My Nether's Delight、Mysterious Mountain Lib、ParCool、Repurposed Structures、Scholar、Moonlight Lib、Snow! Real Magic!、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Tide、Trade Cycling、Turtle Charging Station、Loot Integrations: Randomized Loot Compatibility、Waystones、Workshop for handsome adventurer、World Comment、XaeroPlus、Xaero's Minimap、Xaero's World Map、Yung Structures Addon for Loot Integrations
+  - Advanced Peripherals、The Aether: Redux、Alex's Caves Delight、Almost Unified、Armourer's Workshop、Ars Botania、AsyncParticles、Bad Horse Fix、Balm、Better Villages、Champions Unofficial、Chloride、Companion、Compressed Creativity、Convenient Curios Container、Create: Copycats+、CorgiLib、Corpse x Curios API Compat、Corpse、Crash Assistant、Create Big Cannons、Create: Connected、Create: Enchantable Machinery、Create: Framed、Create Jetpack、Create: Mobile Packages、Create: Power Loader、Create Railways Navigator、Create、Dawn Of Time、Death Quotes、Delightful、Doggy Talents Next、Dungeons Enhanced、Exposure、Exquisito、Farmer's Delight、Flerovium、Forgery、Fzzy Config、GeckoLib、Goety & Spillage、Goety、Happy Ghast Legacy、Hopo Better Mineshaft、In Control!、Infinity Buttons、Just Enough Items、Loot Integrations、Malum、MmmMmmMmmMmm、ModernFix、Modpack Update Checker、Modular Golems、Monobank、Moog's Voyager Structures、Mowzie's Mobs、Oreganized、ParCool、MrCrayfish's Furniture Mod: Refurbished、Moonlight Lib、Demi's Sky Arena、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Storage Drawers、Structurify、Subtle Effects、Supplementaries、TetraClip、Tide、Tide's Delight、Reforged、TofuCraftReload、Trail&Tales Delight、Ube's Delight、UnionLib、WATERMeDIA、Waystones
   
   </details>
   
@@ -140,6 +141,9 @@
 
 - 替换两个模组（ItemZoomMore、[WarriorRageReforked](https://github.com/CuBr202/Warrior-Rage)）
   
+- 更新 FFS 同步脚本过滤器
+
+- 使用 Accessories 替换 Curios
 
 
 ### 删除
@@ -181,6 +185,8 @@
 - 修复仓库 Readme Badge 失效
 
 - 修复 Action 权限不足
+
+- 修复灵灾奥术全典渲染错误
 
 <details>
 

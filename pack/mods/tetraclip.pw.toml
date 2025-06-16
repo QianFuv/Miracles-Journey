@@ -1,13 +1,13 @@
 name = "TetraClip"
-filename = "[Forge1.20.1]TetraClip-1.0.3.jar"
+filename = "[Forge1.20.1]TetraClip-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nJ5Q892C/versions/E5Mocs8o/%5BForge1.20.1%5DTetraClip-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/nJ5Q892C/versions/GQXlyP2a/%5BForge1.20.1%5DTetraClip-1.0.5.jar"
 hash-format = "sha512"
-hash = "a559875cc5a68625adbb501e06b731f7aa7157fddcac864ec2429e8069af904aeeeaa58eaf180eea3797f3d837aa7e326489d4d197fbe2b7715236f2b21c31d0"
+hash = "54351bdf9947873a0d6eb3e0a984903bf7bb339619411a7d1a017c477082f65772108988ab9336d6fdbefa2ec78b496ef81074b165b15fd3b85bf2de89ee962c"
 
 [update]
 [update.modrinth]
 mod-id = "nJ5Q892C"
-version = "E5Mocs8o"
+version = "GQXlyP2a"

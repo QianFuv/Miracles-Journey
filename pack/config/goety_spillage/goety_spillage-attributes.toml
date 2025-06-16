@@ -54,7 +54,7 @@
 			ragnoServantDamage = 5.0
 
 		[Attributes."Summoned Mobs"."Zombie Absorber"]
-			#How much Max Health Zombie Absorbers have, Default: 200.0
+			#How much Max Health Zombie Absorbers have, Default: 100.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombieAbsorberHealth = 100.0
 			#How much natural armor points Zombie Absorbers have, Default: 0.0
@@ -63,4 +63,20 @@
 			#How much damage Zombie Absorbers deals, Default: 15.0
 			#Range: 1.0 ~ 1.7976931348623157E308
 			zombieAbsorberDamage = 15.0
+
+		[Attributes."Summoned Mobs"."Igniter Servant"]
+			#How much Max Health Igniter Servants have, Default: 24.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			igniterServantHealth = 24.0
+			#How much natural armor points Igniter Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			igniterServantArmor = 0.0
+
+		[Attributes."Summoned Mobs"."Preserver Servant"]
+			#How much Max Health Preserver Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			preserverServantHealth = 20.0
+			#How much natural armor points Preserver Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			preserverServantArmor = 0.0
 

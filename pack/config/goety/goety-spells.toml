@@ -1198,6 +1198,9 @@
 		#Tidal Spell Cooldown, Default: 60
 		#Range: > 0
 		tidalCoolDown = 60
+		#How much base damage the spell deals, Default: 1.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		tidalBaseDamage = 1.0
 
 	[Spells."Call Spell"]
 		#Call Spell Cost, Default: 16
@@ -1420,6 +1423,9 @@
 		#Arrow Rain Spell Cooldown, Default: 400
 		#Range: 0 ~ 72000
 		arrowRainCoolDown = 400
+		#How much extra damage the arrows deals, Default: 0.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		arrowRainDamage = 0.0
 
 	[Spells."Sonic Boom Spell"]
 		#Sonic Boom Spell Cost, Default: 16

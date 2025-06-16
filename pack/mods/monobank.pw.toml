@@ -1,13 +1,13 @@
 name = "Monobank"
-filename = "monobank-1.20.1-1.1.4.jar"
+filename = "monobank-1.20.1-1.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b968e98626117017f7c63848fba276039a69370d"
+hash = "09fda4a573285ebcd2ab5c345a2863e1d3022e64"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5086245
+file-id = 6550141
 project-id = 817257

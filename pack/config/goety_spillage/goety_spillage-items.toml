@@ -4,4 +4,7 @@
 	[Curios.Robes]
 		#Whether performing potion spin with Freaky Robe spins the wearer around, Default: false
 		freakyPotionSpin = false
+		#How much damage is divided when riding an unstunned Ragno Servant while wearing a Freaky Hat, Default: 3.5
+		#Range: 1.0 ~ 1.7976931348623157E308
+		freakyHatRagnoReduce = 3.5
 

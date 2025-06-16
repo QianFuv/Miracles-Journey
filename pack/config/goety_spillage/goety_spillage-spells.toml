@@ -35,7 +35,7 @@
 		requiemCoolDown = 200
 
 	[Spells."Soul Beam Spell"]
-		#Soul Beam Spell Cost, Default: 16
+		#Soul Beam Spell Cost, Default: 64
 		#Range: > 0
 		soulBeamCost = 16
 		#Time to cast Soul Beam Spell, Default: 100

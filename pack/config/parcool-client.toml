@@ -51,6 +51,8 @@
 	offset_v_light_hud = 0
 	#Stamina HUD shows action charge rate, cool time or etc
 	show_action_status_bar = true
+	#Light stamina HUD shows always
+	show_light_hud_always = false
 
 [Animations]
 	#Enable custom animations
@@ -202,6 +204,8 @@
 	infinite_stamina = false
 	#Infinite Stamina while player is creative mode
 	infinite_stamina_if_creative_mode = true
+	#Enable slowing down of stamina exhaustion
+	enable_stamina_exhaustion_penalty = true
 
 	[Stamina.Consumption]
 		#Range: 0 ~ 10000

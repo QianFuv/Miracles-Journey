@@ -51,6 +51,12 @@
 	#Number of LOD models to create. Higher number should give a boost to framerate at a small cost to VRAM.
 	#Range: 0 ~ 4
 	maxLodLevels = 4
+	#Determines how luminance of dynamic lighting when the skin contains growing channels.
+	#-1 = auto (based skin cubes)
+	#0 = disabled
+	#1 ~ 15 = fixed luminance
+	#Range: -1 ~ 15
+	skinDynamicLight = -1
 
 #Change (memory use/IO access) ratio by changing setting in this category.
 [cache]

@@ -1,13 +1,13 @@
 name = "Subtle Effects"
-filename = "SubtleEffects-forge-1.20.1-1.9.4-hotfix.1.jar"
+filename = "SubtleEffects-forge-1.20.1-1.11.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4ea0e2a47ab1053cac1b74ec48b80e32f2ba80c4"
+hash = "48037ea251ce2b9c5c21b00945000936254e1660"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6376363
+file-id = 6635170
 project-id = 1023913

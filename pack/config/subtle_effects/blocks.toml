@@ -5,29 +5,6 @@ redstoneBlockDustDensity = "DEFAULT"
 glowstoneBlockDustDisplayType = "ON"
 glowstoneBlockDustDensity = "DEFAULT"
 beehivesHaveSleepingZs = true
-fallingBlockDust = true
-fallingBlockDustBlocks = [
-    "minecraft:sand",
-    "minecraft:red_sand",
-    "minecraft:gravel",
-    "minecraft:white_concrete_powder",
-    "minecraft:orange_concrete_powder",
-    "minecraft:magenta_concrete_powder",
-    "minecraft:light_blue_concrete_powder",
-    "minecraft:yellow_concrete_powder",
-    "minecraft:lime_concrete_powder",
-    "minecraft:pink_concrete_powder",
-    "minecraft:gray_concrete_powder",
-    "minecraft:light_gray_concrete_powder",
-    "minecraft:cyan_concrete_powder",
-    "minecraft:purple_concrete_powder",
-    "minecraft:blue_concrete_powder",
-    "minecraft:brown_concrete_powder",
-    "minecraft:green_concrete_powder",
-    "minecraft:red_concrete_powder",
-    "minecraft:black_concrete_powder"
-]
-fallingBlockDustDistance = 0
 torchflowerSmoke = "DEFAULT"
 torchflowerFlames = true
 dragonEggParticles = true
@@ -36,12 +13,17 @@ pumpkinCarvedParticles = true
 anvilBreakParticles = true
 anvilUseParticles = true
 grindstoneUseParticles = true
+smithingTableUseParticles = true
+stonecutterUseParticles = true
+cauldronUseParticles = true
+cauldronCleanItemSounds = true
+compostingCompostParticles = true
+compostingItemParticles = true
 commandBlockParticles = "ON"
 slimeBlockBounceSounds = true
 beaconParticlesDisplayType = "ON"
 beaconParticlesDensity = 10
 beaconParticlesSpeed = 1.0
-compostingParticles = true
 respawnAnchorParticles = true
 beehiveShearParticles = true
 endPortalParticles = true
@@ -60,6 +42,30 @@ vegetationFirefliesDensity = 30
 vegetationFirefliesSpawnType = "FLOWERS_ONLY"
 replacePowderSnowFlakes = true
 lavaCauldronEffects = true
+enderEyePlacedRings = true
+enderEyePlacedRingsDuration = 10
+enderEyePlacedParticlesDisplayType = "BOTH"
+eyeColors = [
+    [ "minecraft:ender_eye", { r = 122, g = 186, b = 171 } ],
+    [ "endrem:evil_eye", { r = 74, g = 59, b = 200 } ],
+    [ "endrem:nether_eye", { r = 107, g = 72, b = 46 } ],
+    [ "endrem:undead_eye", { r = 192, g = 213, b = 197 } ],
+    [ "endrem:rogue_eye", { r = 15, g = 234, b = 85 } ],
+    [ "endrem:cursed_eye", { r = 60, g = 13, b = 106 } ],
+    [ "endrem:magical_eye", { r = 0, g = 124, b = 134 } ],
+    [ "endrem:witch_eye", { r = 194, g = 141, b = 204 } ],
+    [ "endrem:cold_eye", { r = 64, g = 181, b = 192 } ],
+    [ "endrem:wither_eye", { r = 197, g = 207, b = 229 } ],
+    [ "endrem:exotic_eye", { r = 185, g = 236, b = 247 } ],
+    [ "endrem:guardian_eye", { r = 220, g = 140, b = 140 } ],
+    [ "endrem:lost_eye", { r = 166, g = 8, b = 40 } ],
+    [ "endrem:old_eye", { r = 203, g = 154, b = 24 } ],
+    [ "endrem:cryptic_eye", { r = 183, g = 228, b = 90 } ],
+    [ "endrem:corrupted_eye", { r = 87, g = 95, b = 91 } ],
+    [ "endrem:black_eye", { r = 2, g = 12, b = 38 } ]
+]
+endPortalFrameParticlesDisplayType = "SMOKE"
+replaceOminousVaultConnection = true
 
 [sparks]
 removeVanillaCampfireSparks = true
@@ -89,3 +95,32 @@ steamingWaterCauldron = false
 boilingWaterCauldron = false
 steamingThreshold = 11
 boilingThreshold = 13
+
+[fallingBlocks]
+dustyBlocks = [
+    "minecraft:sand",
+    "minecraft:suspicious_sand",
+    "minecraft:red_sand",
+    "minecraft:gravel",
+    "minecraft:suspicious_gravel",
+    "minecraft:white_concrete_powder",
+    "minecraft:orange_concrete_powder",
+    "minecraft:magenta_concrete_powder",
+    "minecraft:light_blue_concrete_powder",
+    "minecraft:yellow_concrete_powder",
+    "minecraft:lime_concrete_powder",
+    "minecraft:pink_concrete_powder",
+    "minecraft:gray_concrete_powder",
+    "minecraft:light_gray_concrete_powder",
+    "minecraft:cyan_concrete_powder",
+    "minecraft:purple_concrete_powder",
+    "minecraft:blue_concrete_powder",
+    "minecraft:brown_concrete_powder",
+    "minecraft:green_concrete_powder",
+    "minecraft:red_concrete_powder",
+    "minecraft:black_concrete_powder"
+]
+fallingDust = true
+fallingDustStartDistance = 3
+landDust = true
+landSound = true
