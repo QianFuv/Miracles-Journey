@@ -2090,7 +2090,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "81e5fa9923ddf487e5e57d32dd7aaaa48f08578420b097ea52fa63f35ec129f3"
+hash = "ecb02b1d1420a8102cf36184fb65ec95525c14f03e1565150427f30d0ef59fde"
 
 [[files]]
 file = "config/enchdesc.json"
@@ -2278,7 +2278,7 @@ hash = "e0aef00b8ff21c33b635a011f3e816d5b0ef194ee6465c02bebf20744675ebd7"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "eeab576474ee8cfa140a8782dcb79de36279ced440c481a6a26b4a8ce3c6a8c6"
+hash = "f44ce12823f8974debed8997e1b23e93a9889609abb8f04556de3a3551e650c9"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -8960,7 +8960,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bb06efff53724b026476f30fccb6fe2f3858e1951395a79b4a81614efba4476a"
+hash = "ed50d7f132cba12baec39fb94649a487240a0822e42d609390cdc86b3608cb6c"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -9119,6 +9119,11 @@ hash = "bc17e8021f6c95fe294dfd6d4182beb4f2f3e7be16d925c04be04f6328e5cbdd"
 metafile = true
 
 [[files]]
+file = "resourcepacks/beautiful-enchanted-books.pw.toml"
+hash = "b74aa30dda24eee86e9db42e0a49d8d51e8e879018033a4baea4fe9dd7e11b70"
+metafile = true
+
+[[files]]
 file = "resourcepacks/bees-reimagined.pw.toml"
 hash = "8f6331d5171a67e17ae75cec30d1599c689e2d8680d984322cd910d8f298a037"
 metafile = true
@@ -9193,6 +9198,26 @@ hash = "7e073b0be99cdb8cf8593b3bd2814a9773ec972717722d43aada9864a6808d95"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-moves.pw.toml"
+hash = "bec0f71dc11321e4c9176b2ac5aba33d56c9fe727c4346311757aa8e4f6a2dcc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "6c4d310b63681f924e4d81c77bb7d56655fe5b4082aca3caf361e142d5d72bfd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ice-fire-dragonsteel-weaponry.pw.toml"
+hash = "d9ccdf8c11f7d53e65a79ce0ba262ca3cfabecca672b5d8a0aaf1d58fb043507"
+metafile = true
+
+[[files]]
+file = "resourcepacks/irons-spells-n-spellbooks-armors-overhaul.pw.toml"
+hash = "3fa63a042e427abe856c1314039d44915a6a1509d1df65bac0984addb0fbb033"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
 hash = "427320d2bb8d8ee2afaa9af7be44ffafaf6150cd5e706643620e27ac8f62d879"
 metafile = true
@@ -9218,8 +9243,23 @@ hash = "f8733312b81baa7e7861cd41f67299864f7bf5f0a452a27dcbb204a3d51ba550"
 metafile = true
 
 [[files]]
+file = "resourcepacks/smooth-drawers.pw.toml"
+hash = "9c5815ffb5d6271375256dfe94860a4f52bc762ab563e7c856651953b41ccf1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/suren-ss.pw.toml"
+hash = "e6cf7478dac7f155dec678df50cfa34c87aa53f04a87105567497353451e0c73"
+metafile = true
+
+[[files]]
 file = "resourcepacks/torches-reimagined.pw.toml"
 hash = "23fb954649f5426091d13e50116c72945aadb5ed97e15db113914a5f22ffc1ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-mandalas-gui-dark-mode-mod.pw.toml"
+hash = "9da31afa22efcca60d4c6fb911c2aa88818b79bb42a11030fb2435f40e1c9a0a"
 metafile = true
 
 [[files]]

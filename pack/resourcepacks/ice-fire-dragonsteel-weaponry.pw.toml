@@ -1,0 +1,13 @@
+name = "Ice & Fire Dragonsteel Weaponry"
+filename = "IAF-DE4THR4SH-Dragonsteel-Weaponry-V-3.5-[1.20.X].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e81682978b393ddf721a2fa26b5b4aeab19ddb70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5050834
+project-id = 449442

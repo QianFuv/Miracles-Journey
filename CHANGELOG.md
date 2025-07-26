@@ -16,9 +16,9 @@
 
 - <details>
 
-  <summary> 新增资源包（共 40 个） </summary>
+  <summary> 新增资源包（共 48 个） </summary>
 
-  Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit、AeR - Blue Icestone、AeR - Consistent Bushes、AeR - Super Veridium、AeR - Vanilla Shaped
+  Bibliophilia、Mandala's GUI - Dark mode、AetherRegenerated、ALsPiglinsRevamped、ALsSkeletonsRevamped、ALsZombiesRevamped、AlternativeRainSounds、AnalogueWatchClock、AssortedAllays、AuthenticShadows、BeesReimagined、BettaClickSound、BetterCats、BetterChickens、BetterCows、BetterDogs、BetterMapItems、BetterPigs、BetterRabbits、BetterSheep、CubicSun&Moon、EclecticTrove、EnhancedMeetYourFight、FancyBeds、FarcrsBetterDirt、FormidableFoxes、OreVariants、OsShulkers、Rays3dLadders、Rays3dRails、RefinedStorageJappafied、SimpleBossBars、SparklesStardustLabsResourcepack、SpryzeensBetterGlint、TorchesReimagined、UpdatedAquaculture、UpdatedEngineering、VanillafiedAdvancementPlaque、VanillaTweaksEdit、Yuushya16xEdit、AeR - Blue Icestone、AeR - Consistent Bushes、AeR - Super Veridium、AeR - Vanilla Shaped、Beautiful Enchanted Books、Fresh Moves、Fresh Waystones Texture、Ice & Fire Dragonsteel Weaponry、Iron's Spells 'n Spellbooks  Armors Overhaul、Smooth Drawers、Suren's Sophisticated Storage、(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility
   
   </details>
 

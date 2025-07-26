@@ -1,0 +1,13 @@
+name = "Suren's Sophisticated Storage"
+filename = "Suren Sophisticated Storage v2.0.0 1.20-1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a10b227ce6773494bc7df86aaa2bc7ad04c0547"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6301108
+project-id = 1093096

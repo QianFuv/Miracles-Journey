@@ -3,7 +3,7 @@
     "weather_quality": "FANCY",
     "leaves_quality": "FANCY",
     "enable_vignette": true,
-    "use_quad_normals_for_shading": false
+    "use_quad_normals_for_shading": true
   },
   "advanced": {
     "enable_memory_tracing": false,

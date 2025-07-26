@@ -1,0 +1,13 @@
+name = "Iron's Spells 'n Spellbooks  Armors Overhaul"
+filename = "3D Armors.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ddb2c4f4eb1e831fab30cf77b82001cd9e622377"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6053990
+project-id = 1141481

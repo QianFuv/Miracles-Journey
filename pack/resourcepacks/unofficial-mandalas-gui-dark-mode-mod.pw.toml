@@ -1,0 +1,13 @@
+name = "(Unofficial) Mandala's GUI - Dark Mode Mod Compatibility"
+filename = "Mandala's GUI - Dark Mode Compat 0.3.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d430858533876d1c8560a301771d73b1b9b98f21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6689433
+project-id = 1040251

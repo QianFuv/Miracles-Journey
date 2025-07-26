@@ -1,0 +1,13 @@
+name = "Smooth Drawers"
+filename = "SmoothDrawers_1.20.1_v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f9a0a9f54f693f2fb65a44d067f0e2cffee6383"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5906805
+project-id = 974032
