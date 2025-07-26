@@ -177,9 +177,9 @@
   
 - <details>
 
-  <summary> 删除资源包（共 2 个） </summary>
+  <summary> 删除资源包（共 3 个） </summary>
   
-  Updated Aquaculture、Yuushya 16x
+  Updated Aquaculture、Yuushya 16x、Formidable Foxes
   
   </details>
   
