@@ -8960,7 +8960,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ed50d7f132cba12baec39fb94649a487240a0822e42d609390cdc86b3608cb6c"
+hash = "4cc6651217170811ba0a5f6e470e22651420f8940c541aeed15fde675974de10"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -8981,10 +8981,6 @@ hash = "b9920e0b52874b2f1ea8a26c93fab02c1137676bea9528c803f208056ea34afe"
 [[files]]
 file = "resourcepacks/AeR - Vanilla Shaped.zip"
 hash = "06873656415465eb2a3598090e89ef3b883aec7ff0133a54ff2ad5d096175e68"
-
-[[files]]
-file = "resourcepacks/MeetYourEnhancedFightV1.1.zip"
-hash = "d25f080d99d4a6ddb6a6b109819e48b634396b56bb2709f7f5d84e616fb7e2ab"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/assets/malum/textures/gui/book/entry.png"
@@ -9061,18 +9057,6 @@ hash = "64bc6d10a95e7093c6d587ff7a8c2a24e27f654cea3d8758ce710a768703ef55"
 [[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/pack.mcmeta"
 hash = "cfb36ce1784e68b732e02f2f3341a181f920bbe9ae595b6fe2812ddc69ededac"
-
-[[files]]
-file = "resourcepacks/Os' Shulkers.zip"
-hash = "678c82a75cd65c728e4813928042e743d853c96792f491871afb77bbdedd5794"
-
-[[files]]
-file = "resourcepacks/Simple Boss Bars.zip"
-hash = "f1e4cd8a78e38659052e3aeb70cbf82f2144285927d644f619ea6b831fc36ad2"
-
-[[files]]
-file = "resourcepacks/Sparkles_1.21.x_v1.1.2.zip"
-hash = "6f62f7099eb8b46071e8089baa0a6b5c92173242b4debd19721cd8bc0113edf5"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r561040_MC1.20.x.zip"
@@ -9179,12 +9163,18 @@ hash = "b7fa3da47b4d72d9dda9d08658ac78815a6db57885584515621758ce75cd7257"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon-v1.8.1a.zip"
-hash = "f1d55443bde40cd482f3d1194d16b8fe2320f21ab48200f71eb4e9e686c44d72"
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "f5e98012cc353ad12cb6cd0a272dc4e3ade24cbd4cd726fdb4b756c8abf095f6"
+metafile = true
 
 [[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "d5d6b3bffcd8026c0f09491e81dff27cdfdcf543acf4947c3e14e79e0b638e83"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-meet-your-fight.pw.toml"
+hash = "25d6199003fdf02a8255b2f19831813377ac553570d5985f9c22d4e25cc67920"
 metafile = true
 
 [[files]]
@@ -9228,6 +9218,11 @@ hash = "4446fa71409b75ba36dd7a1c79a8afa8f675eaaa79b7648fe0a80df0ac345200"
 metafile = true
 
 [[files]]
+file = "resourcepacks/os-shulkers.pw.toml"
+hash = "cb58da1898bfaf4cfa4c06a8ec72d0e5477055a35d5495b20064aff4a8dd52df"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rays-3d-ladders.pw.toml"
 hash = "e50b255ddb9bfb680ba539375b165425ea67b81f91eee2828bbba1323f042593"
 metafile = true
@@ -9243,8 +9238,18 @@ hash = "f8733312b81baa7e7861cd41f67299864f7bf5f0a452a27dcbb204a3d51ba550"
 metafile = true
 
 [[files]]
+file = "resourcepacks/simple-boss-bars.pw.toml"
+hash = "a535fa9a8260397e0dcb09222d6715d1a7c136cf231aafeb6b2e4a709065e81c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/smooth-drawers.pw.toml"
 hash = "9c5815ffb5d6271375256dfe94860a4f52bc762ab563e7c856651953b41ccf1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
 metafile = true
 
 [[files]]

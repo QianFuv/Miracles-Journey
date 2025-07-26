@@ -1,0 +1,13 @@
+name = "Simple Boss Bars"
+filename = "Simple Boss Bars.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p9UsREV6/versions/RdP4GyUP/Simple%20Boss%20Bars.zip"
+hash-format = "sha512"
+hash = "2eb0ef53ae486cf3b9301080a6452e81eacecb6a0d2a88eb0f04e1e382e19a011bead042729d042b3bc2d2553d331921be92ff7eb767b651ebfbfe0bdab98395"
+
+[update]
+[update.modrinth]
+mod-id = "p9UsREV6"
+version = "RdP4GyUP"

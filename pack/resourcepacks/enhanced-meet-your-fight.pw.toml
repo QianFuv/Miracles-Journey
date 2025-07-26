@@ -1,0 +1,13 @@
+name = "Meet Your Enhanced Fight"
+filename = "MeetYourEnhancedFightV1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aqFVak8F/versions/vWvsuscD/MeetYourEnhancedFightV1.1.zip"
+hash-format = "sha512"
+hash = "2e533648a8718c6fcdbe3f6e9342be48da912d18b6b6b01ea095e4137b250f010d832c732e570f19d60d95028b2501524d0a96e6d773951d68c5f1e8aef89639"
+
+[update]
+[update.modrinth]
+mod-id = "aqFVak8F"
+version = "vWvsuscD"

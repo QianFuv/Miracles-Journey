@@ -165,6 +165,8 @@
 
 - 关闭 IDAS 开局进度提示
 
+- 将全部 Modrinth 资源包使用 Packwiz 代理
+
 ### 删除
 
 - <details>
