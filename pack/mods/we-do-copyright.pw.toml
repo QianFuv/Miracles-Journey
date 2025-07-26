@@ -1,0 +1,13 @@
+name = "We Do Copyright"
+filename = "wedocopyright-forge-1.20.1-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "884dac9dda22a8497a746ece24d28c9f2c487eb0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6504602
+project-id = 1254805

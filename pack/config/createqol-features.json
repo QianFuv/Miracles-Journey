@@ -1,0 +1,10 @@
+{
+  "chippedSaw": true,
+  "inventoryLinker": true,
+  "shadowRadiance": true,
+  "proximitySchedule": true,
+  "displayBoardModification": true,
+  "blazeBurnerUseLiquids": true,
+  "statue": false,
+  "trashCan": true
+}

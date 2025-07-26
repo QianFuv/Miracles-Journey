@@ -1,0 +1,168 @@
+
+["Mob Tweaks"]
+	#Replaced Magma Cubes with tweaked versions, Default: true
+	tweakedMagmaCube = true
+	#Spiders will attack animals and each other if one has less health than the other, Default: true
+	hungrySpiders = true
+	#Silverfishes can swim, breath and spawn underwater, Default: true
+	fishySilverfish = true
+	#Ghasts occasionally drop Ghast Tears from themselves, Default: true
+	cryingGhast = true
+	#Ghasts can phase through walls, Default: true
+	ghostlyGhast = true
+	#Phantoms looks translucent and can phase through walls, Default: true
+	phantasmicPhantoms = true
+	#The percentage chance of setting entities on fire for a bit when hitting with a torch, Set to 0 to disable, Default: 15
+	#Range: 0 ~ 100
+	torchFire = 15
+	#How many seconds an entity is set on fire if torchFire is enabled, Default: 2
+	#Range: > 0
+	torchFireTime = 2
+	#Hitting entities with a fish knocks them back a lot, Default: true
+	fishSlap = true
+	#Being near lava, instead of just being in it, will burn entities because thermal dynamics, Default: true
+	lavaConvection = true
+	#Enderman's TNT will explode if the Enderman is on fire while holding it, Default: true
+	endermanTNTExplode = true
+	#Enderman will attack any entity that stares at them like players, unless they're wearing a Carved Pumpkin or other Enderman, Default: true
+	endermanEquality = true
+	#Mobs will be hostile to players that stared at them, like Enderman, Default: true
+	mobHatesPlayerStares = true
+	#Mobs will be hostile to anyone that stared at them, Default: false
+	mobHatesAllStares = false
+	#Sleeping entities will periodically heal from prior damage., Default: true
+	sleepingHeal = true
+	#Non-undead mobs periodically heal from prior damage when not targeting or in combat, Default: true
+	livingMobHeal = true
+
+	["Mob Tweaks".Animals]
+		#Cows don't gain effects that can be healed by drinking milk, Default: true
+		cowNoEffect = true
+		#The percentage chance of Cows exploding when taking fire damage, Set to 0 to disable, Default: 11
+		#Range: 0 ~ 100
+		methaneCow = 11
+		#Goats don't gain effects that can be healed by drinking milk, Default: true
+		goatNoEffect = true
+		#Wolves will attack baby mobs if named Princess or Cupcake, Default: true
+		babyEaterWolves = true
+		#Untamed Wolves will also attack Zombies, Default: true
+		rottenWolves = true
+		#Adult Polar Bears are far more aggressive and target most mobs, Default: true
+		violentPolarBears = true
+		#Stray cats attack entities that are smaller than it, Default: true
+		catSmallAttack = true
+		#Frogs take damage and is set aflame after eating a Magma Cube., Default: true
+		frogMagmaCubeHurt = true
+		#Chickens that are part of a Chicken Jockey will be hostile towards players or mobs that their rider is hostile towards, Default: true
+		chickenJockeyAttack = true
+		#Hoglin don't zombify if the dimension has day-night cycle and is in night time, Default: true
+		hoglinNightImmunity = true
+		#Livestock animals will retaliate against the player when attacked, Default: true
+		livestockRetaliation = true
+		#If 'livestockRetaliation' is enabled, animals will call other of its kind to retaliate as well, Default: true
+		livestockRetaliationGroup = true
+		#Livestock animals will randomly attack the player, Default: true
+		livestockRandomHostile = true
+
+	["Mob Tweaks"."Mobs Arrows"]
+		#Bow/Crossbow mobs have limited arrows., Default: true
+		limitMobArrows = true
+		#Bow/Crossbow mobs don't drop arrows if they're not wielding either weapons, Default: true
+		noBowNoArrows = true
+		#Minimum amount of arrows a mob spawns with. Only takes effect if limitMobArrows is enabled, Default: 16
+		#Range: > 0
+		minMobArrowAmount = 16
+		#Extra amount of arrows a mob can potentially spawn with. Only takes effect if limitMobArrows is enabled, Default: 48
+		#Range: > 1
+		extraMobArrowAmount = 48
+		#Add mobs that limitMobArrows does not affect. 
+		#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
+		limitArrowsBlackList = []
+
+	["Mob Tweaks".Blazes]
+		#Blazes heal from fire damage or being in fire, Default: true
+		blazeFireHeal = true
+		#Blazes melee attacks sets target on fire, Default: true
+		blazeMeleeFire = true
+		#Blazes become dimmer the lower their health, requires reset to take effect, Default: true
+		blazeHealthGlow = true
+		#Blazes can't be effected by Poison, Wither, Hunger, Saturation and Regeneration, Default: true
+		blazeNoBio = true
+
+	["Mob Tweaks".Creepers]
+		#Creeper explosions don't break blocks, Default: true
+		noCreeperGriefing = true
+		#Creepers will never target another mob and only target players, Default: true
+		playerFocusedCreepers = true
+		#Creepers follow baby mobs, Default: true
+		creeperStalkBaby = true
+		#Creepers can climb walls because real life creeper plants climbs on trees, Default: true
+		creeperClimb = true
+		#Creepers take double damage from fire, Default: true
+		fireCreeperDamage = true
+		#The percentage chance of Creepers igniting when taking fire damage, Set to 0 to disable, Default: 11
+		#Range: 0 ~ 100
+		fireCreeperIgnite = 11
+
+	["Mob Tweaks".Wardens]
+		#Mobs that have less than 100 max health will avoid the Warden, Default: true
+		mobAvoidsWarden = true
+		#Warden's attacks effects multiple entities much like Player sweep attack, Default: true
+		wardenAreaAttack = true
+		#Wardens heal after killing an entity, with the heal amount depending on the entity's experience drop, Default: true
+		wardenDeathHeal = true
+		#Wardens heal when standing on Sculk blocks, Default: true
+		wardenSculkHeal = true
+
+	["Mob Tweaks".Zombies]
+		#Illagers and Zombies are hostile to each other, Default: true
+		illagerZombieHate = true
+		#Zombies will turn into Skeletons after a long period, Default: true
+		zombieDecay = true
+		#Zombies will turn into Husks when suffocating in Sand blocks, Default: true
+		zombieSandHusk = true
+		#Zombies will turn into Husks when burning to death on desert biomes' surface, Default: true
+		zombieBurnHusk = true
+		#A Zombie will spawn on a player's location if the latter is killed by one, Default: true
+		zombiePlayer = true
+		#Drowned will dry up and convert into a regular Zombie if out of water and rain in a hot biome, Default: true
+		drownedDryUp = true
+		#Drowned will instantly extinguish themselves due to being wet, Default: true
+		drownedTooWet = true
+		#Horses will turn into Zombie Horses if killed by Zombie, Default: true
+		zombifyHorse = true
+		#Zombie Horses will turn into Skeleton Horses after a long period of time, Default: true
+		zombieHorseDecay = true
+
+	["Mob Tweaks".Illagers]
+		#Baby Villagers will grow up into an Illager if surrounded by Raiders, Default: true
+		illagerBadInfluence = true
+		#Raiders will massively explode after celebrating a successful raid, Default: true
+		illagerRaidExplode = true
+		#Patrol leaders will gain several buffs, Default: true
+		illagerPatrolLeaderBuff = true
+
+	["Mob Tweaks".Golems]
+		#Iron Golems take 1/10th damage from non-armor penetrative sources, but take extra damage from pickaxes, Default: true
+		materialIronGolems = true
+		#Snow Golems take extra damage from shovels, Default: true
+		materialSnowGolems = true
+		#Golems (and Shulkers) can't be effected by Poison, Wither, Hunger, Saturation and Regeneration, Default: true
+		golemNoBio = true
+
+	["Mob Tweaks".Piglins]
+		#Piglins and Illagers are hostile to each other, Default: true
+		piglinHateIllagers = true
+		#Piglins are hostile to Villagers, Default: true
+		piglinHateVillagers = true
+		#Piglins don't zombify if the dimension has day-night cycle and is in night time, Default: true
+		piglinNightImmunity = true
+
+	["Mob Tweaks".Effects]
+		#Hunger effect causes mobs to periodically take starvation damage unless they gain Saturation, Default: true
+		hungerAffectsMobs = true
+		#Blindness effect causes mobs to stop targeting their initial target and reduces their detection range, Default: true
+		blindnessAffectsMobs = true
+		#Strength effect increases projectile damage, if original damage is above 0, Default: true
+		strengthAffectsProjectiles = true
+

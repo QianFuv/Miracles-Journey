@@ -1,0 +1,13 @@
+name = "Create More: Parallel Pipes"
+filename = "cmparallelpipes-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a8f4086c7810def3bd9de5ad3c39f5647490752"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6681834
+project-id = 1283321

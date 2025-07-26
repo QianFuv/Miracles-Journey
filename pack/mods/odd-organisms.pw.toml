@@ -1,0 +1,13 @@
+name = "Odd Organisms"
+filename = "oddorganisms-1.20.1-0.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "441343b596e2d9c3fa8557173b75d36005245da1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5906511
+project-id = 804434

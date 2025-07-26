@@ -1,0 +1,13 @@
+name = "Create: Cardboard Things"
+filename = "createcardboardthings-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61e61694b07cd7e86bfea97cbd60944b51c9ab96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6556119
+project-id = 1268423

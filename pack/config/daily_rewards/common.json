@@ -1,0 +1,146 @@
+{
+  "automaticRewardPlayers": true,
+  "automaticRewardSpecialPlayers": true,
+  "rewardTimePerDay": 30,
+  "showUnclaimedRewardsOnPlayerJoin": true,
+  "showUnclaimedRewardsSpecialOnPlayerJoin": true,
+  "showReceivedRewardMessage": true,
+  "showReceivedRewardSpecialMessage": true,
+  "showRewardClaimCommandMessage": true,
+  "showRewardMenuOnPlayerJoin": false,
+  "rewardScreenType": "COMPACT",
+  "useFillItems": true,
+  "normalFillItems": [
+    "minecraft:cooked_beef:16",
+    "minecraft:iron_ingot:8",
+    "minecraft:oak_log:16",
+    "minecraft:white_wool:4",
+    "minecraft:gold_ingot:8",
+    "minecraft:wheat_seeds:16",
+    "minecraft:pumpkin_seeds:16",
+    "minecraft:melon_seeds:16",
+    "minecraft:beetroot_seeds:16",
+    "minecraft:arrow:32"
+  ],
+  "rareFillItems": [
+    "minecraft:diamond",
+    "minecraft:quartz:3",
+    "minecraft:spyglass"
+  ],
+  "rareFillItemsChance": 7,
+  "lootBagFillItems": [
+    "lootbagmod:lootbag"
+  ],
+  "lootBagFillItemsChance": 15,
+  "shuffleRewardsItems": true,
+  "shuffleRewardsSpecialItems": false,
+  "previewRewardsItems": true,
+  "previewRewardsSpecialItems": true,
+  "rewardsJanuaryItems": [
+    "minecraft:oak_log:32",
+    "minecraft:cooked_salmon:16",
+    "minecraft:white_wool:16",
+    "minecraft:cake:1"
+  ],
+  "rewardsJanuarySpecialItems": [
+    "minecraft:cooked_salmon:1",
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsJanuarySpecialUsers": [
+    ""
+  ],
+  "rewardsFebruaryItems": [],
+  "rewardsFebruarySpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsFebruarySpecialUsers": [
+    ""
+  ],
+  "rewardsMarchItems": [],
+  "rewardsMarchSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsMarchSpecialUsers": [
+    ""
+  ],
+  "rewardsAprilItems": [],
+  "rewardsAprilSpecialItems": [
+    "minecraft:egg:1",
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsAprilSpecialUsers": [
+    ""
+  ],
+  "rewardsMayItems": [
+    "minecraft:egg:16"
+  ],
+  "rewardsMaySpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsMaySpecialUsers": [
+    ""
+  ],
+  "rewardsJuneItems": [],
+  "rewardsJuneSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsJuneSpecialUsers": [
+    ""
+  ],
+  "rewardsJulyItems": [],
+  "rewardsJulySpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsJulySpecialUsers": [
+    ""
+  ],
+  "rewardsAugustItems": [],
+  "rewardsAugustSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsAugustSpecialUsers": [
+    ""
+  ],
+  "rewardsSeptemberItems": [],
+  "rewardsSeptemberSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsSeptemberSpecialUsers": [
+    ""
+  ],
+  "rewardsOctoberItems": [],
+  "rewardsOctoberSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsOctoberSpecialUsers": [
+    ""
+  ],
+  "rewardsNovemberItems": [],
+  "rewardsNovemberSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsNovemberSpecialUsers": [
+    ""
+  ],
+  "rewardsDecemberItems": [
+    "minecraft:firework_rocket:32"
+  ],
+  "rewardsDecemberSpecialItems": [
+    "minecraft:cake:1",
+    "minecraft:cookie:1"
+  ],
+  "rewardsDecemberSpecialUsers": [
+    ""
+  ]
+}

@@ -1,0 +1,13 @@
+#Show mod logos in the copyright page
+showModLogos = true
+#Ignore fabric api logos
+ignoreFabricApi = true
+#Enable fade in effect for the copyright page
+fadeIn = true
+#The least time to show the copyright page, in seconds
+#Range: > 1
+leastTime = 1
+#The time to auto next the copyright page, in seconds
+#Range: > 1
+autoNextTime = 4
+

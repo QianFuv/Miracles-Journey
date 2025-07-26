@@ -1,0 +1,13 @@
+name = "Lemon Lib"
+filename = "lemonlib-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51f1819ae09e3e62802c72475fa4db659a69e449"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4640910
+project-id = 471136

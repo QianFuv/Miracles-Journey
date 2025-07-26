@@ -1,0 +1,13 @@
+name = "Forge String Unpatched - Powered Permanent String"
+filename = "stringunpatched-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQYaeDI9/versions/VMwwIV2V/stringunpatched-1.0.2.jar"
+hash-format = "sha512"
+hash = "84f820bfd3a917eccefb8a652be390985d55c47b36219aa8d2e26881e3d39eb2c49b5220e4b1568808b0468cff3f66bb16eef2d6aab811225a3d094c2c313b5b"
+
+[update]
+[update.modrinth]
+mod-id = "LQYaeDI9"
+version = "VMwwIV2V"

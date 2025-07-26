@@ -1,0 +1,110 @@
+
+#Base Settings
+#基础设置
+[common]
+	#The maximum number of pages in the dustbin.
+	#垃圾箱页数限制。
+	#Range: 1 ~ 65536
+	dustbinPageLimit = 1
+	#Whether to enable automatic sweeping when there are no players on the server.
+	#服务器没人时是否启用自动打扫。
+	sweepWhenNoPlayer = false
+	#A warning sequence before sweeping.
+	#n > 0: warning n seconds before sweeping; 
+	#n = 0: warning when sweeping is successful; 
+	#n = -1: warning when sweeping fails.
+	#提示序列。
+	#n>0：打扫前n秒的提示；
+	#n=0：打扫成功时的提示；
+	#n=-1：打扫失败时的提示。
+	sweepWarningSecond = [-1, 0, 1, 2, 3, 4, 5, 10, 30, 60]
+	#A warning sequence before sweeping, used together with `sweepWarningSecond`. If left empty, the built-in default message will be used.
+	#Optional variables when n=0: [entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
+	#提示内容，配合`sweepWarningSecond`使用，留空将使用内置提示。
+	#n=0时可选变量：[entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
+	sweepWarningContent = ["§r§e香草酱什么也没吃到，失落地离开了。", "§r§e香草酱吃掉了[itemCount]个物品与[entityCount]个实体，并满意地离开了。", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。", "§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。"]
+	#Entities will not be cleaned up if they are in these blocks.
+	#Allow blocks with states, such as: minecraft:lava[level=0].
+	#实体处于该方块中时不会被清理。
+	#支持带状态的方块id，如：minecraft:lava[level=0]
+	safeBlocks = ["immersiveengineering:conveyor_basic", "immersiveengineering:conveyor_covered", "immersiveengineering:conveyor_dropper", "immersiveengineering:conveyor_droppercovered", "immersiveengineering:conveyor_extract", "immersiveengineering:conveyor_extractcovered", "immersiveengineering:conveyor_redstone", "immersiveengineering:conveyor_splitter", "immersiveengineering:conveyor_splittercovered", "immersiveengineering:conveyor_vertical", "immersiveengineering:conveyor_verticalcovered"]
+	#Entities will not be cleaned up if they are on these blocks.
+	#Allow blocks with states, such as: minecraft:lava[level=0].
+	#实体处于该方块上时不会被清理。
+	#支持带状态的方块id，如：minecraft:lava[level=0]
+	safeBlocksBelow = []
+	#Entities will not be cleaned up if they are below these blocks.
+	#Allow blocks with states, such as: minecraft:lava[level=0].
+	#实体处于该方块下时不会被清理。
+	#支持带状态的方块id，如：minecraft:lava[level=0]
+	safeBlocksAbove = []
+	#Entities located within safe blocks will still be cleared if their count in a single chunk exceeds the specified limit.
+	#即使实体处于安全方块，若其数量在单个区块中超过指定值，也将被清理。
+	#Range: > 1
+	safeBlocksEntityLimit = 250
+
+#Custom Command Settings, don't add prefix '/'
+#自定义指令，请勿添加前缀'/'
+[command]
+	#The prefix of the command, please only use English characters and underscores, otherwise it may cause problems.
+	#指令前缀，请仅使用英文字母及下划线，否则可能会出现问题。
+	commandPrefix = "aotake"
+	#This command is used to set the language.
+	#设置语言的指令。
+	commandLanguage = "language"
+	#The command to set virtual permission.
+	#设置虚拟权限的指令。
+	commandVirtualOp = "opv"
+	#The command to open the dustbin.
+	#打开垃圾箱的指令。
+	commandDustbinOpen = "dustbin"
+	#The command to clear the dustbin.
+	#清空垃圾箱的指令。
+	commandDustbinClear = "cleardustbin"
+	#The command to drop dustbin items into the world.
+	#将垃圾箱物品掉落到世界的指令。
+	commandDustbinDrop = "dropdustbin"
+	#The command to clear the cache.
+	#清空缓存的指令。
+	commandCacheClear = "clearcache"
+	#The command to drop cache items into the world.
+	#将缓存内物品掉落至世界的指令。
+	commandCacheDrop = "dropcache"
+	#The command to trigger sweeping.
+	#触发扫地的指令。
+	commandSweep = "sweep"
+	#The command to clear dropped items.
+	#清除掉落物的指令。
+	commandClearDrop = "killitem"
+
+#Concise Command Settings
+#简化指令
+[concise]
+	#Enable or disable the concise version of the 'Set the language' command.
+	#是否启用无前缀版本的 '设置语言' 指令。
+	conciseLanguage = false
+	#Enable or disable the concise version of the 'Set virtual permission' command.
+	#是否启用无前缀版本的 '设置虚拟权限' 指令。
+	conciseVirtualOp = false
+	#Enable or disable the concise version of the 'Open dustbin' command.
+	#是否启用无前缀版本的 '打开垃圾箱' 指令。
+	conciseDustbinOpen = false
+	#Enable or disable the concise version of the 'Clear dustbin' command.
+	#是否启用无前缀版本的 '清空垃圾箱' 指令。
+	conciseDustbinClear = false
+	#Enable or disable the concise version of the 'Drop dustbin items' command.
+	#是否启用无前缀版本的 '将垃圾箱物品掉落到世界' 指令。
+	conciseDustbinDrop = false
+	#Enable or disable the concise version of the 'Clear cache' command.
+	#是否启用无前缀版本的 '清空缓存' 指令。
+	conciseCacheClear = false
+	#Enable or disable the concise version of the 'Drop cache items' command.
+	#是否启用无前缀版本的 '将缓存内物品掉落至世界' 指令。
+	conciseCacheDrop = false
+	#Enable or disable the concise version of the 'Trigger sweep' command.
+	#是否启用无前缀版本的 '触发扫地' 指令。
+	conciseSweep = false
+	#Enable or disable the concise version of the 'Clear dropped items' command.
+	#是否启用无前缀版本的 '清除掉落物' 指令。
+	conciseClearDrop = true
+

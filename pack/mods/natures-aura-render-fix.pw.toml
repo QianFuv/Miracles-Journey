@@ -1,0 +1,13 @@
+name = "Nature's Aura Render Fix"
+filename = "narenderfix-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fda9f3ca65502754804dfdcae8eed443eac5fba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6615496
+project-id = 1280329

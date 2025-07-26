@@ -1,0 +1,13 @@
+name = "Create more packages"
+filename = "ccomunityboxes-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fdd4263c0095ac8372fa23cfefc1314ba014711"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6640848
+project-id = 1252942

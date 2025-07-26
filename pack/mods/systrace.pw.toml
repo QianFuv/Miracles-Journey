@@ -1,0 +1,13 @@
+name = "Systrace"
+filename = "systrace-forge-1.0.0_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e2acd33c7f609a897d92eb9e7ae1c6093b32d8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6550139
+project-id = 1269724

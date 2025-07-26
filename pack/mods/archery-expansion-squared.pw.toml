@@ -1,0 +1,13 @@
+name = "Archery Expansion Squared"
+filename = "archexpsquared-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cadcf2f75fd730f7bac09231bfa30810468266f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6425344
+project-id = 1217171

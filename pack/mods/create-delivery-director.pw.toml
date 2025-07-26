@@ -1,0 +1,13 @@
+name = "Create: Delivery Director"
+filename = "delivery_director-1.0.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37cedcdb058dbc1c5f922dabd1aaf2b2750dcde9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6562806
+project-id = 1271816

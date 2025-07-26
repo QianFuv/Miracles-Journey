@@ -1,0 +1,82 @@
+#The list of chests in which the Enigmatic Die is added
+lootTables = ["minecraft:chests/abandoned_mineshaft", "minecraft:chests/ancient_city", "minecraft:chests/ancient_city_ice_box", "minecraft:chests/bastion_bridge", "minecraft:chests/bastion_hoglin_stable", "minecraft:chests/bastion_other", "minecraft:chests/bastion_treasure", "minecraft:chests/buried_treasure", "minecraft:chests/desert_pyramid", "minecraft:chests/end_city_treasure", "minecraft:chests/igloo_chest", "minecraft:chests/jungle_temple", "minecraft:chests/nether_bridge", "minecraft:chests/pillager_outpost", "minecraft:chests/ruined_portal", "minecraft:chests/shipwreck_map", "minecraft:chests/shipwreck_supply", "minecraft:chests/shipwreck_treasure", "minecraft:chests/simple_dungeon", "minecraft:chests/spawn_bonus_chest", "minecraft:chests/stronghold_corridor", "minecraft:chests/stronghold_crossing", "minecraft:chests/stronghold_library", "minecraft:chests/underwater_ruin_big", "minecraft:chests/underwater_ruin_small", "minecraft:chests/village/village_armorer", "minecraft:chests/village/village_snowy_house", "minecraft:chests/village/village_temple", "minecraft:chests/village/village_toolsmith", "minecraft:chests/village/village_weaponsmith", "minecraft:chests/woodland_mansion", "iceandfire:chest/cyclops_cave", "iceandfire:chest/fire_dragon_female_cave", "iceandfire:chest/fire_dragon_male_cave", "iceandfire:chest/fire_dragon_roost", "iceandfire:chest/graveyard", "iceandfire:chest/hydra_cave", "iceandfire:chest/ice_dragon_female_cave", "iceandfire:chest/ice_dragon_male_cave", "iceandfire:chest/ice_dragon_roost", "iceandfire:chest/lightning_dragon_female_cave", "iceandfire:chest/lightning_dragon_male_cave", "iceandfire:chest/lightning_dragon_roost", "iceandfire:chest/mausoleum_chest", "iceandfire:chest/myrmex_desert_food_chest", "iceandfire:chest/myrmex_jungle_food_chest", "iceandfire:chest/myrmex_loot_chest", "iceandfire:chest/myrmex_trash_chest", "iceandfire:chest/village_scribe"]
+#Chance for Enigmatic Die to drop from a mob when killed by a player.
+#For example, a value of 0.005 means a 0.5% chance to drop.
+#Range: 0.0 ~ 1.0
+enigmaticDieDropChance = 0.005
+#Defines the time requirement (in minutes) for earning Enigmatic Dice from killing mobs.
+#This is NOT a cooldown.
+#For every X minutes the player spends in the world, they are allowed to obtain 1 die from mobs.
+#Example: If set to 10, then after 60 minutes of total playtime, the player may have earned up to 6 dice from mobs.
+#Set to 0 to disable the limitation entirely.
+#Range: 0 ~ 100000
+mobDiceTimeInterval = 10
+#Chance for Enigmatic Die to drop from a block when broken by a player.
+#For example, a value of 0.001 means a 0.1% chance to drop.
+#Range: 0.0 ~ 1.0
+enigmaticDieBlockDropChance = 0.001
+#Defines the time requirement (in minutes) for earning Enigmatic Dice from breaking blocks.
+#This is NOT a cooldown.
+#For every X minutes the player spends in the world, they are allowed to obtain 1 die from blocks.
+#Example: If set to 10, then after 60 minutes of total playtime, the player may have earned up to 6 dice from blocks.
+#Set to 0 to disable the limitation entirely.
+#Range: 0 ~ 100000
+blockDiceTimeInterval = 10
+#Chance for Enigmatic Die to appear in a chest.
+#Value is between 0.0 and 1.0. For example, 0.1 means a 10% chance.
+#Range: 0.0 ~ 1.0
+enigmaticDieChestChance = 0.1
+#Radius within which the structure is searched for during the 'minecraft_teleport_to_structure' event. Default is 100.
+#Higher values search further but may impact performance.
+#Range: 1 ~ 10000
+structureSearchRadius = 100
+#Radius (in blocks) to search for the target biome during the 'minecraft_teleport_to_biome' event.
+#Higher values search further but may impact performance.
+#Range: 256 ~ 10000
+biomeSearchRadius = 4480
+#Horizontal search step when scanning for biomes in the 'minecraft_teleport_to_biome' event.
+#Smaller values may increase accuracy but reduce performance.
+#Range: 1 ~ 512
+biomeHorizontalStep = 64
+#Vertical search step when scanning for biomes in the 'minecraft_teleport_to_biome' event.
+#Smaller values may increase accuracy but reduce performance.
+#Range: 1 ~ 512
+biomeVerticalStep = 128
+#Percentage of target's max health reduced per hit by Unequal Exchange sword.
+#Example: 0.10 = 10% of target's max health.
+#Range: 0.0 ~ 1.0
+unequalExchangeTargetHealthReduction = 0.1
+#Percentage of player's max health reduced per hit by Unequal Exchange sword.
+#Example: 0.20 = 20% of player's max health.
+#Range: 0.0 ~ 1.0
+unequalExchangePlayerHealthReduction = 0.2
+#Percentage reduction of player's stats (armor, speed, etc.) per hit by Unequal Exchange sword.
+#Example: 0.20 = 20% reduction.
+#Range: 0.0 ~ 1.0
+unequalExchangeStatDebuff = 0.2
+#Duration of the Unequal Exchange debuff (stat reduction) in seconds.
+#Each hit refreshes this timer.
+#Range: 0 ~ 10000
+unequalExchangeDebuffDuration = 30
+#Extra magic damage of Soul Eater's charged attack per HP spent.
+#Range: 0.0 ~ 100.0
+soulEaterChargedAttackDamagePerHP = 2.5
+#The duration of the effect of a charged Soul Eater attack (in seconds).
+#Range: 0 ~ 100000
+soulEaterChargeDuration = 60
+#Percent of killed enemy's max HP restored to the player.
+#Example: 0.1 = 10% of target's max HP.
+#Range: 0.0 ~ 1.0
+soulEaterHealPercentOnKill = 0.1
+#Percent of killed enemy's max HP added to player's max HP as bonus.
+#Example: 0.1 = +10% max HP of killed enemy.
+#Range: 0.0 ~ 1.0
+soulEaterMaxHealthStealPercent = 0.1
+#Duration (in seconds) of max health buff after killing an enemy.
+#Range: 0 ~ 100000
+soulEaterMaxHealthBuffDuration = 300
+#Maximum multiplier for player's max HP from Soul Eater.
+#Example: 2.0 = Player's max HP can be increased up to 200%.
+#Range: 0.0 ~ 100.0
+soulEaterMaxHealthMultiplierLimit = 2.0
+

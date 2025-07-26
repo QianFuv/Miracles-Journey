@@ -1,0 +1,13 @@
+name = "Unusual Prehistory"
+filename = "unusualprehistory-1.5.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04c3c233d7fcfe4bbcd638ec40e58c5f7fc7a70d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4884372
+project-id = 696283

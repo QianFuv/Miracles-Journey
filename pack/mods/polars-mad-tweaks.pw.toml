@@ -1,0 +1,13 @@
+name = "Polar's Mad Tweaks"
+filename = "polars_mad_tweaks-1.20-1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f9adb9c53a2be84490c0bbd5f6f1e98bde165f6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666053
+project-id = 979801

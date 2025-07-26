@@ -1,0 +1,13 @@
+name = "CloudGolem Edited"
+filename = "cloudgolem_edited-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0782e9135f0d998367b14ab39570bf55fb1d97cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6535247
+project-id = 1266585

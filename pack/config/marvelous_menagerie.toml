@@ -1,0 +1,7 @@
+
+["Configs for Marvelous Menagerie"]
+	#Defines if Prototaxites can be bonemealed, turned on by default, if playing on NeoForge should set it to false as it causes crashes
+	"Can be bonemealed?" = true
+	#Defines if the Hallucinating effect uses a shader that causes flashing lights. If this setting is set to "false" the effect will use a gentler shader instead.
+	"Flashy hallucinations?" = true
+

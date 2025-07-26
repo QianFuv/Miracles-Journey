@@ -1,0 +1,13 @@
+name = "Datapack Load Error Fix"
+filename = "datapackloaderrorfix-FORGE-1.20.x-a6138df.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nvQ28o2i/versions/v9XVCsTy/datapackloaderrorfix-FORGE-1.20.x-a6138df.jar"
+hash-format = "sha512"
+hash = "d43d4b1466fe8eba4dcd16ccaf48ad48f57d302af0db381bf71dde347434a9df315cfbdd2412c2deca83189f0c0d19281a008bcf526059fc1bb6e272e1e033c4"
+
+[update]
+[update.modrinth]
+mod-id = "nvQ28o2i"
+version = "v9XVCsTy"

@@ -1,0 +1,13 @@
+name = "Squid No Glitch"
+filename = "squidnoglitch-mc1.20.1-v1.0.3-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4f8e186bc18b86087b0ce00c7e833e9a279c973"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5345186
+project-id = 923510

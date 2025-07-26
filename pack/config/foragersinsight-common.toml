@@ -1,0 +1,6 @@
+
+["Bountiful Trees"]
+	#Chance for a tree's vanilla saplings to grow into its bountiful version. -1 to disable
+	#Range: -1.5 ~ 1.0
+	"Bountiful Mutations" = 0.025
+

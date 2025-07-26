@@ -1,0 +1,13 @@
+name = "Create: Nuclear Shell"
+filename = "canonnukes-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5982375a6bb306c46656a7763fc1e95979cfc8d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6660771
+project-id = 1288538

@@ -1,0 +1,13 @@
+name = "SpectrumJEI"
+filename = "SpectrumJEI-20.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "529b774512d2d68bb2f50ec3e3bd9e8e23727032"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6509231
+project-id = 1258607

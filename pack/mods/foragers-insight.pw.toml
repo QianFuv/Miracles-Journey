@@ -1,0 +1,13 @@
+name = "Forager's Insight"
+filename = "foragersinsight-1.20.1-Alpha_0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86556cefc2471e016cd5557d29e5486a85c2b3a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6605640
+project-id = 1278201

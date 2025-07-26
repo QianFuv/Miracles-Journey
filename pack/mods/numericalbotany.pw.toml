@@ -1,0 +1,13 @@
+name = "NumericalBotany"
+filename = "NumericalBotany1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "738dd6467a39fc9068270366782ae25c0deac471"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6665654
+project-id = 1289157
