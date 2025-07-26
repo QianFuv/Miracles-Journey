@@ -1,13 +1,13 @@
 name = "Veggies Delight (A Farmer's Delight Add-on)"
-filename = "veggiesdelight-1.7.2.jar"
+filename = "veggiesdelight-1.7.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "db098470583baf792f70322471f03b764acd30de"
+hash = "146bc3e02b1343476c7f01b30e314430aa3457f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6271055
+file-id = 6796431
 project-id = 1082807

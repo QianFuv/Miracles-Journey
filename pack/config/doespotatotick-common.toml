@@ -13,18 +13,23 @@
 	EntitiesModIDWhiteList = ["create", "witherstormmod"]
 	#With this turned on, all the raider won't stop ticking in raid chunks even if they are far from players (well this is not perfect as the raiders may walk out of the raid range)
 	TickRaidersInRaid = true
-	#Similar with entity whitelist, but only take effect in raid.
+	#Similar to entity whitelist, but only take effect in raid.
 	RaidEntitiesWhiteList = ["minecraft:witch", "minecraft:vex"]
-	#Similar with entity modID whitelist, but only take effect in raid
+	#Similar to entity modID whitelist, but only take effect in raid
 	RaidEntitiesModIDWhiteList = []
 	#Leave this empty for applying to all the dimensions
 	#Entities in these dimensions will be affected by the optimization
 	DimensionWhitelist = []
-	#This this is enabled, tickable check will run a lot faster, but the entity will not die out of range
+	#If this is enabled, dead entities will always tick
 	IgnoreDeadEntities = false
+	#Allow ticking of entities in force loaded chunks
+	AllowForceLoaded = true
+	#If this is enabled, hostile entities will always tick
+	IgnoreHostileEntities = false
 
 ["Item Entities Tick Settings"]
-	#Slow down item entities' ticking speed by 1/4
+	#Slow down item entities' ticking speed
+	#Note this does impact rendering continuity, so this optimization is disabled by default
 	OptimizeItemMovement = false
 	#If you don't want to let a specific item entity in the world to be effected by the optimization, you can write its registry name down here.
 	#Require 'OptimizeItemMovement' to be true

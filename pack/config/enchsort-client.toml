@@ -20,7 +20,7 @@
 	# Whether to show the max level of the enchantments
 	# This configuration has further info, see [client.ShowMaxLevel]
 	# default: false
-	showMaxLevel = false
+	showMaxLevel = true
 	# Compatible mode (may cause performance losses)
 	# Enable this config will invalidate {showMaxLevel} & {highlightTreasure}
 	# default: false

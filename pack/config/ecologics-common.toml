@@ -16,3 +16,8 @@
 	#Vanilla Azalea trees will have azalea logs instead of oak logs
 	replaceAzaleaTree = true
 
+#Plains
+[plains]
+	#Decides if Foxes should attack Squirrels.
+	replaceAzaleaTree = true
+

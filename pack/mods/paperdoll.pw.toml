@@ -1,13 +1,13 @@
 name = "PaperDoll"
-filename = "paperdoll-forge-1.3.0-mc1.20.1.jar"
+filename = "paperdoll-forge-1.3.1-mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fcf7bc928b6977d6488c03dce7af98cbd5344f6d"
+hash = "2112f1d81c7f14356b3849dc92a3f144ce7b5b7a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6492227
+file-id = 6765704
 project-id = 537079

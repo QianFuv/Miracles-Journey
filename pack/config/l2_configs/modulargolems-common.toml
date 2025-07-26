@@ -50,6 +50,11 @@ humanoidGolemSlot = 3
 dogGolemSlot = 2
 #Send force removal message
 sendForceRemovalMessage = true
+#All blockable boss attacks will be able to break shields
+bossBreakShield = true
+#Chance for each upgrade to drop when killed by Slicing Axe
+#Range: 0.0 ~ 1.0
+slicingDropUpgradeChance = 0.5
 
 [modifiers]
 	#Percentage damage reflection per level of thorn
@@ -217,4 +222,15 @@ sendForceRemovalMessage = true
 	#Soul Repair modifier healing only when golem health is below this percentage
 	#Range: 0.0 ~ 1.0
 	soulHealingThreshold = 0.75
+
+["cataclysm compat"]
+	#Harbinger Helmet Bonus: Death Laser damage boost
+	#Range: 0.0 ~ 10.0
+	laserArmorBonus = 1.0
+	#Harbinger Chestplate Bonus: Homing Missile damage boost
+	#Range: 0.0 ~ 10.0
+	missileArmorBonus = 1.0
+	#Monstrosity Armor Bonus: Monstrosity Earthquake Modifier damage boost
+	#Range: 0.0 ~ 10.0
+	earthquakeArmorBonus = 0.5
 

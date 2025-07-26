@@ -32,7 +32,7 @@ enigmaticDieChestChance = 0.1
 structureSearchRadius = 100
 #Radius (in blocks) to search for the target biome during the 'minecraft_teleport_to_biome' event.
 #Higher values search further but may impact performance.
-#Range: 256 ~ 10000
+#Range: 256 ~ 100000
 biomeSearchRadius = 4480
 #Horizontal search step when scanning for biomes in the 'minecraft_teleport_to_biome' event.
 #Smaller values may increase accuracy but reduce performance.
@@ -76,7 +76,57 @@ soulEaterMaxHealthStealPercent = 0.1
 #Range: 0 ~ 100000
 soulEaterMaxHealthBuffDuration = 300
 #Maximum multiplier for player's max HP from Soul Eater.
-#Example: 2.0 = Player's max HP can be increased up to 200%.
+#Example: 1.0 = Player's max HP can be increased up to 100%.
 #Range: 0.0 ~ 100.0
 soulEaterMaxHealthMultiplierLimit = 2.0
+#Unequal Exchange Attack Damage.
+unequalExchangeAttackDamage = 1.0
+#Unequal Exchange Attack Speed.
+unequalExchangeAttackSpeed = 1.6
+#Soul Eater Attack Damage.
+soulEaterAttackDamage = 10.0
+#Soul Eater Attack Speed.
+soulEaterAttackSpeed = 2.0
+#Bonus attack damage granted by Giant's Ring.
+#Range: 0.0 ~ 1024.0
+giantsRingAttackDamage = 3.0
+#Bonus max health granted by Giant's Ring.
+#Range: 0.0 ~ 1024.0
+giantsRingMaxHealth = 10.0
+#Bonus knockback resistance granted by Giant's Ring.
+#Range: 0.0 ~ 1.0
+giantsRingKnockbackResistance = 1.0
+#Gravity change applied while Moon Shard is in hotbar.
+#Default Minecraft gravity is 0.08.
+#Range: -1.0 ~ 1.0
+moonShardGravityReduction = -0.06
+#Gravity change applied while holding the Moon item.
+#Default Minecraft gravity is 0.08.
+#Range: -1.0 ~ 1.0
+moonGravityReduction = -0.1
+#Multiplier applied to gravity when holding SHIFT with Gravity Core.
+#Range: 0.0 ~ 100.0
+gravityCoreGravityMultiplier = 5.0
+#Impact radius coefficient when falling with Gravity Core.
+#Impact radius = fall speed * this value.
+#Range: 0.0 ~ 10.0
+gravityCoreImpactRadiusCoefficient = 1.0
+#Impact damage coefficient when falling with Gravity Core.
+#Damage = player's attack damage * fall speed * this value.
+#Range: 0.0 ~ 10.0
+gravityCoreImpactDamageCoefficient = 0.5
+#Jump strength boost applied when using Gravity Core.
+#Range: 0.0 ~ 50.0
+gravityCoreJumpStrength = 5.0
+#Cooldown in ticks for Gravity Core jump (20 ticks = 1 second).
+#Range: 0 ~ 100000
+gravityCoreCooldown = 0
+#Multiplier for movement speed in dodge chance formula.
+#Formula: dodgeChance = 1.0 - pow(0.99, movementSpeed * 100 * scale)
+#Range: 0.0 ~ 100.0
+ringOfAgilityChanceScale = 1.0
+#Maximum dodge chance.
+#Example: 0.9 = 90% maximum dodge chance.
+#Range: 0.0 ~ 1.0
+ringOfAgilityMaxDodgeChance = 0.9
 

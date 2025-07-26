@@ -1,13 +1,13 @@
 name = "You've Goat to be Kidding Me!"
-filename = "goated-1.20-1.3.4.jar"
+filename = "goated-1.20-1.3.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e867de58218dc5aeb82b5b7a1868a15027aca1ac"
+hash = "c5b87771b3dc7d682a4e2d942d284ba5f79d2196"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4802277
+file-id = 6749535
 project-id = 805646

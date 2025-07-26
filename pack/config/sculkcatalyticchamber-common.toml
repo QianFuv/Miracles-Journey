@@ -1,0 +1,6 @@
+
+#Sculk Catalytic Chamber Common Configs
+[common]
+	#Processing speed of chamber in ticks
+	speed = 100
+

@@ -1,13 +1,13 @@
 name = "Limitless Concert"
-filename = "ywzj_midi-1.20.1-forge-1.9.1-all.jar"
+filename = "ywzj_midi-1.20.1-forge-1.9.2-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb7ccb5e68f1bc355d108f1933bccfd29717e0fe"
+hash = "30d112e8700fa473811a719bed718149d5cc4423"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5397287
+file-id = 6724484
 project-id = 909540

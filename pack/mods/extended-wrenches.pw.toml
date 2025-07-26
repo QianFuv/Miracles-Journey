@@ -1,13 +1,13 @@
 name = "Create: Extended Wrenches"
-filename = "create-extended-wrenches-1.20.1-1.2.1.jar"
+filename = "create-extended-wrenches-1.20.1-1.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5fc08abd140fa076aabb67f01c919370680109dc"
+hash = "c3f522cdd55d9f440468aec184d92309c724bb78"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6653057
+file-id = 6733676
 project-id = 1283840

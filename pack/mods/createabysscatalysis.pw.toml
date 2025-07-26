@@ -1,0 +1,13 @@
+name = "Create:AbyssCatalysis"
+filename = "sculkcatalyticchamber-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3SEdjm2v/versions/gSofvQba/sculkcatalyticchamber-0.3.0.jar"
+hash-format = "sha512"
+hash = "9219c38a5f4764a297bef2400b3e433744108772fa4943de724d6cf32dfa77ca01deaa258dae5a467541235d2e02e9127f94e40cf71563340599be564bf499f1"
+
+[update]
+[update.modrinth]
+mod-id = "3SEdjm2v"
+version = "gSofvQba"

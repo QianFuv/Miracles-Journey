@@ -4,3 +4,8 @@
 	#Range: -1.5 ~ 1.0
 	"Bountiful Mutations" = 0.025
 
+["Sappy Birch"]
+	#Chance for birch saplings to grow into Sappy Variant. -1 to disable
+	#Range: -1.5 ~ 1.0
+	"Sappy Birch Mutations" = 0.25
+

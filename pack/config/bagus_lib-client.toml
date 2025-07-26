@@ -2,4 +2,6 @@
 "Enable Mini Bagu cosmetic" = false
 #Enable Cooler EndPoem Feature...(Take a look the After beat the End) [true / false]
 "Enable Cooler EndPoem" = true
+#Enable First Person Animation(When you using model change mod. should be turn off). [true / false]
+"Enable First Person Animation" = true
 

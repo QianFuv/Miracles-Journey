@@ -196,6 +196,9 @@
 	#Save Effects Soul Cost, Default: 50
 	#Range: > 1
 	saveEffectsCost = 50
+	#Void Touched Soul Cost, Default: 25
+	#Range: > 1
+	voidTouchedCost = 25
 
 [Curable]
 	#Whether Pressure is curable via Milk or Wartful Egg, Default: false

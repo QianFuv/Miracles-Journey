@@ -1,13 +1,13 @@
 name = "Unusual food's Delight"
-filename = "Unusual food's Delight1.20.1-1.1.6.jar"
+filename = "Unusual food's Delight1.20.1-1.1.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "941d78b1c842b80a74a5003b9fa65c1fecc5d105"
+hash = "bcbaf4a6d0d24bfd3253d23fe44d6720af6a96c1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6543005
+file-id = 6809903
 project-id = 1008289

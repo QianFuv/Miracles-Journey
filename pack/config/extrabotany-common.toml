@@ -167,3 +167,135 @@
 			#Range: > 0
 			cooldown = 40
 
+		#回音花
+		#Resoncund
+		[server.flower.resoncund]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 1200
+			#同种声音重复听到后的魔力生产衰减
+			#Mana produce decreases per same sound heard
+			#Range: > 0
+			lossPerHeard = 50
+
+		#日曜百合
+		#Sunshine Lily
+		[server.flower.sunshineLily]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 200
+			#每次生成的魔力量
+			#Mana generated per produce
+			#Range: > 0
+			produceMana = 2
+
+		#月耀百合
+		#Moonlight Lily
+		[server.flower.moonlightLily]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 200
+			#每次生成的魔力量
+			#Mana generated per produce
+			#Range: > 0
+			produceMana = 1
+
+		#双子兰
+		#Twinstar
+		[server.flower.twinstar]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 1000
+			#最大接受流体温度
+			#Maximum accepted temperature cap for liquid
+			#Range: > 0
+			maxTemperatureCap = 2147483647
+			#最低接受流体温度
+			#Minimum accepted temperature cap for liquid
+			#Range: > 0
+			minTemperatureCap = 0
+
+		#全知瑾
+		#Omniviolet
+		[server.flower.omniviolet]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 1500
+
+		#叮当花
+		#Tinkle
+		[server.flower.tinkle]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 1000
+			#每次生成的魔力量
+			#Mana generated per produce
+			#Range: > 0
+			produceMana = 100
+
+		#鲜血妖姬
+		#Blood Enchantress
+		[server.flower.bloodEnchantress]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 800
+			#每次生成的魔力量
+			#Mana generated per produce
+			#Range: > 0
+			produceMana = 22
+
+		#永寂龙胆
+		#Serenitian
+		[server.flower.serenitian]
+			#作用范围(方块半径)
+			#Working range in blocks
+			#Range: 1 ~ 16
+			range = 3
+
+		#镜姬
+		#Mirrowtunia
+		[server.flower.mirrowtunia]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 2000
+			#施加效果消耗的魔力量
+			#Mana cost per effect
+			#Range: > 0
+			effectCost = 100
+
+		#死之花
+		#Necrofleur
+		[server.flower.necrofleur]
+			#最大魔力值
+			#Maximum mana
+			#Range: > 0
+			maxMana = 200
+
+		#魔链星
+		#Manalink
+		[server.flower.manalink]
+			#魔力传输速度
+			#Mana transfer speed
+			#Range: > 0
+			transferSpeed = 400
+
+		#蕴魔瑾
+		#Enchanter
+		[server.flower.enchanter]
+			#转换草方块为蕴魔土的总消耗
+			#Total mana cost to transform grass to enchanted soil
+			#Range: > 0
+			transformCost = 250000
+			#魔力消耗速度
+			#Mana consume speed
+			#Range: > 0
+			consumeSpeed = 400
+

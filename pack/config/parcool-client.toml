@@ -26,6 +26,7 @@
 	can_WallSlide = true
 	can_HideInBlock = true
 	can_RideZipline = true
+	can_StartSwimByCrawl = true
 
 [Stamina_HUD_Configuration]
 	#Allowed Values: Normal, Light, Hide
@@ -155,6 +156,9 @@
 	#acceptable walll angle of wall jump : `0` means you exactly opposite to wall, `180` allow you to wall jump for all angle
 	#Range: 0 ~ 180
 	acceptable_angle_wall_jump = 110
+	#Lowest fall distance needed to trigger breakfall movements
+	#Range: 0.0 ~ 10.0
+	lowest_fall_distance_for_breakfall = 2.0
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
@@ -260,4 +264,6 @@
 		stamina_consumption_of_HideInBlock = 0
 		#Range: 0 ~ 10000
 		stamina_consumption_of_RideZipline = 2
+		#Range: 0 ~ 10000
+		stamina_consumption_of_StartSwimByCrawl = 0
 

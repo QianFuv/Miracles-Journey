@@ -1,13 +1,13 @@
 name = "Cosmopolitan"
-filename = "cosmopolitan-1.20.1-1.0.5.jar"
+filename = "cosmopolitan-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6ddb75319a481f0e1d159b65e76eefeab40c381e"
+hash = "66fe05ae1e167f32f5c2943694f94a0758ed2fbc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6672346
+file-id = 6757596
 project-id = 1259209

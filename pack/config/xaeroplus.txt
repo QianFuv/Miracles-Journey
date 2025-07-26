@@ -15,6 +15,7 @@
 [XP] Disable Receiving Waypoints:false
 [XP] Disable Waypoint Sharing:false
 [XP] Disable Xaero Internet Access:true
+[XP] Draw Order:Drawing-highlights|Drawing-lines-in-progress|Drawing-lines-saved|Drawing-text
 [XP] Drawing Opacity:150.0
 [XP] Expanded Setting Entries:false
 [XP] Fast Mapping:false
@@ -76,6 +77,7 @@
 [XP] Save/Load OldChunks to Disk:true
 [XP] Save/Load Palette NewChunks to Disk:true
 [XP] Save/Load Portals to Disk:true
+[XP] Show Coords In Right Click Options:true
 [XP] Show Render Distance:false
 [XP] Show Waypoint Distances:true
 [XP] Show World Border:false

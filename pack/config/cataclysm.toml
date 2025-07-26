@@ -1,9 +1,6 @@
 
 [Etc]
-	#Lava Opacity for the Ignitium Helemt.
-	#Range: 0.01 ~ 1.0
-	lavaVisionOpacity = 0.5
-	#Whether to disable certain aspects of the Ignitium Helemt. Enable if issues with shaders persist.
+	#Off the Custom Rendering
 	shadersCompat = false
 	#ScreenShake(on/off)
 	"ScreenShake(on/off)" = true
@@ -634,4 +631,18 @@
 	#Scylla's Lightning Storm HP Damage
 	#Range: 0.0 ~ 1000000.0
 	"Scylla's Lightning Storm HP Damage" = 0.04
+	#Scylla weather change
+	"Scylla Weather Change" = true
+
+["Boss Respawner"]
+	#on/off
+	MonstrosityRespawner = true
+	#on/off
+	EnderGuardianRespawner = true
+	#on/off
+	HarbingerRespawner = true
+	#on/off
+	RemnantRespawner = true
+	#on/off
+	ScyllaRespawner = true
 

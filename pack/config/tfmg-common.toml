@@ -3,7 +3,6 @@
 #Config options for TFMG's machinery
 [machines]
 	#.
-	#.
 	#Determines the minimum power an electric motor can run on.
 	#Range: > 1
 	electricMotorMinimumPower = 250
@@ -43,6 +42,11 @@
 	#How much FE can polarizer charge per tick.
 	#Range: > 1
 	polarizerItemChargingRate = 1000
+	#.
+	#.
+	#Changes the radius fire extinguishers can remove fire in.
+	#Range: > 0
+	fireExtinguisherClearRadius = 1
 
 	#.
 	#Accumulator
@@ -118,6 +122,22 @@
 		#Determines how many ticks does it take to consume one fuel.
 		#Range: > 1
 		blastFurnaceFuelConsumption = 600
+
+	#.
+	#Converter
+	[machines.converter]
+		#.
+		#Determines the storage space of converters.
+		#Range: > 1
+		converterStorage = 100000
+		#.
+		#Determines the voltage converters output.
+		#Range: > 1
+		converterVoltage = 12
+		#.
+		#Sets the maximum charging rate of converters.
+		#Range: > 1
+		converterChargingRate = 1000
 
 #.
 #Worldgen Settings
