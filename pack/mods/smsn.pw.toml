@@ -1,13 +1,13 @@
 name = "Save My Shaky Network"
-filename = "smsn-forge-1.2.0+mc1.20.1.jar"
+filename = "smsn-forge-1.2.3+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7ad2862a3033344082ca7af4cbe99743f4aee2c5"
+hash = "b40074b987c122f34803ce923df5573f8a18e244"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6654247
+file-id = 6673316
 project-id = 1129397

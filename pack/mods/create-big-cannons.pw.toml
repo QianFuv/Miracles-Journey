@@ -1,13 +1,13 @@
 name = "Create Big Cannons"
-filename = "createbigcannons-5.9.0-mc.1.20.1-forge.jar"
+filename = "createbigcannons-5.9.1-mc.1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b1689d75c4a9fb594434649f55fb81c07404596b"
+hash = "44b3861ad412a25b3b5ed29cc16ff331677706d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6613610
+file-id = 6696635
 project-id = 646668

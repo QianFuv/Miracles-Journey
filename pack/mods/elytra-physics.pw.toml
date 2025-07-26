@@ -1,13 +1,13 @@
 name = "Elytra Physics"
-filename = "elytra_physics-forge-2.1_mc1.19.3-1.20.4.jar"
+filename = "elytra_physics-forge-2.3_mc1.19.3-1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c63c704d48e39d6303304b0a0af9c16ccbf63191"
+hash = "9ed834e1533ffe0bd215834ae40d1587a7af73e9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5674910
+file-id = 6673404
 project-id = 650221

@@ -5,11 +5,17 @@
 [XP] Always Render Player Icon:true
 [XP] Always Render Player Name:true
 [XP] Baritone Goal Waypoint:true
+[XP] Breadcrumbs:false
+[XP] Breadcrumbs Chunk Radius:0.0
+[XP] Breadcrumbs Color:4
+[XP] Breadcrumbs Opacity:100.0
 [XP] Cross Dim Cursor Coords:false
 [XP] Data Dir Mode:0
+[XP] Deathpoints Render Distance:false
 [XP] Disable Receiving Waypoints:false
 [XP] Disable Waypoint Sharing:false
 [XP] Disable Xaero Internet Access:true
+[XP] Drawing Opacity:150.0
 [XP] Expanded Setting Entries:false
 [XP] Fast Mapping:false
 [XP] Fast Mapping Delay:250.0
@@ -64,6 +70,7 @@
 [XP] Roof Obsidian Opacity:150.0
 [XP] Roof Snow Opacity:10.0
 [XP] Roof Y Level:250.0
+[XP] Save/Load Breadcrumbs to Disk:true
 [XP] Save/Load NewChunks to Disk:true
 [XP] Save/Load OldBiomes To Disk:true
 [XP] Save/Load OldChunks to Disk:true
@@ -89,6 +96,7 @@
 [XP] Waypoint Beacon Scale Min:0.0
 [XP] Waypoint Beacons:false
 [XP] Waypoint ETA:false
+[XP] Waypoint ETA Tick Buffer:10.0
 [XP] Waystone Color:16
 [XP] Waystone WP Visibility Type:0
 [XP] Waystone Waypoint Set:false
@@ -96,6 +104,7 @@
 [XP] WorldMap Baritone Elytra Here:false
 [XP] WorldMap Baritone Goal Here:false
 [XP] WorldMap Baritone Path Here:false
+[XP] WorldMap Toggle Drawing:false
 [XP] WorldTools Highlights:true
 [XP] WorldTools Highlights Color:1
 [XP] WorldTools Highlights Opacity:100.0

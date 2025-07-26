@@ -118,5 +118,17 @@
     "length": 18.0,
     "duration": 800,
     "damage": 9.0
+  },
+  "depth": {
+    "weight": 6.0,
+    "length": 11.0,
+    "duration": 550,
+    "damage": 6.5
+  },
+  "sky": {
+    "weight": 4.0,
+    "length": 8.0,
+    "duration": 350,
+    "damage": 5.5
   }
 }

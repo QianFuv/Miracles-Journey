@@ -5,8 +5,9 @@
 	spellDamageMultiplier = 1
 	#Whether Servants change navigation modes by hitting them, put false to make them change by right-clicking on them, Default: true
 	ownerHitCommand = true
-	#Whether Servants are killed/dismissed by hitting them while crouching, put false to make them change by right-clicking on them while crouching, Default: true
-	ownerHitKill = true
+	#Whether Servants are killed/dismissed by hitting them while crouching with a wand or staff, put 1 to make them change by right-clicking on them while crouching, put 2 to disable it, Default: 0
+	#Range: 0 ~ 2
+	ownerHitKill = 0
 	#Spells have their soul cost reduced or increased depending on the surroundings around the caster, Default: true
 	environmentalCost = true
 	#Spells cost double soul cost if enchanted, Default: true

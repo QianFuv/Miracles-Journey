@@ -1,13 +1,13 @@
 name = "Deltabox Lib"
-filename = "deltaboxlib-2.1.1-forge-1.20.1.jar"
+filename = "deltaboxlib-forge-2.2.0+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3c4441309df620766fd55dfe30574a0b1328301a"
+hash = "8f5cd619b02eaccd936cc6a3e1e47fe558a728b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6473581
+file-id = 6680592
 project-id = 973463

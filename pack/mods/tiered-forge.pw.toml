@@ -1,13 +1,13 @@
 name = "Reforged (formerly Tiered)"
-filename = "Reforged-1.20.1-1.0.8-Forge.jar"
+filename = "Reforged-1.20.1-1.0.9-Forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e29cb3d0dca4c74b7b38d63199d079e759041f24"
+hash = "65a355ac5d8a4c3e272afbca3a6f06345d50eb76"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6549635
+file-id = 6683452
 project-id = 453889

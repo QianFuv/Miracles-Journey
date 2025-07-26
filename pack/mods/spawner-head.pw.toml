@@ -1,13 +1,13 @@
 name = "Spawner Head"
-filename = "spawnerhead-1.20.1-2.2.0.jar"
+filename = "spawnerhead-1.20.1-2.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9c6efbd5d52c9e441ba7e81c3929d2ace2c6594a"
+hash = "cb8fe95b67be7b153a29d6538dcf7eab180c80b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5736288
+file-id = 6680797
 project-id = 522339

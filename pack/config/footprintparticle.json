@@ -94,5 +94,6 @@
   "waterSplashLevel": 1,
   "customPrint": [
     "mod_id:mob_id,fileName_NoExtend"
-  ]
+  ],
+  "hardnessGate": 0.7
 }

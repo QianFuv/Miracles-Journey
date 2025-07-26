@@ -48,6 +48,8 @@ humanoidGolemSlot = 3
 #Default slots for dog golem
 #Range: 0 ~ 100
 dogGolemSlot = 2
+#Send force removal message
+sendForceRemovalMessage = true
 
 [modifiers]
 	#Percentage damage reflection per level of thorn

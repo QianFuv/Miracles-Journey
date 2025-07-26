@@ -1,13 +1,13 @@
 name = "UnionLib"
-filename = "UnionLib-1.20.1-12.0.16-Forge-all.jar"
+filename = "UnionLib-1.20.1-12.0.17-Forge-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cc709b9fe76367522d929c73b291fa4550567e6"
+hash = "c12f7fd1fe807bb5e2d07678aea8591f2c2be2c1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6585053
+file-id = 6672708
 project-id = 367806

@@ -7,6 +7,10 @@
 	shadersCompat = false
 	#ScreenShake(on/off)
 	"ScreenShake(on/off)" = true
+	#Forced viewpoint change when hit by a grab attack
+	"setThirdPerson(on/off)" = true
+	#Forced viewpoint change when hit by a grab attack
+	"setFirstPerson(on/off)" = true
 
 ["bosses Common settings"]
 	#custombossbar(on/off)
@@ -65,6 +69,24 @@
 	#The Immolator's Timer
 	#Range: 0 ~ 1000000
 	immolatorCooldown = 300
+	#Storm Bringer's LightningStorm Damage
+	#Range: 0.0 ~ 1000000.0
+	"Ceraunus 's Lightning Storm Damage" = 6.0
+	#Ceraunus's Wave Damage
+	#Range: 0.0 ~ 1000000.0
+	"Ceraunus's Wave Damage'" = 6.0
+	#Ceraunus's Cooldown
+	#Range: 0 ~ 1000000
+	"Ceraunus Cooldown" = 150
+	#Astrape's LightningStorm Damage
+	#Range: 0.0 ~ 1000000.0
+	"Astrape's Lightning Spear Damage" = 11.0
+	#Astrape's Wave Damage
+	#Range: 0.0 ~ 1000000.0
+	"Astrape's Area Damage'" = 2.0
+	#Astrape's Cooldown
+	#Range: 0 ~ 1000000
+	"Astrape Cooldown" = 80
 
 [Block]
 	#Cursed Tombstone Summon cooldown Minute
@@ -560,4 +582,56 @@
 	#Allowed height variance for the check - if the variance is lower than this value the structure will not spawn (has no effect if the are check is disabled)
 	#Range: 0 ~ 32
 	cursedPyramidHeightVariance = 2
+
+[Clawdian]
+	#Clawdian's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ClawdianHealthMultiplier = 1.0
+	#Clawdian's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ClawdianDamageMultiplier = 1.0
+
+[Scylla]
+	#Scylla's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ScyllaHealthMultiplier = 1.0
+	#Scylla's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	ScyllaDamageMultiplier = 1.0
+	#Scylla's Immune to Long distance attack range.
+	#Range: 1.0 ~ 1000000.0
+	"Scylla's prevent attacks from far away Range" = 10.0
+	#Scylla's Spear Damage
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Spear Damage" = 14.0
+	#Scylla's Lightning Storm
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Lightning Storm" = 10.0
+	#Scylla's Lightning Area
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Lightning Area" = 4.0
+	#Scylla's Storm Serpent
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Snake Damage" = 16.0
+	#Scylla's Anchor Damage
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Anchor Damage" = 16.0
+	#Scylla's Healing with out target
+	#Range: 0.0 ~ 1000000.0
+	"Scylla NatureHealing" = 25.0
+	#Scylla's DamageCap
+	#Range: 0.0 ~ 1000000.0
+	"Scylla DamageCap" = 22.0
+	#Scylla's DamageTime
+	#Range: 0 ~ 100
+	"Scylla DamageTime" = 25
+	#Scylla's HP Damage
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's HP Damage" = 0.05
+	#Scylla's Spin HP Damage
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Spin Hp Damage" = 0.07
+	#Scylla's Lightning Storm HP Damage
+	#Range: 0.0 ~ 1000000.0
+	"Scylla's Lightning Storm HP Damage" = 0.04
 

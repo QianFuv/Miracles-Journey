@@ -1,13 +1,13 @@
 name = "Cuisine Delight"
-filename = "cuisinedelight-1.1.16.jar"
+filename = "cuisinedelight-1.1.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "45c423d0eb71aa630cdb1bda21f2f793f1e4ccb0"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gOQjCAAD/versions/6GdNA0pB/cuisinedelight-1.1.17.jar"
+hash-format = "sha512"
+hash = "72b67482b631cb9d87c5c191199114f5a0530e1b8ccbb7b8c79dddeaeb5b7154020217151424e1b7844b6b21e750865a3bd3214b4325dd0b2136d25554b6e4d8"
 
 [update]
-[update.curseforge]
-file-id = 5814261
-project-id = 893541
+[update.modrinth]
+mod-id = "gOQjCAAD"
+version = "6GdNA0pB"

@@ -1,3 +1,18 @@
+[General]
+	#
+	############################################
+	#Enable this to show the cosmetic button in the main menu and pause screen
+	#-------------------------------------------
+	#Default: true
+	#-------------------------------------------
+	"Boolean: Show Cosmetic Button" = true
+	#
+	############################################
+	#Enable this to show the unionlib config button in the main menu and pause screen
+	#-------------------------------------------
+	#Default: true
+	#-------------------------------------------
+	"Boolean: Show Config Button" = false
 [Tooltips]
 	#
 	############################################
@@ -33,12 +48,4 @@
 	#-------------------------------------------
 	#Range: 1 ~ 100
 	"Integer: Text Overflow Scroll Speed" = 20
-[General]
-	#
-	############################################
-	#Enable this to show the unionlib config button in the main menu
-	#-------------------------------------------
-	#Default: true
-	#-------------------------------------------
-	"Boolean: Show Config Button" = false
 

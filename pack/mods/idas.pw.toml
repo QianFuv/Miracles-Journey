@@ -1,13 +1,13 @@
 name = "Integrated Dungeons and Structures"
-filename = "idas_forge-1.11.1+1.20.1.jar"
+filename = "idas_forge-1.11.2+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0a6a24bf86b55fb670205acad0cfb009ef4ee7c5"
+hash = "19353a074ee99cbb8a54d9135c1277d908783f56"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6317821
+file-id = 6701492
 project-id = 605375

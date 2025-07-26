@@ -1,13 +1,13 @@
 name = "Champions Unofficial"
-filename = "champions-forge-1.20.1-2.1.11.2.jar"
+filename = "champions-forge-1.20.1-2.1.12.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf5b249af617bd77163d2cef35621aa7cef5e2c5"
+hash = "90c7a3fc9da2280d69575b3242fd02a29026b542"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6655689
+file-id = 6685330
 project-id = 1074990
