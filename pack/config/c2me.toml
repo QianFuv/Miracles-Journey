@@ -70,7 +70,7 @@ globalExecutorParallelism = "default"
 	# It is generally not recommended to disable this settings unless you know what you are doing  
 	# 
 	# 
-	enforceSafeWorldRandomAccess = "default"
+	enforceSafeWorldRandomAccess = false
 
 [threadedWorldGen]
 	# (Default: true) Whether to enable this feature
