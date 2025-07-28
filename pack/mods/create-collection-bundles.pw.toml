@@ -1,0 +1,13 @@
+name = "Create: Collection Bundles"
+filename = "CreateCollectionBundles-forge-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbd38c3a006e55281083475becc09318d2df2a34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6737669
+project-id = 1300551

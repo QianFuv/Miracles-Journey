@@ -1,0 +1,13 @@
+name = "Enchanted Potato"
+filename = "enchantedpotato-1.20.1-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b26771ca32a1e034e5ee5ef8ff04061031746254"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6810211
+project-id = 1296661

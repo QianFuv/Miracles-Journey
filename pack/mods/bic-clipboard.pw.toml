@@ -1,0 +1,13 @@
+name = "BiC Clipboard"
+filename = "bic_clipboard-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3febe05a3d05295a8e7933b0910faf2279bd9b87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6562791
+project-id = 1205571

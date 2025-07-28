@@ -1,0 +1,19 @@
+
+#Physics Multipliers
+[Physics]
+	#Vertical shove multiplier
+	#Range: 0.0 ~ 100.0
+	yMomentumFactor = 1.0
+	#Horizontal shove multiplier
+	#Range: 0.0 ~ 100.0
+	horizontalKnockbackFactor = 1.0
+	#Total shove multiplier
+	#Range: 0.0 ~ 100.0
+	totalKnockbackFactor = 1.0
+
+#Shove Items
+[Items]
+	#List of shovel item IDs with damage values (format: 'modid:itemid=damage')
+	#By default, this generates a list of all shovel items within your modpack, so if you're adding new mods with shovels, be sure to regenerate this config.
+	shovelItems = ["minecraft:wooden_shovel=1.0", "minecraft:stone_shovel=2.0", "minecraft:golden_shovel=1.0", "minecraft:iron_shovel=3.0", "minecraft:diamond_shovel=4.0", "minecraft:netherite_shovel=5.0", "spectrum:bedrock_shovel=6.0", "pizzadelight:stone_pizza_peel=2.0", "pizzadelight:golden_pizza_peel=1.0", "pizzadelight:iron_pizza_peel=3.0", "pizzadelight:diamond_pizza_peel=4.0", "pizzadelight:netherite_pizza_peel=5.0", "botania:manasteel_shovel=3.0", "botania:elementium_shovel=3.0", "cataclysm:black_steel_shovel=3.0", "undergarden:cloggrum_shovel=4.0", "undergarden:froststeel_shovel=3.0", "undergarden:utherium_shovel=4.5", "undergarden:forgotten_shovel=4.0", "additionaladditions:rose_gold_shovel=3.0", "additionaladditions:gilded_netherite_shovel=3.0", "create_tools_n_weapons:gear_shovel=3.0", "blue_skies:bluebright_shovel=1.0", "blue_skies:lunar_shovel=1.0", "blue_skies:starlit_shovel=1.0", "blue_skies:dusk_shovel=1.0", "blue_skies:frostbright_shovel=1.0", "blue_skies:maple_shovel=1.0", "blue_skies:comet_shovel=1.5", "blue_skies:turquoise_stone_shovel=2.0", "blue_skies:lunar_stone_shovel=2.0", "blue_skies:pyrope_shovel=2.5", "blue_skies:aquite_shovel=3.0", "blue_skies:diopside_shovel=6.0", "blue_skies:charoite_shovel=4.0", "blue_skies:horizonite_shovel=3.0", "aether:skyroot_shovel=1.0", "aether:holystone_shovel=2.0", "aether:zanite_shovel=3.0", "aether:gravitite_shovel=4.0", "aether:valkyrie_shovel=4.0", "iceandfire:silver_shovel=2.0", "iceandfire:copper_shovel=1.0", "iceandfire:dragonbone_shovel=5.0", "iceandfire:myrmex_desert_shovel=2.0", "iceandfire:myrmex_jungle_shovel=2.0", "iceandfire:dragonsteel_fire_shovel=22.0", "iceandfire:dragonsteel_ice_shovel=22.0", "iceandfire:dragonsteel_lightning_shovel=22.0", "malum:soul_stained_steel_shovel=3.5", "naturesaura:infused_iron_shovel=3.0", "naturesaura:sky_shovel=4.0", "naturesaura:depth_shovel=6.0", "miniutilities:erosion_shovel=9.0", "tofucraft:tofu_kinu_shovel=1.0", "tofucraft:tofu_momen_shovel=1.25", "tofucraft:tofu_solid_shovel=2.0", "tofucraft:tofu_metal_shovel=3.0", "tofucraft:tofu_diamond_shovel=6.0", "amethysttoolsmod:iron_shovel_amethyst=5.0", "amethysttoolsmod:diamond_shovel_amethyst=6.0", "amethysttoolsmod:netherite_shovel_amethyst=7.0", "kaleidoscope_cookery:kitchen_shovel=3.0", "goety:graverobber_shovel=4.0", "goety:dark_shovel=4.0", "lost_aether_content:phoenix_shovel=5.0", "deep_aether:skyjade_shovel=3.0", "deep_aether:stratus_shovel=5.0", "aether_redux:veridium_shovel=2.0", "aether_redux:infused_veridium_shovel=2.0", "eidolon:silver_shovel=3.0", "deeperdarker:resonarium_shovel=4.0", "deeperdarker:warden_shovel=6.0", "tfmg:steel_shovel=4.0", "tfmg:aluminum_shovel=3.0", "tfmg:lead_shovel=1.5", "oreganized:electrum_shovel=4.0", "enderite:enderite_shovel=6.0", "enderite:gilded_enderite_shovel=6.5"]
+

@@ -1,0 +1,13 @@
+name = "Create: Tools n Weapons"
+filename = "create_tools_n_weapons-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2aBDweGI/versions/rSchgTag/create_tools_n_weapons-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "aded7de92b9e8a63795bd111d1a0f19039bd07f6df1a9a0f0f1e8f537d85ccac6d4204ea5a19c12f218762cc539c0c1ccb851bf0fce37e3ed85ff55647d40d02"
+
+[update]
+[update.modrinth]
+mod-id = "2aBDweGI"
+version = "rSchgTag"

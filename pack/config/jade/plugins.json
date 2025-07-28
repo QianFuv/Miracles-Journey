@@ -164,6 +164,9 @@
     "hud": true,
     "hud.redstone": true
   },
+  "create_cultivation": {
+    "cultivation_tank": true
+  },
   "aether_redux": {
     "logicator": true
   },

@@ -1,0 +1,21 @@
+
+[OceanHued]
+	#Range: > 0
+	BaseCooldownTicks = 1200
+	#Range: > 0
+	SavedCooldownTicksPerLevel = 200
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseRadius = 5.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedRadiusPerLevel = 1.5
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseMaxDamageAmount = 12.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedMaxDamageAmountPerLevel = 2.0
+	#--------
+	#Healing amount is reduced to transform to the  amount.
+	#Range: 0.0 ~ 1.0
+	BaseHealingAmountReduction = 0.5
+	#Range: 0.0 ~ 1.0
+	SavedHealingAmountReductionPerLevel = 0.1
+

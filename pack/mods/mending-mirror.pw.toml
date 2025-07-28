@@ -1,0 +1,13 @@
+name = "Mending Mirror"
+filename = "mendingmirror-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31746a81bc6b506e7176cf90b5ad74e24dbc57fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6691441
+project-id = 1291899

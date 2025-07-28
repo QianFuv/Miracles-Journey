@@ -1,0 +1,17 @@
+
+[Dissolve]
+	#Range: 0.0 ~ 1.0
+	BaseDamageReductionForExceededPart = 0.5
+	#Range: 0.0 ~ 1.0
+	GainedDamageReductionForExceededPartPerLevel = 0.1
+	#Range: 0.0 ~ 1.0
+	BaseTriggerThreshold = 0.3
+	#Range: 0.0 ~ 1.0
+	SavedTriggerThresholdPerLevel = 0.1
+	#Range: 0.0 ~ 1.0
+	MinusTriggerThreshold = 0.09
+	#Range: > 0
+	"BaseStrengthDuration(ticks)" = 200
+	#Range: > 0
+	"GainedStrengthDurationPerLevel(ticks)" = 100
+

@@ -1,0 +1,9 @@
+
+[PressurizedCollapse]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseRange = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxRangeBonus = 7.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxValidChargeTicks = 40.0
+

@@ -1,0 +1,13 @@
+name = "Newspaper (Big Book Bibliocraft Legacy Backport)"
+filename = "bibliocraft-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e09726cab6c57f62c34a073deacb7138c797a126"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6781209
+project-id = 1306385

@@ -1,0 +1,24 @@
+
+[Untouchable]
+
+	[Untouchable.CoolDown]
+		#Untouchable enchantment cooldown calculation: BasicCoolDown - CurrentEnchantmentLevel * SavedCoolDownPerLevel
+		#Range: > 0
+		"BasicCoolDown(ticks)" = 1200
+		#Range: > 0
+		"SavedCoolDownPerLevel(ticks)" = 200
+
+	[Untouchable.KnockBack]
+		#Range: 0.0 ~ 1.7976931348623157E308
+		BasicRadius = 5.0
+		#Range: 0.0 ~ 1.7976931348623157E308
+		GainedRadiusPerLevel = 1.5
+		#Range: 0.0 ~ 1.7976931348623157E308
+		BasicForce = 0.8
+		#Range: 0.0 ~ 1.7976931348623157E308
+		GainedForcePerLevel = 0.2
+		#Range: > 0
+		BasicSlownessDuration = 100
+		#Range: > 0
+		GainedSlownessDurationPerLevel = 50
+

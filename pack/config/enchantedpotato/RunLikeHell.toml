@@ -1,0 +1,15 @@
+
+[RunLikeHell]
+	#Range: 0 ~ 100
+	"LowHealthPercent(%)" = 30
+	#Range: > 0
+	"InvisibilityDuration(ticks)" = 200
+	#Range: > 0
+	"SpeedDuration(ticks)" = 200
+	#Range: > 0
+	SpeedAmplifier = 0
+	#Range: > 0
+	"EnchantmentCoolDown(ticks)" = 1200
+	#Players with Invisibility will never be targeted by mobs
+	AllowBetterInvisibility = true
+

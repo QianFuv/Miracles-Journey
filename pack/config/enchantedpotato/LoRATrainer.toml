@@ -1,0 +1,11 @@
+
+[LoRATrainer]
+	#Range: > 0
+	BaseKillCount = 100
+	#Range: > 0
+	SavedKillCountPerLevel = 10
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseDamageBonus = 0.2
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedDamageBonusPerLevel = 0.3
+

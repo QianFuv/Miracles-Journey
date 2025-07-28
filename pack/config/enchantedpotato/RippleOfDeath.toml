@@ -1,0 +1,11 @@
+
+[RippleOfDeath]
+	#Range: > 0
+	BaseRadius = 3
+	#Range: > 0
+	GainedRadiusPerLevel = 2
+	#Range: 0.0 ~ 1.0
+	BasicDamagePercent = 0.2
+	#Range: 0.0 ~ 1.0
+	GainedDamagePercentPerLevel = 0.10000000149011612
+

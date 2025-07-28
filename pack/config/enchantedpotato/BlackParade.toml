@@ -1,0 +1,7 @@
+
+[BlackParade]
+	#Range: > 0
+	"SpeedDuration(ticks)" = 200
+	#Range: > 0
+	SpeedAmplifier = 0
+

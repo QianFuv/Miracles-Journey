@@ -1,0 +1,13 @@
+name = "Create: Fantasizing Again"
+filename = "create_fantasizing-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bcb304ef162d748e43820c7d25626e3b97bfe0a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6727890
+project-id = 1279337

@@ -1,0 +1,17 @@
+
+[ArmorBreaking]
+	#Range: > 0
+	"BaseDuration(ticks)" = 200
+	#Range: > 0
+	"GainedDurationPerLevel(ticks)" = 100
+	#Range: 0.0 ~ 1.0
+	"BaseArmorReduction(%)" = 0.25
+	#Range: 0.0 ~ 1.0
+	"GainedArmorReductionPerLevel(%)" = 0.1
+	#Range: 0.0 ~ 1.0
+	"BaseArmorToughnessReduction(%)" = 0.2
+	#Range: 0.0 ~ 1.0
+	"GainedArmorToughnessReductionPerLevel(%)" = 0.1
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MinArmorReductionAmount = 2.0
+

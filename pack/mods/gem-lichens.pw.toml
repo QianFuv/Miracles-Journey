@@ -1,0 +1,13 @@
+name = "Gem Lichens"
+filename = "gemlichens-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb33a2b064e26e0edd9e71b661ee3156e236b85f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6748006
+project-id = 1303364

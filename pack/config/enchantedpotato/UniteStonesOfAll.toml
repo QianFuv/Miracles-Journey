@@ -1,0 +1,7 @@
+
+[UniteStonesOfAll]
+	UnitedStones = ["minecraft:andesite", "minecraft:granite", "minecraft:deepslate", "minecraft:tuff", "minecraft:calcite"]
+	QuartzStones = ["minecraft:granite", "minecraft:andesite"]
+	#Range: 0.0 ~ 1.0
+	QuartzDropChance = 0.15
+

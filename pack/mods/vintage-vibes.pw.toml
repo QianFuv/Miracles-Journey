@@ -1,0 +1,13 @@
+name = "Vintage Vibes"
+filename = "Vintage-Vibes-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5012e227d2bbf9f7cefe27c6520b6d1bf7c4ddb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6713271
+project-id = 1296353

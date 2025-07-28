@@ -1,0 +1,13 @@
+name = "Create: Enhanced Mastery"
+filename = "enhancedmastery-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a361ee4b510b2497e80e1ddc41236e98eb89bf68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6523499
+project-id = 1264454

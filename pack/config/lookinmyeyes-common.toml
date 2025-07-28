@@ -1,0 +1,19 @@
+
+[LookInMyEyes]
+	#Range: 0.0 ~ 360.0
+	"ViewField(Angle, default 180°)" = 180.0
+	#If enabled, PathfinderMobs would turn to the sound source when they heard sth.
+	MobsCheckSoundSource = true
+	#The possibility of mobs checking sound source when they heard sth.
+	#Range: 0 ~ 100
+	"MobsCheckSoundSourceChance(%)" = 30
+	#If enabled, you will not play any sound when sneaking
+	SneakNoSound = true
+	#If enabled, mobs that don't have target will target the source living entity when attacked
+	#Disable this may cause some strange issues between iron golems and zombies
+	MobsTargetAttacker = true
+	#Deaf entities that fail to hear anything
+	Deaf = []
+	#Blind entities that fail to see anything
+	Blind = []
+

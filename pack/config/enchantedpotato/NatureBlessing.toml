@@ -1,0 +1,21 @@
+
+[NatureBlessing]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseHealAmount = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedHealAmountPerLevel = 1.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseRadius = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedRadiusPerLevel = 1.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MinDamage = 1.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxDamage = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	DamageBaseBonusPerLevel = 2.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseKnockbackStrength = 0.5
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedKnockbackStrengthPerLevel = 0.2
+

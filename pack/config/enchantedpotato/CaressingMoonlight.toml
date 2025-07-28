@@ -1,0 +1,7 @@
+
+[CaressingMoonlight]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseDamageForEachEffect = 1.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedDamageForEachEffectPerLevel = 1.0
+

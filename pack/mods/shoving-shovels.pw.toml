@@ -1,0 +1,13 @@
+name = "Shoving Shovels"
+filename = "shoving_shovels-0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3e1000289927c8f44561ec71a7d70e0742f967c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6706579
+project-id = 1296339

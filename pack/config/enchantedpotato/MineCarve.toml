@@ -1,0 +1,7 @@
+
+[MineCarve]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseArmorReductionAmount = 2.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedArmorReductionAmountPerLevel = 0.5
+

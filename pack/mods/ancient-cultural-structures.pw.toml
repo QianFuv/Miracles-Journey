@@ -1,0 +1,13 @@
+name = "Ancient Structures: Cultural buildings"
+filename = "ancientstructures-forge-1.20.1-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77fe665da06d355572404acda20a2f0509242cac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6796905
+project-id = 1300212

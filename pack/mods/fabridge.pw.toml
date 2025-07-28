@@ -1,0 +1,13 @@
+name = "Fabridge"
+filename = "fabridge-0.0.4-R-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3014653fcc393871d708f56f3ef4f652044cef0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5545147
+project-id = 1034994

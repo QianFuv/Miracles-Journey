@@ -1,0 +1,13 @@
+
+[MarkFromTheBeneath]
+	#Range: -64.0 ~ 1.7976931348623157E308
+	ValidBaseMaxHeight = 50.0
+	#Range: -64.0 ~ 1.7976931348623157E308
+	ValidBaseMinHeight = -64.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MaxSpeedBonus = 1.5
+	#Range: 0.0 ~ 1.7976931348623157E308
+	MinSpeedBonus = 0.2
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedBaseHeightAdditionPerLevel = 10.0
+

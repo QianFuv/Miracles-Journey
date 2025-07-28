@@ -1,0 +1,36 @@
+
+[general]
+	#Adds bonus damage on backstab with a fully charged attack [Default: 0.0]
+	#Range: 0.0 ~ 1000.0
+	bonus = 0.0
+	#Changes the damage multiplier [Default: 1.5]
+	#Range: 0.0 ~ 1000.0
+	multiplier = 1.5
+	#Changes the degree needed to backstab [Default: 45]
+	#Range: 0.0 ~ 360.0
+	degree = 45.0
+	#Requires sneaking to backstab? [Default: false]
+	sneaking = false
+
+[items]
+	#What items CAN backstab? [Format: modid:itemid,(override multiplier),(override bonus)]
+	items = ["backstabreforged:wood_dagger,1.5", "backstabreforged:stone_dagger,1.7", "backstabreforged:iron_dagger,1.8", "backstabreforged:gold_dagger,1.5", "backstabreforged:diamond_dagger,1.8", "backstabreforged:netherite_dagger,1.8,1.0"]
+	#Overrides items, will enable everything (including fists) to backstab [Default: false]
+	itemsall = false
+
+[entities]
+	#What mobs CANNOT be backstabbed? [Format: modid:entityid]
+	entities_blacklist = ["minecraft:ender_dragon"]
+	#Can players be backstabbed by other players?
+	players = true
+
+[sounds]
+	#Sound played when the player backstabs [Default: 'minecraft:entity.arrow.hit_player']
+	sound = "minecraft:entity.arrow.hit_player"
+	#Changes the volume of the backstab sound [Default: 0.75]
+	#Range: 0.0 ~ 100.0
+	volume = 0.75
+	#Changes the pitch of the backstab sound [Default: 0.4]
+	#Range: 0.0 ~ 2.0
+	pitch = 0.4
+

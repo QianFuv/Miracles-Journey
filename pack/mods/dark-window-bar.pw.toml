@@ -1,0 +1,13 @@
+name = "Dark Window Bar"
+filename = "darkwindowbar-forge-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6895c6c2fb2ea112336ee1626e1829049e1bd13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6715997
+project-id = 1297905

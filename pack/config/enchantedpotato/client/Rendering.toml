@@ -1,0 +1,23 @@
+
+[EnchantedPotatoClientSettings]
+	#Range: > 0
+	RunLikeHellCooldownTextPosX = 10
+	#Range: > 0
+	RunLikeHellCooldownTextPosYOffset = 16
+	#Range: > 0
+	UntouchableCooldownTextPosX = 10
+	#Range: > 0
+	UntouchableCooldownTextPosYOffset = 30
+	#Range: > 0
+	OceanHuedCountingPosX = 10
+	#Range: > 0
+	OceanHuedCountingPosYOffSet = 44
+	#Range: > 0
+	OceanHuedCooldownPosX = 10
+	#Range: > 0
+	OceanHuedCooldownPosYOffset = 44
+	#Range: > 0
+	OceanHuedHealingAmountPosX = 10
+	#Range: > 0
+	OceanHuedHealingAmountPosYOffset = 44
+

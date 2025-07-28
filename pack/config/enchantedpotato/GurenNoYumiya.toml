@@ -1,0 +1,13 @@
+
+[GurenNoYumiya]
+	#Range: 0.0 ~ 2.147483647E9
+	SavedHoldingSecondsPerLevel = 0.25
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BaseRadius = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedRadiusPerLevel = 2.0
+	#Range: > 0
+	BaseFireSeconds = 5
+	#Range: > 0
+	GainedFireSecondsPerLevel = 4
+

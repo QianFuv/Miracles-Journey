@@ -1,0 +1,13 @@
+name = "Backstab Reforged"
+filename = "backstabreforged-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bba46c1fe38d0baf9366c459e526e26fddc0efd6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6808088
+project-id = 1309427

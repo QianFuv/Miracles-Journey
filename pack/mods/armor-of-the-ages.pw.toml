@@ -1,0 +1,13 @@
+name = "Armor of the Ages"
+filename = "Armor of the Ages-forge-1.20.1-1.5.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c9fcd962c4469156005ff421c5764d79a89fd55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6498485
+project-id = 975288

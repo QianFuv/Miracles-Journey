@@ -1,0 +1,9 @@
+
+[GraceOfGaia]
+	#Range: > -64
+	BaseValidYForEnchantmentTakingEffect = -40
+	#Range: > 0
+	GainedYPerLevel = 15
+	#Range: 0 ~ 100
+	"MaxDamageReductionPercent(%)" = 60
+

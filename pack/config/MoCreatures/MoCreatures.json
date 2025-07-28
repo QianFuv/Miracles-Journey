@@ -1,0 +1,2754 @@
+{
+  "_comment": "Mo Creatures Spawn Configuration - Edit spawn weights, counts, and biome conditions for all creatures",
+  "creatures": {
+    "snail": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ]
+        ]
+      }
+    },
+    "werewolf": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "bee": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "wild_horse": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "big_golem": {
+      "enabled": true,
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 1,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_hill"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ]
+        ]
+      }
+    },
+    "flame_wraith": {
+      "enabled": true,
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ]
+        ]
+      }
+    },
+    "wwolf": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ]
+        ]
+      }
+    },
+    "sting_ray": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ]
+        ]
+      }
+    },
+    "boar": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 2,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "mouse": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ]
+        ]
+      }
+    },
+    "green_ogre": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "liger": {
+      "enabled": false,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "angelfish": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "duck": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 2,
+      "maxCount": 4,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ]
+        ]
+      }
+    },
+    "bird": {
+      "enabled": true,
+      "weight": 16,
+      "minCount": 2,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ]
+        ]
+      }
+    },
+    "fire_ogre": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ]
+        ]
+      }
+    },
+    "hell_rat": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ]
+        ]
+      }
+    },
+    "bunny": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 2,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "dolphin": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 2,
+      "maxCount": 4,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "black_bear": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ]
+        ]
+      }
+    },
+    "firefly": {
+      "enabled": true,
+      "weight": 9,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "turtle": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ]
+        ]
+      }
+    },
+    "rat": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ]
+        ]
+      }
+    },
+    "piranha": {
+      "enabled": true,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ]
+        ]
+      }
+    },
+    "dirt_scorpion": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dry/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_hot/overworld"
+            }
+          ]
+        ]
+      }
+    },
+    "mole": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "salmon": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_water"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "grizzly_bear": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "goat": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ]
+        ]
+      }
+    },
+    "tiger": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "lion": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ]
+        ]
+      }
+    },
+    "leopard": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "turkey": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "panther": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "angler": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "elephant": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ]
+        ]
+      }
+    },
+    "toxic_manticore": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "deer": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ]
+        ]
+      }
+    },
+    "crocodile": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ]
+        ]
+      }
+    },
+    "jellyfish": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "ostrich": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 1,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            },
+            {
+              "type": "BIOME_TAG",
+              "negate": true,
+              "value": "minecraft:is_badlands"
+            }
+          ]
+        ]
+      }
+    },
+    "mini_golem": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ]
+        ]
+      }
+    },
+    "snake": {
+      "enabled": true,
+      "weight": 14,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "frost_manticore": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ]
+        ]
+      }
+    },
+    "cave_ogre": {
+      "enabled": true,
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ]
+        ]
+      }
+    },
+    "clownfish": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "kitty": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "fox": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 1,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ]
+        ]
+      }
+    },
+    "dragonfly": {
+      "enabled": true,
+      "weight": 9,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "goldfish": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ]
+        ]
+      }
+    },
+    "roach": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_hot/overworld"
+            }
+          ]
+        ]
+      }
+    },
+    "butterfly": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "panda_bear": {
+      "enabled": true,
+      "weight": 7,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "lither": {
+      "enabled": false,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "fire_manticore": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ]
+        ]
+      }
+    },
+    "plain_manticore": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "frost_scorpion": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ]
+        ]
+      }
+    },
+    "silver_skeleton": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "manderin": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "maggot": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "shark": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "dark_manticore": {
+      "enabled": true,
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "cave_scorpion": {
+      "enabled": true,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_mountain"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dry/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_hot/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "undead_scorpion": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "ant": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_hot/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dry/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_lush"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sparse/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_steep"
+            }
+          ]
+        ]
+      }
+    },
+    "hippotang": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "komodo_dragon": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "fire_scorpion": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ]
+        ]
+      }
+    },
+    "grasshopper": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "panthard": {
+      "enabled": false,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "ent": {
+      "enabled": true,
+      "weight": 5,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "manta_ray": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "panthger": {
+      "enabled": false,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ]
+        ]
+      }
+    },
+    "polar_bear": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_snowy"
+            }
+          ]
+        ]
+      }
+    },
+    "fishy": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_water"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "leoger": {
+      "enabled": false,
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ]
+        ]
+      }
+    },
+    "raccoon": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "horse_mob": {
+      "enabled": true,
+      "weight": 8,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_nether"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "bass": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ]
+        ]
+      }
+    },
+    "fly": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ]
+        ]
+      }
+    },
+    "wraith": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "MONSTER",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_coniferous"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dead"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_dense/overworld"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_spooky"
+            }
+          ]
+        ]
+      }
+    },
+    "anchovy": {
+      "enabled": true,
+      "weight": 12,
+      "minCount": 1,
+      "maxCount": 6,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_river"
+            }
+          ]
+        ]
+      }
+    },
+    "cricket": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_forest"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_jungle"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_plains"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_swamp"
+            }
+          ]
+        ]
+      }
+    },
+    "filch_lizard": {
+      "enabled": true,
+      "weight": 6,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_savanna"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "forge:is_sandy"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_badlands"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "cod": {
+      "enabled": true,
+      "weight": 10,
+      "minCount": 1,
+      "maxCount": 4,
+      "category": "WATER_CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ],
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_ocean"
+            }
+          ]
+        ]
+      }
+    },
+    "wyvern": {
+      "enabled": true,
+      "weight": 16,
+      "minCount": 1,
+      "maxCount": 3,
+      "category": "CREATURE",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "mocreatures:is_wyvern_lair"
+            }
+          ]
+        ]
+      }
+    },
+    "crab": {
+      "enabled": true,
+      "weight": 11,
+      "minCount": 1,
+      "maxCount": 2,
+      "category": "AMBIENT",
+      "biomes": {
+        "biomes": [
+          [
+            {
+              "type": "BIOME_TAG",
+              "negate": false,
+              "value": "minecraft:is_beach"
+            }
+          ]
+        ]
+      }
+    }
+  }
+}

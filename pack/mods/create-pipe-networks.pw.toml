@@ -1,0 +1,13 @@
+name = "Create: Pipe Networks"
+filename = "pipe_networks-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5644a4e0134f109402f0fc11af7e8db050730a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6786421
+project-id = 1304628

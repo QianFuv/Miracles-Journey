@@ -1,0 +1,6 @@
+
+[MendingMirror]
+	#Range: 0.01 ~ 1.0
+	RemainingDurability = 0.3
+	PlaySoundOnRecovering = true
+

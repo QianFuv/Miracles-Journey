@@ -462,6 +462,17 @@
       },
       "sync": "davespotioneering:davespotioneering"
     },
+    "decorative_stands:scope": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "decorative_stands:scope"
+    },
     "eidolon:hearts": {
       "displacement": {
         "x": 0,
@@ -494,6 +505,61 @@
         "y": "NONE"
       },
       "sync": "eidolon:raven_charge"
+    },
+    "enchantedpotato:ocean_hued_cooldown": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:ocean_hued_cooldown"
+    },
+    "enchantedpotato:ocean_hued_counting": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:ocean_hued_counting"
+    },
+    "enchantedpotato:ocean_hued_healing_amount": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:ocean_hued_healing_amount"
+    },
+    "enchantedpotato:run_like_hell_cooldown": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:run_like_hell_cooldown"
+    },
+    "enchantedpotato:untouchable_cooldown": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:untouchable_cooldown"
     },
     "extrabotany:hud": {
       "displacement": {
@@ -703,6 +769,17 @@
         "y": "NONE"
       },
       "sync": "irons_spellbooks:spell_wheel"
+    },
+    "kaleidoscope_cookery:pot_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "kaleidoscope_cookery:pot_overlay"
     },
     "l2itemselector:tool_select": {
       "displacement": {
