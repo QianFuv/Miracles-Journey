@@ -9667,12 +9667,12 @@ hash = "e77aa381b33551358ed144a6b1fe0a4c46049826651abe35b4b9bceffeddfbbe"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.01.2.zip.txt"
+file = "shaderpacks/BSL_v10.0.zip.txt"
 hash = "f429f695f04c47251540de916664f6b9c869da9e6b1cd268dc104920ca202632"
 
 [[files]]
-file = "shaderpacks/Bliss-Shader-24-11-17.zip"
-hash = "5c79c8ca72107dac6425711c21107ad21eca1e5945776eaf8fc5a7911c6edf4c"
+file = "shaderpacks/Bliss-Unstable-250804.zip"
+hash = "5161036076c7a20207a6c77edc2e8beeacd2d332cbb809b7ce4331af3f34802c"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt"
@@ -9683,19 +9683,19 @@ file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.txt"
 hash = "a571ddccbc2beffe782718aa64cc8ca4677af541d41ca95baccc4bc7d1ce4b76"
 
 [[files]]
-file = "shaderpacks/Kappa_v5.2.zip.txt"
+file = "shaderpacks/Kappa_v5.3.zip.txt"
 hash = "08e099afe5b94e696b068f8d854d66f28198af574a7f8a61ffc7587e75e7a66d"
 
 [[files]]
-file = "shaderpacks/Lux_v1.1_patch2.zip.txt"
+file = "shaderpacks/Lux_v1.2.zip.txt"
 hash = "6f73c7de1849ded82164ade49c54e01a65567259b064890e6269bb6c8f2edcc5"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1c.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-9.3b.zip.txt"
 hash = "42f0d2d5cf0e18fa5f2c1a7015f75e99499a493e4e11f340ceac9f33dbb5fc3b"
 
 [[files]]
-file = "shaderpacks/Nostalgia_v5.0.zip.txt"
+file = "shaderpacks/Nostalgia_v5.1.zip.txt"
 hash = "a6584f19c63590f8611542e4209a54b926abe47bbf38a5309d949762667e1858"
 
 [[files]]
@@ -9707,13 +9707,21 @@ file = "shaderpacks/Photon-GAMS-25-01-14.zip.txt"
 hash = "d5f8d6f25eb91c9f69f447a0246894fcd50d2d24173f34d51844d8d07af51cd7"
 
 [[files]]
+file = "shaderpacks/Photon-Origin-Stable-250730.zip"
+hash = "fff7415c9b29e2077900947d5e873bdd16af9786ed54adc5e6f9de0e812babfe"
+
+[[files]]
+file = "shaderpacks/Photon-Origin-Stable-250730.zip.txt"
+hash = "26e3845cce2a3f48d2bb69f163a66f2ee7c7cc2cf1eae2ccb87f34b083efd2e9"
+
+[[files]]
 file = "shaderpacks/astralex-shader-bsl-edit.pw.toml"
 hash = "08d5f98c632dc89d2c4b402e24cabb712b8ce6aec57ce34c902174e9079ba2b8"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d479bbe8293b2733e288c3b5591cb3e48bcfdccdb60ddbd578bca4770a744caa"
+hash = "6d9bbd7b23c083646f95290fdb247e84aa8c2ec96a23e625e73d504587a87547"
 metafile = true
 
 [[files]]
@@ -9728,31 +9736,23 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/kappa-shader-by-rre36.pw.toml"
-hash = "daaf2295b41722677db35ccbb9adf39027499251dc861a68de9743f8704e6567"
+hash = "c53cd275ac72dbe67b8da15f14ea7f0bc7abbc1598ac094f0f5338a478f0f097"
 metafile = true
 
 [[files]]
 file = "shaderpacks/lux-shaders.pw.toml"
-hash = "534680cf9364f207e0fe6b3b6d483d8ef6bea9a2d589db245a6d592895995e30"
+hash = "3c6bc138293a27d4b32b8f184f1906eadca949913edbc3626afb9d128d138f2c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "632ba0bfd4209ba7423e63b037726020a295b71846df772ff67727e82ada9bab"
+hash = "8b3856328926876fb777bafc0accb6dcfd8d1514a2334c999363dc08fb290d25"
 metafile = true
 
 [[files]]
 file = "shaderpacks/nostalgia-shader.pw.toml"
-hash = "112f2c88a8417d9962f5278e8d2c6474421c02491ea6b90ec4c7716b4e706034"
+hash = "d233ca09a78872f9508907bf71551b0067540785121e5d5b5f24c477ebe06c31"
 metafile = true
-
-[[files]]
-file = "shaderpacks/photon-Origin-25-01-11.zip"
-hash = "d5cafadbfe26ba3f5db2e58ebbb03667cea8b9c24ed523181efce301d3e60bf0"
-
-[[files]]
-file = "shaderpacks/photon-Origin-25-01-11.zip.txt"
-hash = "26e3845cce2a3f48d2bb69f163a66f2ee7c7cc2cf1eae2ccb87f34b083efd2e9"
 
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"

@@ -1,13 +1,13 @@
 name = "Lux V1"
-filename = "Lux_v1.1_patch2.zip"
+filename = "Lux_v1.2.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bd730268ebe3e6e1a855339d99984a4ebac54145"
+hash = "54b9eb8f75f8ac74a2dd98b1290c5c76e123f290"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5499228
+file-id = 6313754
 project-id = 863609

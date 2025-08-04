@@ -1,13 +1,13 @@
 name = "Kappa Shader"
-filename = "Kappa_v5.2.zip"
+filename = "Kappa_v5.3.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d77233ff71badb1d2456e5ed83defa3bc6f99896"
+hash = "620388c59df919fc29f8762268942f4871c2fb55"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4582668
+file-id = 6247473
 project-id = 322270

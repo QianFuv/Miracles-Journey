@@ -1,13 +1,13 @@
 name = "Nostalgia Shader"
-filename = "Nostalgia_v5.0.zip"
+filename = "Nostalgia_v5.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "920fa5e58e670f421373efab4fc96908871b19b8"
+hash = "c93900007773ce0314539461e26aa8faadf4aec9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4584428
+file-id = 6247535
 project-id = 326302
