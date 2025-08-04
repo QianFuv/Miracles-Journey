@@ -1650,7 +1650,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "47906f06e0d27c2f01b9adfba3669d679c99f29ee2f1ff18c89f2bea52c5ca9e"
+hash = "62fc8f297c2c83bd96ef980b77f21cae229c0fc1e6310e8404b5b87af8dd960b"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2170,7 +2170,7 @@ hash = "9d8c86721d40424c83bfddbc62b2d135e75bb20d773d70a6ddc7df6b130641dd"
 
 [[files]]
 file = "config/enchantedpotato/README.txt"
-hash = "3e978ef2ce2ddb302f86f98f39b5c3f63768f5d797896fc32942fd637e4e96ba"
+hash = "ec4de6fe36d7e313351a4f71f58553c8bd533532d4d3149733bc52b0a15fcaa2"
 
 [[files]]
 file = "config/enchantedpotato/RippleOfDeath.toml"
@@ -2270,7 +2270,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
-hash = "7d0bfba8907b0a95119a276acf5fb6377521bcdbf15aa9f9b99b7d8591c724bc"
+hash = "4212da12832a4e7a4665e5dca481a2e27a69f520c204b7172619e419893c0f8d"
 
 [[files]]
 file = "config/exoticbirds-common.toml"
@@ -3634,7 +3634,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "bdb991582d022395b1a738a306f8c0367d7acb10b8effe08d68c2c3b2119165e"
+hash = "2670999894b34c8394f4a22db4c361842a269700418b05aab6c65f19f004a796"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -4342,6 +4342,10 @@ hash = "1bd4702118ec5503c30447af7fca5d5a720e06076c9ad466b3b20e2595c67360"
 [[files]]
 file = "config/spelunkery-common.toml"
 hash = "71e84e1b122fc15a945d54ccb38d5890c376264e80aa26d570b16b2cd12bae6d"
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "1a3c3ba054db1b7309b1b9809daed401687a6f6cf8723e14ff7d413dd8ccebc6"
 
 [[files]]
 file = "config/spyglass_improvements-client.toml"
@@ -6568,7 +6572,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "a4d3d0c9423d5fb696fc9de76e6ed4a1a0655235f058d4f3a1d24d4048a18f03"
+hash = "bf697489c5b13c7e10cb62508f1b6a3da8855da651a30038332777746865263e"
 metafile = true
 
 [[files]]
@@ -7184,6 +7188,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
+metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
 metafile = true
 
 [[files]]
@@ -7916,10 +7925,6 @@ hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
 
 [[files]]
-file = "mods/oculus-flywheel-compat-forge1.20.1+1.1.4.jar.disabled"
-hash = "811440638f88dc328f88de8d6ed0b42d4db08e84e0586457740ec424f3c99296"
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
@@ -8600,8 +8605,9 @@ hash = "2e57bb84178b5af2717a1d43b593c1efa4201587b19dc0108ddac9498ed97426"
 metafile = true
 
 [[files]]
-file = "mods/spyglass_improvements-1.5+mc1.20+forge.jar.disabled"
-hash = "946a13664f233156c98ccb2441b3d5e877c366cda311b0f47a8bc868684c9bda"
+file = "mods/spyglass-improvements.pw.toml"
+hash = "1199d9648719fef83053a05c0042740be7771da5405f49937062cfa894965058"
+metafile = true
 
 [[files]]
 file = "mods/squid-no-glitch.pw.toml"
@@ -9349,7 +9355,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2158b489d5d188a42a7e9f1c279add7ad7d5a981fdd3e3efd2dc3f7f3b85841b"
+hash = "8aedceb9c69619f3c001a7fa5efb4e05d51d92a1a1ebca354ea4794ea8ad4b11"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -9675,11 +9681,11 @@ file = "shaderpacks/Bliss-Unstable-250804.zip"
 hash = "5161036076c7a20207a6c77edc2e8beeacd2d332cbb809b7ce4331af3f34802c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5.txt"
 hash = "9fc51ce1d985409a3a5da52ea716102eeb28c9b9a6ffc78ce86f5f182ce8eb1c"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.4 + EuphoriaPatches_1.5.2.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5.txt"
 hash = "a571ddccbc2beffe782718aa64cc8ca4677af541d41ca95baccc4bc7d1ce4b76"
 
 [[files]]
@@ -9726,12 +9732,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
+hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
+hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
 
 [[files]]
