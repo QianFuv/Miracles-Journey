@@ -1650,7 +1650,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "62fc8f297c2c83bd96ef980b77f21cae229c0fc1e6310e8404b5b87af8dd960b"
+hash = "a0022fd002e8bedd5dec665bdc91fd8f8a00e4e085555895a921aa6626bb59b1"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -9803,6 +9803,10 @@ hash = "43d3b0616be38d608fc3a14105baf3d0ba4c5c58dcee67133ba6a5f9b3b52dc3"
 [[files]]
 file = "vaultpatcher/patch/com/yyon/grapplinghook/controllers/GrappleController.class"
 hash = "ac476b017d4e572d8462023acab0027c9ce16127be4659fbd882575b2d7019f9"
+
+[[files]]
+file = "vaultpatcher/patch/de/dafuqs/spectrum/mixin/compat/connectormod/present/PlayerEntityMixin.class"
+hash = "59cbff751d49df6e0d5d318c43c220e7941eec34f0c2fec9cd91a5513e4963cd"
 
 [[files]]
 file = "vaultpatcher/patch/dlovin/inventoryhud/gui/renderers/VerticalMiniPotionRenderer.class"
