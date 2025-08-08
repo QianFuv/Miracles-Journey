@@ -1,13 +1,13 @@
 name = "Loading Backgrounds"
-filename = "loadingbackgrounds-forge-1.20.2-1.8.0.jar"
+filename = "loadingbackgrounds-2.0.0-forge-1.20.X.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "baa1f63e069fec0c9cd362c214d9ca920df4b3dc"
+hash = "533c3b8ebf9e5e79182819ea0a3a4717820af2c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6290276
+file-id = 6843628
 project-id = 882539

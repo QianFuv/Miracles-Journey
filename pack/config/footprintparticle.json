@@ -95,5 +95,6 @@
   "customPrint": [
     "mod_id:mob_id,fileName_NoExtend"
   ],
-  "hardnessGate": 0.7
+  "hardnessGate": 0.7,
+  "lifeTimeAcc": 0
 }

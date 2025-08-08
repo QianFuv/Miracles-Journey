@@ -1,13 +1,13 @@
-name = "More Mod Tetra"
-filename = "more_mod_tetra-1.0.5.jar"
+name = "[MMT]More Materials Tetra"
+filename = "more_mod_tetra-1.1.32.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fb9dc2e94ab2b5639b44722c468862199fbf5aa8"
+hash = "44c90b80aa37099e36a9852d5d0e562460c2d89e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6814205
+file-id = 6858199
 project-id = 1311159

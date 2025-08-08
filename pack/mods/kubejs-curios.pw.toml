@@ -1,13 +1,13 @@
 name = "KubeJS Curios"
-filename = "kubejs_curios_forge_1.20.1-1.0.3.jar"
+filename = "kubejs_curios_forge_1.20.1-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "43108f80b7776845a9da30c3623a73b5c448aac9"
+hash = "e09eb503cfb62fec1264321dc605cbcace5a58c9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6686627
+file-id = 6825088
 project-id = 1255211

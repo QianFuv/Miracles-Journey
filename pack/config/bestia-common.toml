@@ -1,0 +1,5 @@
+
+[Features]
+	#View, apply, and use special buffs (the ones you get every 10 levels). This should not interfere with any data generated already.
+	enableSpecialBuffs = true
+

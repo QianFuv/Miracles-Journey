@@ -1,13 +1,13 @@
 name = "Forager's Insight"
-filename = "foragersinsight-1.20.1-0.5(TnT).jar"
+filename = "foragersinsight-1.20.1-1.0(TnT).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pGSJamiv/versions/45iphnU2/foragersinsight-1.20.1-0.5%28TnT%29.jar"
+url = "https://cdn.modrinth.com/data/pGSJamiv/versions/b36MLn8h/foragersinsight-1.20.1-1.0%28TnT%29.jar"
 hash-format = "sha512"
-hash = "6461cc53e147edc35588b86c0439b4eb71db02d4a303a6c1835f770f8112d0090af836ffd533503ad86ecb96132babbdbb2a18dceff0ae632f94e851aa988959"
+hash = "c48b9583b4fcb0d43ace0def122c00ecbb63a4636d01a7ba811008030651dc30df3f49885171d97f25a9d95eb7b40f2dff99c63af445c0548fd8f2c6aecb73ef"
 
 [update]
 [update.modrinth]
 mod-id = "pGSJamiv"
-version = "45iphnU2"
+version = "b36MLn8h"

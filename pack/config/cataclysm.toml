@@ -12,11 +12,6 @@
 ["bosses Common settings"]
 	#custombossbar(on/off)
 	"custombossbar(on/off)" = true
-	#BossMusic(on/off)
-	"BossMusic(on/off)" = true
-	#BossMusicVolume(denominator)
-	#Range: 1 ~ 1000000
-	BossMusicVolume = 1
 	#If the boss leaves the summoned location and there is no target, it returns to the summoned location. When set to 0, it does not return
 	#Range: 0 ~ 200
 	ReturnHome = 20
@@ -645,4 +640,17 @@
 	RemnantRespawner = true
 	#on/off
 	ScyllaRespawner = true
+
+["bosses Music"]
+	#BossMusic(on/off)
+	"BossMusic(on/off)" = true
+	#BossMusicVolume(denominator)
+	#Range: 1 ~ 1000000
+	BossMusicVolume = 1
+	#Enable separate music per boss phase
+	"IgnisSeparatePhaseMusic(on/off)" = true
+	#Enable separate music per boss phase
+	"EnderGuardianSeparatePhaseMusic(on/off)" = true
+	#Enable separate music per boss phase
+	"LeviathanSeparatePhaseMusic(on/off)" = true
 

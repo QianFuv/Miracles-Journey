@@ -1,13 +1,13 @@
 name = "Decorative Stands"
-filename = "decorative_stands-1.20.1-0.3.jar"
+filename = "decorative_stands-1.20.1-0.3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "447e68fac7c5b4791826505a3076a3e4c33f8cdb"
+hash = "1b57d107c085019afd216fbe8e29d39bcf82aa85"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6799356
+file-id = 6838792
 project-id = 1304159

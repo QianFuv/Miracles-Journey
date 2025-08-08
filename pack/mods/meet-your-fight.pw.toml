@@ -1,13 +1,13 @@
 name = "Meet Your Fight"
-filename = "meetyourfight-1.20.1-1.5.1.jar"
+filename = "meetyourfight-1.20.1-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b48a9c4db0ac3f4c4e098b6ef2a4191244a7203d"
+hash = "5d2f45ae68fb67e25c3ebd97d41a3e4759ef1a6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6790489
+file-id = 6816822
 project-id = 409371

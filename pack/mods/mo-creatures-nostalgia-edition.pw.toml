@@ -1,13 +1,13 @@
 name = "Mo’ Creatures: Nostalgia Edition"
-filename = "mocreatures-1.20.1-1.0.0.beta3-mohistfix.jar"
+filename = "mocreatures-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "51a06bce46799e736427219f9082fe46f80ecd51"
+hash = "c1fc47c61f138523463e4d4e13f5d17f6da605d1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6754627
+file-id = 6827220
 project-id = 1265366

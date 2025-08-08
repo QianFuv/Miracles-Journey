@@ -71,6 +71,7 @@
     "buildingMaxFloors": 8,
     "avoidFoliage": true,
     "buildingMinCellars": 0,
+    "railwaySurfaceStationsEnabled": true,
     "buildingFrontChance": 0.2,
     "baseBlock": "minecraft:stone",
     "ruinMaxlevelPercent": 0.4,

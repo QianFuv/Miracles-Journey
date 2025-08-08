@@ -1,13 +1,13 @@
-name = "Aether Addon: Gloves For All"
-filename = "aether_gloves_for_all-1.20.1-1.0.1-neoforge.jar"
+name = "Aether: Gloves For All"
+filename = "aether_gloves_for_all-1.20.1-1.1.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "83db419d51c9a813e013823816ff982c16070aad"
+hash = "cf8e371516c5b41818b91470be35122f0d26e702"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6700498
+file-id = 6846314
 project-id = 1294320
