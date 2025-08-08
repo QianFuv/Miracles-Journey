@@ -22,7 +22,7 @@
   "chatNameFormat": "\u003c$\u003e",
   "shiftChat": 0,
   "messageDrafting": true,
-  "searchDrafting": true,
+  "searchDrafting": false,
   "hideSearchButton": true,
   "copyColor": 5636095,
   "copyReplyFormat": "/msg $ "
