@@ -1189,6 +1189,10 @@ file = "config/bcc-common.toml"
 hash = "d048f1f87fd8e006a5a77accb0416f7ef673197b29d65d0397dce7eb6b2b7d0f"
 
 [[files]]
+file = "config/beautifiedchatclient.json5"
+hash = "fd20f923db33eadb5b98950d754d2dfa58d75ec0f9f23590978d699c41739745"
+
+[[files]]
 file = "config/berry_good-common.toml"
 hash = "063288c23cc0302177b68b487872ea9cdd3d3d5f916ddf47d1dcd393cc4a56fa"
 
@@ -1470,7 +1474,7 @@ hash = "29dffdda6c48191496cca75a8fc9807b3bbc7ea436ce3987f781056889d459a2"
 
 [[files]]
 file = "config/chatboost.json"
-hash = "c9b6b8415780680b168c4b5474897fdb21f4985a1be0612c084c5f9680638d96"
+hash = "0edb2b2b01cbdcaeb768941c81d46b295097b2f174667bb356384ca499d532d6"
 
 [[files]]
 file = "config/chefsdelight-common.toml"
@@ -1654,7 +1658,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "934e894e0855633e003ae10fa0a4658e16b03436dec7f58178037f2a434a2ad1"
+hash = "3387bdfbc148d089526c8b4b2f9900f63e2ef02cebe0515ceb90735f636e3a92"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -4188,6 +4192,10 @@ file = "config/simple-custom-early-loading.json"
 hash = "63e0201acc386e7bdacfbba85b825f304590eb01fc53b80a708659c7f0da1ce4"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "7c50056778ef7479379cf50eb3a3a3945362c927c4fd8229f99350a283e4eee8"
+
+[[files]]
 file = "config/simplehats-client.toml"
 hash = "6defd38a42d02dac469841cf2f0f279f0af461ecfd16d68eeb9ec4f33c873c47"
 
@@ -5381,6 +5389,11 @@ hash = "8be05ac0b2a171420037b8733c9eecf644bd20b165553500b009c177696e1164"
 metafile = true
 
 [[files]]
+file = "mods/beautified-chat-client.pw.toml"
+hash = "fc171789156ed5d17f7c0132958617942a211a8780152ae8e44f8d86e67980af"
+metafile = true
+
+[[files]]
 file = "mods/beautify-decorate.pw.toml"
 hash = "18e6f7ed5bd54b7daf15e5ece630d5a52ee3aabc79482297bbfbaacfc3048d47"
 metafile = true
@@ -5648,11 +5661,6 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "70203eccb52079014b1438e6488730cebb84e52aa0daf516211b4587a49bdb1e"
-metafile = true
-
-[[files]]
-file = "mods/chat-boost.pw.toml"
-hash = "ac8e5c3033b739986bf71122ea96a3a0ea9a305c1c6fa92ef536fe5dc8ab1e0b"
 metafile = true
 
 [[files]]
@@ -6364,6 +6372,11 @@ hash = "8edffc34d970d8c9c924ba9262ee518bf92624172fcd47622393ccbd1e9b1595"
 metafile = true
 
 [[files]]
+file = "mods/dont-clear-chat-history.pw.toml"
+hash = "f2f0e1252ee2c188d9fae2b31317c3ceed43f70e43e532a535f6fb74d31755dc"
+metafile = true
+
+[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "b8444096b727136fbf482eace7ef01c856b4672632a6986fa14810d69fa47123"
 metafile = true
@@ -6830,26 +6843,6 @@ metafile = true
 [[files]]
 file = "mods/fsu.pw.toml"
 hash = "6212afa68f03cfb572dccb28d2f801880121d2273fdff7b02fdb0e89577a3b13"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "c727cdfb22c0a34cafbdb2e33da7504e6aa9e96a0d78e5d913bf5fa9006d44c7"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "6a0155012732893dae42d8a7dae4df181367eaaea57296e0ca9849567e7b9b4f"
 metafile = true
 
 [[files]]
@@ -7952,6 +7945,11 @@ hash = "dc1624a775abc949b28e39516e142ccd11f39da14f7d77d0d9ca8c0b4d8001a0"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8bbe4baebc1eae2bc5676d521055abb17933256c922e6c750a6d042d7c2c392c"
+metafile = true
+
+[[files]]
 file = "mods/opposing-force.pw.toml"
 hash = "09a64d93f8308fb0adf564a271ca6ff89c2770b8727b83b9e0849b5bcb356e7d"
 metafile = true
@@ -8439,6 +8437,11 @@ metafile = true
 [[files]]
 file = "mods/silents-delight.pw.toml"
 hash = "cd09a652479857b51f049d73ee45f41c443f5172f421fe506d625b8c0b7b5ace"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "60f5de20482992aab6ef93d03fff2fb8f5244c15036543a0025d9f97a48beb86"
 metafile = true
 
 [[files]]
@@ -9357,7 +9360,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8aedceb9c69619f3c001a7fa5efb4e05d51d92a1a1ebca354ea4794ea8ad4b11"
+hash = "3b4fb0b8a988488d8d075bccd7196088ca91e96ef4bad75114c6087b9b10e226"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
