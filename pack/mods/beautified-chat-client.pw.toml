@@ -1,0 +1,13 @@
+name = "Beautified Chat [Client]"
+filename = "beautifiedchatclient-1.20.1-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63d6d39d0ef1dbed1b4bc4d23e8773a9e2e85d4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186472
+project-id = 514797

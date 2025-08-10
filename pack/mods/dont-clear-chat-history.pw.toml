@@ -1,0 +1,13 @@
+name = "Don't Clear Chat History"
+filename = "DontClearChatHistory-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6e532823419a509b7ef9dba7d252eaa19d49b34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5189256
+project-id = 404400
