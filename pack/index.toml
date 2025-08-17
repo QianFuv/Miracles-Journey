@@ -1658,7 +1658,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3387bdfbc148d089526c8b4b2f9900f63e2ef02cebe0515ceb90735f636e3a92"
+hash = "c08b3cb6733422219e4059e70cffde6963e4fb6e8781d7fe259551f306e23c3f"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -8642,11 +8642,6 @@ metafile = true
 [[files]]
 file = "mods/stardew-fishing.pw.toml"
 hash = "5616fd12eadc1c58ed04b2af06a9726189d483f2230a6d017190d7d92b761f29"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "348f844432259e19f3098ac6b47be813611ee324786f276d9d231781c094db90"
 metafile = true
 
 [[files]]
