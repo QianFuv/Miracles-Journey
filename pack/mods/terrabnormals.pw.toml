@@ -1,0 +1,13 @@
+name = "Terrabnormals"
+filename = "Terrabnormals-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6d65d1e1fc25f27b8d1af934ab857455260c209"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6885784
+project-id = 1326087

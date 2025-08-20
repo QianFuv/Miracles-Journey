@@ -1,0 +1,13 @@
+name = "Silkier Touch"
+filename = "silkiertouch-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1703d626050789102b383df669b57efc945a3500"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6229466
+project-id = 1207422

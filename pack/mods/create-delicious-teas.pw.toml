@@ -1,0 +1,13 @@
+name = "Create: delicious teas"
+filename = "createteas-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93f51c28a3b84ea3a3c5f69645386613f9c1cc90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6893693
+project-id = 1328556

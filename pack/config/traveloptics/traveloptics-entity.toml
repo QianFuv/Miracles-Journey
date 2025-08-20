@@ -1,0 +1,46 @@
+
+#This config houses entity related extra config
+#If you want to change attributes like attack or hp. Use In-Control mod
+[entity]
+
+	[entity.nightwarden]
+		#Dynamic damage cap auto calculate required values in all phases, the value here is the highest || Default 40.0
+		#Range: 10.0 ~ 100.0
+		nightwardenDynamicDamageCap = 40.0
+		#Default 0.5556
+		#Range: 0.1 ~ 3.0
+		cloneSlashesMultiplierFromBase = 0.5556
+		#Default 0.05
+		#Range: 0.0 ~ 3.0
+		cloneSlashesHpDamage = 0.05
+		#Default 0.6667
+		#Range: 0.1 ~ 3.0
+		dimensionalSpikeDamageMultiplierFromBase = 0.6667
+		#Default 0.4444
+		#Range: 0.1 ~ 3.0
+		spinCloneDamageMultiplierFromBase = 0.4444
+		#Default 0.03
+		#Range: 0.0 ~ 3.0
+		spinClonesHpDamage = 0.03
+		#Default 0.4444
+		#Range: 0.1 ~ 3.0
+		dropClonesDamageMultiplierFromBase = 0.4444
+		#Default 0.05
+		#Range: 0.0 ~ 3.0
+		dropClonesHpDamage = 0.05
+		#Default 0.2778
+		#Range: 0.1 ~ 3.0
+		endEruptionDamageMultiplierFromBase = 0.2778
+		#Default 0.3611
+		#Range: 0.1 ~ 3.0
+		explodeSpinCloneTrailDamageMultiplierFromBase = 0.3611
+		#Default 0.05
+		#Range: 0.0 ~ 3.0
+		explodeSpinCloneTrailHpDamage = 0.05
+		#Default 0.1
+		#Range: 0.0 ~ 3.0
+		dragonSpiritHpDamage = 0.1
+		#Make Nightwarden enter mob battle mode || Mob battle mode disables the spell damage requirement and now he can take correct damage from every other damage types
+		#On Mob battle mode he can adapt to ANY damage type over-time and not just Spell damage types || Default: false
+		mob_battle_mode = false
+

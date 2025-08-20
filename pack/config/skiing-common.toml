@@ -1,0 +1,61 @@
+
+#Skiing Common Config
+[general]
+	#This sets the minimum required velocity you need to rotate your ski, sled or snowboard.
+	#Range: 0.0 ~ 0.1
+	min_required_velocity_for_rotation = 0.02
+
+[ski]
+	#This sets the maximum health of the ski.
+	#Range: 1.0 ~ 100.0
+	max_ski_health = 40.0
+	#This sets the maximum velocity for the ski.
+	#Range: 0.0 ~ 1.0
+	max_ski_velocity = 1.0
+	#This sets the maximum reverse velocity for the ski.
+	#Range: 0.0 ~ 1.0
+	max_ski_reverse_velocity = 0.25
+	#This sets the acceleration of the ski.
+	#Range: 0.0 ~ 1.0
+	ski_acceleration = 0.25
+	#This sets the acceleration of the ski when using ski sticks.
+	#Range: 0.0 ~ 1.0
+	ski_acceleration_with_stick = 0.3
+	#This sets the height a ski can go upwards in blocks.
+	#Range: 0.0 ~ 1.0
+	max_ski_up_step = 0.6
+
+[sled]
+	#This sets the maximum health of the sled.
+	#Range: 1.0 ~ 100.0
+	max_sled_health = 40.0
+	#This sets the maximum velocity for the sled.
+	#Range: 0.0 ~ 1.0
+	max_sled_velocity = 1.0
+	#This sets the maximum reverse velocity for the sled.
+	#Range: 0.0 ~ 1.0
+	max_sled_reverse_velocity = 0.25
+	#This sets the acceleration of the sled.
+	#Range: 0.0 ~ 1.0
+	sled_acceleration = 0.3
+	#This sets the height a sled can go upwards in blocks.
+	#Range: 0.0 ~ 1.0
+	max_sled_up_step = 0.6
+
+[snowboard]
+	#This sets the maximum health of the snowboard.
+	#Range: 1.0 ~ 100.0
+	max_snowboard_health = 40.0
+	#This sets the maximum velocity for the snowboard.
+	#Range: 0.0 ~ 1.0
+	max_snowboard_velocity = 1.0
+	#This sets the maximum reverse velocity for the snowboard.
+	#Range: 0.0 ~ 1.0
+	max_snowboard_reverse_velocity = 0.25
+	#This sets the acceleration of the snowboard.
+	#Range: 0.0 ~ 1.0
+	snowboard_acceleration = 0.3
+	#This sets the height a snowboard can go upwards in blocks.
+	#Range: 0.0 ~ 1.0
+	max_snowboard_up_step = 0.6
+

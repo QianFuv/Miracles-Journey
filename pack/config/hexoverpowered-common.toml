@@ -1,0 +1,58 @@
+#<Display>
+#Displays the hex inside readonly casting items; working client-side
+RevealsHexInsideCastingItems = true
+#<Mote>
+#Enables 'A Glance of Mote Chest' (a simple chest GUI) on right click
+EnablesMoteChestGUI = true
+#<Mishap>
+#Mishaps won't drop items anymore
+EnablesMishapNoYeet = true
+#<Mishap>
+#Teleporting riding entities no longer do mishaps
+EnablesTeleportVehicles = true
+#<Pattern>
+#if not, the `YJSP's Charge Media` pattern will be disabled
+EnablesChargeMediaAction = true
+#<Pattern>
+#if not, mind environment series patterns will be disabled
+EnablesMindEnvActions = true
+#<Personal Media>
+#Enables player's personal media pool
+EnablesPersonalMediaPool = true
+#<Personal Media>
+#Max media (in 0.0001 dust) for personal pool
+#Range: > 0
+PersonalMediaMax = 1000000
+#<Personal Media>
+#How many media points (in 0.0001 dust) personal pool regenerates each time
+#Range: > 0
+PersonalMediaRegenStep = 50000
+#<Personal Media>
+#For every X ticks personal pool regenerate once
+#Range: > 0
+PersonalMediaRegenInterval = 20
+#<Personal Media>
+#Fake players (for example, Deployer from Create) won't regenerate their media pool
+FakePlayerDontRegenMedia = true
+#<Personal Media>
+#Only activates personal media bar after enlightened
+PersonalMediaAfterEnlightened = true
+#<Personal Media>
+#Triggers events when personal media pool changed
+FiresPersonalMediaEvents = true
+#<Amethyst Circle>
+#media waves from circles go through amethyst budding blocks, and accelerates their crystal growth
+EnablesAmethystCircle = true
+#<Amethyst Circle>
+#each time media reduces for crystal growth passing a budding block
+#Range: > 0
+AmethystCircleSingleChargeCost = 100000
+#<Amethyst Circle>
+#max possible charging level of the wave: growth strength = min(this, wave total media / single cost)
+#Range: 1 ~ 30
+AmethystCircleFullPowerLevel = 15
+#<MekaSuit>
+#How many media points each FE point equals
+#Range: 0.0 ~ 1.0E10
+MekasuitConversionRatio = 1.0
+

@@ -1,0 +1,26 @@
+#can directly parse great spell patterns, without scrolls
+#Allowed Values: ALL, DISABLED, BY_SCROLL
+ParseGreatSpells = "BY_SCROLL"
+#how comments get parsed into iotas
+#ALL: including `comment_%s`s and `/* */`s & `//`s;
+#MANUAL(default): only `comment_%s`s;
+#DISABLED: no comments at all
+#Allowed Values: DISABLED, MANUAL, ALL
+CommentParsingMode = "MANUAL"
+#how indents get parsed into iotas
+#ALL(default): coding indents will be auto-converted into `tab_%d`;
+#MANUAL: only `tab_%d`s accepted;
+#DISABLED: no indents at all
+#Allowed Values: DISABLED, MANUAL, ALL
+IndentParsingMode = "ALL"
+#how many continuous blank lines are allowed in parsed spell; excess ones will be ignored
+#Range: > 0
+MaxBlankLines = 0
+#cost to parse single keyword into iota
+#Range: 0 ~ 100000
+ParserBaseCost = 0
+#display colorful nested lists and intro/retros
+ShowColorfulNested = true
+#display unsupported iota's inner data as `UNKNOWN(serialized NBT)` rather than simple `UNKNOWN`
+ShowUnknownNBT = true
+

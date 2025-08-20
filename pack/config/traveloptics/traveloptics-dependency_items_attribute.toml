@@ -1,0 +1,19 @@
+
+#W.I.P
+#This file is for the magic attributes that T.O Tweaks provided to its dependency mods' equipments!
+#If you're already overriding the same attributes with mods like KubeJS or CIA (Custom Item Attributes), things might not work as intended.
+#Make sure to disable one either KubeJS & CIA or T.O Tweaks default attribute provider
+[attribute_provider]
+
+	[attribute_provider.general]
+		#If Attribute Provider system should be enabled or not || Disabling this will entirely disable Attribute Provider to items below || Default: false
+		attribute_provider_active = false
+
+	[attribute_provider.ignitium_set]
+		#Ignitium items Fire Spell Power || Default 0.05
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.05
+		#Ignitium items Max Mana || Default 75
+		#Range: 0.0 ~ 1000.0
+		max_mana = 75.0
+

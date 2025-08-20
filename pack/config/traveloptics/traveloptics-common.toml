@@ -1,0 +1,26 @@
+
+#Common Configs || This config file offer controls to many different things on the mod.
+#Changing something you don't know about, might break your game.
+[common]
+
+	[common.general]
+		#Show welcome message || Default: true
+		welcome_message = true
+
+	[common.augment]
+		#Chance to get a additional attribute in Wild Augment types || Default 0.2 = 20%
+		#Range: 0.01 ~ 1.0
+		wild_probability = 0.2
+		#Experience cost when assigning attributes in a Wild Augment || Default 250 xp points
+		#Range: > 50
+		wild_experience_cost = 250
+		# % of negative stat gets reduced after blessing a Mythic Augment || Default 0.8 = 20%
+		#Range: 0.1 ~ 1.0
+		blessing_reduction = 0.8
+
+	[common.effect]
+		#List of effect IDs that are immune to Rainfall cleanse || Example: ["minecraft:blindness", "minecraft:darkness"]
+		rainfall_immune_effects = []
+		#List of effect IDs that are immune to Acid Rain cleanse || Example: ["minecraft:absorption", "minecraft:health_boost"]
+		acid_rain_immune_effects = []
+

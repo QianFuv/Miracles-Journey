@@ -1,0 +1,405 @@
+
+#Wild Augment Configs || Some changes might break your game if you are aware of!
+#There is 3 types of attribute chances || Guaranteed, Partially Guaranteed (1 from a list), Chance attribute (20% chance to give the attribute by default)
+[wild_augments]
+
+	[wild_augments.balance_wild]
+		#Max Nature Spell Power || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.5
+		#Min Ender Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.5
+		#Min Eldritch Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.5
+		#Min Summon Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		summon_damage = -0.5
+		#Min Crit Chance || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		crit_chance = -0.5
+		#Min Fire Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		fire_damage = -0.5
+		#Max Max Mana || Default 75.0 || Chance attribute || Positive
+		#Range: -200.0 ~ 200.0
+		max_mana = 75.0
+		#Max Knockback Resistance || Default 0.2 || Chance attribute || Positive
+		#Range: -1.0 ~ 1.0
+		knockback_resistance = 0.2
+		#Max Crit Damage || Default 0.2 || Chance attribute || Positive
+		#Range: -1.0 ~ 1.0
+		crit_damage = 0.2
+		#Max Healing Received || Default 0.2 || Chance attribute || Positive
+		#Range: -1.0 ~ 1.0
+		healing_received = 0.2
+		#Min Eldritch Magic Resist || Default 0.2 || Chance attribute || Negative
+		#Range: -1.0 ~ 1.0
+		eldritch_magic_resist = -0.2
+
+	[wild_augments.bruteforce_wild]
+		#Max Attack Damage || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.5
+		#Min Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		spell_power = -0.5
+		#Min Summon Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		summon_damage = -0.5
+		#Min Mana Regen || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		mana_regen = -0.5
+		#Min Healing Received || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		healing_received = -0.5
+		#Min Exp Gained || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		exp_gained = -0.5
+		#Max Attack Knockback || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		attack_knockback = 0.2
+		#Max Movement Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		movement_speed = 0.2
+		#Max Crit Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		crit_damage = 0.2
+		#Max Crit Chance || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		crit_chance = 0.2
+		#Max Mining Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		mining_speed = 0.2
+
+	[wild_augments.chaos_wild]
+		#Max Eldritch Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.5
+		#Max Ender Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.5
+		#Min Armor || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		armor = -0.5
+		#Min Max Health || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		max_health = -0.5
+		#Min Nature Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = -0.5
+		#Min Cooldown Reduction || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.5
+		#Min Crit Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		crit_damage = -0.5
+		#Max Blood Spell Power || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.2
+		#Max Attack Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.2
+		#Max Crit Chance || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		crit_chance = 0.2
+		#Max Arrow Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		arrow_damage = 0.2
+		#Max Mana Regen || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		mana_regen = 0.2
+
+	[wild_augments.equilibrium_wild]
+		#Max Blood Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.5
+		#Max Max Health || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		max_health = 0.5
+		#Min Fire Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.5
+		#Min Holy Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.5
+		#Min Max Mana || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		max_mana = -0.5
+		#Min Fire Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		fire_damage = -0.5
+		#Min Armor Shred || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		armor_shred = -0.5
+		#Max Jump Strength || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		jump_strength = 0.2
+		#Max Mana Regen || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		mana_regen = 0.2
+		#Max Crit Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		crit_damage = 0.2
+		#Max Life Steal || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		life_steal = 0.2
+		#Max Cold Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		cold_damage = 0.2
+
+	[wild_augments.frigid_flame_wild]
+		#Max Ice Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.5
+		#Max Fire Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.5
+		#Min Blood Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = -0.5
+		#Min Holy Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.5
+		#Min Max Mana || Default -175 || Partially Guaranteed || Negative
+		#Range: -800.0 ~ 800.0
+		max_mana = -175.0
+		#Min Crit Chance || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		crit_chance = -0.5
+		#Min Attack Speed || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		attack_speed = -0.5
+		#Max Luck || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		luck = 0.2
+		#Max Evocation Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		evocation_magic_resist = 0.2
+		#Max Fire Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		fire_damage = 0.2
+		#Max Cold Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		cold_damage = 0.2
+		#Max Nature Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		nature_magic_resist = 0.2
+
+	[wild_augments.lifedrain_wild]
+		#Max Blood Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.5
+		#Max Nature Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.5
+		#Min Ender Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.5
+		#Min Life Steal || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		life_steal = -0.5
+		#Min Max Mana || Default -175 || Partially Guaranteed || Negative
+		#Range: -800.0 ~ 800.0
+		max_mana = -175.0
+		#Min Luck || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		luck = -0.5
+		#Min Max Health || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		max_health = -0.5
+		#Max Entity Reach || Default 0.5 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		entity_reach = 0.5
+		#Max Blood Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		blood_magic_resist = 0.2
+		#Max Cold Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		cold_damage = 0.2
+		#Max Current Hp Damage || Default 0.1 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		current_hp_damage = 0.1
+		#Max Nature Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		nature_magic_resist = 0.2
+
+	[wild_augments.oblivion_wild]
+		#Max Ender Spell Power || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.5
+		#Min Eldritch Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.5
+		#Min Healing Received || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		healing_received = -0.5
+		#Min Cast Time Reduction || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		cast_time_reduction = -0.5
+		#Min Attack Speed || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		attack_speed = -0.5
+		#Min Max Health || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		max_health = -0.5
+		#Min Armor || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		armor = 0.2
+		#Min Ender Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		ender_magic_resist = 0.2
+		#Min Arrow Velocity || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		arrow_velocity = 0.2
+		#Min Prot Pierce || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		prot_pierce = 0.2
+		#Min Evocation Spell Power || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.2
+
+	[wild_augments.riftcore_wild]
+		#Max Ender Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.5
+		#Max Eldritch Spell Power || Default 0.5 || Partially Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.5
+		#Min Cast Time Reduction || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		cast_time_reduction = -0.5
+		#Min Draw Speed || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		draw_speed = -0.5
+		#Min Cooldown Reduction || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.5
+		#Min Knockback Resistance || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		knockback_resistance = -0.5
+		#Min Luck || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		luck = -0.5
+		#Max Armor Toughness || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		armor_toughness = 0.2
+		#Max Eldritch Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		eldritch_magic_resist = 0.2
+		#Max Movement Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		movement_speed = 0.2
+		#Max Prot Shred || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		prot_shred = 0.2
+		#Max Ender Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		ender_magic_resist = 0.2
+
+	[wild_augments.sacred_void_wild]
+		#Max Evocation Spell Power || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.5
+		#Min Nature Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = -0.5
+		#Min Healing Received || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		healing_received = -0.5
+		#Min Holy Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.5
+		#Min Flying Speed || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		flying_speed = -0.5
+		#Min Crit Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		crit_damage = -0.5
+		#Max Max Health || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		max_health = 0.2
+		#Max Evocation Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		evocation_magic_resist = 0.2
+		#Max Attack Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		attack_speed = 0.2
+		#Max Draw Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		draw_speed = 0.2
+		#Max Ender Spell Power || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.2
+
+	[wild_augments.thunderbolt_wild]
+		#Max Lightning Spell Power || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		lightning_spell_power = 0.5
+		#Min Nature Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = -0.5
+		#Min Healing Received || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		healing_received = -0.5
+		#Min Fire Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.5
+		#Min Max Health || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		max_health = -0.5
+		#Min Fire Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		fire_damage = -0.5
+		#Max Movement Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		movement_speed = 0.2
+		#Max Blood Spell Power || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.2
+		#Max Flying Speed || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		flying_speed = 0.2
+		#Max Arrow Velocity || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		arrow_velocity = 0.2
+		#Max Mana Regen || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		mana_regen = 0.2
+
+	[wild_augments.volcana_wild]
+		#Max Fire Spell Power || Default 0.5 || Guaranteed || Positive
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.5
+		#Min Ice Spell Power || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = -0.5
+		#Min Experience Gained || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		experience_gained = -0.5
+		#Min Mana Regen || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		mana_regen = -0.5
+		#Min Movement Speed || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		movement_speed = -0.5
+		#Min Cold Damage || Default -0.5 || Partially Guaranteed || Negative
+		#Range: -1.0 ~ 1.0
+		cold_damage = -0.5
+		#Max Attack Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.2
+		#Max Ice Magic Resist || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		ice_magic_resist = 0.2
+		#Max Luck || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		luck = 0.2
+		#Max Fire Damage || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		fire_damage = 0.2
+		#Max Cooldown Reduction || Default 0.2 || Chance Attribute || Positive
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = 0.2
+

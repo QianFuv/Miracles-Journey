@@ -1,0 +1,12 @@
+{
+	// Default size of the underground structure (from 1 to 30)
+	"structureSize": 19,
+	// Maximum distance the structure pieces can be from the center (1 to 128)
+	"maxDistanceFromCenter": 116,
+	// Default size of the underground structure (from 1 to 30)
+	"waterstructureSize": 15,
+	// Maximum distance the structure pieces can be from the center (1 to 128)
+	"watermaxDistanceFromCenter": 116,
+	// Enable or disable the welcome message, Requires game restart after changing this setting.
+	"ENABLE_IN_GAME_MESSAGE": true
+}

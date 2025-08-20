@@ -1,0 +1,13 @@
+name = "Bookshelf Extended Enchanting Reach"
+filename = "beer-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c6e65a75842b5e6161a925663bc891dd7e5133f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6842408
+project-id = 1274736

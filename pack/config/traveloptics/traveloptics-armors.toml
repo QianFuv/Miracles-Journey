@@ -1,0 +1,127 @@
+
+#This config houses all the armor configuration options || This is currently WIP and doesn't have all the values
+[armors]
+
+	[armors.general]
+		#Should End-game armors be breakable || Default: false
+		breakable_end_game_armors = false
+
+	[armors.abyssal_hide]
+		#Armor value of Abyssal Hide armor helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of Abyssal Hide armor chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of Abyssal Hide armor leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of Abyssal Hide armor boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+
+	[armors.primordial_crest]
+		#Armor value of Primordial Crest armor helmet || Default 4
+		#Range: > 1
+		helmet_armor_value = 4
+		#Armor value of Primordial Crest armor chestplate || Default 8
+		#Range: > 1
+		chestplate_armor_value = 8
+		#Armor value of Primordial Crest armor leggings || Default 6
+		#Range: > 1
+		leggings_armor_value = 6
+		#Armor value of Primordial Crest armor boots || Default 4
+		#Range: > 1
+		boots_armor_value = 4
+		#Toughness || Default 1.5
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 1.5
+
+	[armors.tectonic_crest]
+		#Armor value of Tectonic Crest armor helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of Tectonic Crest armor chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of Tectonic Crest armor leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of Tectonic Crest armor boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+
+	[armors.cursed_wraithguard]
+		#Armor value of Cursed Wraithguard armor helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of Cursed Wraithguard armor chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of Cursed Wraithguard armor leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of Cursed Wraithguard armor boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+
+	[armors.mechanized_exoskeleton]
+		#Armor value of Mechanized Exoskeleton armor helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of Mechanized Exoskeleton armor chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of Mechanized Exoskeleton armor leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of Mechanized Exoskeleton armor boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+
+	[armors.deepling_mage]
+		#Armor value of Deepling Mage armor helmet || Default 3
+		#Range: > 1
+		helmet_armor_value = 3
+		#Armor value of Deepling Mage armor chestplate || Default 8
+		#Range: > 1
+		chestplate_armor_value = 8
+		#Armor value of Deepling Mage armor leggings || Default 6
+		#Range: > 1
+		leggings_armor_value = 6
+		#Armor value of Deepling Mage armor boots || Default 3
+		#Range: > 1
+		boots_armor_value = 3
+		#Toughness || Default 1.5
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 1.5
+
+	[armors.forlorn_harbinger]
+		#Armor value of helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+

@@ -1,0 +1,9 @@
+
+[BanGDreamItsMyHead]
+	EntitiesThatWillNeverBeHeadshot = []
+	ProjectilesThatWillNeverCauseHeadshot = []
+	#Range: 1.0 ~ 1.7976931348623157E308
+	HeadshotDamageMultiplier = 2.0
+	PlayDingSoundOnHeadshot = true
+	NotifyShooterOnActionBar = false
+

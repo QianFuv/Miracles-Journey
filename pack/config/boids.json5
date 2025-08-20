@@ -1,0 +1,22 @@
+{
+	// Separation controls. All angles are in degrees
+	"separationInfluence": 0.6000000238418579,
+	"separationRange": 2.5,
+	"separationAngle": 70.0,
+	// Alignment controls
+	"alignmentInfluence": 0.4000000059604645,
+	"alignmentAngle": 100.0,
+	// Cohesion controls
+	"cohesionInfluence": 0.4000000059604645,
+	"cohesionAngle": 70.0,
+	// Speed limits
+	"minSpeed": 0.20000000298023224,
+	"maxSpeed": 0.30000001192092896,
+	// Random influence
+	"randomness": 0.004999999888241291,
+	// Which entities to be included by default. Can be one of 'DEFAULT' or 'NONE'
+	"defaultEntities": "DEFAULT",
+	// Lists of additional entities to include or exclude by resource ID, e.g., 'minecraft:salmon'
+	"includedEntities": [],
+	"excludeEntities": []
+}

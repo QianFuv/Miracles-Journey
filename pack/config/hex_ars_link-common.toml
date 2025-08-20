@@ -1,0 +1,22 @@
+#convert ratio for lesser linker
+#Range: 0.0 ~ 1.0E10
+ratioLv1 = 10.0
+#convert ratio for advanced linker
+#Range: 0.0 ~ 1.0E10
+ratioLv2 = 200.0
+#convert ratio for great linker
+#Range: 0.0 ~ 1.0E10
+ratioLv3 = 500.0
+#ADDITIONAL media cost ratio for mana used in casting patterns (total media cost = base pattern cost + <ratio> * ORIGINAL spell mana cost); 0 by default.
+#Range: 0.0 ~ 1.0E10
+ratioExtraMediaCasting = 0.0
+#mana discount (or penalty) rate for pattern casters (final mana cost = <ratio> * ORIGINAL spell mana cost); 1 by default.
+#Range: 0.0 ~ 1.0E10
+costRatePatternMana = 1.0
+#max depth nested callback could be triggered; spells deeper than this loses all ambit.
+#Range: 1 ~ 114514
+maxCallbackRecursionDepth = 10
+#how many extra ops consumed initially for a callback spell.
+#Range: > 0
+extraOpsConsumedForCallbacks = 50000
+

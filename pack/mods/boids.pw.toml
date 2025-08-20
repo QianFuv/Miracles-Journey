@@ -1,0 +1,13 @@
+name = "Boids"
+filename = "Boids-2.0.2+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/2OckSy74/versions/Ai3cFkVx/Boids-2.0.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "3911a969de4525c63dfa3d5b68fbdf57c24f98605b182f5304f0cf10805b8af499401168191f0c994e2d85ca6e004953146147576c6a5e157a3fa01f7c5604aa"
+
+[update]
+[update.modrinth]
+mod-id = "2OckSy74"
+version = "Ai3cFkVx"

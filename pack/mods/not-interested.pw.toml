@@ -1,0 +1,13 @@
+name = "Not interested!"
+filename = "not_interested--mc1.20.1--forge--1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b65dd4a3ecec254fba9ca549a22b45dc3e43db99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6501879
+project-id = 980755

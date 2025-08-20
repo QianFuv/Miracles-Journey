@@ -175,6 +175,9 @@
     "pie_icons": true,
     "mushroom_colony": true
   },
+  "crystalix": {
+    "crystalix_block": true
+  },
   "supplementaries": {
     "hat_stand": true
   },

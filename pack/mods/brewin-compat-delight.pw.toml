@@ -1,0 +1,13 @@
+name = "Cocktails Delight"
+filename = "Cocktails-Delight-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4046ed1fcd3b859b4f04d7531ffd45d4cb67635a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6731647
+project-id = 1198178

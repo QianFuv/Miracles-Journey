@@ -1,0 +1,13 @@
+name = "Button Packet ID Fix"
+filename = "button_packet_id_fix-forge-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2dhdFkzN/versions/YP9Aj9pF/button_packet_id_fix-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "faa4de3d08d678b1291060942721379a9ead2506b945eb98b13840f69fae0d3c53dc98300022bab3e231b3dd55294ef7153c803e84c21ffb5b69ecb052dc76d0"
+
+[update]
+[update.modrinth]
+mod-id = "2dhdFkzN"
+version = "YP9Aj9pF"

@@ -1,0 +1,13 @@
+name = "Underground Villages, Stoneholm"
+filename = "underground_village-1.5.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7efc15e5268873616eb2a6309a6da12f50309d2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6842155
+project-id = 1123746

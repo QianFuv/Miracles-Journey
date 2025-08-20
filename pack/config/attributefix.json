@@ -99,17 +99,6 @@
         "value": 64
       }
     },
-    "irons_spellbooks:nature_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "attributeslib:armor_shred": {
       "enabled": false,
       "min": {
@@ -119,6 +108,17 @@
       "max": {
         "default": 2,
         "value": 2
+      }
+    },
+    "irons_spellbooks:nature_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "irons_spellbooks:nature_magic_resist": {
@@ -143,17 +143,6 @@
         "value": 2048
       }
     },
-    "unionlib:generic.dig_speed": {
-      "enabled": false,
-      "min": {
-        "default": -1024,
-        "value": -1024
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "attributeslib:armor_pierce": {
       "enabled": false,
       "min": {
@@ -163,6 +152,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "unionlib:generic.dig_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "obscure_api:regeneration": {
@@ -361,6 +361,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "hexoverpowered:personal_media_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2147483647,
+        "value": 2147483647
       }
     },
     "gunswithoutroses:gwr.damage_total": {
@@ -605,6 +616,17 @@
         "value": 1024
       }
     },
+    "environmental:stealth": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "modulargolems:golem_size": {
       "enabled": false,
       "min": {
@@ -638,15 +660,15 @@
         "value": 100
       }
     },
-    "modulargolems:golem_regen": {
+    "hexoverpowered:personal_media_max": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 1000,
-        "value": 1000
+        "default": 2147483647,
+        "value": 2147483647
       }
     },
     "attributeslib:prot_pierce": {
@@ -658,6 +680,17 @@
       "max": {
         "default": 34,
         "value": 34
+      }
+    },
+    "modulargolems:golem_regen": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "minecraft:generic.flying_speed": {
@@ -1056,6 +1089,17 @@
         "value": 1000
       }
     },
+    "hexoverpowered:personal_media": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2147483647,
+        "value": 2147483647
+      }
+    },
     "additionalentityattributes:generic.water_speed": {
       "enabled": false,
       "min": {
@@ -1197,6 +1241,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "hexcasting:grid_zoom": {
+      "enabled": false,
+      "min": {
+        "default": 0.5,
+        "value": 0.5
+      },
+      "max": {
+        "default": 4,
+        "value": 4
       }
     },
     "irons_spellbooks:fire_spell_power": {
@@ -1375,6 +1430,17 @@
         "value": 1
       }
     },
+    "hexcasting:scry_sight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "parcool:stamina_recovery": {
       "enabled": false,
       "min": {
@@ -1386,17 +1452,6 @@
         "value": 10000
       }
     },
-    "irons_spellbooks:ice_spell_power": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "attributeslib:fire_damage": {
       "enabled": false,
       "min": {
@@ -1406,6 +1461,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "irons_spellbooks:ice_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -1540,17 +1606,6 @@
         "value": 2048
       }
     },
-    "malum:reserve_staff_charges": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 2048,
-        "value": 2048
-      }
-    },
     "traveloptics:aqua_spell_power": {
       "enabled": false,
       "min": {
@@ -1560,6 +1615,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "malum:reserve_staff_charges": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "unionlib:generic.accuracy": {

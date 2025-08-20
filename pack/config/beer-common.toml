@@ -1,0 +1,12 @@
+
+[range]
+	#Range for X axis (min 2, max 64)
+	#Range: 2 ~ 64
+	x = 16
+	#Range for Y axis (min 2, max 64)
+	#Range: 2 ~ 64
+	y = 16
+	#Range for Z axis (min 2, max 64)
+	#Range: 2 ~ 64
+	z = 16
+

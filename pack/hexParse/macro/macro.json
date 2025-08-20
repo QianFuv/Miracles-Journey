@@ -1,0 +1,1 @@
+{"#is_sneaking":"get_caster,get_entity_height,num_1.75,less","#my_aim":"get_caster,entity_pos/eye,get_caster,get_entity_look","#hello_world":"(print)(comment_Hello,comment_World)for_each,pop","#debug":"stack_len,last_n_list,print,splat","#return":"(())splat,pop,eval"}

@@ -638,6 +638,17 @@
       },
       "sync": "hexerei:crow_whitelist"
     },
+    "hexoverpowered:hexop_media_bar": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "hexoverpowered:hexop_media_bar"
+    },
     "illageandspillage:jumpscare": {
       "displacement": {
         "x": 0,

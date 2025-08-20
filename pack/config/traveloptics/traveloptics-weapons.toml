@@ -1,0 +1,226 @@
+
+#Configs for weapons that currently mod has to offer and can be found in survival
+[current_weapons]
+
+	[current_weapons.general]
+		#Should End-game weapons be breakable || Default: false
+		breakable_end_game_weapons = false
+
+	[current_weapons.abyssal_tidecaller]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 21.0
+		#Range: 0.0 ~ 100.0
+		damage = 21.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.1
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.1
+
+	[current_weapons.flames_of_eldritch]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 10.0
+		#Range: 0.0 ~ 100.0
+		damage = 10.0
+		#Attack Speed || Default -2.6
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.6
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.05
+		#Fire Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.15
+
+	[current_weapons.harbingers_wrath]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+		#Lightning Spell Power || MULTIPLY_BASE || Default 0.20
+		#Range: 0.0 ~ 1.0
+		lightning_spell_power = 0.2
+
+	[current_weapons.scourge_of_the_sands]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 14.0
+		#Range: 0.0 ~ 100.0
+		damage = 14.0
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+		#Evocation Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		evocation_spell_power = 0.1
+		#Nature Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.1
+
+	[current_weapons.thorns_of_oblivion]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 14.0
+		#Range: 0.0 ~ 100.0
+		damage = 14.0
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+		#Nature Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.1
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.1
+
+	[current_weapons.voidstrike_reaper]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.20
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.2
+
+	[current_weapons.cursed_wraithblade]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		damage = 19.0
+		#Attack Speed || Default -2.8
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.8
+		#Ice Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		ice_spell_power = 0.15
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.05
+
+	[current_weapons.infernal_devastator]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 16.0
+		#Range: 0.0 ~ 100.0
+		damage = 16.0
+		#Attack Speed || Default -2.6
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.6
+		#Fire Spell Power || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.2
+		#Blazing Salvo damage multiplier || Default 1.0
+		#Range: 1.0 ~ 5.0
+		blazing_salvo_multiplier = 1.0
+
+	[current_weapons.gauntlet_of_extinction]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 16.0
+		#Range: 0.0 ~ 100.0
+		damage = 16.0
+		#Attack Speed || Default -2.6
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.6
+		#Fire Spell Power || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.2
+		#Primeval Devour damage multiplier || Default 1 || WARNING: Use Integer Values! values that are not integer like 1.2 will be converted into integer anyways!
+		#Range: 1.0 ~ 5.0
+		primeval_devour_multiplier = 1.0
+
+	[current_weapons.mechanized_wraithblade]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 17.0
+		#Range: 0.0 ~ 100.0
+		damage = 17.0
+		#Attack Speed || Default -2.7
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.7
+		#Lightning Spell Power || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		lightning_spell_power = 0.2
+		#Plasma Overdrive damage multiplier || Default 1.0
+		#Range: 1.0 ~ 5.0
+		plasma_overdrive_multiplier = 1.0
+
+	[current_weapons.the_obliterator]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 14.0
+		#Range: 0.0 ~ 100.0
+		damage = 14.0
+		#Attack Speed || Default -2.4
+		#Range: -5.0 ~ 5.0
+		attack_speed = -2.4
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.1
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.1
+		#Oblivion Ray damage multiplier || Default 1.0
+		#Range: 1.0 ~ 5.0
+		oblivion_ray_multiplier = 1.0
+
+	[current_weapons.trident_of_the_eternal_maelstrom]
+		#Durability || Default 2250
+		#Range: > 1
+		durability = 2250
+		#Damage || Default 14.0
+		#Range: 0.0 ~ 100.0
+		damage = 14.0
+		#Aqua Spell Power || MULTIPLY_BASE || Default 0.20
+		#Range: 0.0 ~ 1.0
+		aqua_spell_power = 0.2
+		#Boltstrike damage multiplier || Default 1.0
+		#Range: 1.0 ~ 5.0
+		boltstrike_multiplier = 1.0
+
+	[current_weapons.stellothorn]
+		#Durability || Default 3000
+		#Range: > 1
+		durability = 3000
+		#Damage || Default 21.0
+		#Range: 0.0 ~ 100.0
+		damage = 21.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.15
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.05
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.05
+		#Spectral Guillotine damage multiplier || Default 1.0
+		#Range: 1.0 ~ 5.0
+		spectral_guillotine_multiplier = 1.0
+

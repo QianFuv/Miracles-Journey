@@ -1,0 +1,58 @@
+
+[client]
+
+	[client.general]
+		#Activates this mod's screen shake implementation || Default: false
+		#NOTE: This mod also uses screen shake from other dependencies and I haven't ported all of them to use my new method. So disabling this only disable the screen shake happens cause of this mod. Other mod screen shake that T.O uses will still be active.
+		activateScreenShake = true
+		#Whether the armor info overlay should replace XP bars || Default: false
+		armor_overlay_replace_xp_bars = false
+
+	[client.plasma_fuel]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+
+	[client.cursed_wraithguard]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+
+	[client.abyssal_hide]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+
+	[client.tectonic_crest]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+
+	[client.primordial_crest]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+
+	[client.darkness]
+		#X Offset || Default 0
+		#Range: > -2147483648
+		x_offset = 0
+		#Y Offset || Default 0
+		#Range: > -2147483648
+		y_offset = 0
+

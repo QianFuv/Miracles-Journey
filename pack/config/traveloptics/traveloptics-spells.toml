@@ -1,0 +1,141 @@
+
+#This config houses all the extra spell and spell mechanics
+#If you're looking to change the spell stats instead or disable/enable spells... Go to iron's spellbooks server config file
+[spells]
+
+	[spells.annihilation]
+		#If Annihilation spell can cause blocks to break/create explosion || Default: true
+		cause_explosion = true
+		#If Annihilation spell can cause fire || Automatically disabled if cause_explosion is disabled || Default: true
+		cause_fire = true
+
+	[spells.aerial_collapse]
+		#Should bosses take less percent-based damage from Aerial Collapse? || less than 1.0 will make them take less damage || Default 1.0
+		#Range: 0.1 ~ 1.0
+		bosses_take_less_damage = 1.0
+
+	[spells.death_laser]
+		#Should DeathLaser break blocks || Default: true
+		should_break_blocks = true
+		#Should DeathLaser spell deal magic damage (default boss behavior/Ignore armor/less integration with spell power & resist attributes) || Default: false
+		should_deal_magic_damage = false
+
+	[spells.abyssal_blast]
+		#Should Abyssal Blast break blocks || Default: true
+		should_break_blocks = true
+		#Should Abyssal Blast spell deal magic damage (default boss behavior/Ignore armor/less integration with spell power & resist attributes) || Default: false
+		should_deal_magic_damage = false
+
+	[spells.summon]
+		#Limit the number of active 'Group' summon spells to one at a time || Default: true
+		limit_group_summon = true
+		#Limit the number of active 'Kaiju' summon spells to one at a time || Default: true
+		limit_kaiju_summon = true
+		#Limit the number of active 'Miniboss' summon spells to one at a time || Default: true
+		limit_miniboss_summon = true
+
+#Staff, Spellbooks and other this kind of thing
+[staff_spellbooks]
+
+	[staff_spellbooks.titanlord_scepter]
+		#Damage || Default 9.0
+		#Range: 0.0 ~ 100.0
+		damage = 9.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		attack_speed = -3.0
+		#Variant Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		variant_spell_power = 0.15
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		cooldown_reduction = 0.15
+		#Mana Regen || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		mana_regen = 0.1
+		#If Titanlord Scepter should grant a recast to Annihilation spell || Default: true
+		grant_annihilation_recast = true
+
+	[staff_spellbooks.wand_of_final_light]
+		#Damage || Default 11.0
+		#Range: 0.0 ~ 100.0
+		wandOfFinalLightDamage = 11.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		wandOfFinalLightAttackSpeed = -3.0
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		wandOfFinalLightEnderSpellPower = 0.2
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.2
+		#Range: 0.0 ~ 1.0
+		wandOfFinalLightCooldownReduction = 0.2
+		#Cast Time Reduction || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		wandOfFinalLightCastTimeReduction = 0.15
+
+	[staff_spellbooks.archive_of_abyssal_secrets]
+		#Max Mana || ADDITION || Default 300.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 300.0
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		ender_spell_power = 0.15
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.15
+
+	[staff_spellbooks.chronicles_of_the_firelord]
+		#Max Mana || ADDITION || Default 300.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 300.0
+		#Fire Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		fire_spell_power = 0.15
+		#Spell Eldritch Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power = 0.15
+
+	[staff_spellbooks.shellbound]
+		#Max Mana || ADDITION || Default 200.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 200.0
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		cooldown_reduction = 0.1
+		#Nature Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		nature_spell_power = 0.1
+
+	[staff_spellbooks.the_accused_codex]
+		#Max Mana || ADDITION || Default 300.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 300.0
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		cooldown_reduction = 0.1
+		#Ice Spell Power || MULTIPLY_BASE || Default 0.20
+		#Range: 0.0 ~ 1.0
+		ice_spell_power = 0.2
+
+	[staff_spellbooks.codec_of_crushing_depths]
+		#Max Mana || ADDITION || Default 300.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 300.0
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		cooldown_reduction = 0.15
+		#Aqua Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		aqua_spell_power = 0.15
+
+	[staff_spellbooks.guide_to_watery_whispers]
+		#Max Mana || ADDITION || Default 200.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 200.0
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		cooldown_reduction = 0.1
+		#Aqua Spell Power || MULTIPLY_BASE || Default 0.10
+		#Range: 0.0 ~ 1.0
+		aqua_spell_power = 0.1
+

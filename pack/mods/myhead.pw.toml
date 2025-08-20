@@ -1,0 +1,13 @@
+name = "BanG Dream! It's MyHead!!!"
+filename = "myhead-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42429910fec176ca314aef90457b2bbe2c082511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820239
+project-id = 1315350

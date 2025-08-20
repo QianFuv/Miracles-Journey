@@ -1,0 +1,234 @@
+
+#Augment Configs
+#When fiddling with Attribute Operations, make sure you use numbers between 1-3.
+#1.ADDITION 2.MULTIPLY_BASE 3.MULTIPLY_TOTAL || Using outside of these will crash your game!
+[augments]
+
+	[augments.balance]
+		#Operation for Nature spell power || Balance || Default 2
+		#Range: > 1
+		nature_spell_power_operation = 2
+		#Operation for Ender spell power || Balance || Default 2
+		#Range: > 1
+		ender_spell_power_operation = 2
+		#Operation for Eldritch spell power || Balance || Default 2
+		#Range: > 1
+		eldritch_spell_power_operation = 2
+
+	[augments.balance_mythic]
+		#Nature Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.4
+		#Ender Spell Power || Default -0.20
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = -0.2
+		#Eldritch Spell Power || Default -0.20
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.2
+
+	[augments.bruteforce]
+		#Operation for raw attack damage || Bruteforce || Default 2
+		#Range: > 1
+		attack_damage_operation = 2
+		#Operation for spell power || Bruteforce || Default 2
+		#Range: > 1
+		spell_power_operation = 2
+
+	[augments.bruteforce_mythic]
+		#Attack Damage || Default 0.4
+		#Range: -1.0 ~ 1.0
+		attack_damage = 0.4
+		#Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		spell_power = -0.4
+
+	[augments.chaos]
+		#Operation for eldritch spell power || Chaos || Default 2
+		#Range: > 1
+		eldritch_spell_power_operation = 2
+		#Operation for ender spell power || Chaos || Default 2
+		#Range: > 1
+		ender_spell_power_operation = 2
+		#Operation for armor || Chaos || Default 2
+		#Range: > 1
+		armor_operation = 2
+
+	[augments.chaos_mythic]
+		#Eldritch Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.2
+		#Ender Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.2
+		#Armor || Default -0.4
+		#Range: -1.0 ~ 1.0
+		armor = -0.4
+
+	[augments.equilibrium]
+		#Operation for blood spell power || Equilibrium || Default 2
+		#Range: > 1
+		blood_spell_power_operation = 2
+		#Operation for fire spell power || Equilibrium || Default 2
+		#Range: > 1
+		fire_spell_power_operation = 2
+
+	[augments.equilibrium_mythic]
+		#Blood Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.4
+		#Fire Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.4
+
+	[augments.frigid_flame]
+		#Operation for ice spell power || Frigid Flame || Default 2
+		#Range: > 1
+		ice_spell_power_operation = 2
+		#Operation for fire spell power || Frigid Flame || Default 2
+		#Range: > 1
+		fire_spell_power_operation = 2
+		#Operation for max mana || Frigid Flame || Default 1
+		#Range: > 1
+		max_mana_operation = 1
+
+	[augments.frigid_flame_mythic]
+		#Ice Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.2
+		#Fire Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.2
+		#Max Mana || Default -150
+		#Range: -800.0 ~ 800.0
+		max_mana = -150.0
+
+	[augments.lifedrain]
+		#Operation for blood spell power || Lifedrain || Default 2
+		#Range: > 1
+		blood_spell_power_operation = 2
+		#Operation for nature spell power || Lifedrain || Default 2
+		#Range: > 1
+		nature_spell_power_operation = 2
+		#Operation for max health || Lifedrain || Default 2
+		#Range: > 1
+		max_health_operation = 2
+
+	[augments.lifedrain_mythic]
+		#Blood Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		blood_spell_power = 0.2
+		#Nature Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = 0.2
+		#Max Health || Default -0.4
+		#Range: -1.0 ~ 1.0
+		max_health = -0.4
+
+	[augments.oblivion]
+		#Operation for ender spell power || Oblivion || Default 2
+		#Range: > 1
+		ender_spell_power_operation = 2
+		#Operation for eldritch spell power || Oblivion || Default 2
+		#Range: > 1
+		eldritch_spell_power_operation = 2
+
+	[augments.oblivion_mythic]
+		#Ender Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.4
+		#Eldritch Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = -0.4
+
+	[augments.riftcore]
+		#Operation for ender spell power || Riftcore || Default 2
+		#Range: > 1
+		ender_spell_power_operation = 2
+		#Operation for eldritch spell power || Riftcore || Default 2
+		#Range: > 1
+		eldritch_spell_power_operation = 2
+		#Operation for cooldown reduction || Riftcore || Default 2
+		#Range: > 1
+		cooldown_reduction_operation = 2
+
+	[augments.riftcore_mythic]
+		#Ender Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		ender_spell_power = 0.2
+		#Eldritch Spell Power || Default 0.20
+		#Range: -1.0 ~ 1.0
+		eldritch_spell_power = 0.2
+		#Cooldown Reduction || Default -0.4
+		#Range: -1.0 ~ 1.0
+		cooldown_reduction = -0.4
+
+	[augments.sacred_void]
+		#Operation for Evocation spell power || Sacred Void || Default 2
+		#Range: > 1
+		evocation_spell_power_operation = 2
+		#Operation for Holy spell power || Sacred Void || Default 2
+		#Range: > 1
+		holy_spell_power_operation = 2
+
+	[augments.sacred_void_mythic]
+		#Evocation Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		evocation_spell_power = 0.4
+		#Holy Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		holy_spell_power = -0.4
+
+	[augments.thunderbolt]
+		#Operation for Lightning spell power || Thunderbolt || Default 2
+		#Range: > 1
+		lightning_spell_power_operation = 2
+		#Operation for Nature spell power || Thunderbolt || Default 2
+		#Range: > 1
+		nature_spell_power_operation = 2
+
+	[augments.thunderbolt_mythic]
+		#Lightning Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		lightning_spell_power = 0.4
+		#Nature Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		nature_spell_power = -0.4
+
+	[augments.volcana]
+		#Operation for Fire spell power || Volcana || Default 2
+		#Range: > 1
+		fire_spell_power_operation = 2
+		#Operation for Ice spell power || Volcana || Default 2
+		#Range: > 1
+		ice_spell_power_operation = 2
+
+	[augments.volcana_mythic]
+		#Fire Spell Power || Default 0.4
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = 0.4
+		#Ice Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = -0.4
+
+	[augments.refreshment]
+		#Operation for Aqua spell power || Volcana || Default 2
+		#Range: > 1
+		aqua_spell_power_operation = 2
+		#Operation for Ice spell power || Volcana || Default 2
+		#Range: > 1
+		ice_spell_power_operation = 2
+		#Operation for Fire spell power || Volcana || Default 2
+		#Range: > 1
+		fire_spell_power_operation = 2
+
+	[augments.refreshment_mythic]
+		#Aqua Spell Power || Default 0.2
+		#Range: -1.0 ~ 1.0
+		aqua_spell_power = 0.2
+		#Ice Spell Power || Default 0.2
+		#Range: -1.0 ~ 1.0
+		ice_spell_power = 0.2
+		#Fire Spell Power || Default -0.4
+		#Range: -1.0 ~ 1.0
+		fire_spell_power = -0.4
+

@@ -1,0 +1,20 @@
+{
+	// Disables the dragon egg teleport functionality when using a silk touch pickaxe.
+	"enableDragonEggDrop": true,
+	// Enables monster spawners to drop with silk touch. It keeps the mob data.
+	"enableSpawnerDrop": true,
+	// Allows cakes that haven't been eaten from to drop with silk touch. Works with candle cakes as well.
+	"enableFullCakeDrop": true,
+	// Allows Budded Amethyst to drop when mined with silk touch.
+	"enableBuddedAmethystDrop": true,
+	// Allows Farmland to drop when harvested with silk touch.
+	"enableFarmlandDrop": true,
+	// Allows Tall Grass to drop when harvested with silk touch.
+	"enableTallGrassDrop": true,
+	// Allows Snow Layers to drop when harvested with silk touch.
+	"enableSnowLayerDrop": true,
+	// Allows Vines to drop when harvested with silk touch.
+	"enableVinesDrop": true,
+	// Allows Infested Stone to drop when mined with silk touch.
+	"enableInfestedStoneDrop": false
+}
