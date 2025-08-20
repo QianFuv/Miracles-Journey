@@ -1,13 +1,13 @@
 name = "Create: Hypertubes"
-filename = "create_hypertube-0.2.4-FORGE.jar"
+filename = "create_hypertube-0.2.5-FORGE.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "50e52ef50bd0b2e559d3fc52ffa7aa2ded94326c"
+hash = "d46bd8d5ae6ac25da9974062b0796172f698bfec"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6802739
+file-id = 6878308
 project-id = 1281336

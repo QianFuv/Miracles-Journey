@@ -1,0 +1,16 @@
+# Ghost spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+# 
+# Default: 14, 1, 2, #minecraft:is_forest
+# Range: -Infinity ~ Infinity
+GHOST_SPAWN = "14, 1, 2, #minecraft:is_forest"
+# Ghost spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+# 
+# Default: 14, 1, 3, minecraft:flower_forest, #minecraft:is_forest, #forge:is_swamp
+# Range: -Infinity ~ Infinity
+SMALL_GHOST_SPAWN = "14, 1, 3, minecraft:flower_forest, #minecraft:is_forest, #forge:is_swamp"
+# The maximum distance (in blocks) at which ghosts will teleport to their owner.
+# 
+# Default: 10
+# Range: 0 ~ 1000
+GHOSTS_FOLLOW_OWNER_TELEPORT_DISTANCE = 10
+

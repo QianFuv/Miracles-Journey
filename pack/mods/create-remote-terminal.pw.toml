@@ -1,13 +1,13 @@
 name = "Create: Remote Terminal"
-filename = "createterminal-1.0.2-1.20.1.jar"
+filename = "createterminal-1.20.1-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5ae0798e7ae8b55e04bb8b7cd29711d36219e45"
+hash = "216454291f7c6e110ddc5aff7fae7157f484803d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6814285
+file-id = 6893608
 project-id = 1278249

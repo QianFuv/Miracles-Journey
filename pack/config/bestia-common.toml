@@ -1,5 +1,61 @@
 
 [Features]
-	#View, apply, and use special buffs (the ones you get every 10 levels). This should not interfere with any data generated already.
+	#View, apply, and use special buffs. This should not interfere with any data generated already.
 	enableSpecialBuffs = true
+
+[Buffs]
+	#For each level, how much of the original damage should be added on attack (additive)? (default: 0.05)
+	#Range: 0.0 ~ 1.0
+	damageFactorPerLevel = 0.05
+	#For each level, by what factor should incoming damage be multiplied by (multiplicative)? (default: 0.96)
+	#Range: 0.1 ~ 1.0
+	resistanceFactorPerLevel = 0.96
+	#How many levels until a special buff point is earned? (default: 10)
+	#Range: 1 ~ 100
+	levelsPerSpecialPoint = 10
+	#How many levels can you apply to special buff 'reroll'? (default: 3, 0 to disable)
+	#Range: > 0
+	rerollMaxLevel = 3
+	#How many levels can you apply to special buff 'execute'? (default: 3, 0 to disable)
+	#Range: > 0
+	executeMaxLevel = 3
+	#How many levels can you apply to special buff 'lifesteal'? (default: 5, 0 to disable)
+	#Range: > 0
+	lifestealMaxLevel = 5
+	#How many levels can you apply to special buff 'reflex'? (default: 5, 0 to disable)
+	#Range: > 0
+	reflexMaxLevel = 5
+	#How many levels can you apply to special buff 'daze'? (default: 3, 0 to disable)
+	#Range: > 0
+	dazeMaxLevel = 3
+	#How much should be added to the execute buff's threshold per level? (default: 0.1)
+	#Range: 0.0 ~ 1.0
+	executeBuffPerLevel = 0.1
+	#How much health should be stolen per livesteal level? (default: 0.05)
+	#Range: 0.0 ~ 1.0
+	lifestealBuffPerLevel = 0.05
+	#How much knockback should be applied to attacking mobs? (default: 0.4)
+	#Range: 0.0 ~ 100.0
+	reflexBuffPerLevel = 0.4
+	#How many ticks should affected mobs be dazed for? (default: 8)
+	#Range: > 0
+	dazeBuffPerLevel = 8
+
+[Stats]
+	#Max mob level you can achieve? (default: 18340)
+	#Range: > 1
+	maxLevel = 18340
+	#This string is passed to a custom formula parser as a formula, and is used for level calculations.
+	#The formula should be strictly increasing. Formula supports +-*/^ and unary minus operators, and parenthesis.
+	#For a level, L (case-sensitive), this equation maps it to an amount of kills. (default: L * (L + 1))
+	killsFormula = "L * (L + 1)"
+	#Should the kills formula be fully checked upon modloading?
+	#Use this if you don't know if the killsFormula is strictly increasing.
+	#This is laggy! Don't leave this on. (default: false)
+	monotonyCheck = false
+
+[Data]
+	#How many ticks until the server saves all bestiary data automatically? (default: 12000 = 10 minutes)
+	#Range: > 100
+	autosaveInterval = 12000
 

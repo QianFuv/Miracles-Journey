@@ -129,4 +129,32 @@ ringOfAgilityChanceScale = 1.0
 #Example: 0.9 = 90% maximum dodge chance.
 #Range: 0.0 ~ 1.0
 ringOfAgilityMaxDodgeChance = 0.9
+#Cooldown duration of the Divine Shield in ticks. (1 second = 20 ticks)
+#Range: > 0
+divineShieldCooldownTicks = 400
+#Duration of invulnerability after blocking damage with Divine Shield, in ticks. (1 second = 20 ticks)
+#Range: > 0
+divineShieldImmunityTicks = 40
+#Permafrost Attack Damage.
+permafrostAttackDamage = 10.0
+#Permafrost Attack Speed.
+permafrostAttackSpeed = 2.0
+#Duration of the Permafrost debuff applied when hitting a target, in ticks. (1 second = 20 ticks)
+#Range: > 0
+permafrostAttackDebuffDuration = 600
+#Maximum number of Permafrost stacks applied from attacks.
+#Range: > 0
+permafrostAttackMaxStacks = 10
+#Movement/Flying speed reduction per Permafrost stack applied from attacks (0.05 = 5% slower).
+#Range: 0.0 ~ 1.0
+permafrostAttackReductionPerStack = 0.05
+#Radius of the Permafrost aura effect in blocks.
+#Range: 0 ~ 32
+permafrostAuraRadius = 5
+#Duration of the Permafrost aura debuff in ticks. (1 second = 20 ticks)
+#Range: > 0
+permafrostAuraDebuffDuration = 100
+#Movement/Flying speed reduction factor from Permafrost aura. (0.2 = 20% slower)
+#Range: 0.0 ~ 1.0
+permafrostAuraReductionFactor = 0.2
 

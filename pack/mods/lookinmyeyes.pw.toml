@@ -1,13 +1,13 @@
 name = "LookInMyEyes"
-filename = "lookinmyeyes-1.20.1-1.4.1.jar"
+filename = "lookinmyeyes-1.20.1-1.4.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "03b5e1cbbe39a184775b7b151ab04de86dcbd198"
+hash = "fe6c5b8988a2e3d8af929e9fdcb4adce9c0842d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6813792
+file-id = 6907250
 project-id = 1309252

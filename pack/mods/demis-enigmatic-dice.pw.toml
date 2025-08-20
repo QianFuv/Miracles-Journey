@@ -1,13 +1,13 @@
 name = "Demi's Enigmatic Dice"
-filename = "EnigmaticDice-1.2.3-1.20.1.jar"
+filename = "EnigmaticDice-1.2.7-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "046445d04b4e84f53c5a060d80daad9a2228c43e"
+hash = "b02b0b6c500cd531ca4682cc915f4c1f0cbfb406"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6733168
+file-id = 6900107
 project-id = 1188372

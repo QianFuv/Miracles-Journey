@@ -1,13 +1,13 @@
 name = "Create: Cultivation Craft"
-filename = "create_cultivation-0.1.1.jar"
+filename = "create_cultivation-0.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6fc1a4a68ef40d0755b3d2203cd372e1017d63e"
+hash = "45a48defcdf13bd68c48e21205aabb3ce7ea0130"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6784776
+file-id = 6893948
 project-id = 1307822

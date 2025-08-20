@@ -24,10 +24,15 @@
 [XP] Fast Zip Writes:true
 [XP] Fix Main Entity Dot:true
 [XP] Hide Invisible Entities:true
+[XP] Lava Columns:false
+[XP] Lava Columns Alpha Step:8.0
+[XP] Lava Columns Base Alpha Shift:0.0
+[XP] Lava Columns Color:1
 [XP] Liquid NewChunks Only Y > 0:false
 [XP] Long Waypoint Initials:false
 [XP] Map Art Grid:false
 [XP] Map Art Grid Color:0
+[XP] Min Lava Column Height:5.0
 [XP] Min WorldMap Zoom:0.1
 [XP] Minimap FPS Limit:60.0
 [XP] Minimap FPS Limiter:false
@@ -72,6 +77,7 @@
 [XP] Roof Snow Opacity:10.0
 [XP] Roof Y Level:250.0
 [XP] Save/Load Breadcrumbs to Disk:true
+[XP] Save/Load Lava Columns to Disk:true
 [XP] Save/Load NewChunks to Disk:true
 [XP] Save/Load OldBiomes To Disk:true
 [XP] Save/Load OldChunks to Disk:true
@@ -89,6 +95,7 @@
 [XP] Spawn Chunks Outer Chunks Color:3
 [XP] Spawn Chunks Redstone Processing:false
 [XP] Spawn Chunks Redstone Processing Color:0
+[XP] Spawn Point Waypoint:false
 [XP] Switch to End:false
 [XP] Switch to Nether:false
 [XP] Switch to Overworld:false

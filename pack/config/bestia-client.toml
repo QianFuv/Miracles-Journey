@@ -1,0 +1,5 @@
+#Show the info screen upon opening the bestiary? (updated by the screen itself)
+shownBefore = false
+#When a mob has unspent special buff points, should a red alert/icon show up in the Bestiary for it?
+showNotificationBadges = true
+

@@ -1,47 +1,85 @@
 
 [visuals]
-	#waterEffects
-	clientBoolean = true
-	#Range: 0.0 ~ 5.0
-	splashThreshold = 0.3
-	#Range: 0 ~ 100
-	flowingWaterSplashingDensity = 50
-	cascades = true
-	#Range: 0 ~ 5
-	cascadeCloudDensity = 2
-	#Range: 0 ~ 5
-	cascadeMistDensity = 1
-	shouldFlowingWaterSpawnParticlesOnFirstTick = true
-	#Range: 0 ~ 10
-	lapisBlockUpdateParticleChance = 1
-	#Range: 0 ~ 10
-	rainRippleDensity = 5
-	glowingPlankton = true
-	#Range: 0.0 ~ 10.0
-	fireflyDensity = 1.0
 
-[mobEffects]
-	allayTwinkles = true
-	goldenAllays = true
+	[visuals.waterEffects]
+		isSplashesEnabled = true
+		isLavaSplashesEnabled = false
+		#Range: 0.0 ~ 5.0
+		splashThreshold = 0.3
+		#Range: 0 ~ 100
+		dropletSplashingDensity = 50
+		isCascadesEnabled = true
+		#Range: 0 ~ 5
+		cascadeCloudDensity = 2
+		#Range: 0.0 ~ 5.0
+		cascadeMistDensity = 1.0
+		flowingWaterSpawnCascade = true
+		#Range: 0.0 ~ 10.0
+		lapisBlockUpdateParticleChance = 1.0
+		#Range: 0 ~ 10
+		rainRippleDensity = 1
+		isGlowingPlanktonEnabled = true
+		underwaterOpenChestBubbles = true
+		#Allowed Values: ON_SOUL_SAND, RANDOMLY, NEVER
+		underwaterChestsOpenRandomly = "ON_SOUL_SAND"
 
-[illuminatedEffects]
-	#Range: 0.0 ~ 10.0
-	chorusPetalDensity = 1.0
+	[visuals.entityEffects]
+		#Allowed Values: ATTRACT, VISUAL, NEVER
+		glowSquidHypnosis = "ATTRACT"
+		#Allowed Values: BOTH, TRAIL, TWINKLE, NONE
+		allayTrails = "BOTH"
+		goldenAllays = true
 
-[improvedEffects]
-	#Allowed Values: BOTH, TRAIL, TWINKLE, NONE
-	spectralArrowTrails = "TWINKLE"
+	[visuals.screenShakeEffects]
+		#Range: 0.0 ~ 5.0
+		screenShakeIntensity = 1.0
+		wardenScreenShake = true
+		sonicBoomScreenShake = true
+		ravagerScreenShake = true
+		dragonScreenShake = true
 
-[screenShakeEffects]
-	#Intensity of screenshake, higher numbers increase amplitude. Set to 0 to turn off screenshake. 
-	#Range: 0.0 ~ 5.0
-	screenShakeIntensity = 1.0
-	wardenScreenShake = true
-	sonicBoomScreenShake = true
-	ravagerScreenShake = true
-	dragonScreenShake = true
+	[visuals.illuminatedEffects]
+		#Range: 0.0 ~ 10.0
+		fireflyDensity = 1.0
+		fireflySpawnSettings = ["minecraft:plains,LOW,#91BD59", "minecraft:sunflower_plains,LOW,#91BD59", "minecraft:old_growth_pine_taiga,LOW,#BFFF00", "minecraft:old_growth_spruce_taiga,LOW,#BFFF00", "minecraft:taiga,LOW,#BFFF00", "minecraft:forest,MEDIUM,#BFFF00", "minecraft:flower_forest,MEDIUM,#FF7FED", "minecraft:birch_forest,MEDIUM,#E4FF00", "minecraft:dark_forest,MEDIUM,#006900", "minecraft:old_growth_birch_forest,MEDIUM,#E4FF00", "minecraft:jungle,MEDIUM,#00FF21", "minecraft:sparse_jungle,MEDIUM,#00FF21", "minecraft:bamboo_jungle,MEDIUM,#00FF21", "minecraft:lush_caves,MEDIUM,#F2B646", "minecraft:swamp,HIGH,#BFFF00", "minecraft:mangrove_swamp,HIGH,#BFFF00", "mariposa:redwood_forest,MEDIUM,#BFFF00"]
+		#Range: 0.0 ~ 10.0
+		chorusPetalDensity = 1.0
+		#Range: 0.0 ~ 1000.0
+		willOWispDensity = 1.0
+		#Allowed Values: HALLOWEEN, ALWAYS, NEVER
+		eyesInTheDark = "HALLOWEEN"
 
-[miscellaneousEffects]
-	#Range: 0.0 ~ 100.0
-	sculkDustDensity = 100.0
+	[visuals.improvementEffects]
+		#Allowed Values: BOTH, TRAIL, TWINKLE, NONE
+		spectralArrowTrails = "BOTH"
+
+	[visuals.miscellaneousEffects]
+		#Range: 0 ~ 100
+		sculkDustDensity = 100
+
+[audio]
+
+	[audio.cascadeAudio]
+		#Range: 0 ~ 100
+		cascadeSoundsVolume = 30
+		#Range: 0 ~ 400
+		cascadeSoundDistanceBlocks = 100
+
+	[audio.biomeAmbienceAudio]
+		#Range: 0 ~ 100
+		windAmbienceVolume = 100
+		#Range: 0 ~ 100
+		waterAmbienceVolume = 100
+		#Range: 0 ~ 100
+		foliageAmbienceVolume = 100
+		#Range: 0 ~ 100
+		animalAmbienceVolume = 100
+
+[technical]
+	#Range: 0.0 ~ 25.0
+	randomBlockDisplayTicksFrequencyMultiplier = 1.0
+	#Range: 0 ~ 160
+	randomBlockDisplayTicksDistanceClose = 16
+	#Range: 0 ~ 320
+	randomBlockDisplayTicksDistanceFar = 32
 
