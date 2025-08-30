@@ -12,7 +12,7 @@
 
 1. 必须转移的文件：
 
-   - 存档备份：`/backups/`
+   - 存档备份：`/simplebackups/`
 
    - 存档：`/saves/`
 
