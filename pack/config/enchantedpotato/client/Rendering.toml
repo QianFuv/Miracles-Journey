@@ -20,4 +20,8 @@
 	OceanHuedHealingAmountPosX = 10
 	#Range: > 0
 	OceanHuedHealingAmountPosYOffset = 44
+	#Range: > 0
+	SpaceLeapfrogCooldownTextPosX = 10
+	#Range: > 0
+	SpaceLeapfrogCooldownTextPosYOffset = 58
 

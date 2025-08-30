@@ -1,13 +1,13 @@
 name = "MultiBeds"
-filename = "multibeds-forge-1.20.1-1.2.jar"
+filename = "multibeds-forge-1.20.1-1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "83687dcdf53a4d58965d32cc8954cf1dd444512e"
+hash = "fbde68959dd5ec508bf25bbd04c4d711f9d0b835"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5294702
+file-id = 6910107
 project-id = 244858

@@ -1,0 +1,29 @@
+
+[DisableConfig]
+	DisableRunLikeHell = false
+	DisableBlackParade = false
+	DisableGraceOfGungnir = false
+	DisablePressurizedCollapse = false
+	DisableUntouchable = false
+	DisableGraceOfGaia = false
+	DisableGurenNoYumiya = false
+	DisableLoRATrainer = false
+	DisableRippleOfDeath = false
+	DisableWonderEggPriority = false
+	DisablePoisonOfTheLastBreath = false
+	DisableDissolve = false
+	DisableMarkFromTheBeneath = false
+	DisableArmorBreaking = false
+	DisableNatureBlessing = false
+	DisableCaressingMoonlight = false
+	DisableOceanHued = false
+	DisableMineCarve = false
+	DisableLotusInWater = false
+	DisableUniteStonesOfAll = false
+	DisableLawOfInertia = false
+	DisableMendingMirror = false
+	DisableSacredRiftWind = false
+	DisableFinalPower = false
+	DisableMercy = false
+	DisableSpaceLeapfrog = false
+

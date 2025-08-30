@@ -550,6 +550,17 @@
       },
       "sync": "enchantedpotato:run_like_hell_cooldown"
     },
+    "enchantedpotato:space_leapfrog_cooldown": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "enchantedpotato:space_leapfrog_cooldown"
+    },
     "enchantedpotato:untouchable_cooldown": {
       "displacement": {
         "x": 0,

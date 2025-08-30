@@ -1,13 +1,13 @@
 name = "Blended Compat"
-filename = "blended-compat-1.1.1.jar"
+filename = "blended-compat-1.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e5e3982b4c016bd254f63ee478b1ed070a1e1edc"
+hash = "98bbd93ec132f00cd70d6b65f4002bfda3b8d433"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6503500
+file-id = 6915988
 project-id = 1066390

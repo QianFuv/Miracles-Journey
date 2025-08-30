@@ -1,13 +1,13 @@
 name = "Etched-Extension"
-filename = "etched_extension-forge-0.2.1+mc1.20.1.jar"
+filename = "etched_extension-forge-0.2.2+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qRbBLrpp/versions/pw7InZh2/etched_extension-forge-0.2.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/qRbBLrpp/versions/nns3ZYBG/etched_extension-forge-0.2.2%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "6ebec20691b2c13ea9db1fbe84ef28e9e3c525419ef1c7ba939ade5c28e630957e87df9b1a6d146ae9a948e3ee205894f036b919e4f0dc2612a5859bb8f646c1"
+hash = "03e3b89b024aeb6fdb1fe1d3a45f280cfad87fce4c711a256594a3f0a35bb7cd72bae0547b9b0dcbd1c0076e1f51369555133b53a720b83e34eaa4b9bba9887d"
 
 [update]
 [update.modrinth]
 mod-id = "qRbBLrpp"
-version = "pw7InZh2"
+version = "nns3ZYBG"

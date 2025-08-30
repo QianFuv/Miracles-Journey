@@ -1,0 +1,15 @@
+
+[SpaceLeapfrog]
+	#Range: > 0
+	"BasicCoolDown(ticks)" = 1200
+	#Range: > 0
+	"SavedCoolDownPerLevel(ticks)" = 200
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BasicLeapfrogDistance = 5.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedLeapfrogDistancePerLevel = 5.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	BasicExplosionRadius = 3.0
+	#Range: 0.0 ~ 1.7976931348623157E308
+	GainedExplosionRadiusPerLevel = 3.0
+

@@ -6,5 +6,7 @@
   "displayBoardModification": true,
   "blazeBurnerUseLiquids": true,
   "statue": false,
-  "trashCan": true
+  "trashCan": true,
+  "enderPackager": true,
+  "stockManager": true
 }

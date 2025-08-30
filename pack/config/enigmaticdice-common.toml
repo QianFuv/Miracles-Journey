@@ -132,7 +132,7 @@ ringOfAgilityMaxDodgeChance = 0.9
 #Cooldown duration of the Divine Shield in ticks. (1 second = 20 ticks)
 #Range: > 0
 divineShieldCooldownTicks = 400
-#Duration of invulnerability after blocking damage with Divine Shield, in ticks. (1 second = 20 ticks)
+#This feature is disabled. Duration of invulnerability after blocking damage with Divine Shield, in ticks. (1 second = 20 ticks)
 #Range: > 0
 divineShieldImmunityTicks = 40
 #Permafrost Attack Damage.
@@ -157,4 +157,34 @@ permafrostAuraDebuffDuration = 100
 #Movement/Flying speed reduction factor from Permafrost aura. (0.2 = 20% slower)
 #Range: 0.0 ~ 1.0
 permafrostAuraReductionFactor = 0.2
+#Whether to give the player the Divine Shield effect as an indicator that the item is not on cooldown.
+divineShieldGiveEffect = true
+#Crucible Of Rile Attack Damage.
+crucibleOfRileAttackDamage = 16.0
+#Crucible Of Rile Attack Speed.
+crucibleOfRileAttackSpeed = 1.4
+#Crucible Of Rile: health threshold at or below which enemies can be executed.
+crucibleOfRileExecuteThreshold = 5.0
+#Crucible Of Rile: ability cooldown in ticks. (1 second = 20 ticks)
+#Range: > 0
+crucibleOfRileCooldown = 400
+#Crucible Of Rile: aggro radius of the ability, in blocks.
+crucibleOfRileAggroRadius = 16.0
+#Crucible Of Rile: whether the ability should aggro players (forcing them to look at the item user).
+crucibleOfRileAggroPlayers = true
+#Crucible Of Rile: duration of the forced aggro (camera lock) effect in ticks. (1 second = 20 ticks)
+#Range: > 0
+crucibleOfRileAggroDuration = 100
+#Crucible Of Rile: armor buff multiplier applied by the active ability. (0.5 = +50%)
+crucibleOfRileArmorBuffValue = 0.5
+#Crucible Of Rile: duration of the armor buff from the active ability, in ticks. (1 second = 20 ticks)
+#Range: > 0
+crucibleOfRileArmorBuffDuration = 100
+#Crucible Of Rile: number of hits the player must take before triggering a counterattack.
+#Range: > 1
+crucibleOfRileHitsForCounterattack = 5
+#Crucible Of Rile: radius of the counterattack, in blocks.
+crucibleOfRileCounterattackRadius = 3.5
+#Permanent armor bonus (percent as fraction) per unique killed enemy type. (0.01 = +1%)
+crucibleOfRilePermanentArmorPerUnique = 0.005
 

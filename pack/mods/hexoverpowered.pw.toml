@@ -1,13 +1,13 @@
 name = "HexOverpowered"
-filename = "HexOverpowered-forge-1.20.1-0.8.0.2.jar"
+filename = "HexOverpowered-forge-1.20.1-0.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "500e67765b7415f52ec89544372fddf899cd4a22"
+hash = "9bc12fab7678fbbd89cde733ec269f6da50ad12f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6832764
+file-id = 6919011
 project-id = 1173074

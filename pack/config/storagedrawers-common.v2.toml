@@ -256,6 +256,59 @@
 	[Upgrades.Void]
 		enableUpgrade = true
 
+	# Collects matching items through its top like a vanilla hopper.
+	[Upgrades.Hopper]
+		enableUpgrade = true
+
+	# Collects nearby matching items by teleporting them instantly to the drawer
+	[Upgrades.Magnet]
+		# 
+		# When multiple magnet upgrades are used, their ranges are added together.
+		additiveRange = true
+		# 
+		# Range is blocks out from drawer as: [horizontal, up, down]
+		# If ranges from multiple upgrades are added, they are not allowed to exceed these values.
+		maxRange = [24, 8, 0]
+
+		[Upgrades.Magnet.Level1]
+			enableUpgrade = true
+			# 
+			# Range is blocks out from drawer as: [horizontal, up, down]
+			range = [1, 1, 0]
+			# 
+			# Ticks between active collection when this is the highest upgrade tier.
+			activeSpeed = 20
+			# 
+			# Ticks between collection checks when this is the highest upgrade tier.
+			# Collection is idle when items have not been collected within the last idleSpeed interval.
+			idleSpeed = 20
+
+		[Upgrades.Magnet.Level2]
+			enableUpgrade = true
+			# 
+			# Range is blocks out from drawer as: [horizontal, up, down]
+			range = [4, 2, 0]
+			# 
+			# Ticks between active collection when this is the highest upgrade tier.
+			activeSpeed = 10
+			# 
+			# Ticks between collection checks when this is the highest upgrade tier.
+			# Collection is idle when items have not been collected within the last idleSpeed interval.
+			idleSpeed = 20
+
+		[Upgrades.Magnet.Level3]
+			enableUpgrade = true
+			# 
+			# Range is blocks out from drawer as: [horizontal, up, down]
+			range = [8, 3, 0]
+			# 
+			# Ticks between active collection when this is the highest upgrade tier.
+			activeSpeed = 5
+			# 
+			# Ticks between collection checks when this is the highest upgrade tier.
+			# Collection is idle when items have not been collected within the last idleSpeed interval.
+			idleSpeed = 20
+
 # Configuration around tools, namely the various 'keys' that can be used on drawers.
 [Tools]
 
@@ -266,6 +319,9 @@
 	# Quantify keys are used to show or hide the count of items on the face of drawers.
 	[Tools.QuantifyKey]
 		enable = true
+		# 
+		# Show labels by default on newly placed drawers.
+		showDefault = false
 
 	# Concealment keys are used to show or hide the item labels on the face of drawers.
 	# The primary use of this key is for performance by disabling the more expensive dynamic rendering.
@@ -278,6 +334,10 @@
 
 	# Priority keys change the priority of drawers when finding a compatible slot to insert items into.
 	[Tools.PriorityKey]
+		enable = true
+
+	# Suspend keys stop external interaction, e.g. from hopper or magnet upgrades.
+	[Tools.PauseKey]
 		enable = true
 
 # Configuration around integration with third party mods.

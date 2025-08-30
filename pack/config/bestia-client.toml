@@ -2,4 +2,9 @@
 shownBefore = false
 #When a mob has unspent special buff points, should a red alert/icon show up in the Bestiary for it?
 showNotificationBadges = true
+#Show a toast when you level up a mob?
+showLevelUpToasts = true
+#What scale should the level up toasts be? (default: 0.8)
+#Range: 0.1 ~ 3.0
+levelUpToastScale = 0.6
 

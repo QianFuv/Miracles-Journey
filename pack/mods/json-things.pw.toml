@@ -1,13 +1,13 @@
 name = "Json Things"
-filename = "JsonThings-1.20.1-0.9.9.jar"
+filename = "JsonThings-1.20.1-0.9.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b99f3866304f3f43b667b01aa03806083449623f"
+hash = "615544d2eb951cea8c94cb65a25e0e42abdde3c0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6100175
+file-id = 6931396
 project-id = 541617

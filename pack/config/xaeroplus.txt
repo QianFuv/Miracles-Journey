@@ -57,6 +57,7 @@
 [XP] Palette NewChunks Inverse:false
 [XP] Palette NewChunks Opacity:100.0
 [XP] Palette NewChunks Version Upgraded:true
+[XP] Pearl Waypoints:false
 [XP] Persist Dim Switch:true
 [XP] Plain Waypoint Sharing:false
 [XP] Player Spawn Chunks:false
@@ -72,6 +73,9 @@
 [XP] PortalSkip Search Delay:10.0
 [XP] Prefer Overworld Waypoints:false
 [XP] Radar While Dim Switched:true
+[XP] Region Grid:false
+[XP] Region Grid Color:0
+[XP] Region Grid Text:false
 [XP] Region Writes While Dim Switched:false
 [XP] Roof Obsidian Opacity:150.0
 [XP] Roof Snow Opacity:10.0
@@ -106,6 +110,7 @@
 [XP] Waypoint Beacons:false
 [XP] Waypoint ETA:false
 [XP] Waypoint ETA Tick Buffer:10.0
+[XP] Waypoints List UI Additions:true
 [XP] Waystone Color:16
 [XP] Waystone WP Visibility Type:0
 [XP] Waystone Waypoint Set:false
@@ -114,6 +119,7 @@
 [XP] WorldMap Baritone Goal Here:false
 [XP] WorldMap Baritone Path Here:false
 [XP] WorldMap Toggle Drawing:false
+[XP] WorldMap UI Additions:true
 [XP] WorldTools Highlights:true
 [XP] WorldTools Highlights Color:1
 [XP] WorldTools Highlights Opacity:100.0

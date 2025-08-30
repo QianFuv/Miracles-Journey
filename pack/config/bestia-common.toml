@@ -42,20 +42,27 @@
 	dazeBuffPerLevel = 8
 
 [Stats]
-	#Max mob level you can achieve? (default: 18340)
+	#Max mob level you can achieve? (default: 10000)
 	#Range: > 1
 	maxLevel = 18340
 	#This string is passed to a custom formula parser as a formula, and is used for level calculations.
 	#The formula should be strictly increasing. Formula supports +-*/^ and unary minus operators, and parenthesis.
-	#For a level, L (case-sensitive), this equation maps it to an amount of kills. (default: L * (L + 1))
+	#For a level, L (case-sensitive), this equation maps it to an amount of kills. (default: L * (L + 1), max length = 256 characters)
 	killsFormula = "L * (L + 1)"
 	#Should the kills formula be fully checked upon modloading?
 	#Use this if you don't know if the killsFormula is strictly increasing.
 	#This is laggy! Don't leave this on. (default: false)
 	monotonyCheck = false
+	#Players with a mob level lower than this are omitted on the leaderboard. (Default: 1)
+	#Range: > 0
+	minLeaderboardLevel = 1
 
 [Data]
 	#How many ticks until the server saves all bestiary data automatically? (default: 12000 = 10 minutes)
 	#Range: > 100
 	autosaveInterval = 12000
+	#Any mobs that should be excluded from Bestiary Data storage and display? (default: [])
+	blacklistedEntities = []
+	#Any mobs in the MISC category that should be included in Bestiary Data storage and display? (default: [])
+	whitelistedEntities = []
 

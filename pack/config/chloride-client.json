@@ -4,7 +4,7 @@
   "fpsDisplayMode": "SIMPLE",
   "fpsDisplayAlign": "RIGHT",
   "fpsDisplayVAlign": "TOP",
-  "fpsDisplaySystemMode": "GPU_ONLY",
+  "fpsDisplaySystemMode": "ALL",
   "fpsDisplayMargin": 12,
   "fpsDisplayVMargin": 12,
   "fpsDisplayShadow": false,

@@ -3,6 +3,7 @@
 RevealsHexInsideCastingItems = true
 #<Mote>
 #Enables 'A Glance of Mote Chest' (a simple chest GUI) on right click
+#disables if `EnablesMoteItemHandler` is off
 EnablesMoteChestGUI = true
 #<Mishap>
 #Mishaps won't drop items anymore
@@ -55,4 +56,10 @@ AmethystCircleFullPowerLevel = 15
 #How many media points each FE point equals
 #Range: 0.0 ~ 1.0E10
 MekasuitConversionRatio = 1.0
+#<Mote>
+#Enables item IO without casting patterns
+EnablesMoteItemHandler = true
+#<Misc>
+#Player references are always valid even in another dimension
+TrueNameCrossDimension = true
 
