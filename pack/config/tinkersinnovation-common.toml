@@ -1,0 +1,5 @@
+#Common Config
+#The max level of omnipotent modifier
+#Range: > 1
+MaxLevel = 2
+

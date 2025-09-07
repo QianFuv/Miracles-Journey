@@ -1,0 +1,13 @@
+name = "TinkerVillager"
+filename = "tinkervillager-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92b7bcb75e8ba1e8301bf08de25e9d3b47d1b72f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6121599
+project-id = 1182486

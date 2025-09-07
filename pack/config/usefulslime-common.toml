@@ -1,0 +1,7 @@
+#Should the Slime Helmet be damaged by climbing on the ceiling
+hangClimbingDamagesSlimeHelmet = true
+#Should Slime Chestplates and Slime Leggings be damaged by wall climbing (not inculding including already climbable blocks)
+wallClimbingDamagesSlimeChestplateAndLeggings = true
+#Should Slime Boots be damaged by bouncing
+bouncingDamagesSlimeBoots = true
+

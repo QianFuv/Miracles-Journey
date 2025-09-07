@@ -1,0 +1,13 @@
+name = "Common Network"
+filename = "common-networking-forge-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "986597ae06f01c9209c111ba6276a171e8977a2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5486134
+project-id = 806044

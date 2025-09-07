@@ -968,6 +968,39 @@
       },
       "sync": "modulargolems:golem_stats"
     },
+    "momotinker:censored_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:censored_hud"
+    },
+    "momotinker:ender": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:ender"
+    },
+    "momotinker:tools_time_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:tools_time_hud"
+    },
     "oreganized:stunning": {
       "displacement": {
         "x": 0,
@@ -1297,6 +1330,17 @@
         "y": "NONE"
       },
       "sync": "tide:minigame_overlay"
+    },
+    "tinkerscalibration:shield": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "tinkerscalibration:shield"
     },
     "tofucraft:tofu_portal_overlay": {
       "displacement": {

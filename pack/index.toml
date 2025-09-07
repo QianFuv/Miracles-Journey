@@ -46,7 +46,7 @@ hash = "3c02f6c557fe221194e526bb26dda5c00887e935ae78520fd9b49c2c49020a6d"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "1bff3b619a3c5064efd5527b1b0d3c333022612d59b143ed6f6bcfb325db2e87"
+hash = "7de4316566284af3ecb035a1b756e84e9e552ae4dfd68c52d2a210873fffda70"
 
 [[files]]
 file = "config/LetMeFeedYou.toml"
@@ -75,6 +75,18 @@ hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
 [[files]]
 file = "config/ModernUI/text.toml"
 hash = "c6a56cc176ee7506442882e43a52bde0251c5f623137fb8b29bca5d1979306ec"
+
+[[files]]
+file = "config/MomotinkerItem.toml"
+hash = "a8fa9975849e723ca9b4eeebe20a410e498ddf1526a9ba09d5144a3ea3669c85"
+
+[[files]]
+file = "config/MomotinkerModifier.toml"
+hash = "293883bafcfe4c0fa53f0435c0627c3c5ad8feaecc98909050267058c64f7ab4"
+
+[[files]]
+file = "config/MomotinkerTool.toml"
+hash = "c4ad8a7ed7788a66ba3b478c9621536a2d32bc74843246febfdcf2d2c8e2160e"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1158,7 +1170,7 @@ hash = "44d5ffce2028de707c522ebcf39ff392810c73b91008e7b98d83ca3f2619aa0d"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "3557eacc56594e781297f3abecfeb780cafff19946c8632ebdcb5441fa361b85"
+hash = "08bbde7ababd2ebd923ef0d1252b69f15d296f01b4dc4664cc2375264c2b7d7b"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -1582,11 +1594,11 @@ hash = "f2dbf451aeee6ce337c1ccd1b48c0e4ef9683e5b9d9900409559780470429b07"
 
 [[files]]
 file = "config/configapi-client.cfg"
-hash = "197b5212a9dd2b445fc9bfa7e90d9eb4e0e99e661768d50fd3c09ca702d10c60"
+hash = "3ce24f23bffc1aec221631b239d454711615d4f04756a5567956a281e39b02ee"
 
 [[files]]
 file = "config/configapi-common.cfg"
-hash = "15c82d36d84d250c80e5cd36bf4c5a6cf5765e3b46da0816ecc7ec0896a4a552"
+hash = "90545452b927153e0bcd9a0037aa90ba85b829054783cb5f9c5a711d238f9189"
 
 [[files]]
 file = "config/configured-client.toml"
@@ -1694,7 +1706,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "343d29577b6d417e26c58412dd28d3b6546ee4b86a77f2b31d9881c5333a087d"
+hash = "e725655e5840e18215f26120e564cb17f70c82fdd778fc606b72d3c186f94ccb"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2337,6 +2349,14 @@ file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
+file = "config/etstlib-client.toml"
+hash = "da226a86c00f6d93ce6fdcbe64447215a603bf6695d02a77bd5ca6fc9ef2286c"
+
+[[files]]
+file = "config/etstlib-common.toml"
+hash = "5bcbd6fd1e2bee8d615471d5d7f74e8619525bc670d82a72d1ea7b70ddc47d6e"
+
+[[files]]
 file = "config/euphoria_patcher.properties"
 hash = "4212da12832a4e7a4665e5dca481a2e27a69f520c204b7172619e419893c0f8d"
 
@@ -2386,7 +2406,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "9edcc8d2609662d310461fd50d26455a85e51f5217f53e1abaca6e2df3d6f34e"
+hash = "fe50bef82317ccd17c5954e729df7a68b42504d9f9927a50da6b84be4ec22a73"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -3158,7 +3178,7 @@ hash = "83943ed0d6eaed9bdbb20f91543ca54553881918eb5ca4743aad507ad0f963d9"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "6106ea70401f77e6f9b39fc457238a14be9bd4983cf2fb01a84f1c21edd285f2"
+hash = "bcbd4438dae17ef96de356fbdd05ba4791800b86302d4f8c01619f09f6536eff"
 
 [[files]]
 file = "config/jecharacters.toml"
@@ -3170,11 +3190,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "ad4031ab662d0664064b0301695ad8279a329ee5b72bdb933e2f933a8ae35fb3"
+hash = "d05c4f3a6a664dededbf3761c2e8a3295435539f94337b1a33544d891f51e70b"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "b5b20c39a71e0d77956a20a5cf91f5f627d11ee8df104736925e8b16626faf47"
+hash = "7464507a671b7fbe5598f23f48150ecb45d225a1ffd97a1056036b514cd519b3"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -3190,11 +3210,11 @@ hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
-hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
+hash = "5f62b2721cedd82783258e18e580a3ce1141b66b3340cfa2f66be04af28645df"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "c1a496b7dc49598d842c6d82e45d26c4b565478b86fe9a9be2aa56dc28c15e99"
+hash = "df2b6bc571a9064bafcb3ad72a3450e0f235f1aedd6d7c28bbb95bfb4e0b89f9"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -3463,6 +3483,10 @@ hash = "2203d64db601564f6860a484c02d32794d6a451fa069a8e05846078bfe299506"
 [[files]]
 file = "config/manaliquidizer.toml"
 hash = "425cdb66244e42769788b183bd17f95f0457ff0a41508c604095c522199336c8"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "c9be7ebf0f0669a862cc83ea47378414ddb363afa40d2bd8d5773f86987b829b"
 
 [[files]]
 file = "config/marvelous_menagerie.toml"
@@ -3997,7 +4021,7 @@ hash = "8a4afcf7a631191fbe6a1416b4d16f55584deb22dd90ec7ec337fdf444a92ba7"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "eb3182f17be734fb6d67f58e673313a2ca3a0ff4b58c92eb03f6a3f12a4ac5d9"
+hash = "ca104e71e96d69619577618b149e79ec5b098350e00abf0fa8cf176ad0fb6438"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
@@ -4081,7 +4105,7 @@ hash = "66b2e906e56932093d0292e9c83c88ebdc0db75f6b33bc812f089b82cc23bba5"
 
 [[files]]
 file = "config/raised.json"
-hash = "1c40676d834f67e9aec6d9424477e06bf6dcff973797644feb3a21d33661c1cf"
+hash = "9dc8ad3a06e44c03f0159f05e0b3bb2a68a713e845d32866f602668e0eadcf12"
 
 [[files]]
 file = "config/randomium-common.toml"
@@ -4238,6 +4262,18 @@ hash = "a4cd339aabcfc2b2dd64eb8c8725e86323e98536191d21f7c066a874e65d7af8"
 [[files]]
 file = "config/rsrequestify-common.toml"
 hash = "dd9d58eb53802e7d5192f347b50fea11d50289fc35f763c0a9268c87c73154e6"
+
+[[files]]
+file = "config/sakuratinker-client.toml"
+hash = "ebdcc1cc99b29be8715f66d36e3e0c14796c8effc34ce86191bb5cc74147577d"
+
+[[files]]
+file = "config/sakuratinker-common.toml"
+hash = "725de3d413955f0bf42053fdc6114b811cb7307dc210754116e9df8943c506ad"
+
+[[files]]
+file = "config/sakuratinker/treasure_modifier.json"
+hash = "a02cbea582cfc4da31902ab1c4989efda4205c78d066cb7eb18468d73fbfcbff"
 
 [[files]]
 file = "config/sapience-common.toml"
@@ -4648,6 +4684,30 @@ file = "config/taxfreelevels.json"
 hash = "4279f966cd45205aad4593fc384189194495ff4efca18843ae5f917a3d444413"
 
 [[files]]
+file = "config/tbouncepad-client.toml"
+hash = "c97fe85694e53465c6768c4634e11f93e46c11b1aaf96bc9e296d3d21a7346a3"
+
+[[files]]
+file = "config/tconjei-client.toml"
+hash = "eabd46602a92d93ccb170f7a4f9ed4c6dc0a1629d49bb034471be43aad569c34"
+
+[[files]]
+file = "config/tconplanner-client.toml"
+hash = "e1943ac427bd208e595d72ac5d069058cd040e5b1f1cc9a0784d5ad28bfb9456"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "fc10ac3a7de0464cf5fc0c17b5363ca775ef590842d9addfd81c3ec71f0717e6"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "7b266cce6d405d33c41ee69b918ae4220929aa99ec748fb178f455c5633ee48c"
+
+[[files]]
+file = "config/tconstruct_emergence-common.toml"
+hash = "1719d2e7b0f19d8c64b814ded55f1cc990db1278e9bec3d5b1531dae0c145118"
+
+[[files]]
 file = "config/tectonic.json"
 hash = "115cc420b6bc3e41edc67f4213ca34ac004c1e09d84f467059d9bcb990a401c0"
 
@@ -4674,6 +4734,18 @@ hash = "c69740c31b345aedaf18635f3b475389f2ab4e9f81b1bafbdf92273d1a3dd8ff"
 [[files]]
 file = "config/tidesdelight-common.toml"
 hash = "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24"
+
+[[files]]
+file = "config/tinkers_delight-common.toml"
+hash = "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24"
+
+[[files]]
+file = "config/tinkersinnovation-common.toml"
+hash = "3239b005b330e60b6ff3c7585eecba0558f458f61526710c518404aae9f3d5aa"
+
+[[files]]
+file = "config/tinkerslevellingaddon-client.toml"
+hash = "dd004b3d8a3257a6199d857ab4e0891751625f10ce429eafca6216c3dbdda741"
 
 [[files]]
 file = "config/tinyfoes-client.toml"
@@ -4912,6 +4984,10 @@ file = "config/urkazmoontools.json"
 hash = "49d11ce214d1b2c17e84e80e41a73ea629288c8d91bd6aabd9c92b828f0a4302"
 
 [[files]]
+file = "config/usefulslime-common.toml"
+hash = "36b630a827d4d456dc72f7bf0a380b8fbd68374fcd461a982e796ea1adcd8850"
+
+[[files]]
 file = "config/valhelsia_structures-client.toml"
 hash = "8ab414b34601e3023481f85777bc831a1b3cc78478103b71645b503792c7e6e7"
 
@@ -5121,7 +5197,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yoyos/yoyos-common.json"
-hash = "0a9cc63262e42ff499707ff6c529e42cf76b1a54bace0e1793102c547f2042d7"
+hash = "a1fe524be4fb02fe17a628ecbec848e7b4caf5d12abb380393188af2fa1dd567"
 
 [[files]]
 file = "config/ywzj_midi-common.toml"
@@ -5296,9 +5372,8 @@ hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
 metafile = true
 
 [[files]]
-file = "mods/aetheric-tetranomicon.pw.toml"
-hash = "7e36bf7c058f8d360fee2da1cc75d89d91337247ba425564c08a22850a77fe66"
-metafile = true
+file = "mods/aether_tinker-1.1.5.jar"
+hash = "4b2c95ff9034964579705098d73add4fab0a30b412f07590c06c8b80e5e6e0f8"
 
 [[files]]
 file = "mods/alex-cave-addon.pw.toml"
@@ -5473,11 +5548,6 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveaus-flavors-delight.pw.toml"
 hash = "1de1a16ca5e54b0d493684c97948c6bc06a107c8115192ed43e70207c8344775"
-metafile = true
-
-[[files]]
-file = "mods/art-of-forging-a-tetra-addon.pw.toml"
-hash = "e7a896b4567d9d51f6efeac1c1aa0c81416c00dc858fa07105764d0304f3c774"
 metafile = true
 
 [[files]]
@@ -5986,6 +6056,11 @@ hash = "f357839021fb6ea2da0c47938ba9f517840aaecfb62ecdbb47d30063f07add75"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "4b00d23aa1c07ed18229b2b84c0924a4718196a18db0dc21b4193f82fb67a1e6"
 metafile = true
@@ -6013,6 +6088,11 @@ metafile = true
 [[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
+file = "mods/constructs-casting.pw.toml"
+hash = "c91e0ab831f4e58f335e00452776e8d92d5f5af486e6a57019d4df3589e2d110"
 metafile = true
 
 [[files]]
@@ -6825,6 +6905,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
+metafile = true
+
+[[files]]
+file = "mods/etst-lib.pw.toml"
+hash = "d269d5e264154d9d8825d93c4dbec3eb1e897e259203239f1f914ba47faf8cab"
 metafile = true
 
 [[files]]
@@ -7847,6 +7932,11 @@ hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
+metafile = true
+
+[[files]]
 file = "mods/marvelous-menagerie.pw.toml"
 hash = "ff06369236d814269140a384e09056c94975b06c0f157fd052afd18b41d3e3c3"
 metafile = true
@@ -7982,6 +8072,11 @@ hash = "a184e99a6c7c786943ecb8b6014014a7c9b3016350c0f357fbd9af26259f8754"
 metafile = true
 
 [[files]]
+file = "mods/momotinker.pw.toml"
+hash = "5d9f68a294249ed2d53bc5eb944c369a780ba6644e20efb8b2ee6932506eb5e4"
+metafile = true
+
+[[files]]
 file = "mods/monobank.pw.toml"
 hash = "5b150eb2068fa68a77350d25fc436afe1bea6f44d0fabbbbb1f46557dfcb3713"
 metafile = true
@@ -8009,11 +8104,6 @@ metafile = true
 [[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "6f8dbef0437c81d94f883fc1077d07c6c6784710ec693daec98202788f4e3098"
-metafile = true
-
-[[files]]
-file = "mods/more-mod-tetra.pw.toml"
-hash = "706f8654cfb12489df835603747e5d60822c5b17a2344299c3a76aade54289fe"
 metafile = true
 
 [[files]]
@@ -8062,13 +8152,12 @@ hash = "f114eec62a2e8291b7e2686fd9ac31aeb967a540134acbe7424da0e9e591f41f"
 metafile = true
 
 [[files]]
-file = "mods/music-maker-mod.pw.toml"
-hash = "5966cd62ace7758708abfb97f22b066dd8e69c21895b0b0f3606defc9c6a1bf4"
-metafile = true
+file = "mods/mushroom_concept-1.0.2.jar"
+hash = "49af8d0abbea5a13eba56e1513c0b5c871e812cf859f652ff024b016ce6a9465"
 
 [[files]]
-file = "mods/mutil.pw.toml"
-hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
+file = "mods/music-maker-mod.pw.toml"
+hash = "5966cd62ace7758708abfb97f22b066dd8e69c21895b0b0f3606defc9c6a1bf4"
 metafile = true
 
 [[files]]
@@ -8632,6 +8721,11 @@ hash = "95a5daf48e1c9701c94bd09b8faab5b1302af7fb276f04428d546e8f591b042d"
 metafile = true
 
 [[files]]
+file = "mods/sakura-tinker.pw.toml"
+hash = "c7293c1c10c0982df81219b92c56ddee7cff48b86f7a76d26b8124406285a612"
+metafile = true
+
+[[files]]
 file = "mods/sakura.pw.toml"
 hash = "9aa4ea0e7aff795558672b47ae4da1357b343f998fdbd93688dd9c7f2106b359"
 metafile = true
@@ -8877,11 +8971,6 @@ hash = "8d18be2cf48af7fa25b9d95648d52cb1b87fc7bc48b207c56a2f079297aa5769"
 metafile = true
 
 [[files]]
-file = "mods/soul-fire-d.pw.toml"
-hash = "e57e859ea89936329910a05213e4f93e9972bc8c3a767bea031a34041274f72d"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "fefe526926faf637d561109cd0f350326a7d7656079cf165ac4256bbc31bc16a"
 metafile = true
@@ -9087,6 +9176,20 @@ hash = "49b680b44026ee3690003b9e07b26f9fe2e722160de933bb907cd4b73571af77"
 metafile = true
 
 [[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "3d3c281b51edddfcf41f0ef02d4cacf3c878918d8179165c7c4211e7b4f285a5"
+metafile = true
+
+[[files]]
+file = "mods/tconjei-1.20.1-1.4.6.1.jar"
+hash = "06bb7bc2c4ad3a9eec13367db659b7565ffb03ba7511018e9f11c57d4c01bdb0"
+
+[[files]]
+file = "mods/tconstructjs.pw.toml"
+hash = "8f49231376b5972cc9ee228d3db202467241d908e57a72b072c659c973801103"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "31e8a528de5b6477e75af6bab576af1d67efc7ead29ebda91c8e45c855ab8fc1"
 metafile = true
@@ -9114,46 +9217,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
-metafile = true
-
-[[files]]
-file = "mods/tetra-booster-pack.pw.toml"
-hash = "3e0cac856f0dbcbfcc7121363d0f41ebbd21e56df5ea262ebb836f5e9c9e493d"
-metafile = true
-
-[[files]]
-file = "mods/tetra-extras.pw.toml"
-hash = "6c13c3df782b0716f78c1844e76c5f465f60d87f40e10505801e6b388ece4c17"
-metafile = true
-
-[[files]]
-file = "mods/tetra-niche-materials.pw.toml"
-hash = "f8f56932753ece148f61faf5829aade8a56f9e99f2e3fd0a11ae66f5a45f7e7a"
-metafile = true
-
-[[files]]
-file = "mods/tetra-toolbooster.pw.toml"
-hash = "b1ff2bdb07a4d9c29a126d23319f0a2011e48e25f71dcfa5602f7aa0f200761d"
-metafile = true
-
-[[files]]
-file = "mods/tetra.pw.toml"
-hash = "714c409d92150537ada20684288310ab44d3a0d29dc833ccf088b24f848ff8c9"
-metafile = true
-
-[[files]]
-file = "mods/tetraclip.pw.toml"
-hash = "8544e1400c3efff18031052fa115bc24cf6305c619cfbcbd76ee86156bb711e8"
-metafile = true
-
-[[files]]
-file = "mods/tetranomicon.pw.toml"
-hash = "e1c67611aa8ac579d7299e273cac8798b28927b9366ec799cc5133cced89d958"
-metafile = true
-
-[[files]]
-file = "mods/tetras-delight.pw.toml"
-hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
@@ -9192,6 +9255,11 @@ hash = "4a51e5a0f11ba9b7599dcea129862829bfd028c57bf9997f9513b38defbc7e51"
 metafile = true
 
 [[files]]
+file = "mods/tics-delight.pw.toml"
+hash = "0975f354ee44c698ae80c21bd9fea5fc656136257d796af2673b09aa1a318bef"
+metafile = true
+
+[[files]]
 file = "mods/tide.pw.toml"
 hash = "b3c7e06ffc81ea6f28f31faf10be90625c98b56047af8400e806b26b48094802"
 metafile = true
@@ -9204,6 +9272,95 @@ metafile = true
 [[files]]
 file = "mods/tiered-forge.pw.toml"
 hash = "4be975cb4d45ce2ba322e5609ba2f52910399ba821f0466383fc93a45b9c58d8"
+metafile = true
+
+[[files]]
+file = "mods/tinker-in-caves.pw.toml"
+hash = "27fc4541af2679960be0b8934a7fed9dd910ec36912572289843384e968f4e55"
+metafile = true
+
+[[files]]
+file = "mods/tinker-transplant.pw.toml"
+hash = "1ad1c430d24c4337faf3771c65ab0e2248e7e2a0b3821d59c9642cc6ff2fe415"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-battle-spades.pw.toml"
+hash = "b1f31f64d806ffe0f05951a7676d5d84def3f800b2eba559811e30ea451bf4a6"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-bounce-pad.pw.toml"
+hash = "78ba6192080a98d1cd776c090d651ac390525c6654d2aefdb1d4cf27427f9ad7"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-calibration-tic3.pw.toml"
+hash = "4d4ee40b9118d3192df68ff145c5cfe1a6e390cbe182a075b10434e8c5a17f5f"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct-emergence.pw.toml"
+hash = "7abbd0e435e6ce1524f1f4395a8e406ef6efb7b6bbe478fa82194b8ca301293d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "da92e9606b616857fd108d05d713d93cd9f6c586ed00ca0b696cc90f19eba6b4"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-ingenuity.pw.toml"
+hash = "6565d0ec375f9cfb2ecc797f84f959a2a9c080f09b13ccd969cab895d2cf36a8"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-innovation.pw.toml"
+hash = "f0d8d5babf5a2c4011253b4c48bf1fc4820c2c2547e4a3aeb65610b22b834cfb"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-jewelry.pw.toml"
+hash = "372db04ce17907c44084942ebdfc2428d4ac4418ae0fc8946bd462d6bf22caf3"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-katanas.pw.toml"
+hash = "d4b04858054a3d6a81caa024d42b71d9c0ea249a3270f9f996abf942bc1cc55b"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
+hash = "66fd483f4311166307c184c29f3e81f56179ed5ab094328b2c1413e91ba4c68a"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-oreganized.pw.toml"
+hash = "0736e7cb3c8ac55d6e2d85fa949f5e45786375cad48a61f127d04bcded3948a1"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-planner-reborn.pw.toml"
+hash = "20b1328e3b2bb6ae8033743ba68b70b78abb813e3b9405f4950e1dec9a372b14"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-things-json.pw.toml"
+hash = "d4906a6f0ec68445cc52f873052c835a03334597675a14716b58258008472093"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-thinking.pw.toml"
+hash = "1354d0d6867489096ada16763ac97cda2a79fa2432df272da0b902571fcc5f14"
+metafile = true
+
+[[files]]
+file = "mods/tinkersancient-1.20.1-1.1.0.jar"
+hash = "8de9ca768716dab7e5c0b83c8aab9393a946012ca84b4b2b2cb3a47f40c829a4"
+
+[[files]]
+file = "mods/tinkervillager.pw.toml"
+hash = "7a3339ab6963374baf3160515019250565d1f832b6b7d1e2b30507b62f30c84f"
 metafile = true
 
 [[files]]
@@ -9379,6 +9536,11 @@ metafile = true
 [[files]]
 file = "mods/useful-luck.pw.toml"
 hash = "99dd9e2281d3f7dea494ff2bffd441b5d60a3a6e8b9eb44af2f32af30dbf56c6"
+metafile = true
+
+[[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "24ddefc0a5d0e2fdbe82fa9abfc90de118edf3393c29c68806cb852c820fd61b"
 metafile = true
 
 [[files]]
@@ -9697,7 +9859,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "02fee9b24b215ea07bc74d8621a598655f9101fad4ccd3e83d1b0fbfc4ced2f7"
+hash = "b6221add057ed966440503cebad46020776bcd68faa48c927bb89034d1502740"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
@@ -10105,6 +10267,10 @@ metafile = true
 [[files]]
 file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip.txt"
 hash = "5d92a672e90a876ea8aa46f8d23f4b740cb303640ec1ec2cc68f847344788d54"
+
+[[files]]
+file = "tconplanner/bookmark.dat"
+hash = "aa46635ebb39d8e8407be190ef68fd2fd162bb01b5b7f66530252e7911b71622"
 
 [[files]]
 file = "vaultpatcher/patch/com/tiviacz/warriorrage/ForgeEventHandler.class"

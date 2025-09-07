@@ -1,0 +1,28 @@
+
+#Acquisition Setting
+[Tool]
+	#divine_punishment_spear_limit
+	#Range: > 0
+	"divine_punishment_spear sanctification limit" = 500
+	#divine_punishment_spear_limit
+	#Range: > 0
+	"divine_punishment_spear degenerate limit" = 100
+	#entropy_burning_riding_spear_limit
+	#Range: > 0
+	"entropy_burning_riding_spear hadal limit" = 400
+	#entropy_burning_sword_limit
+	#Range: > 0
+	"entropy_burning_sword stellarcore limit" = 400
+	#entropy_burning_cannon_limit
+	#Range: > 0
+	"entropy_burning_cannon crystallized limit" = 20
+	#entropy_burning_cube_limit
+	#Range: > 0
+	"entropy_burning_cube liverization limit" = 100
+	#pocket_watch_limit
+	#Range: > 0
+	"pocket_watch transmit limit" = 12
+	#pocket_watch_limit
+	#Range: > 0
+	"pocket_watch backtracking limit" = 12
+

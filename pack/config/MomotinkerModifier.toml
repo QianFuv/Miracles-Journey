@@ -1,0 +1,29 @@
+
+#Acquisition Setting
+[Modifier]
+	#heartsteel_life_limit
+	#Range: > 0
+	"heartsteel life limit max" = 1000000
+	#spirit_visage_life_limit
+	#Range: > 0
+	"spirit_visage life limit max" = 80
+	#entropy_burning_riding_spear_limit
+	#Range: > 0
+	"entropy_burning_riding_spear limit max" = 150
+	#entropy_burning_cannon_limit
+	#Range: > 0
+	"entropy_burning_cannon limit max" = 200
+	#breakthroughstar_limit
+	#Range: > 0
+	"breakthroughstar limit max" = 100
+	#cleansetheworld_limit
+	#Range: > 0
+	"cleansetheworld cooldown time limit" = 600
+	#crystallized_hurt_limit
+	#Range: > 0
+	"crystallized hurt limit" = 60
+	#shortterminvestments_only_minecraft
+	"shortterminvestments only valid for the minecraft' item" = true
+	#explosion_destroys_limit
+	"explosion destroys limit" = true
+

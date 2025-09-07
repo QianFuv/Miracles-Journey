@@ -1,0 +1,13 @@
+name = "Sakura Tinker"
+filename = "sakuratinker-1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4cedc84074647a743d4b58ece90a291b3c0edbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6914252
+project-id = 1217345

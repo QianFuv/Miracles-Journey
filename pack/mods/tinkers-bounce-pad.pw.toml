@@ -1,0 +1,13 @@
+name = "Tinkers Bounce Pad"
+filename = "TinkersBouncePad-forge-1.20-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5b36cda2d740721a3b7e85b140eb930a680dc2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4581196
+project-id = 367824

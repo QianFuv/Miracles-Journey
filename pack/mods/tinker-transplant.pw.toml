@@ -1,0 +1,13 @@
+name = "Tinker Transplant"
+filename = "tinker_transplant-1.4.2.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yVTjBJh9/versions/8vtFRJkk/tinker_transplant-1.4.2.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "fe42dff50ef588330118b4d80c0241bc7f3a643bc8baa3edbad6e0f846ff425225f7075dd9212b3ff660fe2ef8a57fecb8bf822c6b1f88f58253ffacc0859be1"
+
+[update]
+[update.modrinth]
+mod-id = "yVTjBJh9"
+version = "8vtFRJkk"

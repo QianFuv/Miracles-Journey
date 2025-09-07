@@ -1,0 +1,13 @@
+name = "Tinker in Caves"
+filename = "tinker_in_caves-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb95152bb6fb907280cbcac58f49294724c26293"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6514872
+project-id = 1237333

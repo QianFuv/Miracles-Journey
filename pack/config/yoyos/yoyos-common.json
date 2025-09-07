@@ -130,5 +130,53 @@
     "length": 8.0,
     "duration": 350,
     "damage": 5.5
+  },
+  "amethyst_bronze": {
+    "weight": 5.0,
+    "length": 8.0,
+    "duration": 300,
+    "damage": 5.5
+  },
+  "cobalt": {
+    "weight": 4.5,
+    "length": 10.0,
+    "duration": 400,
+    "damage": 6.0
+  },
+  "hepatizon": {
+    "weight": 5.0,
+    "length": 10.0,
+    "duration": 500,
+    "damage": 7.0
+  },
+  "manyullyn": {
+    "weight": 6.0,
+    "length": 11.0,
+    "duration": 600,
+    "damage": 7.5
+  },
+  "pigiron": {
+    "weight": 4.5,
+    "length": 8.0,
+    "duration": 250,
+    "damage": 5.5
+  },
+  "queens_slime": {
+    "weight": 6.0,
+    "length": 11.0,
+    "duration": 500,
+    "damage": 7.0
+  },
+  "rose_gold": {
+    "weight": 5.5,
+    "length": 10.0,
+    "duration": 500,
+    "damage": 5.0
+  },
+  "slimesteel": {
+    "weight": 5.5,
+    "length": 9.0,
+    "duration": 350,
+    "damage": 6.0
   }
 }

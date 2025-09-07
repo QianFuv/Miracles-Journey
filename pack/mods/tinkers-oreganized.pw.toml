@@ -1,0 +1,13 @@
+name = "Tinkers Oreganized"
+filename = "tinkers_oreganized-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dd614a99928f8719d29580bd30cf81073147977"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6917271
+project-id = 1207576

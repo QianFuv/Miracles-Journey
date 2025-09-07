@@ -1,0 +1,13 @@
+name = "Tinker's Planner  Reborn"
+filename = "tconplanner-1.20.1-1.5fix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "65048a357329aee5b839cba59f218df0963c1808"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6943351
+project-id = 1307719

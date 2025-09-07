@@ -1,0 +1,40 @@
+
+#Acquisition Setting
+[Item]
+	#special_acquisition
+	"recipe special acquisition is it enabled" = true
+	#stage_meteor
+	"Whether to join the stage:Meteor(This invalid for Compassion Mask)" = false
+	#arriving_at_the_other_shore
+	"arriving_at_the_other_shore is special acquisition" = true
+	#jealous_notes
+	"jealous_notes is special acquisition" = true
+	#heartsteel
+	"heartsteel is special acquisition" = true
+	#arrogance_proof
+	"arrogance_proof is special acquisition" = true
+	#interdimensional_crystal
+	"interdimensional_crystal is special acquisition" = true
+	#gluttony_core
+	"gluttony_core is special acquisition" = true
+	#rage_stone_statue
+	"rage_stone_statue is special acquisition" = true
+	#lust_mirror
+	"lust_mirror is special acquisition" = true
+	#spirit_visage
+	"spirit_visage is special acquisition" = true
+	#lazy_grail
+	"lazy_grail is special acquisition" = true
+	#greedy_contract
+	"greedy_contract is special acquisition" = true
+	#compassion_mask
+	"compassion_mask is special acquisition" = true
+	#dimensional_prism
+	"dimensional_prism is special acquisition" = true
+	#devouring_demon_gold
+	"devouring_demon_gold is special acquisition" = true
+	#meteor_nucleus
+	"meteor_nucleus is special acquisition" = true
+	#dragon_jade
+	"dragon_jade is special acquisition" = true
+
