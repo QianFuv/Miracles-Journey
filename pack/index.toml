@@ -10283,10 +10283,6 @@ file = "vaultpatcher/patch/com/yyon/grapplinghook/controllers/GrappleController.
 hash = "ac476b017d4e572d8462023acab0027c9ce16127be4659fbd882575b2d7019f9"
 
 [[files]]
-file = "vaultpatcher/patch/de/dafuqs/spectrum/mixin/compat/connectormod/present/PlayerEntityMixin.class"
-hash = "59cbff751d49df6e0d5d318c43c220e7941eec34f0c2fec9cd91a5513e4963cd"
-
-[[files]]
 file = "vaultpatcher/patch/dlovin/inventoryhud/gui/renderers/VerticalMiniPotionRenderer.class"
 hash = "c045d234498dcd7d447383b505400fd4d7cc8c1e098b2e83f52a82a076abbfaf"
 
