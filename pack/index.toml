@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "NonCurseForgeMods.md"
-hash = "8d9bf90a486024807d8290d7be1267bf94df787af227e2a05e9c77618b4b0615"
-
-[[files]]
-file = "NonCurseForgePacks.md"
-hash = "3150df6c73d0678cb9d5f65d34683cd3f179d239ec9e7f428e47b56a24e70b35"
-
-[[files]]
 file = "TrashSlotSaveState.json"
 hash = "7199b753a25b75cdbce40ff8c178de20a4aa0f0c7c54f207375be7140ba43710"
 
