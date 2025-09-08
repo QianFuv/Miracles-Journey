@@ -46,7 +46,7 @@ hash = "3c02f6c557fe221194e526bb26dda5c00887e935ae78520fd9b49c2c49020a6d"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "7de4316566284af3ecb035a1b756e84e9e552ae4dfd68c52d2a210873fffda70"
+hash = "98ccd5400dc2334d6ec95e9c75218c06846d66312e7c3d1bbfe95f67e5c8b690"
 
 [[files]]
 file = "config/LetMeFeedYou.toml"
@@ -1170,7 +1170,7 @@ hash = "44d5ffce2028de707c522ebcf39ff392810c73b91008e7b98d83ca3f2619aa0d"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "08bbde7ababd2ebd923ef0d1252b69f15d296f01b4dc4664cc2375264c2b7d7b"
+hash = "e90a32717ffe58af518a7be48cc25bd4e1c2cf76f58846ff2f6a250c002fe0e9"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -1706,7 +1706,7 @@ hash = "59da1a25472485880a33644782ff04db3481fbfbb2ef1504df27fe2c5aef251c"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "e725655e5840e18215f26120e564cb17f70c82fdd778fc606b72d3c186f94ccb"
+hash = "e6c11fc6c121d6d5c912474a41dba50e038fe1a6b6546a666408da2f211cd55e"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2406,7 +2406,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "fe50bef82317ccd17c5954e729df7a68b42504d9f9927a50da6b84be4ec22a73"
+hash = "36257b878ea1984d616774b291fffd5695b56c6e850ddf3e7ad73128474648c0"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -3190,7 +3190,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "d05c4f3a6a664dededbf3761c2e8a3295435539f94337b1a33544d891f51e70b"
+hash = "e000ebd76aa54cfe0ea91aa82dc98e044c1e009ff257d6947413b9129b522099"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3214,7 +3214,7 @@ hash = "5f62b2721cedd82783258e18e580a3ce1141b66b3340cfa2f66be04af28645df"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "df2b6bc571a9064bafcb3ad72a3450e0f235f1aedd6d7c28bbb95bfb4e0b89f9"
+hash = "c294e7d83962989534bb4c8b5d158f1a0a1fbaa559b66ad6406d7661e45c8062"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -6435,11 +6435,6 @@ hash = "c20f2714b7a80a672f2091536fbaa110d39dbb9936fde2deef0bd11c491745c7"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map-forge.pw.toml"
-hash = "53d31e746ba14fcc5cc7e9f5a318c6e0c0aed0a7dcc99f34612e28525c5a16b8"
-metafile = true
-
-[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
 metafile = true
@@ -8057,11 +8052,6 @@ hash = "7172839c89fed8a57db7ea0fca1bf4305e2c76e15f2277a9e66e6c9aaace4374"
 metafile = true
 
 [[files]]
-file = "mods/modonomicon.pw.toml"
-hash = "adc8fd3abb94de7a1b65ec610bd5a082308af1d9edcb03a1c7f46aecfdf44d84"
-metafile = true
-
-[[files]]
 file = "mods/modpack-update-checker.pw.toml"
 hash = "57d9cc435a21d67dc50a5610fa5f4587d8f8375d17805eceecc2fa95d3b2392a"
 metafile = true
@@ -8671,11 +8661,6 @@ hash = "2c43b6244fac08f2287a276a80093605044d846ef84b03302d21322addeb336c"
 metafile = true
 
 [[files]]
-file = "mods/revelationary.pw.toml"
-hash = "c5aa125c73079c51dfeffa2cb5da8b0e4bb66227895f3457d0583d5542669583"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
 metafile = true
@@ -8988,21 +8973,6 @@ metafile = true
 [[files]]
 file = "mods/spawner-head.pw.toml"
 hash = "19f8f950c331112e9ef56fd30dfa62c2045e38b190e582af3c4cd5731eb50fcd"
-metafile = true
-
-[[files]]
-file = "mods/spectral-decorations.pw.toml"
-hash = "a25dcb84af8f095194edcf1cf24ec0fd5dfd026939143e0b7cc082271e55f0ae"
-metafile = true
-
-[[files]]
-file = "mods/spectrum.pw.toml"
-hash = "8dac67ba557e116f3ff8322ca4c6c67a903e3d23b713570a4e5812ed89c0695b"
-metafile = true
-
-[[files]]
-file = "mods/spectrumjei.pw.toml"
-hash = "88f8bdacfa6770a481f3a848618c88a33cd47e53e900d67422224fc8ec4ac48d"
 metafile = true
 
 [[files]]
