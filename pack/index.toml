@@ -10231,10 +10231,6 @@ file = "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip
 hash = "5d92a672e90a876ea8aa46f8d23f4b740cb303640ec1ec2cc68f847344788d54"
 
 [[files]]
-file = "tconplanner/bookmark.dat"
-hash = "aa46635ebb39d8e8407be190ef68fd2fd162bb01b5b7f66530252e7911b71622"
-
-[[files]]
 file = "vaultpatcher/patch/com/tiviacz/warriorrage/ForgeEventHandler.class"
 hash = "4bfc41870faca04ce1c24f160c113051e9e668e2fdaf10d60ccf0dd35740db93"
 
