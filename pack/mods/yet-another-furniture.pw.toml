@@ -1,0 +1,13 @@
+name = "Yet Another Furniture"
+filename = "yet-another-furniture-1.0pre3+forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01df9a0b0e806f5735458b98bda50800a929fdef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6883873
+project-id = 1209908

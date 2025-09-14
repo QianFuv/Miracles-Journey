@@ -1,0 +1,13 @@
+name = "Create: Crystallized"
+filename = "crystallized-1.1-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "599f67f621d2593ba0c36c59e0c3b63053db128a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6764540
+project-id = 1304222

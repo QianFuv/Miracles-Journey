@@ -1,0 +1,9 @@
+
+[eldritch_research]
+	#Layout mode of the Eldritch Research screen.
+	# -1 = Spiral from center
+	#  0 = Concentric circle
+	#  1 = Square ring array
+	#Range: -1 ~ 1
+	layout_mode = 0
+

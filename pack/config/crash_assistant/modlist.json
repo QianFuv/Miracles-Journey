@@ -369,6 +369,11 @@
     "modId": "bakeddelight",
     "version": "0.1.2"
   },
+  "balancedflight-1.20.1_v2.4.0.jar": {
+    "jarName": "balancedflight-1.20.1_v2.4.0.jar",
+    "modId": "balancedflight",
+    "version": "1.20.1_v2.4.0"
+  },
   "balm-forge-1.20.1-7.3.35-all.jar": {
     "jarName": "balm-forge-1.20.1-7.3.35-all.jar",
     "modId": "balm",
@@ -734,6 +739,11 @@
     "modId": "chowderexpress",
     "version": "2.0.0"
   },
+  "chromaticenchantments-1.1.1.jar": {
+    "jarName": "chromaticenchantments-1.1.1.jar",
+    "modId": "chromaticenchantments",
+    "version": "1.1.1"
+  },
   "chunksending-1.20.1-2.8.jar": {
     "jarName": "chunksending-1.20.1-2.8.jar",
     "modId": "chunksending",
@@ -1002,6 +1012,11 @@
     "modId": "create_central_kitchen",
     "version": "1.4.3b"
   },
+  "create_compatible_storage-2.5.1.jar": {
+    "jarName": "create_compatible_storage-2.5.1.jar",
+    "modId": "create_compatible_storage",
+    "version": "2.5.1"
+  },
   "create_connected-1.1.7-mc1.20.1-all.jar": {
     "jarName": "create_connected-1.1.7-mc1.20.1-all.jar",
     "modId": "create_connected",
@@ -1102,6 +1117,11 @@
     "modId": "createaddoncompatibility",
     "version": "0.2.4"
   },
+  "createarmorblocks-6.0-test-2.jar": {
+    "jarName": "createarmorblocks-6.0-test-2.jar",
+    "modId": "createarmorblocks",
+    "version": "0.2"
+  },
   "createbicbit-1.20.1-1.0.1B.jar": {
     "jarName": "createbicbit-1.20.1-1.0.1B.jar",
     "modId": "create_bic_bit",
@@ -1201,6 +1221,16 @@
     "jarName": "crystalix-1.3.5_forge_1.20.1.jar",
     "modId": "crystalix",
     "version": "1.3.5"
+  },
+  "crystallized-1.1-FORGE.jar": {
+    "jarName": "crystallized-1.1-FORGE.jar",
+    "modId": "crystallized",
+    "version": "1.1-FORGE"
+  },
+  "ctl-forge-1.0.1-C6.jar": {
+    "jarName": "ctl-forge-1.0.1-C6.jar",
+    "modId": "ctl",
+    "version": "1.0.1-C6"
   },
   "cuisinedelight-1.1.17.jar": {
     "jarName": "cuisinedelight-1.1.17.jar",
@@ -1647,6 +1677,11 @@
     "modId": "etched_extension",
     "version": "0.2.2"
   },
+  "EternalShieldBead-1.20.1-1.0.2.jar": {
+    "jarName": "EternalShieldBead-1.20.1-1.0.2.jar",
+    "modId": "eternal_shield_bead",
+    "version": "1.0.2"
+  },
   "etstlib-3.0.0-beta.10.jar": {
     "jarName": "etstlib-3.0.0-beta.10.jar",
     "modId": "etstlib",
@@ -1722,6 +1757,11 @@
     "modId": "extremesoundmuffler",
     "version": "3.48"
   },
+  "eyesoficeandfire-1.1.0-1.20.1.jar": {
+    "jarName": "eyesoficeandfire-1.1.0-1.20.1.jar",
+    "modId": "eyesoficeandfire",
+    "version": "1.1.0-1.20.1"
+  },
   "fabric-api-0.92.6+1.11.14+1.20.1.jar": {
     "jarName": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
     "modId": "fabric_api",
@@ -1741,6 +1781,11 @@
     "jarName": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
     "modId": "fancymenu",
     "version": "3.7.0"
+  },
+  "farmer_misery-1.0.1.jar": {
+    "jarName": "farmer_misery-1.0.1.jar",
+    "modId": "farmer_misery",
+    "version": "1.0.1"
   },
   "FarmersDelight-1.20.1-1.2.9.jar": {
     "jarName": "FarmersDelight-1.20.1-1.2.9.jar",
@@ -1802,6 +1847,11 @@
     "modId": "feywild",
     "version": "1.20.1-4.0.4"
   },
+  "fintastic-2.1.jar": {
+    "jarName": "fintastic-2.1.jar",
+    "modId": "fintastic",
+    "version": "2.1"
+  },
   "fishermens_trap-2.1.4.jar": {
     "jarName": "fishermens_trap-2.1.4.jar",
     "modId": "fishermens_trap",
@@ -1821,6 +1871,11 @@
     "jarName": "flib-1.20.1-0.0.15.jar",
     "modId": "flib",
     "version": "0.0.15"
+  },
+  "FloatablePressurePlates-forge-1.20.1-1.0.4.jar": {
+    "jarName": "FloatablePressurePlates-forge-1.20.1-1.0.4.jar",
+    "modId": "fpp",
+    "version": "1.0.4"
   },
   "floormats-1.20.1-1.6.0.jar": {
     "jarName": "floormats-1.20.1-1.6.0.jar",
@@ -1979,6 +2034,11 @@
     "jarName": "goety_spillage-1.20-1.4.3.jar",
     "modId": "goety_spillage",
     "version": "1.20-1.4.3"
+  },
+  "golemdungeons-1.0.3.jar": {
+    "jarName": "golemdungeons-1.0.3.jar",
+    "modId": "golemdungeons",
+    "version": "1.0.3"
   },
   "gpumemleakfix-1.20.1-1.8.jar": {
     "jarName": "gpumemleakfix-1.20.1-1.8.jar",
@@ -2264,6 +2324,11 @@
     "jarName": "irons_spellbooks-1.20.1-3.4.0.11.jar",
     "modId": "irons_spellbooks",
     "version": "1.20.1-3.4.0.11"
+  },
+  "ISS_VirtualWitchArrangement-Forge-1.20.1-1.0.0.jar": {
+    "jarName": "ISS_VirtualWitchArrangement-Forge-1.20.1-1.0.0.jar",
+    "modId": "virtualwitcharrangement",
+    "version": "1.20.1-1.0.0"
   },
   "ITank-1.20.1-2.1.0.jar": {
     "jarName": "ITank-1.20.1-2.1.0.jar",
@@ -2577,6 +2642,11 @@
     "jarName": "Lucky77_1.20.1_v04.jar",
     "modId": "lucky77",
     "version": "4.0"
+  },
+  "luminousblocks-1.3.0-forge-1.20.1.jar": {
+    "jarName": "luminousblocks-1.3.0-forge-1.20.1.jar",
+    "modId": "luminousblocks",
+    "version": "1.3.0"
   },
   "luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar": {
     "jarName": "luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar",
@@ -3222,6 +3292,11 @@
     "jarName": "potionsmaster-1.20.1-47.1.70-0.6.0.jar",
     "modId": "potionsmaster",
     "version": "0.6.0"
+  },
+  "powergrid-mc1.20.1-0.2.1.jar": {
+    "jarName": "powergrid-mc1.20.1-0.2.1.jar",
+    "modId": "powergrid",
+    "version": "0.2.1"
   },
   "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar": {
     "jarName": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
@@ -4151,6 +4226,11 @@
     "modId": "treechop",
     "version": "0.19.0"
   },
+  "tt20forged-0.8.2-forge-1.20.x.jar": {
+    "jarName": "tt20forged-0.8.2-forge-1.20.x.jar",
+    "modId": "tt20forged",
+    "version": "0.8.2-forge-1.20.x"
+  },
   "Tumbleweed-forge-1.20.1-0.5.5.jar": {
     "jarName": "Tumbleweed-forge-1.20.1-0.5.5.jar",
     "modId": "tumbleweed",
@@ -4285,6 +4365,11 @@
     "jarName": "verdantvibes-1.0.3-1.20.1.jar",
     "modId": "verdantvibes",
     "version": "1.0.3-1.20.1"
+  },
+  "villagerdance-1.0.0-1.20.1.jar": {
+    "jarName": "villagerdance-1.0.0-1.20.1.jar",
+    "modId": "villagerdance",
+    "version": "1.0.0-1.20.1"
   },
   "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar": {
     "jarName": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
@@ -4440,6 +4525,11 @@
     "jarName": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
     "modId": "yeetusexperimentus",
     "version": "2.3.1-build.6+mc1.20.1"
+  },
+  "yet-another-furniture-1.0pre3+forge-1.20.1.jar": {
+    "jarName": "yet-another-furniture-1.0pre3+forge-1.20.1.jar",
+    "modId": "yaf",
+    "version": "1.0pre3"
   },
   "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar": {
     "jarName": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",

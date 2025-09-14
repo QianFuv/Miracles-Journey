@@ -1,0 +1,13 @@
+name = "Dancing Villagers"
+filename = "villagerdance-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d056500c9e5e2adca5680f818c8d14e314824a5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6908473
+project-id = 1331348

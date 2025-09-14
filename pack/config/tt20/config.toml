@@ -1,0 +1,35 @@
+#Enables or disables the mod. (Default: true)
+enabled = true
+#Accelerates block entities. (Default: false)
+block-entity-acceleration = false
+#Accelerates block breaking. (Default: true)
+block-breaking-acceleration = true
+#Accelerates potion effects. (Default: true)
+potion-effect-acceleration = true
+#Accelerates fluid flow. (Default: true)
+fluid-acceleration = true
+#Accelerates item pickup. (Default: true)
+pickup-acceleration = true
+#Accelerates eating and drinking. (Default: true)
+eating-acceleration = true
+#Accelerates portal travel. (Default: true)
+portal-acceleration = true
+#Accelerates sleeping. (Default: true)
+sleeping-acceleration = true
+#Enables the server watchdog. (Default: true)
+server-watchdog = true
+#Shows a warning in singleplayer. (Default: true)
+singleplayer-warning = true
+#Accelerates the passage of time. (Default: true)
+time-acceleration = true
+#Accelerates bow drawing. (Default: true)
+bow-acceleration = true
+#Accelerates crossbow loading. (Default: true)
+crossbow-acceleration = true
+#Accelerates random block ticks. (Default: true)
+random-tickspeed-acceleration = true
+#Enables the automatic updater. (Default: true)
+automatic-updater = true
+#The maximum number of times a tick can be repeated. (Default: 10)
+tick-repeat-cap = 10
+

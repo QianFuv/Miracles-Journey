@@ -1,0 +1,13 @@
+name = "Virtual Witch Arrangement"
+filename = "ISS_VirtualWitchArrangement-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed19b19d83282a9b2ae750785c25d9ed7cdc96de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6979433
+project-id = 1343972

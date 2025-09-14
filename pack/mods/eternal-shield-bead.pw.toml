@@ -1,0 +1,13 @@
+name = "Eternal Shield Bead"
+filename = "EternalShieldBead-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "238e1043122cb7dac132510b8b78761a6763455f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6959028
+project-id = 1339770

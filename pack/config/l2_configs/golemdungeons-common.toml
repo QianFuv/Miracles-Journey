@@ -1,0 +1,15 @@
+#Enable adding hostile golems to raids
+enableRaidGolems = true
+#Flame sword extra damage as percentage original attack
+#Range: 0.0 ~ 10.0
+flameSwordDamage = 0.25
+#Flame sword material loot as percentage of crafting cost
+#Range: 0.0 ~ 1.0
+flameSwordLoot = 0.33
+#Sculk Scythe extra damage as percentage original attack
+#Range: 0.0 ~ 10.0
+sculkScytheDamage = 0.25
+#Giant Fiery sword extra damage as percentage original attack
+#Range: 0.0 ~ 10.0
+fierySwordDamage = 1.0
+

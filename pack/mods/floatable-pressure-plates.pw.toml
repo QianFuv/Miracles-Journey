@@ -1,0 +1,13 @@
+name = "Floatable Pressure Plates"
+filename = "FloatablePressurePlates-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82e38c24353f0d51b2ce20218b03531a104e0dd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6937202
+project-id = 1335973

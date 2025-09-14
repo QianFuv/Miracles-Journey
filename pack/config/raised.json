@@ -638,6 +638,17 @@
       },
       "sync": "goety_spillage:freaky_robe"
     },
+    "golemdungeons:trial": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "golemdungeons:trial"
+    },
     "hexerei:crow_whitelist": {
       "displacement": {
         "x": 0,

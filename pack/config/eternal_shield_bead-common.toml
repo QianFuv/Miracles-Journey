@@ -1,0 +1,5 @@
+
+["EternalShieldBead settings"]
+	#Set the blacklist of Eternal Shield Bead.
+	black_list = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:player"]
+

@@ -1,0 +1,9 @@
+{
+  "stillItems": false,
+  "neverShowShelfNumbers": false,
+  "alwaysShowShelfNumbers": false,
+  "flowerBasketItems": [
+    "#minecraft:flowers",
+    "#minecraft:leaves"
+  ]
+}

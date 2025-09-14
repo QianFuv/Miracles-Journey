@@ -1,0 +1,13 @@
+name = "Eyes of Ice and Fire"
+filename = "eyesoficeandfire-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79647d62ae6ac6fb89ad5f4c3e9fc3b7c690945d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5390953
+project-id = 1022143

@@ -1,0 +1,13 @@
+name = "Create: Armor Blocks"
+filename = "createarmorblocks-6.0-test-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bea560b038ab9f955dce3f1b3318c1b97e884aff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6644896
+project-id = 1282083
