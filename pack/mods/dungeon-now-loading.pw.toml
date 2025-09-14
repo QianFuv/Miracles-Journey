@@ -1,13 +1,13 @@
-name = "Dungeon Now Loading 1%"
-filename = "Dungeon Now Loading-forge-1.20.1-1.5.jar"
+name = "Dungeon Now Loading 2%"
+filename = "Dungeon Now Loading-forge-1.20.1-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "255aa4c25270eda498bde4de6eec40fa0915c4b4"
+hash = "010e22724ce7434892e06b122db3663a32cf670a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5340134
+file-id = 6952298
 project-id = 638535

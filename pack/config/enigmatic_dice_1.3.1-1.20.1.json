@@ -1,0 +1,807 @@
+{
+  "uniqueEvents": {
+    "minecraft_explosion": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 2
+    },
+    "minecraft_lightning_strike": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 2
+    },
+    "minecraft_permanent_buff": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 2
+    },
+    "minecraft_ancient_debris_cage": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 100
+    },
+    "minecraft_teleport_to_biome": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_teleport_to_structure": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_teleport_to_world_edge": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 100
+    },
+    "minecraft_summon_horse": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 5
+    },
+    "minecraft_mass_creeper_summon_1": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 5
+    },
+    "minecraft_mass_creeper_summon_2": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_mass_creeper_summon_3": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 100
+    },
+    "minecraft_mass_creeper_summon_4": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 1000
+    },
+    "minecraft_give_vanilla_random_potion": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 5
+    },
+    "minecraft_give_modded_random_potion": {
+      "enabled": false,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_skyfall_training": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_day_of_invisibility": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_day_of_tag": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_day_of_strength": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_day_on_the_moon": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_teleport_monsters_to_player": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_accelerate_day_cycle": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_mini_size_shrink": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_ant_size_shrink": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 100
+    },
+    "minecraft_summon_spider_fleas": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "minecraft_curse_binding": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 20
+    },
+    "enigmaticlegacy_eternal_binding": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 100
+    },
+    "alexsmobs_summon_warped_toads": {
+      "enabled": true,
+      "requiredMod": "alexsmobs",
+      "rarity": 5
+    },
+    "alexsmobs_summon_centipede": {
+      "enabled": true,
+      "requiredMod": "alexsmobs",
+      "rarity": 5
+    },
+    "alexscaves_nuclear_bomb": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 100
+    },
+    "alexscaves_summon_raycat": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 5
+    },
+    "alexscaves_summon_subterranodon": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 5
+    },
+    "alexscaves_summon_vallumraptor": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 5
+    },
+    "alexscaves_summon_candicorn": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 5
+    },
+    "artifacts_summon_mimic": {
+      "enabled": true,
+      "requiredMod": "artifacts",
+      "rarity": 20
+    },
+    "artifacts_wonderland_field": {
+      "enabled": true,
+      "requiredMod": "artifacts",
+      "rarity": 20
+    },
+    "artifacts_summon_dummy_chest": {
+      "enabled": true,
+      "requiredMod": "artifacts",
+      "rarity": 20
+    },
+    "netherexp_summon_carcass": {
+      "enabled": true,
+      "requiredMod": "netherexp",
+      "rarity": 5
+    },
+    "terramity_black_hole_bomb": {
+      "enabled": true,
+      "requiredMod": "terramity",
+      "rarity": 20
+    },
+    "terramity_macro_black_hole_bomb": {
+      "enabled": true,
+      "requiredMod": "terramity",
+      "rarity": 100
+    },
+    "terramity_antimatter_bomb": {
+      "enabled": true,
+      "requiredMod": "terramity",
+      "rarity": 100
+    },
+    "quark_give_ancient_tome": {
+      "enabled": true,
+      "requiredMod": "quark",
+      "rarity": 5
+    },
+    "born_in_chaos_brood_awakens": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 20
+    }
+  },
+  "itemEvents": {
+    "minecraft_give_bedrock": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 1000,
+      "item": "minecraft:bedrock",
+      "amount": 8,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "minecraft_give_light": {
+      "enabled": true,
+      "requiredMod": "minecraft",
+      "rarity": 1000,
+      "item": "minecraft:light",
+      "amount": 16,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticdice_give_unequal_exchange": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 1000,
+      "item": "enigmaticdice:unequal_exchange",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticdice_give_soul_eater": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:soul_eater",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_four_leaf_clever": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 5,
+      "item": "enigmaticdice:four_leaf_clever",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "enigmaticdice_give_antimatter": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:antimatter",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.antimatter"
+    },
+    "enigmaticdice_give_giants_ring": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:giants_ring",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_moon_shard": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 20,
+      "item": "enigmaticdice:moon_shard",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticdice_give_gravity_core": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:gravity_core",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_ring_of_agility": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:ring_of_agility",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_divine_shield": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:divine_shield",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_permafrost": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:permafrost",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_crucible_of_rile": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:crucible_of_rile",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_moai_charm": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 100,
+      "item": "enigmaticdice:moai_charm",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticdice_give_kyomu": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 1000,
+      "item": "enigmaticdice:kyomu",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticdice_give_phoenix": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 1000,
+      "item": "enigmaticdice:phoenix",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticdice_give_fire_crystal_greatsword": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 1000,
+      "item": "enigmaticdice:fire_crystal_greatsword",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticdice_give_fire_crystal_spear": {
+      "enabled": true,
+      "requiredMod": "enigmaticdice",
+      "rarity": 1000,
+      "item": "enigmaticdice:fire_crystal_spear",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "born_in_chaos_give_phantom_bomb": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 5,
+      "item": "born_in_chaos_v1:phantom_bomb",
+      "amount": 16,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "born_in_chaos_give_bone_heart": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 5,
+      "item": "born_in_chaos_v1:bone_heart",
+      "amount": 16,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "born_in_chaos_give_dark_atrium": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 5,
+      "item": "born_in_chaos_v1:dark_atrium",
+      "amount": 4,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "born_in_chaos_give_elixir_of_vampirism": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 5,
+      "item": "born_in_chaos_v1:elixir_of_vampirism",
+      "amount": 8,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "born_in_chaos_give_potion_of_rampage": {
+      "enabled": true,
+      "requiredMod": "born_in_chaos_v1",
+      "rarity": 5,
+      "item": "born_in_chaos_v1:potion_of_rampage",
+      "amount": 8,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "supplementaries_give_bomb": {
+      "enabled": true,
+      "requiredMod": "supplementaries",
+      "rarity": 5,
+      "item": "supplementaries:bomb",
+      "amount": 32,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "supplementaries_give_bomb_blue": {
+      "enabled": true,
+      "requiredMod": "supplementaries",
+      "rarity": 5,
+      "item": "supplementaries:bomb_blue",
+      "amount": 8,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.blue"
+    },
+    "enigmaticlegacy_give_twisted_potion": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:twisted_potion",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_golem_heart": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:golem_heart",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_angel_blessing": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:angel_blessing",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_ocean_stone": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:ocean_stone",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_blazing_core": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:blazing_core",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_eye_of_nebula": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:eye_of_nebula",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_void_pearl": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 100,
+      "item": "enigmaticlegacy:void_pearl",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticlegacy_give_cosmic_cake": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 100,
+      "item": "enigmaticlegacy:cosmic_cake",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticlegacy_give_redemption_potion": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 100,
+      "item": "enigmaticlegacy:redemption_potion",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "enigmaticlegacy_give_soul_crystal": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 1000,
+      "item": "enigmaticlegacy:soul_crystal",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    },
+    "enigmaticlegacy_give_earth_heart": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:earth_heart",
+      "amount": 1,
+      "nbt": "{display:{Name:'{\"translate\":\"enigmaticdice.renameditem.earth_heart\"}'}}",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "enigmaticlegacy_give_golden_ring": {
+      "enabled": true,
+      "requiredMod": "enigmaticlegacy",
+      "rarity": 20,
+      "item": "enigmaticlegacy:golden_ring",
+      "amount": 1,
+      "nbt": "{display:{Name:'{\"translate\":\"enigmaticdice.renameditem.the_one_ring\"}'}}",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "simplyswords_give_brimstone_claymore": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:brimstone_claymore",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_watcher_claymore": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:watcher_claymore",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_storms_edge": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:storms_edge",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_stormbringer": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:stormbringer",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_bramblethorn": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:bramblethorn",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },"simplyswords_give_watching_warglaive": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:watching_warglaive",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_toxic_longsword": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:toxic_longsword",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_twisted_blade": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:twisted_blade",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_soulrender": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:soulrender",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_soulpyre": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:soulpyre",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_molten_edge": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:molten_edge",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_mjolnir": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:mjolnir",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_shadowsting": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:shadowsting",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_whisperwind": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:whisperwind",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_emberlash": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:emberlash",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_stars_edge": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:stars_edge",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_tempest": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:tempest",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_ribboncleaver": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 1800,
+      "item": "simplyswords:ribboncleaver",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.gold"
+    },
+    "simplyswords_give_runic_tablet": {
+      "enabled": true,
+      "requiredMod": "simplyswords",
+      "rarity": 20,
+      "item": "simplyswords:runic_tablet",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "alexscaves_give_desolate_dagger": {
+      "enabled": true,
+      "requiredMod": "alexscaves",
+      "rarity": 20,
+      "item": "alexscaves:desolate_dagger",
+      "amount": 1,
+      "nbt": "{Enchantments:[{id:\"alexscaves:double_stab\",lvl:4}]}",
+      "chatMessage": "enigmaticdice.gift.dark_purple"
+    },
+    "skyarena_give_mob_analyzer": {
+      "enabled": true,
+      "requiredMod": "skyarena",
+      "rarity": 1000,
+      "item": "skyarena:mob_analyzer",
+      "amount": 1,
+      "nbt": "",
+      "chatMessage": "enigmaticdice.gift.aqua"
+    }
+  },
+  "teleportBiomes": [
+    "minecraft:mushroom_fields",
+    "minecraft:cherry_grove",
+    "terralith:amethyst_canyon",
+    "terralith:amethyst_rainforest",
+    "terralith:desert_spires",
+    "terralith:glacial_chasm",
+    "terralith:scarlet_mountains",
+    "terralith:mirage_isles",
+    "terralith:warped_mesa",
+    "terralith:jungle_mountains",
+    "biomesoplenty:auroral_garden",
+    "biomesoplenty:bayou",
+    "biomesoplenty:hot_springs",
+    "biomesoplenty:mystic_grove",
+    "biomesoplenty:rainforest",
+    "biomesoplenty:rocky_rainforest",
+    "biomesoplenty:tropics"
+  ],
+  "teleportStructures": [
+    "minecraft:mansion",
+    "idas:ancient_mines",
+    "idas:apothecary_abode",
+    "idas:bazaar",
+    "idas:collectors_museum",
+    "idas:haunted_manor",
+    "idas:labyrinth",
+    "idas:pillager_fortress",
+    "idas:ruins_of_the_deep",
+    "idas:tinkers_citadel",
+    "idas:tinkers_workshop",
+    "idas:tree_of_wisdom",
+    "skyarena:sky_arena",
+    "skyarena:ice_arena",
+    "call_of_yucutan:deadly_crypt",
+    "call_of_yucutan:overgrown_temple",
+    "born_in_chaos_v1:infernal_pumpkin"
+  ],
+  "neutralEvents": [
+    "minecraft_teleport_to_biome",
+    "minecraft_teleport_to_structure",
+    "minecraft_teleport_to_world_edge",
+    "minecraft_accelerate_day_cycle",
+    "enigmaticlegacy_give_golden_ring",
+    "minecraft_mini_size_shrink",
+    "minecraft_ant_size_shrink",
+    "minecraft_day_of_tag",
+    "minecraft_day_of_strength",
+    "minecraft_day_on_the_moon"
+  ],
+  "negativeEvents": [
+    "minecraft_explosion",
+    "minecraft_lightning_strike",
+    "minecraft_mass_creeper_summon_1",
+    "minecraft_mass_creeper_summon_2",
+    "minecraft_mass_creeper_summon_3",
+    "minecraft_mass_creeper_summon_4",
+    "minecraft_curse_binding",
+    "enigmaticlegacy_eternal_binding",
+    "alexsmobs_summon_centipede",
+    "alexscaves_nuclear_bomb",
+    "terramity_black_hole_bomb",
+    "terramity_macro_black_hole_bomb",
+    "terramity_antimatter_bomb",
+    "born_in_chaos_brood_awakens",
+    "minecraft_skyfall_training",
+    "minecraft_day_of_invisibility",
+    "minecraft_teleport_monsters_to_player",
+    "minecraft_summon_spider_fleas"
+  ]
+}

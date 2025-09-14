@@ -4,6 +4,8 @@
 	#This sets the minimum required velocity you need to rotate your ski, sled or snowboard.
 	#Range: 0.0 ~ 0.1
 	min_required_velocity_for_rotation = 0.02
+	#Debug mode for AbstractControllableEntity.
+	speed_debug = false
 
 [ski]
 	#This sets the maximum health of the ski.

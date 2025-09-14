@@ -93,9 +93,6 @@ giantsRingAttackDamage = 3.0
 #Bonus max health granted by Giant's Ring.
 #Range: 0.0 ~ 1024.0
 giantsRingMaxHealth = 10.0
-#Bonus knockback resistance granted by Giant's Ring.
-#Range: 0.0 ~ 1.0
-giantsRingKnockbackResistance = 1.0
 #Gravity change applied while Moon Shard is in hotbar.
 #Default Minecraft gravity is 0.08.
 #Range: -1.0 ~ 1.0
@@ -132,9 +129,6 @@ ringOfAgilityMaxDodgeChance = 0.9
 #Cooldown duration of the Divine Shield in ticks. (1 second = 20 ticks)
 #Range: > 0
 divineShieldCooldownTicks = 400
-#This feature is disabled. Duration of invulnerability after blocking damage with Divine Shield, in ticks. (1 second = 20 ticks)
-#Range: > 0
-divineShieldImmunityTicks = 40
 #Permafrost Attack Damage.
 permafrostAttackDamage = 10.0
 #Permafrost Attack Speed.
@@ -187,4 +181,14 @@ crucibleOfRileHitsForCounterattack = 5
 crucibleOfRileCounterattackRadius = 3.5
 #Permanent armor bonus (percent as fraction) per unique killed enemy type. (0.01 = +1%)
 crucibleOfRilePermanentArmorPerUnique = 0.005
+#If true, JSON config file name is enigmatic_dice_<modVersion>.json.
+#This means the config will auto-update to a fresh copy when the mod version changes.
+#If false, a single enigmatic_dice.json is used and never auto-updated.
+#In this mode new events added in mod updates will NOT appear automatically;
+#pack makers will need to add them manually.
+useVersionedJson = true
+#Giant's Ring: movement speed bonus multiplier. (0.2 = +20% of base movement speed)
+giantsRingSpeedBonus = 0.2
+#Moai Charm: knockback resistance bonus. (1.0 = full knockback immunity)
+moaiCharmKnockbackResistanceBonus = 1.0
 

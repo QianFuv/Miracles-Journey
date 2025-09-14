@@ -360,7 +360,7 @@
 
 [Compatibility]
 
-	#REQUIRES 'HunterIllager'
+	#REQUIRES 'Hunters Return'
 	[Compatibility."Hunter Illager Settings"]
 		#Level of Power that Hunter bows will be enchanted with. 0 to disable.
 		#Range: > 0
@@ -455,4 +455,46 @@
 		#Chance that Executioners will drop their cleaver when killed.
 		#Range: 0.0 ~ 1.0
 		executioner_cleaverDropChance = 0.15000000596046448
+
+	#REQUIRES 'Dungeon Mobs'
+	[Compatibility."Mountaineer Settings"]
+		#Level of Sharpness that Mountaineer picks will be enchanted with. 0 to disable.
+		#Range: > 0
+		mountaineer_pickSharpnessLevel = 3
+		#Level of Critical Burst that Mountaineer picks will be enchanted with. 0 to disable.
+		#Range: > 0
+		mountaineer_pickCriticalBurstLevel = 6
+		#Chance that Mountaineers will drop their pick when killed.
+		#Range: 0.0 ~ 1.0
+		mountaineer_pickDropChance = 0.25
+
+	#REQUIRES 'Dungeon Mobs'
+	[Compatibility."Royal Guard Settings"]
+		#Level of Sharpness that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeSharpnessLevel = 4
+		#Level of Critical Burst that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeCriticalBurstLevel = 8
+		#Level of Critical Strike that Royal Guard axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		royalguard_axeCriticalStrikeLevel = 4
+		#Chance that Royal Guards will drop their axe when killed.
+		#Range: 0.0 ~ 1.0
+		royalguard_axeDropChance = 0.08500000089406967
+
+	#REQUIRES 'Leo's Illagers'
+	[Compatibility."Vindicator With Shield Settings"]
+		#Level of Sharpness that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_sharpnessLevel = 4
+		#Level of Critical Burst that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_criticalBurstLevel = 3
+		#Level of Critical Strike that Shielded Vindicator axes will be enchanted with. 0 to disable.
+		#Range: > 0
+		shieldVindicator_criticalStrikeLevel = 2
+		#Chance that a Shielded Vindicator will drop their axe upon death. 0 to disable.
+		#Range: 0.0 ~ 1.0
+		shieldVindicator_axeDropChance = 0.0
 

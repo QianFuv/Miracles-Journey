@@ -1,13 +1,13 @@
 name = "Enchanted Potato"
-filename = "enchantedpotato-1.20.1-1.8.0.jar"
+filename = "enchantedpotato-1.20.1-1.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e3b0213ded58fa9046ac4a7f20ed6ff971e217a5"
+hash = "b8c72e023ade153fb632c8cda00cbf08d0bda1d0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6928802
+file-id = 6971932
 project-id = 1296661

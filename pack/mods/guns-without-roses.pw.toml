@@ -1,13 +1,13 @@
 name = "Guns Without Roses"
-filename = "gunswithoutroses-1.20.1-2.4.1.jar"
+filename = "gunswithoutroses-1.20.1-2.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "44a6a11d764ea5838a6ba6e75992c01de6ae999a"
+hash = "8580a815113009fee2bf304fd34fe1839f9bf6ea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6867511
+file-id = 6983507
 project-id = 405077

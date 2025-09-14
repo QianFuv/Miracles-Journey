@@ -1,13 +1,13 @@
 name = "Sakura"
-filename = "Sakura-1.1.12-1.20.1.jar"
+filename = "Sakura-1.1.15-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b23c60ad296e5864c03fbf0999a544067b1be5a2"
+hash = "db744d0fef382ddf88ccf44f7ce057ed084d97f2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6888520
+file-id = 6955704
 project-id = 333079

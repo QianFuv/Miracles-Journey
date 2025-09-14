@@ -76,6 +76,7 @@
     "buildingFrontChance": 0.2,
     "baseBlock": "minecraft:stone",
     "ruinMaxlevelPercent": 1.0,
+    "useAvgHeightmap": false,
     "spawnBiome": "",
     "avoidWater": false,
     "railwaysEnabled": false,

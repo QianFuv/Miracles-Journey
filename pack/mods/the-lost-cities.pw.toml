@@ -1,13 +1,13 @@
 name = "The Lost Cities"
-filename = "lostcities-1.20-7.4.3.jar"
+filename = "lostcities-1.20-7.4.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "47ac6d5ee298a60eab499218e3e880c2396e118b"
+hash = "e7f851560b1c48e6a6fdcb91cc176a92236781da"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6892021
+file-id = 6988357
 project-id = 269024

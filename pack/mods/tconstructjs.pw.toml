@@ -1,13 +1,13 @@
 name = "TConstructJS"
-filename = "tconstruct_js-1.0.3.jar"
+filename = "tconstruct_js-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7b8ef6c2dffb143970eb4645e313a3fd4a27c387"
+hash = "1ed5909afde4fc85a1af36889ccdf2bd3c4229e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6583705
+file-id = 6975120
 project-id = 1210790

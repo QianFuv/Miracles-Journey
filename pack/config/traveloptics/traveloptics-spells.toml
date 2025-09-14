@@ -87,13 +87,13 @@
 	[staff_spellbooks.chronicles_of_the_firelord]
 		#Max Mana || ADDITION || Default 300.0
 		#Range: 50.0 ~ 1000.0
-		max_mana = 300.0
-		#Fire Spell Power || MULTIPLY_BASE || Default 0.15
+		chroniclesFirelordMaxMana = 300.0
+		#Fire Spell Power || MULTIPLY_BASE || Default 0.20
 		#Range: 0.0 ~ 1.0
-		fire_spell_power = 0.15
-		#Spell Eldritch Spell Power || MULTIPLY_BASE || Default 0.15
+		chroniclesFirelordFireSpellPower = 0.2
+		#Spell Eldritch Spell Power || MULTIPLY_BASE || Default 0.10
 		#Range: 0.0 ~ 1.0
-		eldritch_spell_power = 0.15
+		chroniclesFirelordCooldownReduction = 0.1
 
 	[staff_spellbooks.shellbound]
 		#Max Mana || ADDITION || Default 200.0
@@ -121,21 +121,21 @@
 		#Max Mana || ADDITION || Default 300.0
 		#Range: 50.0 ~ 1000.0
 		max_mana = 300.0
-		#Cooldown Reduction || MULTIPLY_BASE || Default 0.15
+		#Cooldown Reduction || MULTIPLY_BASE || Default 0.10
 		#Range: 0.0 ~ 1.0
-		cooldown_reduction = 0.15
-		#Aqua Spell Power || MULTIPLY_BASE || Default 0.15
+		crushingDepthCooldownReduction = 0.1
+		#Aqua Spell Power || MULTIPLY_BASE || Default 0.20
 		#Range: 0.0 ~ 1.0
-		aqua_spell_power = 0.15
+		crushingDepthAquaSpellPower = 0.2
 
 	[staff_spellbooks.guide_to_watery_whispers]
 		#Max Mana || ADDITION || Default 200.0
 		#Range: 50.0 ~ 1000.0
 		max_mana = 200.0
-		#Cooldown Reduction || MULTIPLY_BASE || Default 0.10
-		#Range: 0.0 ~ 1.0
-		cooldown_reduction = 0.1
 		#Aqua Spell Power || MULTIPLY_BASE || Default 0.10
 		#Range: 0.0 ~ 1.0
 		aqua_spell_power = 0.1
+		#Mana Regen || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		wateryWhispersManaRegen = 0.15
 

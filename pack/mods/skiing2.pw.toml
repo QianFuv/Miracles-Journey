@@ -1,13 +1,13 @@
 name = "Skiing2"
-filename = "Skiing-forge-1.20.1-1.0.0.jar"
+filename = "Skiing-forge-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7cc6f237c8d54118b0a302e7330bdc96a31a1a11"
+hash = "25ac17a038aa05c0f4bd05ca568bd3f670ffd200"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6502902
+file-id = 6945224
 project-id = 1260068

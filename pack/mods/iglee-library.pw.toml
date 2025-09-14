@@ -1,13 +1,13 @@
 name = "Iglee's Library"
-filename = "igleelib-1.20.1-1.2.5.jar"
+filename = "Iglee's Library-1.20.1-1.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "21d357e6e50c6bd567d839c19282a3d2c349d6da"
+hash = "c8a241bbbe58ddd4b1875ec0330e8c1adf01aa35"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5329230
+file-id = 6987117
 project-id = 541199

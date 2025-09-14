@@ -1,13 +1,13 @@
 name = "Modern Inline"
-filename = "ModernInline-forge-0.1.0.jar"
+filename = "ModernInline-forge-0.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fed537e538b3f32c9da66b30ecb4f1af0f4e572f"
+hash = "501a7203756580808c353bf7299adec1313c01d6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6859317
+file-id = 6976385
 project-id = 1322591

@@ -1,13 +1,13 @@
 name = "Modular Golems"
-filename = "modulargolems-2.6.8.jar"
+filename = "modulargolems-2.6.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "66f706688332f6d64eaf2b750354e92e0d13bfbe"
+hash = "4e72d9734aa0821739585204caff1803fb47aca2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6906450
+file-id = 6943825
 project-id = 690937

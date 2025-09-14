@@ -1,13 +1,13 @@
 name = "Ghosts"
-filename = "ghosts-forge-1.20.1-1.2.0.jar"
+filename = "ghosts-forge-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a04c239e5cc6d392e7abcdeb85e23890d8f593e1"
+hash = "77516600952d0a963f4e362e0ce65af4f96804ef"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6893810
+file-id = 6984335
 project-id = 602665

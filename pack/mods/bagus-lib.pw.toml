@@ -1,13 +1,13 @@
 name = "Bagus Lib"
-filename = "bagus_lib-1.20.1-5.5.0.jar"
+filename = "bagus_lib-1.20.1-5.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b5bb4adf9bd1c12472097cb20358076e36549b8f"
+hash = "d62b6b77efc3c6a25eb72b2f7bcf53b6d09d47ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6943014
+file-id = 6944371
 project-id = 866533

@@ -3,7 +3,7 @@
 [hardened_mouth_effect]
 	#Move extra slots from the Hardened mouth effect left to right
 	#Range: -5000 ~ 5000
-	"Hardened Mouth X" = 25
+	"Hardened Mouth X" = -25
 	#Move extra slots from the Hardened mouth effect up and down
 	#Range: -5000 ~ 5000
 	"Hardened Mouth Y" = 80
@@ -16,4 +16,8 @@
 	"Block Pattern Smooth Lighting" = true
 	#Enables transparency for block patters (only noticeable with resource packs)
 	"Block Pattern Transparency" = false
+
+[multiblocks]
+	#Disables ghost previews when trying to place a multiblock
+	"Disable Multiblock Previews" = false
 
