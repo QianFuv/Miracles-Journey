@@ -1,0 +1,9 @@
+#Should dye  be consumed in Saddler Table?
+consume_dye = true
+#Max Jump allowed by potions
+#Range: 0.0 ~ 100.0
+max_jump = 1.0
+#Max Speed allowed by potions
+#Range: 0.0 ~ 100.0
+max_speed = 0.3375000059604645
+

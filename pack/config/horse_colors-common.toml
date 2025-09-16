@@ -1,0 +1,104 @@
+
+#Common config settings
+[common]
+	#If enabled, horses will not wander off if they are wearing a saddle.
+	enableGroundTie = false
+	#If enabled, horses will be spooked by monsters and throw their rider.
+	spookyHorses = false
+	#If enabled, stallions will chase each other away from mares.
+	jealousStallions = true
+	#If enabled, horses can be different sizes.
+	enableSizes = true
+	#If enabled, horse herds can follow a horse even if it is ridden or on a lead.
+	herdsFollowRidden = true
+	#If enabled, horses will exhibit herding behavior when tame as well as when wild.
+	herdingWhenTame = true
+	#Whether to use the gray themed gender icons from Genetic Animals (by mokiyoki,
+	#used by permission) in place of the default pink and blue icons.
+	useGeneticAnimalsIcons = false
+	#Whether the player can ride horses that are realistically too small to carry an adult human
+	rideSmallEquines = false
+	#Foods that can be eaten by horses and donkeys to restore health, increase tameness, and speed foal growth.
+	equineFoods = ["hay_block", "wheat", "sugar", "carrot", "apple", "pumpkin", "carved_pumpkin", "melon_slice", "glistening_melon_slice", "grass", "tall_grass", "dandelion", "cornflower", "oxeye_daisy", "dried_kelp", "sugar_cane", "beetroot", "sweet_berries", "brown_mushroom", "bamboo", "honeycomb", "banana", "cherry", "coconut", "date", "dragonfruit", "fig", "grapefruit", "mango", "nectarine", "orange", "peach", "pear", "pecan", "persimmon", "plum", "walnut", "artichoke", "barley", "basil", "bellpepper", "blackberry", "blueberry", "broccoli", "cabbage", "cantalope", "cauliflower", "celery", "corn", "cranberry", "cucumber", "currant", "grape", "greenbean", "honeydew", "hops", "kale", "kiwi", "lettuce", "oat", "olive", "peanut", "pineapple", "radish", "raspberry", "rice", "rutabaga", "squash", "strawberry", "sweetpotato", "tea_leaves", "turnip", "zucchini", "molasses", "caramel", "raisins", "corn_husk", "rice_bale", "straw_bale", "straw", "blueberries", "okra", "mandarin", "pomelo", "yuzu", "sugar_cube", "timothy_bushel", "oat_bushel", "alfalfa_bushel", "timothy_bale", "timothy_bale_slab", "alfalfa_bale", "alfalfa_bale_slab", "oat_bale", "oat_bale_slab", "quality_bale", "quality_bale_slab", "scoop_sweet", "scoop_rose", "cabbage_leaf", "pumpkin_slice"]
+
+#Config settings related to growth and aging
+[growth]
+	#How long a year lasts in twenty minute Minecraft days, for age-dependent colors such as gray.
+	#Range: 8.333333333333333E-5 ~ 10000.0
+	yearLength = 4.0
+	#If enabled, gray horses will be born colored and their fur will gradually turn white.
+	#Otherwise, all gray horses will render as if they were about 6-8 years old.
+	grayGradually = true
+	#If enabled, foals will slowly get bigger as they grow into adults.
+	foalsGrowGradually = false
+	#The number of twenty minute Minecraft days that it takes for a foal to become an adult.
+	#Range: 8.333333333333333E-5 ~ 10000.0
+	growTime = 5.0
+
+#Config settings related to breeding and gender
+[breeding]
+	#Enables or disables all features relating to gender.
+	enableGenders = true
+	#If true, horses can breed automatically if wild or if owner allows it.
+	autobreeding = false
+	#The number of ticks until horses can breed again, when genders are disabled.
+	#The vanilla value is 6000 (or at 20 ticks per second, 5 minutes,
+	#or at 24000 ticks per minecraft day, 1/4 day)
+	#Range: > 0
+	genderlessBreedingCooldown = 6000
+	#The number of ticks until male horses can breed again.
+	#The default value is 240 ticks (12 seconds).
+	#Range: > 0
+	maleBreedingCooldown = 240
+	#The number of ticks until female horses can breed again.
+	#The default value is 96000 ticks (80 minutes, or 4 minecraft days).
+	#This must always be at least as long as pregnancyLength.
+	#Range: > 0
+	femaleBreedingCooldown = 96000
+	#If genders are enabled, females will be pregnant for this many ticks.
+	#The default value is 48000 ticks (40 minutes, or 2 minecraft days).
+	#To disable pregnancy altogether, set this number to 0.
+	#Lowering this will not let female horses breed again sooner unless you
+	#also lower femaleBreedingCooldown
+	#Range: > 0
+	pregnancyLength = 48000
+	#Foods which put horses in love mode, along with the usual benefits to health, growth, and tameness.
+	horseBreedingFoods = ["golden_carrot", "golden_apple", "enchanted_golden_apple", "hay_block"]
+	#Foods which put donkeys in love mode, along with the usual benefits to health, growth, and tameness.
+	donkeyBreedingFoods = ["golden_carrot", "golden_apple", "enchanted_golden_apple", "apple", "hay_block"]
+
+#Settings to configure spawning. Note as of Minecraft 1.19 spawn weights are now controlled via json data.
+[spawn]
+	#Whether to allow new vanilla horses to spawn. This will not affect any
+	#horses that already exist.
+	blockVanillaHorseSpawns = true
+	#Whether to allow new vanilla donkeys to spawn. This will not affect any
+	#horses that already exist.
+	blockVanillaDonkeySpawns = true
+	#If this is set to true, existing horses will be turned into horses with genetics
+	convertVanillaHorses = false
+	#If this is set to true, existing donkeys will be turned into donkeys with genetics
+	convertVanillaDonkeys = false
+	#If this is set to true, existing mules will be turned into mules with genetics
+	convertVanillaMules = false
+
+#Config settings for genetics
+[genetics]
+	#If enabled, horses' speed, jump, and health will be determined
+	#through genetics instead of the vanilla Minecraft way
+	useGeneticStats = true
+	#If enabled, certain genes will have a small impact on health,
+	#as they do in real life. This config option does not affect Overo
+	#Lethal White Syndrome.
+	enableHealthEffects = true
+	#The chance for each allele to mutate. The recommended range
+	#is between 0.0001 and 0.01.
+	#To disable mutations, set this value to 0.
+	#Range: 0.0 ~ 1.0
+	mutationChance = 1.0E-4
+	#Enable or disable genetic testing.
+	bookShowsGenes = true
+	#Enable or disable physical inspection (rough information about health, 
+	#speed, and jump).
+	bookShowsTraits = true
+

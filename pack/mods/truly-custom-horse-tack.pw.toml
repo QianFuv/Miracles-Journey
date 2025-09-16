@@ -1,0 +1,13 @@
+name = "Truly Custom Horse Tack"
+filename = "truly_custom_horse_tack-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "213639c2babe92aad2d3e4cfbc8f65cd303116f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690903
+project-id = 952957

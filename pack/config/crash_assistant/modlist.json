@@ -2160,11 +2160,6 @@
     "modId": "hopour",
     "version": "1.1.4"
   },
-  "horsestonks-forge-1.17+-1.0.1.jar": {
-    "jarName": "horsestonks-forge-1.17+-1.0.1.jar",
-    "modId": "horsestonks",
-    "version": "1.0.1"
-  },
   "hunters_return-1.20.1-11.8.0.jar": {
     "jarName": "hunters_return-1.20.1-11.8.0.jar",
     "modId": "hunters_return",
@@ -2798,11 +2793,6 @@
     "modId": "minieffects",
     "version": "7.1.0"
   },
-  "miningspeedtooltips-forge-1.0.0-1.20.1.jar": {
-    "jarName": "miningspeedtooltips-forge-1.0.0-1.20.1.jar",
-    "modId": "miningspeedtooltips",
-    "version": "1.0.0"
-  },
   "miniutilities-4.1.0.jar": {
     "jarName": "miniutilities-4.1.0.jar",
     "modId": "miniutilities",
@@ -3367,6 +3357,11 @@
     "jarName": "reactivemusic-1.0.3+1.20.1.jar",
     "modId": "reactivemusic",
     "version": "1.0.3+1.20.1"
+  },
+  "realistic_horse_genetics-1.20.1-13.5.jar": {
+    "jarName": "realistic_horse_genetics-1.20.1-13.5.jar",
+    "modId": "horse_colors",
+    "version": "1.20.1-13.5"
   },
   "realistic_nametag-forge-1.20.1-1.1.1.jar": {
     "jarName": "realistic_nametag-forge-1.20.1-1.1.1.jar",
@@ -4226,6 +4221,11 @@
     "modId": "treechop",
     "version": "0.19.0"
   },
+  "truly_custom_horse_tack-1.20.1-1.6.0.jar": {
+    "jarName": "truly_custom_horse_tack-1.20.1-1.6.0.jar",
+    "modId": "truly_custom_horse_tack",
+    "version": "1.6.0"
+  },
   "tt20forged-0.8.2-forge-1.20.x.jar": {
     "jarName": "tt20forged-0.8.2-forge-1.20.x.jar",
     "modId": "tt20forged",
@@ -4480,11 +4480,6 @@
     "jarName": "workshop_for_handsome_adventurer--mc1.20.1--1.33.1.jar",
     "modId": "workshop_for_handsome_adventurer",
     "version": "1.33.1"
-  },
-  "world_preview-forge-1.20.1-1.3.1.jar": {
-    "jarName": "world_preview-forge-1.20.1-1.3.1.jar",
-    "modId": "world_preview",
-    "version": "1.3.1"
   },
   "WorldComment-0.3.2+1.20.1.jar": {
     "jarName": "WorldComment-0.3.2+1.20.1.jar",
