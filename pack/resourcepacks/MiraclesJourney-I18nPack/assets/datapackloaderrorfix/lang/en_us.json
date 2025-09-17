@@ -1,0 +1,5 @@
+{
+  "gui.datapackloaderrorfix.BUTTON_TEXT": "clean_world",
+  "gui.datapackloaderrorfix.SUCCESS_TEXT": "clean_success!",
+  "gui.datapackloaderrorfix.FAILURE_TEXT": "clean_failure!"
+}

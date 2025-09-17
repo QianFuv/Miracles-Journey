@@ -1,0 +1,33 @@
+{
+    "item.ice_and_fire_spellbooks.dragonmancers_oathbook": "Dragonmancer's Oathbook",
+    "item.ice_and_fire_spellbooks.dragon_priest_staff": "Dragon Priest Staff",
+    "item.ice_and_fire_spellbooks.crimson_dragon_priest_staff": "Infernal Dragon Priest Staff",
+    "item.ice_and_fire_spellbooks.silver_dragon_priest_staff": "Glacial Dragon Priest Staff",
+    "item.ice_and_fire_spellbooks.thunderous_dragon_priest_staff": "Thunderous Dragon Priest Staff",
+
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_helmet": "Fire Dragon Priest Helmet",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_chestplate": "Fire Dragon Priest Robes",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_leggings": "Fire Dragon Priest Pants",
+    "item.ice_and_fire_spellbooks.fire_dragon_priest_boots": "Fire Dragon Priest Boots",
+
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_helmet": "Ice Dragon Priest Helmet",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_chestplate": "Ice Dragon Priest Robes",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_leggings": "Ice Dragon Priest Pants",
+    "item.ice_and_fire_spellbooks.ice_dragon_priest_boots": "Ice Dragon Priest Boots",
+
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_helmet": "Lightning Dragon Priest Helmet",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_chestplate": "Lightning Dragon Priest Robes",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_leggings": "Lightning Dragon Priest Pants",
+    "item.ice_and_fire_spellbooks.lightning_dragon_priest_boots": "Lightning Dragon Priest Boots",
+
+    "item.ice_and_fire_spellbooks.toornahkriin": "Tornahkriin",
+    "item.ice_and_fire_spellbooks.fodaan": "Fodaan",
+    "item.ice_and_fire_spellbooks.vulonqo": "Vulonqo",
+    "item.ice_and_fire_spellbooks.vulnilviir": "Vulnilviir",
+    "item.ice_and_fire_spellbooks.vulsilah": "Vulsilah",
+
+    "item.ice_and_fire_spellbooks.wooden_mask": "Wooden Mask",
+    "item.wooden_mask.tooltip": "The mask vibrates with a strange frequency, perhaps it can be attuned? [WIP]",
+
+    "tab.ice_and_fire_spellbooks.armor": "Ice and Fire: Spellbooks"
+}

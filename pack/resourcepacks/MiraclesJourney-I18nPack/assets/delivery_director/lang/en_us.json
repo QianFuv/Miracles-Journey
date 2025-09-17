@@ -1,0 +1,12 @@
+{
+  "block.delivery_director.package_rewriter": "Package Re-Writer",
+  "delivery_director.ponder.package_rewriter.header": "Using the Package Re-Writer to change package addresses",
+  "delivery_director.ponder.package_rewriter.text_1": "Package Re-Writers allow to change a package address",
+  "delivery_director.ponder.package_rewriter.text_2": "My Factory",
+  "delivery_director.ponder.package_rewriter.text_3": "The rewriter will search for texts matching the first line of the attached sign...",
+  "delivery_director.ponder.package_rewriter.text_4": "...and replace the occurrences with the text in the second line of the sign.",
+  "delivery_director.ponder.package_rewriter.text_5": "§cFactory\n§aWarehouse",
+  "delivery_director.ponder.package_rewriter.text_6": "My Warehouse",
+  "delivery_director.ponder.package_rewriter.text_7": "Regex expressions can be used for complex modifications",
+  "delivery_director.ponder.package_rewriter.text_8": "Clipboards can be used for longer strings"
+}

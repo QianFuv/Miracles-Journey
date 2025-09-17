@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.dailydad.title": "Daily Dad",
+  "text.autoconfig.dailydad.option.general": "General",
+  "text.autoconfig.dailydad.option.general.jokeType": "jokeType",
+  "text.autoconfig.dailydad.option.general.internal_dadabase": "Internal Dadabase",
+  "text.autoconfig.dailydad.option.general.jokeUponRespawn": "Joke Upon Respawn"
+}

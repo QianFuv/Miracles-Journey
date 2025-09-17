@@ -1,0 +1,6 @@
+{
+
+  "create.gui.assembly.exception.unmovableBlock_test": "结构过长、方块不可移动或特殊功能方块数量超过上限 \n位于：[%1$s,%2$s,%3$s]\n方块：[%4$s]",
+  "create.gui.assembly.exception.structureTooLargeOrUnstable": "结构中方块过多或结构稳定系数超过上限 \n结构最大值为：[%1$s]\n结构实际值为：[%2$s]\n系数最大值为：[%3$s]\n系数实际值为：[%4$s]"
+
+}

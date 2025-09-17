@@ -1,0 +1,47 @@
+{
+  "item.archeryexp.gold_bow": "Gold-Reinforced Bow",
+  "item.archeryexp.wooden_bow": "Wooden Bow",
+  "item.archeryexp.iron_bow": "Iron-Reinforced Bow",
+  "item.archeryexp.diamond_bow": "Diamond-Reinforced Bow",
+  "item.archeryexp.netherite_bow": "Netherite-Reinforced Bow",
+
+  "item.archeryexp.gold_arrow": "Gold-Coated Arrow",
+  "item.archeryexp.iron_arrow": "Iron-Coated Arrow",
+  "item.archeryexp.diamond_arrow": "Diamond-Coated Arrow",
+  "item.archeryexp.netherite_arrow": "Netherite-Coated Arrow",
+
+  "enchantment.archeryexp.scouting": "Scouting",
+  "enchantment.archeryexp.baby_face": "Baby Face",
+  "enchantment.archeryexp.follow_through": "Follow-Through",
+  "enchantment.archeryexp.grit": "Grit",
+  "enchantment.archeryexp.shattering": "Shattering",
+  "enchantment.archeryexp.trajectory": "Trajectory",
+  "enchantment.archeryexp.headshot": "Headshot",
+
+  "enchantment.archeryexp.fragility": "Curse of Fragility",
+  "enchantment.archeryexp.pincushioning": "Curse of Pincushioning",
+
+  "enchantment.archeryexp.scouting.desc": "Increases movement speed whilst charging a bow.",
+  "enchantment.archeryexp.baby_face.desc": "Hitting a target with an arrow gives you a speed boost.",
+  "enchantment.archeryexp.follow_through.desc": "Hitting a target with an arrow gives you a strength boost.",
+  "enchantment.archeryexp.grit.desc": "Grants Resistance whilst charging a bow.",
+  "enchantment.archeryexp.shattering.desc": "Arrows shot have a 5% chance to deal an extra 5% (per level) of an armour’s overall durability damage to it.",
+  "enchantment.archeryexp.trajectory.desc": "Visualises the trajectory of your arrows.",
+  "enchantment.archeryexp.headshot.desc": "Arrows that strike the target's head deal 1.5+ damage per level.",
+
+  "enchantment.archeryexp.fragility.desc": "Armour is susceptible to taking 2+ extra damage to arrows per level.",
+  "enchantment.archeryexp.pincushioning.desc": "The Quickdraw effect is permanently applied whilst the armour is worn.",
+
+  "effect.archeryexp.quickdraw": "Quickdraw",
+  "effect.archeryexp.quickdraw.description": "After firing an arrow, the shooter is left vulnerable, making them susceptible to extra damage.",
+
+  "entity.archeryexp.gold_arrow": "Gold-Coated Arrow",
+  "entity.archeryexp.iron_arrow": "Iron-Coated Arrow",
+  "entity.archeryexp.diamond_arrow": "Diamond-Coated Arrow",
+  "entity.archeryexp.netherite_arrow": "Netherite-Coated Arrow",
+
+
+  "attribute.archeryexp.mainhand": "When Shot:",
+  "attribute.archeryexp.base_damage": "Base Damage",
+  "attribute.archeryexp.draw_cooldown": "Shoot Speed"
+}

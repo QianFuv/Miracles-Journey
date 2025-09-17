@@ -1,0 +1,50 @@
+{
+  "crystallized.itemtab": "Create: Crystallized",
+
+  "item.crystallized.liquid_crystal_bucket": "Bucket of Liquid Crystal",
+  "block.crystallized.liquid_crystal" : "Liquid Crystal",
+  "fluid.crystallized.crystal" : "Liquid Crystal",
+
+  "item.crystallized.nether_crystal": "Nether Crystal",
+  "item.crystallized.conductive_compound": "Conductive Compound",
+
+  "item.crystallized.glass_slide": "Glass Slide",
+  "item.crystallized.strong_slide": "Reinforced Slide",
+  "item.crystallized.chipped_glass_slide": "Chipped GLass Slide",
+  "item.crystallized.damaged_glass_slide": "Damaged Glass Slide",
+
+  "item.crystallized.nether_slide": "Glass Slide",
+  "item.crystallized.chipped_nether_slide": "Chipped Glass Slide",
+  "item.crystallized.damaged_nether_slide": "Damaged Glass Slide",
+  "item.crystallized.strong_nether_slide": "Reinforced Slide",
+
+  "item.crystallized.nether_filled": "Filled Glass Slide",
+  "item.crystallized.chipped_nether_filled": "Filled Chipped Glass Slide",
+  "item.crystallized.damaged_nether_filled": "Filled Damaged Glass Slide",
+  "item.crystallized.strong_nether_filled": "Filled Reinforced Slide",
+
+  "item.crystallized.conductive_slide": "Glass Slide",
+  "item.crystallized.chipped_conductive_slide": "Chipped Glass Slide",
+  "item.crystallized.damaged_conductive_slide": "Damaged Glass Slide",
+  "item.crystallized.strong_conductive_slide": "Reinforced Slide",
+
+  "item.crystallized.conductive_filled": "Filled Glass Slide",
+  "item.crystallized.chipped_conductive_filled": "Filled Chipped Glass Slide",
+  "item.crystallized.damaged_conductive_filled": "Filled Damaged Glass Slide",
+  "item.crystallized.strong_conductive_filled": "Filled Reinforced Slide",
+
+  "item.crystallized.amethyst_filled": "Filled Glass Slide",
+  "item.crystallized.chipped_amethyst_filled": "Filled Chipped Glass Slide",
+  "item.crystallized.damaged_amethyst_filled": "Filled Damaged Glass Slide",
+  "item.crystallized.strong_amethyst_filled": "Filled Reinforced Slide",
+
+  "item.crystallized.nether.tooltip": "Nether Crystal Base",
+  "item.crystallized.amethyst.tooltip": "Amethyst Crystal Base",
+  "item.crystallized.conductive.tooltip": "Conductive Crystal Base",
+
+  "item.crystallized.perfect.tooltip": "3 uses remaining",
+  "item.crystallized.chipped.tooltip": "2 uses remaining",
+  "item.crystallized.damaged.tooltip": "1 use remaining",
+  "pack.crystallized.rose_rename.displayName": "Rename Rose Quartz",
+  "pack.crystallized.rose_rename.description": "Rename's Create's Rose Quartz to Rose Quartz Crystal (built-in)"
+}

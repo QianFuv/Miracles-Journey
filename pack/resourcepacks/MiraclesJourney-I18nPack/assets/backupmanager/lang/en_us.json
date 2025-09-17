@@ -1,0 +1,18 @@
+{
+  "backupmanager:gui.backups.title" : "World Backups",
+  "backupmanager:gui.backups.created" : "Created: %s",
+  "backupmanager:gui.backups.provider" : "Backup provider: %s",
+  "backupmanager:gui.backups.restore_name" : "Please provide a world name, The restored world will show up with this name in world selection screen.",
+  "backupmanager:gui.backups.error_occurred" : "An error occurred!\n\n%s",
+  "backupmanager:gui.backups.restored" : "Backup restored successfully!",
+  "backupmanager:gui.backups.file_location" : "File Location:",
+
+  "backupmanager:button.backups" : "Backups",
+  "backupmanager:button.restore_backup" : "Restore Backup As...",
+  "backupmanager:button.restore_backup.info" : "Will prompt you to enter a name to restore this backup as.\nRestoring a backup will never overwrite an existing world.",
+  "backupmanager:button.delete_backup" : "Delete Backup",
+  "backupmanager:button.backups_entry" : "Manage world backups",
+  "backupmanager:button.back_arrow" : "← Back",
+  "backupmanager:button.ok" : "Ok",
+  "backupmanager:button.cancel" : "Cancel"
+}

@@ -1,0 +1,22 @@
+{
+  "hexcasting.action.hexoverpowered:yjsp_media": "YJSP's Charge Media",
+  "hexcasting.action.hexoverpowered:mind_stack/push": "Brain-In Gambit",
+  "hexcasting.action.hexoverpowered:mind_stack/pop": "Brain-Out Gambit",
+  "hexcasting.action.hexoverpowered:mind_stack/size": "Brain Depth's Reflection",
+  "hexcasting.action.hexoverpowered:mind_patterns": "Snapshot Reflection",
+  "hexcasting.action.hexoverpowered:get_personal_media": "Mana Reflection",
+  "hexcasting.action.hexoverpowered:get_personal_media_max": "Arcane Reflection",
+  "hexop.mote.chest.title": "A Glance of the Mote Chest",
+  "hexoverpowered.attr.personal_media": "Personal Media",
+  "hexoverpowered.attr.personal_media_max": "Max Personal Media",
+  "hexoverpowered.attr.personal_media_regen": "Personal Media Regeneration",
+  "hexoverpowered.hexbook.entry": "Patterns from HexOverpowered",
+  "book.descrip.hexoverpowered:yjsp_media": "Charges the current casting environment to an equivalent of $(bold)$(item)114514$() amethyst dust media.",
+  "book.descrip.hexoverpowered:mind_patterns": "Gets the list of all pattern iotas in the current staff canvas, returned in the order they were drawn.",
+  "book.descrip.hexoverpowered:mind_patterns/clear": "Clears all patterns in the staff canvas.",
+  "book.descrip.hexoverpowered:mind_stack/pop": "Pops the top iota from the staff casting stack, and pushes into current stack.",
+  "book.descrip.hexoverpowered:mind_stack/push": "Pops the top iota from current stack, and pushes into the staff casting stack.",
+  "book.descrip.hexoverpowered:mind_stack/size": "Gets the size of the staff casting stack.",
+  "book.descrip.hexoverpowered:get_personal_media": "Gets how much media exists in my personal media bar (in $(bold)$(item)0.0001$() dust).",
+  "book.descrip.hexoverpowered:get_personal_media_max": "Gets how much media I could hold in my personal media bar at most (in $(bold)$(item)0.0001$() dust)."
+}

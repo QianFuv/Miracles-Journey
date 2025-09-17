@@ -1,0 +1,7 @@
+{
+  "create_cuisine.ponder.add_food.header": "Mechanical Arm & Cuisine Skillet",
+  "create_cuisine.ponder.add_food.text_1": "The Mechanical Arm can place food into a heated Cuisine Skillet (Note: Cuisine Skillet! Not a Skillet!).",
+  "create_cuisine.ponder.add_food.text_2": "The Mechanical Arm can also attempt to add food-containing packages into the Cuisine Skillet.",
+  "create_cuisine.ponder.add_food.text_3": "When holding a spatula, the Mechanical Arm will continuously stir-fry as long as there's food in the Cuisine Skillet, until the skillet becomes empty.",
+  "create_cuisine.ponder.add_food.text_4": "When holding a plate, by selecting exits in the illustrated sequence, the Mechanical Arm can first retrieve dishes from the Cuisine Skillet and then deliver them to the next exit."
+}

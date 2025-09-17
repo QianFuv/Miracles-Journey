@@ -1,0 +1,119 @@
+{
+  "item.peruviansdelight.inca_kola": "Inca Kola",
+
+  "item.peruviansdelight.causa": "Causa",
+  "item.peruviansdelight.causa_atun": "Causa de Atún",
+  "item.peruviansdelight.chaufa": "Chaufa",
+  "item.peruviansdelight.tallarin_saltado": "Tallarín Saltado",
+  "item.peruviansdelight.lomo_saltado": "Lomo Saltado",
+  "item.peruviansdelight.pollo_brasa": "Pollo a la Brasa",
+  "item.peruviansdelight.ceviche": "Ceviche",
+  "item.peruviansdelight.aeropuerto": "Aeropuerto",
+  "item.peruviansdelight.mostrito": "Mostrito",
+  "item.peruviansdelight.papa_huancaina": "Papa a la Huancaína",
+
+  "item.peruviansdelight.tocosh": "Tocosh",
+
+  "item.peruviansdelight.aji_amarillo": "Ají Amarillo",
+  "item.peruviansdelight.limon": "Lemon",
+  "item.peruviansdelight.gajo_limon": "Lemon Wedge",
+  "item.peruviansdelight.kion": "Ginger",
+
+  "item.peruviansdelight.camote": "Sweet Potato",
+  "item.peruviansdelight.camote_cocido": "Cooked Sweet Potato",
+  "item.peruviansdelight.camote_cortado": "Sweet Potato Slices",
+  "item.peruviansdelight.camote_frito": "Fried Sweet Potato",
+  "item.peruviansdelight.yuca": "Yuca",
+  "item.peruviansdelight.yuca_cortada": "Yuca Slices",
+  "item.peruviansdelight.yuca_frita": "Fried Yuca",
+  "item.peruviansdelight.atun": "Tuna Fish",
+  "item.peruviansdelight.filete_atun": "Tuna Fish Slice",
+  "item.peruviansdelight.filete_atun_cocido": "Cooked Tuna Fish Slice",
+  "item.peruviansdelight.palta": "Avocado",
+  "item.peruviansdelight.palta_cortada": "Avocado Slice",
+  "item.peruviansdelight.papas_cortadas": "Potato Slices",
+  "item.peruviansdelight.papas_fritas": "French Fries",
+  "item.peruviansdelight.tentaculo_pota": "Pota Tentacle",
+  "item.peruviansdelight.pota_cortado": "Cut Pota tentacle",
+  "item.peruviansdelight.chicharron_pota": "Chicharrón of Pota",
+
+  "item.peruviansdelight.beef_heart": "Cow Heart",
+  "item.peruviansdelight.raw_heart_slices": "Raw Heart Slices",
+  "item.peruviansdelight.raw_anticucho": "Raw Anticucho",
+  "item.peruviansdelight.anticucho": "Anticucho",
+  "item.peruviansdelight.masa_picarones": "Mass of Picarones",
+  "item.peruviansdelight.picarones": "Picarones",
+
+  "item.peruviansdelight.pote_aji_amarillo": "Ají Amarillo Jar",
+  "item.peruviansdelight.sillao": "Soy Sauce",
+  "item.peruviansdelight.huancaina": "Huancaína",
+
+  "item.peruviansdelight.atun_bucket": "Tuna Bucket",
+
+  "item.peruviansdelight.vaina_soya": "Soybean Pod",
+  "item.peruviansdelight.granos_soya": "Soybeans",
+  "item.peruviansdelight.semillas_aji_amarillo": "Aji Amarillo Seeds",
+
+  "item.peruviansdelight.atun_spawn_egg": "Tuna Spawn Egg",
+
+  "block.peruviansdelight.palto_log": "Palto Log",
+  "block.peruviansdelight.palto_wood": "Palto Wood",
+  "block.peruviansdelight.stripped_palto_log": "Stripped Palto Log",
+  "block.peruviansdelight.stripped_palto_wood": "Stripped Palto Wood",
+  "block.peruviansdelight.palto_planks": "Palto Planks",
+
+  "block.peruviansdelight.palto_leaves": "Palto Leaves with Avocado",
+  "block.peruviansdelight.palto_leaves_empty": "Palto Leaves",
+  "block.peruviansdelight.semilla_palta": "Avocado Seed",
+
+  "block.peruviansdelight.limonero_log": "Limonero Log",
+  "block.peruviansdelight.limonero_wood": "Limonero Wood",
+  "block.peruviansdelight.stripped_limonero_log": "Stripped Limonero Log",
+  "block.peruviansdelight.stripped_limonero_wood": "Stripped Limonero Wood",
+  "block.peruviansdelight.limonero_planks": "Limonero Planks",
+
+  "block.peruviansdelight.limonero_leaves": "Limonero Leaves with Lemon",
+  "block.peruviansdelight.limonero_leaves_empty": "Limonero Tree Leaves",
+  "block.peruviansdelight.semillas_limon": "Lemon Seeds",
+
+  "block.peruviansdelight.palto_stairs": "Palto Stairs",
+  "block.peruviansdelight.palto_slab": "Palto Slab",
+  "block.peruviansdelight.palto_fence": "Palto Fence",
+  "block.peruviansdelight.palto_fence_gate": "Palto Fence Gate",
+  "block.peruviansdelight.palto_door": "Palto Door",
+  "block.peruviansdelight.palto_trapdoor": "Palto Trapdoor",
+  "block.peruviansdelight.palto_button": "Palto Button",
+  "block.peruviansdelight.palto_pressure_plate": "Palto Pressure Plate",
+
+  "block.peruviansdelight.limonero_stairs": "Limonero Stairs",
+  "block.peruviansdelight.limonero_slab": "Limonero Slab",
+  "block.peruviansdelight.limonero_fence": "Limonero Fence",
+  "block.peruviansdelight.limonero_fence_gate": "Limonero Fence Gate",
+  "block.peruviansdelight.limonero_door": "Limonero Door",
+  "block.peruviansdelight.limonero_trapdoor": "Limonero Trapdoor",
+  "block.peruviansdelight.limonero_button": "Limonero Button",
+  "block.peruviansdelight.limonero_pressure_plate": "Limonero Pressure Plate",
+
+  "block.peruviansdelight.aji_amarillo_silvestre": "Wild Ají Amarillo",
+  "block.peruviansdelight.kion_silvestre": "Wild Ginger",
+  "block.peruviansdelight.soya_silvestre": "Wild Soybean",
+  "block.peruviansdelight.camote_silvestre": "Wild Sweet Potato",
+  "block.peruviansdelight.yuca_silvestre": "Wild Yuca",
+
+  "block.peruviansdelight.aji_amarillo_crate": "Ají Amarillo Crate",
+  "block.peruviansdelight.sweet_potato_crate": "Sweet Potato Crate",
+  "block.peruviansdelight.yuca_crate": "Yuca Crate",
+  "block.peruviansdelight.lemon_crate": "Lemon Crate",
+  "block.peruviansdelight.avocado_crate": "Avocado Crate",
+  "block.peruviansdelight.ginger_crate": "Ginger Crate",
+  "block.peruviansdelight.soybean_pod_crate": "Soybean Pod Crate",
+
+  "entity.mccourse.atun": "Tuna",
+  "entity.peruviansdelight.atun": "Tuna",
+
+  "sounds.peruviansdelight.inca_kola_aaaah": "Aaaaaah",
+
+  "effect.peruviansdelight.glugluglu": "GluGLuGlu Aaaah",
+
+  "creativetab.peruviansdelight_tab": "Peruvian's Delight"
+}

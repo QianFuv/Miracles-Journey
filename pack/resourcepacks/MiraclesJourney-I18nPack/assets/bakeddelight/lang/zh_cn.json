@@ -1,0 +1,41 @@
+{
+  "itemGroup.bakeddelight": "烘烤乐事",
+
+  "item.bakeddelight.chefs_hat": "厨师帽",
+  "item.bakeddelight.chefs_jacket": "厨师夹克",
+  "item.bakeddelight.chefs_pants": "厨师裤",
+  "item.bakeddelight.chefs_shoes": "厨师靴",
+
+  "item.bakeddelight.rolling_pin": "擀面杖",
+  "item.bakeddelight.ground_meat": "肉糜",
+  "item.bakeddelight.cooked_ground_meat": "熟肉糜",
+  "item.bakeddelight.lasagna_pasta": "千层面面皮",
+  "item.bakeddelight.sliced_potato": "马铃薯片",
+  "item.bakeddelight.sliced_eggplant": "茄子片",
+  "item.bakeddelight.sliced_zucchini": "西葫芦片",
+  "item.bakeddelight.sliced_tomato": "番茄片",
+  "item.bakeddelight.cheese": "芝士",
+  "item.bakeddelight.bacon_bits": "培根丁",
+  "item.bakeddelight.cooked_bacon_bits": "熟培根丁",
+  "item.bakeddelight.lasagna_slice": "千层面切片",
+  "item.bakeddelight.gratin_slice": "奶汁焗土豆切片",
+  "item.bakeddelight.moussaka_slice": "肉末茄子饼切片",
+  "item.bakeddelight.tian_slice": "双茄西葫芦切片",
+  "item.bakeddelight.bolognese": "意式肉酱",
+  "item.bakeddelight.bacon_cream": "奶油培根",
+
+  "item.bakeddelight.eggplant_seed": "茄子种子",
+  "item.bakeddelight.eggplant": "茄子",
+  "item.bakeddelight.zucchini_seed": "西葫芦籽",
+  "item.bakeddelight.zucchini": "西葫芦",
+
+  "block.bakeddelight.baking_dish" : "烤盘",
+  "block.bakeddelight.uncooked_lasagna_dish": "生千层面",
+  "block.bakeddelight.cooked_lasagna_dish": "熟千层面",
+  "block.bakeddelight.uncooked_gratin_dish": "生奶汁焗土豆",
+  "block.bakeddelight.cooked_gratin_dish": "熟奶汁焗土豆",
+  "block.bakeddelight.uncooked_moussaka_dish": "生肉末茄子饼",
+  "block.bakeddelight.cooked_moussaka_dish": "熟肉末茄子饼",
+  "block.bakeddelight.uncooked_tian_dish": "生双茄西葫芦",
+  "block.bakeddelight.cooked_tian_dish": "熟双茄西葫芦"
+}

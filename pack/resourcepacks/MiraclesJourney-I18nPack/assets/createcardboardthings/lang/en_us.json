@@ -1,0 +1,23 @@
+{
+  "item.createcardboardthings.cardboard_pickaxe": "Cardboard Pickaxe",
+  "item.createcardboardthings.cardboard_shears": "Cardboard Shears",
+  "item.createcardboardthings.cardboard_arrow": "Cardboard Arrow",
+  "item.createcardboardthings.cardboard_elytra": "Cardboard Elytra",
+  "item.createcardboardthings.cardboard_ball": "Cardboard Ball",
+  "item.createcardboardthings.cardboard_ingot": "Cardboard Ingot",
+  "item.createcardboardthings.cardboard_rocket": "Cardboard Rocket",
+  "item.createcardboardthings.cardboard_saddle": "Cardboard Saddle",
+  "item.createcardboardthings.cardboard_totem": "Cardboard Totem",
+
+  "entity.createcardboardthings.cardboard_arrow": "Cardboard Arrow",
+
+  "tooltip.createcardboardthings.cardboard_pickaxe": "Weak but unbreakable",
+  "tooltip.createcardboardthings.cardboard_shears": "No one knows why... yet",
+  "tooltip.createcardboardthings.cardboard_arrow": "No damage, big knockback",
+  "tooltip.createcardboardthings.cardboard_elytra": "Fly forever... once",
+  "tooltip.createcardboardthings.cardboard_ball": "Hits hard, doesn’t push",
+  "tooltip.createcardboardthings.cardboard_ingot": "Boosts the knockback of Create’s Cardboard",
+  "tooltip.createcardboardthings.cardboard_rocket": "Boots Elytra only",
+  "tooltip.createcardboardthings.cardboard_saddle": "A base for future saddles",
+  "tooltip.createcardboardthings.cardboard_totem": "Saves you, then helps you run"
+}

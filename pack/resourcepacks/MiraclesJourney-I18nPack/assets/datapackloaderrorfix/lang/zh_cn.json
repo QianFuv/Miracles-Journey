@@ -1,0 +1,5 @@
+{
+  "gui.datapackloaderrorfix.BUTTON_TEXT": "清理世界数据 (Fix)",
+  "gui.datapackloaderrorfix.SUCCESS_TEXT": "世界数据清理完成!",
+  "gui.datapackloaderrorfix.FAILURE_TEXT": "世界数据清理失败!"
+}

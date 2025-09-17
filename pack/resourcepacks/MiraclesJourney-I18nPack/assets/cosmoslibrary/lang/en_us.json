@@ -1,0 +1,150 @@
+{
+	"jei.experience": "XP",
+	
+	"cosmoslibrary.info.hold.name": "Hold",
+	
+	"cosmoslibrary.info.shift.name": "Shift",
+	"cosmoslibrary.info.ctrl.name": "Ctrl",
+	"cosmoslibrary.info.alt.name": "Alt",
+	
+	"cosmoslibrary.info.fordetails.name": "for more details.",
+	"cosmoslibrary.info.tooltip.energy.name": "An item that stores energy.",
+	"cosmoslibrary.info.currentpower.name": "Current Power:",
+	"cosmoslibrary.info.maxpower.name": "Max Power:",
+	"cosmoslibrary.info.release.name": "Release",
+	"cosmoslibrary.info.less.name": "for less details.",
+	
+	"cosmoslibrary.info.nbt.name": "for NBT Info.",
+	"cosmoslibrary.info.nbt.less.name": "for less NBT Info.",
+	
+	"cosmoslibrary.info.energy.name": "for more details.",
+	"cosmoslibrary.info.energy.less.name": "for less details.",
+	
+	"cosmoslibrary.info.tooltip.fluid.name": "A block that stores a fluid.",
+	"cosmoslibrary.tooltip.energy_item.stored": "Energy: ",
+	"cosmoslibrary.tooltip.energy_item.stored_suff": " FE",
+	"cosmoslibrary.tooltip.energy_item.extract": "Max Extract Rate: ",
+	"cosmoslibrary.tooltip.energy_item.receive": "Max Receive Rate: ",
+	
+	"cosmoslibrary.info.pickaxe.name": "Pickaxe that uses energy",
+	"cosmoslibrary.info.pickaxe.power.name": "Power Left",
+	
+	"cosmoslibrary.info.energy_item": "Energy Details:",
+	
+	"gui.button.side.output_to": "Output",
+	"gui.button.side.input_from": "Input",
+	"gui.button.side.none": "None",
+	"gui.button.side.disabled": "Disabled",
+	
+	"gui.info.input.name": "Input",
+	"gui.info.output.name": "Output",
+	"gui.info.normal.name": "Normal",
+	"gui.info.disabled.name": "Disabled",
+	
+	"cosmoslibrary.channel_state.air.name": "",
+	"cosmoslibrary.channel_state.cable_no_conn.name": "No Connection",
+	"cosmoslibrary.channel_state.cable.name": "Cable",
+	"cosmoslibrary.channel_state.cable_other.name": "Other Cable",
+	"cosmoslibrary.channel_state.interface_no_conn.name": "Interface Normal",
+	"cosmoslibrary.channel_state.interface_input.name": "Interface Input",
+	"cosmoslibrary.channel_state.interface_output.name": "Interface Output",
+	"cosmoslibrary.channel_state.disabled.name": "Disabled",
+	
+	"item.cosmoslibrary.cosmos_wrench": "Cosmos Wrench",
+	
+	"cosmoslibrary.enum.lock_state.locked": "Locked",
+	"cosmoslibrary.enum.lock_state.unlocked": "Unlocked",
+	"cosmoslibrary.enum.lock_state.unknown": "Unknown",
+	
+	"cosmoslibrary.enum.connection_type.screen": "Screen",
+	"cosmoslibrary.enum.connection_type.energy": "Energy",
+	"cosmoslibrary.enum.connection_type.fluid": "Fluid",
+	"cosmoslibrary.enum.connection_type.item": "Item",
+	
+	"cosmoslibrary.enum.side_state.interface_normal": "Interface Normal",
+	"cosmoslibrary.enum.side_state.interface_output": "Interface Output",
+	"cosmoslibrary.enum.side_state.interface_input": "Interface Input",
+	"cosmoslibrary.enum.side_state.disabled": "Disabled",
+	
+	"cosmoslibrary.enum.side_guide.shown": "Shown",
+	"cosmoslibrary.enum.side_guide.hidden": "Hidden",
+	
+	"cosmoslibrary.enum.generated.false": "Ungenerated",
+	"cosmoslibrary.enum.generated.true": "Generated",
+	
+	"cosmoslibrary.enum.trap_players.free": "Free",
+	"cosmoslibrary.enum.trap_players.trapped": "Trapped",
+	
+	"cosmoslibrary.enum.allow_state.allowed": "Allowed",
+	"cosmoslibrary.enum.allow_state.blocked": "Blocked",
+	
+	"cosmoslibrary.enum.enable_state.enabled": "Enabled",
+	"cosmoslibrary.enum.enable_state.disabled": "Disabled",
+	
+	"cosmoslibrary.enum.energy_state.fill": "Fill",
+	"cosmoslibrary.enum.energy_state.drain": "Drain",
+	
+	"cosmoslibrary.enum.generation_mode.item": "Burnable Items",
+	"cosmoslibrary.enum.generation_mode.fluid": "High Temperature Fluids",
+	
+	"cosmoslibrary.enum.allowed_entities.none": "No Entities",
+	"cosmoslibrary.enum.allowed_entities.entities_only": "Non-Player Entities",
+	"cosmoslibrary.enum.allowed_entities.players_only": "Player Entities",
+	"cosmoslibrary.enum.allowed_entities.items_only": "Item Entities",
+	"cosmoslibrary.enum.allowed_entities.all": "All Entities",
+	
+	"cosmoslibrary.enum.ui_mode.dark": "Dark",
+	"cosmoslibrary.enum.ui_mode.light": "Light",
+	
+	"cosmoslibrary.enum.ui_help.hidden": "Hidden",
+	"cosmoslibrary.enum.ui_help.shown": "Shown",
+	
+	"cosmoslibrary.enum.ui_lock.private": "Private",
+	"cosmoslibrary.enum.ui_lock.public": "Public",
+	
+	"cosmoslibrary.gui.button.direction.down": "Down",
+	"cosmoslibrary.gui.button.direction.up": "Up",
+	"cosmoslibrary.gui.button.direction.north": "North",
+	"cosmoslibrary.gui.button.direction.south": "South",
+	"cosmoslibrary.gui.button.direction.west": "West",
+	"cosmoslibrary.gui.button.direction.east": "East",
+	
+	"cosmoslibrary.gui.button.tank_clear": "Shift-Click to Empty the Fluid Tank.",
+	"cosmoslibrary.gui.button.tank_clear_shift": "Warning! This cannot be undone.",
+	
+	"cosmoslibrary.gui.fluid_bar.pre": "Fluid Stored: ",
+	"cosmoslibrary.gui.fluid_bar.suff": " mB.",
+	
+	"cosmoslibrary.gui.energy_bar.pre": "Energy Stored: ",
+	"cosmoslibrary.gui.energy_bar.suff": " FE.",
+	
+	"cosmoslibrary.gui.generation.pre": "Generating: ",
+	"cosmoslibrary.gui.generation.suff": " FE/t.",
+	
+	"cosmoslibrary.gui.energy.fe_rate": " FE/t.",
+	"cosmoslibrary.gui.energy.fe_pre": "Using: ",
+	
+  	"cosmoslibrary.options.off": "OFF",
+	"cosmoslibrary.options.on": "ON",
+	"cosmoslibrary.options.off.composed": " OFF",
+	"cosmoslibrary.options.on.composed": " ON",
+	
+  	"cosmoslibrary.options.no": "NO",
+	"cosmoslibrary.options.yes": "YES",
+	"cosmoslibrary.options.no.composed": " NO",
+	"cosmoslibrary.options.yes.composed": " YES",
+	
+	"cosmoslibrary.gui.ui_mode.info": "Change UI Theme: ",
+	"cosmoslibrary.gui.ui_mode.value": "Current UI Theme: ",
+	
+	"cosmoslibrary.gui_help_title": "UI Help Mode",
+	"cosmoslibrary.gui.ui_help.info": "Show UI Help: ",
+	"cosmoslibrary.gui.ui_help.value": "UI Help is currently: ",
+	
+	"cosmoslibrary.gui.ui_lock.info": "Change UI Lock State: ",
+	"cosmoslibrary.gui.ui_lock.value": "Current UI Lock State: ",
+	
+	"cosmoslibrary.gui.colour.info": "Change the current Colour:",
+	"cosmoslibrary.gui.colour.value": "Current Colour: "
+	
+}

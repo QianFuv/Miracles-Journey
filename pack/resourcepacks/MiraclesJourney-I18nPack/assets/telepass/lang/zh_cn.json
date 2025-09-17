@@ -1,0 +1,10 @@
+{
+    "config.telepass.diamond_durability": "设置钻石传送票使用次数，默认为 1000",
+    "config.telepass.gold_durability": "设置金传送票使用次数，默认为 15",
+    "item.telepass.diamond_telepass": "钻石传送票",
+    "item.telepass.dimension": "§c你链接的玩家§r %s §c与你不在同一维度，传送取消。§r",
+    "item.telepass.gold_telepass": "金传送票",
+    "item.telepass.offline": "§c你链接的玩家§r %s §c目前不在线，传送取消。§r",
+    "item.telepass.self": "§c你不能传送到自己！§r",
+    "itemGroup.telepass": "传送票"
+}

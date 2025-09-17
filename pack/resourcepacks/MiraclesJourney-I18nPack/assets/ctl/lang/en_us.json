@@ -1,0 +1,19 @@
+{
+  "itemGroup.ctl.ctl_tab": "Create Train Lights",
+
+  "block.ctl.grid_ilb": "Grid Interior Light",
+  "block.ctl.sloped_ilb": "Sloped Interior Light",
+  "block.ctl.panel_ilb": "Interior Light Panel",
+  "block.ctl.halfpanel_ilb": "Interior Light Halfpanel",
+  "block.ctl.vertical_halfpanel_ilb": "Vertical Interior Light Halfpanel",
+  "block.ctl.quarter_ilb": "Quarter Interior Light",
+  "block.ctl.panel_htlb": "Head- Tail Light Panel",
+  "block.ctl.halfpanel_htlb": "Head- Tail Light Halfpanel",
+  "block.ctl.vertical_halfpanel_htlb": "Vertical Head- Tail Light Halfpanel",
+  "block.ctl.quarter_htlb": "Quarter Head- Tail Light",
+  "block.ctl.ilb_block": "Interior Light Block",
+  "block.ctl.htlb_block": "Head- Tail Light Block",
+
+  "item.ctl.ic_htlb_block": "Incomplete Head- Tail Light",
+  "item.ctl.ic_ilb_block": "Incomplete Interior Light"
+}

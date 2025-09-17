@@ -1,0 +1,22 @@
+{
+  "itemGroup.create_fantasizing": "机械动力：又在幻想了",
+
+  "block.create_fantasizing.compact_hydraulic_engine": "紧缩型水力引擎",
+  "item.create_fantasizing.incomplete_compact_hydraulic_engine": "未完成的紧缩型水力引擎",
+  "block.create_fantasizing.compact_wind_engine": "紧缩型风力引擎",
+  "item.create_fantasizing.incomplete_compact_wind_engine": "未完成的紧缩型风力引擎",
+  "block.create_fantasizing.sturdy_girder": "坚固梁",
+  "block.create_fantasizing.sturdy_girder_encased_shaft": "坚固梁包住的传动杆",
+  "item.create_fantasizing.tree_cutter": "伐树者",
+  "item.create_fantasizing.block_placer": "方块放置器",
+  "item.create_fantasizing.block_placer.not_enough_blocks": "没有足够的方块！",
+  "block.create_fantasizing.transporter": "运输器",
+  "item.create_fantasizing.prismarine_fan_blades": "海晶扇叶",
+  "item.create_fantasizing.sturdy_conduit": "坚固潮涌核心",
+  "item.create_fantasizing.sturdy_heavy_core": "坚固沉重核心",
+
+  "create_fantasizing.configuration.hydraulic_engine_stress_provide": "水力引擎应力提供",
+  "create_fantasizing.configuration.hydraulic_engine_stress_provide.tooltip": "\u00A7e需要重新进入存档",
+  "create_fantasizing.configuration.wind_engine_stress_provide": "风力引擎应力提供",
+  "create_fantasizing.configuration.wind_engine_stress_provide.tooltip": "\u00A7e需要重新进入存档"
+}

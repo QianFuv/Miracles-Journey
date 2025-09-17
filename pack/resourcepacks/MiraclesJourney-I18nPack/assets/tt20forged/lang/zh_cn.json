@@ -1,0 +1,19 @@
+{
+  "tt20.command.main.version": "TT20 正在运行，版本 %s",
+  "tt20.command.main.enabled": "启用状态: %s",
+  "tt20.command.tps.line": "TPS %s 平均TPS %s 稳定TPS %s",
+  "tt20.command.tps.missed": "丢失的刻: %s",
+  "tt20.command.status.header": "--- TT20 状态 ---",
+  "tt20.command.status.line": "%s: %s",
+  "tt20.command.status.footer": "--------------------",
+  "tt20.command.status.version": "\n版本: %s",
+  "tt20.command.status.mspt": "MSPT: %s",
+  "tt20.command.toggle.feedback": "%s 已被 %s",
+  "tt20.command.toggle.unknown_key": "未知的配置项: %s",
+  "tt20.command.reload.config": "已重载主配置文件",
+  "tt20.command.reload.mask_config": "已重载方块实体掩码配置文件",
+  "tt20.status.on": "§a开启",
+  "tt20.status.off": "§c关闭",
+  "tt20.status.enabled": "§a启用",
+  "tt20.status.disabled": "§c禁用"
+}

@@ -1,0 +1,62 @@
+{
+    "block.immersive_cooking.stone_countertop": "Stone Countertop",
+    "block.immersive_cooking.blackstone_countertop": "Blackstone Countertop",
+    "block.immersive_cooking.andesite_countertop": "Andesite Countertop",
+    "block.immersive_cooking.diorite_countertop": "Diorite Countertop",
+    "block.immersive_cooking.granite_countertop": "Granite Countertop",
+    "block.immersive_cooking.quartz_countertop": "Quartz Countertop",
+
+    "material.immersive_cooking.andesite": "Andesite",
+    "material.immersive_cooking.blackstone": "Blackstone",
+    "material.immersive_cooking.granite": "Granite",
+    "material.immersive_cooking.diorite": "Diorite",
+    "material.immersive_cooking.quartz": "Quartz",
+    "material.immersive_cooking.stone": "Stone",
+    "material.immersive_cooking.brick": "Brick",
+    "material.immersive_cooking.birch": "Birch",
+    "material.immersive_cooking.acacia": "Acacia",
+    "material.immersive_cooking.crimson": "Crimson",
+    "material.immersive_cooking.dark_oak": "Dark Oak",
+    "material.immersive_cooking.oak": "Oak",
+    "material.immersive_cooking.spruce": "Spruce",
+    "material.immersive_cooking.warped": "Warped",
+    "material.immersive_cooking.bamboo": "Bamboo",
+    "material.immersive_cooking.cherry": "Cherry",
+    "material.immersive_cooking.mangrove": "Mangrove",
+    "material.immersive_cooking.deepslate": "Deepslate",
+    "material.immersive_cooking.calcite": "Calcite",
+    "material.immersive_cooking.basalt": "Basalt",
+    "material.immersive_cooking.jungle": "Jungle",
+    "material.immersive_cooking.nether_brick": "Nether Brick",
+
+    "block.immersive_cooking.cabinet": "%s %s Cabinet",
+    "block.immersive_cooking.counter": "%s %s Counter",
+
+    "block.immersive_cooking.checkered_tiles": "Checkered Tiles",
+    "block.immersive_cooking.glazed_checkered_tiles": "Glazed Checkered Tiles",
+    "block.immersive_cooking.glazed_tiles": "Glazed Tiles",
+
+    "block.immersive_cooking.checkered_tiles_slab": "Checkered Tiles Slab",
+    "block.immersive_cooking.glazed_checkered_tiles_slab": "Glazed Checkered Tiles Slab",
+    "block.immersive_cooking.glazed_tiles_slab": "Glazed Tiles Slab",
+  
+    "block.immersive_cooking.stove_hood": "Stove Hood",
+  
+  
+    "item.immersive_cooking.raw_spider_shank": "Raw Spider Shank",
+    "item.immersive_cooking.clean_spider_shank": "Clean Spider Shank",
+    "item.immersive_cooking.smoked_spider_shank": "Smoked Spider Shank",
+    "item.immersive_cooking.raw_spider_cutlet": "Raw Spider cutlet",
+    "item.immersive_cooking.cooked_spider_cutlet": "Cooked Spider cutlet",
+    "item.immersive_cooking.monster_tuft": "Monster Tuft",
+    "item.immersive_cooking.diced_onion": "Diced Onion",
+    "item.immersive_cooking.bamboo_slice": "Bamboo Slice",
+    "item.immersive_cooking.potato_slice": "Potato Slice",
+    "item.immersive_cooking.potato_cubes": "Potato Cubes",
+    "item.immersive_cooking.fried_potato_slice": "Fried Potato Slice",
+    "item.immersive_cooking.fried_potato_cubes": "Fried Potato Cubes",
+    "item.immersive_cooking.pyttipanna": "Pyttipanna",
+    "item.immersive_cooking.curry_base": "Curry Base",
+
+    "itemGroup.immersive_cooking": "Immersive Cooking"
+}

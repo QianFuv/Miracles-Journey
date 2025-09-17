@@ -1,0 +1,178 @@
+  {
+  "language.name": "English",
+  "language.region": "US",
+  "language.code": "en_us",
+
+  "itemGroup.yuushya.modelling": "Yuushya-Modelling",
+
+  "item.yuushya.pos_trans_item": "Entity Block Layer Shifter",
+  "item.yuushya.pos_trans_item.line1": "\u00A79Mainhand: Rightclick a [Entity Block] to adjust the selected [Layer]'s offset",
+  "item.yuushya.pos_trans_item.line2": "\u00A79Offhand: Rightclick to switch the tool's modes(3 in total)",
+  "item.yuushya.pos_trans_item.line3": "\u00A79It can adjust the [Layer]'s offsets",
+  "item.yuushya.pos_trans_item.line4": "\u00A79Use F3 to know which axis to adjust",
+  
+  "item.yuushya.pos_trans_item.0": "\u00A7cMode:X Axiz",
+  "item.yuushya.pos_trans_item.1": "\u00A7AMode:Y Axiz",
+  "item.yuushya.pos_trans_item.2": "\u00A79Mode:Z Axiz",
+
+  "item.yuushya.pos_trans_item.switch": "X Offset:%s Y Offset:%s Z Offset:%s",  
+  
+  "item.yuushya.micro_pos_trans_item": "Entity Block Layer Fine-tuner",
+  "item.yuushya.micro_pos_trans_item.line1": "",
+  "item.yuushya.micro_pos_trans_item.line2": "\u00A79Mainhand: Rightclick a [Entity Block] to fine-tune its offset",
+  "item.yuushya.micro_pos_trans_item.line3": "\u00A79Offhand: Rightclick to switch the tool's modes(4 in total)",
+  "item.yuushya.micro_pos_trans_item.line4": "\u00A79Slightly adjust the [Entity Block Layer]'s status to prevent Z-Fighting", 
+  
+  "item.yuushya.micro_pos_trans_item.0": "\u00A7cMode:X Axiz",
+  "item.yuushya.micro_pos_trans_item.1": "\u00A7aMode:Y Axiz",
+  "item.yuushya.micro_pos_trans_item.2": "\u00A79Mode:Z Axiz",
+  "item.yuushya.micro_pos_trans_item.3": "\u00A7aMode:Reset",
+  "item.yuushya.micro_pos_trans_item.switch": "X Offset:%s Y Offset:%s Z Offset:%s",   
+  
+  "item.yuushya.rot_trans_item": "Entity Block Layer Rotator",
+  "item.yuushya.rot_trans_item.line1": "\u00A79Mainhand: Rightclick a [Entity Block] to rotate the selected [Layer]",
+  "item.yuushya.rot_trans_item.line2": "\u00A79Offhand: Rightclick to switch the tool's modes(3 in total)",
+  "item.yuushya.rot_trans_item.line3": "\u00A79It can adjust the [Layer]'s rotation",
+  "item.yuushya.rot_trans_item.line4": "\u00A79Use F3 to know which axis to adjust",
+  
+  "item.yuushya.rot_trans_item.0": "\u00A7cMode:X Axiz",
+  "item.yuushya.rot_trans_item.1": "\u00A7aMode:Y Axiz",
+  "item.yuushya.rot_trans_item.2": "\u00A79Mode:Z Axiz",
+  "item.yuushya.rot_trans_item.switch": "X Rotation:%s Y Rotation:%s Z Rotation:%s",  
+  
+  
+  "item.yuushya.scale_trans_item": "Entity Block Layer Sizer",
+  "item.yuushya.scale_trans_item.line2": "\u00A79Mainhand: Rightclick and leftclick a [Entity Block] to scale the selected [Layer]",
+  "item.yuushya.scale_trans_item.line3": "\u00A79It can adjust the [Layer]'s size",
+  "item.yuushya.scale_trans_item.line1": "",
+  "item.yuushya.scale_trans_item.line4": "",
+  "item.yuushya.scale_trans_item.switch": "Executed Scaling* %s",
+  
+  "item.yuushya.slot_trans_item": "Layer-switcher for Entity Block",
+  "item.yuushya.slot_trans_item.line1": "\u00A79Mainhand: Rightclick or leftclick a [Entity Block] to switch its currently selected layer",
+  "item.yuushya.slot_trans_item.line2": "\u00A79Continuously leftclick to switch to the blank [ Layer]",
+  "item.yuushya.slot_trans_item.line3": "",
+  "item.yuushya.slot_trans_item.line4": "\u00A79Offhand: Rightclick a [Entity Block] to let it be shown or not",
+
+  "item.yuushya.slot_trans_item.slot": "No.%s Content: %s Shown: %s",
+  "item.yuushya.slot_trans_item.slot.fail.max": "No.Top, you can put the blockstate by Gourd of Copy&Paste",
+  "item.yuushya.slot_trans_item.slot.fail.min": "No.0，Content: %s Shown: %s",
+
+  "item.yuushya.get_showblock_item": "Gourd of Entitilization",
+  "item.yuushya.get_showblock_item.line1": "",
+  "item.yuushya.get_showblock_item.line2": "\u00A79Rightclick to turn a block to a [Entity Block]",
+  "item.yuushya.get_showblock_item.line3": "\u00A79And automatically set a [Layer] for it",
+  "item.yuushya.get_showblock_item.line4": "\u00A79Use various tools to adjust the [Layer]",
+
+  "item.yuushya.get_showblock_item.0": "Entitilize Mode",
+  "item.yuushya.get_showblock_item.1": "Combine Mode",
+  "item.yuushya.get_showblock_item.2": "Fetch Item Mode",
+  "item.yuushya.get_showblock_item.3": "Reset to Block Mode",
+  
+  "item.yuushya.debug_stick_item": "Artificial Debug Stick",
+  "item.yuushya.debug_stick_item.line1": " ",
+  "item.yuushya.debug_stick_item.line2": " ",
+  "item.yuushya.debug_stick_item.line3": " ",
+  "item.yuushya.debug_stick_item.line4": " ",
+  "item.yuushya.debug_stick_item.empty": "%s had not property",
+  "item.yuushya.debug_stick_item.select": "choose %s（%s）",
+  "item.yuushya.debug_stick_item.update": "update\"%s\" to %s",
+  
+  "item.yuushya.get_blockstate_item": "Gourd of Copy&Paste",
+  "item.yuushya.get_blockstate_item.line2": "\u00A79Mainhand: Right click a normal block to copy its Blockstates",
+  "item.yuushya.get_blockstate_item.line3": "\u00A79Offhand: Rightclick a [Entity Block] to apply the copied to its currently selected [Layer]",
+  "item.yuushya.get_blockstate_item.line1": " ",
+  
+  "item.yuushya.get_blockstate_item.offhand.success": "Applied Blockstate successfully",
+  "item.yuushya.get_blockstate_item.mainhand.success": "Copied Blockstate successfully",
+  "item.yuushya.get_blockstate_item.mainhand.pass": "No content for this [Layer]!",  
+  
+  "item.yuushya.get_lit_item": "Entity Block Lighter",   
+  "item.yuushya.get_lit_item.line1": "\u00A79Switch on or off a [Entity Block]'s Lighting",
+  "item.yuushya.get_lit_item.line2": "\u00A79Mainhand: Leftclick or rightclick a [Entity Block] to adjust its brightness",
+  "item.yuushya.get_lit_item.select": "%s: %s",
+
+  "item.yuushya.move_transformdata_item": "Gourd of Cut&Paste",
+  "item.yuushya.move_transformdata_item.line1": "",
+  "item.yuushya.move_transformdata_item.line2": "\u00A79Mainhand: Right click a normal block to cut its current layer",
+  "item.yuushya.move_transformdata_item.line3": "\u00A79Offhand: Rightclick a [Entity Block] to apply the cut to its currently selected [Layer]",
+  "item.yuushya.move_transformdata_item.line4": "",
+  "item.yuushya.move_transformdata_item.offhand.success": "Pasted",
+  "item.yuushya.move_transformdata_item.mainhand.success": "Cut",
+  "item.yuushya.move_transformdata_item.mainhand.pass": "No content for this [Layer]!",  
+  
+  
+  "item.yuushya.the_encyclopedia": "\u00A7c「The Encyclopedia」",  
+  "item.yuushya.the_encyclopedia.line1": "\u00A77\u00A7o“The world is watching you”",  
+  
+  "item.yuushya.shimmering_pearl": "\u00A79Shimmering Pearl",  
+  "item.yuushya.everlasting_wood": "\u00A79Everlasting Wood",  
+  "item.yuushya.sprouting_dirt": "\u00A79Sprouting Dirt",  
+  "item.yuushya.floating_bloom": "\u00A79Floating Bloom",  
+  "item.yuushya.sparking_flame": "\u00A79Sparking Flame",  
+  "item.yuushya.shimmering_pearl.line1": "\u00A77\u00A7o“Will”",
+  "item.yuushya.everlasting_wood.line1": "\u00A77\u00A7o“Origin”",
+  "item.yuushya.sprouting_dirt.line1": "\u00A77\u00A7o“Newborn”",
+  "item.yuushya.floating_bloom.line1": "\u00A77\u00A7o“Mildness”",
+  "item.yuushya.sparking_flame.line1": "\u00A77\u00A7o“Fate”",  
+  
+  
+  "block.yuushya.modelframe": "Entitilized Block",
+  "block.yuushya.showblock": "Entity Block",
+  "block.yuushya.mixedblock": "Combined Block",
+  "block.yuushya.showblock.pos_text": "Pos: ",
+  "block.yuushya.showblock.rot_text": "Rot: ",
+  "block.yuushya.showblock.scale_text": "Scale: [%s]",
+  "block.yuushya.showblock.x": " X[%s]",
+  "block.yuushya.showblock.y": " Y[%s]",
+  "block.yuushya.showblock.z": " Z[%s]",
+  "block.yuushya.showblock.slot_text": "[%s]: ",
+  
+  "block.yuushya.modelframe.line1": "\u00A78Unavailable",
+  "block.yuushya.showblock.line1": "\u00A78Unavailable",
+  "block.yuushya.mixedblock.line1": "\u00A78Unavailable",
+
+  "item.yuushya.destroy_item": "Silk Touch Hammer",
+  "item.yuushya.destroy_item.line1": "\u00A79Click to get Entity Block without NBT loss",
+  "item.yuushya.destroy_item.line2": "\u00A79Right Click on an Entity Block to copy NBT to Entity Block item in the offhand",
+
+  "item.yuushya.gui_item": "\u00A7CModelling GUI Terminal",
+  "item.yuushya.gui_item.line1": "\u00A79Right click on an [Entity Block] to open a screen",
+  "item.yuushya.gui_item.line2": "\u00A79You can modify the values and layers within this screen",
+
+  "gui.showBlockScreen.mode.slider": "Mode:Incremental",
+  "gui.showBlockScreen.mode.fine_tune": "Mode:Fine Tune",
+  "gui.showBlockScreen.mode.edit": "Mode:Input",
+  "gui.showBlockScreen.mode.slider.tooltip": "Values are changed on a fixed scale",
+  "gui.showBlockScreen.mode.fine_tune.tooltip": "Removes incremental limits (e.g., 90.5-degree rotation, 2.05 displacement)",
+  "gui.showBlockScreen.mode.edit.tooltip": "Allows manual input of values. Press the button on the right to apply the values, and press the button on the left to reset them.",
+
+  "gui.yuushya.showBlockScreen.pos_text": "Position",
+  "gui.yuushya.showBlockScreen.rot_text": "Rotation",
+  "gui.yuushya.showBlockScreen.scale_text": "Scale [%s]",
+  "gui.yuushya.showBlockScreen.brightness_text": "Brightness",
+
+  "item.yuushya.engrave_item": "\u00A7CModelling Chisel",
+  "item.yuushya.engrave_item.line1": "\u00A79Hold [Entity Block] in the off-hand and right-click to open a screen for selecting saved local modelling works.",
+  "item.yuushya.engrave_item.line2": "\u00A79In the [Modelling GUI Terminal] screen, saved modelling works will be displayed in this interface.",
+  "item.yuushya.engrave_item.line3": "\u00A79Local modelling works are saved in the 'modellings' folder under the version folder.",
+
+  "gui.showBlockScreen.workshop.copy": "Copy Share Code",
+  "gui.showBlockScreen.workshop.paste": "Apply Share Code",
+  "gui.showBlockScreen.workshop.error": "Invalid Share Code!",
+  "gui.showBlockScreen.workshop.copy_pass": "Share code copied to clipboard!",
+  "gui.showBlockScreen.workshop.share_hint": "You can share it with your friends.",
+  "gui.showBlockScreen.workshop.paste_pass": "Share code applied!",
+  "gui.showBlockScreen.workshop.save": "Save modelling work as local file",
+  "gui.showBlockScreen.workshop.save_button": "Save Work",
+  "gui.showBlockScreen.workshop.save.tip": "Save the modelling work under this filename in [./Version Folder/modelling]",
+  "gui.showBlockScreen.workshop.save_pass": "Modelling work saved to [./Version Folder/modelling]!",
+  "gui.showBlockScreen.display.add": "Add block or blockstate in the offhand to list",
+  "gui.showBlockScreen.display.remove": "Remove selected block or blockstate",
+  "gui.showBlockScreen.display.replace": "Replace selected block or blockstate with in the off hand",
+  "gui.showBlockScreen.display.on": "Switch to hidden",
+  "gui.showBlockScreen.display.off": "Switch to visible",
+  "gui.showBlockScreen.display.on.button": "Hide",
+  "gui.showBlockScreen.display.off.button": "Show"
+
+}

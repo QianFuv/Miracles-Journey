@@ -1,0 +1,56 @@
+{
+  "entity.oddorganisms.dawn_horse": "Dawn Horse",
+  "entity.oddorganisms.doedicurus": "Doedicurus",
+  "entity.oddorganisms.eolactoria": "Eolactoria",
+  "entity.oddorganisms.apthoroblattina": "Apthoroblattina",
+  "entity.oddorganisms.leptictidium": "Leptictidium",
+  "entity.oddorganisms.borealopelta": "Borealopelta",
+  "entity.oddorganisms.falcatus": "Falcatus",
+  "entity.oddorganisms.slovenicus": "Slovenicus",
+
+  "item.oddorganisms.dawn_horse_spawn_egg": "Dawn Horse Spawn Egg",
+  "item.oddorganisms.doedicurus_spawn_egg": "Doedicurus Spawn Egg",
+  "item.oddorganisms.eolactoria_spawn_egg": "Eolactoria Spawn Egg",
+  "item.oddorganisms.apthoroblattina_spawn_egg": "Apthoroblattina Spawn Egg",
+  "item.oddorganisms.leptictidium_spawn_egg": "Leptictidium Spawn Egg",
+  "item.oddorganisms.borealopelta_spawn_egg": "Borealopelta Spawn Egg",
+  "item.oddorganisms.falcatus_spawn_egg": "Falcatus Spawn Egg",
+  "item.oddorganisms.slovenicus_spawn_egg": "Slovenicus Spawn Egg",
+
+  "item.oddorganisms.dawn_horse_flask": "Dawn Horse DNA Flask",
+  "item.oddorganisms.doedicurus_flask": "Doedicurus DNA Flask",
+  "item.oddorganisms.eolactoria_flask": "Eolactoria DNA Flask",
+  "item.oddorganisms.apthoroblattina_flask": "Apthoroblattina DNA Flask",
+  "item.oddorganisms.leptictidium_flask": "Leptictidium DNA Flask",
+  "item.oddorganisms.borealopelta_flask": "Borealopelta DNA Flask",
+  "item.oddorganisms.falcatus_flask": "Falcatus DNA Flask",
+  "item.oddorganisms.slovenicus_flask": "Slovenicus DNA Flask",
+
+  "item.oddorganisms.dawn_horse_embryo": "Dawn Horse Embryo",
+  "item.oddorganisms.doedicurus_embryo": "Doedicurus Embryo",
+  "item.oddorganisms.leptictidium_embryo": "Leptictidium Embryo",
+
+  "item.oddorganisms.apthoroblattina_ootheca": "Apthoroblattina Ootheca",
+
+  "item.oddorganisms.eolactoria_bucket": "Bucket of Eolactoria",
+  "item.oddorganisms.falcatus_bucket": "Bucket of Falcatus",
+  "item.oddorganisms.slovenicus_bucket": "Bucket of Slovenicus",
+
+  "item.oddorganisms.doedicurus_chestplate": "Doedicurus Chestplate",
+  "item.oddorganisms.doedicurus_scute": "Doedicurus Scute",
+
+  "block.oddorganisms.eolactoria_eggs": "Eolactoria Eggs",
+  "block.oddorganisms.falcatus_eggs": "Falcatus Eggs",
+  "block.oddorganisms.slovenicus_eggs": "Slovenicus Eggs",
+  "block.oddorganisms.borealopelta_egg": "Borealopelta Egg",
+
+  "itemGroup.oddorganisms": "Odd Organisms",
+
+  "oddorganisms.doedicurus.ambient": "Doedicurus grunts",
+  "oddorganisms.doedicurus.hurt": "Doedicurus hurts",
+  "oddorganisms.doedicurus.death": "Doedicurus dies",
+  "oddorganisms.leptictidium.ambient": "Leptictidium squeaks",
+  "oddorganisms.leptictidium.hurt": "Leptictidium hurts",
+  "oddorganisms.leptictidium.death": "Leptictidium dies",
+  "oddorganisms.leptictidium.scared": "Leptictidium whimpers"
+}

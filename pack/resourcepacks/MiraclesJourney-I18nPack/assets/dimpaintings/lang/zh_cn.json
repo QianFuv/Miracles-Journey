@@ -1,0 +1,10 @@
+{
+  "itemGroup.dimpaintings": "维度绘画",
+  "item.dimpaintings.overworld_painting": "主世界绘画",
+  "item.dimpaintings.nether_painting": "下界绘画",
+  "item.dimpaintings.end_painting": "末地绘画",
+
+  "dimpaintings.same_dimension": "不能传送到同一纬度",
+  "dimpaintings.cooldown": "传送冷却中",
+  "entity.dimpaintings.dimensional_painting": "Dimensional Painting"
+}

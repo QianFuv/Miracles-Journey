@@ -1,0 +1,22 @@
+{
+  "block.ccomunityboxes.painter": "Industrial painter",
+  "creativetab.box_tab": "Create: More Packages",
+
+  "ccomunityboxes.ponder.painting.header": "Painter with water",
+  "ccomunityboxes.ponder.painting.text_1": "Industrial painter is able to recolor packages",
+  "ccomunityboxes.ponder.painting.text_2": "Place spout above",
+  "ccomunityboxes.ponder.painting.text_3": "Fill spout with water",
+  "ccomunityboxes.ponder.painting.text_4": "Configure the filter",
+  "ccomunityboxes.ponder.painting.text_5": "Without a filter the output will be random",
+
+  "ccomunityboxes.ponder.paintingrare.header": "Painter with ink",
+  "ccomunityboxes.ponder.paintingrare.text_1": "Use ink instead of water to make rare boxes",
+  "ccomunityboxes.ponder.paintingrare.text_2": "Without a filter in the output will be random rare package",
+
+  "item.ccomunityboxes.ink_bucket": "Bucket of ink",
+  "item.ccomunityboxes.roze_quartz_powder": "Roze quartz powder",
+
+  "fluid_type.ccomunityboxes.ink_fluid": "Obsidian ink",
+
+  "entity.ccomunityboxes.custom_package": "Cardboard package"
+}

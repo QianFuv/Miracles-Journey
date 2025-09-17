@@ -1,0 +1,6 @@
+{
+  "doespotatotick.warn.ftbchunks.present": "Does Potato Tick is installed in this server. If you find your mobfarm not working when you are far from it, try to use FTB Chunks to claim the chunks of it. You can disable this message in Does Potato Tick's config.",
+  "doespotatotick.warn.openpartiesandclaims.present": "Does Potato Tick is installed in this server. If you find your mobfarm not working when you are far from it, try to use Open Parties And Claims to claim the chunks of it. You can disable this message in Does Potato Tick's config.",
+  "doespotatotick.warn.both.present": "Does Potato Tick is installed in this server. If you find your mobfarm not working when you are far from it, try to use FTB Chunks or Open Parties And Claims to claim the chunks of it. You can disable this message in Does Potato Tick's config.",
+  "doespotatotick.warn.notfound": "Does Potato Tick is installed but FTB Chunks or Open Parties And Claims is not. If you find your mobfarm not working when you are far from it, try to install one of them and claim the chunks of it. You can disable this message in Does Potato Tick's config."
+}

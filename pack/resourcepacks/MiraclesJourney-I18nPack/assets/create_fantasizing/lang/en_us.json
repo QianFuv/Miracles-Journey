@@ -1,0 +1,22 @@
+{
+  "itemGroup.create_fantasizing": "Create: Fantasizing Again",
+
+  "block.create_fantasizing.compact_hydraulic_engine": "Compact Hydraulic Engine",
+  "item.create_fantasizing.incomplete_compact_hydraulic_engine": "Incomplete Compact Hydraulic Engine",
+  "block.create_fantasizing.compact_wind_engine": "Compact Wind Engine",
+  "item.create_fantasizing.incomplete_compact_wind_engine": "Incomplete Compact Wind Engine",
+  "block.create_fantasizing.sturdy_girder": "Sturdy Girder",
+  "block.create_fantasizing.sturdy_girder_encased_shaft": "Sturdy Girder Encased Shaft",
+  "item.create_fantasizing.tree_cutter": "Tree Cutter",
+  "item.create_fantasizing.block_placer": "Block Placer",
+  "item.create_fantasizing.block_placer.not_enough_blocks": "Not holding enough blocks!",
+  "block.create_fantasizing.transporter": "Transporter",
+  "item.create_fantasizing.prismarine_fan_blades": "Prismarine Fan Blades",
+  "item.create_fantasizing.sturdy_conduit": "Sturdy Conduit",
+  "item.create_fantasizing.sturdy_heavy_core": "Sturdy Heavy Core",
+
+  "create_fantasizing.configuration.hydraulic_engine_stress_provide": "Hydraulic Engine Stress provide",
+  "create_fantasizing.configuration.hydraulic_engine_stress_provide.tooltip": "\u00A7eNeed to re-enter the world",
+  "create_fantasizing.configuration.wind_engine_stress_provide": "Wind Engine Stress provide",
+  "create_fantasizing.configuration.wind_engine_stress_provide.tooltip": "\u00A7eNeed to re-enter the world"
+}

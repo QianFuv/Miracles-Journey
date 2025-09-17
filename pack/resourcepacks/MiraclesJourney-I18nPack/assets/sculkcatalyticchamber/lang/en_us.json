@@ -1,0 +1,13 @@
+{
+  "itemGroup.sculkcatalyticchamber": "Create: Abyss Catalysis",
+  "key.sculkcatalyticchamber.category": "Create: Abyss Catalysis",
+
+  "block.sculkcatalyticchamber.chamber_top": "Chamber",
+  "block.sculkcatalyticchamber.chamber_middle": "Catalyst Chamber",
+  "block.sculkcatalyticchamber.chamber": "Chamber",
+  "block.sculkcatalyticchamber.mechanical_shrieker": "Mechanical Shrieker",
+
+  "sculkcatalyticchamber.recipe.chamber": "Sculk Catalytic Chamber",
+
+  "sculkcatalyticchamber.gui.goggles.chamber_contents": "Chamber Contents:"
+}

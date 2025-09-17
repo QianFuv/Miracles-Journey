@@ -1,0 +1,26 @@
+{
+  "key.categories.bestiary": "Bestia",
+
+  "key.bestiary.open": "Open Bestiary",
+
+  "buff.special.bestia.reroll": "Reroll",
+  "buff.special.bestia.execute": "Execute",
+  "buff.special.bestia.lifesteal": "Lifesteal",
+  "buff.special.bestia.reflex": "Reflex",
+  "buff.special.bestia.daze": "Daze",
+  "buff.special.bestia.hold": "Hold",
+
+  "buff.special.bestia.reroll.info": "Roll's this mobs loot table %s time(s).",
+  "buff.special.bestia.execute.info": "Kills this mob if it's health is below %s%%.",
+  "buff.special.bestia.lifesteal.info": "Heals player for %s%% of the damage dealt to this mob.",
+  "buff.special.bestia.reflex.info": "Deals %s knockback to this mob upon being attacked.",
+  "buff.special.bestia.daze.info": "Disable this mobs targeting AI for %s ticks upon attacking.",
+  "buff.special.bestia.hold.info": "Disable dealing knockback to this mob.",
+
+  "buff.special.bestia.reroll.info.unleveled": "Roll this mobs loot table more than once.",
+  "buff.special.bestia.execute.info.unleveled": "Kill this mob if its health is below a certain percent.",
+  "buff.special.bestia.lifesteal.info.unleveled": "Heals player upon damaging this mob.",
+  "buff.special.bestia.reflex.info.unleveled": "Push this mob away when it attacks you.",
+  "buff.special.bestia.daze.info.unleveled": "Upon attacking this mob, disable its targeting AI temporarily.",
+  "buff.special.bestia.hold.info.unleveled": "Disable dealing knockback to this mob."
+}

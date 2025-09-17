@@ -1,0 +1,16 @@
+﻿{
+  "satisfying_buttons.configuration.AnimationEnabled": "Animation Enabled",
+  "satisfying_buttons.configuration.DarkenButtonOnHover": "Darken Button On Hover",
+
+  "satisfying_buttons.configuration.DarkenButtonOnHoverTime": "Darken On Hover Time",
+  "satisfying_buttons.configuration.DarkenButtonColor": "Darken Color",
+
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTexture": "Fade In Vanilla Texture",
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTextureOnHoverTime": "Fade In Vanilla Time",
+
+  "satisfying_buttons.configuration.SoundEnabled": "Sound Enabled",
+  "satisfying_buttons.configuration.ButtonUnhoverSoundEnabled": "Unhover Sound Enabled",
+
+  "satisfying_buttons.configuration.ButtonSoundVolume": "Sound Volume",
+  "satisfying_buttons.configuration.ButtonSoundPitch": "Sound Pitch"
+}

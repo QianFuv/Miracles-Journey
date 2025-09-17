@@ -1,0 +1,9 @@
+{
+  "block.canonnukes.nuke_shell": "Nuclear Shell",
+  "block.createnukecannon.nuke_shell.tooltip.behaviour2": "Unleashes a powerful nuclear blast, devastating the immediate area in an inferno and irradiating the surrounding environment.",
+  "block.createnukecannon.nuke_shell.tooltip.condition2": "On Detonation",
+  "block.createnukecannon.nuke_shell.tooltip.behaviour1": "§cA §cfuse §cis §c§l_required_ §cfor §cdetonation - §cit will §c§l_NOT_ §cexplode §con §cits §cown.",
+  "block.createnukecannon.nuke_shell.tooltip.condition1": "§cImportant",
+  "block.createnukecannon.nuke_shell.tooltip.summary": "\"Now, I am become _Death_, the destroyer of worlds.\"",
+  "entity.canonnukes.nuke_shell": "Nuclear Shell"
+}

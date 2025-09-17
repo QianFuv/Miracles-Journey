@@ -1,0 +1,17 @@
+{
+  "hexcasting.action.hexflow:pure_map": "Pure Thoth",
+  "hexcasting.action.hexflow:pure_reduce": "Conway's Gambit",
+  "hexcasting.action.hexflow:build_nested": "Build Nested",
+  "hexcasting.action.hexflow:nested_modify": "Transplant's Exaltation",
+  "hexcasting.action.hexflow:noob_num": "Noob Num Reflection",
+  "hexcasting.action.hexflow:mass_rotate": "Mass Rotation Gambit",
+  "hexcasting.action.hexflow:weak_escape": "Contemplation",
+  "hexflow.book.entry": "HexFlow Patterns",
+  "book.descrip.hexflow:pure_map": "Similar to $(l:patterns/meta#hexcasting:for_each)$(action)Thoth's Gambit/$, but won't copy the original stack inside each sub-execution.",
+  "book.descrip.hexflow:pure_reduce": "Similar to $(l:patterns/meta#hexcasting:for_each)$(action)Thoth's Gambit/$; for data list with length $(bold)n/$, it executes $(bold)n - 1/$ times; The first initial stack is the first two elements, and each subsequent execution uses the stack after the last execution.",
+  "book.descrip.hexflow:build_nested": "Copy list #0 and set back to index #1",
+  "book.descrip.hexflow:nested_modify": "List iota #0 is the nested list to be modified. According to the index sequence given by list #1, traverses to the inner layer, and sets the corresponding element to iota #2.",
+  "book.descrip.hexflow:noob_num": "The starting cumulative number is 0; putting the initial direction to →, all ↗ makes the result $(bold)* 2 + 1/$, all → makes it $(bold)* 2/$, and all ↘ for $(bold)/ 10/$. Starting with the patterns on the right negates the result.",
+  "book.descrip.hexflow:mass_rotate": "Accepts the size to reorder and a bottom-to-top order list, and do the corresponding reorder to the rest of the stack. For example, $(bold)3/$ plus $(bold)[1,2,0]/$ for $(l:patterns/stackmanip#hexcasting:rotate)$(action)Rotation Gambit/$, and $(bold)2/$ plus $(bold)[0,1,0,1]/$ for $(l:patterns/stackmanip#hexcasting:2dup)$(action)Dioscuri Gambit/$",
+  "book.descrip.hexflow:weak_escape": "Same as $(l:patterns/patterns_as_iotas#hexcasting:escape)$(action)Consideration/$, but with lowest execution priority, and won't grow in $(bold)2^n/$ formula exponentially inside nested $(l:patterns/patterns_as_iotas#hexcasting:open_paren)$(action)Intro-Retro/$s"
+}

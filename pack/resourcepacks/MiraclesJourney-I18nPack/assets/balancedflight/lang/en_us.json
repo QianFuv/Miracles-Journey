@@ -1,0 +1,14 @@
+{
+  "balancedflight.ponder.flight_anchor.header": "Powered flight with Rotational Force",
+  "balancedflight.ponder.flight_anchor.text_1": "The flight anchor requires an immense amount of power to operate.",
+  "balancedflight.ponder.flight_anchor.text_2": "For each RPM, you will be able to fly one block around the anchor.",
+  "balancedflight.ponder.flight_anchor.text_3": "Higher speeds cover a much higher surface area.",
+  "balancedflight.ponder.tag.flight_anchor": "Flight Anchor",
+  "balancedflight.ponder.tag.flight_anchor.description": "Powered flight with Rotational Force",
+  "block.balancedflight.flight_anchor": "Flight Anchor",
+  "curios.identifier.flight_ring": "Flight Ring",
+  "item.balancedflight.ascended_flight_ring": "Ascended Flight Ring",
+  "itemGroup.balancedflight.base": "Create: Balanced Flight",
+  "tooltip.balancedflight.ascended_flight_ring": "An incredibly dense golden ring, and yet, it allows flight anywhere.",
+  "tooltip.balancedflight.flight_anchor": "Allows flight in a 25 block radius. Only works in the overworld."
+}

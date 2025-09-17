@@ -1,0 +1,54 @@
+{
+  "item.trailandtales_delight.cherry_blossom": "Cherry Blossom",
+  "item.trailandtales_delight.cherry_petal": "Cherry Petal",
+  "item.trailandtales_delight.dried_cherry_petal": "Dried Cherry Petal",
+  "item.trailandtales_delight.pottery_bowl": "Pottery Bowl",
+  "block.trailandtales_delight.pottery_cooking_pot": "Pottery Cooking Pot",
+  "block.trailandtales_delight.mud_stove": "Mud Stove",
+  "item.trailandtales_delight.baked_pitcher_pod": "Baked Pitcher Pod",
+  "item.trailandtales_delight.baked_torchflower_seeds": "Baked Torchflower Seeds",
+  "item.trailandtales_delight.cheese_slice": "Cheese Slice",
+  "item.trailandtales_delight.lantern_fruit_seeds": "Lantern Fruit Seeds",
+  "item.trailandtales_delight.lantern_fruit": "Lantern Fruit",
+  "item.trailandtales_delight.pitcher_plant": "Pitcher Plant",
+  "item.trailandtales_delight.golden_lantern_fruit": "Golden Lantern Fruit",
+  "item.trailandtales_delight.pitcher_taro": "Pitcher Taro",
+  "item.trailandtales_delight.cooked_pitcher_taro": "Cooked Pitcher Taro",
+  "item.trailandtales_delight.cherry_cheese_slice": "Cherry Cheese Slice",
+  "item.trailandtales_delight.cherry_cake_slice": "Cherry Cake Slice",
+  "item.trailandtales_delight.cherry_cheese_pie_slice": "Cherry Cheese Pie Slice",
+  "item.trailandtales_delight.sniffer_eggshell_slice": "Sniffer Eggshell Slice",
+  "item.trailandtales_delight.fried_sniffer_egg": "Fried Sniffer Egg",
+  "item.trailandtales_delight.stuffed_sniffer_egg": "Bowl of Stuffed Sniffer Egg",
+  "item.trailandtales_delight.sniffer_egg_soup": "Bowl of Sniffer Egg Soup",
+
+  "item.trailandtales_delight.cherry_petal_tea": "Cherry Petal Tea",
+  "item.trailandtales_delight.torchflower_tea": "Torchflower Tea",
+  "item.trailandtales_delight.pitcher_plant_tea": "Pitcher Plant Tea",
+  "item.trailandtales_delight.ancient_coffee": "Ancient Coffee",
+
+  "block.trailandtales_delight.budding_lantern_fruit": "Budding Lantern Fruit",
+  "block.trailandtales_delight.lantern_fruits": "Lantern Fruit Vine",
+  "block.trailandtales_delight.lantern_fruit_crate": "Lantern Fruit Crate",
+  "block.trailandtales_delight.pitcher_taro_crate": "Pitcher Taro Crate",
+
+  "block.trailandtales_delight.cheese_wheel": "Cheese Wheel",
+  "block.trailandtales_delight.curd_block": "Curd Block",
+  "block.trailandtales_delight.cherry_cake": "Cherry Cake",
+  "block.trailandtales_delight.cherry_cheese_pie": "Cherry Cheese Pie",
+  "block.trailandtales_delight.sniffer_eggshell": "Sniffer Eggshell",
+  "block.trailandtales_delight.cooked_sniffer_egg_block": "Cooked Sniffer Egg",
+  "block.trailandtales_delight.stuffed_sniffer_egg_block": "Stuffed Sniffer Egg",
+  "block.trailandtales_delight.sniffer_egg_soup": "Sniffer Egg Soup",
+
+  "item.trailandtales_delight.cherry_iron_knife": "Cherry Iron Knife",
+  "item.trailandtales_delight.sniffer_eggshell_knife": "Sniffer Eggshell Knife",
+
+  "block.trailandtales_delight.curd_block.tooltip":"When the Curd Block is in a low brightness environment, it will transform into a cheese wheel after waiting for a period of time",
+  "item.trailandtales_delight.pitcher_plant.tooltip":"Only used as raw material. Cutting it with a knife in a Cutting Board can obtain Pitcher Plant and Pitcher Taro",
+
+  "advancements.tat_delight.title": "Trail&Tales Delight",
+  "advancements.tat_delight.descr": "Embark on the journey with the fragrance of cherry blossoms and the ancient charm...",
+
+  "ItemGroup.trailandtales_delight.item": "Trail&Tales Delight"
+}

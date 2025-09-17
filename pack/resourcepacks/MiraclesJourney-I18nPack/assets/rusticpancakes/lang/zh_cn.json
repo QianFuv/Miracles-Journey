@@ -1,0 +1,17 @@
+{
+  "block.rusticpancakes.cherry_blossom_pancakes": "樱花煎饼",
+  "block.rusticpancakes.chocolate_pancakes": "巧克力煎饼",
+  "block.rusticpancakes.honey_pancakes": "蜂蜜煎饼",
+  "block.rusticpancakes.pancakes": "煎饼",
+  "block.rusticpancakes.pumpkin_pancakes": "南瓜煎饼",
+  "block.rusticpancakes.vegetable_pancakes": "蔬菜煎饼",
+  "item.rusticpancakes.batter": "面糊",
+  "item.rusticpancakes.cherry_blossom_pancake": "樱花煎饼",
+  "item.rusticpancakes.chocolate_pancake": "巧克力煎饼",
+  "item.rusticpancakes.honey_pancake": "蜂蜜煎饼",
+  "item.rusticpancakes.pancake": "煎饼",
+  "item.rusticpancakes.pumpkin_pancake": "南瓜煎饼",
+  "item.rusticpancakes.syrup": "糖浆",
+  "item.rusticpancakes.vegetable_pancake": "蔬菜煎饼",
+  "itemGroup.rusticpancakes": "Rustic Pancakes"
+}

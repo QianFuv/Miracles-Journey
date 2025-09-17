@@ -1,0 +1,11 @@
+{
+  "item.backstabreforged.wood_dagger": "Wooden Dagger",
+  "item.backstabreforged.stone_dagger": "Stone Dagger",
+  "item.backstabreforged.iron_dagger": "Iron Dagger",
+  "item.backstabreforged.gold_dagger": "Golden Dagger",
+  "item.backstabreforged.diamond_dagger": "Diamond Dagger",
+  "item.backstabreforged.netherite_dagger": "Netherite Dagger",
+
+  "death.attack.backstab": "%1$s was assassinated by %2$s",
+  "death.attack.backstab.item": "%1$s was assassinated by %2$s using %3$s"
+}

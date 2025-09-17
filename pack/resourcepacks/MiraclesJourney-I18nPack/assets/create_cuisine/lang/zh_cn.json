@@ -1,0 +1,7 @@
+{
+  "create_cuisine.ponder.add_food.header": "动力臂与炒锅",
+  "create_cuisine.ponder.add_food.text_1": "机械臂可以将食物放入加热的炒锅（注意，是炒锅！不是煎锅！）。",
+  "create_cuisine.ponder.add_food.text_2": "机械臂也可以尝试把装有食物的包裹加入炒锅。",
+  "create_cuisine.ponder.add_food.text_3": "当机械臂持有铲子时，若炒锅内有食物，则机械臂将一直翻炒，直至炒锅内无食物。",
+  "create_cuisine.ponder.add_food.text_4": "当机械臂持有盘子时，按图示顺序选择出口，则可先从炒锅获取料理，再送到下一出口。"
+}

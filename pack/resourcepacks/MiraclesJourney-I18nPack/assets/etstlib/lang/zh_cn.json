@@ -1,0 +1,178 @@
+{
+  "tooltip.etstlib.energy_storage": "能量存储",
+  "tooltip.etstlib.max_transfer": "能量传输",
+  "tooltip.etstlib.air": "压缩空气存储",
+  "tooltip.etstlib.base_volume": "基础压缩空气容量",
+  "tooltip.etstlib.max_pressure": "压力",
+  "tooltip.etstlib.pressure_bonus": "压缩空气属性增幅",
+  "tooltip.etstlib.radiation_shielding": "辐射防护",
+
+
+  "tool_stat.etstlib.max_energy": "能量上限：",
+  "tool_stat.etstlib.max_energy.description": "你工具能存储的最大FE。",
+  "tool_stat.etstlib.max_transfer": "传输上限：",
+  "tool_stat.etstlib.max_transfer.description": "决定了工具充放电的最大速度。",
+  "tool_stat.etstlib.basic_air_capacity": "基础空气容量：",
+  "tool_stat.etstlib.basic_air_capacity.description": "压缩空气存储（PnC）的最大容量",
+  "tool_stat.etstlib.max_pressure": "最大压力：",
+  "tool_stat.etstlib.max_pressure.description": "你工具存储压缩空气的最大压力。\n过压不会使你工具爆炸。",
+  "tool_stat.etstlib.radiation_protect": "辐射抗性：",
+  "tool_stat.etstlib.radiation_protect.description": "对Mek辐射的防护能力。",
+
+
+  "modifier.etstlib.anti_stun_glasses": "防眩目镜",
+  "modifier.etstlib.anti_stun_glasses.flavor": "指的是防止屏幕前的你晕眩",
+  "modifier.etstlib.anti_stun_glasses.description":"取消受伤时的屏幕抖动和视角场效果，免疫反胃。",
+
+  "modifier.etstlib.energy_shield": "能量护盾",
+  "modifier.etstlib.energy_shield.flavor": "谁会不喜欢一面能量力场组成的护盾呢？",
+  "modifier.etstlib.energy_shield.description":"消耗FE格挡伤害，每10kFE格挡1伤害。若装备的当前电量无法完全格挡，则以一半的FE效率消耗全身带有此属性的装备的能量格挡。",
+
+  "modifier.etstlib.radiation_shielding": "辐射防护",
+  "modifier.etstlib.radiation_shielding.flavor": "拜拜辐射",
+  "modifier.etstlib.radiation_shielding.description":"每级提供10%的辐射防护",
+
+  "modifier.etstlib.energy_loaded": "能量装载",
+  "modifier.etstlib.energy_loaded.flavor": "电动工具！",
+  "modifier.etstlib.energy_loaded.description":"你的工具会优先消耗能量存储而非耐久。",
+
+  "modifier.etstlib.applied_fixing": "Fluix能量修复",
+  "modifier.etstlib.applied_fixing.flavor": "如同水晶般生长",
+  "modifier.etstlib.applied_fixing.description":"置于AE2充能器中时缓缓修复自身。",
+
+  "modifier.etstlib.atomic_decompose": "原子分解",
+  "modifier.etstlib.atomic_decompose.flavor": "原子级解离！",
+  "modifier.etstlib.atomic_decompose.description":"你的挖掘速度固定为工具的挖掘速度，无视挖掘等级。",
+
+  "modifier.etstlib.aerial_reinforced": "空气动力学",
+  "modifier.etstlib.aerial_reinforced.flavor": "压缩空气强化！",
+  "modifier.etstlib.aerial_reinforced.description":"根据气压提升玩家的部分属性。使用时优先消耗压缩空气而非耐久。",
+
+  "modifier.etstlib.clearing": "洁净",
+  "modifier.etstlib.clearing.flavor": "清除污浊",
+  "modifier.etstlib.clearing.description":"免疫中毒和凋零效果。",
+
+  "modifier.etstlib.energetic_attack": "充能打击",
+  "modifier.etstlib.energetic_attack.flavor": "压电",
+  "modifier.etstlib.energetic_attack.description":"全力打击时对目标施加少量魔法伤害。",
+
+  "modifier.etstlib.radiation_inflict": "辐射附加",
+  "modifier.etstlib.radiation_inflict.flavor": "铀辐同享",
+  "modifier.etstlib.radiation_inflict.description":"全力打击时对目标施加100mSv辐射。",
+
+  "modifier.etstlib.momentum_accelerate": "惯性加速",
+  "modifier.etstlib.momentum_accelerate.flavor": "p=mv",
+  "modifier.etstlib.momentum_accelerate.description":"工具-20%攻击速度和挖掘速度，但是会随着使用变得更加趁手。",
+
+  "modifier.etstlib.magic_strike": "魔法打击",
+  "modifier.etstlib.magic_strike.flavor": "给你变个法术！",
+  "modifier.etstlib.magic_strike.description":"全力打击时将工具的伤害转换为魔法伤害。",
+
+  "modifier.etstlib.critical": "暴击",
+  "modifier.etstlib.critical.flavor": "致命一击",
+  "modifier.etstlib.critical.description":"全力打击时必定暴击。",
+
+  "modifier.etstlib.armor_piercing": "护甲穿透",
+  "modifier.etstlib.armor_piercing.flavor": "最利之矛",
+  "modifier.etstlib.armor_piercing.description":"每级提供25%穿甲。",
+
+  "modifier.etstlib.mana_repair": "魔力修复",
+  "modifier.etstlib.mana_repair.flavor": "魔力与熵",
+  "modifier.etstlib.mana_repair.description":"工具会缓慢消耗魔力修复自身。",
+
+  "modifier.etstlib.terra_beam": "泰拉射线",
+  "modifier.etstlib.terra_beam.flavor": "并非泰拉",
+  "modifier.etstlib.terra_beam.description":"挥舞武器时，消耗魔力释放泰拉射线。",
+
+  "modifier.etstlib.reality_breaker": "现实破坏者",
+  "modifier.etstlib.reality_breaker.flavor": "破坏“目标无敌”的现实",
+  "modifier.etstlib.reality_breaker.description":"使你的攻击穿透大部分原版防御手段。",
+
+  "modifier.etstlib.photosynthesis_guide": "光合制导",
+  "modifier.etstlib.photosynthesis_guide.flavor": "在光的作用下，植物中的生长激素定向迁移，导致植物向光生长...",
+  "modifier.etstlib.photosynthesis_guide.description":"你射出的箭矢会略微追踪。",
+
+  "modifier.etstlib.warp_attack": "折跃攻击",
+  "modifier.etstlib.warp_attack.flavor": "呱，是自瞄挂！",
+  "modifier.etstlib.warp_attack.description":"当你未命中敌人时你会命中敌人。",
+
+  "modifier.etstlib.anisotropy": "各向异性",
+  "modifier.etstlib.anisotropy.flavor": "单晶的基本特性",
+  "modifier.etstlib.anisotropy.description": "增加工具全力打击时的伤害，减少不全力打击时的伤害，工具耐久越满这个效果越明显。",
+
+  "modifier.etstlib.crystal_armor": "晶质护甲",
+  "modifier.etstlib.crystal_armor.flavor": "单晶的基本特性",
+  "modifier.etstlib.crystal_armor.description": "受伤时减少小于5点的伤害，增加大于5点的伤害。",
+
+  "modifier.etstlib.glowing": "外发光",
+  "modifier.etstlib.glowing.flavor": "荧光物质",
+  "modifier.etstlib.glowing.description": "装备时获得夜视效果，攻击/被攻击时高亮对方。",
+
+  "modifier.etstlib.short_circuit": "短路",
+  "modifier.etstlib.short_circuit.flavor": "扰乱生物电",
+  "modifier.etstlib.short_circuit.description": "攻击时移除敌人无敌帧。",
+
+  "modifier.etstlib.rude": "粗鲁",
+  "modifier.etstlib.rude.flavor": "不是很有礼貌",
+  "modifier.etstlib.rude.description": "对血量高于25的生物必定暴击。",
+
+  "modifier.etstlib.executioner": "刽子手",
+  "modifier.etstlib.executioner.flavor": "干净利落，没有仁慈",
+  "modifier.etstlib.executioner.description": "你的攻击无视敌人的无敌帧。",
+
+  "modifier.etstlib.global_traveler": "环球旅行者",
+  "modifier.etstlib.global_traveler.flavor": "全世界……折返",
+  "modifier.etstlib.global_traveler.description": "Shift-右键容器以绑定容器，此后工具的掉落物会存入其中。再次Shift-右键相同位置以解绑。",
+
+  "modifier.etstlib.void_insight": "虚无之窥视",
+  "modifier.etstlib.void_insight.flavor": "Null",
+  "modifier.etstlib.void_insight.description": "阻止大部分生物在你所在的世界生成。",
+
+  "modifier.etstlib.hardened": "硬化",
+  "modifier.etstlib.hardened.flavor": "稳如老狗！",
+  "modifier.etstlib.hardened.description": "每级增加10%的耐久和伤害减免。",
+
+  "modifier.etstlib.terrafirma": "坚实基础",
+  "modifier.etstlib.terrafirma.flavor": "大地本源的力量护佑着你",
+  "modifier.etstlib.terrafirma.description": "每秒给你恢复一定血量，等级越高效果越强。",
+
+  "modifier.etstlib.fatal": "致命创伤",
+  "modifier.etstlib.fatal.flavor": "他们逃不掉的",
+  "modifier.etstlib.fatal.description": "遏制目标的生命恢复。",
+
+  "modifier.etstlib.hyper_density": "严丝合缝",
+  "modifier.etstlib.hyper_density.flavor": "我们真的实现了零公差！",
+  "modifier.etstlib.hyper_density.description": "你受到的伤害会额外被护甲值减免1次。",
+
+  "modifier.etstlib.inert_metal": "惰性金属",
+  "modifier.etstlib.inert_metal.flavor": "耐腐蚀，抗氧化",
+  "modifier.etstlib.inert_metal.description": "每隔一段时间清除持有者身上的一个随机负面效果。",
+
+  "modifier.etstlib.secondary_armor": "慎重的勇士",
+  "modifier.etstlib.secondary_armor.flavor": "没想到吧，我还有隐藏护甲！",
+  "modifier.etstlib.secondary_armor.description": "允许你的护甲格挡穿甲伤害。",
+
+  "modifier.etstlib.extra_dense": "超级致密",
+  "modifier.etstlib.extra_dense.flavor": "质量高，“质量”更高！",
+  "modifier.etstlib.extra_dense.description": "工具具有更高的属性，但是变得更难修复。",
+
+  "modifier.etstlib.resonating": "稳态谐振",
+  "modifier.etstlib.resonating.flavor": "本关考验你听声辩位功夫",
+  "modifier.etstlib.resonating.description": "每隔一段时间，你会接收环境的声音，并根据声音的频率获得增益效果。",
+
+
+
+  "fluid_effect.etstlib.radiate_entity": "施加 %s 实体辐射",
+  "fluid_effect.etstlib.radiate_block": "施加 %s 环境辐射",
+  "fluid_effect.etstlib.clear_radiation": "消除 %s 区块内的辐射源",
+  "fluid_effect.etstlib.add_entity_ticker": "添加 %s 刻 %s 级的 ",
+
+
+
+  "entity_ticker.etstlib.freezing": "冻结",
+
+
+
+  "msg.etstlib.global_traveler.container_bind": "绑定容器",
+  "msg.etstlib.global_traveler.container_disbound": "解绑容器"
+}

@@ -1,0 +1,20 @@
+{
+  "itemGroup.igleelib.base": "Iglee's Library",
+
+  "block.igleelib.modium_block": "Modium Block",
+  "block.igleelib.derium_block": "Derium Block",
+  "block.igleelib.blazum_block": "Blazum Block",
+  "block.igleelib.lavium_block": "Lavium Block",
+
+  "item.igleelib.modium_ingot": "Modium Ingot",
+  "item.igleelib.derium_ingot": "Derium Ingot",
+  "item.igleelib.blazum_ingot": "Blazum Ingot",
+  "item.igleelib.lavium_ingot": "Lavium Ingot",
+  "item.igleelib.blaze_shard": "Blaze Shard",
+  "item.igleelib.iglium_upgrade_smithing_template": "Iglium Upgrade",
+
+  "item.igleelib.smithing_template.iglium_upgrade.additions_slot_description": "Add Diamond or Crying Obsidian or Blaze Rod or Blaze Shard",
+  "item.igleelib.smithing_template.iglium_upgrade.applies_to": "Netherite Ingot",
+  "item.igleelib.smithing_template.iglium_upgrade.base_slot_description": "Add Netherite Ingot",
+  "item.igleelib.smithing_template.iglium_upgrade.ingredients": "Diamond, Crying Obsidian, Blaze Rod, Blaze Shard"
+}

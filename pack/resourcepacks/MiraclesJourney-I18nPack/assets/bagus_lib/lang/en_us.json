@@ -1,0 +1,8 @@
+{
+  "baguslib.config.shakeCameraForVanilla": "Enable Shake Camera For Vanilla",
+  "bagus_lib.config.playableFirstPerson": "Playable First Person",
+  "command.bagus_lib.remove_all_dialog": "Successfully Removed All Dialog",
+  "command.bagus_lib.item_dialog": "Successfully add Item Dialog",
+  "command.bagus_lib.dialog": "Successfully add Dialog",
+  "command.bagus_lib.image_dialog": "Successfully add Image Dialog"
+}

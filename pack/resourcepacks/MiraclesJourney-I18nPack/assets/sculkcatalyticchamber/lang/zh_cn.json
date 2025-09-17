@@ -1,0 +1,13 @@
+{
+  "itemGroup.sculkcatalyticchamber": "机械动力：深渊催化",
+  "key.sculkcatalyticchamber.category": "机械动力：深渊催化",
+
+  "block.sculkcatalyticchamber.chamber_top": "深渊催化釜",
+  "block.sculkcatalyticchamber.chamber_middle": "深渊催化釜",
+  "block.sculkcatalyticchamber.chamber": "深渊催化釜",
+  "block.sculkcatalyticchamber.mechanical_shrieker": "深脉激发器",
+
+  "sculkcatalyticchamber.recipe.chamber": "深渊催化",
+
+  "sculkcatalyticchamber.gui.goggles.chamber_contents": "催化釜内含:"
+}

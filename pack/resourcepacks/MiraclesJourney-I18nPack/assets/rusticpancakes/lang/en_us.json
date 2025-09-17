@@ -1,0 +1,17 @@
+{
+  "block.rusticpancakes.cherry_blossom_pancakes": "Cherry Blossom Pancakes",
+  "block.rusticpancakes.chocolate_pancakes": "Chocolate Pancakes",
+  "block.rusticpancakes.honey_pancakes": "Honey Pancakes",
+  "block.rusticpancakes.pancakes": "Pancakes",
+  "block.rusticpancakes.pumpkin_pancakes": "Pumpkin Pancakes",
+  "block.rusticpancakes.vegetable_pancakes": "Vegetable Pancakes",
+  "item.rusticpancakes.batter": "Batter",
+  "item.rusticpancakes.cherry_blossom_pancake": "Cherry Blossom Pancake",
+  "item.rusticpancakes.chocolate_pancake": "Chocolate Pancake",
+  "item.rusticpancakes.honey_pancake": "Honey Pancake",
+  "item.rusticpancakes.pancake": "Pancake",
+  "item.rusticpancakes.pumpkin_pancake": "Pumpkin Pancake",
+  "item.rusticpancakes.syrup": "Syrup",
+  "item.rusticpancakes.vegetable_pancake": "Vegetable Pancake",
+  "itemGroup.rusticpancakes": "Rustic Pancakes"
+}

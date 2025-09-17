@@ -1,0 +1,19 @@
+{
+  "tt20.command.main.version": "Running TT20 version %s",
+  "tt20.command.main.enabled": "Enabled: %s",
+  "tt20.command.tps.line": "TPS %s with average %s accurate %s",
+  "tt20.command.tps.missed": "Missed ticks: %s",
+  "tt20.command.status.header": "--- TT20 Status ---",
+  "tt20.command.status.line": "%s: %s",
+  "tt20.command.status.footer": "--------------------",
+  "tt20.command.status.version": "\nVersion: %s",
+  "tt20.command.status.mspt": "MSPT: %s",
+  "tt20.command.toggle.feedback": "%s is now %s",
+  "tt20.command.toggle.unknown_key": "Unknown config key: %s",
+  "tt20.command.reload.config": "Reloaded config",
+  "tt20.command.reload.mask_config": "Reloaded block entity mask config",
+  "tt20.status.on": "§aON",
+  "tt20.status.off": "§cOFF",
+  "tt20.status.enabled": "§aenabled",
+  "tt20.status.disabled": "§cdisabled"
+}

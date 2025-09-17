@@ -1,0 +1,41 @@
+{
+  "itemGroup.bakeddelight": "Baked Delight",
+
+  "item.bakeddelight.chefs_hat": "Chef's Hat",
+  "item.bakeddelight.chefs_jacket": "Chef's Jacket",
+  "item.bakeddelight.chefs_pants": "Chef's Pants",
+  "item.bakeddelight.chefs_shoes": "Chef's Shoes",
+
+  "item.bakeddelight.rolling_pin": "Rolling pin",
+  "item.bakeddelight.ground_meat": "Ground Meat",
+  "item.bakeddelight.cooked_ground_meat": "Cooked Ground Meat",
+  "item.bakeddelight.lasagna_pasta": "Lasagna Pasta",
+  "item.bakeddelight.sliced_potato": "Sliced Potato",
+  "item.bakeddelight.sliced_eggplant": "Sliced Eggplant",
+  "item.bakeddelight.sliced_zucchini": "Sliced Zucchini",
+  "item.bakeddelight.sliced_tomato": "Sliced Tomato",
+  "item.bakeddelight.cheese": "Cheese",
+  "item.bakeddelight.bacon_bits": "Bacon Bits",
+  "item.bakeddelight.cooked_bacon_bits": "Cooked Bacon Bits",
+  "item.bakeddelight.lasagna_slice": "Lasagna Slice",
+  "item.bakeddelight.gratin_slice": "Gratin Slice",
+  "item.bakeddelight.moussaka_slice": "Moussaka Slice",
+  "item.bakeddelight.tian_slice": "Tian Slice",
+  "item.bakeddelight.bolognese": "Bolognese",
+  "item.bakeddelight.bacon_cream": "Bacon Cream",
+
+  "item.bakeddelight.eggplant_seed": "Eggplant Seed",
+  "item.bakeddelight.eggplant": "Eggplant",
+  "item.bakeddelight.zucchini_seed": "Zucchini Seed",
+  "item.bakeddelight.zucchini": "Zucchini",
+
+  "block.bakeddelight.baking_dish" : "Baking Dish",
+  "block.bakeddelight.uncooked_lasagna_dish": "Uncooked Lasagna",
+  "block.bakeddelight.cooked_lasagna_dish": "Cooked Lasagna",
+  "block.bakeddelight.uncooked_gratin_dish": "Uncooked Gratin",
+  "block.bakeddelight.cooked_gratin_dish": "Cooked Gratin",
+  "block.bakeddelight.uncooked_moussaka_dish": "Uncooked Moussaka",
+  "block.bakeddelight.cooked_moussaka_dish": "Cooked Moussaka",
+  "block.bakeddelight.uncooked_tian_dish": "Uncooked Tian",
+  "block.bakeddelight.cooked_tian_dish": "Cooked Tian"
+}

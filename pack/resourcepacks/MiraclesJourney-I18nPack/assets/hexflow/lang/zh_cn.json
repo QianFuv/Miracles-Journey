@@ -1,0 +1,17 @@
+{
+  "hexcasting.action.hexflow:pure_map": "纯净托特",
+  "hexcasting.action.hexflow:pure_reduce": "康威之策略",
+  "hexcasting.action.hexflow:build_nested": "套娃",
+  "hexcasting.action.hexflow:nested_modify": "器官移植之提整",
+  "hexcasting.action.hexflow:noob_num": "菜鸟数字精思",
+  "hexcasting.action.hexflow:mass_rotate": "大型轮换之策略",
+  "hexcasting.action.hexflow:weak_escape": "弱考察",
+  "hexflow.book.entry": "HexFlow新增图案",
+  "book.descrip.hexflow:pure_map": "类似$(l:patterns/meta#hexcasting:for_each)$(action)托特之策略/$，但不拷贝初始栈。",
+  "book.descrip.hexflow:pure_reduce": "类似$(l:patterns/meta#hexcasting:for_each)$(action)托特之策略/$；对长度$(bold)n/$的列表只执行$(bold)n - 1/$次，第一次初始栈为前2个元素，随后每次执行使用上次执行后的栈。",
+  "book.descrip.hexflow:build_nested": "将#0列表复制并写回#1下标处",
+  "book.descrip.hexflow:nested_modify": "输入#0为待修改嵌套列表，将按照#1数字列表给定的下标顺序逐级深入，在最后一层将对应元素设置为#2内容；$(br)返回修改后的嵌套列表。",
+  "book.descrip.hexflow:noob_num": "起始累计数字为0；将初始方向置于→，所有↗将使结果$(bold)* 2 + 1/$，所有→使结果$(bold)* 2/$，所有↘使结果$(bold)/ 10/$。右侧图案将使总结果取相反数。",
+  "book.descrip.hexflow:mass_rotate": "接收重排范围和自底向上的序号列表，对剩余栈执行相应重排动作。例如，$(bold)3/$和$(bold)[1,2,0]/$对应$(l:patterns/stackmanip#hexcasting:rotate)$(action)轮换之策略/$，$(bold)2/$和$(bold)[0,1,0,1]/$对应$(l:patterns/stackmanip#hexcasting:2dup)$(action)狄俄斯库里之策略/$",
+  "book.descrip.hexflow:weak_escape": "与$(l:patterns/patterns_as_iotas#hexcasting:escape)$(action)考察/$相同，不过拥有最低的执行优先级，在嵌套的$(l:patterns/patterns_as_iotas#hexcasting:open_paren)$(action)内省-反思/$内部不会以 $(bold)2^n/$ 形式指数增长"
+}

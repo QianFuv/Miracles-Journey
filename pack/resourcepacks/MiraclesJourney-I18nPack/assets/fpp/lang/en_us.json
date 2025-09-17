@@ -1,0 +1,18 @@
+{
+  "block.fpp.floatable_acacia_pressure_plate": "Floatable Acacia Pressure Plate",
+  "block.fpp.floatable_bamboo_pressure_plate": "Floatable Bamboo Pressure Plate",
+  "block.fpp.floatable_birch_pressure_plate": "Floatable Birch Pressure Plate",
+  "block.fpp.floatable_cherry_pressure_plate": "Floatable Cherry Pressure Plate",
+  "block.fpp.floatable_crimson_pressure_plate": "Floatable Crimson Pressure Plate",
+  "block.fpp.floatable_dark_oak_pressure_plate": "Floatable Dark Oak Pressure Plate",
+  "block.fpp.floatable_heavy_weighted_pressure_plate": "Floatable Heavy Weighted Pressure Plate",
+  "block.fpp.floatable_jungle_pressure_plate": "Floatable Jungle Pressure Plate",
+  "block.fpp.floatable_light_weighted_pressure_plate": "Floatable Light Weighted Pressure Plate",
+  "block.fpp.floatable_mangrove_pressure_plate": "Floatable Mangrove Pressure Plate",
+  "block.fpp.floatable_oak_pressure_plate": "Floatable Oak Pressure Plate",
+  "block.fpp.floatable_polished_blackstone_pressure_plate": "Floatable Polished Blackstone Pressure Plate",
+  "block.fpp.floatable_spruce_pressure_plate": "Floatable Spruce Pressure Plate",
+  "block.fpp.floatable_stone_pressure_plate": "Floatable Stone Pressure Plate",
+  "block.fpp.floatable_warped_pressure_plate": "Floatable Warped Pressure Plate",
+  "itemGroup.fpp.main": "Floatable Pressure Plates"
+}
