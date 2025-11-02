@@ -35,7 +35,7 @@ jobs:
       - name: 4. 导出 Curseforge 整合包
         id: export
         run: |
-          packwiz curseforge export
+          packwiz curseforge export --side both
 
       - name: 5. 重命名整合包文件
         run: |
