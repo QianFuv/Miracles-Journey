@@ -1,13 +1,13 @@
 name = "EtST Lib"
-filename = "etstlib-3.0.0-beta.10.jar"
+filename = "etstlib-3.0.0-beta.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e540eabf2a5d0a377a2f53729e9f7399f6e6e20f"
+hash = "272e5162266014bec6227f2334abf94e0e092903"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6732443
+file-id = 7136296
 project-id = 1206379

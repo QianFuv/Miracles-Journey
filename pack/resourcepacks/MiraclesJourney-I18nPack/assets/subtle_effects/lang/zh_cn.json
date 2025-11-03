@@ -1,554 +1,773 @@
-{
-    "subtitles.subtle_effects.entity.villager.snore": "村民打鼾",
-    "subtitles.subtle_effects.entity.player.snore": "玩家打鼾",
-    "subtitles.subtle_effects.entity.player.stomach_growl": "肚子咕噜响",
-    "subtitles.subtle_effects.entity.player.heartbeat": "心跳声",
-    "subtitles.subtle_effects.entity.egg.break": "鸡蛋碎裂",
-    "subtitles.subtle_effects.entity.snowball.poof": "雪球噗消",
-    "subtitles.subtle_effects.entity.cow.eat": "牛进食",
-    "subtitles.subtle_effects.entity.chicken.eat": "鸡进食",
-    "subtitles.subtle_effects.entity.ocelot.eat": "豹猫进食",
-    "subtitles.subtle_effects.entity.sheep.eat": "羊进食",
-    "subtitles.subtle_effects.entity.axolotl.eat": "美西螈进食",
-    "subtitles.subtle_effects.entity.bee.eat": "蜜蜂进食",
-    "subtitles.subtle_effects.entity.tadpole.eat": "蝌蚪进食",
-    "subtitles.subtle_effects.entity.rabbit.eat": "兔子进食",
-    "subtitles.subtle_effects.entity.turtle.eat": "海龟进食",
-    "subtitles.subtle_effects.entity.hoglin.eat": "疣猪兽进食",
-    "subtitles.subtle_effects.block.campfire.sizzle": "营火滋滋声",
-    "subtitles.subtle_effects.block.water.drip": "水滴落",
-    "subtitles.subtle_effects.block.lava.drip": "岩浆滴落",
-    "subtitles.subtle_effects.block.water.drip_into_fluid": "水融入流体",
-    "subtitles.subtle_effects.block.lava.drip_into_fluid": "岩浆融入流体",
-    "subtitles.subtle_effects.block.cauldron.clean_item": "物品洗净",
-    "subtitles.subtle_effects.environment.geyser.whoosh": "间歇泉喷涌",
-    "subtitles.subtle_effects.environment.geyser.hiss": "间歇泉嘶鸣",
-    "subtitles.subtle_effects.environment.firefly.buzz": "萤火虫嗡鸣",
-    "commands.subtle_effects.subtle_effects.tickers.clear.success": "清除状态",
-    "commands.subtle_effects.subtle_effects.particles.clear.success": "清除粒子",
-    "commands.subtle_effects.subtle_effects.particles.count.enable.success": "显示粒子计数",
-    "commands.subtle_effects.subtle_effects.particles.count.disable.success": "隐藏粒子计数",
-    "resourcePack.subtle_effects.biome_water_color_particles.name": "生物群系水体粒子",
-    "resourcePack.subtle_effects.biome_water_color_particles.description": "水体粒子与生物群系颜色匹配",
-    "ui.subtle_effects.hud.particle_count": "粒子: %s",
-    "config.subtle_effects.smokeType.OFF": "关闭",
-    "config.subtle_effects.smokeType.DEFAULT": "默认",
-    "config.subtle_effects.smokeType.UPDATED": "更新",
-    "config.subtle_effects.commandBlockType.OFF": "关闭",
-    "config.subtle_effects.commandBlockType.ON": "开启",
-    "config.subtle_effects.commandBlockType.NOT_CREATIVE": "非创造模式",
-    "config.subtle_effects.replacedParticlesDisplayType.DEFAULT": "默认",
-    "config.subtle_effects.replacedParticlesDisplayType.VANILLA": "原版",
-    "config.subtle_effects.replacedParticlesDisplayType.BOTH": "两者",
-    "config.subtle_effects.coldSeasonsType.OFF": "关闭",
-    "config.subtle_effects.coldSeasonsType.DEFAULT": "默认",
-    "config.subtle_effects.coldSeasonsType.WINTER_ONLY": "仅冬季",
-    "config.subtle_effects.blocks.sparks": "火花",
-    "config.subtle_effects.blocks.sparks.removeVanillaCampfireSparks": "移除原版营火花",
-    "config.subtle_effects.blocks.sparks.removeVanillaCampfireSparks.desc": "移除营火的原版岩浆火花粒子",
-    "config.subtle_effects.blocks.sparks.candleSparks": "蜡烛火花",
-    "config.subtle_effects.blocks.sparks.furnaceSparks": "熔炉火花",
-    "config.subtle_effects.blocks.sparks.fireSparks": "火焰火花",
-    "config.subtle_effects.blocks.sparks.campfireSparks": "营火火花",
-    "config.subtle_effects.blocks.sparks.torchSparks": "火把火花",
-    "config.subtle_effects.blocks.sparks.lanternSparksDensity": "灯笼火花密度",
-    "config.subtle_effects.blocks.sparks.lanternSparksDensity.desc": "0为禁用",
-    "config.subtle_effects.blocks.sparks.lavaSparksDisplayType": "岩浆火花",
-    "config.subtle_effects.blocks.sparks.lavaSparksDisplayType.desc": "§c警告!§r\n低配电脑在大型岩浆池（如下界）附近可能严重卡顿",
-    "config.subtle_effects.blocks.sparks.lavaSparksDisplayType.OFF": "关闭",
-    "config.subtle_effects.blocks.sparks.lavaSparksDisplayType.ON": "开启",
-    "config.subtle_effects.blocks.sparks.lavaSparksDisplayType.NOT_NETHER": "非下界",
-    "config.subtle_effects.blocks.sparks.lavaSparksDensity": "Lava Sparks Density",
-    "config.subtle_effects.blocks.sparks.brewingStandSparks": "Brewing Stand Sparks",
-    "config.subtle_effects.blocks.updatedSmoke": "更新烟雾",
-    "config.subtle_effects.blocks.updatedSmoke.desc": "将旧版黑灰色烟雾替换为新版营火风格粒子",
-    "config.subtle_effects.blocks.updatedSmoke.candleSmoke": "蜡烛烟雾",
-    "config.subtle_effects.blocks.updatedSmoke.furnaceSmoke": "熔炉烟雾",
-    "config.subtle_effects.blocks.updatedSmoke.furnaceSmoke.desc": "包含原版熔炉变体",
-    "config.subtle_effects.blocks.updatedSmoke.fireSmoke": "火焰烟雾",
-    "config.subtle_effects.blocks.updatedSmoke.torchSmoke": "火把烟雾",
-    "config.subtle_effects.blocks.updatedSmoke.campfireDowseSmoke": "营火熄灭烟雾",
-    "config.subtle_effects.blocks.steam": "蒸汽（测试版）",
-    "config.subtle_effects.blocks.steam.lavaFizzSteam": "岩浆嘶蒸汽",
-    "config.subtle_effects.blocks.steam.lavaFizzSteam.desc": "岩浆与水生成方块（黑曜石/圆石/石头）时将烟雾替换为蒸汽",
-    "config.subtle_effects.blocks.steam.replaceCampfireFoodSmoke": "替换营火烹饪烟",
-    "config.subtle_effects.blocks.steam.replaceCampfireFoodSmoke.desc": "将营火烹饪食物的原版烟雾替换为蒸汽粒子",
-    "config.subtle_effects.blocks.steam.spongeDryingOutSteam": "海绵干燥蒸汽",
-    "config.subtle_effects.blocks.steam.spongeDryingOutSteam.desc": "将下界干燥海绵的云粒子替换为蒸汽",
-    "config.subtle_effects.blocks.steam.replaceRainEvaporationSteam": "替换雨滴蒸发蒸汽",
-    "config.subtle_effects.blocks.steam.replaceRainEvaporationSteam.desc": "将岩浆/营火/岩浆块上的原版烟雾替换为蒸汽",
-    "config.subtle_effects.blocks.steam.lavaCauldronsEvaporateRain": "岩浆锅蒸发雨水",
-    "config.subtle_effects.blocks.steam.lavaCauldronsEvaporateRain.desc": "将岩浆锅加入触发蒸汽的方块列表",
-    "config.subtle_effects.blocks.steam.spawnLogic": "生成逻辑",
-    "config.subtle_effects.blocks.steam.spawnLogic.BRIGHTNESS": "亮度",
-    "config.subtle_effects.blocks.steam.spawnLogic.NEAR_LAVA": "近岩浆",
-    "config.subtle_effects.blocks.steam.steamingWater": "蒸腾水",
-    "config.subtle_effects.blocks.steam.steamingWater.desc": "亮度大于11时水是否蒸腾",
-    "config.subtle_effects.blocks.steam.boilingWater": "沸腾水",
-    "config.subtle_effects.blocks.steam.boilingWater.desc": "亮度≥13时水是否沸腾冒泡",
-    "config.subtle_effects.blocks.steam.steamingWaterCauldron": "蒸腾水锅",
-    "config.subtle_effects.blocks.steam.steamingWaterCauldron.desc": "亮度大于11时水锅是否蒸腾",
-    "config.subtle_effects.blocks.steam.boilingWaterCauldron": "沸腾水锅",
-    "config.subtle_effects.blocks.steam.boilingWaterCauldron.desc": "亮度≥13时水锅是否沸腾冒泡",
-    "config.subtle_effects.blocks.steam.steamingThreshold": "蒸腾阈值",
-    "config.subtle_effects.blocks.steam.steamingThreshold.desc": "水开始蒸腾的亮度值",
-    "config.subtle_effects.blocks.steam.boilingThreshold": "沸腾阈值",
-    "config.subtle_effects.blocks.steam.boilingThreshold.desc": "水开始沸腾的亮度值（不能低于蒸腾阈值）",
-    "config.subtle_effects.blocks": "方块",
-    "config.subtle_effects.blocks.dustyBlocksGroup": "扬尘方块",
-    "config.subtle_effects.blocks.blockDustDensity.DEFAULT": "默认",
-    "config.subtle_effects.blocks.blockDustDensity.MINIMAL": "最低",
-    "config.subtle_effects.blocks.redstoneBlockDust": "红石块扬尘",
-    "config.subtle_effects.blocks.redstoneBlockDustDensity": "红石块扬尘密度",
-    "config.subtle_effects.blocks.redstoneDustEmittingBlocks": "红石扬尘方块",
-    "config.subtle_effects.blocks.redstoneDustEmittingBlocks.desc": "可发射红石尘的方块（适合模组红石块变体）",
-    "config.subtle_effects.blocks.glowstoneBlockDust": "萤石块扬尘",
-    "config.subtle_effects.blocks.glowstoneBlockDustDensity": "萤石块扬尘密度",
-    "config.subtle_effects.blocks.glowstoneDustEmittingBlocks": "萤石扬尘方块",
-    "config.subtle_effects.blocks.glowstoneDustEmittingBlocks.desc": "可发射萤石尘的方块（适合模组萤石块变体）",
-    "config.subtle_effects.blocks.netherOnlyGlowstoneBlockDust": "下界专属萤石尘",
-    "config.subtle_effects.blocks.beehivesHaveSleepingZs": "蜂箱睡眠Z粒子",
-    "config.subtle_effects.blocks.beehivesHaveSleepingZs.desc": "夜间蜂箱显示Z粒子",
-    "config.subtle_effects.blocks.fallingBlocks": "下落方块",
-    "config.subtle_effects.blocks.fallingBlocks.dustyBlocks": "扬尘方块列表",
-    "config.subtle_effects.blocks.fallingBlocks.dustyBlocks.desc": "可生成扬尘的方块（用于下落尘/落地尘/弱支撑尘）",
-    "config.subtle_effects.blocks.fallingBlocks.whileFallingDust": "下落扬尘",
-    "config.subtle_effects.blocks.fallingBlocks.whileFallingDust.desc": "下落方块是否带扬尘轨迹",
-    "config.subtle_effects.blocks.fallingBlocks.whileFallingDustStartDistance": "下落扬尘起始距离",
-    "config.subtle_effects.blocks.fallingBlocks.whileFallingDustStartDistance.desc": "下落方块开始扬尘的最小距离（方块单位）",
-    "config.subtle_effects.blocks.fallingBlocks.onLandDust": "落地扬尘",
-    "config.subtle_effects.blocks.fallingBlocks.onLandDust.desc": "落地时是否生成边缘扬尘",
-    "config.subtle_effects.blocks.fallingBlocks.onLandSound": "落地音效",
-    "config.subtle_effects.blocks.fallingBlocks.onLandSound.desc": "落地时播放方块放置音效",
-    "config.subtle_effects.blocks.fallingBlocks.weakSupportDust": "弱支撑扬尘",
-    "config.subtle_effects.blocks.fallingBlocks.weakSupportDust.desc": "在非完整方块上时从底部扬尘",
-    "config.subtle_effects.blocks.fallingBlocks.weakSupportDustDensity": "弱支撑扬尘密度",
-    "config.subtle_effects.blocks.torchflowerSmoke": "炬花烟雾",
-    "config.subtle_effects.blocks.torchflowerSmoke.desc": "炬花是否生成烟雾",
-    "config.subtle_effects.blocks.torchflowerFlames": "炬花火焰",
-    "config.subtle_effects.blocks.torchflowerFlames.desc": "炬花是否生成火焰",
-    "config.subtle_effects.blocks.dragonEggParticles": "龙蛋粒子",
-    "config.subtle_effects.blocks.dragonEggParticles.desc": "龙蛋是否像末影箱一样发光",
-    "config.subtle_effects.blocks.replaceEndPortalSmoke": "替换末地传送门烟",
-    "config.subtle_effects.blocks.replaceEndPortalSmoke.desc": "将末地传送门烟替换为下界传送门样式",
-    "config.subtle_effects.blocks.pumpkinCarvedParticles": "雕刻南瓜粒子",
-    "config.subtle_effects.blocks.pumpkinCarvedParticles.desc": "雕刻南瓜时显示破坏粒子",
-    "config.subtle_effects.blocks.workstationsGroup": "工作台",
-    "config.subtle_effects.blocks.anvilBreakParticles": "铁砧破坏粒子",
-    "config.subtle_effects.blocks.anvilBreakParticles.desc": "铁砧损坏时显示破坏粒子",
-    "config.subtle_effects.blocks.anvilUseParticles": "铁砧使用火花",
-    "config.subtle_effects.blocks.anvilUseParticles.desc": "使用铁砧时是否溅出火花",
-    "config.subtle_effects.blocks.grindstoneUseParticles": "砂轮使用火花",
-    "config.subtle_effects.blocks.grindstoneUseParticles.desc": "使用砂轮时是否溅出火花",
-    "config.subtle_effects.blocks.smithingTableUseParticles": "锻造台使用火花",
-    "config.subtle_effects.blocks.smithingTableUseParticles.desc": "使用锻造台时是否溅出火花",
-    "config.subtle_effects.blocks.stonecutterUseParticles": "切石机使用粒子",
-    "config.subtle_effects.blocks.stonecutterUseParticles.desc": "使用切石机时是否溅出破坏粒子",
-    "config.subtle_effects.blocks.cauldronUseParticles": "炼药锅使用粒子",
-    "config.subtle_effects.blocks.cauldronCleanItemSounds": "炼药锅清洁音效",
-    "config.subtle_effects.blocks.cauldronCleanItemSounds.desc": "清洁物品时播放音效（如染色物品/旗帜/潜影盒）",
-    "config.subtle_effects.blocks.compostingCompostParticles": "堆肥堆肥粒子",
-    "config.subtle_effects.blocks.compostingCompostParticles.desc": "堆肥时是否生成堆肥粒子",
-    "config.subtle_effects.blocks.compostingItemParticles": "堆肥物品粒子",
-    "config.subtle_effects.blocks.compostingItemParticles.desc": "堆肥时是否生成物品粒子",
-    "config.subtle_effects.blocks.commandBlockParticles": "命令方块粒子",
-    "config.subtle_effects.blocks.commandBlockParticles.desc": "命令方块是否像故事模式那样发光",
-    "config.subtle_effects.blocks.commandBlockParticlesDensity": "Command Block Particles Density",
-    "config.subtle_effects.blocks.slimeBlockBounceSounds": "粘液块弹跳音效",
-    "config.subtle_effects.blocks.slimeBlockBounceSounds.desc": "在粘液块上弹跳时播放音效",
-    "config.subtle_effects.blocks.beaconParticlesGroup": "信标粒子",
-    "config.subtle_effects.blocks.beaconParticlesDisplayType": "信标粒子显示类型",
-    "config.subtle_effects.blocks.beaconParticlesDisplayType.desc": "信标是否发射上升粒子\n\n§c警告!§r\n低配电脑可能严重卡顿（每个信标数千粒子）",
-    "config.subtle_effects.blocks.beaconParticlesDisplayType.OFF": "关闭",
-    "config.subtle_effects.blocks.beaconParticlesDisplayType.ON": "开启",
-    "config.subtle_effects.blocks.beaconParticlesDisplayType.NOT_COLORED": "无颜色",
-    "config.subtle_effects.blocks.beaconParticlesDensity": "信标粒子密度",
-    "config.subtle_effects.blocks.beaconParticlesSpeed": "信标粒子速度",
-    "config.subtle_effects.blocks.respawnAnchorParticles": "重生锚粒子",
-    "config.subtle_effects.blocks.respawnAnchorParticles.desc": "重生锚显示哭泣黑曜石粒子",
-    "config.subtle_effects.blocks.beehiveShearParticles": "蜂箱剪毛粒子",
-    "config.subtle_effects.blocks.beehiveShearParticles.desc": "剪毛时显示破坏粒子",
-    "config.subtle_effects.blocks.endPortalParticles": "末地传送门粒子",
-    "config.subtle_effects.blocks.endPortalParticles.desc": "末地传送门是否显示彩色粒子",
-    "config.subtle_effects.blocks.leavesDecayEffects": "树叶腐烂效果",
-    "config.subtle_effects.blocks.leavesDecayEffects.desc": "树叶腐烂时播放破坏音效和粒子",
-    "config.subtle_effects.blocks.farmlandDestroyEffects": "耕地破坏效果",
-    "config.subtle_effects.blocks.farmlandDestroyEffects.desc": "生物/玩家破坏耕地时播放破坏音效和粒子",
-    "config.subtle_effects.blocks.amethystGroup": "紫水晶",
-    "config.subtle_effects.blocks.amethystSparkleDisplayType": "紫水晶闪烁类型",
-    "config.subtle_effects.blocks.amethystSparkleDisplayType.OFF": "关闭",
-    "config.subtle_effects.blocks.amethystSparkleDisplayType.ON": "开启",
-    "config.subtle_effects.blocks.amethystSparkleDisplayType.CRYSTALS_ONLY": "仅晶体",
-    "config.subtle_effects.blocks.amethystSparkleEmittingBlocks": "紫水晶闪烁方块",
-    "config.subtle_effects.blocks.amethystSparkleEmittingBlocks.desc": "可发射紫水晶闪烁的方块（不包括晶体/芽）",
-    "config.subtle_effects.blocks.amethystSparkleSounds": "紫水晶闪烁音效",
-    "config.subtle_effects.blocks.amethystSparkleSounds.desc": "紫水晶是否随机播放音效",
-    "config.subtle_effects.blocks.floweringAzaleaPetals": "盛开杜鹃花瓣",
-    "config.subtle_effects.blocks.sculkGroup": "深板岩",
-    "config.subtle_effects.blocks.sculkBlockSculkDust": "深板岩尘",
-    "config.subtle_effects.blocks.sculkVeinSculkDust": "深板岩脉尘",
-    "config.subtle_effects.blocks.sculkShriekerDestroySouls": "尖啸深板岩灵魂",
-    "config.subtle_effects.blocks.sculkShriekerDestroySouls.desc": "破坏尖啸深板岩时是否生成灵魂粒子",
-    "config.subtle_effects.blocks.sculkCatalystDestroySouls": "催化深板岩灵魂",
-    "config.subtle_effects.blocks.sculkCatalystDestroySouls.desc": "破坏催化深板岩时是否生成灵魂粒子",
-    "config.subtle_effects.blocks.calibratedSculkSensorAmethystSparkle": "校准深板岩传感器闪烁",
-    "config.subtle_effects.blocks.campfireSizzlingSoundVolume": "营火滋滋声音量",
-    "config.subtle_effects.blocks.replacePowderSnowFlakes": "替换细雪片",
-    "config.subtle_effects.blocks.lavaCauldronEffects": "岩浆锅效果",
-    "config.subtle_effects.blocks.lavaCauldronEffects.desc": "为岩浆锅添加音效和粒子",
-    "config.subtle_effects.blocks.endPortalFrameGroup": "末地门框",
-    "config.subtle_effects.blocks.enderEyePlacedRings": "放置末影之眼光环",
-    "config.subtle_effects.blocks.enderEyePlacedRingsDuration": "末影之眼光环持续时间",
-    "config.subtle_effects.blocks.enderEyePlacedRingsDuration.desc": "效果持续时间（刻）",
-    "config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType": "末影之眼粒子类型",
-    "config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.DOTS": "圆点",
-    "config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.VANILLA": "原版",
-    "config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.BOTH": "两者",
-    "config.subtle_effects.blocks.endPortalFrameParticlesDisplayType": "末地门框粒子类型",
-    "config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.OFF": "关闭",
-    "config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.DOTS": "圆点",
-    "config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.SMOKE": "烟雾",
-    "config.subtle_effects.blocks.endPortalFrameParticlesDensity": "末地门框粒子密度",
-    "config.subtle_effects.blocks.eyeColors": "眼睛颜色",
-    "config.subtle_effects.blocks.replaceOminousVaultConnection": "替换不祥之域连接",
-    "config.subtle_effects.blocks.replaceOminousVaultConnection.desc": "将不祥之域的橙色连接粒子改为蓝色",
-    "config.subtle_effects.blocks.cobwebMovementSounds": "蜘蛛网移动音效",
-    "config.subtle_effects.entities.sleeping": "睡眠",
-    "config.subtle_effects.entities.sleeping.playerSnoreChance": "玩家打鼾概率",
-    "config.subtle_effects.entities.sleeping.playerSnoreChance.desc": "玩家打鼾的百分比概率（基于UUID固定）\n0为禁用",
-    "config.subtle_effects.entities.sleeping.playerSnoreSoundVolume": "玩家打鼾音量",
-    "config.subtle_effects.entities.sleeping.playerSnoreSoundVolume.desc": "0为禁用打鼾音效",
-    "config.subtle_effects.entities.sleeping.playersHaveSleepingZs": "玩家睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.playersHaveSleepingZs.desc": "睡眠玩家显示Z粒子",
-    "config.subtle_effects.entities.sleeping.villagerSnoreChance": "村民打鼾概率",
-    "config.subtle_effects.entities.sleeping.villagerSnoreChance.desc": "村民打鼾的百分比概率（基于UUID固定）\n0为禁用",
-    "config.subtle_effects.entities.sleeping.villagerSnoreSoundVolume": "村民打鼾音量",
-    "config.subtle_effects.entities.sleeping.villagerSnoreSoundVolume.desc": "0为禁用打鼾音效",
-    "config.subtle_effects.entities.sleeping.villagersHaveSleepingZs": "村民睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.villagersHaveSleepingZs.desc": "睡眠村民显示Z粒子",
-    "config.subtle_effects.entities.sleeping.foxesHaveSleepingZs": "狐狸睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.foxesHaveSleepingZs.desc": "睡眠狐狸显示Z粒子",
-    "config.subtle_effects.entities.sleeping.batsHaveSleepingZs": "蝙蝠睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.batsHaveSleepingZs.desc": "休息蝙蝠显示Z粒子",
-    "config.subtle_effects.entities.sleeping.catsHaveSleepingZs": "猫睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.catsHaveSleepingZs.desc": "休息猫显示Z粒子",
-    "config.subtle_effects.entities.sleeping.otherMobsHaveSleepingZs": "其他生物睡眠Z粒子",
-    "config.subtle_effects.entities.sleeping.otherMobsHaveSleepingZs.desc": "其他生物（主要是模组生物）睡眠时显示Z粒子",
-    "config.subtle_effects.entities.sleeping.displaySleepingZsOnlyWhenSnoring": "打鼾时才显示Z粒子",
-    "config.subtle_effects.entities.sleeping.displaySleepingZsOnlyWhenSnoring.desc": "仅当玩家/村民打鼾时显示Z粒子",
-    "config.subtle_effects.entities.sleeping.adjustNameTagWhenSleeping": "睡眠时调整名称标签",
-    "config.subtle_effects.entities.sleeping.adjustNameTagWhenSleeping.desc": "睡眠时名称标签显示在头顶而非上方",
-    "config.subtle_effects.entities.humanoids": "人形生物",
-    "config.subtle_effects.entities.humanoids.frostyBreath": "霜息",
-    "config.subtle_effects.entities.humanoids.frostyBreath.desc": "寒冷生物群系中玩家呼出蒸汽",
-    "config.subtle_effects.entities.humanoids.frostyBreath.displayType": "显示类型",
-    "config.subtle_effects.entities.humanoids.frostyBreath.alpha": "透明度",
-    "config.subtle_effects.entities.humanoids.frostyBreath.alpha.desc": "初始透明度值",
-    "config.subtle_effects.entities.humanoids.frostyBreath.waitTime": "等待时间",
-    "config.subtle_effects.entities.humanoids.frostyBreath.waitTime.desc": "霜息生成间隔（刻）",
-    "config.subtle_effects.entities.humanoids.frostyBreath.seasons": "季节",
-    "config.subtle_effects.entities.humanoids.frostyBreath.seasons.desc": "霜息生成季节（默认：深秋至早春）\n\n§6注意:§r\n需要安装Serene Seasons",
-    "config.subtle_effects.entities.humanoids.frostyBreath.additionalBiomes": "额外生物群系",
-    "config.subtle_effects.entities.humanoids.frostyBreath.additionalBiomes.desc": "霜息生成的额外生物群系列表",
-    "config.subtle_effects.entities.humanoids.player": "玩家",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingGroup": "肚子咕噜",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingThreshold": "饥饿阈值",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingThreshold.desc": "饥饿值低于此阈值时每15秒播放音效\n单位：半饥饿值\n0为禁用",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingVolume": "咕噜声音量",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingWaitTime": "咕噜声间隔",
-    "config.subtle_effects.entities.humanoids.player.stomachGrowlingWaitTime.desc": "音效播放间隔时间",
-    "config.subtle_effects.entities.humanoids.player.heartBeatingGroup": "心跳",
-    "config.subtle_effects.entities.humanoids.player.heartBeatingThreshold": "生命阈值",
-    "config.subtle_effects.entities.humanoids.player.heartBeatingThreshold.desc": "生命值低于此阈值时播放心跳音效\n单位：半心\n0为禁用",
-    "config.subtle_effects.entities.humanoids.player.heartbeatVolume": "心跳声音量",
-    "config.subtle_effects.entities.humanoids.player.heartBeatingWaitTime": "心跳间隔",
-    "config.subtle_effects.entities.humanoids.player.heartBeatingWaitTime.desc": "音效播放间隔时间",
-    "config.subtle_effects.entities.humanoids.player.enableBreathingEffectsInCreative": "创造模式显示呼吸效果",
-    "config.subtle_effects.entities.humanoids.player.enableBreathingEffectsInCreative.desc": "创造模式是否显示呼吸效果（霜息/溺水泡）",
-    "config.subtle_effects.entities.humanoids.drowningBubblesGroup": "溺水气泡",
-    "config.subtle_effects.entities.humanoids.drowningBubblesDisplayType": "溺水气泡类型",
-    "config.subtle_effects.entities.humanoids.drowningBubbles.desc": "水下呼吸时面部生成气泡",
-    "config.subtle_effects.entities.humanoids.drowningBubblesDensity": "气泡密度",
-    "config.subtle_effects.entities.humanoids.drowningBubbleAlpha": "气泡透明度",
-    "config.subtle_effects.entities.humanoids.forceDrowningBubblesToColumn": "强制气泡垂直",
-    "config.subtle_effects.entities.humanoids.forceDrowningBubblesToColumn.desc": "气泡生成垂直列而非随机",
-    "config.subtle_effects.entities.humanoids.potionRingsGroup": "药水光环",
-    "config.subtle_effects.entities.humanoids.potionRingsDisplayType": "药水光环类型",
-    "config.subtle_effects.entities.humanoids.potionRingsParticleType": "药水光环粒子类型",
-    "config.subtle_effects.entities.humanoids.potionRingsParticleType.RINGS_ONLY": "仅光环",
-    "config.subtle_effects.entities.humanoids.potionRingsParticleType.DOTS_ONLY": "仅圆点",
-    "config.subtle_effects.entities.humanoids.potionRingsParticleType.BOTH": "两者",
-    "config.subtle_effects.entities.humanoids.NPCsHavePotionRings": "NPC显示药水光环",
-    "config.subtle_effects.entities.humanoids.NPCsHavePotionRings.desc": "NPC（如女巫、流浪商人）是否显示药水光环",
-    "config.subtle_effects.entities.dustClouds": "尘云",
-    "config.subtle_effects.entities.dustClouds.scale": "缩放比例",
-    "config.subtle_effects.entities.dustClouds.alpha": "透明度",
-    "config.subtle_effects.entities.dustClouds.alpha.desc": "初始透明度值",
-    "config.subtle_effects.entities.dustClouds.preventWhenRaining": "雨天禁用",
-    "config.subtle_effects.entities.dustClouds.fallingGroup": "坠落",
-    "config.subtle_effects.entities.dustClouds.flyIntoWall": "撞墙扬尘",
-    "config.subtle_effects.entities.dustClouds.flyIntoWall.desc": "鞘翅撞墙时是否生成尘云",
-    "config.subtle_effects.entities.dustClouds.lessViewBlocking": "减少遮挡",
-    "config.subtle_effects.entities.dustClouds.lessViewBlocking.desc": "第一人称时近距不显示尘云",
-    "config.subtle_effects.entities.dustClouds.playerFell": "玩家坠落尘云",
-    "config.subtle_effects.entities.dustClouds.playerFell.desc": "玩家摔落时是否生成尘云",
-    "config.subtle_effects.entities.dustClouds.mobFell": "生物坠落尘云",
-    "config.subtle_effects.entities.dustClouds.mobFell.desc": "生物摔落时是否生成尘云",
-    "config.subtle_effects.entities.dustClouds.landMaceAttack": "钉头锤攻击尘云",
-    "config.subtle_effects.entities.dustClouds.landMaceAttack.desc": "钉头锤命中时生成尘云",
-    "config.subtle_effects.entities.dustClouds.runningGroup": "奔跑",
-    "config.subtle_effects.entities.dustClouds.playerRunning": "玩家奔跑尘云",
-    "config.subtle_effects.entities.dustClouds.playerRunning.desc": "玩家奔跑时是否生成尘云",
-    "config.subtle_effects.entities.dustClouds.mobRunning": "生物奔跑尘云",
-    "config.subtle_effects.entities.dustClouds.mobRunning.desc": "生物（掠夺者、疣猪兽、马等）冲锋时是否生成尘云",
-    "config.subtle_effects.entities.dustClouds.playerRunningRequiresSpeed": "速度药水触发",
-    "config.subtle_effects.entities.dustClouds.playerRunningRequiresSpeed.desc": "仅在速度药水生效时生成尘云",
-    "config.subtle_effects.entities.burning": "燃烧",
-    "config.subtle_effects.entities.burning.desc": "燃烧生物的粒子效果",
-    "config.subtle_effects.entities.burning.smoke": "烟雾",
-    "config.subtle_effects.entities.burning.flames": "火焰",
-    "config.subtle_effects.entities.burning.sparks": "火花",
-    "config.subtle_effects.entities.burning.sounds": "音效",
-    "config.subtle_effects.entities.burning.extinguishSteam": "熄灭蒸汽",
-    "config.subtle_effects.entities.burning.extinguishSteam.desc": "被水扑灭时生成蒸汽",
-    "config.subtle_effects.entities.explosives": "爆炸物",
-    "config.subtle_effects.entities.explosives.tntUpdateSmoke": "TNT更新烟雾",
-    "config.subtle_effects.entities.explosives.tntFlamesDensity": "TNT火焰密度",
-    "config.subtle_effects.entities.explosives.tntFlamesDensity.desc": "TNT周围火焰粒子密度\n0为禁用",
-    "config.subtle_effects.entities.explosives.tntSparks": "TNT火花",
-    "config.subtle_effects.entities.explosives.creeperSmoke": "苦力怕烟雾",
-    "config.subtle_effects.entities.explosives.creeperSparks": "苦力怕火花",
-    "config.subtle_effects.entities": "生物",
-    "config.subtle_effects.entities.perspectiveDisplayType.OFF": "关闭",
-    "config.subtle_effects.entities.perspectiveDisplayType.DEFAULT": "默认",
-    "config.subtle_effects.entities.perspectiveDisplayType.THIRD_PERSON_ONLY": "仅第三人称",
-    "config.subtle_effects.entities.attackedGroup": "受击",
-    "config.subtle_effects.entities.attackedGroup.desc": "生物受击时的粒子效果",
-    "config.subtle_effects.entities.chickenFeathers": "鸡羽毛",
-    "config.subtle_effects.entities.parrotFeathers": "鹦鹉羽毛",
-    "config.subtle_effects.entities.snowGolemSnowflakes": "雪傀儡雪花",
-    "config.subtle_effects.entities.allayMagicDensity": "悦灵魔法密度",
-    "config.subtle_effects.entities.allayMagicDensity.desc": "悦灵周围粒子密度\n0为禁用",
-    "config.subtle_effects.entities.vexMagicDensity": "恼鬼魔法密度",
-    "config.subtle_effects.entities.vexMagicDensity.desc": "恼鬼周围粒子密度\n0为禁用",
-    "config.subtle_effects.entities.sheepShearFluff": "羊剪毛绒毛",
-    "config.subtle_effects.entities.sheepShearFluff.desc": "剪毛时生成绒毛粒子",
-    "config.subtle_effects.entities.improvedDragonFireballTrail": "改进末影龙火球轨迹",
-    "config.subtle_effects.entities.improvedDragonFireballTrail.desc": "增加末影龙火球的粒子数量",
-    "config.subtle_effects.entities.dragonsBreathClouds": "Dragons Breath Clouds",
-    "config.subtle_effects.entities.dragonsBreathClouds.desc": "Applies the lingering potion cloud effects to the ender dragons breath",
-    "config.subtle_effects.entities.commandBlockMinecartParticles": "命令矿车粒子",
-    "config.subtle_effects.entities.commandBlockMinecartParticles.desc": "为命令矿车添加粒子效果",
-    "config.subtle_effects.entities.endCrystalParticles": "末影水晶粒子",
-    "config.subtle_effects.entities.endCrystalParticles.desc": "末影水晶是否显示粉色粒子",
-    "config.subtle_effects.entities.minecartSparksDisplayType": "矿车火花类型",
-    "config.subtle_effects.entities.minecartSparksDisplayType.desc": "矿车行驶时是否生成火花\n'Land On Rail'仅在落地时触发",
-    "config.subtle_effects.entities.minecartSparksDisplayType.OFF": "关闭",
-    "config.subtle_effects.entities.minecartSparksDisplayType.LAND_ON_RAIL": "落地触发",
-    "config.subtle_effects.entities.minecartSparksDisplayType.DEFAULT": "默认",
-    "config.subtle_effects.entities.minecartSparksDensity": "矿车火花密度",
-    "config.subtle_effects.entities.slimeTrails": "粘液轨迹",
-    "config.subtle_effects.entities.slimeTrails.desc": "史莱姆移动时是否留下粘液轨迹",
-    "config.subtle_effects.entities.magmaCubeTrails": "岩浆怪轨迹",
-    "config.subtle_effects.entities.magmaCubeTrails.desc": "岩浆怪移动时是否留下岩浆轨迹",
-    "config.subtle_effects.entities.replaceSlimeSquishParticles": "替换史莱姆挤压粒子",
-    "config.subtle_effects.entities.replaceSlimeSquishParticles.desc": "将史莱姆挤压的球粒子替换为块粒子",
-    "config.subtle_effects.entities.replaceOozingEffectParticles": "替换渗滑效果粒子",
-    "config.subtle_effects.entities.replaceOozingEffectParticles.desc": "渗滑效果使用块粒子而非球粒子",
-    "config.subtle_effects.entities.replaceSpellCasterParticles": "替换施法者粒子",
-    "config.subtle_effects.entities.replaceSpellCasterParticles.desc": "唤魔者等施法时使用药水粒子",
-    "config.subtle_effects.entities.ironGolemCrackParticles": "铁傀儡裂痕粒子",
-    "config.subtle_effects.entities.ironGolemCrackParticles.desc": "铁傀儡裂痕时生成铁粒子",
-    "config.subtle_effects.entities.spectralArrowParticles": "光灵箭粒子",
-    "config.subtle_effects.entities.spectralArrowParticles.desc": "光灵箭是否发射萤石尘",
-    "config.subtle_effects.entities.wardenDeathSoulParticles": "监守者死亡灵魂",
-    "config.subtle_effects.entities.wardenDeathSoulParticles.desc": "监守者死亡时是否生成灵魂粒子",
-    "config.subtle_effects.entities.freezingSnowFlakes": "冻结雪花",
-    "config.subtle_effects.entities.featherTicklingPandas": "羽毛挠熊猫",
-    "config.subtle_effects.entities.featherTicklingPandas.desc": "用羽毛挠熊猫使其打喷嚏（不掉粘液球）",
-    "config.subtle_effects.entities.improvedPandaSneezes": "改进熊猫喷嚏",
-    "config.subtle_effects.entities.villagerWorkAtWorkstationParticles": "村民工作粒子",
-    "config.subtle_effects.entities.villagerWorkAtWorkstationParticles.desc": "村民使用工作台时生成职业相关粒子",
-    "config.subtle_effects.entities.improvedBrownMooshroomFeedingEffects": "改进棕色哞菇喂食效果",
-    "config.subtle_effects.entities.improvedBrownMooshroomFeedingEffects.desc": "改变棕色哞菇喂食花朵的效果",
-    "config.subtle_effects.entities.improvedMooshroomShearingEffects": "改进哞菇剪毛效果",
-    "config.subtle_effects.entities.replaceBlazeSmoke": "替换烈焰人烟雾",
-    "config.subtle_effects.entities.animalFeedingParticles": "动物喂食粒子",
-    "config.subtle_effects.entities.animalFeedingParticles.desc": "喂食动物时生成物品破坏粒子",
-    "config.subtle_effects.entities.animalFeedingSoundVolume": "动物进食音量",
-    "config.subtle_effects.entities.animalFeedingSoundVolume.desc": "喂食音效音量（不影响原版进食音效）",
-    "config.subtle_effects.environment": "环境",
-    "config.subtle_effects.environment.biomeColorRain": "生物群系色雨滴",
-    "config.subtle_effects.environment.biomes": "生物群系",
-    "config.subtle_effects.environment.biomes.biomeParticlesRadius": "生物群系粒子半径",
-    "config.subtle_effects.environment.biomes.biomeParticlesRadius.desc": "玩家周围生成粒子的半径\n0为禁用所有粒子（原版除外）",
-    "config.subtle_effects.environment.biomes.mushroomSporeBiomes": "蘑菇孢子生物群系",
-    "config.subtle_effects.environment.biomes.mushroomSporeBiomes.desc": "生成蘑菇孢子的生物群系ID列表",
-    "config.subtle_effects.environment.biomes.mushroomSporeDensity": "蘑菇孢子密度",
-    "config.subtle_effects.environment.biomes.mushroomSporeDensity.desc": "孢子生成密度\n0为禁用",
-    "config.subtle_effects.environment.biomes.pollenBiomes": "花粉生物群系",
-    "config.subtle_effects.environment.biomes.pollenBiomes.desc": "生成花粉的生物群系ID列表",
-    "config.subtle_effects.environment.biomes.pollenDensity": "花粉密度",
-    "config.subtle_effects.environment.biomes.pollenDensity.desc": "花粉生成密度\n0为禁用",
-    "config.subtle_effects.environment.biomes.sculkDustBiomes": "深板岩尘生物群系",
-    "config.subtle_effects.environment.biomes.sculkDustBiomes.desc": "生成深板岩尘的生物群系ID列表",
-    "config.subtle_effects.environment.biomes.sculkDustDensity": "深板岩尘密度",
-    "config.subtle_effects.environment.biomes.sculkDustDensity.desc": "深板岩尘生成密度\n0为禁用",
-    "config.subtle_effects.environment.geysers": "间歇泉",
-    "config.subtle_effects.environment.geysers.useUpdatedSmoke": "使用更新烟雾",
-    "config.subtle_effects.environment.geysers.flameGeysersGroup": "火焰间歇泉",
-    "config.subtle_effects.environment.geysers.flameGeyserSpawnChance": "火焰间歇泉生成概率",
-    "config.subtle_effects.environment.geysers.flameGeyserSpawnChance.desc": "生成概率\n0为禁用",
-    "config.subtle_effects.environment.geysers.flameGeyserSoundVolume": "火焰间歇泉音量",
-    "config.subtle_effects.environment.geysers.flameGeyserActiveTime": "火焰间歇泉激活时间",
-    "config.subtle_effects.environment.geysers.flameGeyserActiveTime.desc": "激活持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.geysers.flameGeyserInactiveTime": "火焰间歇泉休眠时间",
-    "config.subtle_effects.environment.geysers.flameGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.geysers.smokeGeysersGroup": "烟雾间歇泉",
-    "config.subtle_effects.environment.geysers.smokeGeyserSpawnChance": "烟雾间歇泉生成概率",
-    "config.subtle_effects.environment.geysers.smokeGeyserSpawnChance.desc": "生成概率\n0为禁用",
-    "config.subtle_effects.environment.geysers.smokeGeyserSoundVolume": "烟雾间歇泉音量",
-    "config.subtle_effects.environment.geysers.smokeGeyserActiveTime": "烟雾间歇泉激活时间",
-    "config.subtle_effects.environment.geysers.smokeGeyserActiveTime.desc": "激活持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.geysers.smokeGeyserInactiveTime": "烟雾间歇泉休眠时间",
-    "config.subtle_effects.environment.geysers.smokeGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.geysers.bubbleGeysersGroup": "气泡间歇泉",
-    "config.subtle_effects.environment.geysers.bubbleGeyserSpawnChance": "气泡间歇泉生成概率",
-    "config.subtle_effects.environment.geysers.bubbleGeyserSpawnChance.desc": "生成概率\n0为禁用",
-    "config.subtle_effects.environment.geysers.bubbleGeyserSoundVolume": "气泡间歇泉音量",
-    "config.subtle_effects.environment.geysers.bubbleGeyserActiveTime": "气泡间歇泉激活时间",
-    "config.subtle_effects.environment.geysers.bubbleGeyserActiveTime.desc": "激活持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.geysers.bubbleGeyserInactiveTime": "气泡间歇泉休眠时间",
-    "config.subtle_effects.environment.geysers.bubbleGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）",
-    "config.subtle_effects.environment.fireflies": "萤火虫",
-    "config.subtle_effects.environment.fireflies.firefliesEnabled": "启用萤火虫",
-    "config.subtle_effects.environment.fireflies.dimensionBlocklist": "维度黑名单",
-    "config.subtle_effects.environment.fireflies.dimensionBlocklist.desc": "禁止生成萤火虫的维度列表",
-    "config.subtle_effects.environment.fireflies.biomesBlocklist": "生物群系黑名单",
-    "config.subtle_effects.environment.fireflies.biomesAllowlist": "生物群系白名单",
-    "config.subtle_effects.environment.fireflies.spawnableBlocks": "可生成方块",
-    "config.subtle_effects.environment.fireflies.spawnableBlocks.desc": "萤火虫可生成的非固体方块列表（栖息地生物群系忽略此配置）",
-    "config.subtle_effects.environment.fireflies.defaultDensity": "默认密度",
-    "config.subtle_effects.environment.fireflies.ignoredSeasons": "忽略季节",
-    "config.subtle_effects.environment.fireflies.ignoredSeasons.desc": "禁止生成萤火虫的季节（默认：深秋至早春）\n\n§6注意:§r\n需要安装Serene Seasons",
-    "config.subtle_effects.environment.fireflies.fireflyType": "萤火虫类型",
-    "config.subtle_effects.environment.fireflies.fireflyType.desc": "生成的萤火虫类型\n'Original'为2021直播版，'Vanilla'为春季更新版",
-    "config.subtle_effects.environment.fireflies.fireflyType.ORIGINAL": "原版",
-    "config.subtle_effects.environment.fireflies.fireflyType.VANILLA": "香草版",
-    "config.subtle_effects.environment.fireflies.fireflySoundVolume": "萤火虫音量",
-    "config.subtle_effects.environment.fireflies.fireflySoundVolume.desc": "萤火虫嗡鸣音量",
-    "config.subtle_effects.environment.fireflies.habitatBiomesGroup": "栖息地生物群系",
-    "config.subtle_effects.environment.fireflies.onlyAllowInHabitatBiomes": "仅限栖息地生成",
-    "config.subtle_effects.environment.fireflies.onlyAllowInHabitatBiomes.desc": "萤火虫仅在栖息地生物群系生成",
-    "config.subtle_effects.environment.fireflies.habitatBiomes": "栖息地生物群系",
-    "config.subtle_effects.environment.fireflies.habitatBiomes.desc": "萤火虫高生成率的生物群系列表（需在白名单且不在黑名单）",
-    "config.subtle_effects.environment.fireflies.habitatBiomeDensity": "栖息地密度",
-    "config.subtle_effects.items": "物品",
-    "config.subtle_effects.items.itemRarity": "物品稀有度",
-    "config.subtle_effects.items.itemRarity.particlesDisplayType": "粒子显示类型",
-    "config.subtle_effects.items.itemRarity.particlesDisplayType.desc": "地面物品生成漂浮彩色粒子",
-    "config.subtle_effects.items.itemRarity.particlesDisplayType.OFF": "关闭",
-    "config.subtle_effects.items.itemRarity.particlesDisplayType.ON": "开启",
-    "config.subtle_effects.items.itemRarity.particlesDisplayType.NOT_COMMON": "非普通物品",
-    "config.subtle_effects.items.itemRarity.particleColorType": "粒子颜色类型",
-    "config.subtle_effects.items.itemRarity.particleColorType.desc": "粒子颜色获取方式\n'Name Color'从物品名称取色，'Only Color Overrides'仅使用覆盖配置",
-    "config.subtle_effects.items.itemRarity.particleColorType.RARITY_COLOR": "稀有度颜色",
-    "config.subtle_effects.items.itemRarity.particleColorType.NAME_COLOR": "名称颜色",
-    "config.subtle_effects.items.itemRarity.particleColorType.ONLY_COLOR_OVERRIDES": "仅覆盖颜色",
-    "config.subtle_effects.items.itemRarity.mixedColorName": "混合名称颜色",
-    "config.subtle_effects.items.itemRarity.mixedColorName.desc": "名称含多色时随机选色",
-    "config.subtle_effects.items.itemRarity.useItemBorder": "使用物品边框",
-    "config.subtle_effects.items.itemRarity.useItemBorder.desc": "无名称颜色时使用物品边框颜色\n\n§6注意:§r\n需要安装Item Borders",
-    "config.subtle_effects.items.itemRarity.colorOverrides": "颜色覆盖",
-    "config.subtle_effects.items.itemRarity.colorOverrides.desc": "为特定物品添加颜色覆盖（'Only Color Overrides'时生效）",
-    "config.subtle_effects.items.itemRarity.particleMaxHeight": "粒子最大高度",
-    "config.subtle_effects.items.itemRarity.particleMaxHeight.desc": "粒子漂浮高度",
-    "config.subtle_effects.items.itemRarity.particleMaxSpeed": "粒子最大速度",
-    "config.subtle_effects.items.itemRarity.particleMaxSpeed.desc": "粒子移动速度",
-    "config.subtle_effects.items.itemRarity.particleDensity": "粒子密度",
-    "config.subtle_effects.items.itemRarity.particleDensity.desc": "The density of particles spawning around an item",
-    "config.subtle_effects.items.projectiles": "投射物",
-    "config.subtle_effects.items.projectiles.enderPearlTrail": "末影珍珠轨迹",
-    "config.subtle_effects.items.projectiles.xpBottleParticlesDisplayType": "经验瓶粒子类型",
-    "config.subtle_effects.items.projectiles.xpBottleParticlesDensity": "经验瓶粒子密度",
-    "config.subtle_effects.items.projectiles.xpBottleParticlesDensity.desc": "不影响原版粒子效果",
-    "config.subtle_effects.items.projectiles.eggSmashSoundVolume": "鸡蛋碎裂音量",
-    "config.subtle_effects.items.projectiles.eggSmashSoundVolume.desc": "鸡蛋撞击音效音量",
-    "config.subtle_effects.items.projectiles.eggSplatParticles": "鸡蛋飞溅粒子",
-    "config.subtle_effects.items.projectiles.eggSplatParticles.desc": "鸡蛋碎裂时是否生成飞溅粒子",
-    "config.subtle_effects.items.projectiles.snowballGroup": "雪球",
-    "config.subtle_effects.items.projectiles.snowballTrailDensity": "雪球轨迹密度",
-    "config.subtle_effects.items.projectiles.snowballTrailDensity.desc": "雪球粒子轨迹密度\n0为禁用",
-    "config.subtle_effects.items.projectiles.snowballPoofsHaveSnowflakes": "雪球消失带雪花",
-    "config.subtle_effects.items.projectiles.snowballPoofSoundVolume": "雪球噗消音量",
-    "config.subtle_effects.items.axeGroup": "斧头",
-    "config.subtle_effects.items.axeStripParticles": "斧头去皮粒子",
-    "config.subtle_effects.items.axeStripParticles.desc": "去皮时显示破坏粒子（不影响铜氧化/蜡）",
-    "config.subtle_effects.items.axeScrapeParticlesDisplayType": "斧头刮擦粒子类型",
-    "config.subtle_effects.items.axeWaxOffParticlesDisplayType": "斧头除蜡粒子类型",
-    "config.subtle_effects.items.boneMealUsingParticles": "骨粉使用粒子",
-    "config.subtle_effects.items.boneMealUsingParticles.desc": "使用骨粉时是否生成物品粒子",
-    "config.subtle_effects.items.flintAndSteelParticles": "打火石粒子",
-    "config.subtle_effects.items.flintAndSteelParticles.desc": "点燃方块时生成火焰和火花（不影响放置火）",
-    "config.subtle_effects.items.increasedItemBreakParticles": "增强物品破坏粒子",
-    "config.subtle_effects.items.increasedItemBreakParticles.desc": "物品损坏时生成更多粒子",
-    "config.subtle_effects.items.bucketsGroup": "桶",
-    "config.subtle_effects.items.waterEvaporateFromBucketSteam": "水桶蒸发蒸汽",
-    "config.subtle_effects.items.waterEvaporateFromBucketSteam.desc": "下界水桶蒸发时生成蒸汽而非烟雾",
-    "config.subtle_effects.items.waterBucketUseParticles": "水桶使用粒子",
-    "config.subtle_effects.items.lavaBucketUseParticles": "岩浆桶使用粒子",
-    "config.subtle_effects.items.powderSnowBucketUseParticles": "细雪桶使用粒子",
-    "config.subtle_effects.items.lingeringPotionClouds": "Lingering Potion Clouds",
-    "config.subtle_effects.items.lingeringPotionClouds.desc": "Replaces the vanilla bubble swirl particles with wispy clouds",
-    "config.subtle_effects.items.splashPotionClouds": "Splash Potion Clouds",
-    "config.subtle_effects.items.splashPotionClouds.desc": "Replaces the vanilla bubble swirl particles with poofy clouds",
-    "config.subtle_effects.general": "通用",
-    "config.subtle_effects.general.particleRenderingGroup": "粒子渲染",
-    "config.subtle_effects.general.enableParticleCulling": "启用粒子剔除",
-    "config.subtle_effects.general.particleRenderDistance": "粒子渲染距离",
-    "config.subtle_effects.general.particleRenderDistance.desc": "粒子最大渲染距离（区块单位）\n不影响生成，仅影响渲染（部分粒子如营火烟雾忽略此设置）",
-    "config.subtle_effects.general.cullParticlesInUnloadedChunks": "未加载区块剔除粒子",
-    "config.subtle_effects.general.cullParticlesInUnloadedChunks.desc": "未加载区块不渲染粒子（服务器运行缓慢时有用）",
-    "config.subtle_effects.general.allowUsingBlendedRenderType": "Allow Using Blended Render Type",
-    "config.subtle_effects.general.allowUsingBlendedRenderType.desc": "Some particles use a custom render type to blend transparency. This can cause visual issues with other mods. This config allows you to disable the custom render type and use the default transparency render type instead.",
-    "config.subtle_effects.general.spellParticlesUseBlendedRenderType": "Spell Particles Use Blended Render Type",
-    "config.subtle_effects.general.spellParticlesUseBlendedRenderType.desc": "Changes spell particles to use the custom blended render type. This can cause visual issues with other mods. This config allows you to disable the custom render type and use the default transparency render type instead. This config is ignored if 'Allow Using Blended Render Type' is disabled.",
-    "config.subtle_effects.general.particlesGroup": "粒子",
-    "config.subtle_effects.general.dripParticlesGroup": "滴落粒子",
-    "config.subtle_effects.general.glowingLavaDrops": "发光岩浆滴",
-    "config.subtle_effects.general.fluidDropsEvaporate": "流体滴蒸发",
-    "config.subtle_effects.general.fluidDropsEvaporate.desc": "不同流体相遇时生成蒸汽和音效",
-    "config.subtle_effects.general.fluidDropsEvaporationVolume": "蒸发音效音量",
-    "config.subtle_effects.general.fluidDropsEvaporationVolume.desc": "The volume of the hiss sound played when a drop particle evaporates",
-    "config.subtle_effects.general.dropLandInFluidSplashes": "流体飞溅",
-    "config.subtle_effects.general.dropLandInFluidSplashes.desc": "同流体相遇时生成飞溅粒子",
-    "config.subtle_effects.general.dropLandSoundVolume": "滴落音效音量",
-    "config.subtle_effects.general.dropLandSoundVolume.desc": "落地音效音量（0为禁用）",
-    "config.subtle_effects.general.lavaSparkSmoke": "岩浆火花烟雾",
-    "config.subtle_effects.general.sparksScale": "火花缩放",
-    "config.subtle_effects.general.poppingHearts": "爱心爆破",
-    "config.subtle_effects.general.poppingHearts.desc": "爱心粒子消失前是否爆破",
-    "config.subtle_effects.general.poppingBubbles": "气泡爆破",
-    "config.subtle_effects.general.poppingBubblesVolume": "气泡爆破音量",
-    "config.subtle_effects.general.enchantmentParticlesGroup": "附魔粒子",
-    "config.subtle_effects.general.enchantmentParticlesGroup.desc": "书架与附魔台之间的粒子配置",
-    "config.subtle_effects.general.glowingEnchantmentParticles": "发光附魔粒子",
-    "config.subtle_effects.general.translucentEnchantmentParticles": "半透明附魔粒子",
-    "config.subtle_effects.general.disableRandomizedShading": "禁用随机阴影",
-    "config.subtle_effects.general.disableRandomizedShading.desc": "禁用附魔粒子的随机阴影",
-    "config.subtle_effects.general.potionParticleAlpha": "药水粒子透明度",
-    "config.subtle_effects.general.potionParticleAlpha.desc": "原版药水粒子的透明度值",
-    "config.subtle_effects.general.potionParticleAlphaNearPlayer": "近距药水粒子透明度",
-    "config.subtle_effects.general.potionParticleAlphaNearPlayer.desc": "玩家附近药水粒子的透明度值",
-    "config.subtle_effects.general.mobSkullShaders": "生物头颅着色器",
-    "config.subtle_effects.general.mobSkullShaders.desc": "佩戴头颅时应用对应生物的着色器（如苦力怕头变绿）",
-    "config.subtle_effects.general.fireHeight": "火焰高度",
-    "config.subtle_effects.general.fireHeight.desc": "燃烧时的火焰高度（0为原版高度）",
-    "config.subtle_effects.general.fireResistanceDisablesFireRendering": "防火禁用火焰渲染",
-    "config.subtle_effects.general.fireResistanceDisablesFireRendering.desc": "防火生效时第一人称不显示火焰",
-    "config.subtle_effects.general.nightVisionFading": "夜视渐隐",
-    "config.subtle_effects.general.nightVisionFading.desc": "夜视效果缓慢渐隐而非闪烁",
-    "config.subtle_effects.general.nightVisionFadingTime": "夜视渐隐时间",
-    "config.subtle_effects.general.nightVisionFadingTime.desc": "渐隐持续时间（刻）",
-    "config.subtle_effects.general.enableEasterEggs": "启用彩蛋"
-}
+"subtitles.subtle_effects.entity.villager.snore": "村民打鼾"
+"subtitles.subtle_effects.entity.player.snore": "玩家打鼾"
+"subtitles.subtle_effects.entity.player.stomach_growl": "肚子咕噜响"
+"subtitles.subtle_effects.entity.player.heartbeat": "心跳声"
+"subtitles.subtle_effects.entity.egg.break": "鸡蛋碎裂"
+"subtitles.subtle_effects.entity.snowball.poof": "雪球噗消"
+"subtitles.subtle_effects.entity.cow.eat": "牛进食"
+"subtitles.subtle_effects.entity.chicken.eat": "鸡进食"
+"subtitles.subtle_effects.entity.ocelot.eat": "豹猫进食"
+"subtitles.subtle_effects.entity.sheep.eat": "羊进食"
+"subtitles.subtle_effects.entity.axolotl.eat": "美西螈进食"
+"subtitles.subtle_effects.entity.bee.eat": "蜜蜂进食"
+"subtitles.subtle_effects.entity.tadpole.eat": "蝌蚪进食"
+"subtitles.subtle_effects.entity.rabbit.eat": "兔子进食"
+"subtitles.subtle_effects.entity.turtle.eat": "海龟进食"
+"subtitles.subtle_effects.entity.hoglin.eat": "疣猪兽进食"
+"subtitles.subtle_effects.block.campfire.sizzle": "营火滋滋声"
+"subtitles.subtle_effects.block.water.drip": "水滴落"
+"subtitles.subtle_effects.block.lava.drip": "岩浆滴落"
+"subtitles.subtle_effects.block.water.drip_into_fluid": "水融入流体"
+"subtitles.subtle_effects.block.lava.drip_into_fluid": "岩浆融入流体"
+"subtitles.subtle_effects.block.cauldron.clean_item": "物品洗净"
+"subtitles.subtle_effects.environment.geyser.whoosh": "间歇泉喷涌"
+"subtitles.subtle_effects.environment.geyser.hiss": "间歇泉嘶鸣"
+"subtitles.subtle_effects.environment.firefly.buzz": "萤火虫嗡鸣"
+"commands.subtle_effects.subtle_effects.tickers.clear.success": "清除状态"
+"commands.subtle_effects.subtle_effects.particles.clear.success": "清除粒子"
+"commands.subtle_effects.subtle_effects.particles.count.enable.success": "显示粒子计数"
+"commands.subtle_effects.subtle_effects.particles.count.disable.success": "隐藏粒子计数"
+"resourcePack.subtle_effects.biome_water_color_particles.name": "生物群系水体粒子"
+"resourcePack.subtle_effects.biome_water_color_particles.description": "水体粒子与生物群系颜色匹配"
+"ui.subtle_effects.hud.particle_count": "粒子: %s"
+"config.subtle_effects.smokeType.OFF": "关闭"
+"config.subtle_effects.smokeType.DEFAULT": "默认"
+"config.subtle_effects.smokeType.UPDATED": "更新"
+"config.subtle_effects.commandBlockType.OFF": "关闭"
+"config.subtle_effects.commandBlockType.ON": "开启"
+"config.subtle_effects.commandBlockType.NOT_CREATIVE": "非创造模式"
+"config.subtle_effects.replacedParticlesDisplayType.DEFAULT": "默认"
+"config.subtle_effects.replacedParticlesDisplayType.VANILLA": "原版"
+"config.subtle_effects.replacedParticlesDisplayType.BOTH": "两者"
+"config.subtle_effects.coldSeasonsType.OFF": "关闭"
+"config.subtle_effects.coldSeasonsType.DEFAULT": "默认"
+"config.subtle_effects.coldSeasonsType.WINTER_ONLY": "仅冬季"
+"config.subtle_effects.blocks.sparks": "火花"
+"config.subtle_effects.blocks.sparks.removeVanillaCampfireSparks": "移除原版营火花"
+"config.subtle_effects.blocks.sparks.removeVanillaCampfireSparks.desc": "移除营火的原版岩浆火花粒子"
+"config.subtle_effects.blocks.sparks.candleSparks": "蜡烛火花"
+"config.subtle_effects.blocks.sparks.furnaceSparks": "熔炉火花"
+"config.subtle_effects.blocks.sparks.fireSparks": "火焰火花"
+"config.subtle_effects.blocks.sparks.campfireSparks": "营火火花"
+"config.subtle_effects.blocks.sparks.torchSparks": "火把火花"
+"config.subtle_effects.blocks.sparks.lanternSparksDensity": "灯笼火花密度"
+"config.subtle_effects.blocks.sparks.lanternSparksDensity.desc": "0为禁用"
+"config.subtle_effects.blocks.sparks.lavaSparksDisplayType": "岩浆火花"
+"config.subtle_effects.blocks.sparks.lavaSparksDisplayType.desc": "§c警告!§r\n低配电脑在大型岩浆池（如下界）附近可能严重卡顿"
+"config.subtle_effects.blocks.sparks.lavaSparksDisplayType.OFF": "关闭"
+"config.subtle_effects.blocks.sparks.lavaSparksDisplayType.ON": "开启"
+"config.subtle_effects.blocks.sparks.lavaSparksDisplayType.NOT_NETHER": "非下界"
+"config.subtle_effects.blocks.sparks.lavaSparksDensity": "Lava Sparks Density"
+"config.subtle_effects.blocks.sparks.brewingStandSparks": "Brewing Stand Sparks"
+"config.subtle_effects.blocks.updatedSmoke": "更新烟雾"
+"config.subtle_effects.blocks.updatedSmoke.desc": "将旧版黑灰色烟雾替换为新版营火风格粒子"
+"config.subtle_effects.blocks.updatedSmoke.candleSmoke": "蜡烛烟雾"
+"config.subtle_effects.blocks.updatedSmoke.furnaceSmoke": "熔炉烟雾"
+"config.subtle_effects.blocks.updatedSmoke.furnaceSmoke.desc": "包含原版熔炉变体"
+"config.subtle_effects.blocks.updatedSmoke.fireSmoke": "火焰烟雾"
+"config.subtle_effects.blocks.updatedSmoke.torchSmoke": "火把烟雾"
+"config.subtle_effects.blocks.updatedSmoke.campfireDowseSmoke": "营火熄灭烟雾"
+"config.subtle_effects.blocks.steam": "蒸汽（测试版）"
+"config.subtle_effects.blocks.steam.lavaFizzSteam": "岩浆嘶蒸汽"
+"config.subtle_effects.blocks.steam.lavaFizzSteam.desc": "岩浆与水生成方块（黑曜石/圆石/石头）时将烟雾替换为蒸汽"
+"config.subtle_effects.blocks.steam.replaceCampfireFoodSmoke": "替换营火烹饪烟"
+"config.subtle_effects.blocks.steam.replaceCampfireFoodSmoke.desc": "将营火烹饪食物的原版烟雾替换为蒸汽粒子"
+"config.subtle_effects.blocks.steam.spongeDryingOutSteam": "海绵干燥蒸汽"
+"config.subtle_effects.blocks.steam.spongeDryingOutSteam.desc": "将下界干燥海绵的云粒子替换为蒸汽"
+"config.subtle_effects.blocks.steam.replaceRainEvaporationSteam": "替换雨滴蒸发蒸汽"
+"config.subtle_effects.blocks.steam.replaceRainEvaporationSteam.desc": "将岩浆/营火/岩浆块上的原版烟雾替换为蒸汽"
+"config.subtle_effects.blocks.steam.lavaCauldronsEvaporateRain": "岩浆锅蒸发雨水"
+"config.subtle_effects.blocks.steam.lavaCauldronsEvaporateRain.desc": "将岩浆锅加入触发蒸汽的方块列表"
+"config.subtle_effects.blocks.steam.spawnLogic": "生成逻辑"
+"config.subtle_effects.blocks.steam.spawnLogic.BRIGHTNESS": "亮度"
+"config.subtle_effects.blocks.steam.spawnLogic.NEAR_LAVA": "近岩浆"
+"config.subtle_effects.blocks.steam.steamingWater": "蒸腾水"
+"config.subtle_effects.blocks.steam.steamingWater.desc": "亮度大于11时水是否蒸腾"
+"config.subtle_effects.blocks.steam.boilingWater": "沸腾水"
+"config.subtle_effects.blocks.steam.boilingWater.desc": "亮度≥13时水是否沸腾冒泡"
+"config.subtle_effects.blocks.steam.steamingWaterCauldron": "蒸腾水锅"
+"config.subtle_effects.blocks.steam.steamingWaterCauldron.desc": "亮度大于11时水锅是否蒸腾"
+"config.subtle_effects.blocks.steam.boilingWaterCauldron": "沸腾水锅"
+"config.subtle_effects.blocks.steam.boilingWaterCauldron.desc": "亮度≥13时水锅是否沸腾冒泡"
+"config.subtle_effects.blocks.steam.steamingThreshold": "蒸腾阈值"
+"config.subtle_effects.blocks.steam.steamingThreshold.desc": "水开始蒸腾的亮度值"
+"config.subtle_effects.blocks.steam.boilingThreshold": "沸腾阈值"
+"config.subtle_effects.blocks.steam.boilingThreshold.desc": "水开始沸腾的亮度值（不能低于蒸腾阈值）"
+"config.subtle_effects.blocks": "方块"
+"config.subtle_effects.blocks.dustyBlocksGroup": "扬尘方块"
+"config.subtle_effects.blocks.blockDustDensity.DEFAULT": "默认"
+"config.subtle_effects.blocks.blockDustDensity.MINIMAL": "最低"
+"config.subtle_effects.blocks.redstoneBlockDust": "红石块扬尘"
+"config.subtle_effects.blocks.redstoneBlockDustDensity": "红石块扬尘密度"
+"config.subtle_effects.blocks.redstoneDustEmittingBlocks": "红石扬尘方块"
+"config.subtle_effects.blocks.redstoneDustEmittingBlocks.desc": "可发射红石尘的方块（适合模组红石块变体）"
+"config.subtle_effects.blocks.glowstoneBlockDust": "萤石块扬尘"
+"config.subtle_effects.blocks.glowstoneBlockDustDensity": "萤石块扬尘密度"
+"config.subtle_effects.blocks.glowstoneDustEmittingBlocks": "萤石扬尘方块"
+"config.subtle_effects.blocks.glowstoneDustEmittingBlocks.desc": "可发射萤石尘的方块（适合模组萤石块变体）"
+"config.subtle_effects.blocks.netherOnlyGlowstoneBlockDust": "下界专属萤石尘"
+"config.subtle_effects.blocks.beehivesHaveSleepingZs": "蜂箱睡眠Z粒子"
+"config.subtle_effects.blocks.beehivesHaveSleepingZs.desc": "夜间蜂箱显示Z粒子"
+"config.subtle_effects.blocks.fallingBlocks": "下落方块"
+"config.subtle_effects.blocks.fallingBlocks.dustyBlocks": "扬尘方块列表"
+"config.subtle_effects.blocks.fallingBlocks.dustyBlocks.desc": "可生成扬尘的方块（用于下落尘/落地尘/弱支撑尘）"
+"config.subtle_effects.blocks.fallingBlocks.whileFallingDust": "下落扬尘"
+"config.subtle_effects.blocks.fallingBlocks.whileFallingDust.desc": "下落方块是否带扬尘轨迹"
+"config.subtle_effects.blocks.fallingBlocks.whileFallingDustStartDistance": "下落扬尘起始距离"
+"config.subtle_effects.blocks.fallingBlocks.whileFallingDustStartDistance.desc": "下落方块开始扬尘的最小距离（方块单位）"
+"config.subtle_effects.blocks.fallingBlocks.onLandDust": "落地扬尘"
+"config.subtle_effects.blocks.fallingBlocks.onLandDust.desc": "落地时是否生成边缘扬尘"
+"config.subtle_effects.blocks.fallingBlocks.onLandSound": "落地音效"
+"config.subtle_effects.blocks.fallingBlocks.onLandSound.desc": "落地时播放方块放置音效"
+"config.subtle_effects.blocks.fallingBlocks.weakSupportDust": "弱支撑扬尘"
+"config.subtle_effects.blocks.fallingBlocks.weakSupportDust.desc": "在非完整方块上时从底部扬尘"
+"config.subtle_effects.blocks.fallingBlocks.weakSupportDustDensity": "弱支撑扬尘密度"
+"config.subtle_effects.blocks.torchflowerSmoke": "炬花烟雾"
+"config.subtle_effects.blocks.torchflowerSmoke.desc": "炬花是否生成烟雾"
+"config.subtle_effects.blocks.torchflowerFlames": "炬花火焰"
+"config.subtle_effects.blocks.torchflowerFlames.desc": "炬花是否生成火焰"
+"config.subtle_effects.blocks.dragonEggParticles": "龙蛋粒子"
+"config.subtle_effects.blocks.dragonEggParticles.desc": "龙蛋是否像末影箱一样发光"
+"config.subtle_effects.blocks.replaceEndPortalSmoke": "替换末地传送门烟"
+"config.subtle_effects.blocks.replaceEndPortalSmoke.desc": "将末地传送门烟替换为下界传送门样式"
+"config.subtle_effects.blocks.pumpkinCarvedParticles": "雕刻南瓜粒子"
+"config.subtle_effects.blocks.pumpkinCarvedParticles.desc": "雕刻南瓜时显示破坏粒子"
+"config.subtle_effects.blocks.workstationsGroup": "工作台"
+"config.subtle_effects.blocks.anvilBreakParticles": "铁砧破坏粒子"
+"config.subtle_effects.blocks.anvilBreakParticles.desc": "铁砧损坏时显示破坏粒子"
+"config.subtle_effects.blocks.anvilUseParticles": "铁砧使用火花"
+"config.subtle_effects.blocks.anvilUseParticles.desc": "使用铁砧时是否溅出火花"
+"config.subtle_effects.blocks.grindstoneUseParticles": "砂轮使用火花"
+"config.subtle_effects.blocks.grindstoneUseParticles.desc": "使用砂轮时是否溅出火花"
+"config.subtle_effects.blocks.smithingTableUseParticles": "锻造台使用火花"
+"config.subtle_effects.blocks.smithingTableUseParticles.desc": "使用锻造台时是否溅出火花"
+"config.subtle_effects.blocks.stonecutterUseParticles": "切石机使用粒子"
+"config.subtle_effects.blocks.stonecutterUseParticles.desc": "使用切石机时是否溅出破坏粒子"
+"config.subtle_effects.blocks.cauldronUseParticles": "炼药锅使用粒子"
+"config.subtle_effects.blocks.cauldronCleanItemSounds": "炼药锅清洁音效"
+"config.subtle_effects.blocks.cauldronCleanItemSounds.desc": "清洁物品时播放音效（如染色物品/旗帜/潜影盒）"
+"config.subtle_effects.blocks.compostingCompostParticles": "堆肥堆肥粒子"
+"config.subtle_effects.blocks.compostingCompostParticles.desc": "堆肥时是否生成堆肥粒子"
+"config.subtle_effects.blocks.compostingItemParticles": "堆肥物品粒子"
+"config.subtle_effects.blocks.compostingItemParticles.desc": "堆肥时是否生成物品粒子"
+"config.subtle_effects.blocks.commandBlockParticles": "命令方块粒子"
+"config.subtle_effects.blocks.commandBlockParticles.desc": "命令方块是否像故事模式那样发光"
+"config.subtle_effects.blocks.commandBlockParticlesDensity": "Command Block Particles
+  Density"
+"config.subtle_effects.blocks.slimeBlockBounceSounds": "粘液块弹跳音效"
+"config.subtle_effects.blocks.slimeBlockBounceSounds.desc": "在粘液块上弹跳时播放音效"
+"config.subtle_effects.blocks.beaconParticlesGroup": "信标粒子"
+"config.subtle_effects.blocks.beaconParticlesDisplayType": "信标粒子显示类型"
+"config.subtle_effects.blocks.beaconParticlesDisplayType.desc": "信标是否发射上升粒子\n\n§c警告!§r\n\
+  低配电脑可能严重卡顿（每个信标数千粒子）"
+"config.subtle_effects.blocks.beaconParticlesDisplayType.OFF": "关闭"
+"config.subtle_effects.blocks.beaconParticlesDisplayType.ON": "开启"
+"config.subtle_effects.blocks.beaconParticlesDisplayType.NOT_COLORED": "无颜色"
+"config.subtle_effects.blocks.beaconParticlesDensity": "信标粒子密度"
+"config.subtle_effects.blocks.beaconParticlesSpeed": "信标粒子速度"
+"config.subtle_effects.blocks.respawnAnchorParticles": "重生锚粒子"
+"config.subtle_effects.blocks.respawnAnchorParticles.desc": "重生锚显示哭泣黑曜石粒子"
+"config.subtle_effects.blocks.beehiveShearParticles": "蜂箱剪毛粒子"
+"config.subtle_effects.blocks.beehiveShearParticles.desc": "剪毛时显示破坏粒子"
+"config.subtle_effects.blocks.endPortalParticles": "末地传送门粒子"
+"config.subtle_effects.blocks.endPortalParticles.desc": "末地传送门是否显示彩色粒子"
+"config.subtle_effects.blocks.leavesDecayEffects": "树叶腐烂效果"
+"config.subtle_effects.blocks.leavesDecayEffects.desc": "树叶腐烂时播放破坏音效和粒子"
+"config.subtle_effects.blocks.farmlandDestroyEffects": "耕地破坏效果"
+"config.subtle_effects.blocks.farmlandDestroyEffects.desc": "生物/玩家破坏耕地时播放破坏音效和粒子"
+"config.subtle_effects.blocks.amethystGroup": "紫水晶"
+"config.subtle_effects.blocks.amethystSparkleDisplayType": "紫水晶闪烁类型"
+"config.subtle_effects.blocks.amethystSparkleDisplayType.OFF": "关闭"
+"config.subtle_effects.blocks.amethystSparkleDisplayType.ON": "开启"
+"config.subtle_effects.blocks.amethystSparkleDisplayType.CRYSTALS_ONLY": "仅晶体"
+"config.subtle_effects.blocks.amethystSparkleEmittingBlocks": "紫水晶闪烁方块"
+"config.subtle_effects.blocks.amethystSparkleEmittingBlocks.desc": "可发射紫水晶闪烁的方块（不包括晶体/芽）"
+"config.subtle_effects.blocks.amethystSparkleSounds": "紫水晶闪烁音效"
+"config.subtle_effects.blocks.amethystSparkleSounds.desc": "紫水晶是否随机播放音效"
+"config.subtle_effects.blocks.floweringAzaleaPetals": "盛开杜鹃花瓣"
+"config.subtle_effects.blocks.sculkGroup": "深板岩"
+"config.subtle_effects.blocks.sculkBlockSculkDust": "深板岩尘"
+"config.subtle_effects.blocks.sculkVeinSculkDust": "深板岩脉尘"
+"config.subtle_effects.blocks.sculkShriekerDestroySouls": "尖啸深板岩灵魂"
+"config.subtle_effects.blocks.sculkShriekerDestroySouls.desc": "破坏尖啸深板岩时是否生成灵魂粒子"
+"config.subtle_effects.blocks.sculkCatalystDestroySouls": "催化深板岩灵魂"
+"config.subtle_effects.blocks.sculkCatalystDestroySouls.desc": "破坏催化深板岩时是否生成灵魂粒子"
+"config.subtle_effects.blocks.calibratedSculkSensorAmethystSparkle": "校准深板岩传感器闪烁"
+"config.subtle_effects.blocks.campfireSizzlingSoundVolume": "营火滋滋声音量"
+"config.subtle_effects.blocks.replacePowderSnowFlakes": "替换细雪片"
+"config.subtle_effects.blocks.lavaCauldronEffects": "岩浆锅效果"
+"config.subtle_effects.blocks.lavaCauldronEffects.desc": "为岩浆锅添加音效和粒子"
+"config.subtle_effects.blocks.endPortalFrameGroup": "末地门框"
+"config.subtle_effects.blocks.enderEyePlacedRings": "放置末影之眼光环"
+"config.subtle_effects.blocks.enderEyePlacedRingsDuration": "末影之眼光环持续时间"
+"config.subtle_effects.blocks.enderEyePlacedRingsDuration.desc": "效果持续时间（刻）"
+"config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType": "末影之眼粒子类型"
+"config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.DOTS": "圆点"
+"config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.VANILLA": "原版"
+"config.subtle_effects.blocks.enderEyePlacedParticlesDisplayType.BOTH": "两者"
+"config.subtle_effects.blocks.endPortalFrameParticlesDisplayType": "末地门框粒子类型"
+"config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.OFF": "关闭"
+"config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.DOTS": "圆点"
+"config.subtle_effects.blocks.endPortalFrameParticlesDisplayType.SMOKE": "烟雾"
+"config.subtle_effects.blocks.endPortalFrameParticlesDensity": "末地门框粒子密度"
+"config.subtle_effects.blocks.eyeColors": "眼睛颜色"
+"config.subtle_effects.blocks.replaceOminousVaultConnection": "替换不祥之域连接"
+"config.subtle_effects.blocks.replaceOminousVaultConnection.desc": "将不祥之域的橙色连接粒子改为蓝色"
+"config.subtle_effects.blocks.cobwebMovementSounds": "蜘蛛网移动音效"
+"config.subtle_effects.entities.sleeping": "睡眠"
+"config.subtle_effects.entities.sleeping.playerSnoreChance": "玩家打鼾概率"
+"config.subtle_effects.entities.sleeping.playerSnoreChance.desc": "玩家打鼾的百分比概率（基于UUID固定）\n\
+  0为禁用"
+"config.subtle_effects.entities.sleeping.playerSnoreSoundVolume": "玩家打鼾音量"
+"config.subtle_effects.entities.sleeping.playerSnoreSoundVolume.desc": "0为禁用打鼾音效"
+"config.subtle_effects.entities.sleeping.playersHaveSleepingZs": "玩家睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.playersHaveSleepingZs.desc": "睡眠玩家显示Z粒子"
+"config.subtle_effects.entities.sleeping.villagerSnoreChance": "村民打鼾概率"
+"config.subtle_effects.entities.sleeping.villagerSnoreChance.desc": "村民打鼾的百分比概率（基于UUID固定）\n\
+  0为禁用"
+"config.subtle_effects.entities.sleeping.villagerSnoreSoundVolume": "村民打鼾音量"
+"config.subtle_effects.entities.sleeping.villagerSnoreSoundVolume.desc": "0为禁用打鼾音效"
+"config.subtle_effects.entities.sleeping.villagersHaveSleepingZs": "村民睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.villagersHaveSleepingZs.desc": "睡眠村民显示Z粒子"
+"config.subtle_effects.entities.sleeping.foxesHaveSleepingZs": "狐狸睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.foxesHaveSleepingZs.desc": "睡眠狐狸显示Z粒子"
+"config.subtle_effects.entities.sleeping.batsHaveSleepingZs": "蝙蝠睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.batsHaveSleepingZs.desc": "休息蝙蝠显示Z粒子"
+"config.subtle_effects.entities.sleeping.catsHaveSleepingZs": "猫睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.catsHaveSleepingZs.desc": "休息猫显示Z粒子"
+"config.subtle_effects.entities.sleeping.otherMobsHaveSleepingZs": "其他生物睡眠Z粒子"
+"config.subtle_effects.entities.sleeping.otherMobsHaveSleepingZs.desc": "其他生物（主要是模组生物）睡眠时显示Z粒子"
+"config.subtle_effects.entities.sleeping.displaySleepingZsOnlyWhenSnoring": "打鼾时才显示Z粒子"
+"config.subtle_effects.entities.sleeping.displaySleepingZsOnlyWhenSnoring.desc": "仅当玩家/村民打鼾时显示Z粒子"
+"config.subtle_effects.entities.sleeping.adjustNameTagWhenSleeping": "睡眠时调整名称标签"
+"config.subtle_effects.entities.sleeping.adjustNameTagWhenSleeping.desc": "睡眠时名称标签显示在头顶而非上方"
+"config.subtle_effects.entities.humanoids": "人形生物"
+"config.subtle_effects.entities.humanoids.frostyBreath": "霜息"
+"config.subtle_effects.entities.humanoids.frostyBreath.desc": "寒冷生物群系中玩家呼出蒸汽"
+"config.subtle_effects.entities.humanoids.frostyBreath.displayType": "显示类型"
+"config.subtle_effects.entities.humanoids.frostyBreath.alpha": "透明度"
+"config.subtle_effects.entities.humanoids.frostyBreath.alpha.desc": "初始透明度值"
+"config.subtle_effects.entities.humanoids.frostyBreath.waitTime": "等待时间"
+"config.subtle_effects.entities.humanoids.frostyBreath.waitTime.desc": "霜息生成间隔（刻）"
+"config.subtle_effects.entities.humanoids.frostyBreath.seasons": "季节"
+"config.subtle_effects.entities.humanoids.frostyBreath.seasons.desc": "霜息生成季节（默认：深秋至早春）\n\
+  \n§6注意:§r\n需要安装Serene Seasons"
+"config.subtle_effects.entities.humanoids.frostyBreath.additionalBiomes": "额外生物群系"
+"config.subtle_effects.entities.humanoids.frostyBreath.additionalBiomes.desc": "霜息生成的额外生物群系列表"
+"config.subtle_effects.entities.humanoids.player": "玩家"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingGroup": "肚子咕噜"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingThreshold": "饥饿阈值"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingThreshold.desc": "饥饿值低于此阈值时每15秒播放音效\n\
+  单位：半饥饿值\n0为禁用"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingVolume": "咕噜声音量"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingWaitTime": "咕噜声间隔"
+"config.subtle_effects.entities.humanoids.player.stomachGrowlingWaitTime.desc": "音效播放间隔时间"
+"config.subtle_effects.entities.humanoids.player.heartBeatingGroup": "心跳"
+"config.subtle_effects.entities.humanoids.player.heartBeatingThreshold": "生命阈值"
+"config.subtle_effects.entities.humanoids.player.heartBeatingThreshold.desc": "生命值低于此阈值时播放心跳音效\n\
+  单位：半心\n0为禁用"
+"config.subtle_effects.entities.humanoids.player.heartbeatVolume": "心跳声音量"
+"config.subtle_effects.entities.humanoids.player.heartBeatingWaitTime": "心跳间隔"
+"config.subtle_effects.entities.humanoids.player.heartBeatingWaitTime.desc": "音效播放间隔时间"
+"config.subtle_effects.entities.humanoids.player.enableBreathingEffectsInCreative": "创造模式显示呼吸效果"
+"config.subtle_effects.entities.humanoids.player.enableBreathingEffectsInCreative.desc": "创造模式是否显示呼吸效果（霜息/溺水泡）"
+"config.subtle_effects.entities.humanoids.drowningBubblesGroup": "溺水气泡"
+"config.subtle_effects.entities.humanoids.drowningBubblesDisplayType": "溺水气泡类型"
+"config.subtle_effects.entities.humanoids.drowningBubbles.desc": "水下呼吸时面部生成气泡"
+"config.subtle_effects.entities.humanoids.drowningBubblesDensity": "气泡密度"
+"config.subtle_effects.entities.humanoids.drowningBubbleAlpha": "气泡透明度"
+"config.subtle_effects.entities.humanoids.forceDrowningBubblesToColumn": "强制气泡垂直"
+"config.subtle_effects.entities.humanoids.forceDrowningBubblesToColumn.desc": "气泡生成垂直列而非随机"
+"config.subtle_effects.entities.humanoids.potionRingsGroup": "药水光环"
+"config.subtle_effects.entities.humanoids.potionRingsDisplayType": "药水光环类型"
+"config.subtle_effects.entities.humanoids.potionRingsParticleType": "药水光环粒子类型"
+"config.subtle_effects.entities.humanoids.potionRingsParticleType.RINGS_ONLY": "仅光环"
+"config.subtle_effects.entities.humanoids.potionRingsParticleType.DOTS_ONLY": "仅圆点"
+"config.subtle_effects.entities.humanoids.potionRingsParticleType.BOTH": "两者"
+"config.subtle_effects.entities.humanoids.NPCsHavePotionRings": "NPC显示药水光环"
+"config.subtle_effects.entities.humanoids.NPCsHavePotionRings.desc": "NPC（如女巫、流浪商人）是否显示药水光环"
+"config.subtle_effects.entities.dustClouds": "尘云"
+"config.subtle_effects.entities.dustClouds.scale": "缩放比例"
+"config.subtle_effects.entities.dustClouds.alpha": "透明度"
+"config.subtle_effects.entities.dustClouds.alpha.desc": "初始透明度值"
+"config.subtle_effects.entities.dustClouds.preventWhenRaining": "雨天禁用"
+"config.subtle_effects.entities.dustClouds.fallingGroup": "坠落"
+"config.subtle_effects.entities.dustClouds.flyIntoWall": "撞墙扬尘"
+"config.subtle_effects.entities.dustClouds.flyIntoWall.desc": "鞘翅撞墙时是否生成尘云"
+"config.subtle_effects.entities.dustClouds.lessViewBlocking": "减少遮挡"
+"config.subtle_effects.entities.dustClouds.lessViewBlocking.desc": "第一人称时近距不显示尘云"
+"config.subtle_effects.entities.dustClouds.playerFell": "玩家坠落尘云"
+"config.subtle_effects.entities.dustClouds.playerFell.desc": "玩家摔落时是否生成尘云"
+"config.subtle_effects.entities.dustClouds.mobFell": "生物坠落尘云"
+"config.subtle_effects.entities.dustClouds.mobFell.desc": "生物摔落时是否生成尘云"
+"config.subtle_effects.entities.dustClouds.landMaceAttack": "钉头锤攻击尘云"
+"config.subtle_effects.entities.dustClouds.landMaceAttack.desc": "钉头锤命中时生成尘云"
+"config.subtle_effects.entities.dustClouds.runningGroup": "奔跑"
+"config.subtle_effects.entities.dustClouds.playerRunning": "玩家奔跑尘云"
+"config.subtle_effects.entities.dustClouds.playerRunning.desc": "玩家奔跑时是否生成尘云"
+"config.subtle_effects.entities.dustClouds.mobRunning": "生物奔跑尘云"
+"config.subtle_effects.entities.dustClouds.mobRunning.desc": "生物（掠夺者、疣猪兽、马等）冲锋时是否生成尘云"
+"config.subtle_effects.entities.dustClouds.playerRunningRequiresSpeed": "速度药水触发"
+"config.subtle_effects.entities.dustClouds.playerRunningRequiresSpeed.desc": "仅在速度药水生效时生成尘云"
+"config.subtle_effects.entities.burning": "燃烧"
+"config.subtle_effects.entities.burning.desc": "燃烧生物的粒子效果"
+"config.subtle_effects.entities.burning.smoke": "烟雾"
+"config.subtle_effects.entities.burning.flames": "火焰"
+"config.subtle_effects.entities.burning.sparks": "火花"
+"config.subtle_effects.entities.burning.sounds": "音效"
+"config.subtle_effects.entities.burning.extinguishSteam": "熄灭蒸汽"
+"config.subtle_effects.entities.burning.extinguishSteam.desc": "被水扑灭时生成蒸汽"
+"config.subtle_effects.entities.explosives": "爆炸物"
+"config.subtle_effects.entities.explosives.tntUpdateSmoke": "TNT更新烟雾"
+"config.subtle_effects.entities.explosives.tntFlamesDensity": "TNT火焰密度"
+"config.subtle_effects.entities.explosives.tntFlamesDensity.desc": "TNT周围火焰粒子密度\n\
+  0为禁用"
+"config.subtle_effects.entities.explosives.tntSparks": "TNT火花"
+"config.subtle_effects.entities.explosives.creeperSmoke": "苦力怕烟雾"
+"config.subtle_effects.entities.explosives.creeperSparks": "苦力怕火花"
+"config.subtle_effects.entities": "生物"
+"config.subtle_effects.entities.perspectiveDisplayType.OFF": "关闭"
+"config.subtle_effects.entities.perspectiveDisplayType.DEFAULT": "默认"
+"config.subtle_effects.entities.perspectiveDisplayType.THIRD_PERSON_ONLY": "仅第三人称"
+"config.subtle_effects.entities.attackedGroup": "受击"
+"config.subtle_effects.entities.attackedGroup.desc": "生物受击时的粒子效果"
+"config.subtle_effects.entities.chickenFeathers": "鸡羽毛"
+"config.subtle_effects.entities.parrotFeathers": "鹦鹉羽毛"
+"config.subtle_effects.entities.snowGolemSnowflakes": "雪傀儡雪花"
+"config.subtle_effects.entities.allayMagicDensity": "悦灵魔法密度"
+"config.subtle_effects.entities.allayMagicDensity.desc": "悦灵周围粒子密度\n0为禁用"
+"config.subtle_effects.entities.vexMagicDensity": "恼鬼魔法密度"
+"config.subtle_effects.entities.vexMagicDensity.desc": "恼鬼周围粒子密度\n0为禁用"
+"config.subtle_effects.entities.sheepShearFluff": "羊剪毛绒毛"
+"config.subtle_effects.entities.sheepShearFluff.desc": "剪毛时生成绒毛粒子"
+"config.subtle_effects.entities.improvedDragonFireballTrail": "改进末影龙火球轨迹"
+"config.subtle_effects.entities.improvedDragonFireballTrail.desc": "增加末影龙火球的粒子数量"
+"config.subtle_effects.entities.dragonsBreathClouds": "Dragons Breath Clouds"
+"config.subtle_effects.entities.dragonsBreathClouds.desc": "Applies the lingering
+  potion cloud effects to the ender dragons breath"
+"config.subtle_effects.entities.commandBlockMinecartParticles": "命令矿车粒子"
+"config.subtle_effects.entities.commandBlockMinecartParticles.desc": "为命令矿车添加粒子效果"
+"config.subtle_effects.entities.endCrystalParticles": "末影水晶粒子"
+"config.subtle_effects.entities.endCrystalParticles.desc": "末影水晶是否显示粉色粒子"
+"config.subtle_effects.entities.minecartSparksDisplayType": "矿车火花类型"
+"config.subtle_effects.entities.minecartSparksDisplayType.desc": "矿车行驶时是否生成火花\n'Land
+  On Rail'仅在落地时触发"
+"config.subtle_effects.entities.minecartSparksDisplayType.OFF": "关闭"
+"config.subtle_effects.entities.minecartSparksDisplayType.LAND_ON_RAIL": "落地触发"
+"config.subtle_effects.entities.minecartSparksDisplayType.DEFAULT": "默认"
+"config.subtle_effects.entities.minecartSparksDensity": "矿车火花密度"
+"config.subtle_effects.entities.slimeTrails": "粘液轨迹"
+"config.subtle_effects.entities.slimeTrails.desc": "史莱姆移动时是否留下粘液轨迹"
+"config.subtle_effects.entities.magmaCubeTrails": "岩浆怪轨迹"
+"config.subtle_effects.entities.magmaCubeTrails.desc": "岩浆怪移动时是否留下岩浆轨迹"
+"config.subtle_effects.entities.replaceSlimeSquishParticles": "替换史莱姆挤压粒子"
+"config.subtle_effects.entities.replaceSlimeSquishParticles.desc": "将史莱姆挤压的球粒子替换为块粒子"
+"config.subtle_effects.entities.replaceOozingEffectParticles": "替换渗滑效果粒子"
+"config.subtle_effects.entities.replaceOozingEffectParticles.desc": "渗滑效果使用块粒子而非球粒子"
+"config.subtle_effects.entities.replaceSpellCasterParticles": "替换施法者粒子"
+"config.subtle_effects.entities.replaceSpellCasterParticles.desc": "唤魔者等施法时使用药水粒子"
+"config.subtle_effects.entities.ironGolemCrackParticles": "铁傀儡裂痕粒子"
+"config.subtle_effects.entities.ironGolemCrackParticles.desc": "铁傀儡裂痕时生成铁粒子"
+"config.subtle_effects.entities.spectralArrowParticles": "光灵箭粒子"
+"config.subtle_effects.entities.spectralArrowParticles.desc": "光灵箭是否发射萤石尘"
+"config.subtle_effects.entities.wardenDeathSoulParticles": "监守者死亡灵魂"
+"config.subtle_effects.entities.wardenDeathSoulParticles.desc": "监守者死亡时是否生成灵魂粒子"
+"config.subtle_effects.entities.freezingSnowFlakes": "冻结雪花"
+"config.subtle_effects.entities.featherTicklingPandas": "羽毛挠熊猫"
+"config.subtle_effects.entities.featherTicklingPandas.desc": "用羽毛挠熊猫使其打喷嚏（不掉粘液球）"
+"config.subtle_effects.entities.improvedPandaSneezes": "改进熊猫喷嚏"
+"config.subtle_effects.entities.villagerWorkAtWorkstationParticles": "村民工作粒子"
+"config.subtle_effects.entities.villagerWorkAtWorkstationParticles.desc": "村民使用工作台时生成职业相关粒子"
+"config.subtle_effects.entities.improvedBrownMooshroomFeedingEffects": "改进棕色哞菇喂食效果"
+"config.subtle_effects.entities.improvedBrownMooshroomFeedingEffects.desc": "改变棕色哞菇喂食花朵的效果"
+"config.subtle_effects.entities.improvedMooshroomShearingEffects": "改进哞菇剪毛效果"
+"config.subtle_effects.entities.replaceBlazeSmoke": "替换烈焰人烟雾"
+"config.subtle_effects.entities.animalFeedingParticles": "动物喂食粒子"
+"config.subtle_effects.entities.animalFeedingParticles.desc": "喂食动物时生成物品破坏粒子"
+"config.subtle_effects.entities.animalFeedingSoundVolume": "动物进食音量"
+"config.subtle_effects.entities.animalFeedingSoundVolume.desc": "喂食音效音量（不影响原版进食音效）"
+"config.subtle_effects.environment": "环境"
+"config.subtle_effects.environment.biomeColorRain": "生物群系色雨滴"
+"config.subtle_effects.environment.biomes": "生物群系"
+"config.subtle_effects.environment.biomes.biomeParticlesRadius": "生物群系粒子半径"
+"config.subtle_effects.environment.biomes.biomeParticlesRadius.desc": "玩家周围生成粒子的半径\n\
+  0为禁用所有粒子（原版除外）"
+"config.subtle_effects.environment.biomes.mushroomSporeBiomes": "蘑菇孢子生物群系"
+"config.subtle_effects.environment.biomes.mushroomSporeBiomes.desc": "生成蘑菇孢子的生物群系ID列表"
+"config.subtle_effects.environment.biomes.mushroomSporeDensity": "蘑菇孢子密度"
+"config.subtle_effects.environment.biomes.mushroomSporeDensity.desc": "孢子生成密度\n0为禁用"
+"config.subtle_effects.environment.biomes.pollenBiomes": "花粉生物群系"
+"config.subtle_effects.environment.biomes.pollenBiomes.desc": "生成花粉的生物群系ID列表"
+"config.subtle_effects.environment.biomes.pollenDensity": "花粉密度"
+"config.subtle_effects.environment.biomes.pollenDensity.desc": "花粉生成密度\n0为禁用"
+"config.subtle_effects.environment.biomes.sculkDustBiomes": "深板岩尘生物群系"
+"config.subtle_effects.environment.biomes.sculkDustBiomes.desc": "生成深板岩尘的生物群系ID列表"
+"config.subtle_effects.environment.biomes.sculkDustDensity": "深板岩尘密度"
+"config.subtle_effects.environment.biomes.sculkDustDensity.desc": "深板岩尘生成密度\n0为禁用"
+"config.subtle_effects.environment.geysers": "间歇泉"
+"config.subtle_effects.environment.geysers.useUpdatedSmoke": "使用更新烟雾"
+"config.subtle_effects.environment.geysers.flameGeysersGroup": "火焰间歇泉"
+"config.subtle_effects.environment.geysers.flameGeyserSpawnChance": "火焰间歇泉生成概率"
+"config.subtle_effects.environment.geysers.flameGeyserSpawnChance.desc": "生成概率\n0为禁用"
+"config.subtle_effects.environment.geysers.flameGeyserSoundVolume": "火焰间歇泉音量"
+"config.subtle_effects.environment.geysers.flameGeyserActiveTime": "火焰间歇泉激活时间"
+"config.subtle_effects.environment.geysers.flameGeyserActiveTime.desc": "激活持续时间（刻，随机波动）"
+"config.subtle_effects.environment.geysers.flameGeyserInactiveTime": "火焰间歇泉休眠时间"
+"config.subtle_effects.environment.geysers.flameGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）"
+"config.subtle_effects.environment.geysers.smokeGeysersGroup": "烟雾间歇泉"
+"config.subtle_effects.environment.geysers.smokeGeyserSpawnChance": "烟雾间歇泉生成概率"
+"config.subtle_effects.environment.geysers.smokeGeyserSpawnChance.desc": "生成概率\n0为禁用"
+"config.subtle_effects.environment.geysers.smokeGeyserSoundVolume": "烟雾间歇泉音量"
+"config.subtle_effects.environment.geysers.smokeGeyserActiveTime": "烟雾间歇泉激活时间"
+"config.subtle_effects.environment.geysers.smokeGeyserActiveTime.desc": "激活持续时间（刻，随机波动）"
+"config.subtle_effects.environment.geysers.smokeGeyserInactiveTime": "烟雾间歇泉休眠时间"
+"config.subtle_effects.environment.geysers.smokeGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）"
+"config.subtle_effects.environment.geysers.bubbleGeysersGroup": "气泡间歇泉"
+"config.subtle_effects.environment.geysers.bubbleGeyserSpawnChance": "气泡间歇泉生成概率"
+"config.subtle_effects.environment.geysers.bubbleGeyserSpawnChance.desc": "生成概率\n\
+  0为禁用"
+"config.subtle_effects.environment.geysers.bubbleGeyserSoundVolume": "气泡间歇泉音量"
+"config.subtle_effects.environment.geysers.bubbleGeyserActiveTime": "气泡间歇泉激活时间"
+"config.subtle_effects.environment.geysers.bubbleGeyserActiveTime.desc": "激活持续时间（刻，随机波动）"
+"config.subtle_effects.environment.geysers.bubbleGeyserInactiveTime": "气泡间歇泉休眠时间"
+"config.subtle_effects.environment.geysers.bubbleGeyserInactiveTime.desc": "休眠持续时间（刻，随机波动）"
+"config.subtle_effects.environment.fireflies": "萤火虫"
+"config.subtle_effects.environment.fireflies.firefliesEnabled": "启用萤火虫"
+"config.subtle_effects.environment.fireflies.dimensionBlocklist": "维度黑名单"
+"config.subtle_effects.environment.fireflies.dimensionBlocklist.desc": "禁止生成萤火虫的维度列表"
+"config.subtle_effects.environment.fireflies.biomesBlocklist": "生物群系黑名单"
+"config.subtle_effects.environment.fireflies.biomesAllowlist": "生物群系白名单"
+"config.subtle_effects.environment.fireflies.spawnableBlocks": "可生成方块"
+"config.subtle_effects.environment.fireflies.spawnableBlocks.desc": "萤火虫可生成的非固体方块列表（栖息地生物群系忽略此配置）"
+"config.subtle_effects.environment.fireflies.defaultDensity": "默认密度"
+"config.subtle_effects.environment.fireflies.ignoredSeasons": "忽略季节"
+"config.subtle_effects.environment.fireflies.ignoredSeasons.desc": "禁止生成萤火虫的季节（默认：深秋至早春）\n\
+  \n§6注意:§r\n需要安装Serene Seasons"
+"config.subtle_effects.environment.fireflies.fireflyType": "萤火虫类型"
+"config.subtle_effects.environment.fireflies.fireflyType.desc": "生成的萤火虫类型\n'Original'为2021直播版，'Vanilla'为春季更新版"
+"config.subtle_effects.environment.fireflies.fireflyType.ORIGINAL": "原版"
+"config.subtle_effects.environment.fireflies.fireflyType.VANILLA": "香草版"
+"config.subtle_effects.environment.fireflies.fireflySoundVolume": "萤火虫音量"
+"config.subtle_effects.environment.fireflies.fireflySoundVolume.desc": "萤火虫嗡鸣音量"
+"config.subtle_effects.environment.fireflies.habitatBiomesGroup": "栖息地生物群系"
+"config.subtle_effects.environment.fireflies.onlyAllowInHabitatBiomes": "仅限栖息地生成"
+"config.subtle_effects.environment.fireflies.onlyAllowInHabitatBiomes.desc": "萤火虫仅在栖息地生物群系生成"
+"config.subtle_effects.environment.fireflies.habitatBiomes": "栖息地生物群系"
+"config.subtle_effects.environment.fireflies.habitatBiomes.desc": "萤火虫高生成率的生物群系列表（需在白名单且不在黑名单）"
+"config.subtle_effects.environment.fireflies.habitatBiomeDensity": "栖息地密度"
+"config.subtle_effects.items": "物品"
+"config.subtle_effects.items.itemRarity": "物品稀有度"
+"config.subtle_effects.items.itemRarity.particlesDisplayType": "粒子显示类型"
+"config.subtle_effects.items.itemRarity.particlesDisplayType.desc": "地面物品生成漂浮彩色粒子"
+"config.subtle_effects.items.itemRarity.particlesDisplayType.OFF": "关闭"
+"config.subtle_effects.items.itemRarity.particlesDisplayType.ON": "开启"
+"config.subtle_effects.items.itemRarity.particlesDisplayType.NOT_COMMON": "非普通物品"
+"config.subtle_effects.items.itemRarity.particleColorType": "粒子颜色类型"
+"config.subtle_effects.items.itemRarity.particleColorType.desc": "粒子颜色获取方式\n'Name
+  Color'从物品名称取色，'Only Color Overrides'仅使用覆盖配置"
+"config.subtle_effects.items.itemRarity.particleColorType.RARITY_COLOR": "稀有度颜色"
+"config.subtle_effects.items.itemRarity.particleColorType.NAME_COLOR": "名称颜色"
+"config.subtle_effects.items.itemRarity.particleColorType.ONLY_COLOR_OVERRIDES": "仅覆盖颜色"
+"config.subtle_effects.items.itemRarity.mixedColorName": "混合名称颜色"
+"config.subtle_effects.items.itemRarity.mixedColorName.desc": "名称含多色时随机选色"
+"config.subtle_effects.items.itemRarity.useItemBorder": "使用物品边框"
+"config.subtle_effects.items.itemRarity.useItemBorder.desc": "无名称颜色时使用物品边框颜色\n\n§6注意:§r\n\
+  需要安装Item Borders"
+"config.subtle_effects.items.itemRarity.colorOverrides": "颜色覆盖"
+"config.subtle_effects.items.itemRarity.colorOverrides.desc": "为特定物品添加颜色覆盖（'Only Color
+  Overrides'时生效）"
+"config.subtle_effects.items.itemRarity.particleMaxHeight": "粒子最大高度"
+"config.subtle_effects.items.itemRarity.particleMaxHeight.desc": "粒子漂浮高度"
+"config.subtle_effects.items.itemRarity.particleMaxSpeed": "粒子最大速度"
+"config.subtle_effects.items.itemRarity.particleMaxSpeed.desc": "粒子移动速度"
+"config.subtle_effects.items.itemRarity.particleDensity": "粒子密度"
+"config.subtle_effects.items.itemRarity.particleDensity.desc": "The density of particles
+  spawning around an item"
+"config.subtle_effects.items.projectiles": "投射物"
+"config.subtle_effects.items.projectiles.enderPearlTrail": "末影珍珠轨迹"
+"config.subtle_effects.items.projectiles.xpBottleParticlesDisplayType": "经验瓶粒子类型"
+"config.subtle_effects.items.projectiles.xpBottleParticlesDensity": "经验瓶粒子密度"
+"config.subtle_effects.items.projectiles.xpBottleParticlesDensity.desc": "不影响原版粒子效果"
+"config.subtle_effects.items.projectiles.eggSmashSoundVolume": "鸡蛋碎裂音量"
+"config.subtle_effects.items.projectiles.eggSmashSoundVolume.desc": "鸡蛋撞击音效音量"
+"config.subtle_effects.items.projectiles.eggSplatParticles": "鸡蛋飞溅粒子"
+"config.subtle_effects.items.projectiles.eggSplatParticles.desc": "鸡蛋碎裂时是否生成飞溅粒子"
+"config.subtle_effects.items.projectiles.snowballGroup": "雪球"
+"config.subtle_effects.items.projectiles.snowballTrailDensity": "雪球轨迹密度"
+"config.subtle_effects.items.projectiles.snowballTrailDensity.desc": "雪球粒子轨迹密度\n0为禁用"
+"config.subtle_effects.items.projectiles.snowballPoofsHaveSnowflakes": "雪球消失带雪花"
+"config.subtle_effects.items.projectiles.snowballPoofSoundVolume": "雪球噗消音量"
+"config.subtle_effects.items.axeGroup": "斧头"
+"config.subtle_effects.items.axeStripParticles": "斧头去皮粒子"
+"config.subtle_effects.items.axeStripParticles.desc": "去皮时显示破坏粒子（不影响铜氧化/蜡）"
+"config.subtle_effects.items.axeScrapeParticlesDisplayType": "斧头刮擦粒子类型"
+"config.subtle_effects.items.axeWaxOffParticlesDisplayType": "斧头除蜡粒子类型"
+"config.subtle_effects.items.boneMealUsingParticles": "骨粉使用粒子"
+"config.subtle_effects.items.boneMealUsingParticles.desc": "使用骨粉时是否生成物品粒子"
+"config.subtle_effects.items.flintAndSteelParticles": "打火石粒子"
+"config.subtle_effects.items.flintAndSteelParticles.desc": "点燃方块时生成火焰和火花（不影响放置火）"
+"config.subtle_effects.items.increasedItemBreakParticles": "增强物品破坏粒子"
+"config.subtle_effects.items.increasedItemBreakParticles.desc": "物品损坏时生成更多粒子"
+"config.subtle_effects.items.bucketsGroup": "桶"
+"config.subtle_effects.items.waterEvaporateFromBucketSteam": "水桶蒸发蒸汽"
+"config.subtle_effects.items.waterEvaporateFromBucketSteam.desc": "下界水桶蒸发时生成蒸汽而非烟雾"
+"config.subtle_effects.items.waterBucketUseParticles": "水桶使用粒子"
+"config.subtle_effects.items.lavaBucketUseParticles": "岩浆桶使用粒子"
+"config.subtle_effects.items.powderSnowBucketUseParticles": "细雪桶使用粒子"
+"config.subtle_effects.items.lingeringPotionClouds": "Lingering Potion Clouds"
+"config.subtle_effects.items.lingeringPotionClouds.desc": "Replaces the vanilla bubble
+  swirl particles with wispy clouds"
+"config.subtle_effects.items.splashPotionClouds": "Splash Potion Clouds"
+"config.subtle_effects.items.splashPotionClouds.desc": "Replaces the vanilla bubble
+  swirl particles with poofy clouds"
+"config.subtle_effects.general": "通用"
+"config.subtle_effects.general.particleRenderingGroup": "粒子渲染"
+"config.subtle_effects.general.enableParticleCulling": "启用粒子剔除"
+"config.subtle_effects.general.particleRenderDistance": "粒子渲染距离"
+"config.subtle_effects.general.particleRenderDistance.desc": "粒子最大渲染距离（区块单位）\n不影响生成，仅影响渲染（部分粒子如营火烟雾忽略此设置）"
+"config.subtle_effects.general.cullParticlesInUnloadedChunks": "未加载区块剔除粒子"
+"config.subtle_effects.general.cullParticlesInUnloadedChunks.desc": "未加载区块不渲染粒子（服务器运行缓慢时有用）"
+"config.subtle_effects.general.allowUsingBlendedRenderType": "Allow Using Blended
+  Render Type"
+"config.subtle_effects.general.allowUsingBlendedRenderType.desc": "Some particles
+  use a custom render type to blend transparency. This can cause visual issues with
+  other mods. This config allows you to disable the custom render type and use the
+  default transparency render type instead."
+"config.subtle_effects.general.spellParticlesUseBlendedRenderType": "Spell Particles
+  Use Blended Render Type"
+"config.subtle_effects.general.spellParticlesUseBlendedRenderType.desc": "Changes
+  spell particles to use the custom blended render type. This can cause visual issues
+  with other mods. This config allows you to disable the custom render type and use
+  the default transparency render type instead. This config is ignored if 'Allow Using
+  Blended Render Type' is disabled."
+"config.subtle_effects.general.particlesGroup": "粒子"
+"config.subtle_effects.general.dripParticlesGroup": "滴落粒子"
+"config.subtle_effects.general.glowingLavaDrops": "发光岩浆滴"
+"config.subtle_effects.general.fluidDropsEvaporate": "流体滴蒸发"
+"config.subtle_effects.general.fluidDropsEvaporate.desc": "不同流体相遇时生成蒸汽和音效"
+"config.subtle_effects.general.fluidDropsEvaporationVolume": "蒸发音效音量"
+"config.subtle_effects.general.fluidDropsEvaporationVolume.desc": "The volume of the
+  hiss sound played when a drop particle evaporates"
+"config.subtle_effects.general.dropLandSoundVolume": "滴落音效音量"
+"config.subtle_effects.general.dropLandSoundVolume.desc": "落地音效音量（0为禁用）"
+"config.subtle_effects.general.lavaSparkSmoke": "岩浆火花烟雾"
+"config.subtle_effects.general.sparksScale": "火花缩放"
+"config.subtle_effects.general.poppingHearts": "爱心爆破"
+"config.subtle_effects.general.poppingHearts.desc": "爱心粒子消失前是否爆破"
+"config.subtle_effects.general.poppingBubbles": "气泡爆破"
+"config.subtle_effects.general.poppingBubblesVolume": "气泡爆破音量"
+"config.subtle_effects.general.enchantmentParticlesGroup": "附魔粒子"
+"config.subtle_effects.general.enchantmentParticlesGroup.desc": "书架与附魔台之间的粒子配置"
+"config.subtle_effects.general.glowingEnchantmentParticles": "发光附魔粒子"
+"config.subtle_effects.general.translucentEnchantmentParticles": "半透明附魔粒子"
+"config.subtle_effects.general.disableRandomizedShading": "禁用随机阴影"
+"config.subtle_effects.general.disableRandomizedShading.desc": "禁用附魔粒子的随机阴影"
+"config.subtle_effects.general.potionParticleAlpha": "药水粒子透明度"
+"config.subtle_effects.general.potionParticleAlpha.desc": "原版药水粒子的透明度值"
+"config.subtle_effects.general.potionParticleAlphaNearPlayer": "近距药水粒子透明度"
+"config.subtle_effects.general.potionParticleAlphaNearPlayer.desc": "玩家附近药水粒子的透明度值"
+"config.subtle_effects.general.mobSkullShaders": "生物头颅着色器"
+"config.subtle_effects.general.mobSkullShaders.desc": "佩戴头颅时应用对应生物的着色器（如苦力怕头变绿）"
+"config.subtle_effects.general.nightVisionFading": "夜视渐隐"
+"config.subtle_effects.general.nightVisionFading.desc": "夜视效果缓慢渐隐而非闪烁"
+"config.subtle_effects.general.nightVisionFadingTime": "夜视渐隐时间"
+"config.subtle_effects.general.nightVisionFadingTime.desc": "渐隐持续时间（刻）"
+"config.subtle_effects.general.enableEasterEggs": "启用彩蛋"
+"config.subtle_effects.items.structureVoidItemMarker": "Structure Void Item Marker"
+"config.subtle_effects.environment.waterfalls.mediumWaterfallHeightThreshold": "Medium
+  Waterfall Height Threshold"
+"config.subtle_effects.entities.splashes.secondarySplashVelocityThreshold": "Secondary
+  Splash Velocity Threshold"
+"config.subtle_effects.blocks.openingBarrelsSpawnsBubbles": "Opening Barrels Spawns
+  Bubbles"
+"config.subtle_effects.entities.splashes.splashBubbles.desc": "Should an eruption
+  of bubbles be spawned underwater"
+"config.subtle_effects.general.fallenLeavesLifeTime": "Fallen Leaves Life Time"
+"config.subtle_effects.environment.waterfalls.largeWaterfallsGroup": "Large Waterfalls"
+"config.subtle_effects.entities.underwaterEntityPoofBubbles": "Underwater Entity Poof
+  Bubbles"
+"config.subtle_effects.entities.splashes.splashEffects.desc": "Should entities falling
+  in vanilla fluids have splash effects"
+"config.subtle_effects.general.leavesLandOnGround": "Leaves Land On Ground"
+"config.subtle_effects.entities.splashes.splashVelocityThreshold.desc": "The velocity
+  threshold needed to trigger a splash"
+"config.subtle_effects.environment.geysers.flameGeyserSpawnableBlocks": "Flame Geyser
+  Spawnable Blocks"
+"config.subtle_effects.entities.splashes.secondarySplashesGroup": "Secondary Splashes"
+"config.subtle_effects.general.fireOverlayHeight": "Fire Overlay Height"
+"config.subtle_effects.general.rainIncreasesLeavesMovementSpeed.desc": "During rain
+  and thunder storms leaves will have increased movement speed"
+"config.subtle_effects.entities.splashes.splashOverlayAlpha": "Splash Overlay Alpha"
+"config.subtle_effects.entities.underwaterEntityPoofBubbles.desc": "When an entity
+  is spawned or dies underwater, should the poof effect have bubbles"
+"config.subtle_effects.entities.splashes.splashVelocityThreshold": "Splash Velocity
+  Threshold"
+"config.subtle_effects.entities.splashes.splashBubbles": "Splash Bubbles"
+"config.subtle_effects.blocks.decoratedPotsSpawnBubbles.desc": "Should decorated pots
+  spawn bubbles when underwater"
+"config.subtle_effects.environment.geysers.smokeGeyserSpawnableBlocks.desc": "A list
+  of block IDs that smoke geysers can spawn on, including fluids"
+"config.subtle_effects.entities.splashes.explosionsCauseSplashes": "Explosions Cause
+  Splashes"
+"config.subtle_effects.entities.splashes.lavaSplashes": "Lava Splashes"
+"config.subtle_effects.environment.waterfalls.forceSpawnMediumWaterfallParticles": "Force
+  Spawn Medium Waterfall Particles"
+"config.subtle_effects.entities.improvedVillagerSweatingEffects": "Improved Villager
+  Sweating Effects"
+"config.subtle_effects.entities.splashes.secondarySplashVelocityThreshold.desc": "The
+  velocity threshold needed to trigger a secondary splash. Cannot be lower than the
+  normal splash velocity threshold"
+"config.subtle_effects.environment.waterfalls.largeWaterfallHeightThreshold": "Large
+  Waterfall Height Threshold"
+"config.subtle_effects.items.armadilloBrushParticles": "Armadillo Brush Particles"
+"config.subtle_effects.general.fireOverlayAlphaWithFireResistance": "Fire Overlay
+  Alpha With Fire Resistance"
+"config.subtle_effects.entities.splashes.splashRipples.desc": "Should a ripple effect
+  be played after a splash"
+"config.subtle_effects.entities.splashes.splashOverlayAlpha.desc": "The alpha transparency
+  of the splash overlay. The overlay is the white edge of foam along the top of water
+  splashes. This config also affects the water splash ripple effect \n0 to disable
+  overlay"
+"config.subtle_effects.general.leavesLandOnWater": "Leaves Land On Water"
+"config.subtle_effects.environment.geysers.bubbleGeyserSpawnableBlocks": "Bubble Geyser
+  Spawnable Blocks"
+"config.subtle_effects.entities.splashes.splashEffects": "Splash Effects"
+"config.subtle_effects.entities.splashes.splashRipples": "Splash Ripples"
+"config.subtle_effects.environment.waterfalls.largeWaterfallHeightThreshold.desc": "The
+  height in blocks that waterfalls will be considered large"
+"config.subtle_effects.entities.splashes.splashOverlayTint.desc": "The tint strength
+  of the splash overlay. See 'Splash Overlay Alpha' for explanation of what this config
+  affects"
+"config.subtle_effects.environment.waterfalls": "Waterfalls"
+"config.subtle_effects.environment.geysers.bubbleGeyserSpawnableBlocks.desc": "A list
+  of block IDs that bubble geysers can spawn on, including fluids"
+"config.subtle_effects.blocks.rainWaterRipples.desc": "Should ripple particles be
+  spawned on water when its raining"
+"config.subtle_effects.entities.splashes": "Splashes"
+"config.subtle_effects.entities.splashes.explosionsCauseSplashes.desc": "Should explosions
+  cause splash effects when in water/lava"
+"config.subtle_effects.general.dropLandInFluidRipples.desc": "When a drop particle
+  lands in a fluid of the same type it will cause a ripple particle"
+"config.subtle_effects.blocks.underwaterBlockBreakBubbles.desc": "Should breaking
+  blocks underwater spawn bubbles"
+"config.subtle_effects.entities.humanoids.potionRingsAlpha": "Potion Rings Alpha"
+"config.subtle_effects.general.fireOverlayGroup": "Fire Overlay"
+"config.subtle_effects.environment.waterfalls.randomizeWaterfallParticleRotation": "Randomize
+  Waterfall Particle Rotation"
+"config.subtle_effects.blocks.openingChestsSpawnsBubbles.desc": "When a chest is opened
+  underwater should it spawn bubbles"
+"config.subtle_effects.environment.geysers.smokeGeyserSpawnableBlocks": "Smoke Geyser
+  Spawnable Blocks"
+"config.subtle_effects.entities.splashes.splashDroplets": "Splash Droplets"
+"config.subtle_effects.entities.splashes.secondarySplashRipples": "Secondary Splash
+  Ripples"
+"config.subtle_effects.blocks.chestsOpenRandomlyUnderwater.desc": "Should chests open
+  randomly underwater"
+"config.subtle_effects.general.fireOverlayAlpha": "Fire Overlay Alpha"
+"config.subtle_effects.general.leavesGroup": "Leaves"
+"config.subtle_effects.general.fallenLeavesLifeTime.desc": "The amount of time in
+  ticks that fallen leaves will stay on the ground/water before disappearing. Value
+  will be somewhat randomized"
+"config.subtle_effects.blocks.cakeEatSounds": "Cake Eat Sounds"
+"config.subtle_effects.blocks.underwaterContainerBubblingGroup": "Underwater Container
+  Bubbling"
+"config.subtle_effects.general.particleCullingBlocklist.desc": "List of particles
+  that will not be culled by the particle culling system. \nThis list should be kept
+  at a minimum and used mainly for particles that break when culled.\nParticles already
+  spawned in a world will not be affected by changes to this config"
+"config.subtle_effects.general.leavesLandingOnWaterRipples.desc": "When leaves land
+  on water they will cause a ripple particle"
+"config.subtle_effects.entities.improvedWetWolfShakeEffects": "Improved Wet Wolf Shake
+  Effects"
+"config.subtle_effects.blocks.rainWaterRipplesDensity": "Rain Water Ripples Density"
+"config.subtle_effects.environment.waterfalls.forceSpawnMediumWaterfallParticles.desc": "Should
+  medium waterfall particles be visible regardless of the distance from the player"
+"config.subtle_effects.environment.waterfalls.waterfallUpdateFrequency.desc": "The
+  frequency in ticks that waterfalls will check their validity. This can be a somewhat
+  intense process so higher values are recommended"
+"config.subtle_effects.entities.splashes.secondarySplash.desc": "Plays a second splash
+  effect after the initial splash"
+"config.subtle_effects.entities.splashes.lavaSplashRipples.desc": "Should lava splashes
+  play a ripple effect"
+"chat.subtle_effects.prefix": "[Subtle Effects]:"
+"config.subtle_effects.environment.waterfalls.mediumWaterfallHeightThreshold.desc": "The
+  height in blocks that waterfalls will be considered medium"
+"config.subtle_effects.entities.splashes.lavaSplashes.desc": "Should entities cause
+  lava splash effects"
+"config.subtle_effects.entities.splashes.lavaSplashesGroup": "Lava Splashes"
+"config.subtle_effects.general.leavesLandingOnWaterKeepMomentum.desc": "When leaves
+  land on water they will keep their some of their momentum"
+"config.subtle_effects.items.armadilloBrushParticles.desc": "Should brushing an armadillo
+  spawn particles"
+"config.subtle_effects.environment.waterfalls.mediumWaterfallsGroup": "Medium Waterfalls"
+"config.subtle_effects.blocks.decoratedPotsSpawnBubbles": "Decorated Pots Spawn Bubbles"
+"config.subtle_effects.environment.waterfalls.forceSpawnLargeWaterfallParticles.desc": "Should
+  large waterfall particles be visible regardless of the distance from the player"
+"config.subtle_effects.blocks.dispenseItemBubbles": "Dispense Item Bubbles"
+"config.subtle_effects.environment.waterfalls.waterfallsEnabled": "Waterfalls Enabled"
+"config.subtle_effects.items.structureVoidItemMarker.desc": "Makes placed structure
+  voids display similar to placed barriers, where if the player is holding a structure
+  void item other structure voids in the world will be visible"
+"config.subtle_effects.entities.splashes.entityBlocklist": "Entity Blocklist"
+"config.subtle_effects.entities.improvedWetWolfShakeEffects.desc": "Improves the water
+  effects of a wolf shaking water off"
+"config.subtle_effects.environment.waterfalls.largeWaterfallParticleDensity": "Large
+  Waterfall Particle Density"
+"config.subtle_effects.blocks.rainWaterRipples": "Rain Water Ripples"
+"config.subtle_effects.environment.waterfalls.waterfallUpdateFrequency": "Waterfall
+  Update Frequency"
+"config.subtle_effects.environment.waterfalls.forceSpawnLargeWaterfallParticles": "Force
+  Spawn Large Waterfall Particles"
+"config.subtle_effects.entities.humanoids.potionRingsScale": "Potion Rings Scale"
+"config.subtle_effects.environment.waterfalls.largeWaterfallsEnabled": "Large Waterfalls
+  Enabled"
+"config.subtle_effects.general.fireOverlayAlpha.desc": "Alpha transparency of the
+  fire overlay.\n0.9 is the vanilla value"
+"config.subtle_effects.blocks.randomChestOpeningNeedsSoulSand": "Random Chest Opening
+  Needs Soul Sand"
+"config.subtle_effects.blocks.cakeEatParticles": "Cake Eat Particles"
+"config.subtle_effects.environment.geysers.flameGeyserSpawnableBlocks.desc": "A list
+  of block IDs that flame geysers can spawn on, including fluids"
+"config.subtle_effects.entities.splashes.secondarySplash": "Secondary Splash"
+"config.subtle_effects.general.fireOverlayHeight.desc": "The height on screen for
+  the fire overlay.\n0 is the vanilla value"
+"config.subtle_effects.blocks.openingChestsSpawnsBubbles": "Opening Chests Spawns
+  Bubbles"
+"config.subtle_effects.environment.waterfalls.smallWaterfallsEnabled": "Small Waterfalls
+  Enabled"
+"config.subtle_effects.entities.splashes.secondarySplashRipples.desc": "Should a ripple
+  effect be played after a secondary splash"
+"chat.subtle_effects.anniversary.message": "It's the mod's %s birthday! In celebration,
+  players will have party hats! To disable party hats, set the 'Enable Easter Eggs'
+  config option to false in the 'General' config category.'"
+"config.subtle_effects.entities.splashes.entityBlocklist.desc": "List of entities
+  that will not have splash effects"
+"config.subtle_effects.entities.improvedVillagerSweatingEffects.desc": "Improves the
+  sweating effects of villagers during raids"
+"config.subtle_effects.environment.waterfalls.randomizeWaterfallParticleRotation.desc": "Should
+  waterfall particles be rotated randomly"
+"config.subtle_effects.general.particleCullingBlocklist": "Particle Culling Blocklist"
+"config.subtle_effects.environment.waterfalls.mediumWaterfallParticleDensity": "Medium
+  Waterfall Particle Density"
+"config.subtle_effects.entities.splashes.splashOverlayTint": "Splash Overlay Tint"
+"config.subtle_effects.general.fireOverlayAlphaWithFireResistance.desc": "Alpha transparency
+  of the fire overlay while the Fire Resistance effect is active.\n0.9 is the vanilla
+  value"
+"config.subtle_effects.blocks.underwaterBlockBreakBubbles": "Underwater Block Break
+  Bubbles"
+"config.subtle_effects.blocks.dispenseItemBubbles.desc": "Should bubbles be spawned
+  when items are dispensed underwater from dispensers/droppers/crafters"
+"config.subtle_effects.general.leavesLandingOnWaterRipples": "Leaves Landing On Water
+  Ripples"
+"config.subtle_effects.general.leavesLandingOnWaterKeepMomentum": "Leaves Landing
+  On Water Keep Momentum"
+"config.subtle_effects.blocks.rainIncreasesLeavesSpawningParticles": "Rain Increases
+  Leaves Spawning Particles"
+"config.subtle_effects.blocks.chestsOpenRandomlyUnderwater": "Chests Open Randomly
+  Underwater"
+"config.subtle_effects.blocks.rainIncreasesLeavesSpawningParticles.desc": "Should
+  rain increase the amount of leaves particles spawned from leaf blocks"
+"config.subtle_effects.general.dropLandInFluidRipples": "Drop Land In Fluid Ripples"
+"config.subtle_effects.entities.splashes.lavaSplashRipples": "Lava Splash Ripples"
+"config.subtle_effects.general.rainIncreasesLeavesMovementSpeed": "Rain Increases
+  Leaves Movement Speed"

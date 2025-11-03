@@ -1,6 +1,4 @@
 {
-
-
   "block.createqol.alchemy_saw": "Alchemy Saw",
   "block.createqol.botanist_saw": "Botanist Saw",
   "block.createqol.carpenters_saw": "Carpenters Saw",
@@ -59,6 +57,7 @@
   "create.options.brass_trash_can.label": "Trash Can Mode",
   "options.brass_trash_can.void": "Void All",
   "options.brass_trash_can.keep_64": "Keep a Stack",
+  "options.brass_trash_can.void_overflow": "Void Overflow (keep an empty slot)",
 
   "tooltip.createqol.player_paper.linked_player": "Linked Player : %s",
   "tooltip.createqol.player_paper.no_linked_player": "No Player Linked",
@@ -86,7 +85,7 @@
   "item.createqol.shadow_radiance_chestplate.tooltip.behaviour1": "Provides _Pressurized_ _Air_ to Equipment that requires it. Can be _configured_ with a _Keybind_",
   "item.createqol.shadow_radiance_chestplate.tooltip.behaviour2": "_Collects_ _Pressurized_ _Air_ at a rate depending on the Rotational Speed.",
   "item.createqol.shadow_radiance_chestplate.tooltip.behaviour3": "_Adds_ _Propeller_ to the Chestplate.",
-  "item.createqol.shadow_radiance_chestplate.tooltip.behaviour4": "_Adds_ _Elytra to the Chestplate.",
+  "item.createqol.shadow_radiance_chestplate.tooltip.behaviour4": "_Adds_ _Elytra_ to the Chestplate.",
   "item.createqol.shadow_radiance_chestplate.tooltip.condition1": "When Worn",
   "item.createqol.shadow_radiance_chestplate.tooltip.condition2": "When placed, Powered by Kinetics",
   "item.createqol.shadow_radiance_chestplate.tooltip.condition3": "When placed, R-Clicked with Propeller",

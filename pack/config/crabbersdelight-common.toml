@@ -13,4 +13,7 @@
 	maxTicks = 8000
 	#Requires the crab trap to have a 3x3 of open water or waterlogged blocks around it to be able to function. Default = true
 	require_surrounding_water = true
+	#Number of seashell variants available (must match textures/models/blockstates files)
+	#Range: 1 ~ 64
+	seashellVariantCount = 7
 

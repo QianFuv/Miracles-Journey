@@ -1,4 +1,6 @@
 {
+  "dimension.momotinker.mountains_memory": "Mountains Memory",
+
   "effect.momotinker.hongwen": "hongwen",
   "effect.momotinker.none": "none",
   "effect.momotinker.end": "end",
@@ -44,7 +46,9 @@
   "fluid.momotinker.molten_timetrace_purple_gold": "Molten Time Trace Purple Gold",
   "fluid.momotinker.molten_reversetime_purple_gold": "Molten Reverse Time Purple Gold",
   "fluid.momotinker.molten_rhythm_slime": "Molten Rhythm Slime",
-
+  "fluid.momotinker.molten_immortal_weiqi": "Molten Immortal Weiqi",
+  "fluid.momotinker.molten_mountain_river_paintings": "Molten Mountain River Paintings",
+  
   "item.momotinker.molten_laomo_bucket": "Molten Momo Bucket",
   "item.momotinker.molten_arriving_at_the_other_shore_bucket": "Molten Other Shore Bucket",
   "item.momotinker.molten_heartsteel_bucket": "Molten Heart Steel Bucket",
@@ -74,7 +78,9 @@
   "item.momotinker.molten_timetrace_purple_gold_bucket": "Molten Time Trace Purple Gold Bucket",
   "item.momotinker.molten_reversetime_purple_gold_bucket": "Molten Reverse Time Purple Gold Bucket",
   "item.momotinker.molten_rhythm_slime_bucket": "Molten Rhythm Slime Bucket",
-
+  "item.momotinker.molten_immortal_weiqi_bucket": "Molten Immortal Weiqi Bucket",
+  "item.momotinker.molten_mountain_river_paintings_bucket": "Molten Mountain River Paintings Bucket",
+  
 
   "recipe.momotinker.modifier.cleansetheworld": "[Cleanse The World] requires [Breakthrough Stars] as a prerequisite",
   "recipe.momotinker.modifier.shadowofdamnation": "[Shadow Of Damnation] requires [Cleanse The World] as a prerequisite",
@@ -104,8 +110,8 @@
   "block.momotinker.laomo_block": "Momo Block",
 
   "block.momotinker.dimensional_prism": "§bDimensional Prism§",
-  "momotinker.block.tooltip.dimensional_prism1": "§bFragments of interdimensional space§",
-  "momotinker.block.tooltip.dimensional_prism2": "§bWhen a player breaks glass, there is a 6.18% chance that the item will drop§",
+  "block.momotinker.tooltip.dimensional_prism1": "§bFragments of interdimensional space§",
+  "block.momotinker.tooltip.dimensional_prism2": "§bWhen a player breaks glass, there is a 6.18% chance that the item will drop§",
 
   "item.momotinker.laomo": "Momo",
 
@@ -224,7 +230,7 @@
 
   "item.momotinker.star_seeking_pointer": "Star Seeking Pointer",
   "item.momotinker.tooltip.star_seeking_pointer1": "Relying on the resonance and induction between shooting stars, it will guide you",
-  "item.momotinker.tooltip.star_seeking_pointer2": "This item will continuously search for the closest 'Meteor Nucleus' within 128 grids",
+  "item.momotinker.tooltip.star_seeking_pointer2": "Use this item to search for the closest 'Meteor Nucleus' within 128 grids",
   "item.momotinker.tooltip.star_seeking_pointer3": "The current target location being pursued:(",
   "item.momotinker.tooltip.star_seeking_pointer4": "Target not found",
 
@@ -235,6 +241,22 @@
   "item.momotinker.tooltip.dragon_jade1": "A huge gem generated with a very low probability within the extremely long-lived EnderDragon",
   "item.momotinker.tooltip.dragon_jade2": "After EnderDragon surviving for over 24000 game ticks, it will drop upon death",
 
+  "block.momotinker.jujube_wood_log": "Jujube Wood",
+  "block.momotinker.jujube_wood_leaves": "Jujube Wood Leaves",
+  "block.momotinker.jujube_wood_sapling": "Jujube Wood Sapling",
+  "block.momotinker.jujube_wood_planks": "Jujube Wood Planks",
+
+  "block.momotinker.lightning_strike_wood": "Lightning Strike Wood",
+  "block.momotinker.tooltip.lightning_strike_wood1": "Heaven is yang, earth is yin; Thunder and fire are yang, evil spirits are yin",
+  "block.momotinker.tooltip.lightning_strike_wood2": "When red [Jujube Wood] is struck by lightning, it will transform into [Lightning Strike Wood] (requiring a player to be present within 200 squares)",
+
+  "item.momotinker.immortal_weiqi": "Immortal Weiqi",
+  "item.momotinker.tooltip.immortal_weiqi1": "The axe is all rotten, and the old friends are also gone",
+  "item.momotinker.tooltip.immortal_weiqi2": "Between midnight and noon the next day, there is a 25% chance that a broken wooden axe will appear at the player's position",
+
+  "item.momotinker.mountain_river_paintings": "Mountain River Paintings",
+  "item.momotinker.tooltip.mountain_river_paintings1": "The freedom in my heart allows me to see the mountains and rivers of the past",
+  "item.momotinker.tooltip.mountain_river_paintings2": "When a map is soaked in water, there is a 5% chance that it will change to that item every second (requiring a player to be present within 200 squares)",
 
   "itemGroup.momotinker.tools": "Momotinker Tools",
 
@@ -365,6 +387,14 @@
   "material.momotinker.rhythm_slime.encyclopedia": "What does Slime's dance look like",
   "material.momotinker.dragon_jade": "Dragon Jade",
   "material.momotinker.dragon_jade.encyclopedia": "A huge gem generated with a very low probability within the extremely long-lived EnderDragon",
+  "material.momotinker.jujube_wood": "Jujube Wood",
+  "material.momotinker.jujube_wood.encyclopedia": "Time has passed, and thanks to the tree species left by our ancestors for future generations, Jujube Wood trees have been able to be inherited\nNot naturally generated, one needs to delve deep into the ancient city to find saplings",
+  "material.momotinker.lightning_strike_wood": "Lightning Strike Wood",
+  "material.momotinker.lightning_strike_wood.encyclopedia": "Heaven is yang, earth is yin; Thunder and fire are yang, evil spirits are yin",
+  "material.momotinker.immortal_weiqi": "Immortal Weiqi",
+  "material.momotinker.immortal_weiqi.encyclopedia": "The axe is all rotten, and the old friends are also gone",
+  "material.momotinker.mountain_river_paintings": "Mountain River Paintings",
+  "material.momotinker.mountain_river_paintings.encyclopedia": "The freedom in my heart allows me to see the mountains and rivers of the past",
 
   "modifier.momotinker.laomochuji": "laomochuji",
   "modifier.momotinker.laomochuji.flavor": "Test flavor",
@@ -762,7 +792,38 @@
   "modifier.momotinker.material_reforging.flavor": "Reasonable construction is the key to maximizing its effectiveness",
   "modifier.momotinker.material_reforging.description": "This enhancement will improve most attributes, and their values will be randomly selected within a certain range. The more enhancements there are, the larger the minimum and maximum values in this range will be, with a maximum limit of 5 levels (re applying this enhancement will only randomize the attributes and will not increase the minimum and maximum values)",
   "modifier.momotinker.tooltip.material_reforging1": "[Material Remaking] Currently, additional attributes have been provided:",
-  "modifier.momotinker.tooltip.material_reforging2": "The current range that can be randomly selected is:["
+  "modifier.momotinker.tooltip.material_reforging2": "The current range that can be randomly selected is:[",
 
+  "modifier.momotinker.suppressing_evil": "Suppressing Evil",
+  "modifier.momotinker.suppressing_evil.flavor": "It is said to be rich in yang energy",
+  "modifier.momotinker.suppressing_evil.description": "The basic damage dealt to undead creatures at each level will be increased by 25%",
+
+  "modifier.momotinker.suppressing_evil_a": "Suppressing Evil",
+  "modifier.momotinker.suppressing_evil_a.flavor": "It is said to be rich in yang energy",
+  "modifier.momotinker.suppressing_evil_a.description": "In worn armor, each level reduces damage from undead creatures by 20% and magic damage by 10% (up to 95% and independently)",
+
+  "modifier.momotinker.ward_off_evil": "Ward Off Evil",
+  "modifier.momotinker.ward_off_evil.flavor": "Trees absorb the power of lightning and can break down all impurities",
+  "modifier.momotinker.ward_off_evil.description": "Increases damage to monsters by 25% at each level. If the target is a undead creature, the bonus should be doubled by four times",
+
+  "modifier.momotinker.ward_off_evil_a": "Ward Off Evil",
+  "modifier.momotinker.ward_off_evil_a.flavor": "Trees absorb the power of lightning and can break down all impurities",
+  "modifier.momotinker.ward_off_evil_a.description": "In worn armor, each level reduces damage from monsters and magic by 20% (up to 95%). If the creature is a undead creature, maximize its damage reduction and immune it to damage that is less than 25% of its maximum life",
+
+  "modifier.momotinker.thunder_decree": "Thunder Decree",
+  "modifier.momotinker.thunder_decree.flavor": "Legend has it that when Tian Gong was patrolling the human world in a fire sedan, he accidentally collided with it while getting off",
+  "modifier.momotinker.thunder_decree.description": "The damage caused is reduced by 40%. The attack caused an extra magical damage",
+
+  "modifier.momotinker.thunder_decree_a": "Thunder Decree",
+  "modifier.momotinker.thunder_decree_a.flavor": "Legend has it that when Tian Gong was patrolling the human world in a fire sedan, he accidentally collided with it while getting off",
+  "modifier.momotinker.thunder_decree_a.description": "When attacked, deal magical damage equivalent to 40% of the damage value to the attacker. If the damage received is magic damage, the counterattack damage will ignore magic defense and double the counterattack amount. If the target is a undead creature, the counterattack damage will increase by an additional 20% of the maximum sum of their own and the target's lives",
+
+  "modifier.momotinker.years_in_weiqi": "Years In Weiqi",
+  "modifier.momotinker.years_in_weiqi.flavor": "One day in the mountains, it has been a thousand years in the world",
+  "modifier.momotinker.years_in_weiqi.description": "Handholding this tool will gradually accelerate the movement of blocks within the surrounding 8 squares, and reach the maximum acceleration value after 361 seconds. When accelerating, it will accelerate the consumption of one's own satiety, and the acceleration will fail when the satiety is 0 (be cautious when using it together with other acceleration modules such as [Time in a bottle standalone])",
+
+  "modifier.momotinker.memories_of_mountains": "Memories Of Mountains",
+  "modifier.momotinker.memories_of_mountains.flavor": "Traveling thousands of miles with the mountains, the journey is endless",
+  "modifier.momotinker.memories_of_mountains.description": "After hitting the creature, try to move the target to the [Mountains Memory] dimension. This dimension does not naturally generate monsters, and the creature will receive damage every once in a while while while in this dimension. After the creature dies, the loot will fall to the player's position\n(This feature involves 'ChunkPos Forced Loading', which may cause lag when applied to too many organisms that have not died)"
 
 }

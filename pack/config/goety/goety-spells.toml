@@ -34,12 +34,9 @@
 		#Vexing Spell Summon Down, Default: 340
 		#Range: 0 ~ 72000
 		vexSummonDown = 340
-		#Number of Vex Servants that can be spawn with a wand, without instantly dying, around the player, Default: 8
+		#Number of Vex Servants that an individual player can have in total, Default: 8
 		#Range: > 1
-		wandVexLimit = 8
-		#Number of Vex Servants that can be spawn with a staff, without instantly dying, around the player, Default: 16
-		#Range: > 1
-		staffVexLimit = 16
+		vexLimit = 8
 
 	[Spells."Biting Spell && Magic Fangs"]
 		#Biting Spell Cost, Default: 8
@@ -718,6 +715,18 @@
 		#How much base damage Quaking Spell deals, Default: 4.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		quakingDamage = 4.0
+		#Earth Fist Spell Cost, Default: 8
+		#Range: > 0
+		earthFistCost = 8
+		#Time to cast Earth Fist Spell, Default: 0
+		#Range: 0 ~ 72000
+		earthFistTime = 0
+		#Earth Fist Spell Cooldown, Default: 100
+		#Range: > 0
+		earthFistCoolDown = 60
+		#How much base damage Earth Fists deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		earthFistDamage = 6.0
 
 	[Spells."Pulverize Spell"]
 		#Pulverize Spell Cost, Default: 16
@@ -1006,6 +1015,9 @@
 		#Entangling Spell Cooldown, Default: 400
 		#Range: > 0
 		entanglingCoolDown = 400
+		#Maximum amount of targets that can be entangled when cast using Wild Staff, Default: 8
+		#Range: > 1
+		entanglingStaffAmount = 8
 
 	[Spells."Whispering Spell"]
 		#Whispering Spell Cost, Default: 16
@@ -1519,7 +1531,7 @@
 		#Time to cast Watching Spell, Default: 40
 		#Range: 0 ~ 72000
 		watchlingTime = 40
-		#Watching Spell Cooldown, Default: 200
+		#Watching Spell Cooldown, Default: 300
 		#Range: > 0
 		watchlingCoolDown = 200
 		#Watching Spell Summon Down, Default: 120
@@ -1536,7 +1548,7 @@
 		#Time to cast Blasting Spell, Default: 60
 		#Range: 0 ~ 72000
 		blastlingTime = 60
-		#Blasting Spell Cooldown, Default: 200
+		#Blasting Spell Cooldown, Default: 400
 		#Range: > 0
 		blastlingCoolDown = 200
 		#Blasting Spell Summon Down, Default: 120
@@ -1553,7 +1565,7 @@
 		#Time to cast Snaring Spell, Default: 40
 		#Range: 0 ~ 72000
 		snarelingTime = 40
-		#Snaring Spell Cooldown, Default: 200
+		#Snaring Spell Cooldown, Default: 350
 		#Range: > 0
 		snarelingCoolDown = 200
 		#Snaring Spell Summon Down, Default: 120
@@ -1562,6 +1574,34 @@
 		#Number of Snareling Servants that an individual player can have in total, Default: 32
 		#Range: > 1
 		snarelingLimit = 32
+
+	[Spells."Illuminate Spell"]
+		#Illuminate Spell Cost, Default: 4
+		#Range: > 0
+		illuminateCost = 4
+		#How many ticks the Illuminate Spell much charge before casting, Default: 0
+		#Range: > 0
+		illuminateChargeUp = 0
+		#Time to cast Illuminate Spell per second, Default: 5
+		#Range: 0 ~ 72000
+		illuminateTime = 5
+		#Minimum block light level below which the spell attempts to light up, Default: 5
+		#Range: 0 ~ 15
+		illuminateMinLightLevel = 5
+
+	[Spells."Razor Wind Spell"]
+		#Razor Wind Spell Cost, Default: 24
+		#Range: > 0
+		razorWindCost = 24
+		#Time to cast Razor Wind Spell, Default: 0
+		#Range: 0 ~ 72000
+		razorWindDuration = 0
+		#Razor Wind Spell Cooldown, Default: 60
+		#Range: > 0
+		razorWindCoolDown = 60
+		#How much base damage Razor Winds deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		razorWindDamage = 6.0
 
 ["Servant Limits"]
 	#Number of Spider Servants that an individual player can have in total, Default: 32

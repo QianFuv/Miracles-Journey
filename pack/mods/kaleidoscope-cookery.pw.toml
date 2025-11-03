@@ -1,13 +1,13 @@
 name = "Kaleidoscope Cookery"
-filename = "kaleidoscopecookery-1.0.1-forge+mc1.20.1.jar"
+filename = "kaleidoscopecookery-1.1.0-forge+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "516033086b6c4372c0d814e62c8020ebd52d26f1"
+hash = "d8b7432df3fc0d22c2dbbce8564994b8cb10f548"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6801805
+file-id = 7057531
 project-id = 1309203

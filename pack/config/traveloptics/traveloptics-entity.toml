@@ -40,7 +40,4 @@
 		#Default 0.1
 		#Range: 0.0 ~ 3.0
 		dragonSpiritHpDamage = 0.1
-		#Make Nightwarden enter mob battle mode || Mob battle mode disables the spell damage requirement and now he can take correct damage from every other damage types
-		#On Mob battle mode he can adapt to ANY damage type over-time and not just Spell damage types || Default: false
-		mob_battle_mode = false
 

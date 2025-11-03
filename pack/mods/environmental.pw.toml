@@ -1,13 +1,13 @@
 name = "Environmental"
-filename = "environmental-1.20.1-4.1.0.jar"
+filename = "environmental-1.20.1-4.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e029ab33438a22994ed36fd4adddc68fe395b181"
+hash = "2c110c43d77841924bb2cf08ae7656a104f951f9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6949540
+file-id = 7065177
 project-id = 388992

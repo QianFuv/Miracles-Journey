@@ -4,4 +4,8 @@
 	BaseArmorReductionAmount = 2.0
 	#Range: 0.0 ~ 1.7976931348623157E308
 	GainedArmorReductionAmountPerLevel = 0.5
+	#Range: > 0
+	ReductionTicksDuration = 600
+	#Range: > 0
+	GainedTicksDurationPerLevel = 300
 

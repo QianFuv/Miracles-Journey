@@ -1,13 +1,13 @@
 name = "Pizza Delight"
-filename = "pizzadelight-1.20.1-1.0.0.jar"
+filename = "pizzadelight-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "da560e6a4e9c06459c96e7e73c2139afcc48d506"
+hash = "105131c6408c4d2b371924d54e39d6b961f16274"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5776452
+file-id = 7107368
 project-id = 1113260

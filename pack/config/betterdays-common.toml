@@ -2,11 +2,13 @@
 [time]
 	#The speed at which time passes during the day.
 	#Day is defined as any time between dayStart (see below) and nightStart (see below) the next day.
+	#This is the RATIO of time passing relative to vanilla.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
 	daySpeed = 0.5
 	#The speed at which time passes during the night.
 	#Night is defined as any time between dayStart (see below) and nightStart (see below).
+	#This is the RATIO of time passing relative to vanilla.
 	#Vanilla speed: 1.0
 	#Range: 0.0 ~ 24000.0
 	nightSpeed = 1.0
@@ -32,6 +34,24 @@
 	#These are the pairs that define what speed time should run at, at the specified day/night tick
 	#The two default pairs need to exist, but their time speed values can be modified
 	interpolatedTimeList = ["0,1.0", "24000,1.0"]
+	#An alternative way to set day speed. This setting is mutually exclusive with daySpeed.
+	#If both are set, speedMethod (see below) determines which setting is used.
+	#This setting defines the length of the day in real-world minutes.
+	#Vanilla length: 10.0 minutes
+	#Range: 0.1 ~ 10000.0
+	daySpeedMinutes = 10.0
+	#An alternative way to set night speed. This setting is mutually exclusive with nightSpeed.
+	#If both are set, speedMethod (see below) determines which setting is used.
+	#This setting defines the length of the night in real-world minutes.
+	#Vanilla length: 10.0 minutes
+	#Range: 0.1 ~ 10000.0
+	nightSpeedMinutes = 10.0
+	#Determines which method is used to set day and night speed.
+	#RATIO: Uses daySpeed and nightSpeed settings.
+	#MINUTES: Uses daySpeedMinutes and nightSpeedMinutes settings.
+	#REALTIME: Sets day and night to 12 real-world hours each.
+	#Allowed Values: RATIO, MINUTES, REALTIME
+	speedMethod = "RATIO"
 
 	[time.effects]
 		#When applied, this effect syncs the passage of weather with the current speed of time.
@@ -43,9 +63,10 @@
 		#When applied, this effect syncs the random tick speed with the current speed of time, forcing
 		#crop, tree, and grass growth to occur at baseRandomTickSpeed multiplied by the current time-speed.
 		#When set to SLEEPING, randomTickSpeed is set to baseRandomTickSpeed unless at least one player is sleeping in a dimension.
-		#More information on the effects of random tick speed can be found here: https://minecraft.fandom.com/wiki/Tick#Random_tick
+		#More information on the effects of random tick speed can be found here: https://minecraft.wiki/w/Tick#Random_tick
 		#WARNING: This setting overwrites the randomTickSpeed game rule. To modify the base random tick speed,
 		#use the baseRandomTickSpeed setting instead of changing the game rule directly.
+		#This effect has a minimum randomTickSpeed of 1 if time speed is less than 1.0.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
 		randomTickEffect = "NEVER"
 		#The base random tick speed used by the randomTickEffect time effect.
@@ -113,7 +134,7 @@
 	ratioPlayersForSleep = 0.0
 
 	#This section defines settings for notification messages.
-	#All messages support Minecraft formatting codes (https://minecraft.fandom.com/wiki/Formatting_codes).
+	#All messages support Minecraft formatting codes (https://minecraft.wiki/w/Formatting_codes).
 	#All messages have variables that can be inserted using the following format: ${variableName}
 	#The type option controls where the message appears:
 	#	SYSTEM: Appears as a message in the chat. (e.g., "Respawn point set")

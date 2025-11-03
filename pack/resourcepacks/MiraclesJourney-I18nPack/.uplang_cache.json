@@ -1,0 +1,3990 @@
+{
+  "version": "0.3.0",
+  "last_updated": "2025-11-03T02:08:57.485793",
+  "mods": {
+    "abnormals_delight": {
+      "jar_name": "abnormals_delight-1.20.1-5.0.1.jar",
+      "en_us_hash": "d107859b2c068bdf4a9cf0a0aa839b909f86ef821103906ad3147f8e17bd783d",
+      "zh_cn_hash": "60215e255c78e9418e40dd764a37409cd8cf9ac8e21df0ef98f3e53a7c4dfd04",
+      "last_sync": "2025-11-03T02:07:55.401285"
+    },
+    "accessories": {
+      "jar_name": "accessories-neoforge-1.0.0-beta.46+1.20.1.jar",
+      "en_us_hash": "2cc6874141ef20f4ca8350e256f77a87d7f098bffa3322802dc36cc4469e0a35",
+      "zh_cn_hash": "3f1461e55dc78b65fca167ef2eaa89453ab3a0eb8079e00c394a3e7a673a1395",
+      "last_sync": "2025-11-03T02:07:55.402401"
+    },
+    "accurateblockplacement": {
+      "jar_name": "accurate-block-placement-1.2.1.jar",
+      "en_us_hash": "a72872cdd3d247fbe4cb09a82ddc8e972687f2c3f57a30c550c6bbe9daf7d411",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:55.403663"
+    },
+    "additionaladditions": {
+      "jar_name": "additionaladditions-6.0.1.jar",
+      "en_us_hash": "e92e1cbc5a18eb4b8b4c2393cfb7c25caafe7ecbe5a59bf0a199bfe3aa63f2a2",
+      "zh_cn_hash": "2880013333229b92b9d613238691f9b4225671a0c637e222eb75ecbb4c33c067",
+      "last_sync": "2025-11-03T02:07:55.463553"
+    },
+    "advancementframes": {
+      "jar_name": "advancementframes-1.20-2.2.8.jar",
+      "en_us_hash": "1fc799dc34cacd1adc4034815f0327dbc54a5d29f696ccded07a1f9b537d3cfa",
+      "zh_cn_hash": "0e7c433c7384ad80f3dc49d3da802e3ba64cae838562973870a67c044df2c460",
+      "last_sync": "2025-11-03T02:07:55.487694"
+    },
+    "advancedperipherals": {
+      "jar_name": "AdvancedPeripherals-1.20.1-0.7.46r.jar",
+      "en_us_hash": "314abc4cbd3b16cbf364fc21dbdb07ee3b02a2b4763d3f55583cff271ed637cc",
+      "zh_cn_hash": "763ebd60984ceeaf7ce3530180a5e4184849684bb3252ebdc463637782310d74",
+      "last_sync": "2025-11-03T02:07:55.512888"
+    },
+    "aetherdelight": {
+      "jar_name": "aether_delight_1.0.0_forge_1.20.1.jar",
+      "en_us_hash": "c9a61445c17eabac2c1c9240faaa73f6093c052e7f80fdfd8ad3dc8b1f5256ec",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:55.869591"
+    },
+    "aether_gloves_for_all": {
+      "jar_name": "aether_gloves_for_all-1.20.1-1.1.1-neoforge.jar",
+      "en_us_hash": "e6a1d9d61ab148b044e23de884cb3331684d1689ee1307380c4279436e7f73b0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:55.969905"
+    },
+    "aether_protect_your_moa": {
+      "jar_name": "aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar",
+      "en_us_hash": "58bb476b57e93f03931d9f2f10ec438a3b713b956d362c3c48a339aa4098673e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:56.409275"
+    },
+    "aether": {
+      "jar_name": "aether-1.20.1-1.5.2-neoforge.jar",
+      "en_us_hash": "e511b1aa8dcb6efb1d46277e6b3b4ae6bb47b61d3647a5d2b808e3cae16bb921",
+      "zh_cn_hash": "6f022165013b8f6584d9993d707e70c1c9ad685acb275304661541dd90a65f2d",
+      "last_sync": "2025-11-03T02:07:56.841048"
+    },
+    "aether_redux": {
+      "jar_name": "aether-redux-2.0.19-1.20.1-neoforge.jar",
+      "en_us_hash": "787d243b3155a0e30a5fc2087e1ac1ff4a6ea089b626255222e5849d2c10268f",
+      "zh_cn_hash": "ec448334d700a1a90cc1830f633a6056e01ea0884bdf355d3a2d1880872e7a38",
+      "last_sync": "2025-11-03T02:07:57.100143"
+    },
+    "alexscavesdelight": {
+      "jar_name": "alexscavesdelight-1.0.27-final.jar",
+      "en_us_hash": "4e2c90dd2f261038dd3ffdbbc7b6208384d59401fca8f120cb16a2e355e6fd88",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:57.355945"
+    },
+    "alexsdelight": {
+      "jar_name": "alexsdelight-1.5.jar",
+      "en_us_hash": "f4be7756b8f18e4f7f29732f57dc7e12509dec2dbe4980ee5d79ddcee143dfc5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:57.527297"
+    },
+    "alexscaves": {
+      "jar_name": "alexscaves-2.0.2.jar",
+      "en_us_hash": "51a31ad8d79c833cfc44520672c87ea276dc1e08fdc6b2ca5667abdfb33edeb2",
+      "zh_cn_hash": "4a84be306b49dff5480165689beb9617f4a9e94d8b2a3c81359927d7a95d1adf",
+      "last_sync": "2025-11-03T02:07:58.352735"
+    },
+    "almostunified": {
+      "jar_name": "almostunified-forge-1.20.1-0.10.1.jar",
+      "en_us_hash": "208f463ed3f76522272c45a0aefffb8f29413ab9e99c6bfc6b9978289d0065a9",
+      "zh_cn_hash": "290894cdbcd34815fecb54f705faabcfcced773f415d0bac41bd7c5981a07255",
+      "last_sync": "2025-11-03T02:07:58.506032"
+    },
+    "amendments": {
+      "jar_name": "amendments-1.20-2.2.3.jar",
+      "en_us_hash": "dfe0502318ac055e844bb71303a33821c68d4b4cba9cce8c0c9df9ea9ba31809",
+      "zh_cn_hash": "510d7c3852d71a20bba57578dfaa34b2c5f173ab65de03d78b6e42991c1f256a",
+      "last_sync": "2025-11-03T02:07:58.927071"
+    },
+    "amethystmore": {
+      "jar_name": "amethystmore-1.20.1-1.0.jar",
+      "en_us_hash": "72d22d683e3538f713e091978f8758d3c40f805bee2bba4a8af489be68cbc8b7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:58.936837"
+    },
+    "alexsmobs": {
+      "jar_name": "alexsmobs-1.22.9.jar",
+      "en_us_hash": "b41410b3fe3444c1a47b04fb6aee16be05ffe18020841a7f93cdd55b665ef931",
+      "zh_cn_hash": "6e06c4bad14cfc556933c6156f323bb0a2c04aad8964973258e7c8aed459e4a5",
+      "last_sync": "2025-11-03T02:07:58.956793"
+    },
+    "amethysttoolsmod": {
+      "jar_name": "amethysttoolsmod-1.20.1-1.7.0.jar",
+      "en_us_hash": "7ed007ebf65c0b5efcbf272836732dc03f13707fa3dfd5d467e4b076562f5eb8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:58.999328"
+    },
+    "angelblockrenewed": {
+      "jar_name": "angelblockrenewed-forge-1.3-1.20.jar",
+      "en_us_hash": "3fb02ff69d96f52581265e63480883deeb6047dae0360f1e81e4a507f96cbbc3",
+      "zh_cn_hash": "eb5da2830cdb2313721e3a616b017d38f1ca47e10681bd37c3724a8593b0bdf6",
+      "last_sync": "2025-11-03T02:07:59.046522"
+    },
+    "aquamirae_delight": {
+      "jar_name": "aquamirae_delight-1.5.2-forge-1.20.1.jar",
+      "en_us_hash": "26de94db01a99110b21604005e8f13cb0aff78dea216871a63d66f5f1cd36b92",
+      "zh_cn_hash": "87fc63e6bfd683bdf3bad88fe232980e4171c55fc6e63a7f6fa261e8aa4ec025",
+      "last_sync": "2025-11-03T02:07:59.329290"
+    },
+    "attributeslib": {
+      "jar_name": "ApothicAttributes-1.20.1-1.3.7.jar",
+      "en_us_hash": "b956c5632cdd36853965451fc377c95458b9637666f48e68fb35a975a0f2b4a7",
+      "zh_cn_hash": "b5efe5d2bfb96e03cfd9ac20c2cc90db7837e5e36716670423f32f1fce338bd3",
+      "last_sync": "2025-11-03T02:07:59.352363"
+    },
+    "archeryexp": {
+      "jar_name": "ArcheryExpansion-forge-1.20.1-1.0.7.2-all.jar",
+      "en_us_hash": "7173c52824d5d20319836afde16973b5d1e59176fd403d2baca945105cdd6558",
+      "zh_cn_hash": "731a052226c4e15a83845d08b0612ac0559ea3ab5fd1a7c24dc87a511435b9a6",
+      "last_sync": "2025-11-03T02:07:59.399255"
+    },
+    "aquamirae": {
+      "jar_name": "aquamirae-forge-1.20.1-6.1.0.jar",
+      "en_us_hash": "016ff0257eaec2e064e28a3e64e50f16fab445f756a4bfca342de927549f2104",
+      "zh_cn_hash": "45207eebf5fc3ee4a1ff845936f634e6d35996015eb3254703ee5f15ef1ee27f",
+      "last_sync": "2025-11-03T02:07:59.571766"
+    },
+    "archexpsquared": {
+      "jar_name": "archexpsquared-0.3.0.jar",
+      "en_us_hash": "53a338444a23acb71b0fb00c25657c904ea5d60279c84563247f9df0d52dfc61",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:59.611247"
+    },
+    "armoroftheages": {
+      "jar_name": "Armor of the Ages-forge-1.20.1-1.3.11.jar",
+      "en_us_hash": "d11d5b6447e996993721213c1c27f826bc949fec4d4351c916c472dbe1c01c94",
+      "zh_cn_hash": "497f2f7e39df3f41d04f5212ddb96c10988f214a023d8a68226faa4fbbb416f3",
+      "last_sync": "2025-11-03T02:07:59.653080"
+    },
+    "armorstatues": {
+      "jar_name": "ArmorStatues-v8.0.6-1.20.1-Forge.jar",
+      "en_us_hash": "cf0ae07961fc27b5365cafdce597cbb6558b0005a9ac4e04b595cbeb889c5db8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:07:59.890252"
+    },
+    "arsdelight": {
+      "jar_name": "arsdelight-1.1.6.jar",
+      "en_us_hash": "5d5ce507fb91448948602e91fb0100861876d3e07c9ddee8922084ae48b3fb0d",
+      "zh_cn_hash": "cf2353e83057dab9a33142e114dcc7dd9c3bef3223118c3988bb1274878dffbb",
+      "last_sync": "2025-11-03T02:08:00.396778"
+    },
+    "ars_additions": {
+      "jar_name": "ars_additions-1.20.1-1.6.7.jar",
+      "en_us_hash": "b7a7e36aab9866daaff4850714daebe98fc9cf10db7e60d694acdea5caa68fe8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:00.582740"
+    },
+    "ars_artifice": {
+      "jar_name": "ars_artifice-1.20.1-2.0.4.jar",
+      "en_us_hash": "b5c571b7cfa1ca8e0ab733dd9f3321bb2679804b32ccf4ba4e206e5f4386fae5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:00.613353"
+    },
+    "armourers_workshop": {
+      "jar_name": "armourersworkshop-forge-1.20.1-3.2.5-beta.jar",
+      "en_us_hash": "16869b543e667669d158b3135aa8ef932613d7a1a252e231a89cc1c634f68722",
+      "zh_cn_hash": "19780ef29845b50c698c0f35eaffeb2704db9c7b501d7a1b57ba35c3c67dd357",
+      "last_sync": "2025-11-03T02:08:00.985017"
+    },
+    "ars_creo": {
+      "jar_name": "ars_creo-1.20.1-4.3.0.jar",
+      "en_us_hash": "8b7aeb93b44de2a92e467a0ad87e8ab8b87ff8ca4b546772ad3e2c71f17cb9f0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:00.995502"
+    },
+    "ars_instrumentum": {
+      "jar_name": "ars_instrumentum-1.20.1-4.1.0.jar",
+      "en_us_hash": "5879fa423a1a846070ddce9f573e2bd26e1b1a0431dc0b5ad78990479f33ec16",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:01.033348"
+    },
+    "ars_elemental": {
+      "jar_name": "ars_elemental-1.20.1-0.6.7.8.jar",
+      "en_us_hash": "827654198690c3f3ed5eb461519aec3f67358c287af0ee78acd0f4fd6ccf6af9",
+      "zh_cn_hash": "5ccb388268ba06b688e0656821ee6eac73463854b6619f44c4581a2d5827cfb3",
+      "last_sync": "2025-11-03T02:08:01.770397"
+    },
+    "artifacts": {
+      "jar_name": "artifacts-forge-9.5.16.jar",
+      "en_us_hash": "bf757c28cf2dd7e1a780ee91490e23aff3d43b7f631c2aa84fdf4e4ee27b7e61",
+      "zh_cn_hash": "3a4db874b2072da7a2051be0703ba563c14fe2a34fa05b9cffa336e0d965981f",
+      "last_sync": "2025-11-03T02:08:01.902830"
+    },
+    "ascended_quark": {
+      "jar_name": "ascended_quark-1.20.1-1.1.6.jar",
+      "en_us_hash": "1f7b7c70efb3d04349df6582b86f87fcc033d39fae678299eba6a60073798199",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:01.967414"
+    },
+    "asyncparticles": {
+      "jar_name": "AsyncParticles-2.3.11+1.20.1.jar",
+      "en_us_hash": "3fa2bc25e177bd0fa7e419c77ebe88b889910c14e25d31df89206418eb763013",
+      "zh_cn_hash": "87913aaf85e6d537cadedbd2f0526d5e8390ce771ea71f13807e4a988a7b6a67",
+      "last_sync": "2025-11-03T02:08:02.686655"
+    },
+    "atmospheric": {
+      "jar_name": "atmospheric-1.20.1-6.1.1.jar",
+      "en_us_hash": "a9784f2eb4cc1c983c0283fa68c9b45bafa8a7d43a79949be667bd56f47813b7",
+      "zh_cn_hash": "4cd8c473dfe4f2581d6c5c6794a63035a40cce88b2c6e50e39cf098ebcecf856",
+      "last_sync": "2025-11-03T02:08:03.060869"
+    },
+    "ars_nouveau": {
+      "jar_name": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "en_us_hash": "159bc0a19849eeec5333b7da184b986dda3a726943d171b5a2bce9881614e0ac",
+      "zh_cn_hash": "be65b92c3638191f5a6a22d1b40d9a4edcbf40bdcca5374fce1e411aa8e89186",
+      "last_sync": "2025-11-03T02:08:03.066979"
+    },
+    "automobility": {
+      "jar_name": "automobility-0.4.2+1.20.1-forge.jar",
+      "en_us_hash": "86e4226087ba05746b0f30a82074bbbb9487c0f5910a78d89958cecbf58fce8c",
+      "zh_cn_hash": "99a8c7204bd10571d034f966637893d4447ab6e067df46d5af5ab55efcaa27aa",
+      "last_sync": "2025-11-03T02:08:03.069767"
+    },
+    "autumnity": {
+      "jar_name": "autumnity-1.20.1-5.0.2.jar",
+      "en_us_hash": "4a4ece00973f57db06324a8950962604ff797cf6f4dd570c3d86551e5e4db360",
+      "zh_cn_hash": "feae43b9296b3e22ee43de5ae279e9c2000975eada65aaebc70c03b26a3ca7ea",
+      "last_sync": "2025-11-03T02:08:03.166274"
+    },
+    "backupmanager": {
+      "jar_name": "BackupManager-forge-1.20-1.0.0.jar",
+      "en_us_hash": "a5b46c7041d23cd896c84c9c73f582d0c0195fb2edc6fc1643cbb38d7b678cd1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.169711"
+    },
+    "backstabreforged": {
+      "jar_name": "backstabreforged-1.0.1.jar",
+      "en_us_hash": "7bf81577ab505b993c2c82460f970c824cc246e57f9a4b11e827ef52334e081d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.173509"
+    },
+    "bagofholding": {
+      "jar_name": "BagOfHolding-v8.0.2-1.20.1-Forge.jar",
+      "en_us_hash": "ee0e942342544f3d89d9fa73c54eddd9a8ebafedc96a9d1c76202419940c44db",
+      "zh_cn_hash": "dce1210f2c336522c154bf77bc939e82701cd1dbd634aadb9008de7b2af894d6",
+      "last_sync": "2025-11-03T02:08:03.174954"
+    },
+    "baguettelib": {
+      "jar_name": "baguettelib-1.20.1-Forge-1.1.1.jar",
+      "en_us_hash": "1962a24c512b7db29cb67b2572a6fad47144a8c4639c12c30219a73642ef93f2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.199878"
+    },
+    "bagus_lib": {
+      "jar_name": "bagus_lib-1.20.1-5.6.1.jar",
+      "en_us_hash": "ebc5ef9dd907b90efb203aacb3584b51c47fd0420366be7416db137500832402",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.201383"
+    },
+    "bakeddelight": {
+      "jar_name": "bakeddelight-0.1.2.jar",
+      "en_us_hash": "715a13184ecb9c699d90d42cb8bb2e8e42705614d0c6959c136613720c796e74",
+      "zh_cn_hash": "5456a6fc0b26f3761974920ebf05a7cba6757b7e792781130e16a6c7f7745ecc",
+      "last_sync": "2025-11-03T02:08:03.208793"
+    },
+    "balancedflight": {
+      "jar_name": "balancedflight-1.20.1_v2.4.0.jar",
+      "en_us_hash": "8ecc4bcdf50e9cfe4fcb77b037794de1899ac6919dc5837246dc6b138ff503c2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.211180"
+    },
+    "balm": {
+      "jar_name": "balm-forge-1.20.1-7.3.37-all.jar",
+      "en_us_hash": "e14d5f15643bed93f23ca36978a5e72493d61b74563558126e634617d86d1800",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.303454"
+    },
+    "barbequesdelight": {
+      "jar_name": "barbequesdelight-1.0.5.jar",
+      "en_us_hash": "e6912483145e3383f8cf4ae01930ed0bbea09fd3d7aea86e49888a50ead8267d",
+      "zh_cn_hash": "901044ee8b44dbe4bb512947e60e3ad9a54d3c052d2818c44cb051b905c3d21a",
+      "last_sync": "2025-11-03T02:08:03.354104"
+    },
+    "ba_bt": {
+      "jar_name": "ba_bt-1.20.1-3.0.0-beta2.jar",
+      "en_us_hash": "c1f288d55192d533cbfb81f9e6392c62de27d6b1e4e85a82ce9d41d8adb77cda",
+      "zh_cn_hash": "b88a9b0414fe0dd5dc4cd8a1e65d36acf872894a4d59dbe4ff0d5d27685e6267",
+      "last_sync": "2025-11-03T02:08:03.392138"
+    },
+    "beautify": {
+      "jar_name": "beautify-2.0.2.jar",
+      "en_us_hash": "fe47d913ea960cf4e08d223e79ea638fa39e266baca824fa3dc9277e955b1311",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.419192"
+    },
+    "bellsandwhistles": {
+      "jar_name": "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
+      "en_us_hash": "f9a1dd1fd9d1ef01441075b7f8f0c858cfcb3fd2f9cf93145f65043ed87bcda1",
+      "zh_cn_hash": "2ba81ae793ad529f350aff6c8a568c5c62aba0bc7aa8ded3289f94973084fe39",
+      "last_sync": "2025-11-03T02:08:03.444222"
+    },
+    "berry_good": {
+      "jar_name": "berry_good-1.20.1-7.0.0.jar",
+      "en_us_hash": "a7487b8e0a1a2712bc874b58bff2f3f8f2eb26824fc2d4e8097349390d097d0c",
+      "zh_cn_hash": "0bf2276cfbd71b4965dd0a072e3358ff5988a0b57d5f191f67b6d11a805c80c3",
+      "last_sync": "2025-11-03T02:08:03.449498"
+    },
+    "bestia": {
+      "jar_name": "bestia-1.20.1-forge-3.0.1.jar",
+      "en_us_hash": "110080a665e43dfe1f6be2a20e7b09f0723caa50cb32345b10b237bc2a8eee98",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.449952"
+    },
+    "bestylewither": {
+      "jar_name": "bestylewither-forge-mc1.20-1.6.1.jar",
+      "en_us_hash": "d38bc0b5b6476e8969b544727d4045eb8c7afd61da29df2a971a54951aaae047",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.467431"
+    },
+    "bettas": {
+      "jar_name": "bettas-1.1.0.jar",
+      "en_us_hash": "df8184c484f89868a52e187761e7079e995b40386a1f20ad21eb870b961b0d4b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.540825"
+    },
+    "betteradvancements": {
+      "jar_name": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+      "en_us_hash": "d86bd18c6db2071184ecef871d09ecb83239639ca850029d92386645ecd7dc0a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.573062"
+    },
+    "bcc": {
+      "jar_name": "BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+      "en_us_hash": "cfb107b96434cf1e590e0bdc19b613ea10fe8317c762f3f182a387faa5bab21b",
+      "zh_cn_hash": "c02a6251d977437572af0df6c7a92cc680f9775502860ebd1865786e4132bf19",
+      "last_sync": "2025-11-03T02:08:03.709318"
+    },
+    "bsf": {
+      "jar_name": "better-snowball-fight-1.20.1-3.0.0.jar",
+      "en_us_hash": "1e2ddd3fab4211c7cc46563f53e61c1e261c1759e7c15e5ddcd749ca54ca2647",
+      "zh_cn_hash": "90ab554737b5273097f16444782266a0ff8b0b22a9e85d901e73475923b2b431",
+      "last_sync": "2025-11-03T02:08:03.755556"
+    },
+    "betterstats": {
+      "jar_name": "betterstats-3.12.6+fabric-1.20.1.jar",
+      "en_us_hash": "f002f68e3bdaf4383e3342a99c3150d2b3f5c640b6ba964b8cd7a7ea30831ae0",
+      "zh_cn_hash": "245dd341503b8ce4eee41963e36bab2bc621f23a000978be254624f01e30b167",
+      "last_sync": "2025-11-03T02:08:03.822936"
+    },
+    "betterf3": {
+      "jar_name": "BetterF3-7.0.2-Forge-1.20.1.jar",
+      "en_us_hash": "ed2833d23ca0846f09e890d59efda6197a192e8f16676aa56f688246cdeb7f9c",
+      "zh_cn_hash": "8a4f5858c614cd3bdf557850cd1f6d018f2b8d813ab99f52ba185609e19876ba",
+      "last_sync": "2025-11-03T02:08:03.851303"
+    },
+    "betterthanllamas": {
+      "jar_name": "BetterThanLlamas-1.20.1-Forge-1.3.0.jar",
+      "en_us_hash": "9fbc8e532693c38bcf3723bc907f839bbcb139f76b3ea4d59062121181acc7c0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:03.855603"
+    },
+    "bic_clipboard": {
+      "jar_name": "bic_clipboard-1.2.0.jar",
+      "en_us_hash": "9c2cd9a6ec7c77fdcac045b9d40c5150dcc4e6655ec6e098647d3fbb0768a4f1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:04.088945"
+    },
+    "blueprint": {
+      "jar_name": "blueprint-1.20.1-7.1.3.jar",
+      "en_us_hash": "e266f095f79c1539155227bcc9da54f80f164ece16e0c07c7c4153c26a66e631",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:04.320236"
+    },
+    "biomesoplenty": {
+      "jar_name": "BiomesOPlenty-forge-1.20.1-19.0.0.96.jar",
+      "en_us_hash": "01d8ed290ea829387c04dd2454be635c4a36a54f471e299702dbcd44bf13777f",
+      "zh_cn_hash": "cd070e32bf9605a21b89e2c01ae56104a4558f1305f75b89cb26f4182cef6d2a",
+      "last_sync": "2025-11-03T02:08:04.429439"
+    },
+    "boatload": {
+      "jar_name": "boatload-1.20.1-5.0.1.jar",
+      "en_us_hash": "74d8702b934645b8bdc6a2709d13e73bb650617bb0b14e36c612883c516a375e",
+      "zh_cn_hash": "19ef0bb3914e575070a1274399964d4a37b25081c095708f650f1ef97e872b8d",
+      "last_sync": "2025-11-03T02:08:04.923277"
+    },
+    "boids": {
+      "jar_name": "Boids-2.0.2+1.20.1.jar",
+      "en_us_hash": "22cdee508f162efa94fd377db7638332cfe1c6ce9cd378a2147f74b09d48e0c0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:05.003040"
+    },
+    "bibliocraft": {
+      "jar_name": "bibliocraft-1.0.2.jar",
+      "en_us_hash": "ca6fbf6df63936d2f08165e6ab1e918fb3cbd8bb84aad2563e44b6a5b40a4695",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:05.176787"
+    },
+    "bosses_of_mass_destruction": {
+      "jar_name": "BOMD-Forge-1.20.1-1.1.2.jar",
+      "en_us_hash": "f0bbda4557fe143875d19d70aa0f9f4efc9ce1567233d59d2d4ed5d32a391143",
+      "zh_cn_hash": "3c2653c670c6b9b00d39d88ffe99d3cf1d441982c5dc111ef33bdfa8082168fa",
+      "last_sync": "2025-11-03T02:08:05.454941"
+    },
+    "bookshelf": {
+      "jar_name": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "en_us_hash": "7dc7947224cdb7abb617b50869586ba5b057fad87bb4a0a54f9fb57bc6a77b4b",
+      "zh_cn_hash": "35ee8719f8f24cab942ff5ed6f40bbddd47ac5261d4b8eae704ab9f847199e98",
+      "last_sync": "2025-11-03T02:08:05.486246"
+    },
+    "bookwyrms": {
+      "jar_name": "bookwyrms-1.20.1-1.1.2.jar",
+      "en_us_hash": "059b09113792507091c5cf2f38ec072cee9c9cb2f6472c114dccea9697cb2425",
+      "zh_cn_hash": "7613e5f92d2919d740134b10bf6f61075488084c9874bb593b0476098007cb59",
+      "last_sync": "2025-11-03T02:08:05.610048"
+    },
+    "blue_skies": {
+      "jar_name": "blue_skies-1.20.1-1.3.31.jar",
+      "en_us_hash": "cfefa5dc6cf93b9176f56b3fb79a01f85ef55d0a5cf09c4791901ed8a23bf2c7",
+      "zh_cn_hash": "24045a9d7023029b04a9c84afa61fbd1e7348f545b6d8065625f430e1e9d9958",
+      "last_sync": "2025-11-03T02:08:05.631271"
+    },
+    "botanicpledge": {
+      "jar_name": "botanicpledge-1.20.1-0.8.2.jar",
+      "en_us_hash": "5db9f13db841220719635e578df10df0b2f5bd2ca398192bb5f3064cab3baa00",
+      "zh_cn_hash": "19079a51b44d7d7f8a595e6acdac0e77aff72159baddc907e5bcff7748667b6f",
+      "last_sync": "2025-11-03T02:08:06.242399"
+    },
+    "bountiful": {
+      "jar_name": "Bountiful-6.0.4+1.20.1-forge.jar",
+      "en_us_hash": "da7c298595ab51bbbbae5dc8a690d47a38251eca42a94994b11c96e259627561",
+      "zh_cn_hash": "154b3bfae133e0a5c38c59b2163402a677973dfc2f39a641c4e48226dc21a7ed",
+      "last_sync": "2025-11-03T02:08:06.551618"
+    },
+    "braziliandelight": {
+      "jar_name": "braziliandelight-forge-2.0.3+1.20.1.jar",
+      "en_us_hash": "a208e1a2cec941c8664ee9737ecc5f4dd7e2d04f56132f89d69d3f00bed8c2f2",
+      "zh_cn_hash": "6960213bb87881872673d3b5106b53096133f0fd91a1ef7ccec4cbcde1edb9b6",
+      "last_sync": "2025-11-03T02:08:06.812991"
+    },
+    "brewinandchewin": {
+      "jar_name": "BrewinAndChewin-1.20.1-3.2.1.jar",
+      "en_us_hash": "d6864ed0ec5e125b68900e658b144f59ea9a87b5303cc6a40318e79b8d637be5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:06.836536"
+    },
+    "bridgingmod": {
+      "jar_name": "BridgingMod-2.5.1+1.20.1.forge-release.jar",
+      "en_us_hash": "210dce05c9409f9e6f4ab0e95d0b32eb1408ee13359e4192b6cd4a3093ec9689",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:07.003240"
+    },
+    "bubble_boots": {
+      "jar_name": "bubble_boots-1.20.1-2.0.2.jar",
+      "en_us_hash": "a33da0fb75b43c4c17de4433d3563708b029dd6ec25d0b0cf48abd8f85f3303d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:07.151282"
+    },
+    "buildinggadgets2": {
+      "jar_name": "buildinggadgets2-1.0.8.jar",
+      "en_us_hash": "07d4fac1ba5966d8f9851a09cac2330110959b328ba06c5615e81364958e9a81",
+      "zh_cn_hash": "d2d05ca90b4cf77ead6e38c398b2ee222f3674cc9ff7e9f186ca4ba757d4acb7",
+      "last_sync": "2025-11-03T02:08:07.207375"
+    },
+    "buzzier_bees": {
+      "jar_name": "buzzier_bees-1.20.1-6.0.1.jar",
+      "en_us_hash": "9e96ffd869f9f6c71a97ea96bd9116792495d3b75edcf39c57ee3b89510efbcb",
+      "zh_cn_hash": "089799b931dc171f315ba24324251067ad9a247400671f7fbb925f5665198269",
+      "last_sync": "2025-11-03T02:08:07.628249"
+    },
+    "bushierflowers": {
+      "jar_name": "bushierflowers-0.0.3-1.20.1.jar",
+      "en_us_hash": "01e25335ddf813c749fef7a3e4059196ef8a1e4f68d1666dd101ab5cedbd6a20",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:07.760803"
+    },
+    "bygonenether": {
+      "jar_name": "bygonenether-1.3.2-1.20.x.jar",
+      "en_us_hash": "e2d2d8874cd17b6ccbd7a94fd26d0f0e6f4f6116c0fc29fd1980b2f3c0336ccf",
+      "zh_cn_hash": "2698f493aa4383b73e37d5227cabc6ced5776e6d558cd63b1bff90175256c582",
+      "last_sync": "2025-11-03T02:08:07.937256"
+    },
+    "botania": {
+      "jar_name": "Botania-1.20.1-450-FORGE.jar",
+      "en_us_hash": "2da065a1de0c2b453ced2889ee84ff767f6d5046cc5e82229d0413ce9642ea7a",
+      "zh_cn_hash": "2bb5765a20b2fdbea7088862269387db3b111c3205bee285111debaaa1f931e0",
+      "last_sync": "2025-11-03T02:08:07.967074"
+    },
+    "caelus": {
+      "jar_name": "caelus-forge-3.2.0+1.20.1.jar",
+      "en_us_hash": "ec91bb92e63f9c5a364e56042c74b940bcc02027507c755b85ad050f7b2f3d13",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.036999"
+    },
+    "canonnukes": {
+      "jar_name": "canonnukes-3.0.0.jar",
+      "en_us_hash": "3fe67b8461b2a05ecb8ac333a6a51a39b1c14ec3767e6e3cdc9bca7587e93479",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.048636"
+    },
+    "casualness_delight": {
+      "jar_name": "casualness_delight-1.20.1-0.4n.jar",
+      "en_us_hash": "60fde3088362de0e90f7d42bf668ada87fdcde7d4fd0169e45d27cf1c5da3f7f",
+      "zh_cn_hash": "2de951e669cdeb0eaddf31180fdf1b18b20a4f8658f3af4b93931ec6ed605227",
+      "last_sync": "2025-11-03T02:08:08.098184"
+    },
+    "casinocraft": {
+      "jar_name": "CasinoCraft_1.20.1_v25.jar",
+      "en_us_hash": "30b5cbeb2c6efc8a063da27ef555430a69e323515bf977424a689a1e3e7933ce",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.144888"
+    },
+    "catalogue": {
+      "jar_name": "catalogue-forge-1.20.1-1.8.0.jar",
+      "en_us_hash": "7746f0a8fb3efc03367cb21d7be276063b8c627dd7f7fb0ca775cefacf1a6ac9",
+      "zh_cn_hash": "a3947eda8888488c1369a2fc8268f471847099477889f25a678ca32821609d1b",
+      "last_sync": "2025-11-03T02:08:08.209437"
+    },
+    "ccomunityboxes": {
+      "jar_name": "ccomunityboxes-2.2.jar",
+      "en_us_hash": "fb0d8d9097b897323ecf081676bc465061f7b0dca86f4b28c86270d5088511f3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.271707"
+    },
+    "cavedelight": {
+      "jar_name": "cavedelight-1.0.2.jar",
+      "en_us_hash": "14f0da0449085184e9c71742fd153a8043ced576d0e1f5bc1fe3d679683a55cf",
+      "zh_cn_hash": "2e79279f50ca4181945fbb2c255fab259e48d830e2b15b71425ac3aebc48856f",
+      "last_sync": "2025-11-03T02:08:08.277254"
+    },
+    "computercraft": {
+      "jar_name": "cc-tweaked-1.20.1-forge-1.116.1.jar",
+      "en_us_hash": "9194f15c49bf71f89074e83dd65dc01338f15d49855dc256ee0f261de42dd88c",
+      "zh_cn_hash": "a1466587d6d47056298dd0b17b2d81c4db5e57bcefcce3f8983a0fe603579cde",
+      "last_sync": "2025-11-03T02:08:08.385297"
+    },
+    "champions": {
+      "jar_name": "champions-forge-1.20.1-2.1.12.6.jar",
+      "en_us_hash": "ff106c96bafc0952e216ec40a3849c61bc1886f0ea4796ef6c81cc22e2107f27",
+      "zh_cn_hash": "290ff6d33303c4ee4980cd8b30ea0e5821219aeae69ee1c9a98af74905a4a063",
+      "last_sync": "2025-11-03T02:08:08.410897"
+    },
+    "chalk": {
+      "jar_name": "chalk-1.20.1-1.6.6.jar",
+      "en_us_hash": "74086914d4c0f8c0cd2800b2f0b4f9ad8f16ebfc0f4c856e00ad35a0074b58db",
+      "zh_cn_hash": "8a883d50218ab1f12933f55c6763284e824600d8b1bf5ee3f0a156849f28daf0",
+      "last_sync": "2025-11-03T02:08:08.429934"
+    },
+    "charmofundying": {
+      "jar_name": "charmofundying-forge-6.5.0+1.20.1.jar",
+      "en_us_hash": "5b4a7729d765b97af0691ea5b8fd5bbfc2cddaf8b158e2f05d3d8ee37a92d77b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.431733"
+    },
+    "chat_heads": {
+      "jar_name": "chat_heads-0.14.0-forge-1.20.jar",
+      "en_us_hash": "2ee92442f0fcea8b3e41b9093da87bca7c5c5a3ff9f16d48649c630439396611",
+      "zh_cn_hash": "27d39392357f6a0ce14ff217a0a24f2473d617ef2d7120085e74e143bfcd4768",
+      "last_sync": "2025-11-03T02:08:08.445059"
+    },
+    "chefsdelight": {
+      "jar_name": "chefs-delight-1.0.3-forge-1.20.1.jar",
+      "en_us_hash": "bb5cdcfc2c34a7ecbe9d6c768b07357bbc5660fadf315e5144975da1f4051c0b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.464253"
+    },
+    "cherishedworlds": {
+      "jar_name": "cherishedworlds-forge-6.1.7+1.20.1.jar",
+      "en_us_hash": "f619c43e0669c40506f190a2209bfc3bcbae355f7327c6676cb6b7aac45c0bd4",
+      "zh_cn_hash": "c21d909eab332306943e875934b8f436c9fa1090260193c2bacda6d093e1e522",
+      "last_sync": "2025-11-03T02:08:08.465076"
+    },
+    "chimes": {
+      "jar_name": "Chimes-v2.0.1-1.20.1.jar",
+      "en_us_hash": "ef18fba3745a1f1233f5fb71d7faa37a4d58a8e35051a75d97c4dba8d738247c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.479787"
+    },
+    "chloride": {
+      "jar_name": "chloride-FORGE-mc1.20.1-v1.7.2.jar",
+      "en_us_hash": "b0b7af25c813eea8b28e6e380d1f1a74efd953e6a21b94c637071f8bbb4d0281",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.767573"
+    },
+    "chowderexpress": {
+      "jar_name": "ChowderExpress-1.20.1-2.0.0.jar",
+      "en_us_hash": "13269d699be800d6b4566a079bc2ec88a8b945c910aae967cb822b13d423136e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.833625"
+    },
+    "chromaticenchantments": {
+      "jar_name": "chromaticenchantments-1.1.1.jar",
+      "en_us_hash": "d8d11fc4387f40171e58ed68bb7eae962f305bedf9b7b2d7f6f447ddbb6ca24b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:08.845098"
+    },
+    "citadel": {
+      "jar_name": "citadel-2.6.2-1.20.1.jar",
+      "en_us_hash": "eb28a5917b13cb01baf2add305cc7d86c48d1aa2368a4726b033d95ef89d8ccb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:09.438295"
+    },
+    "citresewn": {
+      "jar_name": "citresewn-1.20.1-5.jar",
+      "en_us_hash": "33f79b80e32ab43b62006cb3ab6bd2dee6cc59c27066929c24d4ec4bf29b8f18",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:09.530425"
+    },
+    "clay": {
+      "jar_name": "clay-1.0.0-forge-1.20.1-1.20.4.jar",
+      "en_us_hash": "bb7b4863f5286efa46e659730e85d282b62a3d33960f6a41cc7998e55d3e73e7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:09.531547"
+    },
+    "cloudboots": {
+      "jar_name": "CloudBoots-1.20.1-3.0.0.jar",
+      "en_us_hash": "18bdd165ac0b27806e9eded11c9582c844bd7c32b8ea8cbd6206e7bab34bc694",
+      "zh_cn_hash": "8ce61b81a1871dcb2d0ea3d0d38d7e08d78f1cc712f6703af34a3c06ae63773c",
+      "last_sync": "2025-11-03T02:08:09.947522"
+    },
+    "cmparallelpipes": {
+      "jar_name": "cmparallelpipes-1-20.1-1.1.3.jar",
+      "en_us_hash": "ba7e7ec181ae98e9da0e59ff0ca8ee2bc597816b07cf424c0aa8c58349a19e54",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:10.119051"
+    },
+    "brewincompatdelight": {
+      "jar_name": "Cocktails-Delight-1.2.2.jar",
+      "en_us_hash": "de092df6975c71f69d31b8561f19045ec1a06371299f512f869857d2192b1350",
+      "zh_cn_hash": "d3bea283116c1eb4f4948265d4b5304afda74daacd2c65929057698503ea3a32",
+      "last_sync": "2025-11-03T02:08:10.673836"
+    },
+    "codechickenlib": {
+      "jar_name": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+      "en_us_hash": "4aa787a09103fbbd5253c027e961d1426776afcd7d8cecdb58c16fcb2fa0f9ec",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:10.736506"
+    },
+    "cofh_core": {
+      "jar_name": "cofh_core-1.20.1-11.0.2.56.jar",
+      "en_us_hash": "7de90d64552c3a41e7b91cb092b0ef981be13bf8e6d03875ffa6a731d0fe2acf",
+      "zh_cn_hash": "3afe37ca17def13c80feb780ba60d1dfe165bf4c42fddd4c59b8d016f9407085",
+      "last_sync": "2025-11-03T02:08:10.824523"
+    },
+    "collectorsreap": {
+      "jar_name": "collectorsreap-1.20.1-1.4.1.jar",
+      "en_us_hash": "8a24fd157a4ee43d2fd8e377232be85efdea9bf0485e2af2b926d31559e29b9f",
+      "zh_cn_hash": "87079d26a5af401dc3b3f21be32db159fe9f060134e1de1c26bc6d91ae9acefb",
+      "last_sync": "2025-11-03T02:08:11.319322"
+    },
+    "companion": {
+      "jar_name": "Companion-1.20.1-Forge-5.3.1.jar",
+      "en_us_hash": "f1269e2c40935994a3e4012801143d1732ab10ceaebab80a8bcb00502c31dcff",
+      "zh_cn_hash": "a543191d04c7abfb687356b3b5940073ddbdf761387275d3a229401b8d52250b",
+      "last_sync": "2025-11-03T02:08:11.369969"
+    },
+    "compressedcreativity": {
+      "jar_name": "compressedcreativity-1.20.1-0.2.0-all.jar",
+      "en_us_hash": "fc1ff4511e6a1c6485be46be8b24aa54883e02ac2ca3aaef56450df1fdde40d9",
+      "zh_cn_hash": "6c2504a8805be36f6f24c2c7e3cd0b6b43272aaa8c41beb184e2dc8e82daa514",
+      "last_sync": "2025-11-03T02:08:11.766572"
+    },
+    "chipped": {
+      "jar_name": "chipped-forge-1.20.1-3.0.7.jar",
+      "en_us_hash": "95000f3644240d8e773fa93b190306fc9830380d8c872cae0ed39cabd0294cdb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:11.855256"
+    },
+    "configured": {
+      "jar_name": "configured-forge-1.20.1-2.2.3.jar",
+      "en_us_hash": "8e47d886a04753e5e54231310e2447816cd0cf525d4deed92172243b2152780e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:11.871590"
+    },
+    "connectiblechains": {
+      "jar_name": "Connectible Chains-forge-1.20.1-1.1.1.jar",
+      "en_us_hash": "4687c3d0e054ad2a96f83a0b32c43cfc9b02dd50f71dcea39e90ab0548d26f9a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:11.872955"
+    },
+    "ingameime": {
+      "jar_name": "ContingameIME-1.0.7-1.20.1-forge.jar",
+      "en_us_hash": "891340c55189bc1c2d3f1bc7e6d6613be39e8c87490ce0b826cce03af0a7e03f",
+      "zh_cn_hash": "d804151e245a471251552c7fd3141134d0609cea483f9f6b81048759fbd89390",
+      "last_sync": "2025-11-03T02:08:11.929167"
+    },
+    "constructs_casting": {
+      "jar_name": "constructs_casting-1.3.0.jar",
+      "en_us_hash": "9daeec83bf010b26bc6079b40f2e3c1880fc731754568ad687f6ebb7a6fdd602",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:11.948791"
+    },
+    "continuity": {
+      "jar_name": "continuity-3.0.0+1.20.1.forge.jar",
+      "en_us_hash": "bf57891877848d849979f2d22b4d2c3194376891483577f35558e2050c762493",
+      "zh_cn_hash": "1281f76d3dcee292b09c7e4669be8d9df88205f8831ddd19fdcdea08dc34c558",
+      "last_sync": "2025-11-03T02:08:11.955027"
+    },
+    "controlling": {
+      "jar_name": "Controlling-forge-1.20.1-12.0.2.jar",
+      "en_us_hash": "c3da62490bbd11e1dfdd5349aa74d4b5cffccd470c7587747981788956883ada",
+      "zh_cn_hash": "d5c27d2f9e69ef95f4c6faab1130e31bd28e014221ea076a06ff64b9733cccd5",
+      "last_sync": "2025-11-03T02:08:11.961675"
+    },
+    "convenientcurioscontainer": {
+      "jar_name": "convenientcurioscontainer-3.5-forge-1.20.1.jar",
+      "en_us_hash": "a12f0c5fa2c0a3ac783bcf4498c3a3176387035c74d9d6655fff9b8bbcb51dcb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:11.994663"
+    },
+    "cookielicious": {
+      "jar_name": "cookielicious-1.20.1-4.0.4.jar",
+      "en_us_hash": "834efd4d1b4e50cde113dc966e99448d7b45489e249731396b6dce3872c0afe3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:12.074367"
+    },
+    "cookingforblockheads": {
+      "jar_name": "cookingforblockheads-forge-1.20.1-16.0.14.jar",
+      "en_us_hash": "6682766d8716a47a20c18a800d0401c58b324bd36cd9f0858b11312b30c3f65f",
+      "zh_cn_hash": "8fc9024421d039cfc8775924887d8c3b911e6c163ca71e81400b141f9ab4c5cc",
+      "last_sync": "2025-11-03T02:08:12.078207"
+    },
+    "copycats": {
+      "jar_name": "copycats-3.0.2+mc.1.20.1-forge.jar",
+      "en_us_hash": "a086d74151606a64d8a3387facafed12908564280088574bad814a58621e9d1e",
+      "zh_cn_hash": "e6a031f27a7680c13c0f4b7a97bd34e26ceb2255f1ac925c5042c79402dccf7b",
+      "last_sync": "2025-11-03T02:08:12.098088"
+    },
+    "corpse": {
+      "jar_name": "corpse-forge-1.20.1-1.0.23.jar",
+      "en_us_hash": "c489d368867f8c87e9a9c8cc9f774258d02bc6d271f308846c32c41cb190142e",
+      "zh_cn_hash": "0cf99628d188a6c90b0c2ebc985766a99b7399262e7363911bba665a313e57a5",
+      "last_sync": "2025-11-03T02:08:12.169321"
+    },
+    "corn_delight": {
+      "jar_name": "corn_delight-1.1.9-1.20.1.jar",
+      "en_us_hash": "5c0d3b0d2b204fd4851191ef28184df3955216bf1f20e9c013c02c53fbd07e56",
+      "zh_cn_hash": "93ad48cad2f1fd2f176fd17dbba412ade28d7105cbcc9eeeb613995b82c4074d",
+      "last_sync": "2025-11-03T02:08:12.183529"
+    },
+    "cosmopolitan": {
+      "jar_name": "cosmopolitan-1.20.1-1.1.0.jar",
+      "en_us_hash": "300cebb933f4f9586a9f36e65911df201cbff1ad5fb6ef1023150f00bde34bda",
+      "zh_cn_hash": "1ec2b1b8344004e821d9459aa099acba1f569d1a1ac3655aec744eec9cd85f10",
+      "last_sync": "2025-11-03T02:08:12.413847"
+    },
+    "cosmoslibrary": {
+      "jar_name": "cosmos-library-1.20.1-10.6.0.0-universal.jar",
+      "en_us_hash": "50d641a2028c2a6c85a9a4d96fc15109bbdec8c243167c009b7a61c282190815",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:12.444982"
+    },
+    "cosmosportals": {
+      "jar_name": "cosmosportals-1.20.1-7.5.0.0-universal.jar",
+      "en_us_hash": "5a2e048619d240ecb20a36b6d5c53847380772ae1da405c9c630c9f997909dd8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:12.459505"
+    },
+    "cozyfoods": {
+      "jar_name": "cozyfoods-1.20.1 v1.4.jar",
+      "en_us_hash": "bbf928a1eb38506df0593b5d96a21e95e6f785b2386bdd95f5c6f4029c99afbf",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:12.474792"
+    },
+    "craftingtweaks": {
+      "jar_name": "craftingtweaks-forge-1.20.1-18.2.6.jar",
+      "en_us_hash": "2263a13975f7c9df189a9e19003466dcebfe244099c597572d75857089482ad7",
+      "zh_cn_hash": "17214d7ad2799989a27380b0b64a8f18c0f5bc6811279f43c03521617ba2e3aa",
+      "last_sync": "2025-11-03T02:08:12.531327"
+    },
+    "cratedelight": {
+      "jar_name": "cratedelight-25.09.22-1.20-forge.jar",
+      "en_us_hash": "6911648fcc692844ba118506a48bbc07ba06d0cb1a985f5e93dc1521b9067903",
+      "zh_cn_hash": "62bf5eb2d1fe23d5b61223599cb5c09a7dabdffdba56d9ce4fd06bc166e01e4c",
+      "last_sync": "2025-11-03T02:08:12.604381"
+    },
+    "crabbersdelight": {
+      "jar_name": "crabbersdelight-1.20.1-1.2.3.jar",
+      "en_us_hash": "17bb5cd7ae6e0c576df2de3006ddb4b78105bc919b24912c4be856a1ff6fab9b",
+      "zh_cn_hash": "6d47d97944a550fbcde56975fe91e06414a3a692e5a76f8610291367339b3a61",
+      "last_sync": "2025-11-03T02:08:12.631506"
+    },
+    "extendedwrenches": {
+      "jar_name": "create-extended-wrenches-1.20.1-1.3.0.jar",
+      "en_us_hash": "70f8cf84315b40235747c9c1018b6bf359b069c0c600a8a40d082f90c075fbfc",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:13.046935"
+    },
+    "createqol": {
+      "jar_name": "Create Quality of Life-1.20.1-1.6.1.jar",
+      "en_us_hash": "d5dc18be0f5d6aa2aceb3a38e659f640a58eee52a4e11437c7e859df155b3ac8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:13.265924"
+    },
+    "createcasing": {
+      "jar_name": "Create Encased-1.20.1-1.7.2-fix1.jar",
+      "en_us_hash": "cc5780402ba5087356f9409d19b83d320f846a67e209e45fb93513751011111e",
+      "zh_cn_hash": "4cead9c33b1883d79363c3b368a73117be8e25ccc4640e4334493fc5ae733f0e",
+      "last_sync": "2025-11-03T02:08:13.311178"
+    },
+    "createaddoncompatibility": {
+      "jar_name": "createaddoncompatibility-0.2.4.jar",
+      "en_us_hash": "c14739db9d03e289a67f617dc20f0344e09781c24421d1f6bcd02b355836a615",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:13.918028"
+    },
+    "create_new_age": {
+      "jar_name": "create-new-age-forge-1.20.1-1.1.4.jar",
+      "en_us_hash": "ef1bb19989d169b8408cbfca0e6dcc112390fb782f9dfce63dbc8f863d671d6b",
+      "zh_cn_hash": "2940aa6f42adfcc5dce4a3c9d752d090a3cfdf88139b5536ad2954b8247a3a50",
+      "last_sync": "2025-11-03T02:08:13.919571"
+    },
+    "createaddition": {
+      "jar_name": "createaddition-1.20.1-1.3.2.jar",
+      "en_us_hash": "d9a5f0873ecd4e3503ecf356db3710bbd0d13885387b00234356a70461f939c5",
+      "zh_cn_hash": "0267c2a0e26f6cf5a2dbf5558833d62ab4244616aec64ad8efd0cd929d56e2a7",
+      "last_sync": "2025-11-03T02:08:14.019487"
+    },
+    "createarmorblocks": {
+      "jar_name": "createarmorblocks-6.0-test-2.jar",
+      "en_us_hash": "877ac69aac49ffddbfeedca639c282b4f44ba2cfc99513e0c464efda2759d865",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:14.278856"
+    },
+    "create_bic_bit": {
+      "jar_name": "createbicbit-1.20.1-1.0.1B.jar",
+      "en_us_hash": "4e128132f02c07fea3ef43f63afef91f7eccc4fe8c0070e6fe9e8807c9fa5633",
+      "zh_cn_hash": "a13f2433e93710035f15778e89e67a8b1428dacd3effb49ab929125944ec681e",
+      "last_sync": "2025-11-03T02:08:14.815480"
+    },
+    "createcafe": {
+      "jar_name": "createcafe-1.2.4-1.20.1.jar",
+      "en_us_hash": "a9d032f25fbd06cafe8ee0d46d9a964a878819bd807228fb13bda216acb1b045",
+      "zh_cn_hash": "5e878e84cab0d697f76f6c28cb991e6c950f695a2bcadbe0459cd6cb2e6d1f5a",
+      "last_sync": "2025-11-03T02:08:15.426076"
+    },
+    "createbigcannons": {
+      "jar_name": "createbigcannons-5.9.1-mc.1.20.1-forge.jar",
+      "en_us_hash": "f90381a0f51f28da888f9eb3ffcbf4ec6ea19355e2bfcaab8e18c3f90f688051",
+      "zh_cn_hash": "3783d7b62a1b923f393af6c3b53e8589061263dc5b291eda42c5df71dd40cb5c",
+      "last_sync": "2025-11-03T02:08:15.494814"
+    },
+    "createcardboardthings": {
+      "jar_name": "createcardboardthings-1.0.1-1.20.1.jar",
+      "en_us_hash": "7b7abd501feabd24ebcac440b44d5515f41143deb33bf86d1a801fc8c8f6a6ab",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:15.507930"
+    },
+    "create": {
+      "jar_name": "create-1.20.1-6.0.6.jar",
+      "en_us_hash": "a18253caf3b8ed45c34849cbdffa5376490b141ef2bc4a0bc7d4d5ee1f4e87fb",
+      "zh_cn_hash": "5b9ad1a2a51873504c51acf225e2a3c156d5f339ec1684abe75520e68c613912",
+      "last_sync": "2025-11-03T02:08:15.517275"
+    },
+    "createenchantablemachinery": {
+      "jar_name": "createenchantablemachinery-3.4.1+mc1.20.1-forge.jar",
+      "en_us_hash": "782448f468293a2b3a1a1f2fcf9e5ed1a964a0d3a475bf9eece4806b744b6c83",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:15.686260"
+    },
+    "createentitycontroller": {
+      "jar_name": "createentitycontroller-1.20.1-0.2.7-6.0.+.jar",
+      "en_us_hash": "a4f3496bbe46c1fef95f545f42cf3cd814df77360384a8928ec9447298322dc1",
+      "zh_cn_hash": "f09dcaacf119f5af73cba2ecf03bce99ea5a735a83e56c8922357809e2d15b3b",
+      "last_sync": "2025-11-03T02:08:15.723870"
+    },
+    "createframed": {
+      "jar_name": "createframed-1.20.1-1.6.5.jar",
+      "en_us_hash": "480f4eca4534eeac8f70e4afe70c935fc23bf4d091f6f0dfa66b48c145215f15",
+      "zh_cn_hash": "9214eb09d078b65caef0fb016d38531581f832bd23343a869545d10a17f4eebb",
+      "last_sync": "2025-11-03T02:08:15.757781"
+    },
+    "createdeco": {
+      "jar_name": "createdeco-2.0.3-1.20.1-forge.jar",
+      "en_us_hash": "0f0d0ef34f47e44a810c678aee14b094e4cb32d100985d85863964c8848c3dd6",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:15.809992"
+    },
+    "createmetallurgy": {
+      "jar_name": "createmetallurgy-0.0.7-HF-1.20.1.jar",
+      "en_us_hash": "d1538dc5c0efe702079415acc986dfef2181904ff2af1f60f74f34feb66c7444",
+      "zh_cn_hash": "43d87664880731f87cb0f811413e8d3c8f54d9895bd24e1b769e69729a0a7a4b",
+      "last_sync": "2025-11-03T02:08:16.089793"
+    },
+    "createteas": {
+      "jar_name": "createteas-1.0.jar",
+      "en_us_hash": "e943b8719731b697983df8cd4c871cd19d68d96e87e45af98c7d5f55d3f7e429",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.114931"
+    },
+    "createterminal": {
+      "jar_name": "createterminal-1.20.1-1.0.3.jar",
+      "en_us_hash": "7968fce83bb278bbfed71672a4e6e51c7e3b801c3dca432b9ac6f48e417f9a37",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.171069"
+    },
+    "createrailwaysnavigator": {
+      "jar_name": "createrailwaysnavigator-forge-1.20.1-beta-0.8.4-C6.jar",
+      "en_us_hash": "c02211c3615d5dd9bca1a5e444e44635595765ac3c6607fc46f8c097ec97fcd6",
+      "zh_cn_hash": "5006024c2d94795f9469d139b3da4517186ab947185dd6af5c32916983e4dedd",
+      "last_sync": "2025-11-03T02:08:16.172939"
+    },
+    "createutilities": {
+      "jar_name": "createutilities-0.3.2+1.20.1.jar",
+      "en_us_hash": "c21c0c59e26576adc0934a11a7eb4824ed5025f65e21e66ed4203086debe741b",
+      "zh_cn_hash": "c1842e6d65bba9f6d087da1e13cfa3d4c9be92ade172fcb80efc7c1c2b870106",
+      "last_sync": "2025-11-03T02:08:16.278519"
+    },
+    "create_aquatic_ambitions": {
+      "jar_name": "create_aquatic_ambitions-1.20.1-2.0.1.jar",
+      "en_us_hash": "9587d31cdfd11fbcd8379ffa7c4b8a949665ce7a966f03d62a40011317aa2cc3",
+      "zh_cn_hash": "7a88bf90bc9f64ba7a719a8a657b01f001d9e9bef20d65130535ceefd0690def",
+      "last_sync": "2025-11-03T02:08:16.340735"
+    },
+    "create_central_kitchen": {
+      "jar_name": "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar",
+      "en_us_hash": "09920010ee40537226e44cad9e672dc2c4f4a7680430b6dd5f50f77d12b61875",
+      "zh_cn_hash": "678b180e4ea01a8b1149a51bf96b6e6205c009706648e7f9901efa419a503eb5",
+      "last_sync": "2025-11-03T02:08:16.393676"
+    },
+    "create_cuisine": {
+      "jar_name": "create_cuisine-1.0.0-slim.jar",
+      "en_us_hash": "356bc4c5e02e0d9cfd875c0fe1f5d9ceadc3459deee55648e326ffcb3eedd2dd",
+      "zh_cn_hash": "c02019ac0c52b76e98658366d5e778d89a08cb611e19db5e3202055082d52ec0",
+      "last_sync": "2025-11-03T02:08:16.430411"
+    },
+    "create_cultivation": {
+      "jar_name": "create_cultivation-0.1.3.jar",
+      "en_us_hash": "01b0adef1dd0f984ade678b335b501fc3eca7f8056eb669c5f957e65dbeca09b",
+      "zh_cn_hash": "6d3e8841aed7cc883c60c5d7cac445320cdc28fc7e734dce8da9a30b73c79ccd",
+      "last_sync": "2025-11-03T02:08:16.485496"
+    },
+    "create_connected": {
+      "jar_name": "create_connected-1.1.7-mc1.20.1-all.jar",
+      "en_us_hash": "5f9f532a38c5d7b21eb1aef94d6b89afd1e89515a776c4d311bfe767bf415be8",
+      "zh_cn_hash": "4e65e44b7a42acf5fe35bc064a2ed4b6bd2b68360e777ed91279dc1c1fd8b31a",
+      "last_sync": "2025-11-03T02:08:16.543452"
+    },
+    "create_deepfried": {
+      "jar_name": "create_deepfried-0.1.3B.jar",
+      "en_us_hash": "797fe788da799bb9b1b03096cdae3ede599b43da8fde7489cd7f1caf669f5016",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.556422"
+    },
+    "create_factory": {
+      "jar_name": "create_factory-0.4b-1.20.1.jar",
+      "en_us_hash": "47cff434292c1a7727ad7682b266169f573223b310383e750a22ae90136eb7e8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.565497"
+    },
+    "create_fantasizing": {
+      "jar_name": "create_fantasizing-1.20.1-1.0.3.jar",
+      "en_us_hash": "66c43a52f6df051fabaac3eabcc97aada6fc1e432bae23c7b855926046b2ab7a",
+      "zh_cn_hash": "39bb5cd28bc4591c85e5d672573558c2bedac24e63f6cc20bb169505202b05ed",
+      "last_sync": "2025-11-03T02:08:16.570252"
+    },
+    "create_hypertube": {
+      "jar_name": "create_hypertube-0.2.6-hotfix-FORGE.jar",
+      "en_us_hash": "f09a6ef37d7a65ae618cdbda0d4a6535a73fc8a6a762cf2f22d2bdfbb0f5a5cc",
+      "zh_cn_hash": "6c7218f653a0893ff00c9b4e5d1e42540234d2521707d230837cbf1b92375400",
+      "last_sync": "2025-11-03T02:08:16.644480"
+    },
+    "create_jetpack": {
+      "jar_name": "create_jetpack-forge-4.4.2.jar",
+      "en_us_hash": "94a44bf994a1cb7a62bdc9e65407423b8a21a86f3d1a486b70c8e7cdd7f301a2",
+      "zh_cn_hash": "858b549e252949ff37b19c930245903a9a7bc3f6d524b20bc6355d4c4d97141f",
+      "last_sync": "2025-11-03T02:08:16.648154"
+    },
+    "create_mechanical_spawner": {
+      "jar_name": "create_mechanical_spawner-1.20.1-0.1.7-6.0.6.jar",
+      "en_us_hash": "86ac62141836badafae6855ae69f79ef2a874a66b3758d6a85ceb69b375a5590",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.661300"
+    },
+    "create_things_and_misc": {
+      "jar_name": "create_misc_and_things_ 1.20.1_4.0A.jar",
+      "en_us_hash": "be0936a9e55eb687e7e463346dd01711bc6ccec91c1e7c958fbba4a893f082f4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.709407"
+    },
+    "create_mobile_packages": {
+      "jar_name": "create_mobile_packages-1.20.1-0.5.5.jar",
+      "en_us_hash": "6b517cb230c48e6406419985f4ebb60ac228824bd1b7aff7f2e31ef41efece50",
+      "zh_cn_hash": "c3e6e1475688ddda533814d390af49cfa3b0451ca586a422c230c4c35abab187",
+      "last_sync": "2025-11-03T02:08:16.767898"
+    },
+    "create_optical": {
+      "jar_name": "create_optical-0.3.1.jar",
+      "en_us_hash": "d6c92bad2a5ba64511e824b2cecc8b8b8a4a0e8f5c65845c7a5c1e6d22e347a3",
+      "zh_cn_hash": "dfc1056dba516f05b4a8889a3c25220bcaa47dcbf56c475328dae385035a9f99",
+      "last_sync": "2025-11-03T02:08:16.825317"
+    },
+    "create_snt": {
+      "jar_name": "create_snt-0.6.9_forge.jar",
+      "en_us_hash": "d78b1b24f8d50f21f7c02546b6489262fac093497f27a9197a9db7e0b42b2df7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.836413"
+    },
+    "create_power_loader": {
+      "jar_name": "create_power_loader-2.0.3-mc1.20.1.jar",
+      "en_us_hash": "3a8d849d62e08de5ac9e4c5535a11024811864db18a5cdb7ffa4d5ecce0b21d2",
+      "zh_cn_hash": "c766b3249dbe91d43ac1d36d27707ee22e9078649660508ad4625173a6c64165",
+      "last_sync": "2025-11-03T02:08:16.860580"
+    },
+    "create_tools_n_weapons": {
+      "jar_name": "create_tools_n_weapons-1.0.1-forge-1.20.1.jar",
+      "en_us_hash": "77d2d3ad2d9acce59ce088a1d984fe892acaedb784650dd96431a93ba140d4ad",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.924168"
+    },
+    "create_tweaked_controllers": {
+      "jar_name": "create_tweaked_controllers-1.20.1-1.2.5.jar",
+      "en_us_hash": "c48b3758a050a4de390b39d5e7675cb22c4d7fa1dd01c99a72952fba5fec09cf",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:16.934565"
+    },
+    "creatingspace": {
+      "jar_name": "creatingspace-1.20.1_1.7.10.jar",
+      "en_us_hash": "7a79811c70dddedd055f4041052facf56211ba172aa0fe155d69261058365d72",
+      "zh_cn_hash": "4d1b1f102050e47da7c820be6086445b47dd2917f6fc32a28b881587516b7de6",
+      "last_sync": "2025-11-03T02:08:17.039608"
+    },
+    "creativecore": {
+      "jar_name": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "en_us_hash": "fda92cb298cb070026f174702a4893fc0745e3721bedb7388cd8796c6391831e",
+      "zh_cn_hash": "485ef5c8788c46510a6a5ebbb7cd3608cd4035c876b224b2d35c0311c1b5c2e2",
+      "last_sync": "2025-11-03T02:08:17.047547"
+    },
+    "cristellib": {
+      "jar_name": "cristellib-1.1.6-forge.jar",
+      "en_us_hash": "514533afed6820c47dc6b074b547b6459b3d1bf2b618a3358937d694c5f13347",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.049053"
+    },
+    "creeperoverhaul": {
+      "jar_name": "creeperoverhaul-3.0.2-forge.jar",
+      "en_us_hash": "445efc52d0d264170737bfcb46669031ec92b955ec9323046be77686ad3df603",
+      "zh_cn_hash": "a812ef2e7d74275058a27cb96ca0a70574175306ae3236292812f91801139baf",
+      "last_sync": "2025-11-03T02:08:17.070432"
+    },
+    "ctl": {
+      "jar_name": "ctl-forge-1.0.1-C6.jar",
+      "en_us_hash": "955cdc5da12bad7f1adc344fdbea23f161812d639d280462161441be4c316314",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.100363"
+    },
+    "crystalix": {
+      "jar_name": "crystalix-1.3.5_forge_1.20.1.jar",
+      "en_us_hash": "8757902250142b5c5fa565afc3bf604b03a46942c9f5cf0dfbc2569d5568c237",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.122383"
+    },
+    "crystallized": {
+      "jar_name": "crystallized-1.1-FORGE.jar",
+      "en_us_hash": "50277a5bd6e86ed349a067c3d964d2b98b00c36cd53ee71277a60b6274b31934",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.129004"
+    },
+    "cuisinedelight": {
+      "jar_name": "cuisinedelight-1.1.17.jar",
+      "en_us_hash": "409caf6f82db7154ca3ac3ed4b4db3aaace43e069006f0b18f88044037e73542",
+      "zh_cn_hash": "4208c4020735a77e7a1657fa6ffa2fbe8deed172be3a61471cf1e42eb138dba5",
+      "last_sync": "2025-11-03T02:08:17.142821"
+    },
+    "culturaldelights": {
+      "jar_name": "culturaldelights-0.16.5.jar",
+      "en_us_hash": "bedb27aba57ad381fe5099a23b0c5fc92325e16716924991fff096b8e2601d75",
+      "zh_cn_hash": "fab9e7625a32d6f81ed3a5ab0358176deb3c9ee59d0e3f42c00d4647f86fbf83",
+      "last_sync": "2025-11-03T02:08:17.167201"
+    },
+    "dailydad": {
+      "jar_name": "DailyDad-forge-1.20-1.6.0.jar",
+      "en_us_hash": "6b3269290f21cd031ee31c7ef997e74b55e922ebb7a2bfa90ec70b0d07701191",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.225024"
+    },
+    "darkpaintings": {
+      "jar_name": "DarkPaintings-Forge-1.20.1-17.0.5.jar",
+      "en_us_hash": "39fb49c6f83631fd9ff7a2f67868661f41368063b1c0ba37f729b10ca4c18bb2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.236527"
+    },
+    "daily_rewards": {
+      "jar_name": "daily_rewards-1.20.1-5.3.1.jar",
+      "en_us_hash": "8f6164b79c5724933cccdd1578016a47aedeeaf16df792e96e2978f8b034ebb8",
+      "zh_cn_hash": "9a29699799e046a1321122ae6b84dbcfbe21725acb60bd2eb8c4138ad414ff5e",
+      "last_sync": "2025-11-03T02:08:17.258502"
+    },
+    "darkutils": {
+      "jar_name": "DarkUtilities-Forge-1.20.1-17.0.5.jar",
+      "en_us_hash": "ec3e3a8b164881b4d48a7ebb8ce17e9f8bd96c617303bd6f47cf8e9ab096a200",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.274291"
+    },
+    "datapackloaderrorfix": {
+      "jar_name": "datapackloaderrorfix-FORGE-1.20.x-a6138df.jar",
+      "en_us_hash": "fd41dd7baf6d6a2e78c7c3b1119ee8f25d9445a2ec8cfe06297a3714ddf2e947",
+      "zh_cn_hash": "90428c8b0cdc8e1f95e53709dee0aee4f0842c859db55b4fff88421c2f34a4d6",
+      "last_sync": "2025-11-03T02:08:17.355487"
+    },
+    "davespotioneering": {
+      "jar_name": "Dave's Potioneering-forge-1.20.1-13.jar",
+      "en_us_hash": "6b6ca4b7f9c34ddf10a48976e0abf74a0da2219c65dbad0d305065289d3bb426",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.417194"
+    },
+    "decorative_stands": {
+      "jar_name": "decorative_stands-1.20.1-0.3.2.jar",
+      "en_us_hash": "fb1c9ea8deff8b8f6797b4397c5c7674d5bf0c48ec51713e12f551a83b4c04ed",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:17.512452"
+    },
+    "dawnoftimebuilder": {
+      "jar_name": "dawnoftimebuilder-forge-1.20.1-1.5.28.jar",
+      "en_us_hash": "c05740cb8310b819da6938ccccdf5fe63974a678eaa7b5eff36239596ca7b6c7",
+      "zh_cn_hash": "0e44e9e5e3d869b7d4b8c83038d3fc778c7a6252744953b2b740f1ce115f0d9e",
+      "last_sync": "2025-11-03T02:08:17.604686"
+    },
+    "decoration_delight": {
+      "jar_name": "decoration-delight-1.20.1.jar",
+      "en_us_hash": "40ef10d91ae959f7dc3cc83008960df698ad174f5770dbade82b409ee0adbad9",
+      "zh_cn_hash": "b8e4a25944a82c15c271e794d1847cb9898337f2094644c76f0fe21d2a7b33d3",
+      "last_sync": "2025-11-03T02:08:17.659248"
+    },
+    "deeperdarker": {
+      "jar_name": "deeperdarker-forge-1.20.1-1.3.3.jar",
+      "en_us_hash": "b91f596254d6fbc2628405b8d4106edfaf5923db91523357e60576272d691f17",
+      "zh_cn_hash": "64daba9df7a42e6e2b019787062caee032f04df18e51868f567b59926d0635c6",
+      "last_sync": "2025-11-03T02:08:17.969209"
+    },
+    "delightfulburgers": {
+      "jar_name": "delightfulburgers-1.20.1.jar",
+      "en_us_hash": "6e3292d13784556b68b33829bab688ac30bd6bba3451bdffad275b53b5803ade",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.059139"
+    },
+    "delightful": {
+      "jar_name": "Delightful-1.20.1-3.7.6.jar",
+      "en_us_hash": "4c51aa9df365c58dcc6a0d338027ef5a8922695ce015dcfb8835545b49aa3ec0",
+      "zh_cn_hash": "0d9d91a319b77e6bda99c1d6abc0f4093a541e2e853e2f4ce4f1e66e8f03725e",
+      "last_sync": "2025-11-03T02:08:18.126094"
+    },
+    "delivery_director": {
+      "jar_name": "delivery_director-1.0.1-all.jar",
+      "en_us_hash": "2b7b9d968c10d6d151c42cc9f0798a74d8315756005dda877ebfcda1e25605b7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.185639"
+    },
+    "deltaboxlib": {
+      "jar_name": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+      "en_us_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.212890"
+    },
+    "deep_aether": {
+      "jar_name": "deep_aether-1.20.1-1.1.7.jar",
+      "en_us_hash": "b63be7e01869247ac540c1cc2a7e88ec56c11c71904959494cbeb39490add987",
+      "zh_cn_hash": "fa31e883a74fcf09cce5d7e964e1a30bec48689a6444bcbe59dc956fca77b41f",
+      "last_sync": "2025-11-03T02:08:18.223120"
+    },
+    "difficultraids": {
+      "jar_name": "difficultraids-1.20.1-2.0-beta16.jar",
+      "en_us_hash": "b9d19f45737fc29f490b20c0196d559dba81577f8d75105437ae4b7de9e5d36e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.283204"
+    },
+    "dimpaintings": {
+      "jar_name": "Dimensional-Paintings-1.20.1-2.1.1.jar",
+      "en_us_hash": "b49ce2c38389359c2b329ff9a8e861fb2f7b2442069a71624acf3f4abfd14df8",
+      "zh_cn_hash": "c559a3186ec8c2ef50bdde0f1984355ff191bfbccb2f8040571966eb2545db4a",
+      "last_sync": "2025-11-03T02:08:18.318677"
+    },
+    "dimdungeons": {
+      "jar_name": "dimdungeons-207-neoforge-1.20.1.jar",
+      "en_us_hash": "ae113ea6a60cc8793b55fad0bdb0d36e7f487a15d7fd32747f4cb114f696fbb5",
+      "zh_cn_hash": "9d9cca4c1a522c750c51eb8ae633b32d18dc1fe03f1b95eb0978ea0457af80f8",
+      "last_sync": "2025-11-03T02:08:18.399314"
+    },
+    "discarnate": {
+      "jar_name": "Discarnate-2.2.1+1.20.1-forge.jar",
+      "en_us_hash": "6d0f7f4e19aa1beec473533ffbff9ad411ba0a7edcc5eddc50134f892d54b1ca",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.407116"
+    },
+    "display_case": {
+      "jar_name": "Display Case-forge-1.20-1.0.8.jar",
+      "en_us_hash": "cf2fe4f31965de25ff80dde9be43610228f917de5a1d9575ef4c664021fd4b77",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.409114"
+    },
+    "dixtas_armory": {
+      "jar_name": "dixtas_armory-1.3.1-1.20.1.jar",
+      "en_us_hash": "0cc4de5b523c0db7cfbd2dba9d0265fcc98534d5108bd88731fd7020ed5cd8b1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.615560"
+    },
+    "doespotatotick": {
+      "jar_name": "doespotatotick-1.20.1-5.4.2.jar",
+      "en_us_hash": "2ce0799355be35ddc104b0229564b7337163dd462e460ca44b53ac46c7645530",
+      "zh_cn_hash": "52fdeb4334bd71c2e0bfe192d3dccdbc9f13aee524736707b22f6b98c46c96cd",
+      "last_sync": "2025-11-03T02:08:18.689579"
+    },
+    "draggable_lists": {
+      "jar_name": "draggable_lists-mc1.20-1.0.1-rev.824b2f3.jar",
+      "en_us_hash": "86830d372716db9c58735297bc6cf3ac5ace662688d8a22f996ce628ea023591",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.801210"
+    },
+    "dragonfight": {
+      "jar_name": "dragonfight-1.20.1-4.7.jar",
+      "en_us_hash": "93824b9cc4b9b817eb03a5b0004f7c4261a7817648f2718aa6dda4afd8733980",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.807728"
+    },
+    "doggytalents": {
+      "jar_name": "DoggyTalentsNext-1.20.1-1.18.63.jar",
+      "en_us_hash": "a262a1763a6dd699091dc937fca2eb5ed3e3b4e9232a21e03e17898dd6aa9b0d",
+      "zh_cn_hash": "d171d10a00cabe1d10f15e0a0c4e0715d131250678f8fa8fc25b4d11115b2fd6",
+      "last_sync": "2025-11-03T02:08:18.890863"
+    },
+    "dragonmounts": {
+      "jar_name": "dragonmounts-1.20.1-1.2.3-beta.jar",
+      "en_us_hash": "105a94d5cc5215d98b261d84509898dcc6c33c0018a800db17c81d138ba1c0af",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.897548"
+    },
+    "drippyloadingscreen": {
+      "jar_name": "drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar",
+      "en_us_hash": "11c71f305b89392e91059a069d330e9994b6fe094881829532a8410692a91f93",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:18.938713"
+    },
+    "dummmmmmy": {
+      "jar_name": "dummmmmmy-1.20-2.0.9.jar",
+      "en_us_hash": "bb7eb0b827c08e5bb32bf46a647d71448e3e17893e95e64db3122b45cc4b279c",
+      "zh_cn_hash": "ef8323cc0d0590aa78508dcc1c246df40e00f42acba58bcfed55a0aa39d1c496",
+      "last_sync": "2025-11-03T02:08:18.949427"
+    },
+    "dumplings_delight": {
+      "jar_name": "Dumplings Delight-1.20.1-Forge-1.3.1.jar",
+      "en_us_hash": "20042d55942561bfe3284cd71153ef295f9f4de7bd0282fabcb2008230272a06",
+      "zh_cn_hash": "25d1560ed0f7dab16e691e54b90f8d08734aae238b399fce5c49ff69e81e5b29",
+      "last_sync": "2025-11-03T02:08:18.956192"
+    },
+    "dungeons_arise": {
+      "jar_name": "DungeonsArise-1.20.x-2.1.58-release.jar",
+      "en_us_hash": "ff35e92d0c6f6866514ea16742cfdb98bed7a59a657db9b80f98eec313738d7d",
+      "zh_cn_hash": "214490632e96d1a316cccf907fc866229c048af30e71ab02dd0308e03ce2f37e",
+      "last_sync": "2025-11-03T02:08:19.133440"
+    },
+    "dungeonnowloading": {
+      "jar_name": "Dungeon Now Loading-forge-1.20.1-2.0.jar",
+      "en_us_hash": "b21c3abe0f0f11bc4b1946d1082433183b8e78d93d78aa4a34754d7358fbb898",
+      "zh_cn_hash": "b5a8630f6e4082b7238a2c3a0f6d32a12a877c3695b606e07458740e6f32e7f1",
+      "last_sync": "2025-11-03T02:08:19.169736"
+    },
+    "dungeons_enhanced": {
+      "jar_name": "dungeons_enhanced-1.20.1-5.4.3.jar",
+      "en_us_hash": "3b9c6911dc927554074f187b33fe17f88826678363d146457c2b898807eb6198",
+      "zh_cn_hash": "9be17dbb0468441a95b39b5b44004245005b63d8185b5eaeba03fe72c13f898e",
+      "last_sync": "2025-11-03T02:08:19.174502"
+    },
+    "dungeons_plus": {
+      "jar_name": "dungeons_plus-1.20.1-1.5.0.jar",
+      "en_us_hash": "181374fd1d0a93619a8e5d5f27ee0f7ed7a23e9cf20e32be4c07200df1c8c033",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.204420"
+    },
+    "easyanvils": {
+      "jar_name": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "en_us_hash": "b74e948a2153e0b8811e5c3814863f9906c5823d4c1b98f429d86178e40c7d2f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.233207"
+    },
+    "easymagic": {
+      "jar_name": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+      "en_us_hash": "f7ee0979fe7afb26e68907b4d49967be4d539d051776ae7be070670e6b1d8e64",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.234123"
+    },
+    "dustrial_decor": {
+      "jar_name": "DustrialDecor-1.3.5-1.20.jar",
+      "en_us_hash": "9cb8df606d974b70487331228582b0db19ff21ac27128609bf9c8080f4316039",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.247727"
+    },
+    "eatinganimation": {
+      "jar_name": "eatinganimation-1.20.1-5.1.0.jar",
+      "en_us_hash": "1ea5e40610abb61ac13587f7c4d5b85c25d6da60bfb9a1e6b6e0d08e6d71d8f4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.256311"
+    },
+    "echochest": {
+      "jar_name": "EchoChest-v8.0.0-1.20.1-Forge.jar",
+      "en_us_hash": "81bcdec2edf5dcadb0a37333219c446fdde2514d7c34b2a4ba73c4863d94f22f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.294422"
+    },
+    "eccentrictome": {
+      "jar_name": "eccentrictome-1.20.1-1.10.3.jar",
+      "en_us_hash": "2a62c4482a5abd5c409aaccf335365cb45990b967dce01e532d9d27d6a3efda6",
+      "zh_cn_hash": "f54797ae13699d549dd895a644c952038382b3acd3fe0e0e2652daecefbd7a5a",
+      "last_sync": "2025-11-03T02:08:19.295341"
+    },
+    "ecologics": {
+      "jar_name": "ecologics-forge-1.20.1-2.2.2.jar",
+      "en_us_hash": "425d2ffb02416b97c3260de726e17aa216566c641b43bb3c915b25a09ebdb9e8",
+      "zh_cn_hash": "ab86975e6da067cafb7c08f15fb85ec2d5f19d090d335d297480324573234095",
+      "last_sync": "2025-11-03T02:08:19.343007"
+    },
+    "embeddium": {
+      "jar_name": "embeddium-0.3.31+mc1.20.1.jar",
+      "en_us_hash": "b6e6729dbdadd3a0003172f9ea58b55e0228e7b2c09f452c1eaf07e79fdb29a2",
+      "zh_cn_hash": "f4768bb98e3a3aa4f56ec36bca6e0c42e571893bf854a62775ca3e315cdb05b2",
+      "last_sync": "2025-11-03T02:08:19.583490"
+    },
+    "enchdesc": {
+      "jar_name": "EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+      "en_us_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "zh_cn_hash": "749792e169e51a051c67a8468326be6f803a8c929e5ac6bc2d05b27b2a1e714f",
+      "last_sync": "2025-11-03T02:08:19.649540"
+    },
+    "enchantedpotato": {
+      "jar_name": "enchantedpotato-1.20.1-1.8.4.jar",
+      "en_us_hash": "b9550b5db5f39f8f9b98a435530926b3aa787d63444c3adf796cfb9eb7f4137e",
+      "zh_cn_hash": "9aa422e3e58dbb42fc1e321511f574e1cac12585a4fe9f4e7bef016b410c9e7f",
+      "last_sync": "2025-11-03T02:08:19.665291"
+    },
+    "eidolon": {
+      "jar_name": "eidolon_repraised-1.20.1-0.3.9.1-alpha.jar",
+      "en_us_hash": "cde10127e2b3d80b21f4c688904ffad65854e3a0558171a5463aac573e5c0198",
+      "zh_cn_hash": "9a20f048e396087c8d13b3859bd20830a2178f5eeebe5bfe5bc85993dbe11300",
+      "last_sync": "2025-11-03T02:08:19.830619"
+    },
+    "ender_relay": {
+      "jar_name": "Ender-Relay-1.20.1-Forge-1.1.0.jar",
+      "en_us_hash": "eca589a13506b699c40ed63cb6af42b9f40a2d2d52703619c58a50a38035ff8a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.865250"
+    },
+    "enderite": {
+      "jar_name": "Enderite-CJ-forge-mc-1.20-2.1.0.jar",
+      "en_us_hash": "deb6ba445f59d4dff71daf833a931c36563ce3698f63629b67d72d0b1c19a283",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:19.939675"
+    },
+    "endergetic": {
+      "jar_name": "endergetic-1.20.1-5.0.1.jar",
+      "en_us_hash": "86742376a3d173ac82bee27f9d48835322d4852968a58e5e3a6fd299c3e5f242",
+      "zh_cn_hash": "e0f2d19b9c2616b8df83108d6c3af1e651239a3fcd2efc49984c321f6838d6b7",
+      "last_sync": "2025-11-03T02:08:19.975548"
+    },
+    "endermail": {
+      "jar_name": "EnderMail-1.20.1-1.2.9.jar",
+      "en_us_hash": "aa199235f056da34ce3ebfc1677ba0fcf951b5158d93e2dab4c1057ddda01a50",
+      "zh_cn_hash": "566e606f0ce657b5a58821e2b7166a3545e524ca2419f37c5ebe1b7754a9689e",
+      "last_sync": "2025-11-03T02:08:19.979420"
+    },
+    "endermanoverhaul": {
+      "jar_name": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
+      "en_us_hash": "89e903cdf8e8006d20df380ecbd3ef562564aa00e5089d1d75eb5a0589d6ec33",
+      "zh_cn_hash": "fbe0a9acb59056fea75b09bb86d89156e65f1b1a82a4ec71a65f7fb8e48e4703",
+      "last_sync": "2025-11-03T02:08:20.014934"
+    },
+    "endersdelight": {
+      "jar_name": "endersdelight-forge-1.20.1-1.1.3.jar",
+      "en_us_hash": "b3c81f10b10525d28da0d8b06e64c1c02b54075b49503a81eeeb3e7086cc4f20",
+      "zh_cn_hash": "8d361ea48592566668f1ae54a0d7c309450d2eaab083cd732aef9ea5f68c7a7d",
+      "last_sync": "2025-11-03T02:08:20.056704"
+    },
+    "enderstorage": {
+      "jar_name": "EnderStorage-1.20.1-2.11.0.188-universal.jar",
+      "en_us_hash": "8701534e00e3566c9296498eaf442e23b055cd46a543e287c04e892cea709cdc",
+      "zh_cn_hash": "a82f162f97e88e8d006b8ddf6e9dce40c20bfcf08a301038be7563f8cdffc37b",
+      "last_sync": "2025-11-03T02:08:20.066844"
+    },
+    "endrem": {
+      "jar_name": "endrem_forge-5.3.3-R-1.20.1.jar",
+      "en_us_hash": "87cb05545e1802abcf3406a546ff301c85d77fd76a4dceb269a49f57e483b0aa",
+      "zh_cn_hash": "77cfee7f88ebb5b06b5348164c5ea36dd90ddb0d94f3f92a7157a240fb41a2e4",
+      "last_sync": "2025-11-03T02:08:20.101530"
+    },
+    "ends_delight": {
+      "jar_name": "ends_delight-2.5.1+forge.1.20.1.jar",
+      "en_us_hash": "3ef8da32dd7a8e7dcd577618bf0dafe34d7dd6b6d938e949a3fd7f3fd2dc3199",
+      "zh_cn_hash": "71c10c657d9cd7ba80007129ad4701e6220fb6f2ebc0ca9755093e89374d20dc",
+      "last_sync": "2025-11-03T02:08:20.111228"
+    },
+    "enhancedcelestials": {
+      "jar_name": "Enhanced-Celestials-forge-1.20.1-5.0.3.1.jar",
+      "en_us_hash": "7eacdf1257e0d3a54233fbb7f504e2490c5f9726079b8feb39d36a23aa67f7af",
+      "zh_cn_hash": "6f0bc3649030f57c8cd9bb5b0e036e2094878fac2a8d65690ef7ca4a24530bd5",
+      "last_sync": "2025-11-03T02:08:20.192640"
+    },
+    "enigmaticdice": {
+      "jar_name": "EnigmaticDice-1.3.1-1.20.1.jar",
+      "en_us_hash": "7890f6731fb5c16bc9104ba3759cc8a0d0ce34c58ce2a569dea4f41c81dc9862",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:20.231116"
+    },
+    "ensorcellation": {
+      "jar_name": "ensorcellation-1.20.1-5.0.2.24.jar",
+      "en_us_hash": "b08ea86b807931eda15a984a584458e314c5f1154dd54bdedc00b00e65fd8ffd",
+      "zh_cn_hash": "63f35fb6255f71f18140e906c0c4423ed36a9b69cfd722a904e8b401ab5969fd",
+      "last_sync": "2025-11-03T02:08:20.243826"
+    },
+    "entityculling": {
+      "jar_name": "entityculling-forge-1.9.2-mc1.20.1.jar",
+      "en_us_hash": "c1c63601306ba01625100841e6fceede018026189da42a38c81308813e0e8a5c",
+      "zh_cn_hash": "c8b2bdc5d1676bbd4a4117f9c931d555c6c25494dcef559b4025e0c0455b130f",
+      "last_sync": "2025-11-03T02:08:20.256341"
+    },
+    "entity_texture_features": {
+      "jar_name": "entity_texture_features_1.20.1-forge-7.0.2.jar",
+      "en_us_hash": "e3c3fbf5db5c5b7c384b8335cc09ad538d8673f5f1ef7d83ca4e2c906dfda85f",
+      "zh_cn_hash": "2be6b215d08da858c8f0322ada544c7ac9c0f0fd0e97295985177bd91d6c7963",
+      "last_sync": "2025-11-03T02:08:20.749332"
+    },
+    "entity_model_features": {
+      "jar_name": "entity_model_features_1.20.1-forge-3.0.1.jar",
+      "en_us_hash": "f75d5b00a03c590211ad8151ca9c6f7f7b94b8b0a7df4cd32d1524a0b56be0d7",
+      "zh_cn_hash": "8814397a326bcfc9cdc0c2ec8092a2c4f0997514d5f0ffc0723d06bffca65a8a",
+      "last_sync": "2025-11-03T02:08:20.756577"
+    },
+    "escalated": {
+      "jar_name": "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar",
+      "en_us_hash": "96e979d1bf6d7ec61a481de7adf3cc9f0f4b168d8b1e81102b5828f92ebe3a01",
+      "zh_cn_hash": "f6224da7def6bc38b2fa6d6c4cab6b4359d3c95050c0a8f86ae1cf15f7d67fe7",
+      "last_sync": "2025-11-03T02:08:20.757449"
+    },
+    "environmental": {
+      "jar_name": "environmental-1.20.1-4.1.2.jar",
+      "en_us_hash": "a12cfedfc08edb45ccc7cba92d124a37c0bee1915fcf6cc104df2fe14287f1a4",
+      "zh_cn_hash": "9e2af66e6e4000cdd8b5cd91555d4c7b3b141ef7fe4d4b6f618f987ddfe58869",
+      "last_sync": "2025-11-03T02:08:20.815513"
+    },
+    "eternal_shield_bead": {
+      "jar_name": "EternalShieldBead-1.20.1-1.0.2.jar",
+      "en_us_hash": "491d7e78e3e713ea081842a31a8cf646434f79cee4a454c80660002a186ac324",
+      "zh_cn_hash": "234fe31a758abdbaa12bcecbcbb3065c9a0d7babde415d4bd26cef2d362a69d7",
+      "last_sync": "2025-11-03T02:08:20.864107"
+    },
+    "etched": {
+      "jar_name": "etched-3.0.4.jar",
+      "en_us_hash": "e9f0f04ee998665e6fbfb6d80ad63610c1357079141fe684a97e7594c6b99a11",
+      "zh_cn_hash": "d7d7fc3ee8cf7a01e508da877e39817edcd2937d803446fe4cf02596ed3a1709",
+      "last_sync": "2025-11-03T02:08:20.868873"
+    },
+    "etstlib": {
+      "jar_name": "etstlib-3.0.0-beta.13.jar",
+      "en_us_hash": "74321dcd0b239ce74b6f6f813824c44501ad1a7021f7484d673a730763e42a9a",
+      "zh_cn_hash": "b0e0b6bcae053e2bbfa536fe2421bda3f80d4baf7cd76f21ed31e437b8617cf1",
+      "last_sync": "2025-11-03T02:08:20.901408"
+    },
+    "etched_extension": {
+      "jar_name": "etched_extension-forge-0.2.3+mc1.20.1.jar",
+      "en_us_hash": "7ffa926ffccf2a84d17138c0f28308a266ee321ab078075d72cb09e7ce07e599",
+      "zh_cn_hash": "9cff0afa5f2e23432215ee631dc8be69bf745a42e33ec500c0d226e86f9f8ccf",
+      "last_sync": "2025-11-03T02:08:20.904282"
+    },
+    "everyxhotpot": {
+      "jar_name": "everyxhotpot-1.1.2BF2-1.20.1.jar",
+      "en_us_hash": "c7099af3d5407c63b9d80c4f7ed6a429753e2ee0f9c15f464358ed9de9d1e241",
+      "zh_cn_hash": "8bae8f0f83d77fe73ed5f9a53ad5e4631289359253386034862c2a76320db93d",
+      "last_sync": "2025-11-03T02:08:20.997782"
+    },
+    "experienced_crops": {
+      "jar_name": "experienced_crops-1.20.1-1.1.0-forge.jar",
+      "en_us_hash": "7444bed5df1db3e94d0fca35a05893f596e431f1168b0d6eafe1f305ad869108",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:21.056272"
+    },
+    "explorerscompass": {
+      "jar_name": "explorerscompass-edited-1.20.1-1.3.9b-forge.jar",
+      "en_us_hash": "76b77184be37e256d1b3b971d19b32bdff902b3bc32d0d6238dd5dc03243c86f",
+      "zh_cn_hash": "5ba7fe0f2f244b88b8d618c85174163433ad6d82a46c352041ac49a8a0f7600b",
+      "last_sync": "2025-11-03T02:08:21.070357"
+    },
+    "exoticbirds": {
+      "jar_name": "exoticbirds-1.20.1-1.0.0.jar",
+      "en_us_hash": "c393351f8c729ceda80b555e797640b69dbc8414d7bd9b0581f4448bc9f5e85c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:21.156641"
+    },
+    "exquisito": {
+      "jar_name": "Exquisito-1.20.1-2.5.3.jar",
+      "en_us_hash": "a438c8deba2191ab29851242604f3c86b80407e236df0975a84602db09c0f83e",
+      "zh_cn_hash": "c32b2df19cd7c9424254e9bb433b9b224ea7fd65fef1d97e480903fb2166922f",
+      "last_sync": "2025-11-03T02:08:21.493771"
+    },
+    "exposure": {
+      "jar_name": "exposure-1.20.1-1.7.16-forge.jar",
+      "en_us_hash": "ebb27882dfaf6701e4e63d778004f8dc275d5c38e1d8f95572c8bfa1ed707904",
+      "zh_cn_hash": "764380c2ccd4279d7addb7800bd508dfac6efa29ad0650e6c4a1dba1af64993e",
+      "last_sync": "2025-11-03T02:08:21.496290"
+    },
+    "extradisks": {
+      "jar_name": "ExtraDisks-1.20.1-3.0.3.jar",
+      "en_us_hash": "da4c45914b82a07e7abe6527d1779b908670b2c43d465706850ddc8d08603b5b",
+      "zh_cn_hash": "e3ade4f68c0300cebb7330a1e6906bfb957cf3928d129842ec812c77cd522ff6",
+      "last_sync": "2025-11-03T02:08:21.592324"
+    },
+    "extrasounds": {
+      "jar_name": "ExtraSoundsNext-forge-1.20.1-1.4.jar",
+      "en_us_hash": "d9ff7e36623f560da597ee21e1aa0e0e57c4fceb14767290d03982b847926d9d",
+      "zh_cn_hash": "b09c9a130c0e5a6919a05a97afb304bfba9410a16cb6af48d17feae33c116e3c",
+      "last_sync": "2025-11-03T02:08:21.679597"
+    },
+    "extrabotany": {
+      "jar_name": "extrabotany-forge-1.20.1-1.9.1.jar",
+      "en_us_hash": "e9182af28506b06885306680c82f8ddecf105c2425656fb23b022bf7c4690eba",
+      "zh_cn_hash": "82be3e72518f846f9d85d6915184ea526cf6af6429914c56c0e1eb8946815bc8",
+      "last_sync": "2025-11-03T02:08:21.688555"
+    },
+    "extrastorage": {
+      "jar_name": "ExtraStorage-1.20.1-4.0.7.jar",
+      "en_us_hash": "e61b137cf40f849c6510824123c0e1d3fbbf476917b993ec8639ad1361045427",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:21.710983"
+    },
+    "eyesoficeandfire": {
+      "jar_name": "eyesoficeandfire-1.1.0-1.20.1.jar",
+      "en_us_hash": "bbb63b8a3088807189c69480fd87536f45edeeabc8b94a6a695faa2e49e7e813",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:21.726715"
+    },
+    "extremesoundmuffler": {
+      "jar_name": "ExtremeSoundMuffler-3.49.1-forge-1.20.1.jar",
+      "en_us_hash": "f2d3f4171dddb64665e79485c1e5649bf1854bad31bf11d061b1133089aa403f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:21.743681"
+    },
+    "fallingleaves": {
+      "jar_name": "fallingleaves-1.15.6+1.20.1.jar",
+      "en_us_hash": "a383b654b4549ce4bdffa2c80d84992df3bc4bbef46ab0d8a13a50a8a83019cc",
+      "zh_cn_hash": "844886d246e94b53e82c42b1c56cb6824b72a150fa0b87a923ed80fe20c84ddb",
+      "last_sync": "2025-11-03T02:08:21.894234"
+    },
+    "farmersplus": {
+      "jar_name": "farmersplus-1.0.3.jar",
+      "en_us_hash": "accf234f7c92a65c2e6ee839640bdae8e8ab23e517a1b4df32d5054f37e79f95",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:22.282144"
+    },
+    "farmersrespite": {
+      "jar_name": "farmersrespite-1.20.1-2.1.2.jar",
+      "en_us_hash": "29f4f53020a35afc893607eb6166162a2020d4ce88a18fa1b57952233148cd00",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:22.332986"
+    },
+    "farmersdelight": {
+      "jar_name": "FarmersDelight-1.20.1-1.2.9.jar",
+      "en_us_hash": "86b509a2f5281aa1139669d73c447588b13a4a82a68b8f16159cc9b7d11468fd",
+      "zh_cn_hash": "0d835e73423af64b68134e9111a584f8dde1fe15b6abaed9fc35c9d3a5ef971a",
+      "last_sync": "2025-11-03T02:08:22.426431"
+    },
+    "farmingforblockheads": {
+      "jar_name": "farmingforblockheads-forge-1.20.1-14.0.4.jar",
+      "en_us_hash": "16b132a139cc19757a0a6afbb014f2a77761fb50ec5b47ff69241354cb52812d",
+      "zh_cn_hash": "f62e2f00c5f5ab16c0ad76746b2256a7c392ad8cc2ac585b796f96adb83fc430",
+      "last_sync": "2025-11-03T02:08:22.467433"
+    },
+    "fastpaintings": {
+      "jar_name": "fastpaintings-1.20-1.2.7.jar",
+      "en_us_hash": "85a031db8cf07cfc076c3a0743505da9d2caf8b2aff08dc1384f1c94ab2e1384",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:22.740630"
+    },
+    "fastbench": {
+      "jar_name": "FastWorkbench-1.20.1-8.0.4.jar",
+      "en_us_hash": "140537bc629a8ab91fd0a74d0136a84b3b13e12d43ef520d9bea1f981e27e40c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:22.912384"
+    },
+    "fancymenu": {
+      "jar_name": "fancymenu_forge_3.7.0_MC_1.20.1.jar",
+      "en_us_hash": "17d2d3627d8b1b65f1ed9932e48ca1e0e1867c729ae891955e3aac248e0d9c73",
+      "zh_cn_hash": "09ffa1e0fbafdd0dea75382b0ab94c081971a94ca69df6bf8922ce33e634b1c0",
+      "last_sync": "2025-11-03T02:08:22.955177"
+    },
+    "festival_delicacies": {
+      "jar_name": "festival_delicacies-2.0.0-alpha+forge.1.20.1.jar",
+      "en_us_hash": "dcac4323b33dffa8fbd08446f48f0a9a5c40199e3f07163742dc3d1a04ba96af",
+      "zh_cn_hash": "84649d0f738de89f5185d13e7ba8fb193dceb445c8bfd79bc77841e89d5bb402",
+      "last_sync": "2025-11-03T02:08:23.114802"
+    },
+    "fishermens_trap": {
+      "jar_name": "fishermens_trap-2.1.4.jar",
+      "en_us_hash": "dc4c6069bedc480d529e64004e1fb59f02e4332a0f74509b34e7bfc5a919c0b6",
+      "zh_cn_hash": "d1c45a5e801f8ad9da4f1f4da8ced5440958ccfa2667d14a3a373cc04a785da5",
+      "last_sync": "2025-11-03T02:08:23.379340"
+    },
+    "fintastic": {
+      "jar_name": "fintastic-2.2.jar",
+      "en_us_hash": "d131c7cac2c07682f7ef7aa3bf59f139a751df6216bfecb7a289288d543a3632",
+      "zh_cn_hash": "658a32994650aef6885d1de718ee025c94bfe5a7eadf2fb7d74a8b559e28bf1e",
+      "last_sync": "2025-11-03T02:08:23.422435"
+    },
+    "flib": {
+      "jar_name": "flib-1.20.1-0.0.15.jar",
+      "en_us_hash": "05d5d983df25971da7c27419cf3e84a40dff6db454af9522f50019d97ed47edb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:23.550175"
+    },
+    "feywild": {
+      "jar_name": "Feywild-1.20.1-4.0.4.jar",
+      "en_us_hash": "c93753257c81bc86a999c9d812e75c424c9ad0d97c713b5cc64442fbd7191387",
+      "zh_cn_hash": "f6e9a09a270473a383cdea7ad02925f6c567c753c1a2c0789691d690ab2a2e83",
+      "last_sync": "2025-11-03T02:08:23.621935"
+    },
+    "fpp": {
+      "jar_name": "FloatablePressurePlates-forge-1.20.1-1.0.4.jar",
+      "en_us_hash": "f36e8fa64bb7a6af430cdc9e7a4c5e69981b7539550a65b8420ce973d8abacf5",
+      "zh_cn_hash": "572243f978979605dba954f383ae6ea015f3842ba80513938ee3e670c16aa268",
+      "last_sync": "2025-11-03T02:08:23.652021"
+    },
+    "floormats": {
+      "jar_name": "floormats-1.20.1-1.6.0.jar",
+      "en_us_hash": "385d56c1628fbff4df945602b8ee95b7aa3c41b6728d43bfa92a5a19ae8e3a17",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:23.739834"
+    },
+    "footprintparticle": {
+      "jar_name": "footprintparticle-0.5.4b-mc1.20(.1).jar",
+      "en_us_hash": "71477a696fe503e5a4ed8932b315b50dcaa3e50653446272a0869ff3a12a4bbd",
+      "zh_cn_hash": "444fb77651fb289d4e999d0d13481a2749e0b68282a60b101b909a65ae04f3a4",
+      "last_sync": "2025-11-03T02:08:23.926927"
+    },
+    "foragersinsight": {
+      "jar_name": "foragersinsight-1.20.1-1.0(TnT).jar",
+      "en_us_hash": "336f15afcec81ec8b64fc6b6effe9a0219d4a790814dc0ad3e0af2c39f1e593c",
+      "zh_cn_hash": "a9f25a08431e16ea7afeba0582be2a1ba963247ea452ee3c35c90285128bbb36",
+      "last_sync": "2025-11-03T02:08:24.042934"
+    },
+    "friendsandfoes": {
+      "jar_name": "friendsandfoes-forge-mc1.20.1-3.0.9.jar",
+      "en_us_hash": "98cd48fbd6b4290a04a1ca524816c5bb808a056a135a30e06d8e08acb0bd8741",
+      "zh_cn_hash": "44bf13ff31fc019a014d5b860896cd9ad782b5d60e659440b39714d5bdaaaeb6",
+      "last_sync": "2025-11-03T02:08:24.484287"
+    },
+    "framework": {
+      "jar_name": "framework-forge-1.20.1-0.7.15.jar",
+      "en_us_hash": "73b618079fef69b93b83ef51ce11241b2e98329c7e63035fbae304d44455e281",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.500189"
+    },
+    "flowerary": {
+      "jar_name": "flowerary-1.20.1-1.0.0.jar",
+      "en_us_hash": "0c3d74bef813718da0cccb36f9c28a08ed04e6638a4d4f5e260711d2868b0b79",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.548581"
+    },
+    "fruitsdelight": {
+      "jar_name": "fruitsdelight-1.1.1.jar",
+      "en_us_hash": "cc89e69f790165b60765e584b2aa9f6681ac861fea03e544512830e647376674",
+      "zh_cn_hash": "5be7fb68f358d8bf6a1fec1be586e6f59fe3b4851e62fec448cc9d2129641df0",
+      "last_sync": "2025-11-03T02:08:24.637387"
+    },
+    "frycooks_delight": {
+      "jar_name": "frycooks_delight-1.20.1-1.0.1.jar",
+      "en_us_hash": "4646d4ddc901f80cbbf7ad528d7a7fd80f66d2b911a26e1565d6c2d2db8f9c95",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.646878"
+    },
+    "funkyfluids": {
+      "jar_name": "funkyfluids-1.20.1-1.1.1.jar",
+      "en_us_hash": "c823814c380ccaa949a8086406df6ff080964d94d147e1dc96f453ec4e37aacb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.652028"
+    },
+    "fusion": {
+      "jar_name": "fusion-1.2.11a-forge-mc1.20.1.jar",
+      "en_us_hash": "0d33d85944f6da6d0699231b0b3deec4728da3cf36221a126cbb808dafc41964",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.660660"
+    },
+    "fullturtlearmor": {
+      "jar_name": "fullturtlearmor-1.9-forge-mc1.20.4.jar",
+      "en_us_hash": "06a4426d3b086b0fff0f5442cae973f1b6c8c639ba93cd01fd55c7debc259f0a",
+      "zh_cn_hash": "eb1288d7659bb8994dd6fae9fe9161c79581a732cdc2cd2af13b1425236d4061",
+      "last_sync": "2025-11-03T02:08:24.695054"
+    },
+    "fzzy_config": {
+      "jar_name": "fzzy_config-0.7.3+1.20.1+forge.jar",
+      "en_us_hash": "32baece4fa96b9490d775ea1e45e3a42ccede5e48901ebebe29f2341e523117c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.821341"
+    },
+    "galosphere": {
+      "jar_name": "Galosphere-1.20.1-1.4.1-Forge.jar",
+      "en_us_hash": "c9640a6f0f93cf576b109d5d199ada6c3f0f06e4533f4a5d186d96eaee6a9719",
+      "zh_cn_hash": "c1177c780e026ff247cb036e301aaa2f5868ea935ede75ffec27b87c15a6284d",
+      "last_sync": "2025-11-03T02:08:24.860745"
+    },
+    "gardentools": {
+      "jar_name": "gardentools-1.20.1-1.2.0.jar",
+      "en_us_hash": "9f6d6fa13e6463e741f1abe1a959482e26219aae11097b7845c1eff023e0cc18",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.864272"
+    },
+    "galosphere_spellbooks": {
+      "jar_name": "galosphere_spellbooks-1.1.0.jar",
+      "en_us_hash": "4a03fb7610375c9b8c45a46369c8dde9846a2245d967489362bd1afdba0bbd08",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.867324"
+    },
+    "geckolib": {
+      "jar_name": "geckolib-forge-1.20.1-4.8.2.jar",
+      "en_us_hash": "a6009162427aff18eac82adc58076d924abb45e52b8331608b643a5a3023f5fa",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:24.987983"
+    },
+    "geotagged_screenshots": {
+      "jar_name": "geotagged_screenshots-1.20.1-0.2.0.jar",
+      "en_us_hash": "8142354534aeda3063b11a31d3399685dcd2ebcc7be32a315059a7478889cadb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:25.036984"
+    },
+    "gemlichens": {
+      "jar_name": "gemlichens-1.0.0-forge-1.20.1.jar",
+      "en_us_hash": "47d47b4badf619617cd05025517ced41b7d3b7be9fc856f83870be4762faa078",
+      "zh_cn_hash": "e0bde692a2909220ee8748036f585d0bdb49d8ccf260dba67f06197d907a143a",
+      "last_sync": "2025-11-03T02:08:25.139326"
+    },
+    "glued": {
+      "jar_name": "glued-1.20.1-1.0.jar",
+      "en_us_hash": "a2fea694f98d6e5c49e768dd844a6ab8f42d5b4ded79cdd8c772106fa8169752",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:25.293598"
+    },
+    "ghosts": {
+      "jar_name": "ghosts-forge-1.20.1-1.2.1.jar",
+      "en_us_hash": "27a61bf99e2b2b0b89e5056e17aa34377a3ff1c9d63a321c5d86200248340913",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:25.307509"
+    },
+    "garnished": {
+      "jar_name": "garnished-2.1.2+1.20.1-neoforged.jar",
+      "en_us_hash": "d782ccce62d1da554ef63f7056cc4e08de5977271ca5678a18f9aa2313f81431",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:25.329921"
+    },
+    "goblintraders": {
+      "jar_name": "goblintraders-forge-1.20.1-1.11.5.jar",
+      "en_us_hash": "66869a9094f1ed3d45cc4f049156446dbe07316568b8ac32035e149bfd74a03a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:25.383225"
+    },
+    "goated": {
+      "jar_name": "goated-1.20-1.3.6.jar",
+      "en_us_hash": "be6cdaa51f4cf813977344affd07db97d01fce9f176e58744d2a0122a8bec1e1",
+      "zh_cn_hash": "4aab0d59cb397238c83a9b606a7bb75055c8ed87708f6eb6efd6ea450b3225c3",
+      "last_sync": "2025-11-03T02:08:25.386538"
+    },
+    "goety_spillage": {
+      "jar_name": "goety_spillage-1.20-1.4.3.jar",
+      "en_us_hash": "4f9cc4b94d11bff06ee72a42a06e7a2606ee9bab26cc5619143a74914a5e5847",
+      "zh_cn_hash": "b1f8d4a327e7aae40ba1c5df47c9dd185565f7156dcaf578e35588dda0beba08",
+      "last_sync": "2025-11-03T02:08:25.774143"
+    },
+    "golemdungeons": {
+      "jar_name": "golemdungeons-1.0.3.jar",
+      "en_us_hash": "cb23411e4e6ba8901ddba5c5f68da81458ec60dc3d150eff9e657074a8dc25f8",
+      "zh_cn_hash": "ad019025674eb609d2eb0384552850d0ca50cf48d7522cbd59b5b5dc8c7f4649",
+      "last_sync": "2025-11-03T02:08:25.849201"
+    },
+    "grassoverhaul": {
+      "jar_name": "Grass_Overhaul-Forge-23.10.10-MC1.20.1.jar",
+      "en_us_hash": "b7ea0a1c70902df3a373c43d3e017fb8697c1e60ec07e38a0c596633138bef57",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:26.271328"
+    },
+    "grapplemod": {
+      "jar_name": "grappling_hook_mod-1.20.1-1.20.1-v13.jar",
+      "en_us_hash": "55de3259ec472b6b9eb62e243525cb94e6c9928c0125da9a37eb7e0ffc477b95",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:26.340542"
+    },
+    "greendelights": {
+      "jar_name": "greendelights-1.0.1-1.20.1.jar",
+      "en_us_hash": "dc781f97f4fe232d03981fc31f3e71003442516340060a49b603ad1f4446a70f",
+      "zh_cn_hash": "5a575f937c2dbd848cd7284c1875ecf7296ae73f90a427e8d9993fd0cbf73531",
+      "last_sync": "2025-11-03T02:08:26.379339"
+    },
+    "gunswithoutroses": {
+      "jar_name": "gunswithoutroses-1.20.1-2.5.0.jar",
+      "en_us_hash": "8914015c3bb9f674caae87ff8cfff3b30dc91fb2778aa38736a682e685c7a510",
+      "zh_cn_hash": "40174ae6bc5e644f4f7a2800d7e5b75d48d738867227a64aafac20d86d32234d",
+      "last_sync": "2025-11-03T02:08:26.623487"
+    },
+    "gunswithoutrosesadditions": {
+      "jar_name": "gunswithoutrosesadditions-1.20.1-1.2.0.jar",
+      "en_us_hash": "98510502ba4f142d94bbacc6304f5c0c6601d0a014f9c38d2b0b997e562a7791",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:26.674792"
+    },
+    "hamsters": {
+      "jar_name": "hamsters-forge-1.0.3-1.20.1.jar",
+      "en_us_hash": "7c2cc34523fc18702baf55e811c55435589e8c2753a77d51679ab76807b9ee46",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:26.942809"
+    },
+    "goety": {
+      "jar_name": "goety-2.5.37.5.jar",
+      "en_us_hash": "5a27f03fa6948f592fc39a004b239fbd1bf26def3df7ab6b324d424f04f07713",
+      "zh_cn_hash": "1825e91fdd5c4c86e0b0e0e436fc79b5ec7fa1edcc6da82769d656e2fe49d53e",
+      "last_sync": "2025-11-03T02:08:26.968409"
+    },
+    "hangglider": {
+      "jar_name": "HangGlider-v8.0.1-1.20.1-Forge.jar",
+      "en_us_hash": "9bdf0b8102a26adb458adb21be3d2d6e0ada336dd15d9446b7f804f86c47b8d0",
+      "zh_cn_hash": "d18ef67a522f11eecf6952f72b4aef0b825b981739e793969fd7b8e5f67b5f06",
+      "last_sync": "2025-11-03T02:08:26.973897"
+    },
+    "happy_ghast_legacy": {
+      "jar_name": "happy_ghast_legacy-1.8-1.20.1-forge.jar",
+      "en_us_hash": "71537decba59f69efab0c78d6de067d7fc3b45ff51ab69dfa9dee38457d3bac0",
+      "zh_cn_hash": "e50c5cff75d21daf27e3cb2ab9650baa2d742bae0485fc604059d22ac247d567",
+      "last_sync": "2025-11-03T02:08:27.014547"
+    },
+    "heracles": {
+      "jar_name": "Heracles-forge-1.20.1-1.1.13.jar",
+      "en_us_hash": "8b28fba5aeb21010d1579af627e86dfc93910a1f1bb93737ced3269abd646de5",
+      "zh_cn_hash": "a271fe33bc749de11080cf96e4547a7723e7a0ed866f521a75996336dd498fd0",
+      "last_sync": "2025-11-03T02:08:27.380846"
+    },
+    "hexflow": {
+      "jar_name": "hexFlow-forge-1.20.1-0.3.1.jar",
+      "en_us_hash": "a24189c8a98734bb7394c575173b5a2deab3a2cf687633f1c6e6864aac8d7c7e",
+      "zh_cn_hash": "69b925d1559d9dca2b3b187fab93f9ea6c0179e4a79731bdfdce07bdc693fb6a",
+      "last_sync": "2025-11-03T02:08:27.445738"
+    },
+    "hexoverpowered": {
+      "jar_name": "HexOverpowered-forge-1.20.1-0.9.0.jar",
+      "en_us_hash": "b3be702d7302a9f0ef4a0d977c077635c5e7fb3d97a8b1dcf526efb26657c5dc",
+      "zh_cn_hash": "6ba3ad94f0613779e82655d72af575f9cbfaade80e9bb5ee11e446d7344f5748",
+      "last_sync": "2025-11-03T02:08:27.747902"
+    },
+    "hexparse": {
+      "jar_name": "hexParse-forge-1.20.1-1.4.0.jar",
+      "en_us_hash": "b6a5e4e694d7c36e354d37ffa17940d659c4f38022d2775c1bc93d936d6c378a",
+      "zh_cn_hash": "6b8a489eb71ab4c113d76cb279072f440e9499adb71df1c80f0cb652008a45bd",
+      "last_sync": "2025-11-03T02:08:27.878192"
+    },
+    "hextweaks": {
+      "jar_name": "hextweaks-5.3.3.jar",
+      "en_us_hash": "33a7eb64ed404b5f5925569e0003fb4c0f0af11b7ae7a9766989f58123704f10",
+      "zh_cn_hash": "e4f14ded50f8db0b784dae760591519e96763c8e98be8f33758b73e9d15e9f7d",
+      "last_sync": "2025-11-03T02:08:28.115453"
+    },
+    "hexerei": {
+      "jar_name": "hexerei-0.4.2.3.jar",
+      "en_us_hash": "0fa8c7d1f38e9b7f59571b890dd9bd4b6bbc8a854b520c62d55399a592e11b09",
+      "zh_cn_hash": "a3e2f95816e897bf6b6c9b590b6b8d18d57a21234c55300be81fc2d2e5050436",
+      "last_sync": "2025-11-03T02:08:28.330753"
+    },
+    "hex_ars_link": {
+      "jar_name": "hex_ars_link-1.20.1-0.9.2.3.jar",
+      "en_us_hash": "a8ec815bbffb94a424b68560f3dec34d2e6661c108a094438a06fb1f3ac36d7b",
+      "zh_cn_hash": "f152e886379d696dbc585d2a3bc0bea6d2e7e0bbaee081ab00c0a9f6a7eabc87",
+      "last_sync": "2025-11-03T02:08:28.450944"
+    },
+    "hunters_return": {
+      "jar_name": "hunters_return-1.20.1-11.8.0.jar",
+      "en_us_hash": "0310b3d34c518c330ca43b064ab8cec509d8110ec1ad9c15903d1398003b0f4e",
+      "zh_cn_hash": "4355d50de3aa941e234f0a46a10f2af28abb78ed557832bdb74c774bcee01629",
+      "last_sync": "2025-11-03T02:08:28.673796"
+    },
+    "ias_spellbooks": {
+      "jar_name": "ias_spellbooks-1.1.0-1.20.1.jar",
+      "en_us_hash": "593b9dac6e2673775e1c32cb53aaa97a2802c91c6f4d70eb16f956631b824660",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:28.950115"
+    },
+    "hexcasting": {
+      "jar_name": "hexcasting-forge-1.20.1-0.11.2.jar",
+      "en_us_hash": "c0be1175a967358203fb34e903cdf8499f30f0839329906f3e6f7ca8ce9ab17b",
+      "zh_cn_hash": "a6a4c30bb35ac54bb2d3b6070ae7eb11809c819a0e9e0f4661f2e56c1411b778",
+      "last_sync": "2025-11-03T02:08:29.076678"
+    },
+    "ice_and_fire_spellbooks": {
+      "jar_name": "ice_and_fire_spellbooks-2.3.1-1.20.1.jar",
+      "en_us_hash": "9b9572be296d7c09078558ae0eedf450b98d03957d5062f39420a7f93347f1a7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:29.430273"
+    },
+    "ichunutil": {
+      "jar_name": "iChunUtil-1.20.1-Forge-1.0.3.jar",
+      "en_us_hash": "f64830f283b289832c301976eadd56975e3b4dba69bb6aee99e87bc6596ed533",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:29.475710"
+    },
+    "iceandfire": {
+      "jar_name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "en_us_hash": "b1d334d92a24f14ed54050918d7609fb49133fe0ad911e99726295d1bc7f98f6",
+      "zh_cn_hash": "b9a1228d2f2cbcdf26ccd899dea2591686d7a8afcdc9f03272748a9f87664f27",
+      "last_sync": "2025-11-03T02:08:29.648589"
+    },
+    "ice_and_fire_delight": {
+      "jar_name": "ice_and_fire_delight-forge-1.20.1-0.2.4.jar",
+      "en_us_hash": "ab77729cd23bb541600918fcdeb9bf89681088ec60b00c63ff9bf0816980eb48",
+      "zh_cn_hash": "465308136826afbbb2ad8e862e1227503fdfa043c200ddb2dc36e6f9f1e3b945",
+      "last_sync": "2025-11-03T02:08:29.650922"
+    },
+    "idas": {
+      "jar_name": "idas_forge-1.12.1+1.20.1.jar",
+      "en_us_hash": "9b6feb688095e5e79b0d71ff21847798199dbb8089f009443c75c6086da8a670",
+      "zh_cn_hash": "4696732199b0f4852852b1be187f60422e81ceac12bca2bba5902ace41b2bbc7",
+      "last_sync": "2025-11-03T02:08:29.659440"
+    },
+    "illager_additions": {
+      "jar_name": "illager_additions-1.20.1-0.1.0-beta.jar",
+      "en_us_hash": "81e0341bbd82ce66cf20b3bed361c6f368655e02126d8cfd05b540753993c21a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:29.736320"
+    },
+    "igleelib": {
+      "jar_name": "Iglee's Library-1.20.1-1.2.7.jar",
+      "en_us_hash": "fdfe02b4b7ea64f23ca9cd14820cacec5f281caab61b28249a214c1095df0d8f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:29.761747"
+    },
+    "illageandspillage": {
+      "jar_name": "illageandspillagerespillaged-1.2.8.jar",
+      "en_us_hash": "6bd483e5e68b631951cc646656dc10f8076a931fcfafc4fc7b9d432f21dc66ef",
+      "zh_cn_hash": "b1642cecc92ceb6b068c33faf7a57ab9b91a87548a5a199fb6fac8b6f5da5dac",
+      "last_sync": "2025-11-03T02:08:29.820999"
+    },
+    "immersive_armors": {
+      "jar_name": "immersive_armors-1.7.1+1.20.1-forge.jar",
+      "en_us_hash": "b57a383553deb2b2bd21b7f7d2a9c4b4b3b78be99f36a53871bed07a3d316764",
+      "zh_cn_hash": "ebb401fe715e35efd1f57b72a9da6741d5d2a4289536478683e130929c1379ea",
+      "last_sync": "2025-11-03T02:08:29.885593"
+    },
+    "immersive_aircraft": {
+      "jar_name": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "en_us_hash": "78672bad9842bd69928395dbeb293b711708b4fc48a68688ab58d95c5e69bc82",
+      "zh_cn_hash": "3e045cde77f9f9d2f768b9a9797ee18767710de3716da1faf9832bc19d8d3d74",
+      "last_sync": "2025-11-03T02:08:29.899682"
+    },
+    "immersive_cooking": {
+      "jar_name": "immersive_cooking-v2.0.1.jar",
+      "en_us_hash": "12dfc36dcec3a3fe7ae8525464f5ebf58f9c55f282953d0c7996fa5191766f2d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:29.905717"
+    },
+    "immersive_machinery": {
+      "jar_name": "immersive_machinery-0.2.0+1.20.1-forge.jar",
+      "en_us_hash": "2bad0947d15c731babd2d9667dffe4f96f97d94b1b4b416e53cb81dd28b281bb",
+      "zh_cn_hash": "ddd9ccc9acbf7066c3752292eef2aa7a308698a0866b5750f7ea1eb74cb1d122",
+      "last_sync": "2025-11-03T02:08:29.998267"
+    },
+    "immersive_furniture": {
+      "jar_name": "immersive_furniture-forge-0.1.2+1.20.1.jar",
+      "en_us_hash": "fa9d0d2c28e86220b40bbbf3d1ad8368133dd08ee4e7e91e32e6ccb8aaca147f",
+      "zh_cn_hash": "1ad3016e4f50357654b3522b9abb62cfdae681cec5f97dcb4afffe631b5864d4",
+      "last_sync": "2025-11-03T02:08:30.225882"
+    },
+    "incendium": {
+      "jar_name": "Incendium_1.20.x_v5.3.5.jar",
+      "en_us_hash": "b0721fe201a2ab7e56c2d99434cad3990e43c56c73124e0770342621a2807d4b",
+      "zh_cn_hash": "db655e9e88fd7c994b8a954b2785ae22c30db4c0a9971c6163700ff3ea03db37",
+      "last_sync": "2025-11-03T02:08:30.303463"
+    },
+    "incubation": {
+      "jar_name": "incubation-1.20.1-4.0.4.jar",
+      "en_us_hash": "4355dd3615da0010091d41d05ec7b02d35e22a4895f71be7f0204c0672c8fab5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:30.335802"
+    },
+    "infinitybuttons": {
+      "jar_name": "infinitybuttons-1.20.1-4.0.7.jar",
+      "en_us_hash": "f0637b934dba1260709e66cde6ccacb27e86b5970bbe6fbac71df6ac58bd2b7b",
+      "zh_cn_hash": "7e09474bb1dea0667c979235ec815dd555392ded051f287e24904066132cd8dd",
+      "last_sync": "2025-11-03T02:08:30.351184"
+    },
+    "inline": {
+      "jar_name": "inline-forge-1.20.1-1.2.2.jar",
+      "en_us_hash": "e87bf1a8f9ac199e0e6b793dacd98d233484ea05e243f0ebc1ea1d9d1323f8a2",
+      "zh_cn_hash": "78f10ecba66c252215bff66ffd1ff980bd8ca478034d90c81ec5c452c13debbe",
+      "last_sync": "2025-11-03T02:08:30.382038"
+    },
+    "interiors": {
+      "jar_name": "interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "en_us_hash": "0ba27091a0076cebfb48f9a32afc62bd0a7fab8b90351092049c6db33cd8e4d6",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:30.407901"
+    },
+    "integrated_stronghold": {
+      "jar_name": "integrated_stronghold-1.1.2+1.20.1-forge.jar",
+      "en_us_hash": "1414c392654f46765b29e4b744e97595899d15054148b8beac0b7d1908f4c395",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:30.433613"
+    },
+    "inventoryhud": {
+      "jar_name": "inventoryhud.forge.1.20.1-3.4.26.jar",
+      "en_us_hash": "08bc605303bbc3dbd5608c9cc99ac32a4e8f35bf7c7681ae168e4398a4ae9bf9",
+      "zh_cn_hash": "61d8790f4a1672cd809815c3f0c2dcf31d494eacc21f92de4e1fb9782087fe8d",
+      "last_sync": "2025-11-03T02:08:30.442834"
+    },
+    "ipp": {
+      "jar_name": "ipp-3.1.2.jar",
+      "en_us_hash": "a00ff0b64238af5c7d7d06dcc5407095e91eeef3852c4530a462dafed19fe9f5",
+      "zh_cn_hash": "20c2a213c3aa3c6e42174b6edc1b36046549a51d893eec598c01db7cfc9433f8",
+      "last_sync": "2025-11-03T02:08:30.497696"
+    },
+    "ironfurnaces": {
+      "jar_name": "ironfurnaces-1.20.1-4.1.6.jar",
+      "en_us_hash": "a41ed08990340ccac1905df877eedcb68afaab039d8f684bb5c5c17e621ea9ec",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:30.632811"
+    },
+    "itank": {
+      "jar_name": "ITank-1.20.1-2.1.0.jar",
+      "en_us_hash": "a0024e1ec3bdeaaefc4bf83f59f54731155f5aea278c8ce88ee0f706b9eb89f1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:30.761693"
+    },
+    "itemzoom": {
+      "jar_name": "itemzoommore-1.20.1-2.9.1.jar",
+      "en_us_hash": "f633500bfab93508eb97d2f0236adbf649a571f9b44cf9635852c685f9147894",
+      "zh_cn_hash": "38f91840f2970202659c0816ba923cb1824560e5f37918de5d8b5a9be08ba96d",
+      "last_sync": "2025-11-03T02:08:30.874933"
+    },
+    "irons_spellbooks": {
+      "jar_name": "irons_spellbooks-1.20.1-3.4.0.11.jar",
+      "en_us_hash": "7b31bc1cb41033754b3952b2592c6fe21ee35c424aaf1248ef0920dc71b1db69",
+      "zh_cn_hash": "2d725b7cd2fd8f0e8f9acc5fc33d311b0e3b360f878cf6238dd150be5fee707c",
+      "last_sync": "2025-11-03T02:08:31.079968"
+    },
+    "jade": {
+      "jar_name": "Jade-1.20.1-Forge-11.13.2.jar",
+      "en_us_hash": "711fa0c15256e2cdfc87ca0841f207d9d18aa184284736784c78c8b9bc56ae56",
+      "zh_cn_hash": "e8543a6c4428db46699969b476ad73e41d635b3a993c2bd1d0252fa36432469e",
+      "last_sync": "2025-11-03T02:08:31.133920"
+    },
+    "iwannaskate": {
+      "jar_name": "iwannaskate-1.2.0.jar",
+      "en_us_hash": "994e20b0ce6ea8114390c0e37461423de1e4b856a5c0cfb51b5e3c93cd146623",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.167041"
+    },
+    "jadeaddons": {
+      "jar_name": "JadeAddons-1.20.1-Forge-5.5.0.jar",
+      "en_us_hash": "ccd262084a6facf4bf047909a5998b5986aa3202111c676c9c1f0bee94ea1f30",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.173133"
+    },
+    "jecharacters": {
+      "jar_name": "jecharacters-1.20.1-forge-4.5.16.jar",
+      "en_us_hash": "e9e5dc788037f8ad074e26b8b8384d1714b75b246312a8bbafb97e47111a8f07",
+      "zh_cn_hash": "21500efdbafd37d47ab7fbdf496630effbf6fa0ae9d57f21cefe2c47f631b0ca",
+      "last_sync": "2025-11-03T02:08:31.236907"
+    },
+    "jellyfishingdelight": {
+      "jar_name": "jellyfishingdelight-1.0.6.jar",
+      "en_us_hash": "aa868a4304e9109f7672aa57dcd6490b590fcff81cf8116b2b8c3ed600b64fb4",
+      "zh_cn_hash": "57ef4fe915be6729a23473824ca123870d49adf846956491842ff90511400fc0",
+      "last_sync": "2025-11-03T02:08:31.298837"
+    },
+    "jellyfishing": {
+      "jar_name": "Jellyfishing-2.0.8.jar",
+      "en_us_hash": "5ba41f58d9baed6c7ffe7965c6094695968f4e23cb8b937f323338586b0c05b6",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.299594"
+    },
+    "jei": {
+      "jar_name": "jei-1.20.1-forge-15.20.0.116.jar",
+      "en_us_hash": "de013c1ad7fe1407cdde8986aed1a5aefd85663542213ca71c8d868caa9480fe",
+      "zh_cn_hash": "8dc5bdc2809aa78ccf32dc541f9659d21c0c972158349175ef512ad63d6b991d",
+      "last_sync": "2025-11-03T02:08:31.311652"
+    },
+    "just_dandy": {
+      "jar_name": "just_dandy-1.20.1-2.1.7.jar",
+      "en_us_hash": "ff73473bc8319f31e9781ebdc3a1f8fe490e761a31e98920ac137f091dfac132",
+      "zh_cn_hash": "8bd3a1fa831e99b251a53c86a5cdb31430bd61fba4adac440f041e04901d45d7",
+      "last_sync": "2025-11-03T02:08:31.474802"
+    },
+    "jeresources": {
+      "jar_name": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "en_us_hash": "9302e2801854c282f8f77eb7c4ebce9d6b338f53f2149e79a8d1ee05ca0d87e6",
+      "zh_cn_hash": "9661baf80ed15b2db279e15017a148a837a156b69463f4731c54813385c53a12",
+      "last_sync": "2025-11-03T02:08:31.491409"
+    },
+    "kaleidoscope_cookery": {
+      "jar_name": "kaleidoscopecookery-1.1.0-forge+mc1.20.1.jar",
+      "en_us_hash": "380b8778134ade45295c6ef0c402150d5adcc4fff06cb9fba449ddab96ea6e4d",
+      "zh_cn_hash": "54c0f702a51496939f1787db89257355a9fd96cf6a1006a1938f18c3866c8265",
+      "last_sync": "2025-11-03T02:08:31.548960"
+    },
+    "kiwi": {
+      "jar_name": "Kiwi-1.20.1-Forge-11.9.2.jar",
+      "en_us_hash": "429330be10cf9b9fd352a70581a8bf2a7f9d30fdb35e92de4ab1dd470df40451",
+      "zh_cn_hash": "297cc8f01d94196ca2a751bc27a5c10c36ceedad5c3d750185830a3e4d3ce2d5",
+      "last_sync": "2025-11-03T02:08:31.570699"
+    },
+    "kleeslabs": {
+      "jar_name": "kleeslabs-forge-1.20.1-15.0.9.jar",
+      "en_us_hash": "0b3de765687db0e78a9f56224aa918cc20a8583beeca1d3920be5de4c979bbde",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.578298"
+    },
+    "labels": {
+      "jar_name": "labels-1.20-2.0.0.jar",
+      "en_us_hash": "c791b2abf7bc01139e88136bc79090276c4f32267c5dbf6caddf662b8101d719",
+      "zh_cn_hash": "721479fda52735755b741e1e961b8f7dbdf5c0744df55bb6adecdd53a8e826d8",
+      "last_sync": "2025-11-03T02:08:31.596439"
+    },
+    "hangman": {
+      "jar_name": "LeftHanging-forge-1.20.1-6.0.0.jar",
+      "en_us_hash": "2899e0de160e194dc2b0962aec56bd7020849892d8ca149690a5cc2ff69c62b1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.641093"
+    },
+    "lanserverproperties": {
+      "jar_name": "lanserverproperties-1.11.1-forge.jar",
+      "en_us_hash": "1edd94fb95939f173f9b756b487c18be2b922d63b43f8f7db2558820b274eaa3",
+      "zh_cn_hash": "a0e44c89b672e250ca238da32fe78744aad435a3970e3f6cd2b8cdf68ba285e1",
+      "last_sync": "2025-11-03T02:08:31.682069"
+    },
+    "legendary_monsters": {
+      "jar_name": "legendarymonsters-1.9.8 MC 1.20.1.jar",
+      "en_us_hash": "d4e79b0e2321864706f37e30194a17991c8256df668834e56db1b14c5cec737d",
+      "zh_cn_hash": "836176b694d012fbd94b7c4eeea0aae540bd72c4c9348c032fae5ee6d9632ed6",
+      "last_sync": "2025-11-03T02:08:31.779245"
+    },
+    "letmefeedyou": {
+      "jar_name": "LetMeFeedYou-forge-1.20.1-1.0.0.jar",
+      "en_us_hash": "20682cfdde9d10aab0509e4f7e5f94036bd6de8e74c0611501940557236e34cb",
+      "zh_cn_hash": "7cbfa6baaf79d4c6d0ffe9350ec011598f32649817b4b8bbfa5d580ce9d0097f",
+      "last_sync": "2025-11-03T02:08:31.806860"
+    },
+    "ls_backport_paintings": {
+      "jar_name": "LeonsBackportPaintings+M.1.20.1+ForM.2.0.0.jar",
+      "en_us_hash": "b6648852112f70db17429c555ba7d452628131e5ccc251ef3fa53e73440efb29",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.810897"
+    },
+    "libx": {
+      "jar_name": "LibX-1.20.1-5.0.14.jar",
+      "en_us_hash": "14263f282904b5a03d9336e5798726096b4cc4756afc5573eea69de7b9a7d4d3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.816314"
+    },
+    "libraryferret": {
+      "jar_name": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "en_us_hash": "52042b4c0358179bc645da6e952a1aa410f0f733759e062bc2bf4a07c1a45e93",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.816940"
+    },
+    "lionfishapi": {
+      "jar_name": "lionfishapi-2.4-Fix.jar",
+      "en_us_hash": "5937982ac94e402cc3f17ecb8931c5f3fe1c3f071da989c3e2ecb0a787f9bac4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.865677"
+    },
+    "littlelogistics": {
+      "jar_name": "littlelogistics-mc1.20.1-v1.20.1.2.jar",
+      "en_us_hash": "4e2419d3a92be8b0b056afd5e7b2cf25f9268b28c1483e7d7668e298069d73a5",
+      "zh_cn_hash": "8bd9f07bf4fc3f8aa0e8aa4773ac3f7ef8995fdfcbc471dd4b0afcfae0dcec3a",
+      "last_sync": "2025-11-03T02:08:31.884116"
+    },
+    "lodestone": {
+      "jar_name": "lodestone-1.20.1-1.6.4.1.jar",
+      "en_us_hash": "29de4d2c8b1539774b05661b2bd7140931e5b7258af7e3c0ebb578c1317cfcb0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.894949"
+    },
+    "lostcities": {
+      "jar_name": "lostcities-1.20-7.4.5.jar",
+      "en_us_hash": "ff873421ee4e1251126a8e33f96aa5cfd8baaccafd049f02b2d647cd3d15678b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.974907"
+    },
+    "lost_aether_content": {
+      "jar_name": "lost_aether_content-1.20.1-1.2.3.jar",
+      "en_us_hash": "83f21a67a225271a8c5251d8d221e64707652bfabd1a2952447390bbb5426a53",
+      "zh_cn_hash": "8bf9baf2ea9752656b1ee5400adead0341f527a0fe93126ef771e13a6fbbc5c8",
+      "last_sync": "2025-11-03T02:08:31.976253"
+    },
+    "luminousblocks": {
+      "jar_name": "luminousblocks-1.3.0-forge-1.20.1.jar",
+      "en_us_hash": "2c04b09e77ebbb3ee70f9c81a8d996fcc861fc60a1fd214e98d9cbd7f540a5b3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:31.983421"
+    },
+    "luncheonmeatsdelight": {
+      "jar_name": "luncheon-meat-s-delight-1.0.5-Forge-1.20.1.jar",
+      "en_us_hash": "e4b68a085931b66710a9d9e24e890da0c9dd40884f38bd529c578539ae6d6611",
+      "zh_cn_hash": "a46a3c94407038d8f8e7d888fe5571f21b8892a0e69183bc3ba95b2d1adfc969",
+      "last_sync": "2025-11-03T02:08:31.986189"
+    },
+    "magispelling": {
+      "jar_name": "magispelling-1.1.5-1.20.1.jar",
+      "en_us_hash": "327600089a546edab4535eddf3cb4c4d0ba46e9c84875cf2e6b532ab8040a8bd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:32.113046"
+    },
+    "majruszlibrary": {
+      "jar_name": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "en_us_hash": "d9c346ab7360c011db819e23ce64b6088887058f54e3dc1e8f5bfc2f4ae7db6b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:32.156583"
+    },
+    "maced": {
+      "jar_name": "Maced-Forge-1.20.1-24w13a-2.0.0.jar",
+      "en_us_hash": "5bdc22dae5fb36850a088a56d7a095763f5c72117c47e57d5b25ef1e13df548b",
+      "zh_cn_hash": "e5c4e02303a4b0bccb2b63d8857cb4e1945c058e5b50e92c809ce5f3a81b46f7",
+      "last_sync": "2025-11-03T02:08:32.159465"
+    },
+    "cataclysm": {
+      "jar_name": "L_Enders_Cataclysm-3.16.jar",
+      "en_us_hash": "3ca46c675c50dcfd54074d5a97755fe8c30199ed361e368c3c197433dd204c85",
+      "zh_cn_hash": "62dd7df0575ba6e338359131028ed676c50538d43d0b86424bfc6ba22f3f3437",
+      "last_sync": "2025-11-03T02:08:32.399035"
+    },
+    "majruszsenchantments": {
+      "jar_name": "majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "en_us_hash": "ec4ed8ba48503aeb7d7b97f981883ef8ff95279c795e6a6023c7162bbb3728d1",
+      "zh_cn_hash": "665d2fa2037cc31557fefbabab37c3f98bf42731f5fb0c65a7b47f7517bf519e",
+      "last_sync": "2025-11-03T02:08:32.599451"
+    },
+    "manaliquidizer": {
+      "jar_name": "Mana_Liquidizer-1.20.1.jar",
+      "en_us_hash": "b23cebc5388606f0e2737f17155328b1430661824519ee16f7232836f58da5a0",
+      "zh_cn_hash": "2381d8c31b66eb676185645ecad44e1e7200c6e4733a2c3e15ae1ee36a094613",
+      "last_sync": "2025-11-03T02:08:32.785892"
+    },
+    "mantle": {
+      "jar_name": "Mantle-1.20.1-1.11.79.jar",
+      "en_us_hash": "d52efd1f6e8a248871f16f8aadb2bd242313c9c0588ff6649f76fc274316ed75",
+      "zh_cn_hash": "0763e7042c4bcab8b709735fbaf8b6efb78d15a015ae79f2926fe9944cf85f00",
+      "last_sync": "2025-11-03T02:08:32.791493"
+    },
+    "man_of_many_planes": {
+      "jar_name": "man_of_many_planes-0.2.0+1.20.1-forge.jar",
+      "en_us_hash": "c4a29c509c16b37e4856938ac9b02fb25f70ae2c4c2d80a5229935a3a84e311b",
+      "zh_cn_hash": "da563a15211a8ffc13219f05a73a19c820c17bbe09e82f0248f27f41009c65a2",
+      "last_sync": "2025-11-03T02:08:32.966762"
+    },
+    "marvelous_menagerie": {
+      "jar_name": "marvelous_menagerie-1.3.2-1.20.1.jar",
+      "en_us_hash": "c9c82d9875976893c5e1b9dbdacc5cc8338dad48302458ee8ce8f631af7ae9be",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.106206"
+    },
+    "maturidelight": {
+      "jar_name": "maturidelight-1.20.1-3.0.0.jar",
+      "en_us_hash": "36821f6310c0dda470328602621143840f4c10588769523da797bad559fd9fb9",
+      "zh_cn_hash": "c7ee73eded83a349552d080ed1f9ed69e1fa0c460b69f00107fe7ddf1425057e",
+      "last_sync": "2025-11-03T02:08:33.247811"
+    },
+    "malum": {
+      "jar_name": "malum-1.20.1-1.6.7.jar",
+      "en_us_hash": "19d63d7170def776c51fe5810630ab90729b09f204197c6e56ed76f13deb6420",
+      "zh_cn_hash": "eb9da839b7270c59ed3a4d50fb7ff1878faaad72f88af9ba009fceffb4f1b6bc",
+      "last_sync": "2025-11-03T02:08:33.299846"
+    },
+    "mavapi": {
+      "jar_name": "mavapi-1.1.2-mc1.20.1.jar",
+      "en_us_hash": "4e71a493e93172770cc67e068516c1e6258886997623062c0ef991f39f15fb8c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.304472"
+    },
+    "mavm": {
+      "jar_name": "mavm-1.2.6-mc1.20.1.jar",
+      "en_us_hash": "4136e38f866e36c8a3136d3dc3ac3833e4a7662b0d57f282df5521fed69e7fbf",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.342340"
+    },
+    "mcwpaintings": {
+      "jar_name": "mcw-paintings-1.0.5-1.20.1forge.jar",
+      "en_us_hash": "1fd694fc61a8f8347b74f161478be0ea5f3c6702834964e0f706acc884345494",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.482676"
+    },
+    "mcwwindows": {
+      "jar_name": "mcw-mcwwindows-2.4.1-mc1.20.1forge.jar",
+      "en_us_hash": "2c3ba695364e6739299400dd2b808b86cb501c57f5cac0b45c4072281439085c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.592962"
+    },
+    "mcwholidays": {
+      "jar_name": "mcw-mcwholidays-1.1.1-mc1.20.1forge.jar",
+      "en_us_hash": "164baec07dcacaa39c8803bd2694b7302f18bc8eb29986535d8dfed52e622b68",
+      "zh_cn_hash": "6fb507c73e889468dfdc5018dfa85b2e67a047a9c8b80251d1e4d62366cfc0e8",
+      "last_sync": "2025-11-03T02:08:33.634099"
+    },
+    "mechanical_botany": {
+      "jar_name": "mechanical_botany-1.0.5+1.20.1-neoforged.jar",
+      "en_us_hash": "396a8d21a14efac53cefe02aa741178ee53cba812b4e70670cae1aae5b5f4980",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.686498"
+    },
+    "mcwstairs": {
+      "jar_name": "mcw-stairs-1.0.1-1.20.1forge.jar",
+      "en_us_hash": "2d17c8341d0a3d6242bd1fb983a35ff1a2cf1aa648cdf1af66d4f2e8379d32eb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.726743"
+    },
+    "meetyourfight": {
+      "jar_name": "meetyourfight-1.20.1-1.5.2.jar",
+      "en_us_hash": "f47aa0a639478519931593f062c483a001738967593514e9cb914d0fa788550c",
+      "zh_cn_hash": "2298c2374e8a2499dcd3f86bf46652b7586fabe2bb315d041334403f4dfba097",
+      "last_sync": "2025-11-03T02:08:33.739535"
+    },
+    "seedbags": {
+      "jar_name": "medieval_seedbags_1.0.1_forge_1.20.1.jar",
+      "en_us_hash": "74a5d69887b11d8e1726994a10bf6060558c219bcb4193ca4077ebae81635605",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.742807"
+    },
+    "mermod": {
+      "jar_name": "mermod-forge-1.20.1-3.0.1.jar",
+      "en_us_hash": "f6276a5f92dcfbea84821635b6e9d7909680f74aec66b1dff4fd9c7239bc02dd",
+      "zh_cn_hash": "3d5b1ffe4549efc20b39fdd250280b2bfc6aee5a670127eab7d35b724a74b9a0",
+      "last_sync": "2025-11-03T02:08:33.769484"
+    },
+    "mendingmirror": {
+      "jar_name": "mendingmirror-1.20.1-1.0.1.jar",
+      "en_us_hash": "4a80a70a29ece34ccff6f6ceddc2f96f89249995834d255d66040fefd477a81c",
+      "zh_cn_hash": "a198a0141854d0f4ebcc3d032db82638abef4302f16ea9b70e962c43d3229178",
+      "last_sync": "2025-11-03T02:08:33.770338"
+    },
+    "miners_delight": {
+      "jar_name": "miners_delight-1.20.1-1.2.3.jar",
+      "en_us_hash": "be54ec63d0e831bffd122a473dbade389188748bcfab3fadbf47bf2c2dfb5af7",
+      "zh_cn_hash": "3ed032a31afaa8a8365762ee9e7e8ec6ce7b4d4085f6c792499a14a33b1b7228",
+      "last_sync": "2025-11-03T02:08:33.839054"
+    },
+    "moblassos": {
+      "jar_name": "MobLassos-v8.0.1-1.20.1-Forge.jar",
+      "en_us_hash": "cb38b55db0b0711ea2c789878e650a103228238a1c349b618dca04dad873b0dd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.915143"
+    },
+    "miniutilities": {
+      "jar_name": "miniutilities-4.1.0.jar",
+      "en_us_hash": "0aecfc9607a19f7c59fdf79565afbb640a13aa80b7ddff81521d524424a28811",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:33.943387"
+    },
+    "mocreatures": {
+      "jar_name": "mocreatures-1.20.1-1.0.0.jar",
+      "en_us_hash": "b703644e0a3608ea8bcbde2ef8ca210ad1477c856f591fe5b2a93ebae2380a41",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:34.140370"
+    },
+    "modernui": {
+      "jar_name": "ModernUI-Forge-1.20.1-3.12.0.1-universal.jar",
+      "en_us_hash": "868efad2f200da76fac4db6cf18efbf6e44a9379c958a26e4d6597b59a343cca",
+      "zh_cn_hash": "88acdd86f339c166a0e86c0b27a8826090358f08f32263f1b86c1cb5f3a2ca19",
+      "last_sync": "2025-11-03T02:08:34.315539"
+    },
+    "modernfix": {
+      "jar_name": "modernfix-forge-5.24.4+mc1.20.1.jar",
+      "en_us_hash": "38a02ee175bccbb05ff081b43e90de05038cb537e08217ca84edda975a5db922",
+      "zh_cn_hash": "1ea86d86c45758f4ea09d896861c2d0edde0e12bf4bdf831047eb99cb7e599b9",
+      "last_sync": "2025-11-03T02:08:34.355406"
+    },
+    "monobank": {
+      "jar_name": "monobank-1.20.1-1.1.5.jar",
+      "en_us_hash": "7f0d573fabfaf53fd8d0022b87c0c75e05c6ff319d436b62547b282128480048",
+      "zh_cn_hash": "37d9895d0a1b4acbbd7816c3b60e61fbfde60ed08ad9cc20dbc0549c69b4050c",
+      "last_sync": "2025-11-03T02:08:34.612988"
+    },
+    "modulargolems": {
+      "jar_name": "modulargolems-2.6.12.jar",
+      "en_us_hash": "4f63d9a6e0d4583cd53218106c6bbc5ccc8be029e6ab9cb012f41dc118923fdd",
+      "zh_cn_hash": "23e31f23e94dd38e96e88550fb15a5b9c0b1e176b9c42fa9871fe8b2f9842069",
+      "last_sync": "2025-11-03T02:08:34.733626"
+    },
+    "vanilla__pixel_paintings": {
+      "jar_name": "More Additional Paintings-1.0.1 Forge 1.20.1.jar",
+      "en_us_hash": "19d90246283c2d264191065abca1cb668255559fc178e5fbc5b4647eae4a6e32",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:35.017522"
+    },
+    "moredelight": {
+      "jar_name": "moredelight-25.07.28-1.20-forge.jar",
+      "en_us_hash": "e6052ee7efd11ae507225bedfad1f2206c4368fb56e154335da6042c60b9f60c",
+      "zh_cn_hash": "e4457f1d1bbe6e17e6371f24ba17144306d76853be2a439b28fc6b24df1f9299",
+      "last_sync": "2025-11-03T02:08:35.121453"
+    },
+    "momotinker": {
+      "jar_name": "momotinker-1.20.1-1.2.9.jar",
+      "en_us_hash": "5547f2bec26f515a149c400d2f7e1a5af8d1ec3cae98b59d8e1b422baf83f924",
+      "zh_cn_hash": "02b85b5d3232ecdd0be399cddcf261a4e419ff0dc0aca8e497b3506d37dc1ac2",
+      "last_sync": "2025-11-03T02:08:35.132995"
+    },
+    "moonlight": {
+      "jar_name": "moonlight-1.20-2.16.15-forge.jar",
+      "en_us_hash": "384c74c03a1ab3fd256db1d6ae46f6c9358c1e179f288c4e1f37233bf540405e",
+      "zh_cn_hash": "3b2b5b1407410a14dd8650063ce81646713e240306545b778401dd15319149ed",
+      "last_sync": "2025-11-03T02:08:35.139955"
+    },
+    "moreminecarts": {
+      "jar_name": "moreminecarts-1.8.3.jar",
+      "en_us_hash": "b6e27243f68c83e5fd0f134b9461065d7c05948cc156defed0f385fb799124f8",
+      "zh_cn_hash": "e1dd0482804988d67e88b3d14f80dc6661e5e9444b48d8d4cce964eea698d659",
+      "last_sync": "2025-11-03T02:08:35.221191"
+    },
+    "morered": {
+      "jar_name": "morered-1.20.1-4.0.0.4.jar",
+      "en_us_hash": "5c43d9b5887e03501861eb7ef255e67175a47f240d15866729a3e718b805445c",
+      "zh_cn_hash": "d5ff7a2bea4551df7e48bd537b241ace12f20fdfdd39f329e179ef92b85380b0",
+      "last_sync": "2025-11-03T02:08:35.271052"
+    },
+    "peripherals": {
+      "jar_name": "MorePeripherals_1.20.1-1.13.0.jar",
+      "en_us_hash": "4c68180665488bcd967a44a510aa30a7e2dd8af4f2e44cf3ab62580096e351b2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:35.280650"
+    },
+    "morerelics": {
+      "jar_name": "morerelics-1.5.0-1.20.1-hotfix.jar",
+      "en_us_hash": "6d5b6fc458af1998eb5071c6e9b7253fcdcecc88c7f1dbaea93d2c7da21b3e7d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:35.340129"
+    },
+    "morevillagers": {
+      "jar_name": "morevillagers-forge-1.20.1-5.0.0.jar",
+      "en_us_hash": "251c7281f8d831667e585815c4202abd808d55052872916337dae28e3dcc9aab",
+      "zh_cn_hash": "834d225f7703d6fda77a88eb755085184d77d9b5a76d12a1cc39c3ceff9d146d",
+      "last_sync": "2025-11-03T02:08:35.573917"
+    },
+    "mowziesmobs": {
+      "jar_name": "mowziesmobs-1.7.3.jar",
+      "en_us_hash": "b2241a577066a2fd112726830da5e060d392b591501d2d7da65ecbd4002f7e18",
+      "zh_cn_hash": "a17615c645f7aeab86762adaa85737ad658aec561e51dc266c420d49c1ec644f",
+      "last_sync": "2025-11-03T02:08:35.701837"
+    },
+    "muffins_thaidelight": {
+      "jar_name": "muffins-thai-delight-forge-1.0.0.jar",
+      "en_us_hash": "73fe16bf913a9475c0959c29907ac1dd1fe9536150b9c0f4fd9f4a953ce6f6e0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:35.777755"
+    },
+    "moresnifferflowers": {
+      "jar_name": "MoreSnifferFlowers-1.20.1-Forge-6.3.jar",
+      "en_us_hash": "ce2d8c40808f97e338be584c8c4b956f6d51b32c603a52d1e277a1a2185f430c",
+      "zh_cn_hash": "5d4fb335536d686a3493a8ceb9f22c70622848d59d368e4ec3a7f65256df10cd",
+      "last_sync": "2025-11-03T02:08:35.871131"
+    },
+    "multibeds": {
+      "jar_name": "multibeds-forge-1.20.1-1.3.jar",
+      "en_us_hash": "ca8d9f28e728ae10648dee1c9e654f70e16c552a663607e69d0baa3c4fce56cc",
+      "zh_cn_hash": "f164e871277339cc0ddff1c6ac884bbe3a7d1918f811be22703e720f85350ba9",
+      "last_sync": "2025-11-03T02:08:35.893212"
+    },
+    "myhead": {
+      "jar_name": "myhead-1.20.1-1.0.0.jar",
+      "en_us_hash": "598a4e3d2aba185079c4b619af7cf70a28577df5a5ae3146b188c1ef29587a26",
+      "zh_cn_hash": "f2d85e603e0723df9fd17afd452408938fc8367ab1d0e0284b87fc87afb2205c",
+      "last_sync": "2025-11-03T02:08:35.915603"
+    },
+    "musketmod": {
+      "jar_name": "musketmod-1.20.1-forge-1.5.4.jar",
+      "en_us_hash": "e51f7a12b40315a041c652287007585dae241850b57181377f916c0078e1ad98",
+      "zh_cn_hash": "f27e5c20b28825acb9a462f28ea93647565e08362e98b013ee773bab8f82cf9f",
+      "last_sync": "2025-11-03T02:08:35.919515"
+    },
+    "mysterious_mountain_lib": {
+      "jar_name": "mysterious_mountain_lib-1.5.26-1.20.1.jar",
+      "en_us_hash": "4dd997bba5dad79e62b0449ccccf0c1638777e3a9c6a03ec379cb058f1f8b139",
+      "zh_cn_hash": "2666ec8494b1586fbbb90d4cfa5542c5d33d7d49744ea7ae349c12fc674150d3",
+      "last_sync": "2025-11-03T02:08:35.988366"
+    },
+    "mynethersdelight": {
+      "jar_name": "MyNethersDelight-1.20.1-0.1.8.jar",
+      "en_us_hash": "a82019705de19dcb937a7473e800cce4b0c59ed28a4bb1e732640d300886c021",
+      "zh_cn_hash": "0af7feafa5fbf8526652395e6795f46a002574428e88ef000a9b9d5451f9fdcb",
+      "last_sync": "2025-11-03T02:08:36.015972"
+    },
+    "mythicbotany": {
+      "jar_name": "MythicBotany-1.20.1-4.0.4.jar",
+      "en_us_hash": "0d311d38ef22ca979dabf1106491eb54525f49caa46d25ec42fbb13697153a78",
+      "zh_cn_hash": "0f1bd1577cf075477788023b6efcac00f0628c0b23f6069cd9880f0fc3030157",
+      "last_sync": "2025-11-03T02:08:36.030485"
+    },
+    "mythicmounts": {
+      "jar_name": "mythicmounts-20.1-7.4.2-forge.jar",
+      "en_us_hash": "4397befd651d1a61d0e1c99434054a8a06880336ae7706be3dde19b188e9751e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.053171"
+    },
+    "naturescompass": {
+      "jar_name": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "en_us_hash": "a1fee41d1ba10e1bf4e8844c632fdcd3e17bae7735d1328039d449224360b66b",
+      "zh_cn_hash": "e946e993dbdac66d577f4e58c86708add3e7bbe58db56440cefdcda8f1c2342a",
+      "last_sync": "2025-11-03T02:08:36.217703"
+    },
+    "naturesaura": {
+      "jar_name": "NaturesAura-39.4.jar",
+      "en_us_hash": "09367140d73f6235b60abe099447e8a187022fd88c610bf075c8979230bf3a9a",
+      "zh_cn_hash": "07eaa99b99b19ecf5e2a206b109c9e69a5a0c649cd2a71923f090c6358f791c1",
+      "last_sync": "2025-11-03T02:08:36.271528"
+    },
+    "neruina": {
+      "jar_name": "Neruina-2.1.2-forge+1.20.1.jar",
+      "en_us_hash": "37a0e08944c09699558500392c73f20406444d08afabc7b7bfb9428159d84b19",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.327201"
+    },
+    "neapolitan": {
+      "jar_name": "neapolitan-1.20.1-5.1.0.jar",
+      "en_us_hash": "b08ba60475b5d4310235cd0234cec869b714b8265e93395a74c42e8113f4cd12",
+      "zh_cn_hash": "fd1a0884a3e8b8523ab3003b73206e9e3f0a1850c23aa5d3e752ac7d3253ce96",
+      "last_sync": "2025-11-03T02:08:36.337762"
+    },
+    "nimble": {
+      "jar_name": "Nimble-1.20.1-forge-5.0.1.jar",
+      "en_us_hash": "688e2f82c89d27494047711018ab83f1b08047cd5fd2c726ce4919e9d85fa8fb",
+      "zh_cn_hash": "8f4e079605ea0e6910453f666c3a9df33fc11d2c6413f7c25b4d0aece749477b",
+      "last_sync": "2025-11-03T02:08:36.397785"
+    },
+    "newagealexscaves": {
+      "jar_name": "newagealexscaves-1.20.1-1.0.0.jar",
+      "en_us_hash": "224e8e3af65f0ef9adf82c473e32dfad0778133fda86a80b4ad11762e1eef3fd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.417692"
+    },
+    "netherdepthsupgrade": {
+      "jar_name": "netherdepthsupgrade-3.1.5-1.20.jar",
+      "en_us_hash": "c21d7c541b3ddab5658e9ad255660bb281ce2609bb1878a45783dd67f65f7b78",
+      "zh_cn_hash": "6269f7ab1bd6a09f8840d3dd86098f28fc5fb8573ae0116250554df90fd87c85",
+      "last_sync": "2025-11-03T02:08:36.417953"
+    },
+    "netheritehorsearmor": {
+      "jar_name": "NetheriteHorseArmor-CJ-forge-mc-1.20-1.5.0.jar",
+      "en_us_hash": "32c8448b96db7d8a2df7876ec23eec381f2967d15ddd274c3de3880918d18639",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.419797"
+    },
+    "not_interested": {
+      "jar_name": "not_interested--mc1.20.1--forge--1.0.1.jar",
+      "en_us_hash": "b34cdc16bd429cf655ad70fae770306cf4e7d6f08e16a1cf2f8ec41f5923604a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.461303"
+    },
+    "notenoughanimations": {
+      "jar_name": "notenoughanimations-forge-1.10.6-mc1.20.1.jar",
+      "en_us_hash": "3adbe4b7fe9e94d54af65a7293c5cb6e24a1bc81237eb29c2944f2633f5f8dd2",
+      "zh_cn_hash": "74a0f55add55a79b696113d17703dcf8cf02f8d7482d53deac5445f8055509b6",
+      "last_sync": "2025-11-03T02:08:36.475539"
+    },
+    "nyctophobia": {
+      "jar_name": "Nyctophobia_1.6_(FORGE)_for_1.20+.jar",
+      "en_us_hash": "519c54d5b266394756e55033dea6a26d042b4e1194e4623592eca36af817e9fb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.497828"
+    },
+    "obscure_api": {
+      "jar_name": "obscure_api-15.jar",
+      "en_us_hash": "b6e2ee4069ab32bbb42651252fdc2ef289301a5cd9c503e96810fc24fd16ad0e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.530752"
+    },
+    "oceansdelight": {
+      "jar_name": "oceansdelight-1.0.2-1.20.jar",
+      "en_us_hash": "46a60b50b54ad5b286a143bac43608192c9de3f1c1dfa4fa296b2b3065e1c74a",
+      "zh_cn_hash": "598f70adf0e859e843cdf94b4ddce9b2763ae8bc4f3b8d33a81a1ff7e3223af8",
+      "last_sync": "2025-11-03T02:08:36.533767"
+    },
+    "onion_onion": {
+      "jar_name": "onion_onion-1.20.1-2.0.4.jar",
+      "en_us_hash": "1e6d59f426b1a1d900c3f4ced78b1d5709ea076e1d3dcd9ac019530aa6437bbe",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.650590"
+    },
+    "oddorganisms": {
+      "jar_name": "oddorganisms-1.20.1-0.3.1.jar",
+      "en_us_hash": "5d6d5fef50ae0285900b31ab96df83a86d75d2b34b8f023b4d5fe3946bf67ca8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.773378"
+    },
+    "opposing_force": {
+      "jar_name": "Opposing-Force-1.20.1-1.0.0.jar",
+      "en_us_hash": "ecc45a5bb9d19f440ba19f8342e1f2163d4fc566b8a62beca00aaa1b673d5ab2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.802642"
+    },
+    "openpartiesandclaims": {
+      "jar_name": "open-parties-and-claims-forge-1.20.1-0.25.8.jar",
+      "en_us_hash": "7e9f9a606a2f8f6a255d644963b31a5386270c91f571e6b7b2b7803fd7ddb0b1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.867923"
+    },
+    "overweight_farming": {
+      "jar_name": "overweightfarming-1.20.1-2.1.0-forge.jar",
+      "en_us_hash": "de8254587eea905fd5b58c191dc4a6481df338888c1ab906a6d887c67e4ff412",
+      "zh_cn_hash": "e529a39cd7b2f11be831e314a3cf7857d062985c83cb2731f4bfd776b5d0889a",
+      "last_sync": "2025-11-03T02:08:36.933127"
+    },
+    "oreganized": {
+      "jar_name": "Oreganized 1.20.1-4.2.6.jar",
+      "en_us_hash": "bf65a6ec7e3d04d3ec1698a80ea3bea26b37a2dec2583a43a8d663a3c7e0e4d5",
+      "zh_cn_hash": "a830b7d6ab1462a135767dddf84c1e4d109a41e46d8a85f34d82be03a8f0cd32",
+      "last_sync": "2025-11-03T02:08:36.956835"
+    },
+    "owo": {
+      "jar_name": "owo-lib-0.11.2+1.20.jar",
+      "en_us_hash": "1d1ff552de5fa4d832a026b29e6aa3d18d62c2c0dbbb7a68120281a8e90283e1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:36.964260"
+    },
+    "packingtape": {
+      "jar_name": "PackingTape-1.20.1-0.14.4.jar",
+      "en_us_hash": "8175e51706870fa991f1e702f6c54bb69d75d48d5a93c523a81474e4ac372818",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.033173"
+    },
+    "paintings": {
+      "jar_name": "Paintings-forge-1.20.1-11.0.0.2.jar",
+      "en_us_hash": "363573ab8c3078c976c92793fbfa9db77d1c19f672c562fea501573d9ee9c5ac",
+      "zh_cn_hash": "5508e73e247c9eba7105bcef59330f8e0f7d4db074388b7b2abd976337542eb3",
+      "last_sync": "2025-11-03T02:08:37.034741"
+    },
+    "parcool": {
+      "jar_name": "ParCool-1.20.1-3.4.1.5.jar",
+      "en_us_hash": "04ad213fd471677cef5c6c7012c8e15dbab0f2a57ba1597d73701f69a430c6b7",
+      "zh_cn_hash": "d3d5255ccf2965a67e2ecfc587f0460b4a55ffe0a96152dcc53da0582bf473fe",
+      "last_sync": "2025-11-03T02:08:37.056870"
+    },
+    "paperdoll": {
+      "jar_name": "paperdoll-forge-1.3.1-mc1.20.1.jar",
+      "en_us_hash": "7306d58fcf5509b6aea52acd8c31184fb326e7c8b1f202363d57f3ca12c849b6",
+      "zh_cn_hash": "1394ddf7312eacdc90298cb14f984d4ec1492e267699ae38f0ff61a1d8175453",
+      "last_sync": "2025-11-03T02:08:37.067799"
+    },
+    "patchouli": {
+      "jar_name": "Patchouli-1.20.1-84.1-FORGE.jar",
+      "en_us_hash": "6dfd19c9bcb8f063db5ea00b98fa6783118fdbf31a92a44c90304725692a5555",
+      "zh_cn_hash": "90292dc25176b6fbe3ba53c93ce8cdadd55a0e00311f5fccfc262e20482ba89e",
+      "last_sync": "2025-11-03T02:08:37.115247"
+    },
+    "create_pattern_schematics": {
+      "jar_name": "pattern_schematics-1.2.3+forge-1.20.1.jar",
+      "en_us_hash": "09976d8e9c1e04d8ebbff03d4480a3c5b23b9f88692d9896a2e5469a6fc20dae",
+      "zh_cn_hash": "4c5edaaf1de39acad3f586fe96549ae88cd2fbe11a5c300dd44b413b1d707793",
+      "last_sync": "2025-11-03T02:08:37.120072"
+    },
+    "passablefoliage": {
+      "jar_name": "PassableFoliage-1.20.1-forge-8.2.1.jar",
+      "en_us_hash": "3ca900b7aee652609bd6084b940f35b0be720fd762eb66c195b655839ea158c7",
+      "zh_cn_hash": "d304a6c1c063083882c23934fbc7dc2cd68683b22edb42577468436bb9b0477f",
+      "last_sync": "2025-11-03T02:08:37.124816"
+    },
+    "pehkui": {
+      "jar_name": "Pehkui-3.8.2+1.20.1-forge.jar",
+      "en_us_hash": "dec459a6c65e5607dc061c4f6de96ace966580ddf716bdee49c9126b7c3898a9",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.182402"
+    },
+    "peacefulmoon": {
+      "jar_name": "PeacefulMoon-1.20.1-1.0.1.jar",
+      "en_us_hash": "52bf22803ff823700e54e63a1abd7da1fb69a14bf564197106abfa3682f350d4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.196432"
+    },
+    "peculiars": {
+      "jar_name": "peculiars-1.20.1-5.0.0.jar",
+      "en_us_hash": "7217ce603086df9c9f75889dc93b465db7e45c6a8d0e9f1c83238852547c27c7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.206548"
+    },
+    "peruviansdelight": {
+      "jar_name": "peruviansdelight-1.20.1-1.2.2.jar",
+      "en_us_hash": "1d4527c9b7c4b89c12609946e85727465a6d2d741e823a95ebe2c83a1d38df73",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.210050"
+    },
+    "pineapple_delight": {
+      "jar_name": "PineappleDelight-Forge-1.20-1.0.13.jar",
+      "en_us_hash": "ff23a99893db833e1732b6f6293b5476e5d548d00c700e132d8e0e216b78cccc",
+      "zh_cn_hash": "536ea47b74cd2a7a7162f01a1d3e402a8784eb1ad2cc5e1a7a89e78bb3726c93",
+      "last_sync": "2025-11-03T02:08:37.230533"
+    },
+    "pettransfer": {
+      "jar_name": "pettransfer-1.20.jar",
+      "en_us_hash": "bc740ab2aaaacfadf3bd45d08821c567251e720b82b4503130239e9c06c73403",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.253213"
+    },
+    "pizzadelight": {
+      "jar_name": "pizzadelight-1.20.1-1.0.2.jar",
+      "en_us_hash": "1aa8879209c2e97da00f028da75c9af707e4c0ddaba9b03ad687802af6d9dd4a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.333395"
+    },
+    "platforms": {
+      "jar_name": "platforms-forge-1.20.1-1.2.jar",
+      "en_us_hash": "051110c8cc2a6c0e136f1f61917b2f149c0d620f3250e6acfdf1a78863effa7a",
+      "zh_cn_hash": "4dd5aecae3ca1152bfca566b5144cfbd8e7942de3e19e820046d7156444f524d",
+      "last_sync": "2025-11-03T02:08:37.390523"
+    },
+    "pipe_networks": {
+      "jar_name": "pipe_networks-0.2.2.jar",
+      "en_us_hash": "d9c1217bfec6288bd11f4ad959251d01d7522d11f91e9fea000371fe7550b5a5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.434434"
+    },
+    "placebo": {
+      "jar_name": "Placebo-1.20.1-8.6.3.jar",
+      "en_us_hash": "c0d924fa19cb4fcbb20e3ed866837a31f45ff4b7fac5a94a2793254260bb646c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.442577"
+    },
+    "playdate": {
+      "jar_name": "playdate-2.0.0-forge.jar",
+      "en_us_hash": "bf721858d8c7a3b22775cb30b6e89719db920d5af693d451df84e6e2f0e5d964",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.446363"
+    },
+    "polars_mad_tweaks": {
+      "jar_name": "polars_mad_tweaks-1.20-1.5.jar",
+      "en_us_hash": "3bfe45a80b94566ca3ca0082bc8cba4b156d977ceec79bd90f943120a3a4f345",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.656771"
+    },
+    "polylib": {
+      "jar_name": "polylib-forge-2000.0.3-build.143.jar",
+      "en_us_hash": "11404539e02837e97d32b6fa3aa8353563bd21ae7cb4e06d5134664158130e1f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:37.657443"
+    },
+    "polymorph": {
+      "jar_name": "polymorph-forge-0.49.10+1.20.1.jar",
+      "en_us_hash": "797ecb7a65d507d9ee067883d28852be0fa89ae2a93254179dad9b0269f7b5c1",
+      "zh_cn_hash": "1307d59d9641d184c8a90b0c0cf934058b448984ae652e0499f41a6a4f4a10ec",
+      "last_sync": "2025-11-03T02:08:37.704915"
+    },
+    "potionofbees": {
+      "jar_name": "potionofbees-1.20.1-3.0.0.0.jar",
+      "en_us_hash": "ba706c4810c27644478e1e902238fdc0ba7977d78b5df4ff040ff534edaeb777",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.041469"
+    },
+    "potionbundles": {
+      "jar_name": "potionbundles-1.20-1.8.jar",
+      "en_us_hash": "7da9ba2115b6db0db0bffb7296f10bfaab40abd5cc4af39e816b0305536da874",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.042748"
+    },
+    "portfolio": {
+      "jar_name": "portfolio-1.20.1-1.5.0-forge.jar",
+      "en_us_hash": "3ee6fa098a916fdc11dd8ff762a986b3c2c7fc767b74ae557c37a82e965edcb2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.372098"
+    },
+    "pneumaticcraft": {
+      "jar_name": "pneumaticcraft-repressurized-6.0.21+mc1.20.1.jar",
+      "en_us_hash": "a4d79ea7d8baee71eade2a4738494c6a312dfa6a84cd3be5ee244ce2c71e4691",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.524308"
+    },
+    "potionsmaster": {
+      "jar_name": "potionsmaster-1.20.1-47.1.70-0.6.0.jar",
+      "en_us_hash": "3b90680e7721aec957ca1e36f3ad9fb4a944d0b3162d08e272483fed60c3a439",
+      "zh_cn_hash": "8936e28ca881c0a606e4bd35478480c08cb9178f25a32ab98e9ecfb7ab1694ae",
+      "last_sync": "2025-11-03T02:08:38.621591"
+    },
+    "presencefootsteps": {
+      "jar_name": "PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+      "en_us_hash": "eec8945713f8b88569d2d6832358a579576aa9a2ea1ba3dae3aadca39b93bcba",
+      "zh_cn_hash": "f1d45b82df680227ac563b733cc9da56d035a4038c22f71709ab9bd4dac5758b",
+      "last_sync": "2025-11-03T02:08:38.628991"
+    },
+    "powergrid": {
+      "jar_name": "powergrid-mc1.20.1-0.2.5.jar",
+      "en_us_hash": "a17a53270f5e73d51a2ef4f38dad907dd5d2e86e4c017cff7542f79ad3d8ba03",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.687869"
+    },
+    "quarkdelight": {
+      "jar_name": "quark_delight_1.0.0_forge_1.20.1.jar",
+      "en_us_hash": "7a3d12a535254ffc8ce44a868e0bd5167bdfdffbb829e45b5c5b487308d74e78",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:38.909156"
+    },
+    "quit": {
+      "jar_name": "Quit-Forge-1.19.4-1.20.X-1.1.0.jar",
+      "en_us_hash": "f1343fdd6a59c42b2e69df8f3875c4beadd524c9dfd1cc656d05ac99f5869c03",
+      "zh_cn_hash": "df8d274a2341b14ba52a92d5a424c434849d2b8730b0306f50c1538e44eaa074",
+      "last_sync": "2025-11-03T02:08:38.914020"
+    },
+    "queen_bee": {
+      "jar_name": "QueenBee-Forge-1.20.1-3.1.4.jar",
+      "en_us_hash": "c90c977817fb524690f0381fa713b1bb3c265b5f7d48215a5dfb98ac758ad7bb",
+      "zh_cn_hash": "91895e4ab51161fb770d5590f137d566144212e96096f27926a9fd26b1fdae8b",
+      "last_sync": "2025-11-03T02:08:38.954079"
+    },
+    "raided": {
+      "jar_name": "Raided-1.20.1-0.1.6.jar",
+      "en_us_hash": "0727893af79755e331932e74556c56c1c8a8b055329bdd93c57c3a08c77d41ea",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:39.248102"
+    },
+    "raised": {
+      "jar_name": "raised-forge-1.20.1-5.0.2.jar",
+      "en_us_hash": "563471c5972fe12829c3ff4535ea7707c845c7c7216252c17cbb875d3d33a5b0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:39.327830"
+    },
+    "randomium": {
+      "jar_name": "randomium-1.20-1.32.jar",
+      "en_us_hash": "3e5e21cbc2f81dc0a02ed32fb2a0303cd9097320eeae6ae3208d9d30ae21d5c5",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:39.329467"
+    },
+    "reactivemusic": {
+      "jar_name": "reactivemusic-1.0.3+1.20.1.jar",
+      "en_us_hash": "80fe6b262a014ec2bda2c5fa10c82b1e4f49d882308fd2b294a32021eb33ef79",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:39.525774"
+    },
+    "horse_colors": {
+      "jar_name": "realistic_horse_genetics-1.20.1-13.5.jar",
+      "en_us_hash": "87beaebaf1ddc41a41fdb1f2e13fa78c192cdbe63bf8b3d71dd59a28f3e5e5c3",
+      "zh_cn_hash": "689b30dc240c4a82917ab6013e56dfe24805fa6d54d0cef02c3bc85c5e196932",
+      "last_sync": "2025-11-03T02:08:39.780378"
+    },
+    "quark": {
+      "jar_name": "Quark-4.0-462.jar",
+      "en_us_hash": "ea34b35024a4e7747d931031ba5c515c09ef06dd8d804d83a2349503148ee7e5",
+      "zh_cn_hash": "10a93e1088df3c2e7746980761c358f0fd04da4a9545bbe6fea9f6c9cbcc8276",
+      "last_sync": "2025-11-03T02:08:39.889232"
+    },
+    "rebornstorage": {
+      "jar_name": "rebornstorage-1.20.1-5.0.7.jar",
+      "en_us_hash": "89290b833d253b7f70c0182189ad9446981b538cce944900c72a1e6ea1e65d78",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:39.960792"
+    },
+    "rebirth_paintings": {
+      "jar_name": "REBIRTH Paintings 5.0.0.jar",
+      "en_us_hash": "e4a574e0d8ecbbe3fd620ba225f7747fd8abafe240375ee313c945ffb4b1225d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:40.107651"
+    },
+    "rechiseled_chipped": {
+      "jar_name": "rechiseled_chipped-1.2.1-1.20.1.jar",
+      "en_us_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:40.227066"
+    },
+    "redstonepen": {
+      "jar_name": "redstonepen-1.20.1-neoforge-1.3.33.jar",
+      "en_us_hash": "dba56217e27ba84d995d2f1f047380f92ab76018610b8f3ac4f1d1743a48d389",
+      "zh_cn_hash": "87373d6a3bfda0ec772330625956d0b6f30241e21b184c06032e785b9d504aac",
+      "last_sync": "2025-11-03T02:08:40.262736"
+    },
+    "refinedcooking": {
+      "jar_name": "refinedcooking-4.0.0.jar",
+      "en_us_hash": "f26c37992c76337ef9b51074a505eee0f5535a69af78ea0402eea7a42c8bf4b8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:40.395191"
+    },
+    "rechiseled": {
+      "jar_name": "rechiseled-1.1.6-forge-mc1.20.jar",
+      "en_us_hash": "b337fa6752451b33a0ed5aacb371d70955576d81374cb6284ef53fe9251fab10",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:40.664819"
+    },
+    "refinedstorage": {
+      "jar_name": "refinedstorage-1.12.4.jar",
+      "en_us_hash": "8ae4a1c329e980ba72f6d4435f68574053a4605405a4a63c1c0ffea2bf4aabee",
+      "zh_cn_hash": "16affc196a46270a1169d4e9ffd7516ce5f00abc5714ba8d7d54ccab50e8d2a6",
+      "last_sync": "2025-11-03T02:08:40.714553"
+    },
+    "refinedstorageaddons": {
+      "jar_name": "refinedstorageaddons-0.10.0.jar",
+      "en_us_hash": "cb647cb819d763502fa27639fea598cb78ec681a6b926d8a7ea5dc29f39849e5",
+      "zh_cn_hash": "497841d2ee0d0eb3bfd37f687c9861b878757abc155b361992f047d84b2ac14c",
+      "last_sync": "2025-11-03T02:08:40.721718"
+    },
+    "tiered": {
+      "jar_name": "Reforged-1.20.1-1.0.12-Forge.jar",
+      "en_us_hash": "ffa3b4b09c67146c988ec818334ddfe778e0b60da66e009226b6a20b98aa291a",
+      "zh_cn_hash": "11cfdd3c2491f4d3119f3e3c1ef854fc945fb57b98ce3462db1a6070b6edff14",
+      "last_sync": "2025-11-03T02:08:40.766585"
+    },
+    "refurbished_furniture": {
+      "jar_name": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "en_us_hash": "6017b41580088e61bfe1f6fffd9995673328459a37470f89b22b08fe2d1195ad",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:41.165818"
+    },
+    "repurposed_structures": {
+      "jar_name": "repurposed_structures-7.1.19+1.20.1-forge.jar",
+      "en_us_hash": "15a37b1c3d0e00e9bf5cbb6e5a070dd79129914072e231bad687408d3c3d3806",
+      "zh_cn_hash": "446c598d41fb99fb4612763c8f038cf89a81daeba0d0eadf05209c53121de64b",
+      "last_sync": "2025-11-03T02:08:41.274369"
+    },
+    "relics": {
+      "jar_name": "relics-1.20.1-0.8.0.11.jar",
+      "en_us_hash": "be0bb79d68fb5c30acdd84d89edd5ea278630c0f5ea203ff4225fa2a606c69b6",
+      "zh_cn_hash": "fe35afce91a4f39181a07aa0a016d7495c2ea81800282bb64f90847fd9cad89c",
+      "last_sync": "2025-11-03T02:08:41.361680"
+    },
+    "respiteful": {
+      "jar_name": "respiteful-1.2.1.jar",
+      "en_us_hash": "532046a64df926fbf97354ec9c16e452141974bde0c4b9db4dbad2591b793c7d",
+      "zh_cn_hash": "e9224324c5ea136904f2d25df7b07ed3e4f7b44bcc30d5212404af32ca5bbe48",
+      "last_sync": "2025-11-03T02:08:41.399876"
+    },
+    "rsinfinitybooster": {
+      "jar_name": "RSInfinityBooster-1.20.1-1.0+41.jar",
+      "en_us_hash": "f57be62855313a6802de4ec2423f2a0d90604060f399bca2f14b33e44a9ba165",
+      "zh_cn_hash": "48994dc599ac2aa40bfe4007ad0a1f345bb1b56a2c46d0a00d256239e3c74da9",
+      "last_sync": "2025-11-03T02:08:41.405652"
+    },
+    "rsrequestify": {
+      "jar_name": "rsrequestify-1.20.1-2.3.3.jar",
+      "en_us_hash": "b012fb1c70bf5201baf23f199e69494062606694edc701e4dc9fbdf9987f5bb7",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:41.463155"
+    },
+    "rusticpancakes": {
+      "jar_name": "rusticpancakes-forge-1.20.1-1.1.0.jar",
+      "en_us_hash": "104bda549e596c3bd24347aaf3326c59d0fb0fbb4ed2b1b7bed8bc99e54563aa",
+      "zh_cn_hash": "ed31751944ed5c799805bcb24db7dd4d94e29d87d42b544f3a51c2c7137e328b",
+      "last_sync": "2025-11-03T02:08:41.850153"
+    },
+    "runelic": {
+      "jar_name": "Runelic-Forge-1.20.1-18.0.2.jar",
+      "en_us_hash": "b2e2b2294d365856051e647c391418dee6c1611bc763e2a6bdae0deebf63156e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:42.318105"
+    },
+    "sakura": {
+      "jar_name": "Sakura-1.1.15-1.20.1.jar",
+      "en_us_hash": "2118f66722f1c4f0fabb6abc02cd41aa28499c87875d93741a859f6525559391",
+      "zh_cn_hash": "ca0441fc50b86cc0e829364c30d6c2f8c2347ee8328b73a4cb82355eef0505db",
+      "last_sync": "2025-11-03T02:08:42.537554"
+    },
+    "sapience": {
+      "jar_name": "sapience-1.20.1-1.0.0.jar",
+      "en_us_hash": "252476541db472f540fe96549da7012d8750688aa24740ab74c4a90ece73cf0c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:42.818093"
+    },
+    "satisfying_buttons": {
+      "jar_name": "satisfying_buttons-forge-1.1.2-1.20.1.jar",
+      "en_us_hash": "1df3c7fb52982fc8b72a99aa228e09acb464d6d9ea1f5004997c7149378d382f",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:42.820605"
+    },
+    "savage_and_ravage": {
+      "jar_name": "savage_and_ravage-1.20.1-6.0.1.jar",
+      "en_us_hash": "f4ee48ec2cf18d3de2adae7a800cbc2737e917a4a62f8ea1588a2377f9b9a33a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:42.834024"
+    },
+    "sakuratinker": {
+      "jar_name": "sakuratinker-1.3.9.4.jar",
+      "en_us_hash": "30ecc66804a9783f87dd9442f0885a9189d9e9ef4f5e902104ef75ddb24fdb16",
+      "zh_cn_hash": "05c37ae12fe52d6fa4caa0b48a1f37f8a398f3ee3ff7b550d1ef5e5cbd9dcb8d",
+      "last_sync": "2025-11-03T02:08:43.019049"
+    },
+    "scholar": {
+      "jar_name": "scholar-1.20.1-1.1.9-forge.jar",
+      "en_us_hash": "dd12f206b05725b4d4d7527d6803c342909f17066bddb22a90387ac65342fd79",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.162313"
+    },
+    "screenshot_viewer": {
+      "jar_name": "screenshot_viewer-1.3.2-forge-mc1.20.1.jar",
+      "en_us_hash": "edce3535d5b951d7cc239cdee8b9800deea446446fcffe61860d3abe57441b62",
+      "zh_cn_hash": "a46aa91f0ecb3a061cfaccb772a5ef5996e1c21d6aa65198496549a0ad1db6c7",
+      "last_sync": "2025-11-03T02:08:43.173143"
+    },
+    "scuba_gear": {
+      "jar_name": "scuba_gear-1.20.1-1.0.6.jar",
+      "en_us_hash": "2fca28709c12598d679070b9a4c84a08a09ae1a16174eea50a9abc8ddee0d0f0",
+      "zh_cn_hash": "7f9605413fdd22d537d99bb93d01ec81d81781f9dcd880fdc5829c78cbb5f913",
+      "last_sync": "2025-11-03T02:08:43.202227"
+    },
+    "scriptor": {
+      "jar_name": "scriptor-1.2.6-1.20.1-forge-sgd.jar",
+      "en_us_hash": "b403d371d846cabaa61494be0218e77e1c599ae3057f3ec3feeb78f7ef7b980d",
+      "zh_cn_hash": "85332d965c3fd47f3be649077dc0ed42621a615c5d0d541d77986d7c743b1030",
+      "last_sync": "2025-11-03T02:08:43.248409"
+    },
+    "sculkcatalyticchamber": {
+      "jar_name": "sculkcatalyticchamber-0.3.0.jar",
+      "en_us_hash": "dc5d5afc103d3ec59df268cc9695ae2d547a476beddf773c110207d193a23dfc",
+      "zh_cn_hash": "0af79330b6d4a55f6bdafc84c75ec9306639408fac2c1b55c640ad1f6caf33e5",
+      "last_sync": "2025-11-03T02:08:43.260349"
+    },
+    "seamless": {
+      "jar_name": "seamless-2.2.2-forge-1.20.1.jar",
+      "en_us_hash": "3e9df9589042fef3b2eca81d57ebcfd5071f9217f5a1428a9b5d3cbef72c33be",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.278943"
+    },
+    "sculkybits": {
+      "jar_name": "sculkybits-1.0.1-1.20.1.jar",
+      "en_us_hash": "08d5ca0b84dfc45736435f612e3f046cb2f90bab5a2f25dd06f85dcb1ffb30d6",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.289783"
+    },
+    "searchables": {
+      "jar_name": "Searchables-forge-1.20.1-1.0.3.jar",
+      "en_us_hash": "a0bbb739c5e855f7369b24edd4426e7509cf32027f6b3ac41ad0743254a29d95",
+      "zh_cn_hash": "4a4ed75468702750bda8de5fb26721e5969d8f7a28df11db138163958b63cb86",
+      "last_sync": "2025-11-03T02:08:43.290510"
+    },
+    "seasonals": {
+      "jar_name": "seasonals-1.20.1-5.0.2.jar",
+      "en_us_hash": "9893121b1520692fa4f62e2f9edc162a3e3cb3a667fdf8f63ecac4cc95a8dc3d",
+      "zh_cn_hash": "341cb04aca868251368b48dfc1fa98a1d249e25e721236a991ec2b5cf6befe83",
+      "last_sync": "2025-11-03T02:08:43.302152"
+    },
+    "sebastrnlib": {
+      "jar_name": "sebastrnlib-4.0.0.jar",
+      "en_us_hash": "5ce39f095b3b12b1b3b8d4f2d1368154364a3e621631f0cda5e9c92964a03898",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.353374"
+    },
+    "shadowizardlib": {
+      "jar_name": "shadowizardlib-1.20.1-1.3.1.jar",
+      "en_us_hash": "c1ee8af43709e1bde5c7c8686c790075b7853be93c092a1d1a20b7dc04d15b7a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.380946"
+    },
+    "shieldexex": {
+      "jar_name": "shieldexex-1.1.2-1.20.1.jar",
+      "en_us_hash": "a95f9f3cd09f7244ecdcefbb8faec48b8a64c8b9bea83b905ff0c51252312428",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.401991"
+    },
+    "shetiphiancore": {
+      "jar_name": "shetiphiancore-forge-1.20.1-1.5.jar",
+      "en_us_hash": "ca188682bfa7428fc3853953c3a6c387dca4ee52043264dad51512f9dfb1bce5",
+      "zh_cn_hash": "6454a9794a3f898991e8a24bbb3317260638d4424a25235fe122e9066b277d7a",
+      "last_sync": "2025-11-03T02:08:43.404987"
+    },
+    "shieldexp": {
+      "jar_name": "ShieldExpansion-1.20.1-1.2.2.jar",
+      "en_us_hash": "de2fde60ea864af33e467a9436699f8d25d23cdcf5dffd85f1e366c91a5667ca",
+      "zh_cn_hash": "1fe8a7174a2fa81f9631f06a06152e50c97fa2ef0df54bad8752b9031bbc4f03",
+      "last_sync": "2025-11-03T02:08:43.445675"
+    },
+    "shoving_shovels": {
+      "jar_name": "shoving_shovels-0.0.0.jar",
+      "en_us_hash": "0be9055fd23bfc3013973261e8cb25bb6e34cb2dd28e84ec6c09d0e0cd0f821a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.464728"
+    },
+    "silentsdelight": {
+      "jar_name": "silentsdelight-forge-1.0.1-1.20.1.jar",
+      "en_us_hash": "e5d3429bc75770c6e3fcbba056af2383c313d503bc00b3eb45b4cfe75b13ff80",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.473300"
+    },
+    "shutter": {
+      "jar_name": "shutter-2.2.0-1.20.1.jar",
+      "en_us_hash": "9b3bf38ab140c9f37bf5a6cb09be8f21456c48ba93efed18d34f97354c36be55",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.482032"
+    },
+    "simplebackups": {
+      "jar_name": "SimpleBackups-1.20.1-3.1.17.jar",
+      "en_us_hash": "c20b312acd81fcec80fcd257ffed64fd7c358808d0aba740258a54cd62adfefa",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.590249"
+    },
+    "simplehats": {
+      "jar_name": "simplehats-fabric-1.20.1-0.3.2.jar",
+      "en_us_hash": "ecf8df21929c169244ad39f6ae5390062b49f11240dcdd44bf2518f40f159964",
+      "zh_cn_hash": "d53fd0a8be97ccfc46c93c14d283ac51c0098528c8fccf48c4a3b16efa70e5a4",
+      "last_sync": "2025-11-03T02:08:43.711853"
+    },
+    "skiing": {
+      "jar_name": "Skiing-forge-1.20.1-1.0.1.jar",
+      "en_us_hash": "06e5be5951112465ff68a33b68e78b6445b6fd5b74da8fd2fd2e68651135acca",
+      "zh_cn_hash": "838b00a8c8d23043bf5cbdd9f4bdd4c4e32c8a9c709b6151b74c71c29f38ab09",
+      "last_sync": "2025-11-03T02:08:43.715984"
+    },
+    "skyarena": {
+      "jar_name": "SkyArena-1.3.6-1.20.1.jar",
+      "en_us_hash": "ba18ba3c08999ffc7c6ac58bdb5a6f2284fc374375158bab7faee5f5bfaa8d84",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.727929"
+    },
+    "sliceanddice": {
+      "jar_name": "sliceanddice-forge-3.5.2.jar",
+      "en_us_hash": "dd5221f960a301c5ba02abdb484f42a13ddbc1e96e67282e7b208396b99a37e5",
+      "zh_cn_hash": "4a28f0d641fd0e6a8071b3bede501968209437e57b2571a3c75723f38ad50b66",
+      "last_sync": "2025-11-03T02:08:43.787715"
+    },
+    "slavic_delight": {
+      "jar_name": "SlavicDelight-0.3.0-forge-1.20.1.jar",
+      "en_us_hash": "7743690ae6fd2fe553e56f70633e43274e80e6a6acce6fad863817da21106ce9",
+      "zh_cn_hash": "22376e1b6adf9aa078c3a79a2dd155071c4a22a000551fd4fed338654c352272",
+      "last_sync": "2025-11-03T02:08:43.795698"
+    },
+    "slabmachines": {
+      "jar_name": "SlabMachines-1.20-2.0.0.jar",
+      "en_us_hash": "44fdc12f379d3bc25bec9b98b09ee488b3a264c5e11107920be88f6a59dbb70a",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.811987"
+    },
+    "smallships": {
+      "jar_name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "en_us_hash": "f0ce0278138d1b600c8dfedf435cbe0a90283540911174e7be1e4527e8e78186",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.825491"
+    },
+    "sob": {
+      "jar_name": "SmidgeonOBliss-1.20.1-1.3.1.jar",
+      "en_us_hash": "9b4014a9bff6fcb3050a6a4d6edaa80002920852e174f4ca1263c4bf48baed05",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.878243"
+    },
+    "snowrealmagic": {
+      "jar_name": "SnowRealMagic-1.20.1-Forge-10.6.5.jar",
+      "en_us_hash": "743eeb5db9e8cd893253a250374d25d9702c401ee3964becb75bda868a99a1b1",
+      "zh_cn_hash": "6c3cadeea9cb9203a9912d482a5c2fca198dda60405282c4e25f9753c01e1fba",
+      "last_sync": "2025-11-03T02:08:43.917385"
+    },
+    "smsn": {
+      "jar_name": "smsn-forge-1.3.1-1.20.1.jar",
+      "en_us_hash": "879c7c9d9e317bbd8f1176ed690c967ef8a804056c4b7088f69e9ccf47490f19",
+      "zh_cn_hash": "ed79b2d3b3b82a64c8436b8acc8d3382d1f9a077a1117b754cd9a6f8b43d5bc1",
+      "last_sync": "2025-11-03T02:08:43.947535"
+    },
+    "solapplepie": {
+      "jar_name": "solapplepie-1.20.1-2.3.0.jar",
+      "en_us_hash": "9443e361ad4c5b8cc863e2e90fe866fb03678cfd28fd134dca8d153f90eefdfd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:43.978314"
+    },
+    "snowyspirit": {
+      "jar_name": "snowyspirit-1.20-3.0.10.jar",
+      "en_us_hash": "0f3f4ede5cb174466567f2940e916ce9c76a5a205d1f8cc78773cc28b56c3c0f",
+      "zh_cn_hash": "eea947ae2d4773148b0012d4dbc326be8edcbb552f0d64c73bad635932ee9531",
+      "last_sync": "2025-11-03T02:08:43.991538"
+    },
+    "snuffles": {
+      "jar_name": "snuffles-1.0.7.jar",
+      "en_us_hash": "275a1178c4f043b59296b83d3f400ea750c8e27acc3513134168dfd8bfbe6c91",
+      "zh_cn_hash": "fd8042378520cb162cde07d7e338cd4325ff66bd53c208e22d25c9ea27a2a84a",
+      "last_sync": "2025-11-03T02:08:43.991894"
+    },
+    "some_assembly_required": {
+      "jar_name": "some-assembly-required-1.20.1-4.2.1.jar",
+      "en_us_hash": "06e3e8f18b7860e85ce315b7b39a830b946c30731d8b1c53c05edbcd34015e63",
+      "zh_cn_hash": "6e58fd5032688fd1432ca54049aaf5d9262f635f1279052d2bcb0369ce47feee",
+      "last_sync": "2025-11-03T02:08:44.255281"
+    },
+    "sophisticatedbackpacks": {
+      "jar_name": "sophisticatedbackpacks-1.20.1-3.24.10.1404.jar",
+      "en_us_hash": "8118eac21d17472d4b235e0cabbd8fe57f9cb6d206d6dcfd713d252d594d3fce",
+      "zh_cn_hash": "0f756cfd996d99b4b4cce7a52cd7d56365919d27c95f6274fcb42b61fd5de22a",
+      "last_sync": "2025-11-03T02:08:44.334822"
+    },
+    "sophisticatedstorage": {
+      "jar_name": "sophisticatedstorage-1.20.1-1.4.14.1356.jar",
+      "en_us_hash": "ab50c2e055977065053330ec5d5b26158ce34b6f1c2eb7504dd14875c4897880",
+      "zh_cn_hash": "aa379d6941fd26a290b6865110b430e189c2e33cc4099a8ac0fc994fd7239412",
+      "last_sync": "2025-11-03T02:08:44.439371"
+    },
+    "sophisticatedcore": {
+      "jar_name": "sophisticatedcore-1.20.1-1.2.105.1230.jar",
+      "en_us_hash": "b9cb8891f08adcf55ff44e7f4d0c9b9b90fa4f37c2b4c0d243345eb5f28d4720",
+      "zh_cn_hash": "369fcf8d436ce256b74f71ee8f086c2d735f79f2640b97be5c932f2acb3d22a5",
+      "last_sync": "2025-11-03T02:08:44.440651"
+    },
+    "spanishdelight": {
+      "jar_name": "spanishdelight-1.0.1-1.20.1.jar",
+      "en_us_hash": "ff60944e76b7dcad9415b6d9e6f5050ac66d27dd1f4ef58b42180ab11580741d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:44.486312"
+    },
+    "sound_physics_remastered": {
+      "jar_name": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+      "en_us_hash": "0b298cf8436a3a0f56ce0462a5c233ca390eb47b0ba55847fb2aae986744d64b",
+      "zh_cn_hash": "f651704aefe1bcb029f170a07d6a4362b38d8cf87d49cd173c1f56104eb383a8",
+      "last_sync": "2025-11-03T02:08:44.494812"
+    },
+    "spawnerhead": {
+      "jar_name": "spawnerhead-1.20.1-2.2.1.jar",
+      "en_us_hash": "07635031db2bc1d98abb63af377e8e401befb1f404c5af7aab9b6c446fe18f8e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:44.614888"
+    },
+    "spyglass-improvements": {
+      "jar_name": "spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+      "en_us_hash": "c4cda355369fefea48be3134c668608fbab52179b385806c8771fd92c278f8f3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:44.679372"
+    },
+    "spelunkeryplus": {
+      "jar_name": "spelunkeryplus-1.6.4.jar",
+      "en_us_hash": "7a09c703ca445a91e59272da216a182a0940115975678ed67334976f5823e967",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:44.706125"
+    },
+    "spelunkery": {
+      "jar_name": "spelunkery-1.20.1-0.3.16-forge.jar",
+      "en_us_hash": "614b586f311d26455cbf8da6ba0d0d2bb1eb748f109cbeeeeb483d83a11d7d49",
+      "zh_cn_hash": "1292668ad052dce5eb2f4e084d4678f8a541b43a0e9d02a76226bfcbe7dd557f",
+      "last_sync": "2025-11-03T02:08:44.736685"
+    },
+    "starbunclemania": {
+      "jar_name": "starbunclemania-1.20.1-1.2.3.0.jar",
+      "en_us_hash": "49c4cf61e40dd5d189a55293d7b681775a8c04a7262fbc01853e26087e085808",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:44.924454"
+    },
+    "stardew_fishing": {
+      "jar_name": "stardew_fishing-3.2-1.20.1.jar",
+      "en_us_hash": "7409f91d91b1b52bf81ea918af54de733be679a9684842d76b5bece6f369a9bf",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:45.020816"
+    },
+    "storagedelight": {
+      "jar_name": "storagedelight-25.06.26-1.20-forge.jar",
+      "en_us_hash": "7911e2a28b0dadc6a10e2a5e454e07953cc90d7ce08aa0812b31c4afc9963a6c",
+      "zh_cn_hash": "8601d719f25f9965f4f7e1d72a7e6c268b1794aff457fa065a840d58abfb384e",
+      "last_sync": "2025-11-03T02:08:45.032398"
+    },
+    "storagedrawers": {
+      "jar_name": "StorageDrawers-forge-1.20.1-12.14.3.jar",
+      "en_us_hash": "dabdda1f225375fa0a242f21b64749e5aadd490c3508587bfa50d22a9ad4f3ac",
+      "zh_cn_hash": "95cb0661e1a5db8c9aa76a5fbbb18150e7c92854a0f11638836367dae2397a59",
+      "last_sync": "2025-11-03T02:08:45.450720"
+    },
+    "structory": {
+      "jar_name": "Structory_1.20.x_v1.3.5.jar",
+      "en_us_hash": "7b4a70608627fb7abd8cd1cf8642f7cc3e51debda34f15a44c1e501cbb4b4cae",
+      "zh_cn_hash": "ad2da6fe9bcb4434794dea22815e42d76533ef995fe3fcc79f188fa049d4dc87",
+      "last_sync": "2025-11-03T02:08:45.503734"
+    },
+    "railways": {
+      "jar_name": "Steam_Rails-1.6.13-alpha+forge-mc1.20.1.jar",
+      "en_us_hash": "976e22f955d58178afbf2146fb3f26246e7d0e18519ce34a0cdbb987435b3c87",
+      "zh_cn_hash": "a5b8651145b3a4e33c616a114dc257fa3d30c5934de72f714681ddc857339e81",
+      "last_sync": "2025-11-03T02:08:45.625441"
+    },
+    "structory_towers": {
+      "jar_name": "Structory_Towers_1.20.x_v1.0.7.jar",
+      "en_us_hash": "b3be29812ba65a55c960ddbc3c17d14bd7cc5096df81343647d7c90735450674",
+      "zh_cn_hash": "d3bf90443cbb8c27565d5c8faa1c5459d9fe712af67e65c8497cf579ecb81b77",
+      "last_sync": "2025-11-03T02:08:45.664858"
+    },
+    "structure_layout_optimizer": {
+      "jar_name": "structure_layout_optimizer-forge-1.0.11.jar",
+      "en_us_hash": "4d2fce924acff45fa915a69658747bd14ad0c50f12aa2da1e816767c1f9582f2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:45.696719"
+    },
+    "structurify": {
+      "jar_name": "structurify-forge-1.0.21+mc1.20.1.jar",
+      "en_us_hash": "6cb098fd40a66aea0136ee5a8dd6f92a9a23e779afd06496e7c9c10f4c7904ec",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:45.843178"
+    },
+    "structure_gel": {
+      "jar_name": "structure_gel-1.20.1-2.16.2.jar",
+      "en_us_hash": "22e39a58ced61c6c2640bb6e51ee4152d93e3731896356d67a9420ef41d3d48b",
+      "zh_cn_hash": "4441d4039cc7ae377f4ef1e7c84f663aa74f47b98c8d4a79d2bc62b3faa2da47",
+      "last_sync": "2025-11-03T02:08:45.909707"
+    },
+    "subtle_effects": {
+      "jar_name": "SubtleEffects-forge-1.20.1-1.13.1.jar",
+      "en_us_hash": "cf732bd018b80214f61157d1eafec8027193244262ee156db8de65ac6cf18a7e",
+      "zh_cn_hash": "94c50f6e3636ec305392b6daa2fe46797fe4f889603903c0bfbb005d851d5c18",
+      "last_sync": "2025-11-03T02:08:46.157807"
+    },
+    "supernatural": {
+      "jar_name": "Supernatural-2.12.1.jar",
+      "en_us_hash": "0a8aa8b4389f7fb35d7c78d390e75b5a4199132a3d1cfc4e1634874dc82f248e",
+      "zh_cn_hash": "780ad239914ead4cb5364fc024b51b85d6ad968ac05042e0cbcf2376fa3afe39",
+      "last_sync": "2025-11-03T02:08:46.305655"
+    },
+    "suppsquared": {
+      "jar_name": "suppsquared-1.20-1.1.26.jar",
+      "en_us_hash": "fbb8d526631ec3c36c898b599f6656ef73041ca7d44e555d8e833a97b5ab37aa",
+      "zh_cn_hash": "0d326fdf126b6c677f9ffa2c3c567f612c903c4080d744aca4f5c66bddb94887",
+      "last_sync": "2025-11-03T02:08:46.408877"
+    },
+    "sushigocrafting": {
+      "jar_name": "sushigocrafting-1.20.1-0.5.3.jar",
+      "en_us_hash": "7066a4341895940043b81c4b5f47d7cacb6bf2813f0cf40acb63143551ba9ef8",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:46.425606"
+    },
+    "swampier_swamps": {
+      "jar_name": "swampier_swamps-1.20-4.0.0.jar",
+      "en_us_hash": "2563e42aeb030e4cdcdfcc4427c9cba3acc814ac4e9c53d0d649a1c5d0e95f80",
+      "zh_cn_hash": "d56d1aaad036a2632ca7ed88733223ad534a05dc81063e3fb4985c1bcc6df082",
+      "last_sync": "2025-11-03T02:08:46.504534"
+    },
+    "supplementaries": {
+      "jar_name": "supplementaries-1.20-3.1.41.jar",
+      "en_us_hash": "96fadf1f1ed75f2e7c26b51a758321e0b795602977fe3c603942f1c381260990",
+      "zh_cn_hash": "ee99c0f535ee13281bdb12e460026c30096cb12f3faad56be90015667c239b4e",
+      "last_sync": "2025-11-03T02:08:46.597018"
+    },
+    "systrace": {
+      "jar_name": "systrace-forge-1.0.0_1.20.1.jar",
+      "en_us_hash": "1f937af49fe9e1ef89ab9a161b384d19e4a410d0114d37109fc27fe89ade83ae",
+      "zh_cn_hash": "3bb5812ff4e8245cff909fc718969dc3320186e14e4d34fcb4b4a4232bd93875",
+      "last_sync": "2025-11-03T02:08:46.616705"
+    },
+    "table_top_craft": {
+      "jar_name": "table_top_craft-1.20.1-6.1.2.jar",
+      "en_us_hash": "1d6c588f71e4c7a4528dc315f0ec51a67d62884af9d692d1036e7e5010eeec27",
+      "zh_cn_hash": "003681e0ac2483696608d2701b50a8004a14229162f6f1f49be707a3a05ba9fd",
+      "last_sync": "2025-11-03T02:08:46.732265"
+    },
+    "takesapillage": {
+      "jar_name": "takesapillage-1.0.3-1.20.1.jar",
+      "en_us_hash": "2f72ec80e498a24bb36de63926a7ed45ba856f47ca4ae64a9bef0bd8380d33b0",
+      "zh_cn_hash": "932c4b94b5ff1b449aaf9222aa10a7278f0f89ff63c2914baedba09ded610dd0",
+      "last_sync": "2025-11-03T02:08:46.738905"
+    },
+    "taxfreelevels": {
+      "jar_name": "TaxFreeLevels-1.4.14-forge-1.20.1.jar",
+      "en_us_hash": "dacc8337881801b18268cd8520da991eb988f3eee2fe37369ba7df86f0d888a9",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:46.767795"
+    },
+    "tanukidecor": {
+      "jar_name": "tanukidecor-20.1.1.0.jar",
+      "en_us_hash": "a9b39fadde24a5c546e7082b9cd5808ca3425f1367034ce69d1197dba158b0a4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:46.814386"
+    },
+    "tcdcommons": {
+      "jar_name": "tcdcommons-3.12.3+fabric-1.20.1.jar",
+      "en_us_hash": "0144bc043e895c1361ab5112aafe5540b78e59b0688806883590e1d9eef72dae",
+      "zh_cn_hash": "1103600b79df387b87879ad7a5527d6cc818d681818ff9b5c5355c5d85b7178d",
+      "last_sync": "2025-11-03T02:08:46.906126"
+    },
+    "tcintegrations": {
+      "jar_name": "TCIntegrations-1.20.1-2.0.25.13.jar",
+      "en_us_hash": "577d24ca1696edbf8aa7b9979eeca21bf75a6f2216371ed0b4161006f3bbc81c",
+      "zh_cn_hash": "415955cc7e5a57d8408c4b001b9c1287cdf7af733e4e495e934d7424430817ce",
+      "last_sync": "2025-11-03T02:08:47.017561"
+    },
+    "tconjei": {
+      "jar_name": "tconjei-1.20.1-1.4.6.1.jar",
+      "en_us_hash": "52dae1bc365054e6292b4cd9b623d7f0754691fde743d9afc82b45226237b3e8",
+      "zh_cn_hash": "339093b269e84beaff154ba4a6b381a77c9c2c7b8044e4a36f0c175588a385b4",
+      "last_sync": "2025-11-03T02:08:47.019294"
+    },
+    "tconplanner": {
+      "jar_name": "tconplanner-1.20.1-1.6.jar",
+      "en_us_hash": "6bbc625927e8e579ca110340234a420e100f435345b3f6b7b6024589cc746033",
+      "zh_cn_hash": "074137eec3b809c7bb7bc0ffeb158dc564dc1f3442a950fc69bda546a2ad19c7",
+      "last_sync": "2025-11-03T02:08:47.059964"
+    },
+    "telepass": {
+      "jar_name": "TelePass-forge-1.20.1-2.1.2.jar",
+      "en_us_hash": "f063b4256775d9771b479d5045b21883c0678c06dc37624d366c43f9f5ad32e8",
+      "zh_cn_hash": "0c76973445801dc6d63a9b57c57289c89083400248a925d07e5560e37663c042",
+      "last_sync": "2025-11-03T02:08:47.619724"
+    },
+    "tectonic": {
+      "jar_name": "tectonic-3.0.16-forge-1.20.1.jar",
+      "en_us_hash": "e7dbea98ba3bf0cbd34392e205dbe956c69956d2096d7f5aba6670e4d7ebeaae",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:47.620545"
+    },
+    "terrablender": {
+      "jar_name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+      "en_us_hash": "c4ecad1784e73d117747d230013ee0cff87b6e1362aef7a499e4e2d12b344c74",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:47.791086"
+    },
+    "texelspaintings": {
+      "jar_name": "TexelsPaintings-forge-1.20.1-10.3.1.jar",
+      "en_us_hash": "1c36f209b4b429820cbe86bd5f9d4e8c7e3323dd0c66e60eaa0185efc4ea74ef",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:48.353806"
+    },
+    "tslatentitystatus": {
+      "jar_name": "TES-forge-1.20.1-1.6.1.jar",
+      "en_us_hash": "9eab22681448e601ddd28f96364356b3e886f8b12f56d832ada834b0dc0364b1",
+      "zh_cn_hash": "3f39d462c1fd08928b4eb9f6d5d69738cf6ccb5d9c7288c1db795a2cbab198b6",
+      "last_sync": "2025-11-03T02:08:48.477161"
+    },
+    "tconstruct": {
+      "jar_name": "TConstruct-1.20.1-3.10.2.92.jar",
+      "en_us_hash": "def78834bfe5ce73a8b86eec3e4e338ecae83480ced53ac395b8bd3c2414adc9",
+      "zh_cn_hash": "c53261c5be4ea8b08916040acd59daa14395faa6e1e38e186d324661578b6b4b",
+      "last_sync": "2025-11-03T02:08:48.561742"
+    },
+    "conjurer_illager": {
+      "jar_name": "the-conjurer-1.20.1-1.1.6.jar",
+      "en_us_hash": "3d20cfaff513c68187c136c61ed8c33e1da4a1b955ad42fce9503707af373b7c",
+      "zh_cn_hash": "4d67c889cc20b5770a31f5a07aec9fb4c2b11060d005065a460d522176f56cbd",
+      "last_sync": "2025-11-03T02:08:48.884629"
+    },
+    "undergarden": {
+      "jar_name": "The_Undergarden-1.20.1-0.8.14.jar",
+      "en_us_hash": "bd027a27451de9e7d3f9ab1fb53127f2d51e8629c93f22dd14c5d6688ce3ad15",
+      "zh_cn_hash": "71918be9d6fcee1319bdcd3f026426f3b6ee6216fe136c90bf7acfc8a523633e",
+      "last_sync": "2025-11-03T02:08:49.177308"
+    },
+    "graveyard": {
+      "jar_name": "The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+      "en_us_hash": "c94d74111f214894c98689c03d81c90cc7531d93d86640812db71a79dd1ae098",
+      "zh_cn_hash": "900260179b2f916ff9d138bbe85abc1ef8369f20b8dadcf52145b1710d2a7f8c",
+      "last_sync": "2025-11-03T02:08:49.237684"
+    },
+    "tfmg": {
+      "jar_name": "tfmg-1.0.2c.jar",
+      "en_us_hash": "280c5cca2feeedac550825bc065159ec4a0b6baa7c17677aa9d60f9af5cad696",
+      "zh_cn_hash": "ad3683c566134987d10b64a9b7092e0a845ea15a80d7602d8285682f025e989f",
+      "last_sync": "2025-11-03T02:08:49.333466"
+    },
+    "tidesdelight": {
+      "jar_name": "tidesdelight-1.20.1-1.1.0.jar",
+      "en_us_hash": "18d11fad8894e8690ad1f8526f5f86987211406dbb2777e059e9641fced2b0ff",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:49.605638"
+    },
+    "tinkers_things": {
+      "jar_name": "Tinker-Things-1.20.1-1.3.2.jar",
+      "en_us_hash": "690a7243e5650604613bd1c0bdd4f644454e66a95d404e5341bf6c44b115a74a",
+      "zh_cn_hash": "cc9299b953ba7a8243710810d1a1cf862d3f61c41dc50f1677b954cde60bcf24",
+      "last_sync": "2025-11-03T02:08:49.675341"
+    },
+    "tide": {
+      "jar_name": "tide-forge-1.20.1-1.6.5.jar",
+      "en_us_hash": "5134cd43d3dcec06be2c51279eb8ec3b5ad7bb3fb78dc00443ad5291241b0487",
+      "zh_cn_hash": "a82ea9db4403b308e9840d9d6c705d7667a40c77ea009829720686a383d31f3d",
+      "last_sync": "2025-11-03T02:08:49.686950"
+    },
+    "tinkers_delight": {
+      "jar_name": "Tinkers-Delight-1.20.1FORGE-2.0.2.jar",
+      "en_us_hash": "aab1f72e9daa6db5d220eb6c32544270c155b6f764774b5232b7ce08a2e9e3e3",
+      "zh_cn_hash": "2f2ebdf1a05738c07ac3a01137538d48df2b28c6a0e1b0562eceae5ff779a722",
+      "last_sync": "2025-11-03T02:08:49.720547"
+    },
+    "tinkersancient": {
+      "jar_name": "tinkersancient-1.20.1-1.1.0.jar",
+      "en_us_hash": "68e893097a4b6a6059339cb7453f82c35fbcc060a6f271e96b96138eb3fd7976",
+      "zh_cn_hash": "0919869064b62f7ec4ff91828a0e739727d268af67d1e452ec1d3a5013f1fa36",
+      "last_sync": "2025-11-03T02:08:49.731126"
+    },
+    "tinkers_battle_spades": {
+      "jar_name": "TinkersBattleSpades_v1.1.jar",
+      "en_us_hash": "f18dc8c095f02ec903f36ee5dfc2bf70de1e301ec4b9f93edf6166a54b0851e0",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:49.752730"
+    },
+    "tbouncepad": {
+      "jar_name": "TinkersBouncePad-forge-1.20-1.5.0.jar",
+      "en_us_hash": "979494e858ca3c2d2f920057e03eaa054987b478a4401ebfb2e2c86d4570be70",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:49.957302"
+    },
+    "tinkers_katanas": {
+      "jar_name": "TinkersKatanas_v1.3.9.jar",
+      "en_us_hash": "1de0e47a23a904ce3637295b0d084496e94cbbab2960800cdeca926e1bf59dcf",
+      "zh_cn_hash": "f63ee57f57cf9946c0a429116702c7558be2847da78d469931e766a3858b0ebe",
+      "last_sync": "2025-11-03T02:08:50.284165"
+    },
+    "tinkersjewelry": {
+      "jar_name": "tinkersjewelry-1.2.0.jar",
+      "en_us_hash": "453cb7eaef4f67c28782256c77d131c2932f27a2c4834e632b494e88d452ac88",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:50.412261"
+    },
+    "tinkersinnovation": {
+      "jar_name": "tinkersinnovation-1.20.1-3.0.0.jar",
+      "en_us_hash": "47e86c0647826d103cb977eab5065b78bc4d388765d085b81ba8fa1802b8f37b",
+      "zh_cn_hash": "5d467801b3391bf9a1d3f5e6c3df6dd3bbac42eb1e5149b65f049dd5365a62ab",
+      "last_sync": "2025-11-03T02:08:50.583109"
+    },
+    "tinkerscalibration": {
+      "jar_name": "tinkerscalibration-1.20.1-1.2.0g.jar",
+      "en_us_hash": "52119f11feae9ca7ff8558d91329bcdbdb484b79e217f60336c26ceafae0492d",
+      "zh_cn_hash": "cc3cc5db5c9816477ef5e3581ee8a2373f9e3f7be3c64623d5a00dc19c286ad0",
+      "last_sync": "2025-11-03T02:08:50.869140"
+    },
+    "tinkerslevellingaddon": {
+      "jar_name": "TinkersLevellingAddon-1.20.1-1.4.3.jar",
+      "en_us_hash": "a5ab868ec98d4cc7b9ffd77365f143a0dbbca4244f5f812ab2aa0a202f133f9e",
+      "zh_cn_hash": "9cb4f67af0d734562e0fe6c226d80ad8039e6fd1b053cae136ef2af5aae7603e",
+      "last_sync": "2025-11-03T02:08:50.947404"
+    },
+    "tinkers_ingenuity": {
+      "jar_name": "tinkers_ingenuity-1.0.8.jar",
+      "en_us_hash": "106c27251731cd2560532e667df2ead3911824e80f5e906a361b8a51f5778c83",
+      "zh_cn_hash": "00902a5fee7a648d13e1b8c628fadb6d2ef9d3651cb566ea9fbba92ed06998c6",
+      "last_sync": "2025-11-03T02:08:51.111260"
+    },
+    "tinkervillager": {
+      "jar_name": "tinkervillager-1.0.0-1.20.1.jar",
+      "en_us_hash": "a6a9a0dd515a5fd96f37b639d64bab2acf7b7b7beb7a99a32b57307cc4b39324",
+      "zh_cn_hash": "2dad3ac5b25c53d0ce5283e1d1fc982ac81c30aa26fc078902657f7f1511168f",
+      "last_sync": "2025-11-03T02:08:51.220033"
+    },
+    "tinkers_thinking": {
+      "jar_name": "Tinkers_Thinking-0.1.6.4.2.jar",
+      "en_us_hash": "50e164db1fe40f9556eb586df8cfc03aebda659002ad773fbb9665987f093aef",
+      "zh_cn_hash": "0cefa0a195650565544e73f59b3fd6a1c9c557b82aab3b92e750d4310eda7abc",
+      "last_sync": "2025-11-03T02:08:51.440600"
+    },
+    "tinker_in_caves": {
+      "jar_name": "tinker_in_caves-1.0.4.jar",
+      "en_us_hash": "a9c0b700c0001c9a714db36485b5e8d1fa77153f4b56a189407b9070fc7d1319",
+      "zh_cn_hash": "01fe20c1c314c4873c19160374d4f3473752d699f29c19561675a4040028ca77",
+      "last_sync": "2025-11-03T02:08:51.447141"
+    },
+    "tinker_transplant": {
+      "jar_name": "tinker_transplant-1.4.2.2-1.20.1.jar",
+      "en_us_hash": "d22294fc348beca5a5f43a242492aa29487e534e771d24646d8d6ed6b3165649",
+      "zh_cn_hash": "21fcfa43739d219f8310dff239c9bb7aad269824a073c852487cc002c9535aeb",
+      "last_sync": "2025-11-03T02:08:51.447762"
+    },
+    "tinyfoes": {
+      "jar_name": "tinyfoes-1.20.1-1.1-forge.jar",
+      "en_us_hash": "0ebca40b17e5593df1849202cc60d039c239af958d947a0e1a15a96799f88f5d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:51.456047"
+    },
+    "titanium": {
+      "jar_name": "titanium-1.20.1-3.8.32.jar",
+      "en_us_hash": "bfafbd7b2d1650e3e60415c56001293014e99d2af9f7bfed926605b66f59bc11",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:51.560238"
+    },
+    "tntslimes": {
+      "jar_name": "TNTSlimes-1.20.1-3.0.0.jar",
+      "en_us_hash": "388c25c89707d786cb1dea74ff073c2356abd2727f33b9af7247d4df8bc9d0a4",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:51.698330"
+    },
+    "tipsmod": {
+      "jar_name": "Tips-Forge-1.20.1-12.1.8.jar",
+      "en_us_hash": "be37e2206862e695b069e822563bcaf83b039d39ff3ec0565eff3c89c080a8fa",
+      "zh_cn_hash": "69735d9e98f54c00024701c5e10af9e4b9cf3ae71236f9d2db70b9f96f03bd78",
+      "last_sync": "2025-11-03T02:08:51.710203"
+    },
+    "tofudelight": {
+      "jar_name": "tofudelight-1.20.1-4.0.0.jar",
+      "en_us_hash": "fbdcaa5bca13770cf8c0fcc500eb574b2d9957621540f430d7b6c853829620fb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:51.829452"
+    },
+    "tofucraft": {
+      "jar_name": "TofuCraftReload-1.20.1-5.18.1.3.jar",
+      "en_us_hash": "b14a6b3b64949ac6cb8d1b86fb0e5c49faa46fab2a3a273268079600ec08a71f",
+      "zh_cn_hash": "cce12231ff5d6deaccb70770d57f5d140f357076e69b7c729fa9410b1db95835",
+      "last_sync": "2025-11-03T02:08:51.885753"
+    },
+    "toomanyglyphs": {
+      "jar_name": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
+      "en_us_hash": "867a6dbdf7a40bd31f810af8a58408bae619c8cd80f039d8bfd4b7a2cdb0c977",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:51.898358"
+    },
+    "trade_cycling": {
+      "jar_name": "trade-cycling-forge-1.20.1-1.0.18.jar",
+      "en_us_hash": "92fcbf33a1f2a1b74b21ecefc146bbefe1484987ec942dd521244f8eca74119b",
+      "zh_cn_hash": "ce072217f10b8e5c28ecbef7cff6ac43eac4d44775ea2ea8e836d917300af02d",
+      "last_sync": "2025-11-03T02:08:51.921082"
+    },
+    "transmog": {
+      "jar_name": "transmog-forge-1.3.0+1.20.jar",
+      "en_us_hash": "0163767ffb25fdc57578a5f28f2fdd19474724051b4e0026f882e79837dd45dc",
+      "zh_cn_hash": "41daab7e8af766386ace5d89b4e567146f5463d5a4b421c071d2425b003764e9",
+      "last_sync": "2025-11-03T02:08:51.933014"
+    },
+    "trailandtales_delight": {
+      "jar_name": "trailandtales_delight-1.3-all.jar",
+      "en_us_hash": "7bf5d32bf506de3a6d3f8f35534b56b58e08b96b203ed4198f6eda64decf2929",
+      "zh_cn_hash": "1fd88b13a3eea319074275c38546fd9ef8a79da4870d2d3cc0d45c0d53d089f8",
+      "last_sync": "2025-11-03T02:08:51.944856"
+    },
+    "trashslot": {
+      "jar_name": "trashslot-forge-1.20-15.1.2.jar",
+      "en_us_hash": "7f16a7cdcafa67beb4c50cfc01040a74a2cc9682dd90521068d33e4852360098",
+      "zh_cn_hash": "325b6ab81e4fb767b2ecec0c191f134574f6c199a39bb4e7bb92ed8be0144061",
+      "last_sync": "2025-11-03T02:08:51.983218"
+    },
+    "travelerstitles": {
+      "jar_name": "TravelersTitles-1.20-Forge-4.0.2.jar",
+      "en_us_hash": "fa3419a06f0e0691019c3ae07a411caefbcc774a727013879568d67587c7d7ae",
+      "zh_cn_hash": "7c4030a7a166a6fd2cb1aea2d4f64efc79dacf0624a0cee9dccc83771ff87e42",
+      "last_sync": "2025-11-03T02:08:52.260790"
+    },
+    "treechop": {
+      "jar_name": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "en_us_hash": "9ba096ad4105dfe77c98ac508fb45f0f88b61bc157425fdb1c330d7c9d07cf1b",
+      "zh_cn_hash": "2046730d954a5fd73f83877a73b46aa357d8ee406be487cf9bf25bb9b7de5e08",
+      "last_sync": "2025-11-03T02:08:52.267642"
+    },
+    "truly_custom_horse_tack": {
+      "jar_name": "truly_custom_horse_tack-1.20.1-1.6.0.jar",
+      "en_us_hash": "379de454033f32becd2a3a16a903b64d0f0127bbdc0e0d8c8b8b48ba8d6326b3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:52.473809"
+    },
+    "tumbleweed": {
+      "jar_name": "Tumbleweed-forge-1.20.1-0.5.5.jar",
+      "en_us_hash": "9b6b3a6a8db0a733593f5ff75882f1e626406db48dda22d326106d094a1fc018",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:52.626150"
+    },
+    "turtlechargingstation": {
+      "jar_name": "turtlechargingstation-1.7.1-1.20.1-forge.jar",
+      "en_us_hash": "207445f4240110e19c5ee3444e7b28de36c875460b7b3fe59fd4e1b75fe85d22",
+      "zh_cn_hash": "4feac68e8ddbaefee90d6d61b97e6e3e7a362f02f249c4dd5d765c3c13afb92f",
+      "last_sync": "2025-11-03T02:08:52.746599"
+    },
+    "traveloptics": {
+      "jar_name": "traveloptics-5.5.0-1.20.1.jar",
+      "en_us_hash": "63dd5e63ca2d5da4128c8aab50ce62fb6892abd48821f2838284f147fc32f9b5",
+      "zh_cn_hash": "6a62f99d635d34d6bb8dd468c90b3740c06e9cec0ce82f87ea16bf42160fd878",
+      "last_sync": "2025-11-03T02:08:52.838161"
+    },
+    "twigs": {
+      "jar_name": "Twigs-1.20.1-3.1.0.jar",
+      "en_us_hash": "d16605d8ec85b8dee621e010b7d27493c14ea9611a0791cd12d0cbecc936f6bd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:52.889325"
+    },
+    "undergardendelight": {
+      "jar_name": "undergardendelight-1.1.2-forge-1.20.1.jar",
+      "en_us_hash": "189be0250e395e376fc9d2cdddf863f20747e66b1e4abab14e9bb7c64bf81d8b",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:52.972270"
+    },
+    "unionlib": {
+      "jar_name": "UnionLib-1.20.1-12.1.0-Forge-all.jar",
+      "en_us_hash": "b85f64012bab6b20bbbb7165f4148b7eb3878e01ff492fb41d7a0aba0e01ee37",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:52.999608"
+    },
+    "underground_village": {
+      "jar_name": "underground_village-1.5.5.jar",
+      "en_us_hash": "e1b124ba0b9abc48f3851e05eb6c4a531b394e883daeb6d68dc35ecdee604fcd",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.000253"
+    },
+    "ubesdelight": {
+      "jar_name": "ubesdelight-forge-1.20.1-0.4.3.jar",
+      "en_us_hash": "e32bea8fd5e288c9036abb129d22de7de475578cb46aa1d8e9ab0a0e5888585a",
+      "zh_cn_hash": "71db41ab3a53e58051bc42d119342d89baa92f015912f1535596a50aa57cf55e",
+      "last_sync": "2025-11-03T02:08:53.000584"
+    },
+    "universalgrid": {
+      "jar_name": "universalgrid-1.20.1-1.1.jar",
+      "en_us_hash": "da788f5d7ddca1fce9c377fa12863124d424bd600891ba72b5973bbff498df89",
+      "zh_cn_hash": "a6b4c5255ca1267bf4b6303da6c2c7eae015990ff15f4d6f99e88db429e2c60e",
+      "last_sync": "2025-11-03T02:08:53.117182"
+    },
+    "unusualfoodsdelight": {
+      "jar_name": "Unusual food's Delight1.20.1-1.1.8.jar",
+      "en_us_hash": "fa214ed4f473353717b8df17f9e6220b8a7d2a69096604a5f1bedbefeb6ee444",
+      "zh_cn_hash": "7df2360c2d930dd70121c621885715cb5f73136c1221a758583e5781bddb7b07",
+      "last_sync": "2025-11-03T02:08:53.346992"
+    },
+    "unusualprehistory": {
+      "jar_name": "unusualprehistory-1.5.0.3.jar",
+      "en_us_hash": "6005aab995a35fa8189cd962a6b165161e605d7e2712757d00702497826167bc",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.483048"
+    },
+    "upgrade_aquatic": {
+      "jar_name": "upgrade_aquatic-1.20.1-6.0.3.jar",
+      "en_us_hash": "121ee75b65fb9a6dfa2619f4f4aad9a9143800531d2942053fa86c9d732032a7",
+      "zh_cn_hash": "b0282027492b3d395d0d12e40e97684024448f0f3b754aaba44a97d6307d85ce",
+      "last_sync": "2025-11-03T02:08:53.537584"
+    },
+    "urkazmoontools": {
+      "jar_name": "UrkazMoonTools-forge-2.2.1-44.jar",
+      "en_us_hash": "588516149e3c0ddb66a25b7bb6ff974d908ff4e0400cc0d0dfe7dad2b76f99ac",
+      "zh_cn_hash": "487d97d46ae52e037ee5e2e6cc866aa1b32e363243ae02b9cdcf37e5f901bd53",
+      "last_sync": "2025-11-03T02:08:53.548850"
+    },
+    "usefulslime": {
+      "jar_name": "UsefulSlime-forge-1.20.1-1.8.1.jar",
+      "en_us_hash": "35a5b1adce4e4de64afe85d7c166dbaf22104e471f17308c0ec78843125134a2",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.605991"
+    },
+    "valhelsia_furniture": {
+      "jar_name": "valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+      "en_us_hash": "93a2710ec382d9ae8d60470f76606ce3052d6079eae9c7fc4af2dc8f8c064fb3",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.732112"
+    },
+    "variantsandventures": {
+      "jar_name": "variantsandventures-forge-mc1.20.1-1.0.6.jar",
+      "en_us_hash": "c7f5a4478cf99f1e972af8bf0d406f8e94ea42ba99885ee5b21209438f3d302e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.739276"
+    },
+    "valhelsia_structures": {
+      "jar_name": "valhelsia_structures-forge-1.20.1-1.1.2.jar",
+      "en_us_hash": "9de10a4148e736f731759dd2bafecec0c24831eac38688a2df4fee794ea46781",
+      "zh_cn_hash": "400f94cacdd65648331852ed97c6f010c8c4f196d79d78d717e739170fcfe509",
+      "last_sync": "2025-11-03T02:08:53.795708"
+    },
+    "veggiesdelight": {
+      "jar_name": "VeggiesDelight-1.20.1-1.9.jar",
+      "en_us_hash": "cc04e322486645284d28cbf39cd246405f7d3c58b7cb396f0bac89d7d5a4c79b",
+      "zh_cn_hash": "8f803434bcdbe902bd248626cf228c643285203d9ea465a63f9062fc727766cf",
+      "last_sync": "2025-11-03T02:08:53.867891"
+    },
+    "verdantvibes": {
+      "jar_name": "verdantvibes-1.0.3-1.20.1.jar",
+      "en_us_hash": "8364b158e9a4e7fb6f77058d848d6147a4c6746c5c2a6959206a8472e2fe2724",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:53.906150"
+    },
+    "vm": {
+      "jar_name": "VendingMachine-1.20-1.0.11.jar",
+      "en_us_hash": "531963a2ec8e2536faaa049978eb083d4f03145b8bedb35b6af1472ee00dba73",
+      "zh_cn_hash": "6f81d9a23de3133dcf487b36cd83eade262f83aebea9eb5a87ef39fe40560055",
+      "last_sync": "2025-11-03T02:08:53.918832"
+    },
+    "veinmining": {
+      "jar_name": "veinmining-forge-1.5.0+1.20.1.jar",
+      "en_us_hash": "65013ac2e0dd881f154fbcacdc2b4092fa7868500f7580f348c0da7c54bb9b6d",
+      "zh_cn_hash": "437a96d628c0014c17f9b5b58f51f5cfa717a0c9adf8a444dd9196cbbc67fec2",
+      "last_sync": "2025-11-03T02:08:53.920336"
+    },
+    "villagersplus": {
+      "jar_name": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+      "en_us_hash": "4dd60f59f46186bae7fcccc9faed71487b7f9938b152c32e09138f7f187c8fa2",
+      "zh_cn_hash": "4bad0e08737beef4b023acbabb9efc33e95024dd0e018b07561ab0958329de83",
+      "last_sync": "2025-11-03T02:08:54.000821"
+    },
+    "visuality": {
+      "jar_name": "visuality-forge-2.0.2.jar",
+      "en_us_hash": "8e32619a2567b646e0c5ff3f7635fa29537646d008445fb4996d84cf91c1beef",
+      "zh_cn_hash": "efaaa990f1aad295d0ab7c87f42d5b0e8bdf6d5fa51244cbf0caf38869ee7650",
+      "last_sync": "2025-11-03T02:08:54.121583"
+    },
+    "vintagevibes": {
+      "jar_name": "Vintage-Vibes-1.20.1-1.0.1.jar",
+      "en_us_hash": "da9cad97bfd7e32a268d07db4b8fe4b6bcb9e2f4fbd4fe0d28185f6635a7204e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.204873"
+    },
+    "vintagedelight": {
+      "jar_name": "vintagedelight-0.1.6.jar",
+      "en_us_hash": "16d4a1d5a8816167d6644cb5a3234f5454490406307000a14e52170fc0b8d716",
+      "zh_cn_hash": "6adf7ffcaadf5bd77b438cad17f4bad021af5627639f095d90e4daa02fdc7bc1",
+      "last_sync": "2025-11-03T02:08:54.236536"
+    },
+    "visual_keybinder": {
+      "jar_name": "visual_keybinder-1.20.1 - 0.1.7.jar",
+      "en_us_hash": "49fadefd9fb2f6631b7d8c7fe6c479bb7bc55d792ebc352892e29a0b09ebf4ed",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.253546"
+    },
+    "wakes": {
+      "jar_name": "wakes-1.20.1-Forge-1.0.5.jar",
+      "en_us_hash": "4781d1a630f1b6f32c44393c6d883d59f007e30658372940627d78c2d64f244d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.288352"
+    },
+    "wandering_trapper": {
+      "jar_name": "WanderingTrapper-forge-1.20.1-2.0.0.jar",
+      "en_us_hash": "36e09250abdf792e6b93268eec1ec3eb3f0ad975e3cc79c41d00716f20901356",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.290921"
+    },
+    "wares": {
+      "jar_name": "wares-1.20.1-1.2.9.jar",
+      "en_us_hash": "7db9eaba5dc53ffc89b3bc779c72ce6e4cb0b8751ce8d8d739f0ad088b7d5d79",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.330387"
+    },
+    "waterballoon": {
+      "jar_name": "waterballoon-forge-1.20.1-1.0.1.jar",
+      "en_us_hash": "3151f9cc5d5e0210abcd1bf222569b8492888dcf7521f99e03282beb26a6ec27",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.354028"
+    },
+    "waterframes": {
+      "jar_name": "waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+      "en_us_hash": "d6ceeb5e0030dcbddc6a1583014a393b7019a0699ea3d3e56edeecbd70ed38ea",
+      "zh_cn_hash": "662b78f5214c188096d24ef9ba28c783adbd70ec97b542424522f8890f907eec",
+      "last_sync": "2025-11-03T02:08:54.404619"
+    },
+    "waxablecoral": {
+      "jar_name": "waxablecoral-forge-1.20.1-2.0.1-2.0.1.jar",
+      "en_us_hash": "9bae531c9d818abf96f7e47f291256a4935b5719fbbf5278261b4a0bf200a52d",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.473957"
+    },
+    "waystones": {
+      "jar_name": "waystones-forge-1.20.1-14.1.17.jar",
+      "en_us_hash": "5d984919f8c0e6ba3d9481285e43b0a741e221d3466181f4b4727c4165da51f0",
+      "zh_cn_hash": "5936a0a8e41aef9f9a1bf6afb903f0fd91aaba0324546971d5094f1a95d71b0a",
+      "last_sync": "2025-11-03T02:08:54.607099"
+    },
+    "speakermod": {
+      "jar_name": "wirelessspeakers-1.20-46.6.02.jar",
+      "en_us_hash": "b9c38d586d9370a0a87e8b72c353d84a0ea0d898903f8ade326a60386a2eedbf",
+      "zh_cn_hash": "ac4eba6be828832ae1f5207ebe7c99caef9509aa0cf93e8ef9385e14815e610d",
+      "last_sync": "2025-11-03T02:08:54.648285"
+    },
+    "workers": {
+      "jar_name": "workers-1.20.1-1.7.9.1.jar",
+      "en_us_hash": "3a25d3d2821ce2969435734a32d8ddf577b63abf42f35da3d1e566e64e1f0681",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.665839"
+    },
+    "workshop_for_handsome_adventurer": {
+      "jar_name": "workshop_for_handsome_adventurer--mc1.20.1--1.34.0.jar",
+      "en_us_hash": "10f772d57b94a03cca7f7d0a399ebd5384fd8e0b0711d65fcf5c526f259c3eba",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.689199"
+    },
+    "worldcomment": {
+      "jar_name": "WorldComment-0.3.2+1.20.1.jar",
+      "en_us_hash": "df77fb882f9026eec08dc97836b3c32997e852250c4c348d12bc08bd44acb051",
+      "zh_cn_hash": "7ee89ba5db5070e2dcfe95f020c9b0568ef8842a65bff5f3de8de380d333f122",
+      "last_sync": "2025-11-03T02:08:54.903532"
+    },
+    "worldplaytime": {
+      "jar_name": "worldplaytime-1.2.3-1.20.x-FORGE.jar",
+      "en_us_hash": "f85dd1805bf7bc470b7ec66dbf2464d474c5e97c59f71708aaaf33f249a630c1",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:54.973683"
+    },
+    "xaeroworldmap": {
+      "jar_name": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "en_us_hash": "30584047cfc90e7fd7a769a4e43d2514612d694f5a3266ddc0060ed81fcd8d21",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.057502"
+    },
+    "xaeroplus": {
+      "jar_name": "XaeroPlus-2.28.8+forge-1.20.1-WM1.39.12-MM25.2.10.jar",
+      "en_us_hash": "f82b2b106caefce1ceb017202763ecad5e5c94ead51a5e4c72876449ad35f5e3",
+      "zh_cn_hash": "dfa8f254034523ce86ccc4d35dd304f1fdc384a9c75a52bc8b0c1527209f8835",
+      "last_sync": "2025-11-03T02:08:55.130445"
+    },
+    "xercamusic": {
+      "jar_name": "xercamusic-1.20.1-1.0.2.jar",
+      "en_us_hash": "83d6f5feac81bc85dc8ca2e04550a6952a75d5656798b8c713476fe6ea4df431",
+      "zh_cn_hash": "786cd84e187fe1dce933cd2d1f7164b9339ada64f3e085a0ae64a2988fe77d7d",
+      "last_sync": "2025-11-03T02:08:55.385860"
+    },
+    "xtraarrows": {
+      "jar_name": "xtraarrows-3.0.12-forge-mc1.20.1.jar",
+      "en_us_hash": "a73bd1b76af65a336b58dbab1f30b4579fc9500f220040651899ad884384cd77",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.471790"
+    },
+    "xaerominimap": {
+      "jar_name": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "en_us_hash": "f29fb70392910ea992f3a64dd6302811b053dee1e4e4ef1445dc1474d7354b68",
+      "zh_cn_hash": "b1d35fad22b6ee994d879a0ec7927e65fdceadb6315de71a39fc20c843148193",
+      "last_sync": "2025-11-03T02:08:55.694471"
+    },
+    "yet_another_config_lib_v3": {
+      "jar_name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "en_us_hash": "2fdfabe28d972588990b2951bd04037e7dfde06ea4126d446ba8581602fcb3c5",
+      "zh_cn_hash": "061fff90d32fbf2f9a6a23c47fd7cb4468482cb1786c34ce9c0a35affed70760",
+      "last_sync": "2025-11-03T02:08:55.703822"
+    },
+    "yaf": {
+      "jar_name": "yet-another-furniture-1.0pre3+forge-1.20.1.jar",
+      "en_us_hash": "05aab70be0f3e2753520b33088209f55a3125c26464975220216aa1ad42f5544",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.754706"
+    },
+    "yoyos": {
+      "jar_name": "yoyos-1.20.1-1.0.2-beta.jar",
+      "en_us_hash": "6001c4c0392b068d6f9a9a6d5c0ae3b9e2299bd6e5897069e21adb9672a3fb7c",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.763581"
+    },
+    "betterdeserttemples": {
+      "jar_name": "YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+      "en_us_hash": "85c81ae99af21ce147fd9455e945b2b52886554d76bce92bcb2535ff4ddca107",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.794743"
+    },
+    "betterendisland": {
+      "jar_name": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+      "en_us_hash": "d66e19289df7fc99b63b25d5c02e52c29947aef982c1c5c7c8dd3ff6ec479b8e",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.815572"
+    },
+    "betterdungeons": {
+      "jar_name": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+      "en_us_hash": "8bb8e82af63ced75c4617b2781bcfddb7393ff2bcdc36258195e33973bd6a86f",
+      "zh_cn_hash": "0d474c117b133fa97fe974bab572925e390a2732ebf1c5a53f3b1e7141660204",
+      "last_sync": "2025-11-03T02:08:55.845736"
+    },
+    "betterjungletemples": {
+      "jar_name": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+      "en_us_hash": "dd5e6b358b6196967ce8acd44ada0b737a3ce61ba99122f6a2811d7802d62757",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.864551"
+    },
+    "bettermineshafts": {
+      "jar_name": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+      "en_us_hash": "973f0fcb2a2ca92c73123cc60abe77e3855944fae0d35773bf84d16fca7b68bb",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.877189"
+    },
+    "betteroceanmonuments": {
+      "jar_name": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+      "en_us_hash": "79f62bfe0f54605cc94beb2631e15882a6fb3a1ac0edb5c919aecb356b7fbcce",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.878878"
+    },
+    "betterfortresses": {
+      "jar_name": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+      "en_us_hash": "24e65f26a9510741141e40fd27c6083f7ca1e373a277ef4b494f7772a5f890ff",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.880240"
+    },
+    "betterwitchhuts": {
+      "jar_name": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+      "en_us_hash": "6140e433622e26c122dd54c34ee35505d9016882800b836f65dc199f61e9e1ab",
+      "zh_cn_hash": null,
+      "last_sync": "2025-11-03T02:08:55.888845"
+    },
+    "yuushya_modelling": {
+      "jar_name": "yuushya-modelling-1.20.1-forge-2.2.0.jar",
+      "en_us_hash": "9c24ae37488f860c6d376e99f85a86ecf0963cc659af96f42419e50245b036ec",
+      "zh_cn_hash": "ecc7f29585b2f83c940064c3926c711ee9851c6857e51c762f498b2a024f58be",
+      "last_sync": "2025-11-03T02:08:56.218930"
+    },
+    "ywzj_midi": {
+      "jar_name": "ywzj_midi-1.20.1-forge-1.9.2-all.jar",
+      "en_us_hash": "c87ce3475c88c5dc9e0d4826ce1c62a64116756575aab7bf4158bd4544847c36",
+      "zh_cn_hash": "6b4e0d60f5aa477de6743ba8d7f2cb61ede64502ebf8530917d4378411816a28",
+      "last_sync": "2025-11-03T02:08:56.281501"
+    },
+    "zeta": {
+      "jar_name": "Zeta-1.0-30.jar",
+      "en_us_hash": "e5f021a5b215abfc06870985eafa794487e329828c429a163b2d601e08650cd5",
+      "zh_cn_hash": "7504e13608bf720998c7496f4a9f56113736b5414be7b8ff9536ec6cebee3f8d",
+      "last_sync": "2025-11-03T02:08:56.436032"
+    },
+    "zettergallery": {
+      "jar_name": "zettergallery-1.20.1-0.6.0.jar",
+      "en_us_hash": "543e7166baabfe4c01adc3b7ab3a67f5383df71f61539c34d83527ca9dfcf4e0",
+      "zh_cn_hash": "41177b49f63990d9b6e4e57a86eaf5baa3ab47d26ae3654d27cfc41e6ccafdec",
+      "last_sync": "2025-11-03T02:08:56.831651"
+    },
+    "zetter": {
+      "jar_name": "zetter-1.20.1-0.21.5.jar",
+      "en_us_hash": "04c7804bea51ece48b67dd4117c1ceaa1419c0e1eeaf90190c706326cb60a517",
+      "zh_cn_hash": "875eb06be7d233b74d97ad785125e2fe5890cb913669dd2c954e0ba14d00eb41",
+      "last_sync": "2025-11-03T02:08:56.852862"
+    },
+    "ctov": {
+      "jar_name": "[forge]ctov-3.4.14.jar",
+      "en_us_hash": "fbc0b6eb329b7b761d5be40a619fd72892386d9844149d6321fbf06ca54e79a2",
+      "zh_cn_hash": "d30d5e42c11496796ef8c35e7c5020754950d8883f880dff4b245b0b56e4a38c",
+      "last_sync": "2025-11-03T02:08:56.996835"
+    },
+    "yuushya": {
+      "jar_name": "yuushya-1.20.1-forge-2.2.3.jar",
+      "en_us_hash": "ee6d69eeee63a3214ca1d2875b33b724e9fc3d2b90e420e4100c6595f465b4fa",
+      "zh_cn_hash": "1312fcf55565414916161208565b4487695ad9644d9cc4d98530e8a40d856784",
+      "last_sync": "2025-11-03T02:08:57.483795"
+    }
+  }
+}

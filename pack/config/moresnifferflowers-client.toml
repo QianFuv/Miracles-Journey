@@ -17,7 +17,3 @@
 	#Enables transparency for block patters (only noticeable with resource packs)
 	"Block Pattern Transparency" = false
 
-[multiblocks]
-	#Disables ghost previews when trying to place a multiblock
-	"Disable Multiblock Previews" = false
-

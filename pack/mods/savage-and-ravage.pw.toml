@@ -1,13 +1,13 @@
 name = "Savage & Ravage"
-filename = "savage_and_ravage-1.20.1-6.0.0.jar"
+filename = "savage_and_ravage-1.20.1-6.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a6895b929eaa76a46814c0bb0d3e70190d3b26a1"
+hash = "e58730ba8e1858dfd8db5853e05c16d7803514cf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6040963
+file-id = 7115735
 project-id = 381736

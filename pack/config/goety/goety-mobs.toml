@@ -128,6 +128,16 @@
 			iceologerServantTexture = true
 			#If Wind Caller Servants have custom textures, Default: true
 			windCallerServantTexture = true
+			#If Piker Servants have custom textures, Default: true
+			pikerServantTexture = true
+			#If Mountaineer Servants have custom textures, Default: true
+			mountaineerServantTexture = true
+			#If Crusher Servants have custom textures, Default: true
+			crusherServantTexture = true
+			#If Cryologer Servants have custom textures, Default: true
+			cryologerServantTexture = true
+			#If Storm Caster Servants have custom textures, Default: true
+			stormCasterServantTexture = true
 
 		[Textures."Summoned Mobs"."Void Servants"]
 			#If Watchling servants have custom textures, Default: true
@@ -180,6 +190,8 @@
 	#How far servants can guard from their guarding location, Default: 16
 	#Range: > 2
 	servantGuardingRange = 16
+	#Whether armored Ravagers owned by players will drop their armor, Default: true
+	playerRavagerArmorDrop = true
 
 	[Servants."Undead Servants"]
 		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false
@@ -623,6 +635,8 @@
 		#Spawn maximum group count for Necromancer, must be equal or higher than min count, Default: 1
 		#Range: > 1
 		necromancerSpawnMaxCount = 1
+		#Whether Necromancers can be part of structure spawn pools. Default: false
+		necromancerSpawnStructure = false
 
 	[Spawning.Heretic]
 		#Spawn Weight for Heretic, Default: 5

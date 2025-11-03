@@ -1,38 +1,40 @@
-{
-    "item.archeryexp.gold_bow": "金强化弓",
-    "item.archeryexp.wooden_bow": "木弓",
-    "item.archeryexp.iron_bow": "铁强化弓",
-    "item.archeryexp.diamond_bow": "钻石强化弓",
-    "item.archeryexp.netherite_bow": "下界合金强化弓",
-    "item.archeryexp.gold_arrow": "金覆层箭",
-    "item.archeryexp.iron_arrow": "铁覆层箭",
-    "item.archeryexp.diamond_arrow": "钻石覆层箭",
-    "item.archeryexp.netherite_arrow": "下界合金覆层箭",
-    "enchantment.archeryexp.scouting": "游击",
-    "enchantment.archeryexp.baby_face": "逃逸",
-    "enchantment.archeryexp.follow_through": "趁胜追击",
-    "enchantment.archeryexp.grit": "坚稳",
-    "enchantment.archeryexp.shattering": "碎甲",
-    "enchantment.archeryexp.trajectory": "弹道",
-    "enchantment.archeryexp.headshot": "爆头",
-    "enchantment.archeryexp.fragility": "箭伤诅咒",
-    "enchantment.archeryexp.pincushioning": "刺猬诅咒",
-    "enchantment.archeryexp.scouting.desc": "拉弓时提升移动速度",
-    "enchantment.archeryexp.baby_face.desc": "射箭击中目标时获得速度效果",
-    "enchantment.archeryexp.follow_through.desc": "射箭击中目标时获得力量效果",
-    "enchantment.archeryexp.grit.desc": "拉弓时获得抗性提升效果",
-    "enchantment.archeryexp.shattering.desc": "箭矢击中目标时有5%概率对其中一件护甲额外损耗5%耐久值",
-    "enchantment.archeryexp.trajectory.desc": "拉弓时弹道可视化",
-    "enchantment.archeryexp.headshot.desc": "箭矢击中目标的头部时会额外造成伤害（基础伤害1.5点，每级提升1点）",
-    "enchantment.archeryexp.fragility.desc": "穿戴时被箭矢击中有概率受到额外伤害，每级提升2点",
-    "enchantment.archeryexp.pincushioning.desc": "穿戴时获得先手劣势效果",
-    "effect.archeryexp.quickdraw": "先手劣势",
-    "effect.archeryexp.quickdraw.description": "射出箭矢后，射手会陷入脆弱状态，遭到攻击会受到额外伤害。",
-    "entity.archeryexp.gold_arrow": "金覆层箭",
-    "entity.archeryexp.iron_arrow": "铁覆层箭",
-    "entity.archeryexp.diamond_arrow": "钻石覆层箭",
-    "entity.archeryexp.netherite_arrow": "下界合金覆层箭",
-    "attribute.archeryexp.mainhand": "When Shot:",
-    "attribute.archeryexp.base_damage": "Base Damage",
-    "attribute.archeryexp.draw_cooldown": "Shoot Speed"
-}
+"item.archeryexp.gold_bow": "金强化弓"
+"item.archeryexp.wooden_bow": "木弓"
+"item.archeryexp.iron_bow": "铁强化弓"
+"item.archeryexp.diamond_bow": "钻石强化弓"
+"item.archeryexp.netherite_bow": "下界合金强化弓"
+"item.archeryexp.gold_arrow": "金覆层箭"
+"item.archeryexp.iron_arrow": "铁覆层箭"
+"item.archeryexp.diamond_arrow": "钻石覆层箭"
+"item.archeryexp.netherite_arrow": "下界合金覆层箭"
+"enchantment.archeryexp.scouting": "游击"
+"enchantment.archeryexp.baby_face": "逃逸"
+"enchantment.archeryexp.follow_through": "趁胜追击"
+"enchantment.archeryexp.grit": "坚稳"
+"enchantment.archeryexp.shattering": "碎甲"
+"enchantment.archeryexp.trajectory": "弹道"
+"enchantment.archeryexp.headshot": "爆头"
+"enchantment.archeryexp.fragility": "箭伤诅咒"
+"enchantment.archeryexp.pincushioning": "刺猬诅咒"
+"enchantment.archeryexp.scouting.desc": "拉弓时提升移动速度"
+"enchantment.archeryexp.baby_face.desc": "射箭击中目标时获得速度效果"
+"enchantment.archeryexp.follow_through.desc": "射箭击中目标时获得力量效果"
+"enchantment.archeryexp.grit.desc": "拉弓时获得抗性提升效果"
+"enchantment.archeryexp.shattering.desc": "箭矢击中目标时有5%概率对其中一件护甲额外损耗5%耐久值"
+"enchantment.archeryexp.trajectory.desc": "拉弓时弹道可视化"
+"enchantment.archeryexp.headshot.desc": "箭矢击中目标的头部时会额外造成伤害（基础伤害1.5点，每级提升1点）"
+"enchantment.archeryexp.fragility.desc": "穿戴时被箭矢击中有概率受到额外伤害，每级提升2点"
+"enchantment.archeryexp.pincushioning.desc": "穿戴时获得先手劣势效果"
+"effect.archeryexp.quickdraw": "先手劣势"
+"effect.archeryexp.quickdraw.description": "射出箭矢后，射手会陷入脆弱状态，遭到攻击会受到额外伤害。"
+"entity.archeryexp.gold_arrow": "金覆层箭"
+"entity.archeryexp.iron_arrow": "铁覆层箭"
+"entity.archeryexp.diamond_arrow": "钻石覆层箭"
+"entity.archeryexp.netherite_arrow": "下界合金覆层箭"
+"attribute.archeryexp.mainhand": "When Shot:"
+"attribute.archeryexp.base_damage": "%s Base Damage"
+"attribute.archeryexp.draw_cooldown": "%s Cooldown Time"
+"attribute.archeryexp.walk_speed_down": "%s Speed Decrease"
+"attribute.archeryexp.walk_speed_up": "%s Speed Increase"
+"attribute.archeryexp.charge_time": "%s Draw Speed"
+"attribute.archeryexp.recoil": "%s Recoil"

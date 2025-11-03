@@ -1,13 +1,13 @@
 name = "HexParse"
-filename = "hexParse-forge-1.20.1-1.3.0.jar"
+filename = "hexParse-forge-1.20.1-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/rFWZUbV6/hexParse-forge-1.20.1-1.3.0.jar"
-hash-format = "sha512"
-hash = "f8d29624676c1f6f7d4a981a0b1e0cd1c3f8d15519f16d63f8a26e9a0605b213a35c9442d5ba43dc4d177ddddfe4b5ae227a40c139c870b0fb6a719a43f885fa"
+hash-format = "sha1"
+hash = "adc3727ae7c94ec5e40ebc94b001866251d96031"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "WjFyIzFj"
-version = "rFWZUbV6"
+[update.curseforge]
+file-id = 7032756
+project-id = 1148731

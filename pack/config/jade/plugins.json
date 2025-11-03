@@ -101,6 +101,7 @@
     "soul_energy": true,
     "raider_leader": true,
     "servant_mode": true,
+    "capture_mode": true,
     "zombie_villager": true,
     "villager_profession": true,
     "train_to": true,
@@ -163,6 +164,14 @@
     "hud.rgb16": true,
     "hud": true,
     "hud.redstone": true
+  },
+  "kaleidoscope_cookery": {
+    "chopping_board": true,
+    "shawarma_spit": true,
+    "oil_pot": true,
+    "recipe_block": true,
+    "millstone": true,
+    "enamel_basin": true
   },
   "create_cultivation": {
     "cultivation_tank": true

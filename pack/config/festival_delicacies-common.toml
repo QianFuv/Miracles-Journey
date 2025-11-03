@@ -1,0 +1,33 @@
+
+["Configs for Festival Delicacies"]
+	#Default: 200
+	#Range: 10 ~ 1000
+	dumpling_cooking_time = 200
+	#Allow nesting of dumplings.
+	#Default: false
+	nesting_dumpling = false
+	#Prevent further nesting when cooking dumplings.
+	#Default: true
+	no_further_nesting = true
+	#These items are not allowed as ingredients for dumplings.
+	banned_dumpling_ingredients_crafting = []
+	#Items with these tags are not allowed as ingredients for dumplings.
+	banned_ingredient_tags_crafting = []
+	#If these ingredients have already been added to the dumplings, they will be skipped when the dumplings are consumed by players.
+	banned_dumpling_ingredients_consumption = []
+	#If ingredients with these tags have already been added to the dumplings, they will be skipped when the dumplings are consumed by players.
+	banned_ingredient_tags_consumption = []
+	#Allow inedible items as ingredients for dumplings.
+	#Default: false
+	allow_inedible_ingredients = false
+	#These inedible items are allowed as ingredients for dumplings.
+	#"allow_inedible_ingredients = true" is required.
+	allowed_inedible_crafting = []
+	#Inedible items with these tags are allowed as ingredients for dumplings.
+	#"allow_inedible_ingredients = true" is required.
+	allowed_inedible_crafting_tags = []
+	#If these inedible ingredients have already been added to the dumplings, they will not be skipped when the dumplings are consumed by players.
+	allowed_inedible_consumption = []
+	#If inedible ingredients with these tags have already been added to the dumplings, they will not be skipped when the dumplings are consumed by players.
+	allowed_inedible_consumption_tags = []
+

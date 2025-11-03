@@ -1,57 +1,124 @@
-{
-  "hexparse.cmd.unlocker.unlock.all": "Unlocked %s great patterns",
-  "hexparse.cmd.unlocker.lock.all": "Locked %s great patterns",
-  "hexparse.cmd.unlocker.unlock.one": "Unlocked %s",
-  "hexparse.cmd.unlocker.lock.one": "Locked %s",
-  "hexparse.cmd.read.display": "Result: %s",
-  "hexparse.cmd.read.share": "%s shares: %s (%s)",
-  "hexparse.cmd.macro.list.title": "%s %s(s) in total:",
-  "hexparse.cmd.macro.list.title.macro": "macro",
-  "hexparse.cmd.macro.list.title.dialect": "dialect",
-  "hexparse.cmd.macro.list.kv": "%s = %s",
-  "hexparse.cmd.macro.define": "Defined %s = %s.",
-  "hexparse.cmd.macro.remove": "Removed %s.",
-  "hexparse.cmd.conflict.list_all.title": "All pattern names with conflicts:",
-  "hexparse.cmd.conflict.list_all.entry": "- \"%s\" (%d patterns)",
-  "hexparse.cmd.conflict.list.title": "All conflicts under name \"%s\" (currently set to %s):",
-  "hexparse.cmd.conflict.list.entry": "- \"%s\" (%s)",
-  "hexparse.cmd.conflict.edited": "Set short name \"%s\" to pattern \"%s\" (%s).",
-  "hexparse.cmd.conflict.error": "Error when setting short name \"%s\": %s",
-  "hexparse.cmd.conflict.error.name": "Invalid short name",
-  "hexparse.cmd.conflict.error.id": "Invalid pattern ID: %s",
-  "hexparse.msg.parse_error": "Error when parsing: %s",
-  "hexparse.msg.parse_error_node": "Error when parsing %s: %s",
-  "hexparse.msg.error.bracket.closed": "too many closed bracket",
-  "hexparse.msg.error.bracket.open": "too many open bracket",
-  "hexparse.msg.error.unknown_symbol": "Unknown symbol: %s",
-  "hexparse.msg.error.invalid_iota": "invalid iota: %s",
-  "hexparse.msg.error.matrix.size": "invalid matrix size: %s",
-  "hexparse.msg.error.matrix.value": "invalid matrix value: %s",
-  "hexparse.msg.error.matrix.data_amount": "invalid matrix data size (%s < %s)",
-  "hexparse.msg.error.illegal_pattern_angle": "illegal char '%s' in sequence \"%s\"",
-  "hexparse.msg.error.code_too_long": "CODE TOO LONG (%s)",
-  "hexparse.msg.error.used_macro": "Macro %s already used",
-  "hexparse.msg.error.invalid_dialect_key": "Dialects can't start with '#' (%s)",
-  "hexparse.msg.error.macro.too_many": "Macro/dialect count exceeded max; trimmed %s entries",
-  "hexparse.msg.error.macro.too_many.single": "Macro/dialect count exceeded max; add failed",
-  "hexparse.msg.error.macro.too_long": "Single macro too long; trimmed last %s characters",
-  "hexparse.msg.error.macro.too_long.key": "Macro/dialect key too long; add failed",
-  "hexcasting.action.hexparse:focus2code": "Encoding Gambit",
-  "hexcasting.action.hexparse:code2focus": "Decoding Gambit",
-  "hexcasting.action.hexparse:learn_patterns": "Learn Great Patterns",
-  "hexcasting.action.hexparse:remove_comments": "No-Comment Purification",
-  "hexcasting.action.hexparse:create_linebreak": "Line-Break Prfn.",
-  "hexcasting.action.hexparse:compile": "Compile",
-  "hexparse.book.entry": "HexParse Patterns",
-  "book.descrip.hexparse:focus2code": "Reads data from the focus I'm holding, and prints parsed code into chat menu.$(br)Can only be casted by staff.",
-  "book.descrip.hexparse:code2focus": "Reads code from my local clipboard, then parse it into the focus I'm holding.$(br)Can only be casted by staff.",
-  "book.descrip.hexparse:learn_patterns": "Extract great patterns from handheld items (ancient scrolls, focuses, compiled casting items, etc.), and returns a list of newly learned ones by the parser.",
-  "book.descrip.hexparse:remove_comments": "Clears all comment iotas in a list, returns processed list.",
-  "book.descrip.hexparse:create_linebreak": "Adds a line-break comment iota with space-indents of given number to the stack.",
-  "text.autoconfig.hexparse.option.common.parseGreatSpells": "Parse Great Spells",
-  "text.autoconfig.hexparse.option.common.commentParsingMode": "Comment parsing mode",
-  "text.autoconfig.hexparse.option.common.indentParsingMode": "Indent parsing mode",
-  "text.autoconfig.hexparse.option.common.parserBaseCost": "Base cost of parsing a pattern",
-  "text.autoconfig.hexparse.option.common.showColorfulNested": "Colorful nested introspections",
-  "text.autoconfig.hexparse.option.common.showUnknownNBT": "Display content of unsupported iotas"
-}
+"hexparse.cmd.unlocker.unlock.all": "Unlocked %s great patterns"
+"hexparse.cmd.unlocker.lock.all": "Locked %s great patterns"
+"hexparse.cmd.unlocker.unlock.one": "Unlocked %s"
+"hexparse.cmd.unlocker.lock.one": "Locked %s"
+"hexparse.cmd.read.display": "Result: %s"
+"hexparse.cmd.read.share": "%s shares: %s (%s)"
+"hexparse.cmd.macro.list.title": "%s %s(s) in total:"
+"hexparse.cmd.macro.list.title.macro": "macro"
+"hexparse.cmd.macro.list.title.dialect": "dialect"
+"hexparse.cmd.macro.list.kv": "%s = %s"
+"hexparse.cmd.macro.define": "Defined %s = %s."
+"hexparse.cmd.macro.remove": "Removed %s."
+"hexparse.cmd.conflict.list_all.title": "All pattern names with conflicts:"
+"hexparse.cmd.conflict.list_all.entry": "- \"%s\" (%d patterns)"
+"hexparse.cmd.conflict.list.title": "All conflicts under name \"%s\" (currently set
+  to %s):"
+"hexparse.cmd.conflict.list.entry": "- \"%s\" (%s)"
+"hexparse.cmd.conflict.edited": "Set short name \"%s\" to pattern \"%s\" (%s)."
+"hexparse.cmd.conflict.error": "Error when setting short name \"%s\": %s"
+"hexparse.cmd.conflict.error.name": "Invalid short name"
+"hexparse.cmd.conflict.error.id": "Invalid pattern ID: %s"
+"hexparse.msg.parse_error": "Error when parsing: %s"
+"hexparse.msg.parse_error_node": "Error when parsing %s: %s"
+"hexparse.msg.error.bracket.closed": "too many closed bracket"
+"hexparse.msg.error.bracket.open": "too many open bracket"
+"hexparse.msg.error.unknown_symbol": "Unknown symbol: %s"
+"hexparse.msg.error.invalid_iota": "invalid iota: %s"
+"hexparse.msg.error.matrix.size": "invalid matrix size: %s"
+"hexparse.msg.error.matrix.value": "invalid matrix value: %s"
+"hexparse.msg.error.matrix.data_amount": "invalid matrix data size (%s < %s)"
+"hexparse.msg.error.illegal_pattern_angle": "illegal char '%s' in sequence \"%s\""
+"hexparse.msg.error.code_too_long": "CODE TOO LONG (%s)"
+"hexparse.msg.error.used_macro": "Macro %s already used"
+"hexparse.msg.error.invalid_dialect_key": "Dialects can't start with '#' (%s)"
+"hexparse.msg.error.macro.too_many": "Macro/dialect count exceeded max; trimmed %s
+  entries"
+"hexparse.msg.error.macro.too_many.single": "Macro/dialect count exceeded max; add
+  failed"
+"hexparse.msg.error.macro.too_long": "Single macro too long; trimmed last %s characters"
+"hexparse.msg.error.macro.too_long.key": "Macro/dialect key too long; add failed"
+"hexcasting.action.hexparse:focus2code": "Encoding Gambit"
+"hexcasting.action.hexparse:code2focus": "Decoding Gambit"
+"hexcasting.action.hexparse:learn_patterns": "Learn Great Patterns"
+"hexcasting.action.hexparse:remove_comments": "No-Comment Purification"
+"hexcasting.action.hexparse:create_linebreak": "Line-Break Prfn."
+"hexcasting.action.hexparse:compile": "Compile"
+"hexparse.book.entry": "HexParse Patterns"
+"book.descrip.hexparse:focus2code": "Reads data from the focus I'm holding, and prints
+  parsed code into chat menu.$(br)Can only be casted by staff."
+"book.descrip.hexparse:code2focus": "Reads code from my local clipboard, then parse
+  it into the focus I'm holding.$(br)Can only be casted by staff."
+"book.descrip.hexparse:learn_patterns": "Extract great patterns from handheld items
+  (ancient scrolls, focuses, compiled casting items, etc.), and returns a list of
+  newly learned ones by the parser."
+"book.descrip.hexparse:remove_comments": "Clears all comment iotas in a list, returns
+  processed list."
+"book.descrip.hexparse:create_linebreak": "Adds a line-break comment iota with space-indents
+  of given number to the stack."
+"text.autoconfig.hexparse.option.common.parseGreatSpells": "Parse Great Spells"
+"text.autoconfig.hexparse.option.common.commentParsingMode": "Comment parsing mode"
+"text.autoconfig.hexparse.option.common.indentParsingMode": "Indent parsing mode"
+"text.autoconfig.hexparse.option.common.parserBaseCost": "Base cost of parsing a pattern"
+"text.autoconfig.hexparse.option.common.showColorfulNested": "Colorful nested introspections"
+"text.autoconfig.hexparse.option.common.showUnknownNBT": "Display content of unsupported
+  iotas"
+"hexparse.book.entry.commands.config.macro": "$(li)$(bold)/hexParse (macro/dialect)
+  .../$: edit client-saved code dialects (1-on-1 mapping, not starting with $(bold)#/$)
+  and macros (mapped to code segments, starting with $(bold)#/$)$(li2)$(bold)... list/$:
+  list all saved macros/dialects.$(li2)..."
+"hexparse.book.entry.commands.io": "Reading & Writing"
+"hexparse.book.entry.commands.io.prop": "$(li)$(bold)/hexParse property .../$: ($(bold)$(thing)Hexcellular/$
+  interop) get/set data for PropertyIota; used property names all force-added leading
+  $(bold)_/$ for security reason$(li2)$(bold)... read <propName>/$: read and parse
+  from certain property$(li2)$(bold)... write <propName> <code>/$: write code into
+  certain property$(li2)$(bold)... clipboard <propName>/$: same as above, but code
+  comes from clipboard"
+"book.descrip.hexparse:compile": "Compiles accepted string iota into an iota list;
+  has no effect if $(bold)$(thing)MoreIotas/$ not installed."
+"hexparse.book.entry.commands.io.mind": "$(li)$(bold)/hexParse mind_stack .../$: read/write
+  iota from player's mind (staff casting VM)$(li2)$(bold)... peek/$: read the last
+  iota inside mind stack; gets $(bold)null/$ if stack is empty$(li2)$(bold)... push
+  <code>/$: parse code and push into mind stack$(li2)$(bold)... push_clipboard/$:
+  same as above, but code comes from clipboard"
+"hexparse.book.entry.commands.io.clipboard": "$(li)$(bold)/hexParse clipboard [rename]/$:
+  read client clipboard text and parse into supported held item; optional $(bold)rename/$
+  argument to rename the item.$(li)$(bold)/hexParse clipboard_angles [rename]/$: same
+  as $(bold)clipboard/$, but only accept patterns input with raw angle string like
+  $(bold)\"wedsaq\"/$."
+"hexparse.book.entry.commands.config.macro.2": "$(li2)$(bold)... define <key> <value>/$:
+  define a macro/dialect mapping; could be fresh-new or overriding existed one.$(li2)$(bold)macro
+  define_clipboard <key>/$: same as above, but only for macros, and reads player's
+  clipboard$(li2)$(bold)... remove <key>/$: remove mapping entry with given key (if
+  exists)"
+"hexparse.book.entry.commands.config.conflicts.2": "$(li2)$(bold)... list <short_name>/$:
+  list all conflicting IDs under certain short name$(li2)$(bold)... set <short_name>
+  <long_ID>/$: redirect certain short name to input pattern ID"
+"hexparse.book.entry.commands.io.read.2": "$(li)$(bold)/hexParse read_hexbug/$: same
+  as $(bold)read/$ but translates the result to the format used by discord HexBug's
+  $(bold)/patterns hex/$ command. $(italic)note: non-pattern constants and some old
+  registry names still need to be handled manually/$$(li)$(bold)/hexParse share/$:
+  (experimental) same as $(bold)read/$ but broadcasts iota's raw content and click-copy-able
+  parsed code to every player in the server."
+"hexparse.book.entry.commands.op": "OP-Only Commands"
+"hexparse.book.entry.commands.config": "Configs"
+"hexparse.category.commands": "HexParse Commands"
+"hexparse.book.entry.commands.op.1": "$(li)$(bold)/hexParse unlock_great/$$(li2)$(bold)(unlockAll|lockAll|unlock
+  <pattern id>|lock <pattern id>)/$$(li2)controls great pattern unlocking process
+  of current world by locking/unlocking all at once, or a single great pattern each
+  execution."
+"hexparse.category.commands.desc": "How I make use of the exotic power of $(thing)HexParse/$."
+"hexparse.book.entry.commands.misc": "Misc. & Helpers"
+"hexparse.book.entry.commands.config.conflicts": "$(li)$(bold)/hexParse conflict/$:
+  conflict resolver for multiple patterns with same short name (ID path)$(li2)$(italic)only
+  enables in physical client (singleplayer, local multiplayer) or with OP permission/$$(li2)$(bold).../$
+  or $(bold)... list/$: list all short names pointed by multiple long IDs$(li2)..."
+"hexparse.book.entry.commands.io.base": "$(li)$(bold)/hexParse <code string> [rename]/$:
+  parse input code into supported held item; optional rename argument to rename the
+  item.$(li)$(bold)/hexParse read/$: read handheld item's iota, parse into code and
+  show in chat window; the result will be copied when clicked."
+"hexparse.book.entry.commands.misc.1": "$(li)$(bold)/hexParse donate [amount]/$: donate
+  custom amount of media to the nature. Pay if you feel guilty using this mod ::)$(li)$(bold)/hexParse
+  lehmer [...nums]/$: calculate Lehmer Code for given permutation (from ascending,
+  e.g. $(bold)0 1 2 3 4/$); input should be separated with space; the result number
+  can be used for $(l:patterns/stackmanip#hexcasting:swizzle)$(action)Swindler's Gambit/$"

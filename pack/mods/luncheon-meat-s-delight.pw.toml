@@ -1,13 +1,13 @@
 name = "Luncheon Meat 'S Delight"
-filename = "luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar"
+filename = "luncheon-meat-s-delight-1.0.5-Forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VOh1tIxx/versions/7NxOvY20/luncheon-meat-s-delight-1.0.4-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/VOh1tIxx/versions/pcmlIQdG/luncheon-meat-s-delight-1.0.5-Forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "2c67dd485a75933aa679ff60807f3ecaf9b77c62083565f134c929a60eedbd759bb19397e26586661dce355c4098c0fd859e2d10e3ba82cb324338b972be30aa"
+hash = "3d2158008edebb0357fd24024d590ad4d36c5161b84f7e633f4b9e32a9368dbc1e4ea37c1f466e31519c55f17339fa054641258edd7c3cd744b4ab2b7105d94b"
 
 [update]
 [update.modrinth]
 mod-id = "VOh1tIxx"
-version = "7NxOvY20"
+version = "pcmlIQdG"

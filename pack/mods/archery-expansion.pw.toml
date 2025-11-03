@@ -1,13 +1,13 @@
 name = "Archery Expansion"
-filename = "ArcheryExpansion-forge-1.20.1-1.0.6-all.jar"
+filename = "ArcheryExpansion-forge-1.20.1-1.0.7.2-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "730ba8689532e1a778fa2116b8eb02b1d9373c73"
+hash = "23246782dbe3a12decc2733804be8b8abc57d6df"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6424928
+file-id = 7037581
 project-id = 1164945

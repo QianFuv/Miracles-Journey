@@ -1,13 +1,13 @@
 name = "Hearths"
-filename = "Hearths v1.0.4 f12-80.mod.jar"
+filename = "Hearths v1.0.5.mod.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "372e7eb5756a1ff47e2d66555cc98fe6ae7749ce"
+hash = "7d1d4be3c3033b7df902b51915f37f53d60718b5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6688437
+file-id = 7106556
 project-id = 880814

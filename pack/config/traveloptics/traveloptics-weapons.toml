@@ -214,13 +214,13 @@
 		#Attack Speed || Default -3.0
 		#Range: -5.0 ~ 5.0
 		attack_speed = -3.0
-		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.15
-		#Range: 0.0 ~ 1.0
-		eldritch_spell_power = 0.15
-		#Ender Spell Power || MULTIPLY_BASE || Default 0.05
-		#Range: 0.0 ~ 1.0
-		ender_spell_power = 0.05
 		#Spectral Guillotine damage multiplier || Default 1.0
 		#Range: 1.0 ~ 5.0
 		spectral_guillotine_multiplier = 1.0
+		#Eldritch Spell Power || MULTIPLY_BASE || Default 0.05
+		#Range: 0.0 ~ 1.0
+		eldritch_spell_power_new = 0.05
+		#Ender Spell Power || MULTIPLY_BASE || Default 0.15
+		#Range: 0.0 ~ 1.0
+		ender_spell_power_new = 0.15
 

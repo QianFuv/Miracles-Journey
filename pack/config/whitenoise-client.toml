@@ -1,0 +1,4 @@
+#Show advanced tooltips. Requires advanced tooltips (F3+H)
+#Shows NBT data, tags and durability information.
+showAdvancedTooltips = false
+

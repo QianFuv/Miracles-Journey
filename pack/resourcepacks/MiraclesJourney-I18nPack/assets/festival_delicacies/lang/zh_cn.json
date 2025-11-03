@@ -1,49 +1,145 @@
-﻿{
-  "itemGroup.festival_delicacies": "节日佳肴",
-  "item.festival_delicacies.sweet_zongzi": "甜粽子",
-  "item.festival_delicacies.meat_zongzi": "肉粽子",
-  "item.festival_delicacies.qingtuan": "青团",
-  "item.festival_delicacies.jujube": "大枣",
-  "item.festival_delicacies.preserved_meat": "腊肉",
-  "item.festival_delicacies.red_bean_paste": "红豆泥",
-  "item.festival_delicacies.red_bean": "红豆",
-  "item.festival_delicacies.rice": "稻米",
-  "item.festival_delicacies.uncooked_meat_zongzi": "未熟的肉粽子",
-  "item.festival_delicacies.uncooked_sweet_zongzi": "未熟的甜粽子",
-  "item.festival_delicacies.artemisia_argyi": "艾草",
-  "item.festival_delicacies.bamboo_leaf": "竹叶",
-  "item.festival_delicacies.pufferfish_boiled_dumpling": "河豚水饺",
-  "item.festival_delicacies.pork_kelp_boiled_dumpling": "猪肉海带水饺",
-  "item.festival_delicacies.eggplant_egg_boiled_dumpling": "茄子鸡蛋水饺",
-  "item.festival_delicacies.mutton_boiled_dumpling": "羊肉水饺",
-  "item.festival_delicacies.pork_cabbage_wonton": "白菜猪肉馄饨",
-  "item.festival_delicacies.cod_boiled_dumpling": "鳕鱼水饺",
-  "item.festival_delicacies.rabbit_meat_boiled_dumpling": "兔肉水饺",
-  "item.festival_delicacies.pork_potato_boiled_dumpling": "猪肉土豆水饺",
-  "item.festival_delicacies.mushroom_boiled_dumpling": "蘑菇水饺",
-  "item.festival_delicacies.pork_carrot_wonton": "胡萝卜猪肉馄饨",
-  "item.festival_delicacies.fungus_boiled_dumpling": "下界菌水饺",
-  "item.festival_delicacies.dandelion_leaf_boiled_dumpling": "蒲公英水饺",
-  "item.festival_delicacies.chicken_mushroom_boiled_dumpling": "香菇鸡肉水饺",
-  "item.festival_delicacies.pork_mushroom_wonton": "香菇猪肉馄饨",
-  "item.festival_delicacies.pork_cabbage_boiled_dumpling": "白菜猪肉水饺",
-  "item.festival_delicacies.salmon_boiled_dumpling": "鲑鱼水饺",
-  "item.festival_delicacies.chinese_cabbage": "白菜",
-  "item.festival_delicacies.chinese_cabbage_leaf": "白菜叶",
-  "item.festival_delicacies.eggplant": "茄子",
-  "item.festival_delicacies.garlic_chive": "韭菜",
-  "item.festival_delicacies.fennel": "茴香",
-  "item.festival_delicacies.pork_fennel_boiled_dumpling": "猪肉茴香水饺",
-  "item.festival_delicacies.garlic_chive_egg_boiled_dumpling": "韭菜鸡蛋水饺",
-  "item.festival_delicacies.chinese_cabbage_seeds": "白菜种子",
-  "item.festival_delicacies.garlic": "大蒜",
-  "item.festival_delicacies.greenonion": "大葱",
-  "item.festival_delicacies.eggplant_seeds": "茄子种子",
-  "item.festival_delicacies.garlic_chive_seeds": "韭菜种子",
-  "item.festival_delicacies.fennel_seeds": "茴香种子",
-  "block.festival_delicacies.stove": "灶台",
-  "block.festival_delicacies.pot": "锅",
-  "festival_delicacies.stove.not_lit": "未点燃",
-  "festival_delicacies.stove.lit": "已点燃",
-  "festival_delicacies.stove.pot": "上方有锅"
-}
+"itemGroup.festival_delicacies": "节日佳肴"
+"item.festival_delicacies.sweet_zongzi": "甜粽子"
+"item.festival_delicacies.meat_zongzi": "肉粽子"
+"item.festival_delicacies.qingtuan": "青团"
+"item.festival_delicacies.jujube": "大枣"
+"item.festival_delicacies.preserved_meat": "腊肉"
+"item.festival_delicacies.red_bean_paste": "红豆泥"
+"item.festival_delicacies.red_bean": "红豆"
+"item.festival_delicacies.rice": "稻米"
+"item.festival_delicacies.uncooked_meat_zongzi": "未熟的肉粽子"
+"item.festival_delicacies.uncooked_sweet_zongzi": "未熟的甜粽子"
+"item.festival_delicacies.chinese_cabbage": "白菜"
+"item.festival_delicacies.chinese_cabbage_leaf": "白菜叶"
+"item.festival_delicacies.eggplant": "茄子"
+"item.festival_delicacies.garlic_chive": "韭菜"
+"item.festival_delicacies.fennel": "茴香"
+"item.festival_delicacies.chinese_cabbage_seeds": "白菜种子"
+"item.festival_delicacies.garlic": "大蒜"
+"item.festival_delicacies.greenonion": "大葱"
+"item.festival_delicacies.eggplant_seeds": "茄子种子"
+"item.festival_delicacies.garlic_chive_seeds": "韭菜种子"
+"item.festival_delicacies.fennel_seeds": "茴香种子"
+"block.festival_delicacies.stove": "灶台"
+"item.festival_delicacies.preserved_meat_mooncake": "火腿月饼"
+"item.festival_delicacies.wonton": "馄饨"
+"block.festival_delicacies.olive": "橄榄"
+"item.festival_delicacies.sesame": "芝麻"
+"gui.festival_delicacies.button.no_redstone": "已关闭红石控制"
+"item.festival_delicacies.lotus_root": "藕"
+"block.festival_delicacies.walnut_sapling": "核桃树苗"
+"block.festival_delicacies.walnut_leaves": "核桃树叶"
+"gui.festival_delicacies.stove.button.default": "默认"
+"item.festival_delicacies.ingredients.baozi": "%s 包子"
+"item.festival_delicacies.baozi": "包子"
+"item.festival_delicacies.apricot_pulp": "杏肉"
+"gui.festival_delicacies.button.started": "已开始"
+"item.festival_delicacies.greenonion_seeds": "大葱种子"
+"gui.festival_delicacies.stove.button.fry": "炸制"
+"item.festival_delicacies.shelled_melon_seeds": "西瓜籽仁"
+"block.festival_delicacies.peach": "桃子"
+"block.festival_delicacies.apricot_sapling": "杏树树苗"
+"item.festival_delicacies.apricot_kernel": "杏仁"
+"item.festival_delicacies.ingredients.boiled_dumpling": "%s 水饺"
+"festival_delicacies.subtitles.fermentation_jar.open": "发酵罐：开启"
+"gui.festival_delicacies.stove.button.default_dumpling": "水饺"
+"item.festival_delicacies.bamboo_leaves": "竹叶"
+"block.festival_delicacies.persimmon_sapling": "柿子树苗"
+"block.festival_delicacies.potted_jujube_sapling": "大枣树苗盆栽"
+"gui.festival_delicacies.redstone_button": "红石按钮"
+"item.festival_delicacies.ingredients.1": "%s"
+"block.festival_delicacies.chinese_cabbage": "白菜"
+"gui.festival_delicacies.stove.button.steamed_dumpling": "蒸饺"
+"item.festival_delicacies.steamed_dumpling": "蒸饺"
+"gui.festival_delicacies.stove.button.not_lit": "未点燃"
+"block.festival_delicacies.lotus_aerial_part": "莲"
+"block.festival_delicacies.eggplant": "茄子"
+"item.festival_delicacies.peanut": "花生"
+"block.festival_delicacies.tangerine": "橘子"
+"block.festival_delicacies.red_bean": "红豆"
+"block.festival_delicacies.olive_log": "橄榄原木"
+"block.festival_delicacies.lotus": "莲"
+"gui.festival_delicacies.button.redstone": "已启用红石控制"
+"festival_delicacies.tooltip.ingredient_count": "%s (x%s)"
+"item.festival_delicacies.mugwort": "艾草"
+"block.festival_delicacies.potted_apricot_sapling": "杏树树苗盆栽"
+"item.festival_delicacies.salted_egg_yolk": "咸蛋黄"
+"item.festival_delicacies.ingredients.steamed_dumpling": "%s 蒸饺"
+"festival_delicacies.subtitles.fermentation_jar.close": "发酵罐：关闭"
+"item.festival_delicacies.tangerine": "橘子"
+"block.festival_delicacies.peach_sapling": "桃树树苗"
+"gui.festival_delicacies.button.not_started": "未开始"
+"block.festival_delicacies.mugwort": "艾草"
+"item.festival_delicacies.ingredients.3": "%s %s %s"
+"block.festival_delicacies.peach_log": "桃树原木"
+"item.festival_delicacies.olive": "橄榄"
+"item.festival_delicacies.hawthorn": "山楂"
+"block.festival_delicacies.fermentation_jar": "发酵坛"
+"block.festival_delicacies.garlic_chive": "韭菜"
+"item.festival_delicacies.kitchen_knife": "菜刀"
+"block.festival_delicacies.hawthorn_sapling": "山楂树苗"
+"block.festival_delicacies.potted_tangerine_sapling": "橘子树苗盆栽"
+"item.festival_delicacies.eggplant_slice": "茄子片"
+"item.festival_delicacies.five_nuts_mooncake": "五仁月饼"
+"item.festival_delicacies.apricot": "杏"
+"block.festival_delicacies.lotus_leaf": "荷叶"
+"item.festival_delicacies.peach": "桃子"
+"item.festival_delicacies.hawthorn_with_jujube_paste_mooncake": "山楂枣泥月饼"
+"block.festival_delicacies.tangerine_leaves": "橘子树叶"
+"item.festival_delicacies.candied_tangerine": "橘饼"
+"item.festival_delicacies.unknown_seeds": "未知种子"
+"block.festival_delicacies.persimmon_leaves": "柿子树叶"
+"block.festival_delicacies.hawthorn_log": "山楂原木"
+"block.festival_delicacies.chopping_block": "菜墩"
+"item.festival_delicacies.jujube_paste": "枣泥"
+"block.festival_delicacies.olive_leaves": "橄榄树叶"
+"block.festival_delicacies.jujube_leaves": "大枣树叶"
+"block.festival_delicacies.walnut": "核桃"
+"block.festival_delicacies.persimmon": "柿子"
+"block.festival_delicacies.drying_rack": "风干架"
+"festival_delicacies.subtitles.chop": "菜刀：剁下"
+"block.festival_delicacies.greenonion": "大葱"
+"block.festival_delicacies.walnut_log": "核桃原木"
+"block.festival_delicacies.rice": "稻米"
+"item.festival_delicacies.ingredients.2": "%s %s"
+"block.festival_delicacies.potted_peach_sapling": "桃树树苗盆栽"
+"gui.festival_delicacies.start_button": "开始按钮"
+"block.festival_delicacies.potted_olive_sapling": "橄榄树苗盆栽"
+"item.festival_delicacies.persimmon": "柿子"
+"block.festival_delicacies.tangerine_log": "橘子原木"
+"block.festival_delicacies.garlic": "蒜"
+"block.festival_delicacies.tangerine_sapling": "橘子树苗"
+"block.festival_delicacies.jujube_sapling": "枣树树苗"
+"block.festival_delicacies.hawthorn_leaves": "山楂树叶"
+"block.festival_delicacies.peanut": "花生"
+"item.festival_delicacies.sweetened_lotus_seed_paste": "莲蓉"
+"block.festival_delicacies.peach_leaves": "桃树树叶"
+"block.festival_delicacies.jujube_log": "枣树原木"
+"festival_delicacies.subtitles.fruit_pick": "果实：被摘下"
+"item.festival_delicacies.sunflower_seeds": "葵花籽"
+"gui.festival_delicacies.stove.button.steam": "蒸制"
+"block.festival_delicacies.fennel": "茴香"
+"block.festival_delicacies.potted_walnut_sapling": "核桃树苗盆栽"
+"block.festival_delicacies.apricot_leaves": "杏树树叶"
+"block.festival_delicacies.hawthorn": "山楂"
+"item.festival_delicacies.lotus_seeds": "莲子"
+"block.festival_delicacies.sesame": "芝麻"
+"item.festival_delicacies.boiled_dumpling": "水饺"
+"item.festival_delicacies.walnut": "核桃"
+"block.festival_delicacies.apricot": "杏"
+"gui.festival_delicacies.cooking_type_button": "烹饪状态按钮"
+"block.festival_delicacies.olive_sapling": "橄榄树苗"
+"block.festival_delicacies.potted_hawthorn_sapling": "山楂树苗盆栽"
+"item.festival_delicacies.shelled_pumpkin_seeds": "南瓜籽仁"
+"block.festival_delicacies.lotus_flower": "荷花"
+"block.festival_delicacies.wooden_plate": "木盘"
+"block.festival_delicacies.jujube": "大枣"
+"item.festival_delicacies.dried_persimmon": "柿饼"
+"block.festival_delicacies.potted_persimmon_sapling": "柿子树苗盆栽"
+"festival_delicacies.client_message.cannot_chop": "看起来剁不动啊……"
+"block.festival_delicacies.persimmon_log": "柿子原木"
+"item.festival_delicacies.lotus_seed_paste_with_salted_yolk_mooncake": "莲蓉蛋黄月饼"
+"block.festival_delicacies.wild_garlic": "野生大蒜"
+"block.festival_delicacies.apricot_log": "杏树原木"
+"gui.festival_delicacies.stove.button.bake": "烤制"
+"gui.festival_delicacies.stove.button.baozi": "包子"

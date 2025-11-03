@@ -4,6 +4,7 @@
   "hexcasting.action.hexflow:build_nested": "Build Nested",
   "hexcasting.action.hexflow:nested_modify": "Transplant's Exaltation",
   "hexcasting.action.hexflow:noob_num": "Noob Num Reflection",
+  "hexcasting.special.hexflow:noob_num": "Noob Num Reflection: %s",
   "hexcasting.action.hexflow:mass_rotate": "Mass Rotation Gambit",
   "hexcasting.action.hexflow:weak_escape": "Contemplation",
   "hexflow.book.entry": "HexFlow Patterns",

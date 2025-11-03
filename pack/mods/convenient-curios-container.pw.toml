@@ -1,13 +1,13 @@
 name = "Convenient Curios Container"
-filename = "convenientcurioscontainer-3.4-forge-1.20.1.jar"
+filename = "convenientcurioscontainer-3.5-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d45c09021ed32786bb5cbaecebab34901c066a0"
+hash = "dccc41aecd859eef98756de071d8475db6dc0000"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6833134
+file-id = 7052091
 project-id = 544033

@@ -1,22 +1,32 @@
-{
-  "itemGroup.create_fantasizing": "机械动力：又在幻想了",
-
-  "block.create_fantasizing.compact_hydraulic_engine": "紧缩型水力引擎",
-  "item.create_fantasizing.incomplete_compact_hydraulic_engine": "未完成的紧缩型水力引擎",
-  "block.create_fantasizing.compact_wind_engine": "紧缩型风力引擎",
-  "item.create_fantasizing.incomplete_compact_wind_engine": "未完成的紧缩型风力引擎",
-  "block.create_fantasizing.sturdy_girder": "坚固梁",
-  "block.create_fantasizing.sturdy_girder_encased_shaft": "坚固梁包住的传动杆",
-  "item.create_fantasizing.tree_cutter": "伐树者",
-  "item.create_fantasizing.block_placer": "方块放置器",
-  "item.create_fantasizing.block_placer.not_enough_blocks": "没有足够的方块！",
-  "block.create_fantasizing.transporter": "运输器",
-  "item.create_fantasizing.prismarine_fan_blades": "海晶扇叶",
-  "item.create_fantasizing.sturdy_conduit": "坚固潮涌核心",
-  "item.create_fantasizing.sturdy_heavy_core": "坚固沉重核心",
-
-  "create_fantasizing.configuration.hydraulic_engine_stress_provide": "水力引擎应力提供",
-  "create_fantasizing.configuration.hydraulic_engine_stress_provide.tooltip": "\u00A7e需要重新进入存档",
-  "create_fantasizing.configuration.wind_engine_stress_provide": "风力引擎应力提供",
-  "create_fantasizing.configuration.wind_engine_stress_provide.tooltip": "\u00A7e需要重新进入存档"
-}
+"itemGroup.create_fantasizing": "机械动力：又在幻想了"
+"block.create_fantasizing.compact_hydraulic_engine": "紧缩型水力引擎"
+"item.create_fantasizing.incomplete_compact_hydraulic_engine": "未完成的紧缩型水力引擎"
+"block.create_fantasizing.compact_wind_engine": "紧缩型风力引擎"
+"item.create_fantasizing.incomplete_compact_wind_engine": "未完成的紧缩型风力引擎"
+"block.create_fantasizing.sturdy_girder": "坚固梁"
+"block.create_fantasizing.sturdy_girder_encased_shaft": "坚固梁包住的传动杆"
+"item.create_fantasizing.tree_cutter": "伐树者"
+"item.create_fantasizing.block_placer": "方块放置器"
+"item.create_fantasizing.block_placer.not_enough_blocks": "没有足够的方块！"
+"block.create_fantasizing.transporter": "运输器"
+"item.create_fantasizing.prismarine_fan_blades": "海晶扇叶"
+"item.create_fantasizing.sturdy_conduit": "坚固潮涌核心"
+"item.create_fantasizing.sturdy_heavy_core": "坚固沉重核心"
+"create_fantasizing.configuration.hydraulic_engine_stress_provide": "水力引擎应力提供"
+"create_fantasizing.configuration.hydraulic_engine_stress_provide.tooltip": "§e需要重新进入存档"
+"create_fantasizing.configuration.wind_engine_stress_provide": "风力引擎应力提供"
+"create_fantasizing.configuration.wind_engine_stress_provide.tooltip": "§e需要重新进入存档"
+"create_fantasizing.configuration.block_placer_power": "方块放置器威力"
+"create_fantasizing.configuration.block_placer_power.tooltip": "§e需要重新进入存档"
+"block.create_fantasizing.transporter.tooltip.summary": "将物品从一个容器_转移_到另一个容器。不能从另一个运输器抽取物品！"
+"item.create_fantasizing.tree_cutter.tooltip.summary": "一次砍倒一整棵树！"
+"block.create_fantasizing.compact_wind_engine.summary": "放在任何地方都可以产生动力。"
+"item.create_fantasizing.block_placer.tooltip.condition1": "当附魔时运或精准采集"
+"item.create_fantasizing.block_placer.tooltip.behaviour2": "放置_圆石_等大部分_可再生方块_时不再消耗方块。"
+"item.create_fantasizing.block_placer.tooltip.summary": "允许你_远程放置、破坏大量方块_的强大工具。用法与_创造模式环境塑形器_相同，但使用时会_消耗_方块，并_掉落_被清除、替换的方块。"
+"item.create_fantasizing.block_placer.tooltip.condition2": "当附魔无限"
+"block.create_fantasizing.compact_hydraulic_engine.summary": "放在任何地方都可以产生动力。"
+"item.create_fantasizing.tree_cutter.tooltip.condition1": "破坏方块时潜行"
+"item.create_fantasizing.tree_cutter.tooltip.behaviour1": "将不会砍倒树。"
+"create_fantasizing.gui.block_placer.destroy_mode": "销毁掉落物"
+"item.create_fantasizing.block_placer.tooltip.behaviour1": "方块将根据附魔进行掉落，就像使用镐子那样。"

@@ -1,178 +1,163 @@
-{
-  "tooltip.etstlib.energy_storage": "Energy Storage",
-  "tooltip.etstlib.max_transfer": "Max FE Transfer",
-  "tooltip.etstlib.air": "Air Storage",
-  "tooltip.etstlib.base_volume": "Base Air Volume",
-  "tooltip.etstlib.max_pressure": "Pressure",
-  "tooltip.etstlib.pressure_bonus": "Aerial Bonus",
-  "tooltip.etstlib.radiation_shielding": "Radiation Protection",
-
-
-  "tool_stat.etstlib.max_energy": "Max Energy: ",
-  "tool_stat.etstlib.max_energy.description": "Forge Energy capacity of your tool.",
-  "tool_stat.etstlib.max_transfer": "Max Energy Transfer: ",
-  "tool_stat.etstlib.max_transfer.description": "Limits the speed for tool to charge or discharge.",
-  "tool_stat.etstlib.basic_air_capacity": "Basic Air Capacity: ",
-  "tool_stat.etstlib.basic_air_capacity.description": "Basic air capacity for air from Pneumatic Craft.",
-  "tool_stat.etstlib.max_pressure": "Max Pressure: ",
-  "tool_stat.etstlib.max_pressure.description": "The max pressure your tool can take.\nWon't make your tool explode.",
-  "tool_stat.etstlib.radiation_protect": "Radiation Protection: ",
-  "tool_stat.etstlib.radiation_protect.description": "Shielding capability against radiation from Mekanism.",
-
-
-  "modifier.etstlib.anti_stun_glasses": "Anti Stun Glasses",
-  "modifier.etstlib.anti_stun_glasses.flavor": "Prevent you from stunning",
-  "modifier.etstlib.anti_stun_glasses.description":"Cancel hurt shaking and field of view effect.Immune to nausea effect.",
-
-  "modifier.etstlib.energy_shield": "Energy Shield",
-  "modifier.etstlib.energy_shield.flavor": "Built-in force field generator.",
-  "modifier.etstlib.energy_shield.description":"Blocks damage using FE,drains 10kFE per damage.If energy storage from one armor is not sufficient,then consume 2x energy from all the armor containing this modifier to cancel damage.",
-
-  "modifier.etstlib.radiation_shielding": "Radiation Shielding",
-  "modifier.etstlib.radiation_shielding.flavor": "Rad,rad,go away!",
-  "modifier.etstlib.radiation_shielding.description":"Gains 10% radiation immunity each level.",
-
-  "modifier.etstlib.energy_loaded": "Energy Loaded",
-  "modifier.etstlib.energy_loaded.flavor": "Electric powered tool!",
-  "modifier.etstlib.energy_loaded.description":"Your tool consumes energy instead of durability when is powered.",
-
-  "modifier.etstlib.applied_fixing": "Applied Energy Fixing",
-  "modifier.etstlib.applied_fixing.flavor": "Growing as crystals.",
-  "modifier.etstlib.applied_fixing.description":"Self-repairs when placed inside AE2 charger.",
-
-  "modifier.etstlib.atomic_decompose": "Atom Decompose",
-  "modifier.etstlib.atomic_decompose.flavor": "Atom-grade decomposition.",
-  "modifier.etstlib.atomic_decompose.description":"Fix your mining speed to your tool's mining speed.Ignores harvest tier.",
-
-  "modifier.etstlib.aerial_reinforced": "Arial Dynamic",
-  "modifier.etstlib.aerial_reinforced.flavor": "Pressure reinforced!",
-  "modifier.etstlib.aerial_reinforced.description":"Boosts many stats when compressed air is loaded.Consume air instead of durability on use.",
-
-  "modifier.etstlib.clearing": "Clearing",
-  "modifier.etstlib.clearing.flavor": "Cleaning dirty.",
-  "modifier.etstlib.clearing.description":"Immune to wither and poison effect.",
-
-  "modifier.etstlib.energetic_attack": "Energetic Attack",
-  "modifier.etstlib.energetic_attack.flavor": "Zap!",
-  "modifier.etstlib.energetic_attack.description":"Deals extra magic damage on full charge attack.",
-
-  "modifier.etstlib.radiation_inflict": "Radiation Inflict",
-  "modifier.etstlib.radiation_inflict.flavor": "Radioactive weapons.",
-  "modifier.etstlib.radiation_inflict.description":"Inflicts 100mSv radiation on full charge attack.",
-
-  "modifier.etstlib.momentum_accelerate": "Momentum Accelerate",
-  "modifier.etstlib.momentum_accelerate.flavor": "p=mv",
-  "modifier.etstlib.momentum_accelerate.description":"-20% Attack speed and mining speed but speeds up when constantly using.",
-
-  "modifier.etstlib.magic_strike": "Magic Strike",
-  "modifier.etstlib.magic_strike.flavor": "",
-  "modifier.etstlib.magic_strike.description":"Transfer your damage into magic damage on full charge attack.",
-
-  "modifier.etstlib.critical": "Critical Attack",
-  "modifier.etstlib.critical.flavor": "Attacks that is 'Critical'",
-  "modifier.etstlib.critical.description":"100% Critical on full charge attack.",
-
-  "modifier.etstlib.armor_piercing": "Armor Piercing",
-  "modifier.etstlib.armor_piercing.flavor": "Sharp weapon.",
-  "modifier.etstlib.armor_piercing.description":"Each level provides 25% armor-piercing.",
-
-  "modifier.etstlib.mana_repair": "Mana Repair",
-  "modifier.etstlib.mana_repair.flavor": "Mana and entropy.",
-  "modifier.etstlib.mana_repair.description":"Your tool will slowly consume mana to repair itself.",
-
-  "modifier.etstlib.terra_beam": "Terra Beam",
-  "modifier.etstlib.terra_beam.flavor": "Terra intended.",
-  "modifier.etstlib.terra_beam.description":"Consume mana to shoot terra beam on swinging.",
-
-  "modifier.etstlib.reality_breaker": "Reality Breaker",
-  "modifier.etstlib.reality_breaker.flavor": "Break the reality that 'Target is invulnerable'",
-  "modifier.etstlib.reality_breaker.description":"Make your attack bypasses most of vanilla defense.",
-
-  "modifier.etstlib.photosynthesis_guide": "Photosynthesis Homing",
-  "modifier.etstlib.photosynthesis_guide.flavor": "Chasing the photons.",
-  "modifier.etstlib.photosynthesis_guide.description":"Your arrows will slightly homing.",
-
-  "modifier.etstlib.warp_attack": "Warp Attack",
-  "modifier.etstlib.warp_attack.flavor": "Auto-aim.",
-  "modifier.etstlib.warp_attack.description":"You will attack nearby targets when you missed.",
-
-  "modifier.etstlib.anisotropy": "Anisotropy",
-  "modifier.etstlib.anisotropy.flavor": "Basic feature of mono-crystals.",
-  "modifier.etstlib.anisotropy.description": "Increase damage on full charge attack.Decrease damage otherwise.",
-
-  "modifier.etstlib.crystal_armor": "Crystal Armor",
-  "modifier.etstlib.crystal_armor.flavor": "Basic feature of mono-crystals.",
-  "modifier.etstlib.crystal_armor.description": "When hurt, reduces the damage if the damage is no more than 5, otherwise increase the damage.",
-
-  "modifier.etstlib.glowing": "Glowing",
-  "modifier.etstlib.glowing.flavor": "Glowing materials.",
-  "modifier.etstlib.glowing.description": "Gain night vision effect on wearing.Inflict your enemy with glowing effect.",
-
-  "modifier.etstlib.short_circuit": "Short Circuit",
-  "modifier.etstlib.short_circuit.flavor": "Mess up with bio-electricity.",
-  "modifier.etstlib.short_circuit.description": "Removes target's invulnerable time on hit.",
-
-  "modifier.etstlib.rude": "Rude",
-  "modifier.etstlib.rude.flavor": "No elegance.",
-  "modifier.etstlib.rude.description": "Deals critical attack to targets with >25 health.",
-
-  "modifier.etstlib.executioner": "Executioner",
-  "modifier.etstlib.executioner.flavor": "Fast and neat, no mercy.",
-  "modifier.etstlib.executioner.description": "Make your attack ignores target's hit cooldown.",
-
-  "modifier.etstlib.global_traveler": "Global Traveler",
-  "modifier.etstlib.global_traveler.flavor": "Traveling around the world.",
-  "modifier.etstlib.global_traveler.description": "Shift-Right Click to bind a container where loots created by tool will be stored in.Shift-Right Click again to unbind it.",
-
-  "modifier.etstlib.void_insight": "Void Insight",
-  "modifier.etstlib.void_insight.flavor": "Null",
-  "modifier.etstlib.void_insight.description": "Prevent most of mobs from spawning in your world.",
-
-  "modifier.etstlib.hardened": "Hardened",
-  "modifier.etstlib.hardened.flavor": "Much stronger than diamond.",
-  "modifier.etstlib.hardened.description": "+10% Durability and damage reduce each level.",
-
-  "modifier.etstlib.terrafirma": "Terrafirma",
-  "modifier.etstlib.terrafirma.flavor": "Power of terra.",
-  "modifier.etstlib.terrafirma.description": "Heals holder each second.",
-
-  "modifier.etstlib.fatal": "Fatal Trauma",
-  "modifier.etstlib.fatal.flavor": "They can't escape",
-  "modifier.etstlib.fatal.description": "Prevent targets form healing.",
-
-  "modifier.etstlib.hyper_density": "Hyper Density",
-  "modifier.etstlib.hyper_density.flavor": "It comes in one piece!",
-  "modifier.etstlib.hyper_density.description": "Damage taken will be reduced twice by armor value.",
-
-  "modifier.etstlib.inert_metal": "Inert Metal",
-  "modifier.etstlib.inert_metal.flavor": "Resist against chemical corrosion.",
-  "modifier.etstlib.inert_metal.description": "Sometimes remove a random harmful effect when wearing.",
-
-  "modifier.etstlib.secondary_armor": "Well Prepared",
-  "modifier.etstlib.secondary_armor.flavor": "This is my second armor!",
-  "modifier.etstlib.secondary_armor.description": "Allow your armor to block armor-piercing damage.",
-
-  "modifier.etstlib.extra_dense": "Extra Dense",
-  "modifier.etstlib.extra_dense.flavor": "Great mass come from high density.",
-  "modifier.etstlib.extra_dense.description": "Boost some of stats but decrease repair factor.",
-
-  "modifier.etstlib.resonating": "Resonating",
-  "modifier.etstlib.resonating.flavor": "Do you know how to measure distance using sound ?",
-  "modifier.etstlib.resonating.description": "You will hear sound from the environment and gain buffs.",
-
-
-
-  "fluid_effect.etstlib.radiate_entity": "Radiate %s To Entity",
-  "fluid_effect.etstlib.radiate_block": "Radiate %s To World",
-  "fluid_effect.etstlib.clear_radiation": "Clear Radiation Sources In %s Chunk",
-  "fluid_effect.etstlib.add_entity_ticker": "Add %s ticks %s level of ",
-
-
-
-  "entity_ticker.etstlib.freezing": "Freezing",
-
-
-
-  "msg.etstlib.global_traveler.container_bind": "Container bound",
-  "msg.etstlib.global_traveler.container_disbound": "Container unbound"
-}
+"tooltip.etstlib.energy_storage": "Energy Storage"
+"tooltip.etstlib.max_transfer": "Max FE Transfer"
+"tooltip.etstlib.air": "Air Storage"
+"tooltip.etstlib.base_volume": "Base Air Volume"
+"tooltip.etstlib.max_pressure": "Pressure"
+"tooltip.etstlib.pressure_bonus": "Aerial Bonus"
+"tooltip.etstlib.radiation_shielding": "Radiation Protection"
+"tool_stat.etstlib.max_energy": "Max Energy: "
+"tool_stat.etstlib.max_energy.description": "Forge Energy capacity of your tool."
+"tool_stat.etstlib.max_transfer": "Max Energy Transfer: "
+"tool_stat.etstlib.max_transfer.description": "Limits the speed for tool to charge
+  or discharge."
+"tool_stat.etstlib.basic_air_capacity": "Basic Air Capacity: "
+"tool_stat.etstlib.basic_air_capacity.description": "Basic air capacity for air from
+  Pneumatic Craft."
+"tool_stat.etstlib.max_pressure": "Max Pressure: "
+"tool_stat.etstlib.max_pressure.description": "The max pressure your tool can take.\n\
+  Won't make your tool explode."
+"tool_stat.etstlib.radiation_protect": "Radiation Protection: "
+"tool_stat.etstlib.radiation_protect.description": "Shielding capability against radiation
+  from Mekanism."
+"modifier.etstlib.anti_stun_glasses": "Anti Stun Glasses"
+"modifier.etstlib.anti_stun_glasses.flavor": "Prevent you from stunning"
+"modifier.etstlib.anti_stun_glasses.description": "Cancel hurt shaking and field of
+  view effect.Immune to nausea effect."
+"modifier.etstlib.energy_shield": "Energy Shield"
+"modifier.etstlib.energy_shield.flavor": "Built-in force field generator."
+"modifier.etstlib.energy_shield.description": "Blocks damage using FE,drains 10kFE
+  per damage.If energy storage from one armor is not sufficient,then consume 2x energy
+  from all the armor containing this modifier to cancel damage."
+"modifier.etstlib.radiation_shielding": "Radiation Shielding"
+"modifier.etstlib.radiation_shielding.flavor": "Rad,rad,go away!"
+"modifier.etstlib.radiation_shielding.description": "Gains 10% radiation immunity
+  each level."
+"modifier.etstlib.energy_loaded": "Energy Loaded"
+"modifier.etstlib.energy_loaded.flavor": "Electric powered tool!"
+"modifier.etstlib.energy_loaded.description": "Your tool consumes energy instead of
+  durability when is powered."
+"modifier.etstlib.applied_fixing": "Applied Energy Fixing"
+"modifier.etstlib.applied_fixing.flavor": "Growing as crystals."
+"modifier.etstlib.applied_fixing.description": "Self-repairs when placed inside AE2
+  charger."
+"modifier.etstlib.atomic_decompose": "Atom Decompose"
+"modifier.etstlib.atomic_decompose.flavor": "Atom-grade decomposition."
+"modifier.etstlib.atomic_decompose.description": "Fix your mining speed to your tool's
+  mining speed.Ignores harvest tier."
+"modifier.etstlib.aerial_reinforced": "Arial Dynamic"
+"modifier.etstlib.aerial_reinforced.flavor": "Pressure reinforced!"
+"modifier.etstlib.aerial_reinforced.description": "Boosts many stats when compressed
+  air is loaded.Consume air instead of durability on use."
+"modifier.etstlib.clearing": "Clearing"
+"modifier.etstlib.clearing.flavor": "Cleaning dirty."
+"modifier.etstlib.clearing.description": "Immune to wither and poison effect."
+"modifier.etstlib.energetic_attack": "Energetic Attack"
+"modifier.etstlib.energetic_attack.flavor": "Zap!"
+"modifier.etstlib.energetic_attack.description": "Deals extra magic damage on full
+  charge attack."
+"modifier.etstlib.radiation_inflict": "Radiation Inflict"
+"modifier.etstlib.radiation_inflict.flavor": "Radioactive weapons."
+"modifier.etstlib.radiation_inflict.description": "Inflicts 100mSv radiation on full
+  charge attack."
+"modifier.etstlib.momentum_accelerate": "Momentum Accelerate"
+"modifier.etstlib.momentum_accelerate.flavor": "p=mv"
+"modifier.etstlib.momentum_accelerate.description": "-20% Attack speed and mining
+  speed but speeds up when constantly using."
+"modifier.etstlib.magic_strike": "Magic Strike"
+"modifier.etstlib.magic_strike.flavor": ""
+"modifier.etstlib.magic_strike.description": "Transfer your damage into magic damage
+  on full charge attack."
+"modifier.etstlib.critical": "Critical Attack"
+"modifier.etstlib.critical.flavor": "Attacks that is 'Critical'"
+"modifier.etstlib.critical.description": "100% Critical on full charge attack."
+"modifier.etstlib.armor_piercing": "Armor Piercing"
+"modifier.etstlib.armor_piercing.flavor": "Sharp weapon."
+"modifier.etstlib.armor_piercing.description": "Each level provides 25% armor-piercing."
+"modifier.etstlib.mana_repair": "Mana Repair"
+"modifier.etstlib.mana_repair.flavor": "Mana and entropy."
+"modifier.etstlib.mana_repair.description": "Your tool will slowly consume mana to
+  repair itself."
+"modifier.etstlib.terra_beam": "Terra Beam"
+"modifier.etstlib.terra_beam.flavor": "Terra intended."
+"modifier.etstlib.terra_beam.description": "Consume mana to shoot terra beam on swinging."
+"modifier.etstlib.reality_breaker": "Reality Breaker"
+"modifier.etstlib.reality_breaker.flavor": "Break the reality that 'Target is invulnerable'"
+"modifier.etstlib.reality_breaker.description": "Make your attack bypasses most of
+  vanilla defense."
+"modifier.etstlib.photosynthesis_guide": "Photosynthesis Homing"
+"modifier.etstlib.photosynthesis_guide.flavor": "Chasing the photons."
+"modifier.etstlib.photosynthesis_guide.description": "Your arrows will slightly homing."
+"modifier.etstlib.warp_attack": "Warp Attack"
+"modifier.etstlib.warp_attack.flavor": "Auto-aim."
+"modifier.etstlib.warp_attack.description": "You will attack nearby targets when you
+  missed."
+"modifier.etstlib.anisotropy": "Anisotropy"
+"modifier.etstlib.anisotropy.flavor": "Basic feature of mono-crystals."
+"modifier.etstlib.anisotropy.description": "Increase damage on full charge attack.Decrease
+  damage otherwise."
+"modifier.etstlib.crystal_armor": "Crystal Armor"
+"modifier.etstlib.crystal_armor.flavor": "Basic feature of mono-crystals."
+"modifier.etstlib.crystal_armor.description": "When hurt, reduces the damage if the
+  damage is no more than 5, otherwise increase the damage."
+"modifier.etstlib.glowing": "Glowing"
+"modifier.etstlib.glowing.flavor": "Glowing materials."
+"modifier.etstlib.glowing.description": "Gain night vision effect on wearing.Inflict
+  your enemy with glowing effect."
+"modifier.etstlib.short_circuit": "Short Circuit"
+"modifier.etstlib.short_circuit.flavor": "Mess up with bio-electricity."
+"modifier.etstlib.short_circuit.description": "Removes target's invulnerable time
+  on hit."
+"modifier.etstlib.rude": "Rude"
+"modifier.etstlib.rude.flavor": "No elegance."
+"modifier.etstlib.rude.description": "Deals critical attack to targets with >25 health."
+"modifier.etstlib.executioner": "Executioner"
+"modifier.etstlib.executioner.flavor": "Fast and neat, no mercy."
+"modifier.etstlib.executioner.description": "Make your attack ignores target's hit
+  cooldown."
+"modifier.etstlib.global_traveler": "Global Traveler"
+"modifier.etstlib.global_traveler.flavor": "Traveling around the world."
+"modifier.etstlib.global_traveler.description": "Shift-Right Click to bind a container
+  where loots created by tool will be stored in.Shift-Right Click again to unbind
+  it."
+"modifier.etstlib.void_insight": "Void Insight"
+"modifier.etstlib.void_insight.flavor": "Null"
+"modifier.etstlib.void_insight.description": "Prevent most of mobs from spawning in
+  your world."
+"modifier.etstlib.hardened": "Hardened"
+"modifier.etstlib.hardened.flavor": "Much stronger than diamond."
+"modifier.etstlib.hardened.description": "+10% Durability and damage reduce each level."
+"modifier.etstlib.terrafirma": "Terrafirma"
+"modifier.etstlib.terrafirma.flavor": "Power of terra."
+"modifier.etstlib.terrafirma.description": "Heals holder each second."
+"modifier.etstlib.fatal": "Fatal Trauma"
+"modifier.etstlib.fatal.flavor": "They can't escape"
+"modifier.etstlib.fatal.description": "Prevent targets form healing."
+"modifier.etstlib.hyper_density": "Hyper Density"
+"modifier.etstlib.hyper_density.flavor": "It comes in one piece!"
+"modifier.etstlib.hyper_density.description": "Damage taken will be reduced twice
+  by armor value."
+"modifier.etstlib.inert_metal": "Inert Metal"
+"modifier.etstlib.inert_metal.flavor": "Resist against chemical corrosion."
+"modifier.etstlib.inert_metal.description": "Sometimes remove a random harmful effect
+  when wearing."
+"modifier.etstlib.secondary_armor": "Well Prepared"
+"modifier.etstlib.secondary_armor.flavor": "This is my second armor!"
+"modifier.etstlib.secondary_armor.description": "Allow your armor to block armor-piercing
+  damage."
+"modifier.etstlib.extra_dense": "Extra Dense"
+"modifier.etstlib.extra_dense.flavor": "Great mass come from high density."
+"modifier.etstlib.extra_dense.description": "Boost some of stats but decrease repair
+  factor."
+"modifier.etstlib.resonating": "Resonating"
+"modifier.etstlib.resonating.flavor": "Do you know how to measure distance using sound
+  ?"
+"modifier.etstlib.resonating.description": "You will hear sound from the environment
+  and gain buffs."
+"fluid_effect.etstlib.radiate_entity": "Radiate %s To Entity"
+"fluid_effect.etstlib.radiate_block": "Radiate %s To World"
+"fluid_effect.etstlib.clear_radiation": "Clear Radiation Sources In %s Chunk"
+"fluid_effect.etstlib.add_entity_ticker": "Add %s ticks %s level of "
+"entity_ticker.etstlib.freezing": "Freezing"
+"msg.etstlib.global_traveler.container_bind": "Container bound"
+"msg.etstlib.global_traveler.container_disbound": "Container unbound"
+"tooltip.etstlib.faucet_transfer": "Transfer Speed: "

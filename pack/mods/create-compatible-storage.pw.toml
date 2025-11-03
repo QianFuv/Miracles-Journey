@@ -1,13 +1,13 @@
 name = "Create: Compatible Storage"
-filename = "create_compatible_storage-2.5.1.jar"
+filename = "create_compatible_storage-2.8.1-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c4022bfbdfbb055ee1458753db90167ed619d9dd"
+hash = "ed0f3dd53eb7fdecb4b9722b44872373a3e03854"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6903742
+file-id = 7133151
 project-id = 1247573

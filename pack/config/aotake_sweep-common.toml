@@ -1,43 +1,4 @@
 
-#Base Settings
-#基础设置
-[common]
-	#The maximum number of pages in the dustbin.
-	#垃圾箱页数限制。
-	#Range: 1 ~ 65536
-	dustbinPageLimit = 1
-	#Whether to enable automatic sweeping when there are no players on the server.
-	#服务器没人时是否启用自动打扫。
-	sweepWhenNoPlayer = false
-	#A warning sequence before sweeping. If left empty, the built-in default message will be used.
-	#Optional variables when 'success': [entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
-	#提示内容，留空将使用内置提示。
-	#success时可选变量：[entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
-	sweepWarningContent = "{\"fail\":\"§r§e香草酱什么也没吃到，失落地离开了。\",\"success\":\"§r§e香草酱吃掉了[itemCount]个物品与[entityCount]个实体，并满意地离开了。\",\"1\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"2\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"3\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"4\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"5\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"10\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\",\"30\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\",\"60\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\"}"
-	#Entities will not be cleaned up if they are in these blocks.
-	#Allow blocks with states, such as: minecraft:lava[level=0], immersiveengineering:conveyor_basic.
-	#实体处于该方块中时不会被清理。
-	#支持带状态的方块id，如：minecraft:lava[level=0]、immersiveengineering:conveyor_basic
-	safeBlocks = ["immersiveengineering:conveyor_basic", "immersiveengineering:conveyor_covered", "immersiveengineering:conveyor_dropper", "immersiveengineering:conveyor_droppercovered", "immersiveengineering:conveyor_extract", "immersiveengineering:conveyor_extractcovered", "immersiveengineering:conveyor_redstone", "immersiveengineering:conveyor_splitter", "immersiveengineering:conveyor_splittercovered", "immersiveengineering:conveyor_vertical", "immersiveengineering:conveyor_verticalcovered"]
-	#Entities will not be cleaned up if they are on these blocks.
-	#Allow blocks with states, such as: minecraft:lava[level=0].
-	#实体处于该方块上时不会被清理。
-	#支持带状态的方块id，如：minecraft:lava[level=0]
-	safeBlocksBelow = []
-	#Entities will not be cleaned up if they are below these blocks.
-	#Allow blocks with states, such as: minecraft:lava[level=0].
-	#实体处于该方块下时不会被清理。
-	#支持带状态的方块id，如：minecraft:lava[level=0]
-	safeBlocksAbove = []
-	#Entities located within safe blocks will still be cleared if their count in a single chunk exceeds the specified limit.
-	#即使实体处于安全方块，若其数量在单个区块中超过指定值，也将被清理。
-	#Range: > 1
-	safeBlocksEntityLimit = 250
-	#The maximum number of items in the cache.
-	#缓存区物品限制。
-	#Range: > 1
-	cacheLimit = 5000
-
 #Custom Command Settings, don't add prefix '/'
 #自定义指令，请勿添加前缀'/'
 [command]
@@ -108,4 +69,62 @@
 	#Enable or disable the concise version of the 'Delay sweep' command.
 	#是否启用无前缀版本的 '延迟本次清理' 指令。
 	conciseDelaySweep = false
+
+#Base Settings
+#基础设置
+[base]
+
+	#Dustbin and Cache
+	#垃圾箱与缓存区
+	[base.dustbin]
+		#The maximum number of pages in the virtual dustbin.
+		#虚拟垃圾箱页数限制。
+		#Range: 1 ~ 65536
+		dustbinPageLimit = 1
+		#The maximum number of items in the cache.
+		#缓存区物品限制。
+		#Range: > 1
+		cacheLimit = 5000
+
+	#Regularly Sweep
+	#定时清理
+	[base.sweep]
+		#Whether to enable automatic sweeping when there are no players on the server.
+		#服务器没人时是否启用自动打扫。
+		sweepWhenNoPlayer = false
+		#Notification message. Leave empty to use the built-in prompt.
+		#Optional variables when 'success': [entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
+		#提示内容，留空将使用内置提示。
+		#success时可选变量：[entityCount], [itemCount], [recycledItemCount], [recycledEntityCount]
+		sweepWarningContent = "{\"error\":\"§r§e香草酱坏掉了，这绝对不是香草酱的错！\",\"fail\":\"§r§e香草酱什么也没吃到，失落地离开了。\",\"success\":\"§r§e香草酱吃掉了[itemCount]个物品与[entityCount]个实体，并满意地离开了。\",\"1\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"2\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"3\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"4\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"5\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来！\",\"10\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\",\"30\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\",\"60\":\"§r§e饥肠辘辘的香草酱将会在§r§e%s§r§e秒后到来。\"}"
+		#Notification sounds, separated by commas. Leave empty to disable this feature.
+		#提示语音，多个逗号分隔，留空禁用该功能。
+		sweepWarningVoice = "{\"error\":\"aotake_sweep:error\",\"fail\":\"aotake_sweep:fail\",\"success\":\"aotake_sweep:success\",\"5\":\"aotake_sweep:agog\",\"30\":\"aotake_sweep:hungry\"}"
+		#The volume of the notification sound.
+		#提示语音音量。
+		#Range: 0 ~ 100
+		sweepWarningVoiceVolume = 33
+
+	#Safe Blocks
+	#安全方块
+	[base.safe]
+		#Entities will not be cleaned up if they are in these blocks.
+		#Allow blocks with states, such as: minecraft:lava[level=0], immersiveengineering:conveyor_basic.
+		#实体处于该方块中时不会被清理。
+		#支持带状态的方块id，如：minecraft:lava[level=0]、immersiveengineering:conveyor_basic
+		safeBlocks = []
+		#Entities will not be cleaned up if they are on these blocks.
+		#Allow blocks with states, such as: minecraft:lava[level=0].
+		#实体处于该方块上时不会被清理。
+		#支持带状态的方块id，如：minecraft:lava[level=0]
+		safeBlocksBelow = []
+		#Entities will not be cleaned up if they are below these blocks.
+		#Allow blocks with states, such as: minecraft:lava[level=0].
+		#实体处于该方块下时不会被清理。
+		#支持带状态的方块id，如：minecraft:lava[level=0]
+		safeBlocksAbove = []
+		#Entities located within safe blocks will still be cleared if their count in a single chunk exceeds the specified limit.
+		#即使实体处于安全方块，若其数量在单个区块中超过指定值，也将被清理。
+		#Range: > 1
+		safeBlocksEntityLimit = 250
 

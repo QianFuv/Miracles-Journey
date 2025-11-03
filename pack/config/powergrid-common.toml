@@ -1,0 +1,4 @@
+#.
+#Enables extensive logging in different segments of the mod (can cause larger log files and log spam)
+lotsOfLogs = false
+

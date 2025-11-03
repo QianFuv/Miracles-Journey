@@ -1,13 +1,13 @@
 name = "Krypton FNP"
-filename = "Krypton FNP-forge-1.20.1-0.2.23.1-lite.jar"
+filename = "Krypton FNP-forge-1.20.1-0.2.24-lite.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "945163e40fb8a4c6ec1e2c635f5f0a9b74849736"
+hash = "ec5898e60c0f8a3e2767c8fa65176261239ba3dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6988488
+file-id = 7125567
 project-id = 1269169

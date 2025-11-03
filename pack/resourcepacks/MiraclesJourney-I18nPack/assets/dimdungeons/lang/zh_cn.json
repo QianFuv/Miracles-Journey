@@ -311,9 +311,5 @@
     "enemy.dimdungeons.minecraft:piglin2": "猪灵队长",
     "enemy.dimdungeons.minecraft:piglin_brute2": "堡垒之王",
     "enemy.dimdungeons.minecraft:phantom2": "夜魇",
-    "enemy.dimdungeons.minecraft:magma_cube2": "下界史莱姆",
-    "Key": ", // THIS IS UNUSED!",
-    "dimdungeons": "activate_key\": \"激活钥匙",
-    "portal": "Paper",
-    "enemy.dimdungeons.minecraft": "magma_cube2\": \"下界史莱姆"
+    "enemy.dimdungeons.minecraft:magma_cube2": "下界史莱姆"
 }

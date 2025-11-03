@@ -62,4 +62,7 @@ EnablesMoteItemHandler = true
 #<Misc>
 #Player references are always valid even in another dimension
 TrueNameCrossDimension = true
+#<Property>
+#making property iotas directly execute what's inside when themselves executed
+ExecutablePropertyIota = true
 

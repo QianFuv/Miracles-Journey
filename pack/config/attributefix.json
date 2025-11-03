@@ -121,6 +121,17 @@
         "value": 2000
       }
     },
+    "goety:frost_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "eidolon:chanting_speed": {
       "enabled": false,
       "min": {
@@ -174,6 +185,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "goety:spell_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "additionalentityattributes:generic.magic_protection": {
@@ -374,6 +396,17 @@
         "value": 100
       }
     },
+    "goety:casting_speed": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "caelus:fall_flying": {
       "enabled": false,
       "min": {
@@ -526,6 +559,17 @@
       "max": {
         "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "goety:spell_velocity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "shoving_shovels:shove_damage": {
@@ -737,6 +781,17 @@
         "value": 2048
       }
     },
+    "goety:soul_discount": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "obscure_api:healing_power": {
       "enabled": false,
       "min": {
@@ -891,6 +946,17 @@
         "value": 6
       }
     },
+    "goety:void_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "irons_spellbooks:ender_spell_power": {
       "enabled": false,
       "min": {
@@ -957,7 +1023,29 @@
         "value": 100
       }
     },
+    "goety:spell_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "malum:spirit_spoils": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "goety:nether_potency": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1098,6 +1186,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "goety:wind_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "attributeslib:arrow_damage": {
@@ -1342,6 +1441,17 @@
         "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
       }
     },
+    "goety:storm_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "hexoverpowered:personal_media_regen": {
       "enabled": false,
       "min": {
@@ -1373,6 +1483,17 @@
       "max": {
         "default": 2147483647,
         "value": 2147483647
+      }
+    },
+    "goety:abyss_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -1461,6 +1582,28 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "goety:cooldown_discount": {
+      "enabled": false,
+      "min": {
+        "default": -1,
+        "value": -1
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "goety:spell_radius": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "irons_spellbooks:evocation_magic_resist": {
@@ -1870,6 +2013,17 @@
         "value": 10
       }
     },
+    "goety:geomancy_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "irons_spellbooks:eldritch_spell_power": {
       "enabled": false,
       "min": {
@@ -1963,6 +2117,17 @@
       "min": {
         "default": 1,
         "value": 1
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "goety:spell_burning": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 2048,
@@ -2068,6 +2233,17 @@
         "value": 100
       }
     },
+    "goety:wild_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "modulargolems:golem_sweep": {
       "enabled": false,
       "min": {
@@ -2121,6 +2297,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "goety:spell_duration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     },
     "irons_spellbooks:ender_magic_resist": {
@@ -2264,6 +2451,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "goety:necromancy_potency": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
       }
     }
   }

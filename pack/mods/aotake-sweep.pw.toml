@@ -1,13 +1,13 @@
 name = "Aotake Sweep (竹叶清)"
-filename = "aotake_sweep-forge-1.20.1-1.0.5.jar"
+filename = "aotake_sweep-forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0b46f2d01b7860827079ca1e74ef48c001300e87"
+hash = "242cc36ae765f0e5bf14cdb0f15553437fbc709d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6825339
+file-id = 7080823
 project-id = 1299032

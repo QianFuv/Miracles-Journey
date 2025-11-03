@@ -403,3 +403,25 @@ subterranodonFlightMeterUsageSpeed = 1.0
 	#Range: 1 ~ 1000000
 	configVersion = 1
 
+["Gobthumper Options"]
+	#----------------------------------
+	#
+	# Will only spawn a Gum Worm in a Candy Cavity biome.
+	# Attracting nearby Gum Worm behavior is unchanged.
+	#
+	gobthumperSpawnsWormsFromCandyCavityBiome = false
+	#----------------------------------
+	#
+	# Disabled the Gum Worm spawning ability of Gobthumper.
+	# Attracting nearby Gum Worm behavior is unchanged.
+	#
+	gobthumperDisableWormSpawning = false
+
+["Biome Treat Options"]
+	#----------------------------------
+	#
+	# Whether Biome Treat can be eaten while player is not hungry.
+	# Might help allowing Biome Treat to be eaten when hunger overhaul mods are on.
+	#
+	CanEatBiomeTreatWhenNotHungry = false
+

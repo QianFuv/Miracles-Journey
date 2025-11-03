@@ -1,13 +1,13 @@
 name = "Farming for Blockheads"
-filename = "farmingforblockheads-forge-1.20.1-14.0.3.jar"
+filename = "farmingforblockheads-forge-1.20.1-14.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d2889d8c24e08ee415810a15864dbb4386d7979c"
+hash = "c9443039b15b8c1e1bcfe32ccf5fca78234d209b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6973103
+file-id = 7048376
 project-id = 261924

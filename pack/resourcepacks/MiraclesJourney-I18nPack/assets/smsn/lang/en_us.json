@@ -1,51 +1,92 @@
-{
-  "modmenu.nameTranslation.smsn": "Save My Shit Network",
-  "modmenu.descriptionTranslation.smsn": "Block common mods from connecting to the internet without affecting the mods' functionality, preventing slow loading or game crashes caused by network issues.",
-  "gui.smsn.missing_cloth_config.title": "Couldn't open in-game configuration",
-  "gui.smsn.missing_cloth_config.message": "You'll need to install the Cloth Config mod to use the in-game configuration feature.\nClick the button below to jump to the download page",
-  "gui.smsn.missing_cloth_config.modrinth_download": "Modrinth",
-  "gui.smsn.missing_cloth_config.curseforge_download": "CurseForge",
-  "config.smsn.title": "Save My Shit Network",
-  "config.smsn.sponsor.description": "❤ Enjoy %1$s ? Support the author on %2$s ! ❤",
-  "config.smsn.sponsor.description.afdian": "AFDIAN",
-  "config.smsn.@switch.true": "§aAllow",
-  "config.smsn.@switch.false": "§cNot allowed",
-  "config.smsn.@switch.enable": "§aEnable",
-  "config.smsn.@switch.disabled": "§cDisabled",
-  "config.smsn.general": "General",
-  "config.smsn.general.aetherMoaSkinsFeature": "The Aether MOA Skins Feature",
-  "config.smsn.general.quarkContributorCheck": "Quark Contributor Check",
-  "config.smsn.general.ipnUpdateCheckAndUserTracking": "Inventory Profiles Next update Check & user tracking",
-  "config.smsn.general.xaeroMapPatreonCheck": "Xaero's Maps Patreon Check",
-  "config.smsn.general.xaeroMapVersionCheck": "Xaero's Maps Update Check",
-  "config.smsn.general.alexModsContributorCheck": "Alex's Mods Contributor Check",
-  "config.smsn.general.petrolparkBadgeCheck": "Petrolpark's Mods Badges Check",
-  "config.smsn.general.obscureModsCheck": "Obscure API Mods Check",
-  "config.smsn.general.supplementariesCreditsCheck": "Supplementaries supporters check",
-  "config.smsn.general.botaniaContributorCheck": "Botania contributor check",
-  "config.smsn.general.bagusLibSupportersCheck": "Bagus Lib supporters check",
-  "config.smsn.general.immersiveEngineeringSpecialRevolvers": "ImmersiveEngineering special revolver request",
-  "config.smsn.general.enigmaticLegacyUpdateCheck": "Enigmatic Legacy Update check",
-  "config.smsn.general.enigmaticLegacyFetchDevotedBelievers": "Enigmatic Legacy Fetch \"DevotedBelievers\"",
-  "config.smsn.general.placeboTrails": "Placebo Patreon Trails request",
-  "config.smsn.general.placeboWings": "Placebo Patreon Wings request",
-  "config.smsn.general.irisUpdateCheck": "Iris Shaders update check",
-  "config.smsn.general.adAstraStation": "Ad Astra Stations",
-  "config.smsn.general.exposureGoldenCameraSkin": "Exposure golden camera skin request",
-  "config.smsn.general.titaniumReward": "Titanium reward request",
-  "config.smsn.general.ribbitsSupporterHat": "Ribbits supporter hat request",
-  "config.smsn.general.mruApi": "M.R.U API request",
-  "config.smsn.general.projecteUUIDCheck": "ProjectE UUID request",
-  "config.smsn.general.baCheckUpdate": "Blue Archives Craft update check",
-  "config.smsn.general.hexereiSupporter": "Hexerei supporter request",
-  "config.smsn.general.voidscapeDonator": "Voidscape donator request",
-  "config.smsn.general.tenshilibPatreon": "TenshiLib Patreon check",
-  "config.smsn.general.additionalStructuresSupporterCheck": "Additional Structures supporters check",
-  "config.smsn.qol": "QoL",
-  "config.smsn.qol.citadelAprilFoolsContent": "Citadel April Fools Content",
-  "config.smsn.qol.immersiveCavesDiscordMessage": "Immersive Caves discord message",
-  "config.smsn.qol.quarkCelebration": "Quark \"Celebration\"",
-  "config.smsn.qol.quarkCelebration.ShowAll": "Show All",
-  "config.smsn.qol.quarkCelebration.HideAll": "Hide All",
-  "config.smsn.qol.quarkCelebration.HideLGBTQIA": "Hide LGBTQIA+"
-}
+"modmenu.nameTranslation.smsn": "Save My Shit Network"
+"modmenu.descriptionTranslation.smsn": "Block common mods from connecting to the internet
+  without affecting the mods' functionality, preventing slow loading or game crashes
+  caused by network issues."
+"gui.smsn.missing_cloth_config.title": "Couldn't open in-game configuration"
+"gui.smsn.missing_cloth_config.message": "You'll need to install the Cloth Config
+  mod to use the in-game configuration feature.\nClick the button below to jump to
+  the download page"
+"gui.smsn.missing_cloth_config.modrinth_download": "Modrinth"
+"gui.smsn.missing_cloth_config.curseforge_download": "CurseForge"
+"config.smsn.sponsor.description": "❤ Enjoy %1$s ? Support the author on %2$s ! ❤"
+"config.smsn.sponsor.description.afdian": "AFDIAN"
+"config.smsn.@switch.true": "§aAllow"
+"config.smsn.@switch.false": "§cNot allowed"
+"config.smsn.@switch.enable": "§aEnable"
+"config.smsn.@switch.disabled": "§cDisabled"
+"config.smsn.general": "General"
+"config.smsn.general.aetherMoaSkinsFeature": "The Aether MOA Skins Feature"
+"config.smsn.general.quarkContributorCheck": "Quark Contributor Check"
+"config.smsn.general.ipnUpdateCheckAndUserTracking": "Inventory Profiles Next update
+  Check & user tracking"
+"config.smsn.general.xaeroMapPatreonCheck": "Xaero's Maps Patreon Check"
+"config.smsn.general.xaeroMapVersionCheck": "Xaero's Maps Update Check"
+"config.smsn.general.alexModsContributorCheck": "Alex's Mods Contributor Check"
+"config.smsn.general.petrolparkBadgeCheck": "Petrolpark's Mods Badges Check"
+"config.smsn.general.obscureModsCheck": "Obscure API Mods Check"
+"config.smsn.general.supplementariesCreditsCheck": "Supplementaries supporters check"
+"config.smsn.general.botaniaContributorCheck": "Botania contributor check"
+"config.smsn.general.bagusLibSupportersCheck": "Bagus Lib supporters check"
+"config.smsn.general.immersiveEngineeringSpecialRevolvers": "ImmersiveEngineering
+  special revolver request"
+"config.smsn.general.enigmaticLegacyUpdateCheck": "Enigmatic Legacy Update check"
+"config.smsn.general.enigmaticLegacyFetchDevotedBelievers": "Enigmatic Legacy Fetch
+  \"DevotedBelievers\""
+"config.smsn.general.placeboTrails": "Placebo Patreon Trails request"
+"config.smsn.general.placeboWings": "Placebo Patreon Wings request"
+"config.smsn.general.irisUpdateCheck": "Iris Shaders update check"
+"config.smsn.general.adAstraStation": "Ad Astra Stations"
+"config.smsn.general.exposureGoldenCameraSkin": "Exposure golden camera skin request"
+"config.smsn.general.titaniumReward": "Titanium reward request"
+"config.smsn.general.ribbitsSupporterHat": "Ribbits supporter hat request"
+"config.smsn.general.mruApi": "M.R.U API request"
+"config.smsn.general.projecteUUIDCheck": "ProjectE UUID request"
+"config.smsn.general.hexereiSupporter": "Hexerei supporter request"
+"config.smsn.general.voidscapeDonator": "Voidscape donator request"
+"config.smsn.general.tenshilibPatreon": "TenshiLib Patreon check"
+"config.smsn.general.additionalStructuresSupporterCheck": "Additional Structures supporters
+  check"
+"config.smsn.qol": "QoL"
+"config.smsn.qol.citadelAprilFoolsContent": "Citadel April Fools Content"
+"config.smsn.qol.immersiveCavesDiscordMessage": "Immersive Caves discord message"
+"config.smsn.qol.quarkCelebration": "Quark \"Celebration\""
+"config.smsn.qol.quarkCelebration.ShowAll": "Show All"
+"config.smsn.qol.quarkCelebration.HideAll": "Hide All"
+"config.smsn.qol.quarkCelebration.HideLGBTQIA": "Hide LGBTQIA+"
+"smsn.mod.quark": "Quark"
+"smsn.mod.alexscaves": "Alex's Caves"
+"smsn.mod.xaerominimap": "Xaero's Minimap"
+"smsn.mod.enigmaticlegacy": "Enigmatic Legacy"
+"smsn.mod.tram_additions": "Tram Additions"
+"smsn.mod.ribbits": "Ribbits"
+"smsn.mod.citadel": "Citadel"
+"smsn.mod.xaeroworldmap": "Xaero's World Map"
+"smsn.mod.placebo": "Placebo"
+"smsn.mod.blueprint": "Blueprint"
+"config.smsn.mixins": "Mixins"
+"smsn.mod.nitrogen": "Nitrogen"
+"smsn.mod.mru": "Mineblock's Repeated Utilities"
+"smsn.mod.botania": "Botania"
+"smsn.mod.inventoryprofilesnext": "Inventory Profiles Next"
+"smsn.mod.voidscape": "Voidscape"
+"config.smsn.mixins.modIdTooptip": "Mod ID: §6%s"
+"config.smsn.mixins.modLoaded": " §aLoaded"
+"smsn.mod.iris": "Iris Shaders"
+"config.smsn.@title": "Save My Shit Network"
+"config.smsn.mixins.@description": "§eDisabling the relevant Mixins will cause the
+  associated features to stop working"
+"smsn.mod.exposure": "Exposure"
+"smsn.mod.additionalstructures": "Additional Structures"
+"smsn.mod.immersivecaves": "Immersive Caves"
+"smsn.mod.immersiveengineering": "ImmersiveEngineering"
+"smsn.mod.tenshilib": "TenshiLib"
+"smsn.mod.projecte": "ProjectE"
+"smsn.mod.bagus_lib": "Bagus Lib"
+"smsn.mod.supplementaries": "Supplementaries"
+"smsn.mod.ad_astra": "Ad Astra"
+"smsn.mod.titanium": "Titanium"
+"config.smsn.unsupported.description": "§6§lUnsupported field type: %s"
+"config.smsn.general.createTramAdditionsTTS": "Create Tram Additions TTS"
+"smsn.mod.obscure_api": "Obscure API"
+"smsn.mod.petrolpark": "Petrolpark Library"
+"smsn.mod.hexerei": "Hexerei"

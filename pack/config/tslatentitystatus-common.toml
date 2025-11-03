@@ -67,6 +67,8 @@
 	#Set how opaque the background behind the text on TES bars, if a render type is set that renders text
 	#Range: 0.0 ~ 1.0
 	hudBarFontBackingOpacity = 0.5
+	#Whether the TES HUD should render the entity's mod ID under its name
+	hudEntityNamespace = false
 
 ["In-World Bars Settings"]
 	#Whether TES should do in-world entity status bars
@@ -124,6 +126,11 @@
 	#Set a manual vertical offset for the TES in-world HUD (in blocks) in the event of other mods doing overhead rendering
 	#Range: 1.401298464324817E-45 ~ 3.4028234663852886E38
 	inWorldHudManualVerticalOffset = 1.401298464324817E-45
+	#Set the distance in which you can be for the 'NEARBY' config activation values to take effect
+	#Range: 0.0 ~ 1024.0
+	inWorldHUDActivationDistance = 16.0
+	#Whether the in-world entity status HUD should render the entity's mod ID under its name
+	inWorldHudEntityNamespace = false
 
 ["Particle Settings"]
 	#Whether TES should do particles for various status changes such as damage dealt or health healed

@@ -1,13 +1,13 @@
 name = "Peruvian's Delight"
-filename = "peruviansdelight-1.20.1-1.2.1.jar"
+filename = "peruviansdelight-1.20.1-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ccd3e441ef0614a1db70c82238a4ebc4e1e1cee3"
+hash = "068fc33ee18a55751e4ca3c3f0f512a9fb28cd37"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6946966
+file-id = 7092910
 project-id = 1325695

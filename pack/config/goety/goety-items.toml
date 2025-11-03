@@ -246,6 +246,8 @@
 		#Define how much knockback resistance each armor piece provides, Default: 0.0
 		#Range: 0.0 ~ 1.7976931348623157E308
 		cursedKnightKnockResist = 0.0
+		#Whether armor pieces don't break but no longer provide armor, Default: true
+		cursedKnightPersist = true
 
 		[Armor."Cursed Knight Armor"."Armor Points"]
 			#Define how much armor points wearing the Boots provides, Default: 2
@@ -274,6 +276,8 @@
 		#Define how much knockback resistance each armor piece provides, Default: 0.0
 		#Range: 0.0 ~ 1.7976931348623157E308
 		cursedPaladinKnockResist = 0.0
+		#Whether armor pieces don't break but no longer provide armor, Default: true
+		cursedPaladinPersist = true
 
 		[Armor."Cursed Paladin Armor"."Armor Points"]
 			#Define how much armor points wearing the Boots provides, Default: 3
@@ -302,6 +306,8 @@
 		#Define how much knockback resistance each armor piece provides, Default: 0.0
 		#Range: 0.0 ~ 1.7976931348623157E308
 		blackIronKnockResist = 0.0
+		#Whether armor pieces don't break but no longer provide armor, Default: true
+		blackIronPersist = true
 
 		[Armor."Black Iron Armor"."Armor Points"]
 			#Define how much armor points wearing the Boots provides, Default: 2

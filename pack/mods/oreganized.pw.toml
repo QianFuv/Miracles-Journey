@@ -1,13 +1,13 @@
 name = "Oreganized"
-filename = "Oreganized 1.20.1-4.2.4.jar"
+filename = "Oreganized 1.20.1-4.2.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1edf7cf09936f9408f1642e50ee91f504381f627"
+hash = "edd2c01c4d618e6acac11d1b7ce9a454e420d248"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6968419
+file-id = 7076964
 project-id = 769203
