@@ -43,3 +43,19 @@
 - Packwiz
 - Free File Sync
 - Graalvm JDK 21
+
+## 📈 统计
+
+### 星标
+
+<a href="https://www.star-history.com/#QianFuv/Miracles-Journey&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=QianFuv/Miracles-Journey&type=date&legend=top-left" />
+ </picture>
+</a>
+
+### 看板
+
+![](https://repobeats.axiom.co/api/embed/ee4c83d477ee6af493358139b7d9ad2bd0e28b4b.svg)
