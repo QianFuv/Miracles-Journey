@@ -1,13 +1,13 @@
 name = "Collector's Reap"
-filename = "collectorsreap-1.20.1-1.4.1.jar"
+filename = "collectorsreap-1.20.1-1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c9112be8d920941cc9f2bec6f18a20a8447aa123"
+hash = "34d5ee122221e44914ad2239049c91996939658c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6984842
+file-id = 7187709
 project-id = 807101

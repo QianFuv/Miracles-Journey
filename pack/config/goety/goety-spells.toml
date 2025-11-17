@@ -1603,6 +1603,34 @@
 		#Range: 1.0 ~ 1.7976931348623157E308
 		razorWindDamage = 6.0
 
+	[Spells."Thunderstorm Spell"]
+		#Thunderstorm Spell Cost, Default: 64
+		#Range: > 0
+		thunderstormCost = 64
+		#Time to cast Thunderstorm Spell, Default: 60
+		#Range: 0 ~ 72000
+		thunderstormTime = 60
+		#Thunderstorm Spell Cooldown, Default: 300
+		#Range: > 0
+		thunderstormCoolDown = 300
+		#How much base damage Thunderstorm deals, Default: 5.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		thunderstormDamage = 5.0
+
+	[Spells."Void Shock Spell(NYI)"]
+		#Void Shock Spell Cost, Default: 32
+		#Range: > 0
+		voidShockCost = 32
+		#Time to cast Void Shock Spell, Default: 35
+		#Range: 0 ~ 72000
+		voidShockDuration = 35
+		#Void Shock Spell Cooldown, Default: 100
+		#Range: > 0
+		voidShockCoolDown = 100
+		#How much base damage the Void Shocks deals, Default: 6.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		voidShockDamage = 6.0
+
 ["Servant Limits"]
 	#Number of Spider Servants that an individual player can have in total, Default: 32
 	#Range: > 1

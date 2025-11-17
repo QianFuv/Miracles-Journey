@@ -1,13 +1,13 @@
 name = "ThreatenGL"
-filename = "threatengl-forge-2.0.4-release.9.jar"
+filename = "threatengl-forge-2.0.4-release.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5987f9675fe24e7c8c62d9ed6efa99059348fb8b"
+hash = "79478bbc21b1258b64d22dacaac6177618c1ed9d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6793015
+file-id = 7179999
 project-id = 1288635

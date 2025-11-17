@@ -1,13 +1,13 @@
 name = "Flowerary"
-filename = "flowerary-1.20.1-1.0.0.jar"
+filename = "flowerary-1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bff9cd03aed1cb66ba686b716200c458fdc7eb94"
+hash = "28bde2a5c52a7f2f202f0125295808894bf31196"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6563174
+file-id = 7154561
 project-id = 1272888

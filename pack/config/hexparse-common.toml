@@ -21,6 +21,10 @@ MaxBlankLines = 0
 ParserBaseCost = 0
 #display colorful nested lists and intro/retros
 ShowColorfulNested = true
-#display unsupported iota's inner data as `UNKNOWN(serialized NBT)` rather than simple `UNKNOWN`
-ShowUnknownNBT = true
+#how to handle unsupported iota's inner data
+#KEEP_NBT(default): save whole NBT as Base64 string;
+#SHOW_NBT: output `UNKNOWN(serialized NBT)`;
+#SIMPLE: show `UNKNOWN` only
+#Allowed Values: SIMPLE, SHOW_NBT, KEEP_NBT
+ShowUnknownNBT = "KEEP_NBT"
 

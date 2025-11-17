@@ -5,7 +5,23 @@
 	#Enable Veggies Delight Wandering Trader trades
 	enableWanderingTrades = true
 
-["Village Settings"]
-	#Enable Veggies Delight village structures
-	generateVillageStructures = true
+["Structure Settings"]
+	#Enable Veggies Delight to add new village structures (disables all compat if false)
+	generateVeggiesDelightStructures = true
+
+	["Structure Settings"."Village Settings"]
+		#Enable generation of Veggies Delight structures in Vanilla villages
+		generateVanillaVillageStructures = true
+
+	["Structure Settings"."Compat Settings"]
+		#Enable generation of Veggies Delight structures in Atmospheric villages
+		generateAtmosphericVillageStructures = true
+		#Enable generation of Veggies Delight structures in Nature's Spirit villages
+		generateNatureSpiritVillageStructures = true
+		#Enable generation of Veggies Delight structures in Repurposed Structures villages
+		generateRepurposedStructuresVillageStructures = true
+		#Enable generation of Veggies Delight structures in Windswept villages
+		generateWindsweptVillageStructures = true
+		#Enable generation of Veggies Delight structures in Explorify's Dark Forest Settlement
+		generateExplorifyStructures = true
 

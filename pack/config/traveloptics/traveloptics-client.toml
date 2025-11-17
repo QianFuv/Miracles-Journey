@@ -10,6 +10,8 @@
 		#Activates this mod's screen flashing implementation || Default: true
 		#NOTE: This mod also uses screen flash from other dependencies. So disabling this only disable the screen flash happens cause of this mod. Other mod screen flash that T.O uses will still be active, such as Annihilation flash effect.
 		activateScreenFlash = true
+		#Controls if the Boss Info Panels should auto scale GUI to 2x when they are opened || GUI revert back to original user settings when Boss Info is closed || Default: true
+		letBossScreenAutoAdjustUIScale = true
 
 	[client.plasma_fuel]
 		#X Offset || Default 0

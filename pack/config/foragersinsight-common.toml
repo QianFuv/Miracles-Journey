@@ -9,3 +9,7 @@
 	#Range: -1.5 ~ 1.0
 	"Sappy Birch Mutations" = 0.25
 
+["Flavor Text"]
+	#Enable Flavor Text tooltips.
+	"Flavor Text" = false
+

@@ -139,3 +139,11 @@
 		#Range: 0.0 ~ 1.0
 		wateryWhispersManaRegen = 0.15
 
+	[staff_spellbooks.diamanticArchive]
+		#Max Mana || ADDITION || Default 300.0
+		#Range: 50.0 ~ 1000.0
+		max_mana = 200.0
+		#Lightning Spell Power || MULTIPLY_BASE || Default 0.3
+		#Range: 0.0 ~ 1.0
+		lightning_spell_power = 0.3
+

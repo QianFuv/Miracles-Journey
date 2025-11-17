@@ -12,6 +12,12 @@
 	itemsRepairSouls = 5
 	#Fire Spawn Cage are enabled, Default: true
 	fireSpawnCage = true
+	#How many servants an Esoteric Tesseract can contain, Default: 16
+	#Range: > 1
+	tesseractCapacity = 16
+	#How many uses before Tesseract is disabled, Default: 16
+	#Range: > 1
+	tesseractDurability = 16
 
 [Curios]
 	#Show gloves in first person, Default: true

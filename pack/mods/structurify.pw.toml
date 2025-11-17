@@ -1,13 +1,13 @@
 name = "Structurify"
-filename = "structurify-forge-1.0.21+mc1.20.1.jar"
+filename = "structurify-forge-2.0.5a+mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f184257fad61df437f1e54b9c32d98649d7be996"
+hash = "ad57aa4563fbc51636bf1fdfa5a324f892f593dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6858579
+file-id = 7207337
 project-id = 1087551

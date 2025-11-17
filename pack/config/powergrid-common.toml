@@ -1,4 +1,12 @@
 #.
 #Enables extensive logging in different segments of the mod (can cause larger log files and log spam)
 lotsOfLogs = false
+#.
+#Maximum solver iterations for networks without dynamic residuals
+#Range: > -2147483648
+solverSimpleMaxIterations = 200
+#.
+#Maximum solver iterations for networks with dynamic residuals
+#Range: > -2147483648
+solverComplexMaxIterations = 200
 

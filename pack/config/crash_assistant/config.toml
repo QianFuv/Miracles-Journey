@@ -15,11 +15,6 @@
 	kill_old_app = true
 	#If options.txt doesn't exist, the default language will be used.
 	default_lang = "en_us"
-	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
-	blacklisted_logs = []
-	#Before uploading the first log, requires the user to accept the privacy policy.
-	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
-	enable_privacy_policy_acceptance = true
 	#By default, crash assistant will get the value for the current language from the overrides folder, then from the jar.
 	#By changing this option, it will first try to get it from the current overrides, then (if no override exists for this language)
 	#from the override for the language specified here, and only then from the jar language.
@@ -31,6 +26,9 @@
 	#This option can prevent this and enable individual upload buttons immediately after crash.
 	#However can confuse users and make them clicking individual upload buttons instead of Upload All Button.
 	prevent_upload_buttons_delay = false
+	#Before uploading the first log, requires the user to accept the privacy policy.
+	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
+	enable_privacy_policy_acceptance = true
 	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
 	#This will prevent this by replacing dot's in them to dot-like symbol.
 	#Anti censoring only versions, IP's are kept censored.
@@ -44,6 +42,8 @@
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
 	#Usage: ["CRASH_REPORT", "LOG"]
 	logs_priority_overrides = []
+	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
+	blacklisted_logs = []
 
 #Here you can change text of lang placeHolders.
 #Also you can change any text in lang files.
@@ -89,6 +89,19 @@
 	#Can be needed to be disabled if issues are reported to something not supporting ANSI codeblocks, like GitHub.
 	color_message = true
 
+#Settings of links copied by Upload and copy link buttons
+[copied_links]
+	#With this option, you can customize how single links from individual upload buttons are copied, there
+	#log of small size was uploaded to a single link.
+	#For example, leave just $LINK$ to copy just link.
+	single_link = "$LOG_NAME$$FILE_NAME$: $LINK$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user only decided to copy only one of them (not message with both).
+	single_link_split = "$LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
+	both_links_split = "$LOG_NAME$[$FILE_NAME$ <TOLOWER>$MSG_LANG.gui.split_log_dialog_head$</TOLOWER>](<$LINK_FIRST_LINES$>) / [<TOLOWER>$MSG_LANG.gui.split_log_dialog_tail$</TOLOWER>](<$LINK_LAST_LINES$>) $TOO_BIG_REASONS$"
+
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.
 #Also you can see diff by running '/crash_assistant modlist diff' command.
@@ -116,6 +129,40 @@
 	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
 	add_modlist_txt_as_log = true
 
+#Settings of too many changes warning feature.
+#Notifies end users of the modpack and saying they made too many changes to the modpack.
+#Not displayed to the modpack creators.
+[too_many_changes_warning]
+	#Set to the positive integer to enable feature. Set to negative integer to disable.
+	#How many changes end user should make for warning to be displayed.
+	count = -1
+	#With this option, you can select the formulation of this warning, currently supported:
+	#   - NOTIFY: Just saying to the end user that what they made many changes and adding random mods or clicking
+	#the "Update All" button is not a good idea without proper testing. It is expected to crash.
+	#   - DROP_SUPPORT: Saying what you are not providing support for that amount of changes, suggesting the end user to
+	#re-install modpack or they are on their own with that amount of changes.
+	formulation_type = "NOTIFY"
+
+#Settings of analysis feature.
+#Analysing logs for most common reasons of crashes and displaying recommendations with fixes.
+[analysis]
+	#Enable feature.
+	enabled = true
+	#Here you can disable some Analysis by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.logs_analyser.crash_reasons
+	#For example "Create6Addons"
+	blacklisted_reasons = []
+
+#Settings of analysis tools feature.
+#Here you can enable disable showing some analysis tools fot end user.
+[analysis_tools]
+	#Enable feature.
+	enabled = true
+	#Here you can disable some Analysis tools by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.gui.analysis
+	#For example "MCreatorModDetectorGUI"
+	blacklisted_tools = []
+
 #Settings of '/crash_assistant crash' command feature.
 [crash_command]
 	#Enable feature.
@@ -134,24 +181,10 @@
 	#On first world join of modpack creator if set to false shows greeting, then self enables.
 	shown_greeting = true
 
-#Settings of analysis feature.
-#Analysing logs for most common reasons of crashes and displaying recommendations with fixes.
-[analysis]
-	#Enable feature.
-	enabled = true
-	#Here you can disable some Analysis by class names.
-	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.logs_analyser.crash_reasons
-	#For example "Create6Addons"
-	blacklisted_reasons = []
-
-#Checks crash_assistant compatibility with other incompatible mods.
-#Highly unrecommended to disable!
-[compatibility]
-	#Enable feature.
-	enabled = true
-
 #You can customise GUI with this options.
 [gui_customisation]
+	#Will hide Upload All Button from GUI.
+	disable_upload_all_button = false
 	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
 	show_dont_send_screenshot_of_gui_notice = true
 	#Animate border to request user attention even more.
@@ -169,8 +202,6 @@
 	#Same as upload_all_button_foreground_color, but for Request Help button.
 	#Default for this button is "0_0_178" (dark blue color).
 	request_help_button_foreground_color = "0_0_178"
-	#Will hide Upload All Button from GUI.
-	disable_upload_all_button = false
 	#Same as upload_all_button_font_size, but for Auto-Fix button (in integrated GPU warning).
 	auto_fix_button_font_size = 16
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
@@ -185,17 +216,18 @@
 	#- If you have some long text in the discord description, you will love the small one.
 	#- If the text is short, you will love the large one.
 	modpack_logo_large_mode = false
-	#Hardcode modpack logo size. Default is -1, which means it's calculated automatically.
-	#By default, this should not needed. But if you have heavily customized GUI, you may want to decrease its size, so this option could be needed in such case. 
-	modpack_logo_size = -1
+	#Limit modpack logo height. Default is -1, which means it's calculated automatically.
+	#By default, this should not be needed. But if you have heavily customized GUI or using
+	#a rectangle logo instead of square, you may want to decrease its size, so this option could be needed in such case. 
+	limit_modpack_logo_height = -1
+	#This option would be needed only if you limited modpack logo height.
+	#Otherwise, the logo will consume all available horizontal space.
+	#If true, the logo will be centered. If false, it will be aligned to the top. 
+	modpack_logo_aligned_center = true
 
-#Settings of analysis tools feature.
-#Here you can enable disable showing some analysis tools fot end user.
-[analysis_tools]
+#Checks crash_assistant compatibility with other incompatible mods.
+#Highly unrecommended to disable!
+[compatibility]
 	#Enable feature.
 	enabled = true
-	#Here you can disable some Analysis tools by class names.
-	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.gui.analysis
-	#For example "MCreatorModDetectorGUI"
-	blacklisted_tools = []
 

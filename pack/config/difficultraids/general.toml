@@ -283,16 +283,16 @@
 		enableGrindicator = true
 
 	["Enabled Raiders"."Requires Francis Illagers"]
-		enableOmnillager = true
-		enableFrancisCowboy = true
-		enableThrower = true
-		enableBladeGuard = true
-		enableRunner = true
-		enableDesertIllager = true
-		enableCrindicator = true
-		enableCreakologer = true
-		enableJurgologer = true
-		enableBlackMaster = true
+		enablePatrologer = true
+		enableChefager = true
+		enableFrancisGrindicator = true
+		enableFrancisMage = true
+		enableChefologer = true
+		enablePyrobandit = true
+		enableFireologer = true
+		enableVrincitador = true
+		enableSandologer = true
+		enableGrummicator = true
 
 	["Enabled Raiders"."Requires Earth Mobs"]
 		enableVilerWitch = true
@@ -411,4 +411,24 @@
 		enableFirepowerPourer = false
 		enableOminousBannerProjection = false
 		enableCohortHag = false
+
+	["Enabled Raiders"."Requires NO IXAPI"]
+		#Those settings can be overwritten by NO.IXAPI
+		enableBugler = true
+		enableArmorer = true
+		enableBiologist = true
+		enableAPIHunter = true
+		enableMourner = true
+		#If you enable the following mobs, make sure to enable them in NO.IXAPI config
+		enableAbomination = false
+		enableDrunkenness = false
+		enableFlagman = false
+		enableIntruder = false
+		enableGraveKeeper = false
+
+	["Enabled Raiders"."Requires Roost2"]
+		enableRoostRider = true
+
+	["Enabled Raiders"."Requires Snow's Bosses: Mechasent"]
+		enableMechasent = true
 

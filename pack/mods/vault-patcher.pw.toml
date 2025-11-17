@@ -1,13 +1,13 @@
 name = "Vault Patcher"
-filename = "vaultpatcher-all-1.4.5+2-hotfix.jar"
+filename = "vaultpatcher-all-1.4.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2eb1e29bb27b7f8cc4ece2ebe9e88b8dbd8e3648"
+hash = "f5906562f2beeacd26e32c5266444f601b38d74f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7029418
+file-id = 7146784
 project-id = 967052

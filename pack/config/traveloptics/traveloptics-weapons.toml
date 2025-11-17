@@ -224,3 +224,17 @@
 		#Range: 0.0 ~ 1.0
 		ender_spell_power_new = 0.15
 
+	[current_weapons.galenicPolarizer]
+		#Durability || Default 2250
+		#Range: > 1
+		galenicPolarizerDurability = 2250
+		#Damage || Default 19.0
+		#Range: 0.0 ~ 100.0
+		galenicPolarizerDamage = 19.0
+		#Attack Speed || Default -3.0
+		#Range: -5.0 ~ 5.0
+		galenicPolarizerAttackSpeed = -3.0
+		#Lightning Spell Power || MULTIPLY_BASE || Default 0.20
+		#Range: 0.0 ~ 1.0
+		galenicPolarizerLightningSpellPower = 0.2
+

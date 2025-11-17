@@ -13,4 +13,9 @@ SMALL_GHOST_SPAWN = "14, 1, 3, minecraft:flower_forest, #minecraft:is_forest, #f
 # Default: 10
 # Range: 0 ~ 1000
 GHOSTS_FOLLOW_OWNER_TELEPORT_DISTANCE = 10
+# Kodama spawnrate: [weight, minAmount, maxAmount, biomes and tags... (as many as you want)]
+# 
+# Default: 40, 1, 4, minecraft:birch_forest, minecraft:forest, minecraft:old_growth_spruce_taiga, minecraft:dark_forest
+# Range: -Infinity ~ Infinity
+KODAMA_SPAWN = "40, 1, 4, minecraft:birch_forest, minecraft:forest, minecraft:old_growth_spruce_taiga, minecraft:dark_forest"
 
