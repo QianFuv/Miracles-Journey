@@ -1585,6 +1585,10 @@ file = "config/collectorsreap-common.toml"
 hash = "ddc668d62fac3941471c39227ef5cc9c113c77bf1c7f5d3df86894905e9e50b2"
 
 [[files]]
+file = "config/colorwheel-client.toml"
+hash = "36b5d2eebd3ec8bcade14f6c0798453e3698677d25b3b6c231001579e8250113"
+
+[[files]]
 file = "config/companion-common.yaml"
 hash = "d2699076e6295aefd93532404e9f82608f7180022ce352b36690e66e03f3b85d"
 
@@ -1690,7 +1694,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "22a3cafc8c8ced4ccb461dbd1f84595ce14485759ecfa913ff265fc8f69933ba"
+hash = "5c89e12400eb6dedd42d7fc88a36c4662b3fde4cd03c329dc8eea81e3122247c"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -3818,7 +3822,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "2670999894b34c8394f4a22db4c361842a269700418b05aab6c65f19f004a796"
+hash = "713d2f4231abba4ce366957f4a7be32b4315ed5f88b3059a4045d5565ffe0636"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -4497,7 +4501,7 @@ hash = "d2eab74258132653f9c5a4bc62fc4e9c6f3a1d4f83eb7ab6d90d86240dac51ae"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "0ab0675181752ad4772e125ba57e54e494b8a5fca10a3c7a4d0249f3e8305bae"
+hash = "74b0934462aeda20fe37aaf5661be8a1ba657789dde342e9eb1843d82019c028"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -6121,6 +6125,11 @@ hash = "0314059f7b5b6f2fa99f66d2868f6650054f79e15423c499c680669379666611"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "b4808a23cf5f29baebf6c2f3f40bd974bc32885f26cab39776b68cc60463608a"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
 metafile = true
@@ -7660,11 +7669,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "7cfc0e01f487f385b420af27e14dcdf1ce6f912c9ffecfa933fcdbb93c21e279"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
 metafile = true
 
 [[files]]
@@ -9970,7 +9974,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "cfa6ecde7904d9768056bbd085dd2dd09dd7aa7ab6d3479d724228953ce0b345"
+hash = "46b99b7c5a00dec3474b0ee03652c2a2b6171f157268420918c089b73650068d"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
