@@ -135,6 +135,7 @@
 	["Enabled Raiders"."Requires Werden's Illagers +"]
 		enableSinister = true
 		enableShadomancer = true
+		enableRhinager = true
 
 	["Enabled Raiders"."Requires Guard Illagers"]
 		enableGuardillager = true
@@ -431,4 +432,7 @@
 
 	["Enabled Raiders"."Requires Snow's Bosses: Mechasent"]
 		enableMechasent = true
+
+	["Enabled Raiders"."Requires Ben's Sharks"]
+		enableThalassoger = true
 

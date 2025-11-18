@@ -147,6 +147,12 @@
 			#If Snareling Servants have custom textures, Default: true
 			snarelingServantTexture = true
 
+		[Textures."Summoned Mobs"."Raider Servants"]
+			#If Witch Servants have custom textures, Default: true
+			witchServantTexture = true
+			#If Maverick Servants have custom textures, Default: true
+			maverickServantTexture = true
+
 [Servants]
 	#Whether Servants can teleport to Players, Default: false
 	servantTeleport = false
@@ -196,6 +202,10 @@
 	raiderServantWearArmor = true
 	#Servants, when on guarding mode, will load chunks around it, Default: true
 	guardingServantChunkLoad = true
+	#Servants, when on following mode, will load chunks around it, Default: true
+	followingServantChunkLoad = true
+	#Whether Servants be equipped with Carved Pumpkins, which would allow Servants to not be affected by sunlight, Default: false
+	servantsCanWearPumpkin = false
 
 	[Servants."Undead Servants"]
 		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false

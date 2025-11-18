@@ -601,6 +601,10 @@ file = "config/amethysttoolsmod-common.toml"
 hash = "ba0eab5d5611632158562a36e6afdaef48b8bec40294e780f98db1e7a84faaf3"
 
 [[files]]
+file = "config/aotake_sweep-client.toml"
+hash = "0e28cfd9c000f4e3d0660792bd7e5a1c6bb54e16ba62b54cf3e2dc4d5e33b59c"
+
+[[files]]
 file = "config/aotake_sweep-common.toml"
 hash = "f416f335e7d4ff122ec46d1cbb0a4e528aad734a4a558688c75d50d3276c14ff"
 
@@ -1678,15 +1682,15 @@ hash = "148717a6fa8df51ea0d6f20c130432ee748234c9fde1dde0e03e7222b331f01b"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "189f77c3028bfb6ae9b991d8502d7e827d7f5b1f415830e16624827916e74551"
+hash = "24a5d67a8ed95e70d2597e853dbcf675d57c7c9c26b3f1b499f05994bff3751e"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/README.md"
-hash = "0ec3212cd18cc14784ff5ba19e1ed52c855ff5bf4f5c9736e13905a16ad68a3a"
+hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "0d5eb7930bc79e8feee20ae8002abaca4ad5c9df87f2c6268144e93e5d570d57"
+hash = "22a3cafc8c8ced4ccb461dbd1f84595ce14485759ecfa913ff265fc8f69933ba"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -1906,7 +1910,7 @@ hash = "7176369fdecaa8eef8ec0bef195646c4bdeaf05f66c927f8c2566709fe681a28"
 
 [[files]]
 file = "config/difficultraids/general.toml"
-hash = "4ae9e349e155e6f7bf787880039e7cd2793905eeefe913c0fd6e3ceb8edaf772"
+hash = "71bc08cd3042bb416df2527da00dffeac5dac1bfb1a0db921bbee703c1e634cf"
 
 [[files]]
 file = "config/difficultraids/raid-default.toml"
@@ -2358,7 +2362,7 @@ hash = "50d24dcd5ac9ffe8f1e60cc69f188a755cc4642d6f896332439f5468a76a4b70"
 
 [[files]]
 file = "config/euphoria_patcher.properties"
-hash = "ae62b9ebc8fffe82af2e4162d533ff547cf6045565052cb3bec16374371b95c4"
+hash = "e1cdf28f03e91b935c8abede7d7c14e190b28674470901924db1ef17b7cae5c6"
 
 [[files]]
 file = "config/exoticbirds-common.toml"
@@ -2406,7 +2410,7 @@ hash = "e64c55276f1e7f801fc9f7fe4fa3b2e8a975c49e98bd6a6612768f80ee73e276"
 
 [[files]]
 file = "config/extragore-property.toml"
-hash = "f1f49a632ed3d6e87d9525f955b870ddb996cf0d743513fa9954c2e261e641eb"
+hash = "826232dd7a25c5438af83fd1d78cba407c60754d75a83be45150d8e098f34e55"
 
 [[files]]
 file = "config/extremesoundmuffler-client.toml"
@@ -2698,7 +2702,7 @@ hash = "9f72527d09bfef434279632636dee5a50c3e6eef75c41b85c09ef2d7fc78ac22"
 
 [[files]]
 file = "config/goety/goety-mobs.toml"
-hash = "c02771535e833f151988b5a3d9381158e2157d5a4e2dfa1a932f577ca363f414"
+hash = "772b1df4e2afeb464db15a59dd966a8f7f180aefa31f08481e9d67c81347ebf9"
 
 [[files]]
 file = "config/goety/goety-spells.toml"
@@ -3259,6 +3263,10 @@ hash = "2d68bbb2f1e0c181f73744e4a186306abd899698a78a30578d0cba79a22a7189"
 [[files]]
 file = "config/just_dandy-common.toml"
 hash = "2ad895773a2eb7dc0577003018ac44554daa8b441852c9aa36621bc732b56c33"
+
+[[files]]
+file = "config/kaleidoscope_cookery-common.toml"
+hash = "ffe20b7810f2925935b3dfcf983b4885b3a1ffb6942a301cd15a40c82f47c02f"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -5129,7 +5137,7 @@ hash = "8fe2490d533dc22d481f5d66fac31cdd89c59f60f86003f2b5e9223426ec5470"
 
 [[files]]
 file = "config/wakes-client.toml"
-hash = "91620c66dacc003176df7c621ff634d3c8570181c3787d9295bbc713b679b58f"
+hash = "83b0ad6b384ea00b4c2630427526b75d347faa7a7ea5d500aa24f2ee2fb5cdd2"
 
 [[files]]
 file = "config/wares-client.toml"
@@ -5499,7 +5507,7 @@ metafile = true
 
 [[files]]
 file = "mods/ancient-cultural-structures.pw.toml"
-hash = "7bed4e7476572e0e465c1f6234c74a3d103fa8bfd358fc2f4b5e0e2e1dc28570"
+hash = "fb5d5170a0a076be2f5af5f3a3e4aa9c517c766026c41741920417bcbe9bad08"
 metafile = true
 
 [[files]]
@@ -5509,7 +5517,7 @@ metafile = true
 
 [[files]]
 file = "mods/aotake-sweep.pw.toml"
-hash = "f66d48e53b9faeeaee7731af8db3b4acecd3ef6ec0821636d714f8c9f06085be"
+hash = "7bce051f0f245b953acd52db593a70c79721905d0e3288d8b341eff251504a45"
 metafile = true
 
 [[files]]
@@ -5994,7 +6002,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6a4eb5e1762d7e12ca0ea233e09f380d5e996cba37bfa188556cd7940fe35e84"
+hash = "2149c32394192bcb574d275628fef7dae5fb82ef6154ecbe134bcb5eddf31a78"
 metafile = true
 
 [[files]]
@@ -6089,7 +6097,7 @@ metafile = true
 
 [[files]]
 file = "mods/cocktails-delight.pw.toml"
-hash = "72bb225c18292d85dd92049ac0b47ec1bfaf9472abff1d85d0b80eda07c271f1"
+hash = "3cea30ad5a954ac65ccc1f6ddca8cefadb1ed754e2ffdfc3db3b4490edbf5f6c"
 metafile = true
 
 [[files]]
@@ -6149,7 +6157,7 @@ metafile = true
 
 [[files]]
 file = "mods/constructs-casting.pw.toml"
-hash = "c91e0ab831f4e58f335e00452776e8d92d5f5af486e6a57019d4df3589e2d110"
+hash = "a174c49d4297cbd4764ff44df93da916b80b215797d077dd9426543d25f2dda0"
 metafile = true
 
 [[files]]
@@ -6248,7 +6256,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "dcb3c4fbc01aeb2cf5ab8b8a80f8452486cf5ea1b30721946334fb40a46818a8"
+hash = "7a2c9210d6cbf7ce974052883ac94243a392e5dcb94aed806041c8f27d521559"
 metafile = true
 
 [[files]]
@@ -6643,7 +6651,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn-of-time.pw.toml"
-hash = "463adeb73e6f7d786cb3ecbd1636a2f61cdcdb67779c2287cd6f8a34d4343ed0"
+hash = "989eedfd08fb19ba49443a6c36da4ae077c71ab4bf0a0a48307868dc867ea731"
 metafile = true
 
 [[files]]
@@ -6703,7 +6711,7 @@ metafile = true
 
 [[files]]
 file = "mods/difficult-raids-compatibility-edition.pw.toml"
-hash = "0e8ad5b4c3dcb022ee715166edfccfd697943ba13285d0a13b0303ad2458c5f1"
+hash = "a2f8c94c3ed6ccc0977ed08a01f17ca69b9efb9baa6ee5339e0ff9a1e2edb66f"
 metafile = true
 
 [[files]]
@@ -6997,7 +7005,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "0fb283692ce981c50de663be22892daf79b06333f974ec5d48a40b1cc074ce32"
+hash = "51d85b87450cd8a4305d7740c7a225651e7514f64133f5c32230386d03113883"
 metafile = true
 
 [[files]]
@@ -7211,7 +7219,7 @@ metafile = true
 
 [[files]]
 file = "mods/foragers-insight.pw.toml"
-hash = "17d3da422f00f17c589060dd41101aff9b8af10759edc909c0c3968c3c0faec6"
+hash = "c9389e0da50b9750f6e331ce23213e548f51c47be2db86463b3c75cb3bc47cee"
 metafile = true
 
 [[files]]
@@ -7231,7 +7239,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-ruins.pw.toml"
-hash = "1a6ca134be31ceb579ee56c9f92fc95ab814b3985fd443b5d67952540a914d58"
+hash = "2a160cc043b011ce232e7c55266f8ac805497f610ba8b4bf412f1addb2f432a9"
 metafile = true
 
 [[files]]
@@ -7371,7 +7379,7 @@ metafile = true
 
 [[files]]
 file = "mods/goety.pw.toml"
-hash = "75e4f1891eef08e19bab5c57d46a331877fd4d58cb53c860fd504ffa462a9d5f"
+hash = "418d8cc937e30f55461ad14a616dfd0c956c8c06d952fcaa7c23b8b276bf370e"
 metafile = true
 
 [[files]]
@@ -7711,7 +7719,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a4aeae853d270fbeef356436886065e8d5ca7baee9ae02d12dc79c14d169647b"
+hash = "d0468c50463003c3be730e99937e3444d617fb174440f71ed5fd5948a5ff969f"
 metafile = true
 
 [[files]]
@@ -7756,7 +7764,7 @@ metafile = true
 
 [[files]]
 file = "mods/kaleidoscope-cookery.pw.toml"
-hash = "661d837adb495d41362ef466f8642d1f47e9678090fbf1bd3bd7d0311e2b787f"
+hash = "53938a974640965e4eaf9c8c5f6f12788e1470c30c6f0fc1d63a0861de1790f8"
 metafile = true
 
 [[files]]
@@ -8105,7 +8113,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "1e806aa30d8a64ce436a05d04b6c6076742065ef317c4a6b9ce05a6035fc6726"
+hash = "5d3054652227f5f3f4916e7cdc70c66ec10ed22bab4dca67b3695855a3a44d19"
 metafile = true
 
 [[files]]
@@ -8464,7 +8472,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "6fab924e164f085a461460ad65dc048b528693137ddbc8e3b66667b68305cf54"
+hash = "e3b879b027674a3c9b002eb24f2ea47397bf2087124387f65241b4e0ca4e73d5"
 metafile = true
 
 [[files]]
@@ -8549,7 +8557,7 @@ metafile = true
 
 [[files]]
 file = "mods/pineapple-delight.pw.toml"
-hash = "165297c9e649bacbf23c0a54f86f1431efa6deee40dd33f66bffa5de2109b941"
+hash = "3c531ab511ad33602f99f35acb13404f4097f318ceace3c68466eb693506d282"
 metafile = true
 
 [[files]]
@@ -8719,7 +8727,7 @@ metafile = true
 
 [[files]]
 file = "mods/rechiseled-chipped.pw.toml"
-hash = "2255c97160d769909db905cf8d95f1e4b4bfd496125e6fe12f415ff3cda5d4fd"
+hash = "9a76a31d57607ea49952b978b6ce3b06b57da9a92ce124babb61678722977cb0"
 metafile = true
 
 [[files]]
@@ -8784,7 +8792,7 @@ metafile = true
 
 [[files]]
 file = "mods/respiteful.pw.toml"
-hash = "2c43b6244fac08f2287a276a80093605044d846ef84b03302d21322addeb336c"
+hash = "deb5226968c953380e5d0561935f985cccd85a00c660ccf6f466e53982158935"
 metafile = true
 
 [[files]]
@@ -9034,7 +9042,7 @@ metafile = true
 
 [[files]]
 file = "mods/smsn.pw.toml"
-hash = "b81087bff2fb3d755cd1c44b4e018d6a763fb5bd21b339326fc04c1cb463e604"
+hash = "fe2566338e351877bda7047e173c55267de84d04bbdbb7289b7675546655d3e4"
 metafile = true
 
 [[files]]
@@ -9119,7 +9127,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
-hash = "c160752efb3916b1777e2820f66cc39c1b3914e6f4d250d5e3f8fb97a2375721"
+hash = "6cb4a76ae4cf333b8de9d40c0570894b63393101bb88d3630540d029af0747bd"
 metafile = true
 
 [[files]]
@@ -9189,7 +9197,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurify.pw.toml"
-hash = "f6dd606054c545ec5ee056b88097e14f991faf85c27c408e2e3560672adf54ec"
+hash = "e4ed4736f581d4448218a02d662b0f1a0890eaa272bacf4f4a37a138958f02c3"
 metafile = true
 
 [[files]]
@@ -9737,7 +9745,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "d5851728e8ae3362c76ba37592b1f63c6892e43b1feb9f1c7aa4354579147d80"
+hash = "4d2c4f3e4885764d7a74839b79cdd77037a723e4ca48f8f45575510df8d50ddf"
 metafile = true
 
 [[files]]

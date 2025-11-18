@@ -1,13 +1,13 @@
 name = "Wakes Reforged"
-filename = "wakes-1.20.1-Forge-1.0.6.jar"
+filename = "wakes-1.20.1-Forge-1.0.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0eaec98bc7b2cfa0b4c40f6089cbef44a59a9ea6"
+hash = "32178e4477927f674879dc3459e266542f0457cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7166099
+file-id = 7229304
 project-id = 1223529

@@ -37,6 +37,10 @@
 	#So this option prevents our app logging at all.
 	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
 	prevent_generating_crash_assistant_app_logs = false
+	#Generates "logs/stderr_stream.log" with stderr stream.
+	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
+	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
+	generate_own_launcher_log = true
 	#Here you can change priority for logs.
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
