@@ -1,9 +1,0 @@
-{
-  "block.cmparallelpipes.locked_fluid_pipe": "Locked Fluid Pipe",
-  "cmparallelpipes.ponder.locked_pipe.header": "Locking Fluid Pipes",
-  "cmparallelpipes.ponder.locked_pipe.text_1": "Fluid Pipes will always connect to other Fluid Pipes",
-  "cmparallelpipes.ponder.locked_pipe.text_2": "Any scaffolding block can be used to lock the pipe connectivity state similar to Encased Pipe",
-  "cmparallelpipes.ponder.locked_pipe.text_3": "The Fluid Pipe can be unlocked again with a wrench",
-
-  "block.cmparallelpipes.locked_copycat_fluid_pipe": "Locked Copycat Fluid Pipe"
-}

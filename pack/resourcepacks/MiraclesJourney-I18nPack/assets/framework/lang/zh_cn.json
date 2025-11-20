@@ -1,3 +1,0 @@
-{
-    "framework.gui.process_config_fail": "Failed to process config from server: %s"
-}

@@ -1,7 +1,0 @@
-{
-  "create.gui.assembly.exception.unmovableBlock_entity_control": "The structure is too long, the block is unmovable, or the number of special function blocks exceeds the limit \nLocated at: [%1$s,%2$s,%3$s]\nBlock: [%4$s]",
-  "create.gui.assembly.exception.unmovableBlock_entity_control_unmovable_block": "Block can't move! \nLocated at: [%1$s,%2$s,%3$s]\nBlock: [%4$s]",
-  "create.gui.assembly.exception.unmovableBlock_entity_control_structure_too_long": "Structure too long! \nLocated at: [%1$s,%2$s,%3$s]\nBlock: [%4$s]",
-  "create.gui.assembly.exception.unmovableBlock_entity_control_limit_special_block": "Block reaches the count limit! \nLocated at: [%1$s,%2$s,%3$s]\nBlock: [%4$s]",
-  "create.gui.assembly.exception.structureTooLargeOrUnstable": "The structure has too many blocks or the structural stability coefficient exceeds the limit \nMaximum structure value: [%1$s]\nActual structure value: [%2$s]\nMaximum coefficient value: [%3$s]\nActual coefficient value: [%4$s]"
-}
