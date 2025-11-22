@@ -2,7 +2,7 @@
   <img src="https://cdn.sa.net/2025/02/11/ZqBLJczgyPmGaej.png" alt="logo" width="150" height="auto" />
   <h1>Miracles Journey - 奇迹之旅</h1>
   <p>
-    1000 模组整合 - 配置 & 魔改进行中 - 快速迭代ing - 敬请期待！
+    1000 模组整合 - 配置 & 魔改进行中 - 快速迭代 ing - 敬请期待！
   </p>
   <p>
     <img src="https://img.shields.io/github/commits-since/QianFuv/Miracles-Journey/latest?style=plastic&color=blue" alt="Commits Since Latest Release" />
