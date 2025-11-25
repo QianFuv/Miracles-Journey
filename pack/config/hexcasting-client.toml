@@ -9,4 +9,6 @@ invertAbacusScrollDirection = false
 gridSnapThreshold = 0.5
 #Whether you click to start and stop drawing instead of clicking and dragging
 clickingTogglesDrawing = false
+#Whether all iota types should be comma-separated in lists (by default, pattern iotas don't use commas)
+alwaysShowListCommas = false
 

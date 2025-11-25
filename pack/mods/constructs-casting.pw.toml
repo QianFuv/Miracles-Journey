@@ -1,13 +1,13 @@
 name = "Construct's Casting"
-filename = "constructs_casting-2.0.0.jar"
+filename = "constructs_casting-2.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c00df5936ab678e6f691032f1950918226872b7"
+hash = "030e302d71bd05b8dbe3f6092cf226e4e4fb76f5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7227801
+file-id = 7236592
 project-id = 1000007

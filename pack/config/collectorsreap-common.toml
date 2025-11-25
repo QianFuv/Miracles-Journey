@@ -232,6 +232,16 @@
 	trapped_lucuma_chest = true
 	vernal_purge = true
 	wild_berry_gummy = true
+	bulbous_rose = true
+	bulbous_rose_seeds = true
+	damselflower = true
+	damselflower_seeds = true
+	heartpetals = true
+	heartpetals_seeds = true
+	moontear = true
+	moontear_seeds = true
+	skull_lily = true
+	skull_lily_seeds = true
 
 [Behavior]
 	#Whether Lime Bushes require Bee pollination to reach final growth stage.

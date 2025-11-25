@@ -9,6 +9,7 @@ EnablesMoteChestGUI = true
 #Mishaps won't drop items anymore
 EnablesMishapNoYeet = true
 #<Mishap>
+#(DEPRECATED after HexCasting 0.11.3 because there's no limit anymore)
 #Teleporting riding entities no longer do mishaps
 EnablesTeleportVehicles = true
 #<Pattern>
