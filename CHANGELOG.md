@@ -56,7 +56,7 @@
 
 - <details>
 
-  <summary> 模组更新（共 983 次） </summary>
+  <summary> 模组更新（共 1012 次） </summary>
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
 
@@ -89,6 +89,8 @@
   - Ancient Structures: Cultural buildings、Aotake Sweep (竹叶清)、Chat Heads、Cocktails Delight、Construct's Casting、Crash Assistant、Dawn Of Time、Difficult Raids - Compatibility Edition、Euphoria Patches、Forager's Insight、Forgotten Ruins、Goety - The Dark Arts、Just Enough Items (JEI)、Kaleidoscope Cookery、Cursors Extended、Packet Fixer、Pineapple Delight、Rechiseled: Chipped、Respiteful、Save My Shaky Network、Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]、Structurify、Wakes Reforged
 
   - AllTheLeaks (Memory Leak Fix)、Amendments、Collector's Reap、Construct's Casting、Crash Assistant、Data Anchor、Dawn Of Time、DoesPotatoTick?、Drippy Loading Screen、Duplicationless、Eidolon : Repraised、[EMF] Entity Model Features [Fabric & Forge]、[ETF] Entity Texture Features - [Fabric & Forge]、Euphoria Patches、FancyMenu、Hex Casting、HexFlow、HexOverpowered、HexParse、Moog's Structure Lib (moogs_structures)、More Relics、More Sniffer Flowers、ParCool! ~ Minecraft Parkour ~、Rechiseled: Chipped、Sinytra Connector、Structurify、Supplementaries Squared、TofuCraftReload、Ube's Delight、XaeroPlus
+
+  - Create: Copycats+、Create: Aquatic Ambitions、Create Cafe、Create: Connected、Create Encased、Create: Enchantable Machinery、Create:Entity Control 、Create: Escalated、Create: Framed、Create: The Factory Must Grow、Create: Mobile Packages、Create: Pattern Schematics、Create: Quality Of Life、Create Railways Navigator、Create: Steam 'n' Rails、Create Train Lights、Create、Create Crafts & Additions、Duplicationless、Create: Extended Wrenches、Create: Hypertubes、Just Enough Items (JEI)、Create: Power Grid、Create Slice & Dice、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Zetter — Painting Mod
   
   </details>
   

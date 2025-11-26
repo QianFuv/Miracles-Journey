@@ -1,13 +1,13 @@
 name = "Duplicationless"
-filename = "duplicationless-1.20.1-1.0.1.jar"
+filename = "duplicationless-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d244e6833872184e8a43ca0ce2666f29cfee634d"
+hash = "9b5a4682c8cc1bde53231c6f36c92c09c96f6980"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7260727
+file-id = 7263329
 project-id = 1380105
