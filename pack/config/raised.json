@@ -473,6 +473,28 @@
       },
       "sync": "decorative_stands:scope"
     },
+    "dreamtinker:perfect_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "dreamtinker:perfect_overlay"
+    },
+    "dreamtinker:world_filter": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "dreamtinker:world_filter"
+    },
     "eidolon:hearts": {
       "displacement": {
         "x": 0,
@@ -813,6 +835,17 @@
         "y": "NONE"
       },
       "sync": "kaleidoscope_cookery:pot_overlay"
+    },
+    "kismet:battery_meter": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "kismet:battery_meter"
     },
     "l2itemselector:tool_select": {
       "displacement": {
@@ -1462,6 +1495,17 @@
         "y": "NONE"
       },
       "sync": "warriorrage:warrior_rage_bar"
+    },
+    "windswept:carved_pinecone": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "windswept:carved_pinecone"
     },
     "worldcomment:picked_comments": {
       "displacement": {

@@ -1,0 +1,13 @@
+name = "~Blast from the Past~"
+filename = "blastfromthepast-1.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "717e15494a59c97ae54d86ada7b86446428e8189"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7167429
+project-id = 1357019

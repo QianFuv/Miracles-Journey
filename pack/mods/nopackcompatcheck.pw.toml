@@ -1,0 +1,13 @@
+name = "NoPackCompatCheck"
+filename = "nopackcompatcheck-0.1.0-forge-mc1.20.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd5a0cd579a2da13e0840029aca87c84c9161687"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6880836
+project-id = 1325984

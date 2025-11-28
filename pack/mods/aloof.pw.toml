@@ -1,0 +1,13 @@
+name = "Aloof!"
+filename = "aloof-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23034fafffca9ade93e34a41eeb7b701834c2c4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6925531
+project-id = 1334298

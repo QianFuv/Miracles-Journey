@@ -1,0 +1,13 @@
+name = "Caster Curios Bonus"
+filename = "CasterCuriosBonus-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ffb04b953c7befbececa146536276174e750a59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7248963
+project-id = 1384597

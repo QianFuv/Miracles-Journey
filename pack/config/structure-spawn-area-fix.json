@@ -1,0 +1,8 @@
+[
+  {
+    "structure": "minecraft:shipwreck",
+    "category": "monster",
+    "additional_radius": 12,
+    "biome": "#minecraft:has_structure/shipwreck"
+  }
+]

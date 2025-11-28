@@ -77,6 +77,12 @@
     "registry_name": "OFF",
     "mod_name": false
   },
+  "complicated_bees": {
+    "show_cycle_ticks": false,
+    "apiary_errors": true,
+    "show_errors": true,
+    "bee_nest_type": true
+  },
   "infinitybuttons": {
     "hide_secret_buttons": true,
     "hide_lantern_buttons": true,
@@ -147,6 +153,10 @@
     "kitchen_access_point": true,
     "kitchen_station": true
   },
+  "compactcrafting": {
+    "field_proxy": true,
+    "field_projector": true
+  },
   "balm": {
     "jade": true
   },
@@ -168,7 +178,6 @@
   "kaleidoscope_cookery": {
     "chopping_board": true,
     "shawarma_spit": true,
-    "oil_pot": true,
     "recipe_block": true,
     "millstone": true,
     "enamel_basin": true

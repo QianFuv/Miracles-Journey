@@ -1,0 +1,13 @@
+name = "Muffin's Slime Golem"
+filename = "muffins-slimegolem-1.20.1-1.1.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "085728e0b05763ca28a7509d2a0e24e4e1f0cc89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4668665
+project-id = 707734

@@ -1,0 +1,17 @@
+#A list of blacklisted items that will be hidden from creative tabs and prevent drops
+blacklistedItems = ["goetydelight:roasted_corpse_maggots", "goetydelight:corpse_maggot", "goetydelight:rotten_corpse_maggot_feast", "goetydelight:rotten_corpse_maggot_feast_block"]
+#Maximum attack count for Starless Night item
+#Range: > 1
+starlessNightMaxAttackCount = 5
+#Search range for chain damage effect of Starless Night item
+#Range: 1.0 ~ 128.0
+starlessNightSearchRange = 16.0
+#Maximum number of targets for chain damage effect of Starless Night item
+#Range: 1 ~ 2147483646
+starlessNightMaxChainTargets = 10
+#List of entity types that are immune to Starless Night damage when tamed by the player
+starlessNightWhitelist = ["minecraft:villager"]
+#Effect radius for the cake item
+#Range: 1.0 ~ 256.0
+cakeEffectRadius = 32.0
+

@@ -1,0 +1,13 @@
+name = "Alex's Mobs Capsid Fix"
+filename = "capsidfix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "218f2a1dfcff8e6d11576285a2e4009ca9956a35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7151601
+project-id = 1372641

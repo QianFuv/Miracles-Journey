@@ -143,6 +143,17 @@
         "value": 1
       }
     },
+    "turtlecore:thrown_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "goety:frost_potency": {
       "enabled": false,
       "min": {
@@ -242,6 +253,17 @@
         "value": 1024
       }
     },
+    "turtlecore:healing_effectiveness": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "obscure_api:accuracy": {
       "enabled": false,
       "min": {
@@ -295,6 +317,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "windswept:fragrance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "reach-entity-attributes:reach": {
@@ -418,6 +451,17 @@
         "value": 100
       }
     },
+    "windswept:snow_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "goety:casting_speed": {
       "enabled": false,
       "min": {
@@ -528,6 +572,17 @@
         "value": 1
       }
     },
+    "gtbcs_geomancy_plus:geo_magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "gunswithoutroses:gwr.fire_delay": {
       "enabled": false,
       "min": {
@@ -570,6 +625,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "dungeonsmobs:magic_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "enchantedpotato:armor_breaking_duration": {
@@ -638,6 +704,17 @@
         "value": 1000
       }
     },
+    "dungeonsmobs:ranged_damage_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "hexoverpowered:personal_media": {
       "enabled": false,
       "min": {
@@ -647,6 +724,17 @@
       "max": {
         "default": 2147483647,
         "value": 2147483647
+      }
+    },
+    "turtlecore:armor_penetration": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "enchantedpotato:ocean_hued_counting": {
@@ -759,6 +847,17 @@
         "value": 1
       }
     },
+    "turtlecore:cooldown_reduction": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "l2damagetracker:damage_absorption": {
       "enabled": false,
       "min": {
@@ -867,6 +966,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "turtlecore:life_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "minecraft:generic.attack_knockback": {
@@ -1045,6 +1155,17 @@
         "value": 100
       }
     },
+    "turtlecore:damage_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "goety:spell_range": {
       "enabled": false,
       "min": {
@@ -1177,6 +1298,17 @@
         "value": 100
       }
     },
+    "turtlecore:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1.5,
+        "value": 1.5
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "attributeslib:current_hp_damage": {
       "enabled": false,
       "min": {
@@ -1211,6 +1343,17 @@
       }
     },
     "spectrum:mental_presence": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "dungeonsmobs:follower_cost_limit": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1408,6 +1551,17 @@
         "value": 100
       }
     },
+    "turtlecore:critical_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "malum:soul_ward_recovery_rate": {
       "enabled": false,
       "min": {
@@ -1446,6 +1600,17 @@
       "min": {
         "default": 1,
         "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "gtbcs_geomancy_plus:geo_spell_power": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
       },
       "max": {
         "default": 100,
@@ -1595,6 +1760,17 @@
         "value": 1000000
       }
     },
+    "dungeonsmobs:soul_gathering": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "doggytalents:generic.crit_chance": {
       "enabled": false,
       "min": {
@@ -1604,6 +1780,17 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "dungeonsmobs:soul_cap": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "malum:scythe_proficiency": {
@@ -1626,6 +1813,17 @@
       "max": {
         "default": 1000,
         "value": 1000
+      }
+    },
+    "dungeonsmobs:summon_cap": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "goety:cooldown_discount": {
@@ -1662,6 +1860,17 @@
       }
     },
     "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "turtlecore:player_size": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -1791,6 +2000,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "dungeonsmobs:life_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "botania:pixie_spawn_chance": {
@@ -2112,6 +2332,28 @@
         "value": 1024
       }
     },
+    "turtlecore:ranged_damage_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "turtlecore:hit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "attributeslib:dodge_chance": {
       "enabled": false,
       "min": {
@@ -2176,6 +2418,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "dungeonsmobs:artifact_cooldown_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "tetra:draw_speed": {
@@ -2409,6 +2662,17 @@
         "value": 2048
       }
     },
+    "turtlecore:dodge_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "minecraft:generic.movement_speed": {
       "enabled": true,
       "min": {
@@ -2473,6 +2737,28 @@
       "max": {
         "default": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "value": 179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      }
+    },
+    "windswept:sprint_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "turtlecore:magic_amp": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "sakuratinker:reality_suppression": {

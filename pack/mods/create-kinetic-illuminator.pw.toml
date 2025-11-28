@@ -1,0 +1,13 @@
+name = "Create: Kinetic Illuminator"
+filename = "create_kinetic_illuminator-forge-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a82f1178d2798fbcf3c82d46d07a2321ad9d469d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7171519
+project-id = 1375962

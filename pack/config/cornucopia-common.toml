@@ -1,0 +1,21 @@
+
+#Cornucopia Configuration
+[cornucopia]
+	#丰饶角的最大食物容量（权重值，默认1024 = 16组食物）
+	#Range: 64 ~ 4096
+	cornucopiaCapacity = 1024
+
+#Goat Horn Configuration
+[goat_horn]
+	#山羊角的最大食物容量（权重值，默认1024 = 16组食物）
+	#Range: 64 ~ 4096
+	goatHornCapacity = 1024
+
+#General Settings
+[general]
+	#转换为丰饶角后清空食物
+	enableClearFoods = false
+	#生命值低于多少时自动转换
+	#Range: 1 ~ 19
+	lifeThresholdValue = 10
+

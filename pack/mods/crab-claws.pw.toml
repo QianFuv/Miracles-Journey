@@ -1,0 +1,13 @@
+name = "Crab Claws - Place/Break blocks from a distance!"
+filename = "crabclaws-forge-1.20.X-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78a5740f8357660cf01d2616deff367910eef405"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5646845
+project-id = 961271

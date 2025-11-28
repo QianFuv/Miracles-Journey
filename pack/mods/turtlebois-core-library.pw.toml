@@ -1,0 +1,13 @@
+name = "Turtleboi's Core Library"
+filename = "turtlecore-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ebc4f48a6d0f21fb5047d1b4c698d967c42d072"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7231604
+project-id = 1086765

@@ -1,0 +1,13 @@
+name = "Thom's Wandering Traders"
+filename = "wandering-traders-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f82c4a8544477715df258ff233809c62c5d3c441"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6756222
+project-id = 1304618

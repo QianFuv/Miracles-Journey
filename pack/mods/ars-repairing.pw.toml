@@ -1,0 +1,13 @@
+name = "Ars Repairing"
+filename = "Ars_Repairing-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d98c6f91ef45f5c71df587d031bf09edf112bd75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6988415
+project-id = 1345521

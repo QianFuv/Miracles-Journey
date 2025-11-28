@@ -1,0 +1,13 @@
+name = "Windswept Delights"
+filename = "windswept_delights-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ff2e5697f8c803bee51c0facf7db54d0ef1f2d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7150782
+project-id = 1372501

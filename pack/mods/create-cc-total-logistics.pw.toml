@@ -1,0 +1,13 @@
+name = "Create: CC Total Logistics"
+filename = "createcclogistics-1.20.1-forge-0.3.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/FuyTRq2g/versions/wsrJETfG/createcclogistics-1.20.1-forge-0.3.7.jar"
+hash-format = "sha512"
+hash = "96cf9a3eef9c355d4c6ca8752fea37629a3b45cbc93b65efd718d41f32c4189871b588eac76ae6aaeee186f1b2880dd8f21a92d46ccbda7447a6e4ee5564a686"
+
+[update]
+[update.modrinth]
+mod-id = "FuyTRq2g"
+version = "wsrJETfG"

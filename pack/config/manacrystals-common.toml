@@ -1,0 +1,11 @@
+
+[Mana_Crystal]
+	#Mana increase per mana crystal
+	Mana_Increase = 10.0
+	#Maximum amount of times you can use mana crystals
+	Max_Uses = 10
+
+[General]
+	#Enable additional loot for mana crystal related items in irons spellbooks loot tables
+	Enable_Additional_Loot = true
+

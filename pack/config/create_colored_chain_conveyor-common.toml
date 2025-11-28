@@ -1,0 +1,71 @@
+
+#.
+#Modify CCCC blocks comportements
+[kinetics]
+	#.
+	#.
+	#Can swap casing between block
+	casingBlockSwappable = true
+
+	[kinetics.stressValues]
+
+		#.
+		#kinetic stats of individual components
+		[kinetics.stressValues.v2]
+
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.v2.impact]
+				pink_chain_conveyor = 1.0
+				light_gray_copper_chain_conveyor = 1.0
+				orange_chain_conveyor = 1.0
+				purple_brass_chain_conveyor = 1.0
+				yellow_copper_chain_conveyor = 1.0
+				black_brass_chain_conveyor = 1.0
+				gray_chain_conveyor = 1.0
+				white_brass_chain_conveyor = 1.0
+				gray_brass_chain_conveyor = 1.0
+				purple_chain_conveyor = 1.0
+				brown_brass_chain_conveyor = 1.0
+				cyan_brass_chain_conveyor = 1.0
+				red_copper_chain_conveyor = 1.0
+				green_copper_chain_conveyor = 1.0
+				gray_copper_chain_conveyor = 1.0
+				light_blue_copper_chain_conveyor = 1.0
+				black_chain_conveyor = 1.0
+				blue_chain_conveyor = 1.0
+				magenta_copper_chain_conveyor = 1.0
+				white_chain_conveyor = 1.0
+				yellow_chain_conveyor = 1.0
+				pink_copper_chain_conveyor = 1.0
+				red_brass_chain_conveyor = 1.0
+				black_copper_chain_conveyor = 1.0
+				light_blue_chain_conveyor = 1.0
+				brass_chain_conveyor = 1.0
+				lime_copper_chain_conveyor = 1.0
+				orange_brass_chain_conveyor = 1.0
+				yellow_brass_chain_conveyor = 1.0
+				lime_chain_conveyor = 1.0
+				cyan_copper_chain_conveyor = 1.0
+				pink_brass_chain_conveyor = 1.0
+				copper_chain_conveyor = 1.0
+				light_gray_brass_chain_conveyor = 1.0
+				red_chain_conveyor = 1.0
+				white_copper_chain_conveyor = 1.0
+				brown_chain_conveyor = 1.0
+				light_gray_chain_conveyor = 1.0
+				purple_copper_chain_conveyor = 1.0
+				lime_brass_chain_conveyor = 1.0
+				magenta_chain_conveyor = 1.0
+				green_chain_conveyor = 1.0
+				blue_brass_chain_conveyor = 1.0
+				blue_copper_chain_conveyor = 1.0
+				brown_copper_chain_conveyor = 1.0
+				green_brass_chain_conveyor = 1.0
+				cyan_chain_conveyor = 1.0
+				light_blue_brass_chain_conveyor = 1.0
+				orange_copper_chain_conveyor = 1.0
+				magenta_brass_chain_conveyor = 1.0
+

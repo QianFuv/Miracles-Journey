@@ -1,0 +1,13 @@
+name = "Structure Spawn Area Fix"
+filename = "structure_spawn_area_fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbe1c5968a5448b538e49167610a6b18e40cce56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7133652
+project-id = 1369691

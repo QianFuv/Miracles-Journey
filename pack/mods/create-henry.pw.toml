@@ -1,0 +1,13 @@
+name = "Create: Henry"
+filename = "Create-Henry-1.20.1-0.0.3-6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4593f0e650448bb2dc11eda1bfedcbc2516d7a7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6544073
+project-id = 1254589

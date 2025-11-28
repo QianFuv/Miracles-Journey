@@ -1,0 +1,13 @@
+name = "Indigestion Tablet"
+filename = "indigestion_tablet-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "194731d49d5242cc42f84fa5990f7ef4d3c88c6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7015974
+project-id = 1350556

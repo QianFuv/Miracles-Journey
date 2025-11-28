@@ -1,0 +1,13 @@
+name = "Create Missiles"
+filename = "createmissiles-1.0.1+forge-1.20.1-build.644.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe09a4f086c7be07d324734a743d77888e04e732"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7183775
+project-id = 1345893

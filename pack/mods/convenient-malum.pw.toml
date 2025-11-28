@@ -1,0 +1,13 @@
+name = "Convenient Malum"
+filename = "convenient_malum-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/di8feIAZ/versions/9n5XJodV/convenient_malum-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "cfff7c3b167dc2532bdea3c2c2337c4dab36f455e9c1e017607f33ae9dad95000cd508330ecbd74a95609d47b531f58c1b6de82295e10f524d8482d84089bdce"
+
+[update]
+[update.modrinth]
+mod-id = "di8feIAZ"
+version = "9n5XJodV"

@@ -1,0 +1,8 @@
+
+[client]
+	#Player's local report mode setting
+	#Allowed Values: OFF, LIBRARIAN_ONLY, ALL_VILLAGERS
+	reportMode = "LIBRARIAN_ONLY"
+	#Render the item icon in chat bar
+	renderItems = true
+

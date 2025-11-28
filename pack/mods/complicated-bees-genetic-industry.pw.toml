@@ -1,0 +1,13 @@
+name = "Complicated Bees: Genetic Industry"
+filename = "genindustry_bees1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bc6f6ba35716cc88b70da2408e03db818703859"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7230143
+project-id = 1384987

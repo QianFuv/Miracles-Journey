@@ -1,0 +1,13 @@
+
+#.
+#Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
+[client]
+
+	#.
+	#Configure your vision range when submerged in Create Henry's custom fluids
+	[client.fluidFogSettings]
+		#.
+		#The vision range through sap will be multiplied by this factor
+		#Range: 0.125 ~ 128.0
+		sap = 1.0
+

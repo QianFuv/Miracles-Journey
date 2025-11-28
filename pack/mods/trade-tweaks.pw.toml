@@ -1,0 +1,13 @@
+name = "Trade Tweaks"
+filename = "tradetweaks-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f91af52447f7cbf0bfcbf056bdc4dc69decbbac1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6870179
+project-id = 1316814

@@ -1,0 +1,13 @@
+name = "Botania Mana Fluid"
+filename = "manafluid-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fd5f23873fbe09b5e12beae41bc659131241dfd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6285695
+project-id = 1214189

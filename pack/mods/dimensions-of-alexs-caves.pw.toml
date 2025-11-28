@@ -1,0 +1,13 @@
+name = "Dimensions of Alex's Caves"
+filename = "Dimensions-of-Alex's-Caves-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b424a075634bc0f29290c58b9f85d86f2c0425fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7209978
+project-id = 1381456

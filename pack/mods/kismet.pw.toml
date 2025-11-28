@@ -1,0 +1,13 @@
+name = "Kismet"
+filename = "kismet-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "178621b5bf2adb0cfa14f84871a6d3e9edcfc15a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7129397
+project-id = 1366330

@@ -1,0 +1,173 @@
+
+[General]
+	#Enable or disable in-game messages
+	messageEnabled = true
+
+#CEC blocks comportements
+[Kinetics]
+
+	[Kinetics.stressValues]
+
+		#.
+		#kinetic stats
+		[Kinetics.stressValues.v2]
+
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[Kinetics.stressValues.v2.impact]
+				orange_brass_encased_large_cogwheel = 0.0
+				white_brass_encased_cogwheel = 0.0
+				yellow_brass_encased_large_cogwheel = 0.0
+				light_gray_copper_encased_large_cogwheel = 0.0
+				pink_encased_cogwheel = 0.0
+				magenta_encased_cogwheel = 0.0
+				rgb_brass_encased_cogwheel = 0.0
+				white_copper_encased_cogwheel = 0.0
+				white_copper_encased_large_cogwheel = 0.0
+				red_brass_encased_cogwheel = 0.0
+				gray_encased_cogwheel = 0.0
+				gray_copper_encased_cogwheel = 0.0
+				orange_copper_encased_shaft = 0.0
+				gray_copper_encased_large_cogwheel = 0.0
+				red_copper_encased_shaft = 0.0
+				green_brass_encased_cogwheel = 0.0
+				rgb_brass_encased_large_cogwheel = 0.0
+				black_brass_encased_cogwheel = 0.0
+				green_encased_cogwheel = 0.0
+				green_brass_encased_shaft = 0.0
+				light_blue_encased_cogwheel = 0.0
+				orange_encased_large_cogwheel = 0.0
+				light_gray_encased_large_cogwheel = 0.0
+				pink_encased_large_cogwheel = 0.0
+				light_gray_encased_shaft = 0.0
+				green_brass_encased_large_cogwheel = 0.0
+				orange_encased_shaft = 0.0
+				brown_copper_encased_cogwheel = 0.0
+				purple_brass_encased_cogwheel = 0.0
+				lime_copper_encased_cogwheel = 0.0
+				magenta_encased_shaft = 0.0
+				cyan_brass_encased_large_cogwheel = 0.0
+				light_blue_copper_encased_cogwheel = 0.0
+				orange_encased_cogwheel = 0.0
+				cyan_copper_encased_large_cogwheel = 0.0
+				yellow_encased_large_cogwheel = 0.0
+				red_encased_large_cogwheel = 0.0
+				green_encased_large_cogwheel = 0.0
+				magenta_copper_encased_cogwheel = 0.0
+				gray_copper_encased_shaft = 0.0
+				light_blue_encased_shaft = 0.0
+				purple_copper_encased_shaft = 0.0
+				light_gray_copper_encased_cogwheel = 0.0
+				white_copper_encased_shaft = 0.0
+				magenta_copper_encased_shaft = 0.0
+				yellow_copper_encased_large_cogwheel = 0.0
+				gray_brass_encased_cogwheel = 0.0
+				yellow_brass_encased_shaft = 0.0
+				red_encased_cogwheel = 0.0
+				red_copper_encased_cogwheel = 0.0
+				gray_encased_shaft = 0.0
+				magenta_brass_encased_large_cogwheel = 0.0
+				yellow_brass_encased_cogwheel = 0.0
+				magenta_encased_large_cogwheel = 0.0
+				lime_encased_shaft = 0.0
+				pink_encased_shaft = 0.0
+				light_blue_brass_encased_cogwheel = 0.0
+				yellow_copper_encased_shaft = 0.0
+				white_brass_encased_large_cogwheel = 0.0
+				brown_brass_encased_shaft = 0.0
+				white_brass_encased_shaft = 0.0
+				blue_copper_encased_large_cogwheel = 0.0
+				rgb_copper_encased_shaft = 0.0
+				pink_copper_encased_shaft = 0.0
+				gray_brass_encased_large_cogwheel = 0.0
+				blue_brass_encased_shaft = 0.0
+				white_encased_shaft = 0.0
+				light_blue_brass_encased_large_cogwheel = 0.0
+				lime_copper_encased_large_cogwheel = 0.0
+				light_gray_copper_encased_shaft = 0.0
+				magenta_brass_encased_shaft = 0.0
+				black_encased_cogwheel = 0.0
+				brown_encased_large_cogwheel = 0.0
+				purple_encased_cogwheel = 0.0
+				cyan_brass_encased_shaft = 0.0
+				gray_brass_encased_shaft = 0.0
+				gray_encased_large_cogwheel = 0.0
+				blue_encased_shaft = 0.0
+				blue_encased_cogwheel = 0.0
+				lime_encased_cogwheel = 0.0
+				purple_brass_encased_shaft = 0.0
+				magenta_brass_encased_cogwheel = 0.0
+				pink_brass_encased_shaft = 0.0
+				blue_copper_encased_shaft = 0.0
+				cyan_encased_cogwheel = 0.0
+				pink_copper_encased_cogwheel = 0.0
+				red_brass_encased_large_cogwheel = 0.0
+				green_copper_encased_cogwheel = 0.0
+				rgb_copper_encased_large_cogwheel = 0.0
+				white_encased_cogwheel = 0.0
+				purple_brass_encased_large_cogwheel = 0.0
+				green_encased_shaft = 0.0
+				black_copper_encased_cogwheel = 0.0
+				cyan_encased_large_cogwheel = 0.0
+				light_blue_encased_large_cogwheel = 0.0
+				purple_copper_encased_large_cogwheel = 0.0
+				brown_copper_encased_shaft = 0.0
+				orange_copper_encased_large_cogwheel = 0.0
+				light_blue_brass_encased_shaft = 0.0
+				red_encased_shaft = 0.0
+				rgb_encased_shaft = 0.0
+				magenta_copper_encased_large_cogwheel = 0.0
+				lime_brass_encased_cogwheel = 0.0
+				rgb_encased_large_cogwheel = 0.0
+				lime_brass_encased_shaft = 0.0
+				purple_copper_encased_cogwheel = 0.0
+				black_copper_encased_shaft = 0.0
+				blue_brass_encased_large_cogwheel = 0.0
+				brown_copper_encased_large_cogwheel = 0.0
+				orange_brass_encased_shaft = 0.0
+				green_copper_encased_shaft = 0.0
+				light_gray_brass_encased_large_cogwheel = 0.0
+				white_encased_large_cogwheel = 0.0
+				light_gray_brass_encased_shaft = 0.0
+				red_copper_encased_large_cogwheel = 0.0
+				brown_encased_shaft = 0.0
+				yellow_encased_cogwheel = 0.0
+				black_encased_shaft = 0.0
+				brown_encased_cogwheel = 0.0
+				light_blue_copper_encased_shaft = 0.0
+				black_copper_encased_large_cogwheel = 0.0
+				brown_brass_encased_large_cogwheel = 0.0
+				pink_brass_encased_large_cogwheel = 0.0
+				pink_copper_encased_large_cogwheel = 0.0
+				purple_encased_shaft = 0.0
+				blue_encased_large_cogwheel = 0.0
+				lime_copper_encased_shaft = 0.0
+				black_encased_large_cogwheel = 0.0
+				black_brass_encased_large_cogwheel = 0.0
+				orange_brass_encased_cogwheel = 0.0
+				brown_brass_encased_cogwheel = 0.0
+				light_blue_copper_encased_large_cogwheel = 0.0
+				light_gray_encased_cogwheel = 0.0
+				light_gray_brass_encased_cogwheel = 0.0
+				black_brass_encased_shaft = 0.0
+				blue_brass_encased_cogwheel = 0.0
+				orange_copper_encased_cogwheel = 0.0
+				cyan_encased_shaft = 0.0
+				rgb_copper_encased_cogwheel = 0.0
+				lime_encased_large_cogwheel = 0.0
+				green_copper_encased_large_cogwheel = 0.0
+				cyan_copper_encased_cogwheel = 0.0
+				red_brass_encased_shaft = 0.0
+				rgb_encased_cogwheel = 0.0
+				cyan_brass_encased_cogwheel = 0.0
+				lime_brass_encased_large_cogwheel = 0.0
+				yellow_copper_encased_cogwheel = 0.0
+				cyan_copper_encased_shaft = 0.0
+				blue_copper_encased_cogwheel = 0.0
+				purple_encased_large_cogwheel = 0.0
+				rgb_brass_encased_shaft = 0.0
+				yellow_encased_shaft = 0.0
+				pink_brass_encased_cogwheel = 0.0
+

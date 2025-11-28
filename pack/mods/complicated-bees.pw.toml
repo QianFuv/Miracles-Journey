@@ -1,0 +1,13 @@
+name = "Complicated Bees"
+filename = "complicated_bees-1.20.1-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4c43a7d8ed6be7319c991749f55bc96d6a3ebec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7160793
+project-id = 1100137

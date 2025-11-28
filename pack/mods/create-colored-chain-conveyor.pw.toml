@@ -1,0 +1,13 @@
+name = "Create: Colored Chain Conveyor"
+filename = "create_colored_chain_conveyor-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d09fd5408443b6a806da711182e161007517fa10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7152276
+project-id = 1371629

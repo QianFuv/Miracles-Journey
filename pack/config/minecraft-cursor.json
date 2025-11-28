@@ -1,5 +1,5 @@
 {
-  "_hash": "7ffe9cd528207806",
+  "_hash": "2fc9e33b88ae3c1e",
   "itemSlotEnabled": true,
   "itemGrabbingEnabled": true,
   "creativeTabsEnabled": true,
@@ -11,15 +11,15 @@
   "worldIconEnabled": true,
   "serverIconEnabled": true,
   "remapCursorsEnabled": true,
-  "deferredLoading": false,
   "inactiveWidgetsEnabled": true,
   "aggressiveCursor": false,
+  "virtualMode": false,
   "blacklist": [],
   "global": {
     "scaleActive": true,
     "xhotActive": false,
     "yhotActive": false,
-    "scale": 1.5,
+    "scale": 2.0,
     "xhot": 0,
     "yhot": 0
   },
@@ -27,74 +27,74 @@
     "not_allowed": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 15,
-      "yhot": 15
+      "xhot": 11,
+      "yhot": 11
     },
     "resize_ns": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 9,
-      "yhot": 15
+      "xhot": 16,
+      "yhot": 16
     },
     "crosshair": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 13,
-      "yhot": 17
+      "yhot": 13
     },
     "pointer": {
       "enabled": true,
       "scale": 1.0,
       "xhot": 7,
-      "yhot": 3
+      "yhot": 0
     },
     "default": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 7,
-      "yhot": 3
+      "xhot": 0,
+      "yhot": 0
     },
     "grabbing": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 15,
-      "yhot": 3
+      "xhot": 10,
+      "yhot": 2
     },
     "shift": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 11,
-      "yhot": 3
+      "xhot": 10,
+      "yhot": 0
     },
     "busy": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 13,
-      "yhot": 17
+      "xhot": 0,
+      "yhot": 6
     },
     "text": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 12,
-      "yhot": 15
+      "xhot": 10,
+      "yhot": 12
     },
     "resize_nesw": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 13,
-      "yhot": 12
+      "xhot": 16,
+      "yhot": 16
     },
     "resize_nwse": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 13,
-      "yhot": 12
+      "xhot": 16,
+      "yhot": 16
     },
     "resize_ew": {
       "enabled": true,
       "scale": 1.0,
-      "xhot": 15,
-      "yhot": 17
+      "xhot": 16,
+      "yhot": 16
     }
   }
 }

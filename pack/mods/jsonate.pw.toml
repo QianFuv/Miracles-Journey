@@ -1,0 +1,13 @@
+name = "Jsonate"
+filename = "jsonate-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9e43e725e356666c5722d3d3275e8bc4e563015"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6903435
+project-id = 1325790

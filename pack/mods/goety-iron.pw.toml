@@ -1,0 +1,13 @@
+name = "goety_iron"
+filename = "goety_iron-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "954448a9545debbd1d9ced114ad8e870d79cfdec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141296
+project-id = 1367643

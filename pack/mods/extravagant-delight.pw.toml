@@ -1,0 +1,13 @@
+name = "Extravagant Delight"
+filename = "extravagantdelight-1.1.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1706ba53d3aa9fd86aeb40eda0442a33205e152e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7104515
+project-id = 1334308

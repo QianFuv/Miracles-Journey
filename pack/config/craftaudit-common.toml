@@ -1,0 +1,26 @@
+
+[database]
+	#数据库模式: SQLITE 或 MYSQL
+	#Allowed Values: SQLITE, MYSQL
+	mode = "SQLITE"
+
+	[database.sqlite]
+		#SQLite 文件名（存于游戏根目录下的craftaudit文件夹）
+		path = "craftaudit.db"
+
+	[database.mysql]
+		host = "127.0.0.1"
+		#Range: 1 ~ 65535
+		port = 3306
+		database = "craftaudit"
+		user = "root"
+		#注意: 明文存储，请谨慎使用公共环境
+		password = ""
+		useSSL = false
+		#附加 JDBC 参数，形如 `allowPublicKeyRetrieval=true`
+		params = ""
+
+	[database.audit]
+		#审计模式命令是否需要权限，包含ca i审计模式以及ca near范围查询
+		requirePermission = true
+

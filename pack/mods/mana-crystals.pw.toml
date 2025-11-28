@@ -1,0 +1,13 @@
+name = "Mana Crystals"
+filename = "manacrystals-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61d2deaee1a634f401e1be69fb3bc2489db1fc32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6932757
+project-id = 1269000

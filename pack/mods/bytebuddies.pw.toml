@@ -1,0 +1,13 @@
+name = "ByteBuddies"
+filename = "bytebuddies-0.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61ebe9f71e0d3e4b820aba27d4f583b5b292beda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7231619
+project-id = 1366195

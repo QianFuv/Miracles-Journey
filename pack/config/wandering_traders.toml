@@ -1,0 +1,31 @@
+
+["Trader Spawns"]
+	#Enable trader spawns for animals
+	ENABLE_ANIMAL_TRADER_SPAWN = true
+	#Enable trader spawns for books
+	ENABLE_BOOK_TRADER_SPAWN = true
+	#Enable trader spawns for decorations
+	ENABLE_DECORATION_TRADER_SPAWN = true
+	#Enable trader spawns for exclusive items
+	ENABLE_EXCLUSIVE_TRADER_SPAWN = true
+	#Enable trader spawns for forest-related items
+	ENABLE_FOREST_TRADER_SPAWN = true
+	#Enable trader spawns for potions
+	ENABLE_POTION_TRADER_SPAWN = true
+
+["Loot Recovery"]
+	#Enable Loot recovery
+	ENABLE_LOOT_RECOVERY = true
+	#Enable bell drop (only if ENABLE_LOOT_RECOVERY is true)
+	ENABLE_END_BELL_DROP = true
+
+[Messages]
+	#Display messages in actionbar (visible 2s above hotbar) or chat
+	MESSAGES_TO_ACTIONBAR = true
+
+["Trader Despawn"]
+	#Settings related to trader despawn time:
+	#Time it takes traders to despawn (24000 = 1 mc day = 20 minutes) (default 48000)
+	#Range: > 0
+	TRADER_DESPAWN_TIME = 48000
+

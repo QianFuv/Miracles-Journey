@@ -1,0 +1,13 @@
+name = "Create: Threaded Trains"
+filename = "createthreadedtrains-forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83e84cc50c85c94c187f9e2019ab43f2478fd4e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7208557
+project-id = 1381890

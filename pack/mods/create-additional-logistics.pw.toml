@@ -1,0 +1,13 @@
+name = "Create: Additional Logistics"
+filename = "createadditionallogistics-1.20.1-1.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15e34da52abb720d1fc07a8c124a7fe3a32befd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7218919
+project-id = 1359885

@@ -1,0 +1,48 @@
+
+#Mob Configuration
+[mob_configuration]
+	#Add mobs (preferably undead) that the Necromancer can summon. 
+	#To do so, enter the namespace ID of the mob, like "minecraft:zombie".
+	#If this list is empty, zombies will be summoned instead.
+	#If a mob chosen from this list cannot be spawned, a zombie will be summoned instead.
+	necromancerMobSummons = ["minecraft:zombie", "minecraft:skeleton"]
+	#Add mobs (preferably undead and aquatic) that the Drowned Necromancer can summon. 
+	#To do so, enter the namespace ID of the mob, like "minecraft:drowned".
+	#If this list is empty, drowned will be summoned instead.
+	#If a mob chosen from this list cannot be spawned, a drowned will be summoned instead.
+	drownedNecromancerMobSummons = ["minecraft:drowned", "dungeonsmobs:sunken_skeleton"]
+	#Enable the default ability of Icy Creeper Explosions to grief the environment. 
+	#If you prefer their explosions to not damage the environment, disable this feature. [true / false]
+	enablyIcyCreeperGriefing = true
+	#Enable the Endersent's bossbar & fog to appear
+	#Off by default, since it spoils stronghold locations. [true / false]
+	enableEndersentBossBar = false
+
+	#Vanilla Mob Configuration
+	[mob_configuration.vanilla_mob_configuration]
+		#Enable the addition of additional attributes to Husks to make them as powerful as they are in Minecraft Dungeons. [true / false]
+		enableStrongerHusks = true
+		#Enables Spiders and Cave Spiders shooting webs as a ranged attack like they do in Minecraft Dungeons. [true / false]
+		enableRangedSpiders = true
+		#Makes Mooshrooms hostile, like in Minecraft Dungeons. [true / false]
+		enableHostileMooshrooms = true
+
+#Raid Configuration
+[raid_configuration]
+	#Enable the addition of Mountaineers to raids. [true / false]
+	enableMountaineersInRaids = false
+	#Enable the addition of Royal Guards to raids. [true / false]
+	enableRoyalGuardsInRaids = false
+	#Enable the addition of Geomancers to raids. [true / false]
+	enableGeomancersInRaids = true
+	#Enable the addition of Mages to raids. [true / false]
+	enableMagesInRaids = false
+	#Enable the addition of Iceologers to raids. [true / false]
+	enableIceologersInRaids = false
+	#Enable the addition of Windcallers to raids. [true / false]
+	enableWindcallersInRaids = false
+	#Enable the addition of Squall Golems to raids. [true / false]
+	enableSquallGolemsInRaids = true
+	#Enable the addition of Redstone Golems to raids. [true / false]
+	enableRedstoneGolemsInRaids = true
+

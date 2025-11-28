@@ -1,0 +1,13 @@
+name = "Compact Crafting Fork"
+filename = "compactcrafting-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "073874a84df95c03b3fef0fce5886c0668c60b31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7258049
+project-id = 1388983

@@ -1,0 +1,13 @@
+name = "Super Lead"
+filename = "superleadrope-1.20.1-0.0.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36658364a0b664706af03cb3b14d4604705e0a19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7174457
+project-id = 1372770

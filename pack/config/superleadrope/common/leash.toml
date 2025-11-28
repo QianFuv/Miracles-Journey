@@ -1,0 +1,68 @@
+
+#Leash Common Config
+[Command]
+	#Enable or disable the SLP mod command prefix
+	enableSLPModCommandPrefix = true
+	#The prefix of this mod's commands
+	# [ Default:'slp'] 
+	SLPModCommandPrefix = "slp"
+
+[Entity]
+	#Entity teleport whitelist.
+	#Accepted formats:
+	# - #modid                 : allow teleporting to all entities from a specific mod
+	# - modid:entity_name      : allow teleporting to a specific entity
+	# - #modid:tag_name        : allow teleporting to all entities under a given entity type tag
+	teleportWhitelist = ["#minecraft", "modernlife:bicycle", "modernlife:motorboat"]
+
+[LeashSettings]
+	#Maximum leash distance (in blocks) for any entity
+	#Range: 1.0 ~ 256.0
+	maxLeashLength = 6.0
+	#Default elastic distance for the Super Lead rope
+	#Range: 0.2 ~ 4.0
+	elasticDistanceScale = 1.0
+	#Leash break factor = maxDistance * factor
+	#Range: 1.0 ~ 4.0
+	extremeSnapFactor = 2.0
+	#Spring dampening coefficient
+	#Range: 0.0 ~ 1.0
+	springDampening = 0.7
+	#Axis-specific elasticity coefficients for X,Y,Z axes
+	axisSpecificElasticity = [0.8, 0.2, 0.8]
+	#Maximum number of leashes per entity
+	#Range: 1 ~ 24
+	maxLeashesPerEntity = 6
+
+[TrueDamping]
+	#Enable true velocity-based damping force (adds -c*v term)
+	enableTrueDamping = true
+	#Damping factor (resistance against entity velocity)
+	#Range: 0.0 ~ 2.0
+	dampingFactor = 0.1
+	#Maximum leash pulling force (to prevent over-aggressive pulling)
+	#Range: 0.1 ~ 10.0
+	maxForce = 1.0
+	#Spring stiffness multiplier for players
+	#Range: 0.05 ~ 1.0
+	playerSpringFactor = 0.3
+	#Spring stiffness multiplier for mobs
+	#Range: 0.05 ~ 2.0
+	mobSpringFactor = 0.5
+
+[LeashStateSettings]
+	#Default leash attachment point offsets for entities.
+	#Reference point: the entity's eyeHeight (eye / head position).
+	#Format: vec3(x,y,z) : [entity_list]
+	#Optional names: vector3, vec3d, offset
+	#Example: vec3(0,0.2,0) : [minecraft:bee, minecraft:horse]
+	#Priority order: specific entity > tag > mod > *
+	defaultApplyEntityLocationOffset = ["vec3(0,-0.2,0) : [*]", "vec3(0,-0.22,-0.2) : [minecraft:player]"]
+	#Default leash holder attachment point offsets (where the leash attaches to the holder).
+	#Reference point: the entity's eyeHeight (eye / head position).
+	#Format: vec3(x,y,z) : [entity_list]
+	#Optional names: vector3, vec3d, offset
+	#Example: vec3(0,-0.5,0) : [minecraft:player]
+	#Priority order: specific entity > tag > mod > *
+	defaultHolderLocationOffset = ["vec3(0,-0.2,0) : [*]", "vec3(0,-0.6,0) : [minecraft:player]"]
+

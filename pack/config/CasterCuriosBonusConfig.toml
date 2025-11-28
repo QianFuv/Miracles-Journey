@@ -1,0 +1,74 @@
+
+[Eureka]
+	#List of additional spell school attributes (format: modid:school)
+	"Extra Schools" = ["traveloptics:aqua"]
+	#Multiplier for Extra CD from additional spell power
+	#Range: 0.0 ~ 10.0
+	EurekaExtraCDMultiplier = 0.33000001311302185
+
+["Mind to Matter Settings"]
+	#e.g. 0.015 means gaining 3 bonus HP when max mana is 200
+	#Range: 0.0 ~ 1.0
+	mindToMatterHPMultiplier = 0.015
+
+["Voidsnare Settings"]
+	#Range: 1.0 ~ 128.0
+	VoidsnareMinDropTeleportingRadius = 5.0
+	VoidsnareSpellDamageIsNecessary = true
+
+["Calamity Resonator Settings"]
+	#Range: 0.0 ~ 1.0
+	calamityResonatorSplashPercent = 0.25
+	#Range: 1 ~ 1919810
+	calamityResonatorCooldownTicks = 40
+
+["Reckless Utterance Settings"]
+	#Range: > 1
+	recklessUtteranceMaxOverload = 200
+	#Range: > 1
+	recklessUtteranceSilentTicks = 1200
+	#Range: 1 ~ 3000
+	recklessUtteranceArcaneOverdriveDurationTicks = 200
+
+["Venomous Assault Settings"]
+	#The maximum fraction of the target's max health that a single detonation may deal. For example, 0.5 means detonations against a 200-HP target can deal at most 100 damage.
+	#Range: 0.0 ~ 10.0
+	venomousAssaultDamageMaxHealthPercentLimit = 0.2
+	#A flat upper limit for the damage of a single detonation, applied after the max-health percentage cap. For example, a value of 70 means a single detonation can never exceed 70 damage, even against high-health targets.
+	#Range: 20.0 ~ 2.147483647E9
+	venomousAssaultDamageValueLimit = 114514.0
+
+["Mana Overflow"]
+	#Extra mana cost multiplier
+	#Range: 0.0 ~ 10.0
+	"Extra Mana Cost Multiplier" = 1.5
+	#Extra healing multiplier
+	#Range: 0.0 ~ 10.0
+	"Extra Heal Multiplier" = 1.3
+	#Extra damage multiplier
+	#Range: 0.0 ~ 10.0
+	"Extra Damage Multiplier" = 1.3
+	#Additional spell level from Mana Overflow (default = +1)
+	#Range: 0 ~ 10
+	"Bonus Spell Level" = 1
+
+["Crimson Pledge Settings"]
+	#Percentage of lifesteal healing shared to nearby allies (e.g. 0.5 = 50%)
+	#Range: 0.0 ~ 1.0
+	"Shared Heal Percent" = 0.314
+	#Radius (in blocks) for sharing lifesteal healing
+	#Range: 1.0 ~ 64.0
+	"Heal Share Radius" = 5.0
+
+["Giant Killer Settings"]
+	#e.g. 0.25 means dealing 1.5x damage to the enemy whose size is twice of you
+	#Range: 0.0 ~ 1.0
+	giantKillerDamageScaling = 0.25
+	#Maximum final damage multiplier applied by Giant Killer (e.g., 3.0 = up to 3x damage).
+	#Range: 1.0 ~ 100.0
+	giantKillerMaxMultiplier = 2.0
+
+["All By Movement Settings"]
+	#List of step-like spells affected by All By Movement (format: modid:spell_id)
+	"Step Spells" = ["irons_spellbooks:frost_step", "irons_spellbooks:blood_step", "irons_spellbooks:burning_dash"]
+

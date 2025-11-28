@@ -1,0 +1,13 @@
+name = "Cornucopia Reborn"
+filename = "cornucopia-0.2.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/laatdxjH/versions/2IEvtTyW/cornucopia-0.2.1-beta.jar"
+hash-format = "sha512"
+hash = "01c480ee3d04a91fe415064e69a3524be88f769dd244f7503246fe71a12f41bc9d554d53285a5bf7ce6f998b1130ec0b8f506305f2bbf5e8c72b7ec3e04af6a4"
+
+[update]
+[update.modrinth]
+mod-id = "laatdxjH"
+version = "2IEvtTyW"

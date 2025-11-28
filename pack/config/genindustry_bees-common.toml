@@ -1,0 +1,21 @@
+#How much RF/t an unupgraded Genetic Imprinter should use while processing a recipe.
+#Will be capped at 1/2 the RF capacity.
+#Range: > 1
+imprinterBaseRF = 1000
+#Base RF capacity of the Genetic Imprinter.
+#Range: > 2
+imprinterRFCapacity = 500000
+#How many ticks an unupgraded Genetic Imprinter takes to complete a craft.
+#Range: > 2
+imprinterBaseSpeed = 100
+#How much RF/t an unupgraded Genome Extractor should use while processing a recipe.
+#Will be capped at 1/2 the RF capacity.
+#Range: > 1
+extractorBaseRF = 500
+#Base RF capacity of the Genome Extractor.
+#Range: > 2
+extractorRFCapacity = 100000
+#How many ticks an unupgraded Genome Extractor takes to complete a craft.
+#Range: > 2
+extractorBaseSpeed = 100
+

@@ -1,0 +1,13 @@
+name = "Goety Iron Link"
+filename = "GoetyIronLink-Forge-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "847ee77be5b047a944519f95d01a1576d3101006"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7212826
+project-id = 1368946
