@@ -1032,6 +1032,11 @@
     "modId": "crabclaws",
     "version": "1.2.0"
   },
+  "CraftAudit-1.0.8.jar": {
+    "jarName": "CraftAudit-1.0.8.jar",
+    "modId": "craftaudit",
+    "version": "1.0.8"
+  },
   "craftingtweaks-forge-1.20.1-18.2.6.jar": {
     "jarName": "craftingtweaks-forge-1.20.1-18.2.6.jar",
     "modId": "craftingtweaks",

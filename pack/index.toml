@@ -25,10 +25,6 @@ file = "config/CSC/CSC_Warn.log"
 hash = "57d4a362e38f4655763552f77d414bfa7a4483a47ae126abe2eeb6cc3ba4f8d9"
 
 [[files]]
-file = "config/CSC/Data/variables.data"
-hash = "ae1bba83170229d521290d25cedc8adc7cb824ce8f12d9b1a8c6c420769e8f6a"
-
-[[files]]
 file = "config/CSC/config.toml"
 hash = "1deb67465f922015a584271c54fa2a6a7d8869da91b5f519f5e2ddab2bb07ebe"
 
@@ -1754,7 +1750,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "dc768429d57bc1dc9f0850c7facfc69b437587658846d790d43f81834f946f43"
+hash = "ed2f5ad3bfd57ba7bb12594330d59ff3dabe5154812d0b4fb6f0610768a335d8"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2319,10 +2315,6 @@ hash = "2c42caae3e5cea94ef2e5e46aa3f24c01ca005cff938b910a8c3d2be5d8a2c16"
 [[files]]
 file = "config/enchantedpotato/PressurizedCollapse.toml"
 hash = "9d8c86721d40424c83bfddbc62b2d135e75bb20d773d70a6ddc7df6b130641dd"
-
-[[files]]
-file = "config/enchantedpotato/README.txt"
-hash = "ec4de6fe36d7e313351a4f71f58553c8bd533532d4d3149733bc52b0a15fcaa2"
 
 [[files]]
 file = "config/enchantedpotato/RippleOfDeath.toml"
@@ -3342,11 +3334,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "a70e98014468461a4bbaca9879456bf76fceb9521c1c4fad5bbcfb73f2e914b2"
+hash = "332ac83ac16366e8c9c69527a3d5463767820ae360f9b4b8fe0ad44f590d2f29"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "13b97dc40976dca8b83f66b83606c3ba0133d19048bf593bb13ba31331f765fe"
+hash = "8514aa13a961aacb2c6ae5085da85bb70ec9fb946f4dd59bd658f7d255a2a429"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -3366,7 +3358,7 @@ hash = "5f62b2721cedd82783258e18e580a3ce1141b66b3340cfa2f66be04af28645df"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "4a235a1ab38fc75eb9da1dac46c38cb464024ff3c48864412f1610f24cbaf088"
+hash = "7d174ffac53ebc828b5cf490280c7c2c03c0e0112272034301519bf547b4ae56"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -10629,7 +10621,7 @@ hash = "06873656415465eb2a3598090e89ef3b883aec7ff0133a54ff2ad5d096175e68"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/.uplang_cache.json"
-hash = "ede2bc5054b4505487ed3cfb2d7a97131023bb33b37ff2ea92890a49b974ad76"
+hash = "8005a4cee4c5744935e68e9d26808acfdd33f03eea4bf2217dd4f258e28368ce"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/abnormals_delight/lang/en_us.json"
@@ -10724,6 +10716,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/aetherdelight/lang/zh_cn.j
 hash = "065914635bdee2efbe27198d61d53b94aa52138f5a6344efc6304caedecb455f"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/alex_caves_dimensions/lang/en_us.json"
+hash = "c398c7c75782b0e3206b581c2f2936d5d07fa536c86ab521677f58eb9d35c401"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/alex_caves_dimensions/lang/zh_cn.json"
+hash = "4fdd32e2632d152be8510aadba18d0e69f09c7ee04a5fddd9617fbbbd3b1aa7a"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/alexscaves/lang/en_us.json"
 hash = "3fcd2d5ed3726c1e8c98be5abd30d21fee9ebdbe60347018c1a837cf969bab91"
 
@@ -10762,6 +10762,14 @@ hash = "bb56349d0c0d77ed49998bf81533db473a542b9c4f18804b62e9f8c5a262a318"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/almostunified/lang/zh_cn.json"
 hash = "7b1ae2f65ecbc9c98b359905c525dc2caae271375ac0bfe990f8d5903bbe7d3b"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/aloof/lang/en_us.json"
+hash = "5296ffe3b682f7ab58769f321fc24531e09c23edac40c40984bd0cc39bd6ff37"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/aloof/lang/zh_cn.json"
+hash = "5296ffe3b682f7ab58769f321fc24531e09c23edac40c40984bd0cc39bd6ff37"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/amendments/lang/en_us.json"
@@ -10925,11 +10933,11 @@ hash = "9162377204b80cbba81c55eaa2060e9fedbbafabf775023df8dc361d5d5ade28"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/ars_nouveau/lang/en_us.json"
-hash = "dd2753ef612b0144bcf04921c39144d79bd49cfc906d2046fc572dda626e9287"
+hash = "322ed7d19617f25b333badf9b98ef8f36bebb36aa60783c13632b544a878080f"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/ars_nouveau/lang/zh_cn.json"
-hash = "c610ad5a0b5ab62edb7a7ab33e48ef571ba19bd2a0cb8ff3a6ff5688f9b4b11d"
+hash = "0385be4724267abe6779d72c31aa64a8d98c0feaeeef357018f976ff2eab4f37"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/ars_nouveau/patchouli_books/worn_notebook/zh_cn/categories/ars_ocultas.json"
@@ -11404,6 +11412,22 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/biomesoplenty/lang/zh_cn.j
 hash = "10d78a1d874567f3e31e6eaec8f065b9a0a5b20b0f50194088010a670b293616"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/blastfromthepast/lang/en_us.json"
+hash = "0d30cf02c9a8a9aff2be020709ad42f0e8cfeb8c567e146ebc24fad4f03239c2"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/blastfromthepast/lang/zh_cn.json"
+hash = "0d30cf02c9a8a9aff2be020709ad42f0e8cfeb8c567e146ebc24fad4f03239c2"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/blazingbamboo/lang/en_us.json"
+hash = "ab103aee34186b1c73da495a3aece18583cba7a919a083816cc7cfd3d3b9beb6"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/blazingbamboo/lang/zh_cn.json"
+hash = "ab103aee34186b1c73da495a3aece18583cba7a919a083816cc7cfd3d3b9beb6"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/blue_skies/blue_skies/journal_lang/zh_cn.json"
 hash = "aeac06d859f7bf8afec1099ffe98da6cc24907e20d89708da9140a5325504f2b"
 
@@ -11470,6 +11494,14 @@ hash = "257f3b8da7d88f3f0261039e9da262ea87a67b657a52a90aa9c107484cb15cf7"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/botania/lang/zh_cn.json"
 hash = "69d047706e10ebdcc9e2007dbd9f225b6d45b70c117859ef876ca17754c07392"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/botanicalmachinery/lang/en_us.json"
+hash = "6df01bb24f919e166505556bc7d4465a1bbe7eb2fbd669c876f70463428859c4"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/botanicalmachinery/lang/zh_cn.json"
+hash = "0be42ce7f39d074719f11b7db8c825df068c3971f5947cf18f673f66d557958e"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/botanicpledge/lang/en_us.json"
@@ -11568,6 +11600,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/bygonenether/lang/zh_cn.js
 hash = "a726fd479683efd98a35cf67a1f58dbe9519ced393f5144ac388af740879c24a"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/bytebuddies/lang/en_us.json"
+hash = "6b4638356263d4786494b3ee57d02761cd5ce81f39915f19ebcdd118cb19befd"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/bytebuddies/lang/zh_cn.json"
+hash = "b6a356bc44c734deeb670f565500ce50329eadbcae313e0b9c1596b41a4b3c36"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/caelus/lang/en_us.json"
 hash = "765b26af9561a4aa82e3097acf8929404e79bc0c45eae60f9a7c12527002ca1d"
 
@@ -11584,12 +11624,28 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/canonnukes/lang/zh_cn.json
 hash = "03276278d8eb39cb0a7f4e662ca0e5633f6a87f4956c80fe3c95432a0781b67e"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/caravans/lang/en_us.json"
+hash = "538eda8508f4a9fdbd1a8979d3164b1f7d4de5e0f7f692da8adf1b1192f01edc"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/caravans/lang/zh_cn.json"
+hash = "538eda8508f4a9fdbd1a8979d3164b1f7d4de5e0f7f692da8adf1b1192f01edc"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/casinocraft/lang/en_us.json"
 hash = "e937f201b4197ef2108428caada56d965f9b43aa60e053cfddc4643e6cd276d0"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/casinocraft/lang/zh_cn.json"
 hash = "e937f201b4197ef2108428caada56d965f9b43aa60e053cfddc4643e6cd276d0"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/caster_curios_bonus/lang/en_us.json"
+hash = "67086015435665f08d9da57b218712e0130a4d5d6ad46292cdf6f39a38b79217"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/caster_curios_bonus/lang/zh_cn.json"
+hash = "6be8a7f687ba247549a2734bfef413e6e5a6fdb79754e6fc097462f2ddc48082"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/casualness_delight/lang/en_us.json"
@@ -11792,12 +11848,36 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/colorwheel/lang/zh_cn.json
 hash = "809ba8a557750a9b54c0c1ebb0c6f15709102c2c3f9b1a7f26eb5630f0ca2132"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/comfortable_campfires/lang/en_us.json"
+hash = "af995ab31039a624fe91c358ac13ad9dfe35e58618ce7185d1ce947caba89002"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/comfortable_campfires/lang/zh_cn.json"
+hash = "af995ab31039a624fe91c358ac13ad9dfe35e58618ce7185d1ce947caba89002"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/compactcrafting/lang/en_us.json"
+hash = "c35317cb4178e9a16bb195dfb312bec0093bff2d7c604d394ccf18b4d6043f26"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/compactcrafting/lang/zh_cn.json"
+hash = "835c91704e272df39e37d87350e3df7c5306d113a723567234675ba5a768bd3f"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/companion/lang/en_us.json"
 hash = "3988e60b7fe1e03b14c2bbaca77b18b947f99b6cde96b98473ea531d2a58858b"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/companion/lang/zh_cn.json"
 hash = "9a7ab8bc4c4703d8a8942a2ea0f4cb1912a6b5116d84f57ab882ddf22b417ff3"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/complicated_bees/lang/en_us.json"
+hash = "e35e50ddbce9da7b6749713f9e67b9087210c86de06d390fad38356f5979a17a"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/complicated_bees/lang/zh_cn.json"
+hash = "8ebc5de07720cb9257b1d7a7a481d7678deaea395262932bab13f911e5503ccc"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/compressedcreativity/lang/en_us.json"
@@ -11864,6 +11944,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/controlling/lang/zh_cn.jso
 hash = "befb8bcfae732c642f8ea5a2a5c1740a48aedbd7ef187f477b2d2164ce4e86a7"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/convenient_malum/lang/en_us.json"
+hash = "e431fdca74c62c9a1019e4e94399247545c4299447b003bb167e4f6d76066ffb"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/convenient_malum/lang/zh_cn.json"
+hash = "843916cc2fe08c320d3919e3106d34fe88467171ec45e5aae989661299ba171f"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/convenientcurioscontainer/lang/en_us.json"
 hash = "6910d5bba6d9906bfa0d7e3078c824dc03050b3638141ffe316efa9baab948fa"
 
@@ -11902,6 +11990,14 @@ hash = "7189e28fba8aad1b2d14bc4992f0e6bfd4001e6284fd7751bd447bbef3dc70eb"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/corn_delight/lang/zh_cn.json"
 hash = "af594d90643c18eeadc9cc3189c0603d05bd9f838dc4fa761d4ff43329939aba"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/cornucopia/lang/en_us.json"
+hash = "9414e2918aea1f12a5b7193273cef1d3d99612a23f08d10e5d5edcdc891a1b5b"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/cornucopia/lang/zh_cn.json"
+hash = "cc79c689286da1fd3d55a1a61718c402d8cbf2d71c12908577ded903e89a4a76"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/corpse/lang/en_us.json"
@@ -11952,6 +12048,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/crabbersdelight/lang/zh_cn
 hash = "b7979ae076f4a150431fcc7c4482d399a006c908f04d1e97b70989df9cad33e0"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/crabclaws/lang/en_us.json"
+hash = "04457e04bcf93b239c13448bf26fe008bad7aaa33dbb44a5befff12aeb51f3c9"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/crabclaws/lang/zh_cn.json"
+hash = "04457e04bcf93b239c13448bf26fe008bad7aaa33dbb44a5befff12aeb51f3c9"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/craftingtweaks/lang/en_us.json"
 hash = "f1c0cd08709a7cf6a0b6c9a2cb422ce421a81cf2c65bb2f74f67726d430fc353"
 
@@ -12000,6 +12104,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_central_kitchen/lan
 hash = "ec5d50ac04424aff16c79506e0624a2a82fb88f6395121914789929fb72ffe3a"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_colored_chain_conveyor/lang/en_us.json"
+hash = "71abc8013db71485ae6465b20bbd24c8d0af3bb0fa9709a65acfd148c73452f4"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_colored_chain_conveyor/lang/zh_cn.json"
+hash = "71abc8013db71485ae6465b20bbd24c8d0af3bb0fa9709a65acfd148c73452f4"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_connected/lang/en_us.json"
 hash = "d37b4d4e99143a8d92b0dbdd06a82b4fdb2bef5289404ae90909f93ed70a315b"
 
@@ -12032,6 +12144,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_deepfried/lang/zh_c
 hash = "d55705b57428fb874ba1efd954cafe5289a106c1f6b63344fa6d25379a256105"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_extra_casing/lang/en_us.json"
+hash = "1f8bad5de3a1a8c0d3f8b6ed2d0f8cede9d31a48b8fa268a9fcbb6db9a819e3a"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_extra_casing/lang/zh_cn.json"
+hash = "1f8bad5de3a1a8c0d3f8b6ed2d0f8cede9d31a48b8fa268a9fcbb6db9a819e3a"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_factory/lang/en_us.json"
 hash = "8b3d37841a7a87e5974604309abb748478df6124b5767218b7db788b3d4c0c20"
 
@@ -12048,6 +12168,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_fantasizing/lang/zh
 hash = "588ab8e83edd9bfc4732aee088801e8f7b76235742514ae38204941d7a4823d9"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_henry/lang/en_us.json"
+hash = "c409fe947619d5af303daf221cee31a12e98bc44b4a096f040c3a43041c94b29"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_henry/lang/zh_cn.json"
+hash = "c409fe947619d5af303daf221cee31a12e98bc44b4a096f040c3a43041c94b29"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_hypertube/lang/en_us.json"
 hash = "47695dfcaf0a174c79dcd4501bdd555ff6123ab9f2f6ce1c6e5fd8627bef800e"
 
@@ -12062,6 +12190,14 @@ hash = "e81f6244c453f3e8710e24ff5a64269b8a1f17a9a6c2ecfa7f5f375528d0401f"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_jetpack/lang/zh_cn.json"
 hash = "b884d97992d59cf92e6c4d1459cab9844dbaf307fa72ec6083ffcfb561732694"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_kinetic_illuminator/lang/en_us.json"
+hash = "5236ffcf3ce924a7b37f63e39f2dc94fde9f7adbf8dd5f03e497197018781c14"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_kinetic_illuminator/lang/zh_cn.json"
+hash = "5236ffcf3ce924a7b37f63e39f2dc94fde9f7adbf8dd5f03e497197018781c14"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/create_mechanical_spawner/lang/en_us.json"
@@ -12152,6 +12288,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/createaddition/lang/zh_cn.
 hash = "97a8227e6dc4f45f67875ecbb518cab6874c68e9d9892d553f52217aa7c23f16"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createadditionallogistics/lang/en_us.json"
+hash = "ee80d207ace6a52e8bbe0c9b52613ba7db2fd232131d26267824eebb457607da"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createadditionallogistics/lang/zh_cn.json"
+hash = "a4b5f99876d321040d910e6eedff8549b42101ead87400331c091a3ab5ca32ba"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createaddoncompatibility/lang/en_us.json"
 hash = "8e0974c3ffea3d2e046ea6ba910bbd915086a88b1beb87682d428dc5f2ca18f4"
 
@@ -12200,6 +12344,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/createcasing/lang/zh_cn.js
 hash = "7cd8ed21cb95ab09cb1225c85390f0a93254996665c2a86d149a112133ab8af8"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createcclogistics/lang/en_us.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createcclogistics/lang/zh_cn.json"
+hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createdeco/lang/en_us.json"
 hash = "9c0de4f413ef2f751ea649dac53682a0ce8376252a0df173721fe764dfd30217"
 
@@ -12232,20 +12384,28 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/createframed/lang/zh_cn.js
 hash = "9b35ee7d479d3a8b398c5c1575302bf7784c572597b525773b313e89854f0172"
 
 [[files]]
-file = "resourcepacks/MiraclesJourney-I18nPack/assets/createmetallurgy/lang/en_us.json"
-hash = "c90f711b0f4d41f38c2b08f77c212b38a396a76dc755d9e32bffd046927cfa77"
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createmissiles/lang/en_us.json"
+hash = "f4f6a0c9b07bbe665de0292ea7d6e522dc7c403d408cb235bf8f94f4fc53cf6a"
 
 [[files]]
-file = "resourcepacks/MiraclesJourney-I18nPack/assets/createmetallurgy/lang/zh_cn.json"
-hash = "839c0702b5c40bfe8bc6d6486c478efbe264cc4a1271238796029e0fa820db20"
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createmissiles/lang/zh_cn.json"
+hash = "f4f6a0c9b07bbe665de0292ea7d6e522dc7c403d408cb235bf8f94f4fc53cf6a"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createprism/lang/en_us.json"
+hash = "37374fa114a121d7592b27dcfbfc412083d3cf9ddbaacbcc2711c605bae8dd18"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createprism/lang/zh_cn.json"
+hash = "34f9a6c938a9e42446465d995f6c4dbe3e14791b8c1fc27471e771ff0b8954a2"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createqol/lang/en_us.json"
-hash = "79f4bf6269d9e42b501b739b6f107dfdbc12d187d0c1e03af9380cf08a8f096c"
+hash = "4a4c7ab3e9cc26669fc69ee40b31e2921bff5da912904f7c95c04284cb7999e9"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createqol/lang/zh_cn.json"
-hash = "79f4bf6269d9e42b501b739b6f107dfdbc12d187d0c1e03af9380cf08a8f096c"
+hash = "4a4c7ab3e9cc26669fc69ee40b31e2921bff5da912904f7c95c04284cb7999e9"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createrailwaysnavigator/lang/en_us.json"
@@ -12272,20 +12432,20 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/createterminal/lang/zh_cn.
 hash = "61e771002df86e02f02b3a572259039ce6005feb7c7ee272922a5d28fbf57786"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createtransmission/lang/en_us.json"
+hash = "977ce66d2d1b8985e58caf2a6b3c98ef8910900d4f753bb17fbbb8fb9a8a6da5"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/createtransmission/lang/zh_cn.json"
+hash = "977ce66d2d1b8985e58caf2a6b3c98ef8910900d4f753bb17fbbb8fb9a8a6da5"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createutilities/lang/en_us.json"
 hash = "d003aa8deb968a770f569ebdab543d38ab36f3ea8087ed4c4cd11f17aea417c0"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/createutilities/lang/zh_cn.json"
 hash = "bde1a0003c541e7a8223503e2f67d9c04692fa717b8851689e9390ca6d3592b2"
-
-[[files]]
-file = "resourcepacks/MiraclesJourney-I18nPack/assets/creatingspace/lang/en_us.json"
-hash = "6ba43b351599ca7779d6084c678ad2721d08f9b054efc2a8903bee9afc5ddfb2"
-
-[[files]]
-file = "resourcepacks/MiraclesJourney-I18nPack/assets/creatingspace/lang/zh_cn.json"
-hash = "0b12532ee2b04bcd424296a80f9c314fe0e38542bafeb56958b5ba709e9891c7"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/creativecore/lang/en_us.json"
@@ -12362,6 +12522,14 @@ hash = "b1892ef0bfdaf286606fb5760e3f8a1301f0e6c73b10d1e1a2142b9a9004fd1c"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/curios/lang/zh_cn.json"
 hash = "4b2a450bb02219875c50ae8169fe3222db244063b6564b6c96dfa28e04a9b6aa"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/cursedearth/lang/en_us.json"
+hash = "62be6ffad7a22d9fab093cf8bdb26133f5546fc9df0dfec692ff81c2af796261"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/cursedearth/lang/zh_cn.json"
+hash = "62be6ffad7a22d9fab093cf8bdb26133f5546fc9df0dfec692ff81c2af796261"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/daily_rewards/lang/en_us.json"
@@ -12466,6 +12634,14 @@ hash = "7a5b25f795068e70dcb88866edc067a83f77ed49af2f3e8cc27c48210a717c7d"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/delightfulburgers/lang/zh_cn.json"
 hash = "9f39c4057b39810e4799e41d2aeb5741745eb30931604af390919e56cf012e31"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/delighto_flight/lang/en_us.json"
+hash = "1ad431984ba5b6c1851e6df5a927c12c477e9443ccdab67b61fb84b5b497bb1c"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/delighto_flight/lang/zh_cn.json"
+hash = "746cd5f4bfa50e9fba9d147d354f5d3543ccc3c06e8c09ceeb5a7341d74305b1"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/delivery_director/lang/en_us.json"
@@ -12628,6 +12804,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/dungeons_plus/lang/zh_cn.j
 hash = "4471e4bd8056b84671dc6a886f7b4aad7ce7555804151525293ce04a0fd36136"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/dungeonsmobs/lang/en_us.json"
+hash = "75fc259ff15cefa805fdc5904e25132f3a7b80903087d9d0c767c84391d32a82"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/dungeonsmobs/lang/zh_cn.json"
+hash = "75fc259ff15cefa805fdc5904e25132f3a7b80903087d9d0c767c84391d32a82"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/dustrial_decor/lang/en_us.json"
 hash = "2162fd2aa412fbcc3ba04241704d6a8ff870bee03f9de812c3266f84c44dccf5"
 
@@ -12689,7 +12873,7 @@ hash = "dbbb91a2adc3c600d8f56c70a5ce3140c5ed896b5ba74b7bf8cdf52639f6764b"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/eidolon/lang/zh_cn.json"
-hash = "2a7a6365343a8b2c68d088de5711d69971bb4f33e5da8ab23bacaf322c209517"
+hash = "fbd29a2eaeb49536ee0702e9a5d66839d2adba2b5243c69b7b6372d242dd8189"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/embeddium/lang/en_us.json"
@@ -12709,11 +12893,19 @@ hash = "c8e5cd52bd0f746673577aa2a4d388a114dfb1827af3149e442e5fe104c7d5ec"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/enchdesc/lang/en_us.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "e79cfaa74c643469fef10abcfd7056bede9a869c7293d2d68b9ea77fdf6dec8d"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/enchdesc/lang/zh_cn.json"
-hash = "e3566b3a06430868d71e9287dfd6c6c520a3da027aabea01951d407ee131dc2f"
+hash = "8c52589a8c6b480c7dba6635f7d4e8285ae3a230bb169fc701b0661381f2f87c"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/enchlibathome/lang/en_us.json"
+hash = "4600efb34df89b847d74e34167cb1716fbd945af312183f887d46cebf198a4fa"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/enchlibathome/lang/zh_cn.json"
+hash = "4600efb34df89b847d74e34167cb1716fbd945af312183f887d46cebf198a4fa"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/ender_relay/lang/en_us.json"
@@ -12773,11 +12965,11 @@ hash = "c1b64e8e869884cd86d92236c986a91649a980aea61505b8f463d220f0331e54"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/endrem/lang/en_us.json"
-hash = "ea2521a69cfaa6b4b294fb30e5708c503d88e0aa862c22cd0b3c71a01a747b84"
+hash = "005afc73c826a5a30970f2abcaa0f6d2c930503593930695b6700de22ba1bd37"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/endrem/lang/zh_cn.json"
-hash = "09044ad03fe12ea8efa56b6d12a01b09b09b4967ec8d7338c20ef1a2b72f5cdf"
+hash = "fbb7296663cb05add3373399b0744eac0a4a95f853071bec3115e9cd4aa419bb"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/ends_delight/lang/en_us.json"
@@ -12813,19 +13005,19 @@ hash = "7608adc9736a3db450d63008ffbba3538d94a7d589bb18efe0328d5d4d77e7cc"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/entity_model_features/lang/en_us.json"
-hash = "618f2aa7c7c256c771d10533feb64fc6b690e1a92f686b1786930a02652e7a6c"
+hash = "853f7e97772abcbf4da9f35afef7de51ca02864c91711f3d73c0a8a2d2bc8871"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/entity_model_features/lang/zh_cn.json"
-hash = "dbc27f887f204fed16242c87e8450bfcc959188029f3b0d9722ce01c307e6d08"
+hash = "ecf9447e5a1ee97f89916018ae7ab1ba58d01344d442ecc1eb04573ba86628bf"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/entity_texture_features/lang/en_us.json"
-hash = "09853fb7d18801ca03a0e02b6f2ce2da97e45ef291d14bc7874aecd56167a948"
+hash = "e59931bbf0093c4dcefdeed21ec1a4b02e9782b6ea670dae893ab745de8f1465"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/entity_texture_features/lang/zh_cn.json"
-hash = "cc566778b644e9ee6bb127ef616501fe0fe7e2a1d51920f2d2c1bdf0bbe878ae"
+hash = "0bf7692051ac7d041609fe9f30eb0fb58f923f23d015b18014c53df058299cd1"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/entityculling/lang/en_us.json"
@@ -12972,6 +13164,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/extrastorage/lang/zh_cn.js
 hash = "9639c1e2f4a8c72980f620aa9695846fa53073e96703ddc83c7f0d003ed42e96"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/extravagantdelight/lang/en_us.json"
+hash = "60c3852d4805b9daddb3be5f5ecc1c981a7da090c93134c6cbbd8233366ae53b"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/extravagantdelight/lang/zh_cn.json"
+hash = "60c3852d4805b9daddb3be5f5ecc1c981a7da090c93134c6cbbd8233366ae53b"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/extremesoundmuffler/lang/en_us.json"
 hash = "224478fb87978f6570b41342747b31586becd06349fc35ba3265db639f279c8e"
 
@@ -12997,11 +13197,11 @@ hash = "55f403d5a6c8ca5e4e7fe115b500014162a38de5baa1df3e159ade50f4338cbd"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/fancymenu/lang/en_us.json"
-hash = "cbff820f2f64e2ba981b9d542bd7fe13d791411d4ac7c9285dfd113564abf936"
+hash = "610cb5d067810be6711b51a2d272d4905c126240699881c3d5ba316ec9529b53"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/fancymenu/lang/zh_cn.json"
-hash = "c4892441352e3d5deaa51a9b5875a808b67b0ffdba39f90076c1af78f82f89e2"
+hash = "dd69cdc76f1ef745f36e8e32dc764cc5a92a16124b65327f70210e4848a86994"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/farmer_misery/lang/zh_cn.json"
@@ -13136,6 +13336,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/fpp/lang/zh_cn.json"
 hash = "c0110f472c7680e5267a4cd310e729eacc70eb2cb75117b757c8c4c28af84993"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/fragmentum/lang/en_us.json"
+hash = "52686d0f654c2c6d18d3be08381fdc09aba47a7ced24368e029d402e1ce1e322"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/fragmentum/lang/zh_cn.json"
+hash = "52686d0f654c2c6d18d3be08381fdc09aba47a7ced24368e029d402e1ce1e322"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/framework/lang/en_us.json"
 hash = "3c36ecb8334637ddda71bddd52cf742c88cc89c277ef5797131a38c80a1c500d"
 
@@ -13184,6 +13392,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/funkyfluids/lang/zh_cn.jso
 hash = "91fb6c9cf86e67a7be681e26ba32385c92b3dad1b1655cabfaa22416fd16f29f"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/furnituresoplenty/lang/en_us.json"
+hash = "6ca697a3e396cb9c1c23452e28b160893fa769e26b018bf220c666787a563c53"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/furnituresoplenty/lang/zh_cn.json"
+hash = "6ca697a3e396cb9c1c23452e28b160893fa769e26b018bf220c666787a563c53"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/fusion/lang/en_us.json"
 hash = "16b0b24d9e5aa0fdec54a625655376add4b76a385831dc7d65abe0435cbe7b7e"
 
@@ -13193,11 +13409,11 @@ hash = "16b0b24d9e5aa0fdec54a625655376add4b76a385831dc7d65abe0435cbe7b7e"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/fzzy_config/lang/en_us.json"
-hash = "e741b13d1fb996ff4cab8ea4e2e2b9c332bbe2954ebb24c96b4e66fa9ff188b1"
+hash = "99ad3a49a7023d2bd69ce63ac42c0316e3e7da96f5f276d4aefe3d43027e5270"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/fzzy_config/lang/zh_cn.json"
-hash = "e741b13d1fb996ff4cab8ea4e2e2b9c332bbe2954ebb24c96b4e66fa9ff188b1"
+hash = "99ad3a49a7023d2bd69ce63ac42c0316e3e7da96f5f276d4aefe3d43027e5270"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/galosphere/lang/en_us.json"
@@ -13248,6 +13464,22 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/gemlichens/lang/zh_cn.json
 hash = "e1f4e3937ce9ba0450347dbd633fa82d9b9e81f5514855729b50715e27ddbdd8"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/generalfeedback/lang/en_us.json"
+hash = "1967f44b60c2b00e04f8d38d354df188670a1485a30581cc6bea0aa1c5c3909b"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/generalfeedback/lang/zh_cn.json"
+hash = "2b13f0e72bd7862c992420f2c0ae524d238e9a25fd83e9946b8d2f4bb6975639"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/genindustry_bees/lang/en_us.json"
+hash = "b95f7f1caafa5866348735f0aaa9dc21dafbb6458ad5cf6ee5ef2ba0e98baff4"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/genindustry_bees/lang/zh_cn.json"
+hash = "b95f7f1caafa5866348735f0aaa9dc21dafbb6458ad5cf6ee5ef2ba0e98baff4"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/geotagged_screenshots/lang/en_us.json"
 hash = "4a757c0bfe02bc7275f17044adeea64536c5293926cfd14a171d2e18c0034219"
 
@@ -13296,12 +13528,36 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/goety/lang/zh_cn.json"
 hash = "5fb7d23066920d4b508f3ace393217f02a6031975623506e5e1d589e04b64104"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goety_iron/lang/en_us.json"
+hash = "74debbb84f3f97dfb3258587986f3e0a32208151929bab3be18f4cce19075200"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goety_iron/lang/zh_cn.json"
+hash = "6eb915f3754678cee24ec278f4eb35c4d14a5da8a8ac80cbcf8144fc248083a8"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/goety_spillage/lang/en_us.json"
 hash = "eb24187fe6ee3d37208774dd5b8371afa8672a149150ef628228c0fe7e480920"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/goety_spillage/lang/zh_cn.json"
 hash = "0ad8481f8bbbe7a03e0a9cc27b703e4fef5e8fea4ad931f9aad664f917160145"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goetydelight/lang/en_us.json"
+hash = "00f98b63ef0f0708e1781a3a7027103175a64831dbad44c99836b565a011f8ba"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goetydelight/lang/zh_cn.json"
+hash = "feec617ecd57f02707fb2b8dd569e3a7fd381e91273f7a50286f48bf0912ae78"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goetyironlink/lang/en_us.json"
+hash = "a755d0fceb61b14d3104bc97686ff8dc4061caca7a20509d94ae2af2b8586e45"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/goetyironlink/lang/zh_cn.json"
+hash = "d9d42eb0b061fa07794ca483a36c1a7537eb3862db760c4a337fe4e15480028b"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/golemdungeons/lang/en_us.json"
@@ -13342,6 +13598,14 @@ hash = "4ee5ddda6196750511d18d6005e36d71bed3815789fce4b322008351e1702190"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/greendelights/lang/zh_cn.json"
 hash = "48ae25c3794055e1f8de13ca3a96900b37979bf028c26cfbfedccf9ac0719fd3"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/gtbcs_geomancy_plus/lang/en_us.json"
+hash = "69cca4420db54d0f0264971213f0032eb582203776fe871b26e9392d2fc084fa"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/gtbcs_geomancy_plus/lang/zh_cn.json"
+hash = "cdab31f2e456286b19e83dfc9d608b6e1951a48bfcdb022dcdf04049de7195ed"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/gunswithoutroses/lang/en_us.json"
@@ -13409,11 +13673,11 @@ hash = "9d53b4f3d3e50cf3cdd70bacacc93477650a85f02a59cae6792d50e5d44861cd"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/hexcasting/lang/en_us.json"
-hash = "becce413a73f17456b50603ab1d9c56064381f1a9a4b481ee93b2b6313f0fdb1"
+hash = "50ab5c964fe3636d425c70815908ceb1be492ee49be50f5ab01f7bc7fd52f910"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/hexcasting/lang/zh_cn.json"
-hash = "5f0d1ae3f493ca2dce2a5f87eb76383d762f886fc2ba60515e1d5c0cbf6c891a"
+hash = "200c38d1a7c338f199b29f121c256d6b694088806d6f9f402c6c74d93a177a24"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/hexerei/lang/en_us.json"
@@ -13600,6 +13864,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/incubation/lang/zh_cn.json
 hash = "e7f5639ca4735a45188e107fa7218912c1ae27c3090505f63a6c902c141a5858"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/indigestion_tablet/lang/en_us.json"
+hash = "d5372d53d9d9094ac0ab9428284d681ec31b55a6d77a2d5d78ef1e9bb2fdd014"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/indigestion_tablet/lang/zh_cn.json"
+hash = "de57e8697c45249b542d4a9af31ca5a6476ca692ab4b1ddd7c429a1146dc86a4"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/infinitybuttons/lang/en_us.json"
 hash = "59b3e2a09a0dc881ea9af86f0c1ad761d5afaf0c3c895b323b2f8f8adec8f7c4"
 
@@ -13712,6 +13984,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/jadeaddons/lang/zh_cn.json
 hash = "fa7daf89b9600e1d46ee46e1e3d9979835bbd67120f02037466d944d0f20208c"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/jearchaeology/lang/en_us.json"
+hash = "9d251dae2276c4b0762c9cf7a4fa1257226ca25ffc30fdf278f5c3a88ec9bf8d"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/jearchaeology/lang/zh_cn.json"
+hash = "9d251dae2276c4b0762c9cf7a4fa1257226ca25ffc30fdf278f5c3a88ec9bf8d"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/jecharacters/lang/en_us.json"
 hash = "62a432e7e92db403ab93288f05764c29e29a7845fbe810a8f3a0fec5c2bc1f75"
 
@@ -13760,12 +14040,36 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/just_dandy/lang/zh_cn.json
 hash = "e77e2afa4b112e52efb0803414b146d8954101a6bba94659def1e0cd6ae706ac"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/justenoughbreeding/lang/en_us.json"
+hash = "639766fc469734005cc09d5585bb2f6481625d17369be70ccb0e61e528b4b062"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/justenoughbreeding/lang/zh_cn.json"
+hash = "c1569f44c705734f8163f92e2e11d852389e62531d8043569aab551359ce0b86"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/justenoughprofessions/lang/en_us.json"
+hash = "a85a13c1e2ef4f85bfc5a2972b7b77e39125ba3b7769596b1c416c35ab6837b6"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/justenoughprofessions/lang/zh_cn.json"
+hash = "9bdebfda85038d2e0af1850e3b69531500ed78b23b39f75421866a6b3c4ae4cc"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/kaleidoscope_cookery/lang/en_us.json"
 hash = "7eae1f9a389d4c07f8f6b30c145702a1859c6a69b5be6a730eb573de64144987"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/kaleidoscope_cookery/lang/zh_cn.json"
 hash = "c1f52555c9ac4bb44bc095e1ab7897130bb87f162efacdbc3ec1b60d0d84474d"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/kismet/lang/en_us.json"
+hash = "68c29ccfb16741506933ffb5ed0dc108396033f8b495799ae507e8d631299195"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/kismet/lang/zh_cn.json"
+hash = "68c29ccfb16741506933ffb5ed0dc108396033f8b495799ae507e8d631299195"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/kiwi/lang/en_us.json"
@@ -13802,6 +14106,14 @@ hash = "4bf23d93c51ea58b4a2350a6f50f9624becbe8568edcb2382754c4a73b9510b6"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/lanserverproperties/lang/zh_cn.json"
 hash = "da62459553af70fd6f8a7e8d30a37bf109c65127692b433fe69ba17fc59cdf3c"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/laserio/lang/en_us.json"
+hash = "54acab6f46109865d31530cae132eb380167f08d2f27b5408f040693c9ce110a"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/laserio/lang/zh_cn.json"
+hash = "cb0c587795123b207a91b0dda8150c143d73f1450b495a23e0a60000b4a608ce"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/legendary_monsters/lang/en_us.json"
@@ -13946,6 +14258,22 @@ hash = "f5df9f28bb5336a0aacc5cf8179d96d1ff88875ed456702ca4b097f7b1425cd6"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/man_of_many_planes/lang/zh_cn.json"
 hash = "fc3dcd34efd0cf235456a3ac98ff8198702bc92fc2de105c70bc13630f5d646b"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/manacrystals/lang/en_us.json"
+hash = "396465dd4e988dc14ff0a9e40aea1c92b878954240f3bb8e4946fb2731097641"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/manacrystals/lang/zh_cn.json"
+hash = "396465dd4e988dc14ff0a9e40aea1c92b878954240f3bb8e4946fb2731097641"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/manafluid/lang/en_us.json"
+hash = "ec16f484b0fd8b44bfcf14bdd558566fef62dbdd9aeed31d841709fdd96f8000"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/manafluid/lang/zh_cn.json"
+hash = "ec16f484b0fd8b44bfcf14bdd558566fef62dbdd9aeed31d841709fdd96f8000"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/manaliquidizer/lang/en_us.json"
@@ -14093,11 +14421,11 @@ hash = "e2044aa533ca793c9f06050a37924c8a7c274fc93735213e0cbab001ad19e556"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/modernfix/lang/en_us.json"
-hash = "a8d5ff21605df19c172c25b1ade087b31a041ced59e7aa1d7f442e83b2f0fc4d"
+hash = "f46f8bb29dada837e1b9782bb29b866a626433b308573d3b70dd5b439434ec6a"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/modernfix/lang/zh_cn.json"
-hash = "c6eca5dfc15f37a824193dff57495ed77d024508c7b909c3c76cf25e10f8f862"
+hash = "86e58f5dd9a82349f80e412467a13a9b289993e39e930c6245e4c3d42113bea0"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/modernui/lang/en_us.json"
@@ -14177,7 +14505,7 @@ hash = "7d41f39e38e619f562b1e4a37b585e771258d986510043af450ae36eb4e85042"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/moresnifferflowers/lang/zh_cn.json"
-hash = "e9cc56a60716e8f6a476edf96acab1a85df67381995552e2278df2295b66c2cc"
+hash = "aa55ec3dbc5bfbf080129d4317df0c4be53c3596e9b8f25a68eaa4cd58b68f58"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/morevillagers/lang/en_us.json"
@@ -14194,6 +14522,14 @@ hash = "c800c9356814e3425e98f36546c8947314df9765244c4893091ac3b8dc73ba1b"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/mowziesmobs/lang/zh_cn.json"
 hash = "16b8a23dfb30888a45b8f041b3a3bff996d72de90847ae06d8a7d36776f554be"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/muffins_slimegolem/lang/en_us.json"
+hash = "38b826b63fc8dd18c0c6ba7bda8e01c4801c87e7708182145853d7ca625bafe4"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/muffins_slimegolem/lang/zh_cn.json"
+hash = "38b826b63fc8dd18c0c6ba7bda8e01c4801c87e7708182145853d7ca625bafe4"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/muffins_thaidelight/lang/en_us.json"
@@ -14441,11 +14777,11 @@ hash = "e7e67a0b19ba6f53609df8441ab0951381c948ae648d141ac5f425568f235dec"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/parcool/lang/en_us.json"
-hash = "d022b865a2cbcc2f584f44571566ace8eca086735e2dfeb2fa1af0de8aa8b4ed"
+hash = "f059a6611d788e09444e18997afdf3c41266909957c5192a544d85b0ec869a60"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/parcool/lang/zh_cn.json"
-hash = "c8833c3c1f2a4b8fb923890e78e7b63591c1c7a6be202cb4ab59a9aea08175cf"
+hash = "439ec7578149c5654f29e9740978ceb4c252a8d37abc708653524f3e14dd41a9"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/passablefoliage/lang/en_us.json"
@@ -14457,11 +14793,11 @@ hash = "75355c6eaa2dbd3dc27d60c6afc15733e24ecd16bcc89b47a09d92896110ac2d"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/patchouli/lang/en_us.json"
-hash = "b58f7872a1c93f1ec5aac149b6f2f23f3533a6ae1b3fc6d817f3dbfee00e3ed8"
+hash = "14f363e958f8e7b3e06b20e8b0b94e36768e5b59e3138e86614fdf456bbb89df"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/patchouli/lang/zh_cn.json"
-hash = "0e2d90dad4da6294e795f925ab74304f3a300c939c77cc7ad6d3926821ed5aea"
+hash = "01dfb97b4a07409b602c8250cb6afbbd6808060c1c5e936149b820c50050b276"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/peacefulmoon/lang/en_us.json"
@@ -14848,6 +15184,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/respiteful/lang/zh_cn.json
 hash = "64c32892cbe0e64569cd1839a7299a7f26404d840829ff951a78c11b7eb94de8"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/ribbits/lang/en_us.json"
+hash = "4ae2f595e0283a7aca07e21ac318f9152d346ced1e9bfac6313f1f65bb78354c"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/ribbits/lang/zh_cn.json"
+hash = "03bc2762b6b2356b7d4a8d1787f24eb30ef7fac7f21ae55a7650222061e5cdad"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/rsinfinitybooster/lang/en_us.json"
 hash = "4fb0cca417787941c50665f3c08baef9bd8c15404c6c8a0f9651b55ab1ad1930"
 
@@ -14993,11 +15337,11 @@ hash = "550e1f1d661499878f0ee7cb8230291807413c387312b5e78b6803f253eae05b"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/sebastrnlib/lang/en_us.json"
-hash = "ccff0539262de154d93bf0d7bd50719e87c71bf809137d44ee92a810ae8f1494"
+hash = "f80c4c9c56d1dcd213f0a5249526899d1a96c4afb548d5609724fb46811bffd3"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/sebastrnlib/lang/zh_cn.json"
-hash = "ccff0539262de154d93bf0d7bd50719e87c71bf809137d44ee92a810ae8f1494"
+hash = "f80c4c9c56d1dcd213f0a5249526899d1a96c4afb548d5609724fb46811bffd3"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/seedbags/lang/en_us.json"
@@ -15344,6 +15688,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/subtle_effects/lang/zh_cn.
 hash = "d0de9f6cd69ed83bda4758e2182a7c539c2a1b9b9d1d17145b50834c5152135e"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/superleadrope/lang/en_us.json"
+hash = "a846ae1a0edf6b520abd321b7a36d49875a6e22fc3e817e40fc794c9e63060bd"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/superleadrope/lang/zh_cn.json"
+hash = "decd87ceebc6a5cefba7379e8a51d93b4059607923984c9ce916b5f1a4ca8371"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/supernatural/lang/en_us.json"
 hash = "f38b05deb6a216c0e4acb5d67b825047ad845c40ced1c6ce5d297722059da910"
 
@@ -15449,11 +15801,11 @@ hash = "4d415f8c03b96198165807d1dc2b9efd6f0becafaa973fda95ee7e68d1c93a2a"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/tconjei/lang/en_us.json"
-hash = "e3abae2b6985974dc1d66b54cbcfdf51ebfff8ee00623613203bfc70afa62cb4"
+hash = "06db8e3942c7b10ea6c61ae71d170237b5a5696d67fd02582eaf1e90a650a254"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/tconjei/lang/zh_cn.json"
-hash = "9d3f6dfa4ca255b56cddc011ff707467f57e956ac1e0247a0af0c385cf0333e2"
+hash = "302e43c220d129dc5c678567dc0f5935fc8c2239dcf8e1ccf1d16e94f39b7479"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/tconplanner/lang/en_us.json"
@@ -15510,6 +15862,14 @@ hash = "12d478bd8b091e21b7fcc8b2fe36cac2ed80ab44e4f646e7a7e9f2f26d5c5ca7"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/tfmg/lang/zh_cn.json"
 hash = "bfbb8cb0305f72a0539f27d0b33e99e9d10eb6fee54f9063aa1a4d77974c5bb9"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/tgears/lang/en_us.json"
+hash = "04ddc9f1ef43253379f0e0ab315da6f7aad7823b100d47bf978b8afc74c4bdd6"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/tgears/lang/zh_cn.json"
+hash = "c6bce801b33df25da084585f0eb6cba03e0427db022be89c151291af58bf7077"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/tide/lang/en_us.json"
@@ -15760,6 +16120,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/trade_cycling/lang/zh_cn.j
 hash = "558b6cd3573cbb9a4bd03397a4b939a7c9c7045d9ed588d8b01e4b901d59f0f1"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/tradetweaks/lang/en_us.json"
+hash = "36638d49da740006138e5b410b845ffaf9c2ae9c604c6c58f752ce7befba5eb0"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/tradetweaks/lang/zh_cn.json"
+hash = "c8caa4251554b97cc5c546a7d310efd41cf930f508b7011a56cd6725d1affeea"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/trailandtales_delight/lang/en_us.json"
 hash = "0f79428c1375ba2b8a1a1d781a0c9a67b5f101c7feb145d81d489a900d37afa5"
 
@@ -15840,6 +16208,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/turtlechargingstation/lang
 hash = "d14c7a4dab7c74c8f0c91d459cc52506e6f6af28bdd092d8c404bdcd5d79bc09"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/turtlecore/lang/en_us.json"
+hash = "4debe4eb19af39b97d5ef289cf461208145fc8202465f425ef58dbcd75c089c4"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/turtlecore/lang/zh_cn.json"
+hash = "4debe4eb19af39b97d5ef289cf461208145fc8202465f425ef58dbcd75c089c4"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/twigs/lang/en_us.json"
 hash = "75b8014d078467e28a921096444c2a581a9a9f911c6af4a7ba7818e958151e4b"
 
@@ -15881,11 +16257,11 @@ hash = "18c9dec5d5d46f30e7393c0bf4972c1f801d5e29cf18d82f9d64d1edfbbb885f"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/unionlib/lang/en_us.json"
-hash = "e05179156a576f6db8a143f9a96684ccf71f393e0b37df8ef8fb1901068e53a9"
+hash = "474670598d4296b537d2228cc31f4bfdb646010a91a77cdeef7de727b80bf959"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/unionlib/lang/zh_cn.json"
-hash = "e05179156a576f6db8a143f9a96684ccf71f393e0b37df8ef8fb1901068e53a9"
+hash = "474670598d4296b537d2228cc31f4bfdb646010a91a77cdeef7de727b80bf959"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/universalgrid/lang/en_us.json"
@@ -15929,11 +16305,11 @@ hash = "3f1bbb8479fc940256103471d13bc2d98bd520431f4a24a1a2f5859aa16a8e58"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/usefulslime/lang/en_us.json"
-hash = "1321138ec3a0387d54bc9247dfbadb11292c47c987089438572bce78f65559b3"
+hash = "b5f0ded549e16e71a62c93d3028606c00413409d7db3d5e5a56ab7dc6e87ab0c"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/usefulslime/lang/zh_cn.json"
-hash = "1321138ec3a0387d54bc9247dfbadb11292c47c987089438572bce78f65559b3"
+hash = "b5f0ded549e16e71a62c93d3028606c00413409d7db3d5e5a56ab7dc6e87ab0c"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/valhelsia_furniture/lang/en_us.json"
@@ -16008,6 +16384,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/assets/vintagedelight/lang/zh_cn.
 hash = "9e12f219881d1d01722fdf4bae45dac4baa737f17f64270f29a07bf0b8575e2c"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/vintageimprovements/lang/en_us.json"
+hash = "8625a0319d13c878cb982783ae6a86adbd3c4d750091e48b1e07386642b1202d"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/vintageimprovements/lang/zh_cn.json"
+hash = "c9b69bf853380e7adbf7c36663c78fd2b5502f5e46dc0bba8693255fc2fcef0d"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/vintagevibes/lang/en_us.json"
 hash = "4278640fedca4f54607ebb1579d410a65f85862ae71c4c8d4f9020b510735124"
 
@@ -16046,6 +16430,14 @@ hash = "7d23eaf513ba32051c8043cbf6e2b670c59ebb2634a95a49cc6f4bb8e0eae127"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/wakes/lang/zh_cn.json"
 hash = "7d23eaf513ba32051c8043cbf6e2b670c59ebb2634a95a49cc6f4bb8e0eae127"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/wandering_traders/lang/en_us.json"
+hash = "f42e18fdd2017a8b01f1a23327633489fd6bdf5d2fba8a3cbf1c76aa45cb3e31"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/wandering_traders/lang/zh_cn.json"
+hash = "f42e18fdd2017a8b01f1a23327633489fd6bdf5d2fba8a3cbf1c76aa45cb3e31"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/wandering_trapper/lang/en_us.json"
@@ -16094,6 +16486,22 @@ hash = "3dadbe562f3b186c9fe1545d0ccb7e13fea99c226ae07984a5ec6a1a9447981d"
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/waystones/lang/zh_cn.json"
 hash = "ce742e72a2a45a82ed1870f25d263066d0d578576324fc87903158efc68f2652"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/windswept/lang/en_us.json"
+hash = "c02101e9673ca837ce1fe09b5fdff735a43d0fb2470011c10f1654bb38c77d98"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/windswept/lang/zh_cn.json"
+hash = "674de313f5abd4162b551e923bfd557b5a2ee6d057a6d2c1efddb97c0399f04f"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/windswept_delights/lang/en_us.json"
+hash = "7dc38b82b12924213594dc44e7a22b0862ff69a16603ebb798fba98138518c79"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/assets/windswept_delights/lang/zh_cn.json"
+hash = "35b74748c6174658118d8f735a0421682e8f5d94a4a49218e077bc9fed09f583"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/workers/lang/en_us.json"
@@ -16590,6 +16998,10 @@ hash = "ac476b017d4e572d8462023acab0027c9ce16127be4659fbd882575b2d7019f9"
 [[files]]
 file = "vaultpatcher/patch/dlovin/inventoryhud/gui/renderers/VerticalMiniPotionRenderer.class"
 hash = "c045d234498dcd7d447383b505400fd4d7cc8c1e098b2e83f52a82a076abbfaf"
+
+[[files]]
+file = "vaultpatcher/patch/io/ejekta/bountiful/content/BountyItem.class"
+hash = "9b187a31da883ec02faf79e4a4e473d75212d4e8e1e1ba7967ecdcd81461d7f1"
 
 [[files]]
 file = "vaultpatcher/patch/me/flashyreese/mods/sodiumextra/mixin/reduce_resolution_on_mac/MixinWindow.class"
