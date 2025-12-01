@@ -4589,7 +4589,7 @@ hash = "8ed0ba997c19844911182695d9fc0ecb41f22db4def80f3173c01944641fbcf3"
 
 [[files]]
 file = "config/screenshot_viewer-client.toml"
-hash = "20711caa9c0b4146b7bd5f5d2aa9aca28dfc1c6b7b3c015b19cf577a86d9525d"
+hash = "6c3891b8eb647c96d358ac9357cb4827abad13c88c51cc4fd90dbd50e1b427fb"
 
 [[files]]
 file = "config/scuba_gear-common.toml"
@@ -5628,10 +5628,6 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "mods/CraftAudit-1.0.8.jar.disabled"
-hash = "c6a6cc2d54a59c3e1dfb04d52c457bea97c3ac6c6f7fd7b36dbdb303438e7b13"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "7dd9dc01340eb4fbd334ac9d4277b403dfd1e406e0230111aed4b9210465b116"
 metafile = true
@@ -6608,6 +6604,11 @@ metafile = true
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
 hash = "5c9c94bc624dccd558c40344b9ce93adbf59a31304cce399836f3a759c0078c9"
+metafile = true
+
+[[files]]
+file = "mods/craftaudit.pw.toml"
+hash = "e49f6bb1c551ff5fed91533c7e1eb984050a6b2bbc66d7e66a23a4a5ad83e82c"
 metafile = true
 
 [[files]]
@@ -10597,7 +10598,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a74ed6c83ac4056e747f6759866a8d4f695a0f5f5b2a633dfe2a527dade30054"
+hash = "9b5c59b56d178847b43ebed0eadb866efa19bf7f2be81df2ee5d5bc825d84f37"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

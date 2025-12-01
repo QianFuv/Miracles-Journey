@@ -1,0 +1,13 @@
+name = "CraftAudit"
+filename = "CraftAudit-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XURvx0KZ/versions/MCrdkLJq/CraftAudit-1.0.8.jar"
+hash-format = "sha512"
+hash = "940f5bed5bee5711d4389c8e2f58664e7b9a877522d7904a4c3fd4c89b9892182c7b27fe4ea5d3cf75a440a212c5678fb0c96bf255971ec275260fab379192c9"
+
+[update]
+[update.modrinth]
+mod-id = "XURvx0KZ"
+version = "MCrdkLJq"
