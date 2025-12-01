@@ -637,6 +637,10 @@ file = "config/appleskin-client.toml"
 hash = "b01fde08f9bf2f6eaf7dd37c33d5651f3de3da2f304e9fa82c5044d792ba6ac4"
 
 [[files]]
+file = "config/arcane_convergence-common.toml"
+hash = "2a56fc843cab653418dbf93ff6a4af735b18ea3a8ec6a37f8d6e8f9e1c7bb5e0"
+
+[[files]]
 file = "config/armorcurve-common.toml"
 hash = "8e47769f897d04994fbd9e158f11c9acfcc3c1374cc997829aee0a8ac5430211"
 
@@ -1750,7 +1754,7 @@ hash = "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "ed2f5ad3bfd57ba7bb12594330d59ff3dabe5154812d0b4fb6f0610768a335d8"
+hash = "c40f85d4db72c3e6530ab05db6b2b36a4af01afcac5310289fdb3e3834ca6eb3"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -5822,6 +5826,11 @@ hash = "a43acd4b5a8676a0738c8a9d92d70f9d8ec2eed09c517ac9b91823e94b8de7bc"
 metafile = true
 
 [[files]]
+file = "mods/arcane-convergence.pw.toml"
+hash = "8c06a63efc34961fe9617295d0205df3970858dba9106b621cf5b7ad79d2718d"
+metafile = true
+
+[[files]]
 file = "mods/archery-expansion-squared.pw.toml"
 hash = "a91b02a04665a89f32058d20840e27c9808911a33fb2bcc26d9c2d057dba22cb"
 metafile = true
@@ -8590,11 +8599,6 @@ hash = "514a20e63c574bc437513e7e49ad2f4436dbfe6a7eb2d4c5a83f49edc9af3c16"
 metafile = true
 
 [[files]]
-file = "mods/mana-unification.pw.toml"
-hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
 metafile = true
@@ -10598,7 +10602,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9b5c59b56d178847b43ebed0eadb866efa19bf7f2be81df2ee5d5bc825d84f37"
+hash = "fce997ddebc310c8a0b4f47427b69eea769cd2190858d85e0d03e9920c4bf46b"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

@@ -209,6 +209,11 @@
     "modId": "aquamirae_delight",
     "version": "1.5.2"
   },
+  "arcane_convergence-1.0.0bugfix-all.jar": {
+    "jarName": "arcane_convergence-1.0.0bugfix-all.jar",
+    "modId": "arcane_convergence",
+    "version": "1.0.0bugfix"
+  },
   "ArcheryExpansion-forge-1.20.1-1.0.7.3-all.jar": {
     "jarName": "ArcheryExpansion-forge-1.20.1-1.0.7.3-all.jar",
     "modId": "archeryexp",
@@ -2952,11 +2957,6 @@
     "jarName": "manafluid-1.20.1-1.0.2.jar",
     "modId": "manafluid",
     "version": "1.0.2"
-  },
-  "manaunification-1.20.1-1.0.3.jar": {
-    "jarName": "manaunification-1.20.1-1.0.3.jar",
-    "modId": "manaunification",
-    "version": "1.0.3"
   },
   "Mantle-1.20.1-1.11.79.jar": {
     "jarName": "Mantle-1.20.1-1.11.79.jar",

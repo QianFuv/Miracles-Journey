@@ -1,0 +1,13 @@
+
+[arcane_convergence]
+
+	[arcane_convergence.multipliers]
+		#Iron's Spells Mana Cost Multiplier (0 - 100000000.0)
+		#铁魔法的法力消耗倍率(0 - 100000000.0)
+		#Range: 0.0 ~ 1.0E8
+		ironSpellsManaMultiplier = 1.0
+		#Goety Soul Cost Multiplier (0 - 100000000.0)
+		#诡厄巫法的灵魂消耗倍率(0 - 100000000.0)
+		#Range: 0.0 ~ 1.0E8
+		goetySoulMultiplier = 1.0
+
