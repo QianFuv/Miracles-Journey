@@ -14,4 +14,41 @@ starlessNightWhitelist = ["minecraft:villager"]
 #Effect radius for the cake item
 #Range: 1.0 ~ 256.0
 cakeEffectRadius = 32.0
+#List of entity types that are immune to movement speed boost from Lich's Chaos Stew
+lichStewSpeedBoostBlacklist = ["goety:redstone_monstrosity", "goety:redstone_golem"]
+#Whether bosses are affected by Polarice item
+polariceAffectsBosses = false
+#Maximum health threshold for entities to be affected by Polarice item (in half-hearts)
+#Range: 1.0 ~ 3.4028234663852886E38
+polariceHealthThreshold = 50.0
+#The cooldown for Polarice item to use
+#Range: > 300
+polarice_cooldown = 1800
+#The number of Polarice item can affect
+#Range: > 1
+polarice_count = 10
+#Whether to enable movement speed boost for minions from Lich's Chaos Stew
+lichStewEnableSpeedBoost = true
+#A list of items that cannot be copied by Metamorphic Scent Grass
+MetamorphicScentGrassCopyBlacklist = ["goety_revelation:ascension_hard_candy", "enigmaticdelicacy:abyssal_stew", "enigmaticlegacy:forbidden_fruit", "goetydelight:pure_drink", "goetydelight:tainted_drink", "goetydelight:snap_unholy_tripe", "goetydelight:ancient_enchanted_golden_apple", "goetydelight:lichs_chaos_stew", "l2complements:life_essence", "l2complements:totemic_apple", "l2complements:enchanted_totemic_apple", "hmag:insomnia_fruit", "artifacts:everlasting_beef", "artifacts:eternal_steak", "born_in_chaos_v1:eternal_candy", "avaritia_delight:infinity_apple", "avaritia_delight:slice_of_endless_cake", "avaritia_delight:infinity_taco", "avaritia_delight:pasta_with_cosmic_meatballs", "avaritia_delight:infinity_large_hamburger", "minecraft:apple"]
+#Duration multiplier for Metamorphic Scent Grass effect (0.0 to 1.0)
+#Range: 0.0 ~ 1.0
+metamorphicScentGrassDurationMultiplier = 0.2
+#Amplifier multiplier for Metamorphic Scent Grass effect (0.0 to 1.0)
+#Range: 0.0 ~ 1.0
+metamorphicScentGrassAmplifierMultiplier = 0.3
+#The maximum number of effects that can be copied by Metamorphic Scent Grass (0-64)
+#Range: 0 ~ 64
+metamorphicScentGrassCopyCount = 1
+#A list of items that cannot be copied by Metamorphic Scent Fruit
+MetamorphicScentFruitCopyBlacklist = ["goety_revelation:ascension_hard_candy", "enigmaticdelicacy:abyssal_stew", "enigmaticlegacy:forbidden_fruit", "goetydelight:pure_drink", "goetydelight:tainted_drink", "goetydelight:snap_unholy_tripe", "goetydelight:ancient_enchanted_golden_apple", "goetydelight:lichs_chaos_stew", "l2complements:life_essence", "l2complements:totemic_apple", "l2complements:enchanted_totemic_apple", "hmag:insomnia_fruit", "artifacts:everlasting_beef", "artifacts:eternal_steak", "born_in_chaos_v1:eternal_candy", "avaritia_delight:infinity_apple", "avaritia_delight:slice_of_endless_cake", "avaritia_delight:infinity_taco", "avaritia_delight:pasta_with_cosmic_meatballs", "avaritia_delight:infinity_large_hamburger", "minecraft:apple"]
+#The maximum number of effects that can be copied by Metamorphic Scent Fruit (1-64)
+#Range: 1 ~ 12
+metamorphicScentFruitCopyCount = 1
+#Damage increase per level of Soul Affix enchantment
+#Range: 1.0 ~ 1.7976931348623157E308
+soulAffixDamagePerLevel = 1.0
+#Soul energy cost per level of Soul Affix enchantment
+#Range: > 1
+soulAffixSoulCostPerLevel = 10
 

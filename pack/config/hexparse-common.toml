@@ -2,7 +2,7 @@
 #Allowed Values: ALL, DISABLED, BY_SCROLL
 ParseGreatSpells = "BY_SCROLL"
 #how comments get parsed into iotas
-#ALL: including `comment_%s`s and `/* */`s & `//`s;
+#ALL: including single & multi line comments;
 #MANUAL(default): only `comment_%s`s;
 #DISABLED: no comments at all
 #Allowed Values: DISABLED, MANUAL, ALL
@@ -27,4 +27,8 @@ ShowColorfulNested = true
 #SIMPLE: show `UNKNOWN` only
 #Allowed Values: SIMPLE, SHOW_NBT, KEEP_NBT
 ShowUnknownNBT = "KEEP_NBT"
+#code indentation add to `tab_N`'s inside nested macros
+ExtendIndentInsideMacro = true
+#randomize property names based on input string
+FairPlayPropNames = false
 

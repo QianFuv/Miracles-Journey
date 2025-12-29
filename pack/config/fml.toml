@@ -7,7 +7,7 @@ earlyWindowControl = true
 #Early window framebuffer scale
 earlyWindowFBScale = 1
 #Early window provider
-earlyWindowProvider = "fmlearlywindow"
+earlyWindowProvider = "SimpleCustomEarlyLoading"
 #Early window width
 earlyWindowWidth = 1920
 #Early window starts maximized

@@ -1,13 +1,13 @@
 name = "Simple Custom Early Loading"
-filename = "SimpleCustomEarlyLoading-2.0-forge.jar"
+filename = "SimpleCustomEarlyLoading-2.0.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7d8cf584d00e8db594bf20e91e52c1f489822dff"
+hash = "3cd8e7552655456360541335d2e0ff03bc2f2dc0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6439483
+file-id = 7311680
 project-id = 1214077

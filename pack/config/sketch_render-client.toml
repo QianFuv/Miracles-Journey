@@ -1,0 +1,32 @@
+
+["Culling Precision"]
+	#Range: 0.0 ~ 10.0
+	level = 4.0
+
+["Cull entity"]
+	enabled = true
+
+["Cull block entity"]
+	enabled = true
+
+["Cull chunk"]
+	enabled = true
+
+["Async chunk rebuild"]
+	enabled = true
+
+["Auto disable async rebuild"]
+	enabled = true
+
+#Entity skip culling
+["Entity ResourceLocation"]
+	#Entity that skip culling, example: 
+	#["minecraft:creeper", "minecraft:zombie"]
+	list = ["create:stationary_contraption"]
+
+#Block Entity skip culling
+["Block Entity ResourceLocation"]
+	#Block Entity that skip culling, example: 
+	#["minecraft:chest", "minecraft:mob_spawner"]
+	list = ["minecraft:beacon"]
+

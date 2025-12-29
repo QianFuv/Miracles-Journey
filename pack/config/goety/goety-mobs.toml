@@ -206,6 +206,10 @@
 	followingServantChunkLoad = true
 	#Whether Servants be equipped with Carved Pumpkins, which would allow Servants to not be affected by sunlight, Default: false
 	servantsCanWearPumpkin = false
+	#Whether Servants owned by other Servants benefits from Player Robes and Crown, Default: true
+	servantOwnedServantPlayerBenefit = true
+	#Whether servants can apply harmful status effects to their owner/allies, Default: false
+	servantsHarmEffectApply = false
 
 	[Servants."Undead Servants"]
 		#Whether Servants would naturally attack Undead mobs if owner wears a full Necro Set, Default: false
@@ -218,7 +222,7 @@
 		undeadServantSunlightHelmet = true
 		#Whether owned Necromancers fills Empty Soul Jars, Default: true
 		necromancerSoulJar = true
-		#Whether Necromancer's summons have limited lifespans, Default: true
+		#Whether Necromancer's summons have limited lifespans, can be affected by servantOwnedServantPlayerBenefit config, Default: true
 		necromancerSummonsLife = true
 		#How much Soul Energy it cost per second for an Undead Servant to heal, Default: 1
 		#Range: > 0
@@ -410,6 +414,8 @@
 		specialIllagerRaid = true
 		#Whether Armored Ravagers spawn in Raids, Default: true
 		armoredRavagerRaid = true
+		#Whether Armored Tramplers spawn in Raids, Default: true
+		armoredTramplerRaid = true
 
 		[Illagers.Raid.Piker]
 			#Whether Pikers appear in Raids, Default: true
@@ -599,6 +605,12 @@
 		#How many Minecraft days, since spawning in, until unowned Obsidian Monoliths start spreading, Default: 3
 		#Range: > 1
 		obsidianMonolithStartUpTime = 3
+		#Whether unowned Obsidian Monoliths can spawn Mobs, Default: true
+		obsidianMonolithSpawner = true
+
+	[Misc.Crone]
+		#Whether Crones inflict thorn damage at attackers, when attacked. Default: true
+		croneThornDefense = true
 
 [Spawning]
 

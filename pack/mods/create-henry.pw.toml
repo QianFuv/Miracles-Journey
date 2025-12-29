@@ -1,13 +1,13 @@
 name = "Create: Henry"
-filename = "Create-Henry-1.20.1-0.0.3-6.0.jar"
+filename = "Create-Henry-1.20.1-0.0.4-6.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4593f0e650448bb2dc11eda1bfedcbc2516d7a7d"
+hash = "563d128dddb7b67b4cc33d7003b453a0d3a2c8ba"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6544073
+file-id = 7311491
 project-id = 1254589

@@ -418,17 +418,6 @@
       },
       "sync": "createbigcannons:gas_mask_overlay"
     },
-    "creatingspace:remaining_oxygen": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "creatingspace:remaining_oxygen"
-    },
     "cuisinedelight:cooking": {
       "displacement": {
         "x": 0,
@@ -1253,116 +1242,6 @@
         "y": "NONE"
       },
       "sync": "supplementaries:slimed_overlay"
-    },
-    "tetra:ability_overlays": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:ability_overlays"
-    },
-    "tetra:block_progresss": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:block_progresss"
-    },
-    "tetra:booster": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:booster"
-    },
-    "tetra:crossbow": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:crossbow"
-    },
-    "tetra:howling": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:howling"
-    },
-    "tetra:multiblock_schematic": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:multiblock_schematic"
-    },
-    "tetra:ranged_progresss": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:ranged_progresss"
-    },
-    "tetra:scanner": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:scanner"
-    },
-    "tetra:secondary_interaction": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:secondary_interaction"
-    },
-    "tetra:toolbelt": {
-      "displacement": {
-        "x": 0,
-        "y": 0
-      },
-      "direction": {
-        "x": "NONE",
-        "y": "NONE"
-      },
-      "sync": "tetra:toolbelt"
     },
     "tide:cast_overlay": {
       "displacement": {

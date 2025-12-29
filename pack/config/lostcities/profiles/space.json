@@ -142,7 +142,8 @@
     "monorailChance": 0.8,
     "citySphereClearAbove": 8,
     "citySphereClearAboveUntilAir": true,
-    "sphereSurfaceVariation": 1.0
+    "sphereSurfaceVariation": 1.0,
+    "grid32": false
   },
   "public": true
 }

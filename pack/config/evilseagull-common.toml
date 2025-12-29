@@ -1,0 +1,56 @@
+
+[sophisticated_backpacks]
+	enableStealFromBackpacks = true
+	#Range: 1 ~ 50
+	backpackSearchRange = 10
+	enableStealFromPlacedBackpacks = true
+	#Range: 1 ~ 32
+	placedBackpackSearchRange = 8
+	stealAnyItem = false
+
+[applied_energistics]
+	enableStealFromMEInterface = true
+	#Range: 1 ~ 32
+	meInterfaceSearchRange = 8
+	#Range: 0.0 ~ 1000.0
+	powerPerSteal = 10.0
+	stealAnyItem = false
+
+[general]
+	#Range: 50 ~ 500
+	stealCooldownModifier = 100
+	prioritizePlayerInventory = true
+	#Range: 1 ~ 50
+	dropRangeMin = 5
+	#Range: 1 ~ 100
+	dropRangeMax = 15
+
+[refined_storage]
+	enableStealFromRSInterface = true
+	#Range: 1 ~ 32
+	rsInterfaceSearchRange = 16
+	#Range: 0 ~ 1000
+	energyPerSteal = 10
+	stealAnyItem = false
+
+[create]
+	enableStealFromBelt = true
+	#Range: 1 ~ 32
+	beltSearchRange = 16
+	stealAnyItem = true
+	#Range: 1 ~ 50
+	dropRangeMin = 5
+	#Range: 1 ~ 100
+	dropRangeMax = 15
+	#Range: 0 ~ 200
+	hoverTimeMin = 40
+	#Range: 0 ~ 400
+	hoverTimeMax = 80
+
+[easter_eggs]
+	#Christmas Easter Egg - Seagulls wear Christmas hats during Christmas season (Dec 24-26)
+	#Enable Christmas hat for seagulls during Christmas season
+	enableChristmasHat = true
+	#Force Christmas hat to show regardless of date (for testing)
+	forceChristmasHat = false
+

@@ -2,11 +2,7 @@
 #Enables extensive logging in different segments of the mod (can cause larger log files and log spam)
 lotsOfLogs = false
 #.
-#Maximum solver iterations for networks without dynamic residuals
-#Range: > -2147483648
-solverSimpleMaxIterations = 200
-#.
-#Maximum solver iterations for networks with dynamic residuals
-#Range: > -2147483648
-solverComplexMaxIterations = 200
+#Periodic state synchronization sent by the server. This option makes sure that the clients are always close to the server simulation state, it will send the NBT data of all block entities in an electrical network to all clients (0 = disabled)
+#Range: > 0
+fullStateSynchronizationInterval = 100
 

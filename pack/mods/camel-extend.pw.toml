@@ -1,13 +1,13 @@
 name = "Camel Extend"
-filename = "camelextend-1.20.1-1.0.3.jar"
+filename = "camelextend-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc6bd24ca89ba50a82cc27d00cffae1f84433e8b"
+hash = "3b9b9e8bbaea0297697a493c53d8638dee738f99"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6926013
+file-id = 7289986
 project-id = 1323810

@@ -1,13 +1,13 @@
 name = "HexParse"
-filename = "hexParse-forge-1.20.1-1.5.2.jar"
+filename = "hexParse-forge-1.20.1-1.7.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4e99572dc70170857138af33f0e24fd92da1633b"
+hash = "4bb2def8bb90fa208d03eed7ad128a8edbb609d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7252480
+file-id = 7350141
 project-id = 1148731

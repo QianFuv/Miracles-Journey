@@ -11,6 +11,9 @@
 		#Impish Spell Cooldown, Default: 100
 		#Range: > 0
 		impishCoolDown = 100
+		#How much base damage Imps deals, Default: 4.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		impishDamage = 4.0
 
 	[Spells."Spirit Hand Spell"]
 		#Spirit Hand Spell Cost, Default: 64

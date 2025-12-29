@@ -1,13 +1,13 @@
 name = "Scriptor Magicae"
-filename = "scriptor-1.2.6-1.20.1-forge-sgd.jar"
+filename = "scriptor-1.2.9-1.20.1-forge-sgd.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0b434b9457ee1cb662d793cfead75e41bee5fe5c"
+hash = "5bd7b7d90eb8beab93630181382bcd753578fa89"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6064168
+file-id = 7279874
 project-id = 817436

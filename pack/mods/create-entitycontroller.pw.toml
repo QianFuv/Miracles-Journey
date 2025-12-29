@@ -1,13 +1,13 @@
 name = "Create:Entity Control"
-filename = "CreateEntityControl-0.2.8-6.0-forge-1.20.1.jar"
+filename = "CreateEntityControl-0.2.8.2-6.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dcdc8020e4322df9cf325950d3fadcc86eeba56d"
+hash = "bc2fe0ed2117d1d512fd434372c04f7535efc40c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7184549
+file-id = 7277201
 project-id = 1256076

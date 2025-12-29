@@ -73,6 +73,7 @@
 		#聚晶伤害是否会受到工具攻击力影响。默认为false
 		#Does polycrystalline damage get affected by the tool's attack power? The default is false.
 		attackBonus = false
+		"disabled trigger modifier" = true
 
 [drop]
 
@@ -161,4 +162,33 @@
 		#每次生成战利品消耗的能量
 		#Range: 0.01 ~ 2.147483647E9
 		energy_cost = 50.0
+
+	#地之精华配置
+	[modifiers.essence_earth_modifier]
+		#最大加成，默认2.0
+		#Range: 0.0 ~ 2.147483647E9
+		bonus = 2.0
+
+	#噬魂者配置
+	[modifiers.soul_devourer]
+		#计算模式: LINEAR / LOG / SOFTCAP （线性，对数，指数趋近）
+		#Damage growth mode: LINEAR / LOG / SOFTCAP
+		#Allowed Values: LINEAR, LOG, SOFTCAP
+		growth_mode = "LOG"
+		#线性增长
+		#Linear bonus per kill
+		#Range: 0.0 ~ 1.0
+		linear_per_kill = 1.0E-4
+		#对数增长
+		#Logarithmic growth factor
+		#Range: 0.0 ~ 10.0
+		log_factor = 0.1
+		#指数趋近最大值
+		#Softcap max bonus
+		#Range: 0.0 ~ 100.0
+		softcap_max = 1.5
+		#指数趋近速率（越大越慢）
+		#Softcap scale (bigger = slower)
+		#Range: 1.0 ~ 1000000.0
+		softcap_scale = 5000.0
 

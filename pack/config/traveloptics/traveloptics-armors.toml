@@ -125,3 +125,20 @@
 		#Range: 0.0 ~ 20.0
 		armor_toughness = 4.0
 
+	[armors.riptideSovereign]
+		#Armor value of helmet || Default 6
+		#Range: > 1
+		helmet_armor_value = 6
+		#Armor value of chestplate || Default 11
+		#Range: > 1
+		chestplate_armor_value = 11
+		#Armor value of leggings || Default 9
+		#Range: > 1
+		leggings_armor_value = 9
+		#Armor value of boots || Default 6
+		#Range: > 1
+		boots_armor_value = 6
+		#Toughness || Default 4.0
+		#Range: 0.0 ~ 20.0
+		armor_toughness = 4.0
+

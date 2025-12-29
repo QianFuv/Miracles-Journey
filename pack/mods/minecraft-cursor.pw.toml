@@ -1,13 +1,13 @@
 name = "Cursors Extended"
-filename = "minecraft-cursor-forge-3.11.2+1.20.1.jar"
+filename = "minecraft-cursor-forge-3.11.2+1.20.1-patch.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bc1e4d4cdffdbede0be169f692b2728cbc0e27ea"
+hash = "e8a2d4162db369681b3f63ac6b9d984c7af70727"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7222136
+file-id = 7312244
 project-id = 1184736

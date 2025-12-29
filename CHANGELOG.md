@@ -56,7 +56,7 @@
 
 - <details>
 
-  <summary> 模组更新（共 1012 次） </summary>
+  <summary> 模组更新（共 1124 次） </summary>
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
 
@@ -91,6 +91,8 @@
   - AllTheLeaks (Memory Leak Fix)、Amendments、Collector's Reap、Construct's Casting、Crash Assistant、Data Anchor、Dawn Of Time、DoesPotatoTick?、Drippy Loading Screen、Duplicationless、Eidolon : Repraised、[EMF] Entity Model Features [Fabric & Forge]、[ETF] Entity Texture Features - [Fabric & Forge]、Euphoria Patches、FancyMenu、Hex Casting、HexFlow、HexOverpowered、HexParse、Moog's Structure Lib (moogs_structures)、More Relics、More Sniffer Flowers、ParCool! ~ Minecraft Parkour ~、Rechiseled: Chipped、Sinytra Connector、Structurify、Supplementaries Squared、TofuCraftReload、Ube's Delight、XaeroPlus
 
   - Create: Copycats+、Create: Aquatic Ambitions、Create Cafe、Create: Connected、Create Encased、Create: Enchantable Machinery、Create:Entity Control 、Create: Escalated、Create: Framed、Create: The Factory Must Grow、Create: Mobile Packages、Create: Pattern Schematics、Create: Quality Of Life、Create Railways Navigator、Create: Steam 'n' Rails、Create Train Lights、Create、Create Crafts & Additions、Duplicationless、Create: Extended Wrenches、Create: Hypertubes、Just Enough Items (JEI)、Create: Power Grid、Create Slice & Dice、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Zetter — Painting Mod
+
+  - Ancient Structures: Cultural buildings、Aotake Sweep (竹叶清)、BaguetteLib、Camel Extend、CC: Tweaked、Chalk、Chef's Delight [Forge] - Farmer's Delight Villagers、Chloride (Embeddium++/Sodium++)、Cocktails Delight、Compact Crafting Fork、Complicated Bees、Construction Wand - KOTS、Construct's Casting、Crash Assistant、Create: Air Ducts、Create Big Cannons、Create: Bitterballen、Create: Compatible Storage、Create: Deepfried、Create:Entity Control、Create: Fast SchematicCannon、Create: Framed、Create: Henry、Create: The Factory Must Grow、Create Jetpack、Create: Mobile Packages、Create more packages、Create More: Parallel Pipes、Create: New Age、Create Railways Navigator、Create Train Lights、CustomSkinLoader、Dawn Of Time、Dimensions of Alex's Caves、DoesPotatoTick?、Doggy Talents Next、DragonLib、Dreamtinker、Duplicationless、Eccentric Tome、Eidolon : Repraised、Enchantment Descriptions、Entity Culling Fabric/Forge、EtST Lib、Evil Seagull、Extreme sound muffler - (Neo)Forge、Fast IP Ping、Forgotten Ruins、Fragmentum (Forge)、Furnitures O' Plenty、Fusion (Connected Textures)、Fzzy Config、Goety's Delight、Goety & Spillage、Goety - The Dark Arts、Hexal、HexOverpowered、HexParse、ImmediatelyFast、In Control!、Create: Interiors、Just Enough Items (JEI)、Just Enough Characters、Just Enough Breeding (JEBr)、Kaleidoscope Cookery、Kiwi 🥝 (Neo/Forge)、Kotlin for Forge、Krypton FNP、Macaw's Holidays、Macaw's Stairs、Macaw's Windows、Mantle、Cursors Extended、ModernFix、Modular Golems、MVS - Moog's Voyager Structures、More Relics、MoreIotas、Not Enough Animations、Pillager Caravans、Pineapple Delight、PneumaticCraft: Repressurized、Create: Power Grid、Raised、Ribbits、Ritchie's Projectile Library、Sakura Tinker、Scriptor Magicae、Simple Custom Early Loading、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Spelunkery+、Stardew Fishing、Storage Delight (Forge & Neoforge)、Structurify、Subtle Effects、Supplementaries Squared、TACT - Tiny Alex's Caves Tweaks、TConstructJS、The Lost Cities、Tinkers Construct、Tinkers' Ingenuity、Tinkers' JSON Things、Tinkers' Thinking、T.O Magic 'n Extras - Iron's Spells Addon、TofuCraftReload、TrashSlot、WATERMeDIA: Multimedia API、Workshop for handsome adventurer、Zeta
   
   </details>
   
@@ -218,6 +220,8 @@
 
 - 迁移同步脚本位置
 
+- 替换魔力统一模组 Mana Unification -> Arcane Convergence
+
 ### 删除
 
 - <details>
@@ -275,6 +279,8 @@
 - 恢复光影可用性
 
 - 修复望远镜缩放不可用
+
+- 修复 CraftAudit 与 Bountiful 冲突
 
 <details>
 

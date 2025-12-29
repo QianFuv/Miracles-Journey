@@ -79,7 +79,7 @@
 	[base.dustbin]
 		#The maximum number of pages in the virtual dustbin.
 		#虚拟垃圾箱页数限制。
-		#Range: 1 ~ 65536
+		#Range: 0 ~ 65536
 		dustbinPageLimit = 1
 		#The maximum number of items in the cache.
 		#缓存区物品限制。

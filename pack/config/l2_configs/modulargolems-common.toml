@@ -55,6 +55,8 @@ bossBreakShield = true
 #Chance for each upgrade to drop when killed by Slicing Axe
 #Range: 0.0 ~ 1.0
 slicingDropUpgradeChance = 0.5
+#Wand interaction bypass config lock
+wandBypassConfig = false
 
 [modifiers]
 	#Percentage damage reflection per level of thorn
@@ -233,4 +235,7 @@ slicingDropUpgradeChance = 0.5
 	#Monstrosity Armor Bonus: Monstrosity Earthquake Modifier damage boost
 	#Range: 0.0 ~ 10.0
 	earthquakeArmorBonus = 0.5
+	#Sandstorm Upgrade damage bonus per level
+	#Range: 0.0 ~ 10.0
+	sandCurseBonus = 0.1
 

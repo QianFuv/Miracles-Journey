@@ -1,0 +1,13 @@
+name = "Evil Seagull"
+filename = "EvilSeagull-1.4.2-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7302732ddc3d7e9a12ce69a0eb504c3e181d73f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7327416
+project-id = 1394272

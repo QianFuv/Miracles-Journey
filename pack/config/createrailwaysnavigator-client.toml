@@ -7,7 +7,7 @@
 	#Allowed Values: MS, KMH, MPH, FTS, KT, CMS
 	speed_unit = "KMH"
 	#Display Time Format. (Default: Hours 24)
-	#Allowed Values: TICKS, HOURS_24, HOURS_12
+	#Allowed Values: HOURS_24, HOURS_12, TICKS
 	time_format = "HOURS_24"
 
 	["Create Railways Navigator Config".general]

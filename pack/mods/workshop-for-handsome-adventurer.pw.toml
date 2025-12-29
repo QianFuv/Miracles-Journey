@@ -1,13 +1,13 @@
 name = "Workshop for handsome adventurer"
-filename = "workshop_for_handsome_adventurer--mc1.20.1--1.34.4.jar"
+filename = "workshop_for_handsome_adventurer--mc1.20.1--1.34.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fc929167e5a18160f6b53c20eff824b04207f0a6"
+hash = "019ac2c2ba0428f4c6944d91342251918a898a09"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7165459
+file-id = 7381590
 project-id = 875843

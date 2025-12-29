@@ -1,13 +1,13 @@
 name = "Goety's Delight"
-filename = "goetydelight-1.0.0-alpha.23+20251117.00.jar"
+filename = "goetydelight-1.0.2b+20251218.00.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6ac1f3462b143edf273b7ee2ded2b841bfef8d07"
+hash = "ed4c3cbfa4c0f352c23044b46321a8509947478c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7249959
+file-id = 7365673
 project-id = 1363736

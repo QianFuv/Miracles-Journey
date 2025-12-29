@@ -1,13 +1,13 @@
 name = "Fragmentum (Forge)"
-filename = "fragmentum-forge-1.20.1-0.6.9.jar"
+filename = "fragmentum-forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fff0970040f0858d1bcdeb617b14b9a0ad632646"
+hash = "7ec6f43c62973cb920561a849a6ce9f0ad07662f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7212377
+file-id = 7297324
 project-id = 1123970

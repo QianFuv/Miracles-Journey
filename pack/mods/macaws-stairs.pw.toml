@@ -1,13 +1,13 @@
 name = "Macaw's Stairs"
-filename = "mcw-stairs-1.0.1-1.20.1forge.jar"
+filename = "mcw-mcwstairs-1.0.2-mc1.20.1forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "90f3a4002518d5c03353891498f8ad7b55332d2d"
+hash = "8f3a8271e43b53171c3a4d4827415bebd06775d9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6155181
+file-id = 7317580
 project-id = 1119394

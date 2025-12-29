@@ -1,13 +1,13 @@
 name = "Cocktails Delight"
-filename = "Cocktails-Delight-1.20.1-1.3.2.jar"
+filename = "Cocktails-Delight-1.20.1-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "52827cf52f44c0f7f476e87599d69148be96edff"
+hash = "8417d15515d47d5310af344001b35bf878a74b50"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7226070
+file-id = 7279081
 project-id = 1198178

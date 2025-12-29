@@ -1,13 +1,13 @@
 name = "Create Train Lights"
-filename = "ctl-forge-1.0.2-C6.jar"
+filename = "ctl-forge-1.1.0-C6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "073970535794013099e381d6cb32e536559e3327"
+hash = "c3eac481ea18974207f4b604cace5d5982df2489"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7247055
+file-id = 7369123
 project-id = 1318080

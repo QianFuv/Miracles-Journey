@@ -80,3 +80,11 @@
 			#Range: 0.0 ~ 1.7976931348623157E308
 			preserverServantArmor = 0.0
 
+		[Attributes."Summoned Mobs"."Engineer Servant"]
+			#How much Max Health Engineer Servants have, Default: 30.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			engineerServantHealth = 30.0
+			#How much natural armor points Engineer Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			engineerServantArmor = 0.0
+

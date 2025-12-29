@@ -1,0 +1,267 @@
+
+["Tool Configuration"]
+	#vertical accelerator or tnt arrow
+	#Range: < 0
+	TNTArrowGravity = -5
+	#tnt arrow effect range
+	#Range: 0 ~ 100
+	TNTArrowRadius = 5
+	#Strong Explode Damage Boost
+	#Range: 1 ~ 1000
+	StrongExplodeDamageBoost = 10
+	#how many times use per level for tnt Arrow
+	#Range: 0 ~ 100
+	ContinuousExplodeTimes = 2
+	#Maximum Boost from Weapon transformation? default 10=1000%
+	#Range: 1.0 ~ 100.0
+	UnderPlateBoostMax = 10.0
+	#Armor factor for Weapon transformation, larger value means larger Boost
+	#Range: 0.0 ~ 100.0
+	UnderPlateBoostArmorFactor = 0.8
+	#ArmorToughness factor for Weapon transformation, larger value means larger Boost
+	#Range: 0.0 ~ 100.0
+	UnderPlateBoostToughnessFactor = 0.8
+	#The level range for The splendour heart. Must be exactly 5 between 0% and 100% otherwise omit!
+	splendour_heart = [0.25, 0.4, 0.65, 0.8, 1.0]
+	#how many life you want drain?
+	#Range: 0.0 ~ 100.0
+	flamingMemoryLifeDrain = 0.05
+	#how would flamingMemory boost your tool status?
+	#Range: 0.0 ~ 100.0
+	flamingMemoryStatusBoost = 0.05
+	#how many times use per level for tnt Arrow
+	#Range: 0.0 ~ 30.0
+	ForceExplosionPower = 12.0
+	#Range of real Sweep
+	#Range: 0.0 ~ 30.0
+	realSweepRange = 6.0
+	#Unit of Energy used per attack in Electric Mode, Need 10x value to consider Energy is enough to start And 0.5x value to cooldown the saw
+	#Range: 0 ~ 1000
+	ChainSawEnergyCost = 50
+
+["Item Configuration"]
+	#MAX HP BOOST from star Regulus
+	#Range: 0 ~ 1000
+	StarRegulusMaxHP = 77
+
+["Advancement Configuration"]
+	#Enable star regulus advancement effect
+	StarRegulusAdvancement = true
+
+["Effect Configuration"]
+	#This is not very powerful, btw.
+	#Range: 0 ~ 1000
+	SilverNameBeeItemNum = 1
+
+["LOOT Configuration"]
+	#Base chance to get Antimony drop from Ore
+	#Range: 0.0 ~ 10.0
+	AntimonyLootChance = 0.2
+	#how many times trying to dodge?
+	#Range: 0.0 ~ 1.0
+	voidPearlDropRate = 0.1
+	#how many damage this voidPearDeal?
+	#Range: 0.1 ~ 1000.0
+	voidPearlDamage = 2.0
+	#Base chance to get White Peach drop from birch
+	#Range: 0.0 ~ 10.0
+	WhitePeachLootChance = 0.2
+	#Base chance to get Soul Cast from love`s path
+	#Range: 0.0 ~ 1.0
+	SoulCastLoveLootChance = 0.1
+	#Base chance to get rainbow honey from a beehive
+	#Range: 0.0 ~ 1.0
+	rainbowHoneyRate = 0.4
+
+["Modifier Configuration"]
+	#Numbers of dangling projectile allowed when shooting. This is aim to reduce cases like Dragon fire Ball stay still in air and cause system lagging
+	#Range: 0 ~ 1000
+	ProjLimit = 9
+	#Moonlight Ice: 
+	#Portion of life that glacial river steal
+	#Range: 0.0 ~ 1000.0
+	GlacialRiverPortion = 0.1
+	#Range that glacial river effect
+	#Range: 1 ~ 1000
+	GlacialRiverRange = 5
+	#Does Glacial river kill player? False will not kill
+	GlacialRiverKillPlayer = false
+	#
+	#Echo Shard: 
+	#Numbers of Charge needed to trigger
+	#Range: 1 ~ 1000
+	EchoAttackCharge = 9
+	#Chance for trigger to update
+	#Range: 0.0 ~ 1.0
+	EchoAttackChargingChance = 0.5
+	#Entity within this range would be considered as potential target
+	#Range: 1.0 ~ 1000.0
+	EchoDefenceRange = 10.0
+	#Speed of bounced arrow
+	#Range: 3.0 ~ 100.0
+	EchoDefenceSpeed = 5.0
+	#
+	#Nigrescence Antimony: 
+	#HP boost from BrokenBessel
+	#Range: 0 ~ 1000
+	BrokenVesselBoost = 1
+	#increase damage reducer from OuroboricHourglass
+	#Range: 0.0 ~ 1000.0
+	OuroboricHourglassMultiply = 2.0
+	#status boot everytime for ewige_widerkunft
+	#Range: 0.0 ~ 1.0
+	Prometheus = 0.13
+	#How many Spins can ewige_widerkunft do?
+	#Range: > 1
+	CentralFlame = 12
+	#Allow Burn in Vain Modifier summon random Projectile when shooting
+	BurnInVainRandomProj = true
+	#Inaccuracy of Projectile sending from this Modifier
+	#Range: 0.0 ~ 1000.0
+	BurnInVainInAccuracy = 5.0
+	#
+	#Metallivorous Stibium Lupus: 
+	#Number of effective that applied on target; This is also the damage boost of The wolf answer(base on effects number)
+	#Range: 0 ~ 100
+	TheWolfWonderEffectNum = 5
+	#Min time effective last in second
+	#Range: 0 ~ 100
+	TheWolfWonderEffectMinTime = 10
+	#Max time effective last in second
+	#Range: 0 ~ 100
+	TheWolfWonderEffectMaxTime = 10
+	#Max Amplifier of effects
+	#Range: 0 ~ 100
+	TheWolfWonderEffectAmplifier = 10
+	#This is a surprise!
+	#Range: 0 ~ 6666
+	TheWolfWonderSurpriseNumber = 7
+	#Enable this means The wolf wonder would only apply Potion effects
+	TheWolfWonderPotionEffectOnly = false
+	#Blacklist for the wolf, and despair mist
+	wolf_blacklist = ["tconstruct:self_destructing", "minecraft:hero_of_the_village"]
+	#Enable the Wolf Was modifier
+	TheWolfWasEnable = true
+	#In the hidden crucible of our path, there can be no ascendance without renunciation—where loss is absent, growth withers----Modify the damage taken for this Modifier work
+	#Range: 1 ~ 1000
+	TheWolfWasDamage = 77
+	#Maximum tier the wolf was may get
+	#Range: 2 ~ 100
+	TheWolfWasMaxTier = 5
+	#
+	#star_regulus: 
+	#Initial Revive count of As one
+	#Range: 0 ~ 10000
+	AsOneRe = 2
+	#Time counter for gaining revive counts
+	#Range: 1 ~ 10000
+	AsOneT = 777
+	#Max amp of effect that would be clear
+	#Range: 1 ~ 10000
+	AsOneA = 3
+	#Percentage damage taken
+	#Range: 0.0 ~ 1.0
+	AsOneS = 0.33
+	#
+	#crying_obsidian: 
+	#Do you want more particles in Sharpened With?
+	#Range: 0 ~ 10000
+	CryingParticles = 1
+	#Damage boost of Sharpened With
+	#Range: 0.0 ~ 100.0
+	CryingDamageBoost = 0.16
+	#Torrance period for ISOLDE;also the least time allowed
+	#Range: 1 ~ 10
+	IsoLdeEaseTime = 3
+	#The seconds used to level up itself 
+	#Range: 1 ~ 1000000
+	RedTime = 1200
+	#
+	#etherium: 
+	#Can I dance?
+	#Range: 0.0 ~ 1.0
+	EnderDodgeChance = 0.1
+	#how many times trying to dodge?
+	#Range: 0 ~ 64
+	EnderDodgeTimes = 1
+	#Do you want fire in explode hit?
+	ExplodeHitFire = true
+	#Distance for ranged hit start positive
+	#Range: 1 ~ 64
+	rangedHit = 10
+	#Current health percentage for wither shoot dangerous skull
+	#Range: 0.0 ~ 1.0
+	WitherShootDangerPercentage = 0.5
+	#Amount percentage reduced of stone heart
+	#Range: 0.0 ~ 100.0
+	StoneHeartProjReduce = 0.2
+	#Bonus for life looting
+	#Range: 0.0 ~ 100.0
+	LifeLootingBonus = 0.5
+	#
+	#Soul etherium: 
+	#Count for Open Soul to reject death
+	#Range: 0.0 ~ 100000.0
+	OpenSoulDeathCount = 1000.0
+	#Count for Open soul to repair tool
+	#Range: 0.0 ~ 100.0
+	OpenSoulRepairCount = 1.0
+	#Count gain from ranged hit
+	#Range: 0.0 ~ 1.0
+	OpenSoulRangedGet = 0.1
+	#At what range to find the scapegoat
+	#Range: 1 ~ 16
+	SoulBoundRange = 5
+	#how many Seconds need to wait before next time
+	#Range: 0 ~ 6400
+	SoulBoundCoolDown = 120
+	#Percentage of Max HP taken by the curse
+	#Range: 0.0 ~ 100.0
+	ExilesFaultyCurseHPPercentage = 0.01
+	#Percentage of Damage turn into absorption
+	#Range: 0.0 ~ 100.0
+	ExilesFaultyAbsorbHPPercentage = 0.1
+	#Percentage of Change thunder hit
+	#Range: 0.0 ~ 1.0
+	thunderCurse = 0.01
+	#
+	#malignant_gluttony: 
+	#Base rate for every level of CancerousPredator
+	#Range: 1.0 ~ 100.0
+	CancerousPredatorRate = 3.0
+	#Base factor for every level of CancerousPredator
+	#Range: 1.0 ~ 100.0
+	CancerousPredatorFactor = 20.0
+	#Soul Ward status from Spirit defence
+	#Range: 1.0 ~ 100.0
+	SpiritDefence = 3.0
+	#
+	#Amber: 
+	#Doge rate provided by Fragile But Bright per level
+	#Range: 0.0 ~ 100.0
+	FragileDodge = 0.03
+	#Max level for homunculus Life Curse Be effective. Affective Level is sum of all equipment slots
+	#Range: 1 ~ 64
+	homunculusLifeCurseMaxEffectLevel = 4
+	#Villager Merchant discount rate per level
+	#Range: 0.0 ~ 100.0
+	homunculusGiftDiscount = 0.03
+	#How much extra damage boost/reduce when hit without/with Absorption
+	#Range: 0.0 ~ 100.0
+	AbsorptionDefenseRate = 0.2
+	#How much extra damage boost/reduce when deal damage
+	#Range: 0.0 ~ 100.0
+	AbsorptionHitRate = 0.3
+	#How often would the shade appears? 
+	#Range: 0.0 ~ 1.0
+	DespairShade = 0.4
+	#Change to false if you think the red shade hurt your eyes, then Dark one would be instead
+	RedShadeEnable = true
+
+#Configuration to almost all data in this mod. Take your own risk modify it!!!
+["Mod Compact"]
+	#Enable this means enable conditional mod compact config
+	MOD_COMPACT_MATERIALS_CONFIG = false
+	#Optional Blacklist for MOD Compact, not only for materials
+	ModCompactBlackList = [""]
+

@@ -1,0 +1,29 @@
+#.
+#Amount of red in the CRT screen glow
+#Range: 0 ~ 255
+crtRed = 64
+#.
+#Amount of green in the CRT screen glow
+#Range: 0 ~ 255
+crtGreen = 4
+#.
+#Amount of blue in the CRT screen glow
+#Range: 0 ~ 255
+crtBlue = 2
+#.
+#Controls how many individual points the CRT trace can have (1 point is added per tick)
+#Range: > 10
+crtPointCount = 100
+#.
+#Controls the slope of trace brightness decay (lower value means faster decay)
+#Range: 0.0 ~ 3.4028234663852886E38
+crtTracePersistence = 0.02500000037252903
+#.
+#Controls the CRT trace thickness
+#Range: 0.0 ~ 3.4028234663852886E38
+crtDotSize = 0.03125
+#.
+#Controls how much the CRT trace falls as it fades. This values shouldn't be too small or it can cause Z fighting
+#Range: 0.0 ~ 3.4028234663852886E38
+crtZDepth = 9.999999747378752E-5
+

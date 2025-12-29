@@ -1,13 +1,13 @@
 name = "Ribbits"
-filename = "Ribbits-1.20.1-Forge-3.0.4.jar"
+filename = "Ribbits-1.20.1-Forge-3.0.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "71ea783348537edaf992366b3be306f9ede9a6d4"
+hash = "5cc73d3399248300a188164406cd801cc4ae00b3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6182692
+file-id = 7354928
 project-id = 622967

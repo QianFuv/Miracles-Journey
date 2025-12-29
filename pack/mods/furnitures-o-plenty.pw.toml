@@ -1,13 +1,13 @@
 name = "Furnitures O' Plenty"
-filename = "furnituresoplenty-1.0.0.jar"
+filename = "furnituresoplenty-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f67c5cd382b82fd166375fb7dce01c5549b807eb"
+hash = "bcaee426046abbd91d4b4310de8784abdcc617d9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7098679
+file-id = 7353733
 project-id = 1363774

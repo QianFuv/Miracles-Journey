@@ -176,17 +176,6 @@
         "value": 100
       }
     },
-    "stardew_fishing:bar_size": {
-      "enabled": false,
-      "min": {
-        "default": 4,
-        "value": 4
-      },
-      "max": {
-        "default": 142,
-        "value": 142
-      }
-    },
     "irons_spellbooks:cast_time_reduction": {
       "enabled": false,
       "min": {
@@ -196,6 +185,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "stardew_fishing:bar_size": {
+      "enabled": false,
+      "min": {
+        "default": 4,
+        "value": 4
+      },
+      "max": {
+        "default": 142,
+        "value": 142
       }
     },
     "additionalentityattributes:player.lava_visibility": {
@@ -561,17 +561,6 @@
         "value": 100
       }
     },
-    "stardew_fishing:treasure_chance_bonus": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
-      }
-    },
     "gtbcs_geomancy_plus:geo_magic_resist": {
       "enabled": false,
       "min": {
@@ -592,6 +581,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "stardew_fishing:treasure_chance_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:horse.jump_strength": {

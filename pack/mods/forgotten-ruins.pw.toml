@@ -1,13 +1,13 @@
 name = "Forgotten Ruins"
-filename = "forgottenruins-forge-1.20.1-0.0.12.jar"
+filename = "forgottenruins-forge-1.20.1-0.0.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bfa807a065adadb5c8eeb9c1fa666996b6b8ef1c"
+hash = "04e1a244e0a6cd4ea067f3cb77763daa6cb8799d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7234998
+file-id = 7283191
 project-id = 1307918

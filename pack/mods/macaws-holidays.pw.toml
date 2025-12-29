@@ -1,13 +1,13 @@
 name = "Macaw's Holidays"
-filename = "mcw-mcwholidays-1.1.1-mc1.20.1forge.jar"
+filename = "mcw-holidays-1.1.2-mc1.20.1forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fa601a5304f30750fe2e6a50a10e4d6039426086"
+hash = "dd125b79755ebd99aac3354b4670a5dd3c8086bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6990251
+file-id = 7304461
 project-id = 930232
