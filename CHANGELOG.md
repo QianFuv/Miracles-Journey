@@ -228,7 +228,7 @@
 
   <summary> 删除模组（共 32 个） </summary>
   
-  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Create: Trading Floor、Touhou Little Maid、Dreadsteel、Starlight、MemorySweep、Aetheric Tetranomicon、Art of Forging: A Tetra Addon、[MMT]More Materials Tetra、mutil、Soul fire'd、Withering Boon for Tetra、Tetra Extras、Tetra Niche Materials、Tetra Toolbooster、Tetra、TetraClip、Tetranomicon、Tetra's Delight、Create Track Map: Forge、Modonomicon、Revelationary、Spectral Decorations、Spectrum、SpectrumJEI、Mining Speed Tooltips、World Preview
+  ChatImage、Display Delight、Screenshot Sharing、UtilitX、Aquaculture、Aquaculture Delight、Create: Trading Floor、Touhou Little Maid、Dreadsteel、Starlight、MemorySweep、Aetheric Tetranomicon、Art of Forging: A Tetra Addon、[MMT]More Materials Tetra、mutil、Soul fire'd、Withering Boon for Tetra、Tetra Extras、Tetra Niche Materials、Tetra Toolbooster、Tetra、TetraClip、Tetranomicon、Tetra's Delight、Create Track Map: Forge、Modonomicon、Revelationary、Spectral Decorations、Spectrum、SpectrumJEI、Mining Speed Tooltips、World Preview、CreatingSpace、LootStories、MavApi、Mavm、Mocreatures、MusketMod、WanderingTraders、WanderingTrapper
   
   </details>
   
