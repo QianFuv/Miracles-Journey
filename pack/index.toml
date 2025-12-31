@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PCL/Logo.png"
+hash = "ae922132d422c82e58d11b60388fd1f0d2d1d29ae9835b76acac1fedc6dd2d74"
+
+[[files]]
 file = "PCL/setup.ini"
-hash = "f70f2d422a309f560948861cfb0d5e9add23f0ba6417f74d8299b46069e8919b"
+hash = "9feea78220b02034cffd9e6d0af31b0c56602a31f0edbd916da7788c15a51732"
 
 [[files]]
 file = "TrashSlotSaveState.json"
