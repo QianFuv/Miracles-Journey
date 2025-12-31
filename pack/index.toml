@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PCL/setup.ini"
+hash = "f70f2d422a309f560948861cfb0d5e9add23f0ba6417f74d8299b46069e8919b"
+
+[[files]]
 file = "TrashSlotSaveState.json"
 hash = "7199b753a25b75cdbce40ff8c178de20a4aa0f0c7c54f207375be7140ba43710"
 
@@ -5636,6 +5640,10 @@ file = "graalvm21/download.bat"
 hash = "159fd748c6e10d0ab3c6cd8e44bab0eee736306d47316fcd18f5f2f58cf02238"
 
 [[files]]
+file = "icon.png"
+hash = "ae922132d422c82e58d11b60388fd1f0d2d1d29ae9835b76acac1fedc6dd2d74"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -5666,10 +5674,6 @@ hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
-
-[[files]]
-file = "mods/WanderingTrapper-forge-1.20.1-2.0.0.jar.disabled"
-hash = "c59e35363611f31f664b3d05de93380feaebfbc98e09bb161aaf69fa9b5fc6fc"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -7042,10 +7046,6 @@ metafile = true
 file = "mods/createutilities.pw.toml"
 hash = "6c7227ee4c936e705290bd69185833ad6343ffb836da39817ad82ab2fb1b13c1"
 metafile = true
-
-[[files]]
-file = "mods/creatingspace-1.20.1_1.7.10.jar.disabled"
-hash = "213e3a0d2d05c2bad654752c76e98e07026fe2412109803e1d45de18b14bd469"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -8590,10 +8590,6 @@ hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
 
 [[files]]
-file = "mods/lootstories-1.20.1-1.3.0.jar.disabled"
-hash = "95ac057ca7097592769f7ce03732034705317cf42a1836dda635e88bc9c6e3ae"
-
-[[files]]
 file = "mods/lucky77.pw.toml"
 hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
@@ -8674,14 +8670,6 @@ hash = "4505d73b5a46ddc5383844599ea9743b2a7eb441e1bb5145177492e21be2ae83"
 metafile = true
 
 [[files]]
-file = "mods/mavapi-1.1.2-mc1.20.1.jar.disabled"
-hash = "71359e5348056abc2f5eca31346cf76fc7e65aad6be7a4d1a01c463d11a1eb69"
-
-[[files]]
-file = "mods/mavm-1.2.6-mc1.20.1.jar.disabled"
-hash = "5cc230ed7f1a12576703363585cf78d769ae57eea8e760a75d31260ddd9accc4"
-
-[[files]]
 file = "mods/mcretector.pw.toml"
 hash = "9a9fda505c28d03cd2c1adc4d754dabbe08b8058ec08abc2af7789ef932b0783"
 metafile = true
@@ -8760,10 +8748,6 @@ metafile = true
 file = "mods/mobtimizations.pw.toml"
 hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
 metafile = true
-
-[[files]]
-file = "mods/mocreatures-1.20.1-1.0.0.jar.disabled"
-hash = "0aa0e33961dc011416c843d96cf2f41fadd685f07daa6968216e0eea70a658d3"
 
 [[files]]
 file = "mods/model-gap-fix.pw.toml"
@@ -8898,10 +8882,6 @@ hash = "49af8d0abbea5a13eba56e1513c0b5c871e812cf859f652ff024b016ce6a9465"
 file = "mods/music-maker-mod.pw.toml"
 hash = "5966cd62ace7758708abfb97f22b066dd8e69c21895b0b0f3606defc9c6a1bf4"
 metafile = true
-
-[[files]]
-file = "mods/musketmod-1.20.1-forge-1.5.4.jar.disabled"
-hash = "f5af730e079d9413a4811dbaaa01cab78e82723b62836b0892a4607dbfae5dec"
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
@@ -10429,10 +10409,6 @@ metafile = true
 file = "mods/wakes-reforged.pw.toml"
 hash = "4d2c4f3e4885764d7a74839b79cdd77037a723e4ca48f8f45575510df8d50ddf"
 metafile = true
-
-[[files]]
-file = "mods/wandering-traders-forge-1.20.1-1.0.0.jar.disabled"
-hash = "c3db68f4479fa859f4ecc0239cc90ad79dc524a630390e7a29c97082c6a095c7"
 
 [[files]]
 file = "mods/wares.pw.toml"
