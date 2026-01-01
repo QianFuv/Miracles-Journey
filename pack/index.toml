@@ -7038,10 +7038,6 @@ hash = "405ff79c6621a967dd641150b7cd5f10b33a0d646b976176f5d3b85f0731e61b"
 metafile = true
 
 [[files]]
-file = "mods/createmetallurgy-0.0.7-HF-1.20.1.jar.disabled"
-hash = "7fe94d486943e3685d20a2773255c149d94a232083bab35300412261007f2f2e"
-
-[[files]]
 file = "mods/createtools-n-weapons.pw.toml"
 hash = "9275f3bc548dee1f2c9774f1c8e1e9fee34a125db06a15baa539fc89479d3a01"
 metafile = true
@@ -8493,10 +8489,6 @@ metafile = true
 file = "mods/little-logistics.pw.toml"
 hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
-
-[[files]]
-file = "mods/littlecontraptions-forge-1.20.1.2.jar.disabled"
-hash = "d73ec6a9d281553e57da3c58c57f32f1320df0484c196e5d0282d3717cac1c20"
 
 [[files]]
 file = "mods/lmft.pw.toml"
