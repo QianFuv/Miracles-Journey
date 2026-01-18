@@ -222,6 +222,8 @@
 
 - 替换魔力统一模组 Mana Unification -> Arcane Convergence
 
+- 替换任务系统为 FTB
+
 ### 删除
 
 - <details>
