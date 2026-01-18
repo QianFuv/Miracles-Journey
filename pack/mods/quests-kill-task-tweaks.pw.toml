@@ -1,0 +1,13 @@
+name = "Quests Kill Task Tweaks"
+filename = "Quest Kill Task-0.2.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b62edb76dc516d83362a7da603a9fafa0b0b00fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6237236
+project-id = 1161828

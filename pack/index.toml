@@ -1285,6 +1285,10 @@ file = "config/bestylewither-pre.json"
 hash = "7da5d34927922c48a9cf0281f36e9796ef3a88a873e9a82500666d862f2806c3"
 
 [[files]]
+file = "config/better_quest_popup-client.toml"
+hash = "8402fc708fdd5ea944a8e4216b292d75e64b65b582cf47b8d43333f2ebb5c8f9"
+
+[[files]]
 file = "config/betteradvancements-client.toml"
 hash = "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be"
 
@@ -1770,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "8d9d14ed2b431ec948e1bfb27b8011c6dfc3d6b4eb0ed5c1a52f72ed8374657b"
+hash = "353fa9b920e9e7c93a996788dcc952e8a294d7be9fa3f5a902b1ef6164e2cfb3"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2757,6 +2761,10 @@ file = "config/ftbbackups2.json"
 hash = "7e88163a0edc7f75f7b0d79bc700f262cb80d6bf522f1dc150369069e54805da"
 
 [[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
+
+[[files]]
 file = "config/fullturtlearmor.toml"
 hash = "bd4eb402fdef63f85238984b82717c4a9a8fd492d6018c8ac61b14629e7cf220"
 
@@ -3362,7 +3370,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "2cafe4c1203e11937a6f81458c4bcdce357a8cc8749a7c1dafa3414765d1ff9f"
+hash = "168dddf04326524b898844fba5ba3ab2faa8e95e7d0afb7dfe405b9f4fe9f883"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3386,7 +3394,7 @@ hash = "5f62b2721cedd82783258e18e580a3ce1141b66b3340cfa2f66be04af28645df"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "360f0ecbbac7b27215e2aa6aef7d5972c231fd942b6f5451c5991531758f4be7"
+hash = "885b1909d47e8743ccc9f3ca5c16e6bfcb241bda578a8d43317303fc1711ce2c"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -4657,7 +4665,7 @@ hash = "ccc1b51ae6ca9462731dd86b1233dc505126e45c3b8d85372ce824908c896ed4"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "1022f377c7c7f12252b06de554d798e2c8cf42b806c609e29c5469fb7e80ec33"
+hash = "a52692872676045a89276d46395ef6a2510376e98848cd733e9a62b899933247"
 
 [[files]]
 file = "config/silentsdelight-client.toml"
@@ -5620,6 +5628,10 @@ file = "config/zetter-client.toml"
 hash = "6d5b86eb3a3a5b7f1c8c9724e5f81c30d816c1ea48f725c64ff5769fbf025fb6"
 
 [[files]]
+file = "defaultconfigs/certain_questing_additions/client-config.snbt"
+hash = "bf179c73f8a353cce83f54a59696643e4d678b0ccb07d84dfd457e6e8b9190b8"
+
+[[files]]
 file = "defaultconfigs/champions-entities.toml"
 hash = "05109e7879bb5cda5ec61939a050b17734ebdae3d53729a401f59d16a32b7823"
 
@@ -5638,6 +5650,14 @@ hash = "92dd71570bdf957f39b27b3f7f80b3f13793311d23a5c766edc1102ca596e2b5"
 [[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
+
+[[files]]
+file = "defaultconfigs/ftbquests/client-config.snbt"
+hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
+
+[[files]]
+file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
+hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
 file = "graalvm21/download.bat"
@@ -6099,6 +6119,11 @@ hash = "80db178589041112037ca8a590b9208f139bbbbb53c3e1c864414b494c04ba1f"
 metafile = true
 
 [[files]]
+file = "mods/better-quest-pop-up.pw.toml"
+hash = "cccb9ae757e0ccef54a1f391b4082562f3359a0c081554867be5108085ea9455"
+metafile = true
+
+[[files]]
 file = "mods/better-snowball-fight-2.pw.toml"
 hash = "b9d4670b8434004b4143cdc3f629e8310edeeeb5ef28c17bb0a040055f58cf2d"
 metafile = true
@@ -6361,6 +6386,11 @@ metafile = true
 [[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "da9026c48b5c6bc9eab17bca48f4b1fd8540fcae23365d63c9d7c4e5c7eb0a30"
+metafile = true
+
+[[files]]
+file = "mods/certain-questing-additions.pw.toml"
+hash = "15585a8e3fde5556b2f3184297c16bd51d62efff935f36b19b06be5de77e6bc2"
 metafile = true
 
 [[files]]
@@ -7666,6 +7696,11 @@ hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "99b30274301843e8c1c2f8144dd63e95d19f05d576065bbddff851f02def2da4"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -7813,6 +7848,51 @@ metafile = true
 [[files]]
 file = "mods/fsu.pw.toml"
 hash = "6212afa68f03cfb572dccb28d2f801880121d2273fdff7b02fdb0e89577a3b13"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0e753f0aea9277eba730d4a55929f244f9d7c9d15cc5e9bd96b4669e531f6de2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "306994966b56905bb3468a0a9abb5bbcef853d4b1081526e62143c86fe473932"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "66206b66ab8d3a44fc67d44640398466630e18d02d3efdeb46f3134022284eb6"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-freeze-fix.pw.toml"
+hash = "da0b17b7213c2e71a9b4e18a572e631db3f1cbff422447de9dedcf3e0260a803"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "450e23b3e692360eee6fd55fc640b391eff8f4e5714ccc69bafb837685ae8e96"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "39e65bf3c47517cdb2f9b4b49c6632dd56db797744faaf8b1a3726b1b95aacb4"
+metafile = true
+
+[[files]]
+file = "mods/ftbxaerocompat.pw.toml"
+hash = "356934428122a11e31d3e401f5d5245cab09f8e342951ac7a3611781075de223"
 metafile = true
 
 [[files]]
@@ -8013,11 +8093,6 @@ metafile = true
 [[files]]
 file = "mods/hearths.pw.toml"
 hash = "aa2ee25935ff64f2626023b07c4a5eb750e3ea4a6225dc028d5fbe503d01e9c1"
-metafile = true
-
-[[files]]
-file = "mods/heracles.pw.toml"
-hash = "46eda0ee76a02627145f6cc524410b85f491045250bf5cb4f611c6ea9bbd6f6f"
 metafile = true
 
 [[files]]
@@ -8261,6 +8336,11 @@ hash = "87dc99129759177efebf050e11aea461a6257d3c2e79e895391f16d6fff808fc"
 metafile = true
 
 [[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ff92eddb2bf6f1afe9fa7fc73d63ea9419e0cff77fbd4fd2936b51525fe9340c"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "a905e45f361d2548cb1a84de83b99f781ca58dd5542d4b5acf67fac444264609"
 metafile = true
@@ -8428,6 +8508,11 @@ metafile = true
 [[files]]
 file = "mods/lauchs-shutters.pw.toml"
 hash = "d35a618d958de24577e951d9d4aad05a669c68b7f61551da0dc2a1d86330c328"
+metafile = true
+
+[[files]]
+file = "mods/leaderboards.pw.toml"
+hash = "ce1c6767722f2b6c3cd39229ae030caf21a66fcf6dc42155faf2594363564e30"
 metafile = true
 
 [[files]]
@@ -9285,6 +9370,11 @@ hash = "37c36c17ffcab84146bc5310ec975147c5305c5844400006fc962bffbf344b61"
 metafile = true
 
 [[files]]
+file = "mods/quests-kill-task-tweaks.pw.toml"
+hash = "1e5645e7147f3eea828ecd081ea48cb136eff4c744315731fae4cfea51aab9a1"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 hash = "4227721ff0e20b83eb5b5773529550cab6c2ef665f168ebc03a38a4dcb411953"
 metafile = true
@@ -9592,11 +9682,6 @@ metafile = true
 [[files]]
 file = "mods/silkier-touch.pw.toml"
 hash = "e9873591a2a37e77aebd15b7c085f6b1160cf65f68a37c90428d92396378425d"
-metafile = true
-
-[[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "befdd7852cd8a3c5517e6c42ec706f22a1c60888f603cd338584f891e817be6b"
 metafile = true
 
 [[files]]
@@ -10633,7 +10718,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "fc039f1d89f32161e5d03705274e12502cc45ccf72cc9037a4ddf473e553406f"
+hash = "ae23c236b937519d0d6af60d2eb1639398c4880c500405ad90453d40fb4e8888"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

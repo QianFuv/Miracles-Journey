@@ -1,0 +1,13 @@
+name = "(ARCHIVE) Faster Random"
+filename = "fasterrandom-5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5559269
+project-id = 912121

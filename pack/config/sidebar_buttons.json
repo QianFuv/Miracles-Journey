@@ -2,6 +2,12 @@
 	"ftbteams": {
 		"my_team": true
 	},
+	"leaderboards": {
+		"leaderboards": true
+	},
+	"ftbquests": {
+		"quests": true
+	},
 	"ftblibrary": {
 		"toggle.gamemode": false,
 		"toggle.rain": false,

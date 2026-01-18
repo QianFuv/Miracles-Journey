@@ -1,0 +1,13 @@
+name = "Better Quest Pop-up"
+filename = "BetterQuestPopup-1.20.1(forge)-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c399a3d8b621de3f129835cd7bd99a9284c41a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6466015
+project-id = 962385

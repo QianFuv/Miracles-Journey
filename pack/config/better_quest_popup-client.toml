@@ -1,0 +1,21 @@
+#Icon size of displayed pop-up item in pixels.
+#Default: 16
+#Range: > 0
+iconSizePx = 16
+#Center x of displayed pop-up.
+#Unit:
+#  %: Screen width in percentage.
+#  @: Icon size in percentage.
+#  (none): Pixels.
+#Operation: +, -
+#Default: "50%"
+centerX = "50%"
+#Center y of displayed pop-up.
+#Unit:
+#  %: Screen height in percentage.
+#  @: Icon size in percentage.
+#  (none): Pixels.
+#Operation: +, -
+#Default: "33.3% + 100@ + 1"
+centerY = "33.3% + 100@ + 1"
+
