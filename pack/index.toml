@@ -17134,13 +17134,12 @@ hash = "e77aa381b33551358ed144a6b1fe0a4c46049826651abe35b4b9bceffeddfbbe"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.6.1 + EuphoriaPatches_1.7.8.txt"
-hash = "c73817e8a8bc666bd265cb9661cb0eb280c34f566126ea201ed9d1d0409f4447"
+file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.1.txt"
+hash = "c21def541b581b102baabc88b0edd53c5e98975e1017466624d8eb3733bb53d8"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
-metafile = true
+file = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+hash = "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0"
 
 [[files]]
 file = "vaultpatcher/patch/com/tiviacz/warriorrage/ForgeEventHandler.class"
