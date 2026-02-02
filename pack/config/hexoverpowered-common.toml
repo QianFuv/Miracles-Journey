@@ -1,69 +1,96 @@
-#<Display>
-#Displays the hex inside readonly casting items; working client-side
-RevealsHexInsideCastingItems = true
-#<Mote>
-#Enables 'A Glance of Mote Chest' (a simple chest GUI) on right click
-#disables if `EnablesMoteItemHandler` is off
-EnablesMoteChestGUI = true
-#<Mishap>
-#Mishaps won't drop items anymore
-EnablesMishapNoYeet = true
-#<Mishap>
-#(DEPRECATED after HexCasting 0.11.3 because there's no limit anymore)
-#Teleporting riding entities no longer do mishaps
-EnablesTeleportVehicles = true
-#<Pattern>
-#if not, the `YJSP's Charge Media` pattern will be disabled
-EnablesChargeMediaAction = true
-#<Pattern>
-#if not, mind environment series patterns will be disabled
-EnablesMindEnvActions = true
-#<Personal Media>
-#Enables player's personal media pool
-EnablesPersonalMediaPool = true
-#<Personal Media>
-#Max media (in 0.0001 dust) for personal pool
-#Range: > 0
-PersonalMediaMax = 1000000
-#<Personal Media>
-#How many media points (in 0.0001 dust) personal pool regenerates each time
-#Range: > 0
-PersonalMediaRegenStep = 50000
-#<Personal Media>
-#For every X ticks personal pool regenerate once
-#Range: > 0
-PersonalMediaRegenInterval = 20
-#<Personal Media>
-#Fake players (for example, Deployer from Create) won't regenerate their media pool
-FakePlayerDontRegenMedia = true
-#<Personal Media>
-#Only activates personal media bar after enlightened
-PersonalMediaAfterEnlightened = true
-#<Personal Media>
-#Triggers events when personal media pool changed
-FiresPersonalMediaEvents = true
-#<Amethyst Circle>
-#media waves from circles go through amethyst budding blocks, and accelerates their crystal growth
-EnablesAmethystCircle = true
-#<Amethyst Circle>
-#each time media reduces for crystal growth passing a budding block
-#Range: > 0
-AmethystCircleSingleChargeCost = 100000
-#<Amethyst Circle>
-#max possible charging level of the wave: growth strength = min(this, wave total media / single cost)
-#Range: 1 ~ 30
-AmethystCircleFullPowerLevel = 15
-#<MekaSuit>
-#How many media points each FE point equals
-#Range: 0.0 ~ 1.0E10
-MekasuitConversionRatio = 1.0
-#<Mote>
-#Enables item IO without casting patterns
-EnablesMoteItemHandler = true
-#<Misc>
-#Player references are always valid even in another dimension
-TrueNameCrossDimension = true
-#<Property>
-#making property iotas directly execute what's inside when themselves executed
-ExecutablePropertyIota = true
+
+[Display]
+	#Displays the hex inside readonly casting items; working client-side
+	RevealsHexInsideCastingItems = true
+
+[Mote]
+	#Enables item IO without casting patterns
+	EnablesMoteItemHandler = true
+	#Enables 'A Glance of Mote Chest' (a simple chest GUI) on right click
+	#disables if `EnablesMoteItemHandler` is off
+	EnablesMoteChestGUI = true
+
+[Misc]
+	#Player references are always valid even in another dimension
+	TrueNameCrossDimension = true
+
+[Mishap]
+	#Mishaps won't drop items anymore
+	EnablesMishapNoYeet = true
+	#(DEPRECATED after HexCasting 0.11.3 because there's no limit anymore)
+	#Teleporting riding entities no longer do mishaps
+	EnablesTeleportVehicles = true
+
+[Pattern]
+	#if not, the `YJSP's Charge Media` pattern will be disabled
+	EnablesChargeMediaAction = true
+	#if not, mind environment series patterns will be disabled
+	EnablesMindEnvActions = true
+	#level 1 enables extra `setHealth` method call;
+	#level 2 adds saved data searching & replacing if lv.1 failed
+	#Range: 0 ~ 2
+	TrulyHurtLevel = 2
+
+	[Pattern.FactorCut]
+		#if not, Factor Cut pattern will be disabled
+		EnablesFactorCutSpell = true
+		#const cost for prime factors (in 1e-4 dust)
+		#Range: > 0
+		FactorCutPrimeCost = 10000
+		#const cost for non-prime factors (multiplied by the factor itself, in 1e-4 dust)
+		#Range: > 0
+		FactorCutNonPrimeCostScale = 50000
+		#cost for the fallback hurt-1 action (in 1e-4 dust)
+		#Range: > 0
+		FactorCutFallbackCost = 50001
+		#target's health gets extra random reduction after each successful division
+		FactorCutRandomMode = false
+		#minimum factor usable for division; factors less than this (if not equal to target health) will be denied
+		#Range: > 2
+		FactorCutMinimumFactor = 2
+		#entities with health under hou many points can be wiped for free
+		#Range: > 0
+		FactorCutKillingBlowLine = 1
+
+["Personal Media"]
+	#Enables player's personal media pool
+	EnablesPersonalMediaPool = true
+	#Max media (in 0.0001 dust) for personal pool
+	#Range: > 0
+	PersonalMediaMax = 1000000
+	#How many media points (in 0.0001 dust) personal pool regenerates each time
+	#Range: > 0
+	PersonalMediaRegenStep = 50000
+	#For every X ticks personal pool regenerate once
+	#Range: > 0
+	PersonalMediaRegenInterval = 20
+	#Fake players (for example, Deployer from Create) won't regenerate their media pool
+	FakePlayerDontRegenMedia = true
+	#Only activates personal media bar after enlightened
+	PersonalMediaAfterEnlightened = true
+	#Triggers events when personal media pool changed
+	FiresPersonalMediaEvents = true
+
+["Amethyst Circle"]
+	#media waves from circles go through amethyst budding blocks, and accelerates their crystal growth
+	EnablesAmethystCircle = true
+	#each time media reduces for crystal growth passing a budding block
+	#Range: > 0
+	AmethystCircleSingleChargeCost = 100000
+	#max possible charging level of the wave: growth strength = min(this, wave total media / single cost)
+	#Range: 1 ~ 30
+	AmethystCircleFullPowerLevel = 15
+
+[Property]
+	#making property iotas directly execute what's inside when themselves executed
+	ExecutablePropertyIota = true
+
+[MekaSuit]
+	#How many media points each FE point equals
+	#Range: 0.0 ~ 1.0E10
+	MekasuitConversionRatio = 1.0
+
+[HexParse]
+	#Makes artifacts directly read/writeable via HexParse methods; requires restart for changes to apply.
+	EnablesArtifactIO = true
 

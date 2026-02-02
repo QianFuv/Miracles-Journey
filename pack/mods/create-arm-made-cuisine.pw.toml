@@ -1,13 +1,13 @@
 name = "Create: Arm-made Cuisine"
-filename = "create_cuisine-1.0.0-slim.jar"
+filename = "create_cuisine-1.0.1-mc1.20.1-forge-slim.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "60800700841742a3d6c267a8a824d54e39c34222"
+hash = "9b0a721d8f32a4526073b13d21a85baa1c9f720d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6548153
+file-id = 7473211
 project-id = 1267351

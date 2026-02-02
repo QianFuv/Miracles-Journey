@@ -1,0 +1,21 @@
+# Value must contain 
+# Allows (non-null) empty values
+remoteHost = "http://localhost:25580/"
+# Value must contain 
+# Allows (non-null) empty values
+remoteToken = "watermedia_default_token_change_it"
+# Accepted values are: [UNKNOWN, Q144P, LOWEST, LOW, MEDIUM, HIGH, HIGHER, HIGHEST, Q4K, Q8K]
+defaultMediaQuality = "HIGHEST"
+ffmpegEnabled = true
+# path must be a runtime path
+customFFmpegPath = "D:\\QianFuv\\Miracles-Journey-Dev\\.minecraft"
+"pngDecoder$useBKGDChunk" = false
+"pngDecoder$failOnCorruptedData" = true
+
+[server]
+enabled = false
+# Value must match with ^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$|^(([a-zA-Z0-9]|[a-zA-Z0-9][a-zA-Z0-9\-]*[a-zA-Z0-9])\.)+([A-Za-z]|[A-Za-z][A-Za-z0-9\-]*[A-Za-z0-9])$
+# Allows (non-null) empty values
+host = "localhost"
+# Value must be less than '1' and greater than '65535'
+port = 25580

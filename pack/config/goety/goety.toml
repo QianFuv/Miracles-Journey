@@ -18,7 +18,7 @@
 	starterBook = false
 	#Gives Players the Witch's Brew when first entering World and Patchouli is loaded, Default: false
 	starterWitchBook = false
-	#Entities part of a Player's Book of Goodwill will not take most damage from said Player rather than just spells, Default: false
+	#Entities part of a Player's Grimoire of Goodwill will not take most damage from said Player rather than just spells, Default: false
 	goodwillNoDamage = false
 	#Show the Soul Energy Bar if Player has Totem of Souls/Arca, Default: true
 	soulGuiShow = true
@@ -48,6 +48,10 @@
 	bossMusic = true
 	#Players camera can shake. Default: true
 	cameraShake = true
+	#Entities part of a Player's Grimoire of Goodwill will be considered as the Player's ally codewise, Default: false
+	goodwillFullAlly = true
+	#Arca will save the Player if past Totem Maximum Soul Count but only if they're a Lich, Default: true
+	arcaLichUndying = true
 
 ["Mod Compatibility"]
 	#If enabled, Ender Dragon's Fireballs will leave clouds that damages even undead and will not hit itself. Default: false
@@ -120,6 +124,9 @@
 	#The amount of Illager Servants an Ominous Idol can register to revive, Default: 16
 	#Range: > 0
 	ominousIdolLimit = 16
+	#Add mobs that Forbidden Grass will not spawn. 
+	#To do so, enter the namespace ID of the mob, like "minecraft:zombie, minecraft:skeleton".
+	forbiddenGrassBlackList = []
 
 ["Soul Taken"]
 	#Multiplies the amount of Souls taken by this amount, Default: 2

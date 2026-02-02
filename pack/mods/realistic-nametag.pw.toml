@@ -1,13 +1,13 @@
 name = "Realistic Nametag"
-filename = "Realistic-Nametag-forge-1.20.1-1.2.0.jar"
+filename = "Realistic-Nametag-forge-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a339580dc4c23b29ee4db508c00a5e9b5e837dda"
+hash = "51be6db8c1f057959c44a13f0f560de7e6e98bbe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7068944
+file-id = 7462016
 project-id = 1314293

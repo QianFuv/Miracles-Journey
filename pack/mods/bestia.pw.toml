@@ -1,13 +1,13 @@
 name = "Bestia"
-filename = "bestia-1.20.1-forge-3.0.1.jar"
+filename = "bestia-1.20.1-forge-3.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "39fe1bebfd278b28fe11cfe6b97e4988948075ab"
+hash = "f617a62be3fbf8eba6b84a09cddc93eaf091cd9a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7056387
+file-id = 7422410
 project-id = 1307462

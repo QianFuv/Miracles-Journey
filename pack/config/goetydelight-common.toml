@@ -51,4 +51,16 @@ soulAffixDamagePerLevel = 1.0
 #Soul energy cost per level of Soul Affix enchantment
 #Range: > 1
 soulAffixSoulCostPerLevel = 10
+#Disable Soul Mending enchantment entirely
+disableSoulMending = false
+#Disable Soul Healing enchantment entirely
+disableSoulHealing = false
+#Disable Soul Affix enchantment entirely
+disableSoulAffix = false
+#A list of items that cannot be enchanted with Soul Mending
+soulRepairBlacklist = []
+#A list of items that cannot be enchanted with Soul Healing
+soulHealBlacklist = []
+#A list of items that cannot be enchanted with Soul Affix
+soulAffixBlacklist = []
 

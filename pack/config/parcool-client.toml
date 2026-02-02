@@ -159,6 +159,18 @@
 	#Lowest fall distance needed to trigger breakfall movements
 	#Range: 0.0 ~ 10.0
 	lowest_fall_distance_for_breakfall = 2.0
+	#Window time of just time breakfall
+	#Range: > 0
+	justtime_breakfall_tick = 5
+	#How long distance breakfall can remove damage
+	#Range: 0.0 ~ 1.7976931348623157E308
+	max_breakfall_damage_remove_height = 6.0
+	#Damage reduction rate of Breakfall
+	#Range: 0.0 ~ 1.0
+	max_breakfall_damage_reduction_rate = 0.6
+	#coyote time tick (how long tick player can behave like on ground after getting off ledge
+	#Range: 0 ~ 20
+	coyote_time = 3
 
 [Modifier]
 	#How long you can do Horizontal Wall Run
@@ -176,6 +188,9 @@
 	#Dodge speed modifier
 	#Range: 0.5 ~ 3.0
 	dodge-speed_modifier = 1.0
+	#SkyDive speed decreasement rate
+	#Range: 0.001 ~ 1.0
+	sky_dive-speed-decreasement = 0.98
 
 [Other_Configuration]
 	#Vault Animation(Dynamic is to select animation dynamically)

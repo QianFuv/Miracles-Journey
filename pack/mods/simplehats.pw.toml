@@ -1,13 +1,13 @@
 name = "Simple Hats"
-filename = "simplehats-fabric-1.20.1-0.3.2.jar"
+filename = "simplehats-forge-1.20.1-0.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d5bb4206550343d100b08b40ad8fc66309c12fac"
+hash = "1b2364dd1cbeb2c93e2495fb2e7b0d6517bfbfb6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5603826
+file-id = 7445371
 project-id = 631990

@@ -165,6 +165,17 @@
         "value": 2048
       }
     },
+    "gtbcs_spell_lib:spell_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "eidolon:chanting_speed": {
       "enabled": false,
       "min": {
@@ -174,6 +185,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "gtbcs_spell_lib:magic_projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "irons_spellbooks:cast_time_reduction": {
@@ -1584,6 +1606,17 @@
         "value": 1024
       }
     },
+    "gtbcs_spell_lib:spell_crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -1659,6 +1692,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "irons_spellbooks:casting_movespeed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "hexoverpowered:personal_media_regen": {
@@ -2715,6 +2759,17 @@
       "max": {
         "default": 0.949999988079071,
         "value": 0.949999988079071
+      }
+    },
+    "gtbcs_spell_lib:spell_crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "tconstruct:player.use_item_speed": {

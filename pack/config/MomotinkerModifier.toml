@@ -26,4 +26,22 @@
 	"shortterminvestments only valid for the minecraft' item" = true
 	#explosion_destroys_limit
 	"explosion destroys limit" = true
+	#shortterminvestments_increase_ratio
+	#Range: > 0
+	"shortterminvestments increase ratio" = 25
+	#shortterminvestments_reduce_ratio
+	#Range: > 0
+	"shortterminvestments reduce_ratio" = 50
+	#meteor_explosion_limit
+	"exclusive explosion destruction switch for meteor nucleus" = true
+
+	[Modifier."The time interval of meteor nucleus generation"]
+		#meteor_time_limit
+		#Range: > 1
+		"By default, there is a 50% probability every 100 seconds" = 2000
+
+	[Modifier."The probability of meteor nucleus generation"]
+		#meteor_probability_limit
+		#Range: > 0
+		"By default, there is a 50% probability every 100 seconds" = 50
 

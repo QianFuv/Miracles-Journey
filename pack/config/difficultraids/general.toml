@@ -218,6 +218,8 @@
 		enableBladeKnight = true
 		enableScavenger = true
 		enableSoulSage = true
+		enableAcolyte = false
+		enableBulkwark = false
 
 	["Enabled Raiders"."Requires Raided"]
 		enableRaidedNecromancer = true
@@ -275,13 +277,12 @@
 
 	["Enabled Raiders"."Requires Expado's Illagers"]
 		enableBrasher = true
-		enableKnocker = true
-		enableWrecker = true
-		enableHackle = true
 		enableJuggernaut = true
 		enableBludgeoner = true
-		enablePikeloger = true
 		enableGrindicator = true
+		enableBluntologer = true
+		enableCleavager = true
+		enableSpearologer = true
 
 	["Enabled Raiders"."Requires Francis Illagers"]
 		enablePatrologer = true
@@ -345,12 +346,6 @@
 		enableMagnetizer = true
 		enablePhotographer = true
 		enablePartyger = true
-
-	["Enabled Raiders"."Requires Burning Illagers"]
-		enableMicromancer = true
-		enableDisvoker = true
-		enableGharzul = true
-		enableRavamage = true
 
 	["Enabled Raiders"."Requires Pillagers Plus"]
 		enableSwordPillager = true
@@ -435,4 +430,63 @@
 
 	["Enabled Raiders"."Requires Ben's Sharks"]
 		enableThalassoger = true
+
+	["Enabled Raiders"."Requires Illager Expansions"]
+		enableEliteVindicator = true
+		enableRetaliator = true
+		enableCrindicator = true
+		enableElitePillager = true
+		enableRavagerRider = true
+
+	["Enabled Raiders"."Requires Gloom Raiders"]
+		enableNun = true
+		enableShylock = false
+		enableNewDramatist = true
+		enableSpellSword = true
+		enablePsychcW = true
+		enablePsychicM = true
+		enableHeadsman = true
+		enableNewBigNun = false
+		enableAwakenEarl = false
+		enableDramatist = false
+		enableEarl = true
+		enableFlyEarl = false
+
+	["Enabled Raiders"."Requires Ocean World"]
+		enableOceanologer = true
+
+	["Enabled Raiders"."Requires Multiverse"]
+		enableConqueror = false
+		enableTraveler = false
+
+	["Enabled Raiders"."Requires Porchers"]
+		enableBlower = true
+		enableStabber = true
+		enableHarvester = true
+
+	["Enabled Raiders"."Requires Mecha Pillager Boss"]
+		enableMechaPillager = true
+		enableMechaVindicator = true
+
+	["Enabled Raiders"."Requires The Resiliance of the Raiders"]
+		enableResilianceCrusher = true
+		enableClashager = true
+		enableShiverger = true
+
+	["Enabled Raiders"."Requires The Resistance Of Illagers"]
+		enableGuardian = true
+		enableAssailant = true
+		enableHarrier = true
+
+	["Enabled Raiders"."Requires The Vindication Of Illagers"]
+		enableVindicationPreacher = true
+		enableBlackmaster = true
+		enablePlanner = true
+		enableVisologer = true
+		enableVindicationIntruder = true
+		enableVoltologer = true
+		enableSmither = true
+		enableRager = true
+		enablePatrolCaptain = true
+		enableRaiderRandomizer = true
 

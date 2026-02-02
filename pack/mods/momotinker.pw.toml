@@ -1,13 +1,13 @@
 name = "momotinker"
-filename = "momotinker-1.20.1-1.2.9.jar"
+filename = "momotinker-1.20.1-1.3.0.fix.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "acc71e5023e6c737eab25c7bf369a22c3ec02aca"
+hash = "b14c4dc7e25cd326703786ff7d6c28f175797435"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7024699
+file-id = 7440554
 project-id = 1224077

@@ -24,4 +24,22 @@ enabled = true
 	#Random variance added to the base spawn distance (0~value).
 	#Range: > 0
 	spawnDistanceVariance = 32
+	#Maximum block light level allowed for caravan spawning.
+	#Caravans will only spawn if block light level is less than or equal to this value.
+	#Default: 4 (same rule as hostile mob spawning).
+	#Range: 0 ~ 15
+	spawnMaxBlockLight = 4
+	#Safe zone radius around villages where caravans cannot spawn.
+	#Measured in SectionPos units (16x16x16 blocks).
+	#Default: 3 sections.
+	#Range: 0 ~ 64
+	villageSafeZoneRadius = 3
+
+[CaravanBehavior]
+	#Whether caravan animals are allowed to teleport to the entity holding their leash.
+	#Disabling this may cause caravans to stretch or break apart.
+	allowLeashedTeleport = true
+	#Whether caravan members are allowed to teleport to their leader
+	#when they fall too far behind.
+	allowFollowerTeleport = true
 

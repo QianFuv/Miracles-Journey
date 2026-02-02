@@ -1,13 +1,13 @@
 name = "Tinkers' Battle Spades"
-filename = "TinkersBattleSpades_v1.1.jar"
+filename = "TinkersBattleSpades-1.20.1-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e2a671143d415b6a2a29d3ae4284a7a1427b92bb"
+hash = "986bb1d4767506815f28d6e07f20b816814a1ed4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6971324
+file-id = 7422222
 project-id = 1295229

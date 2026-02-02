@@ -1,13 +1,13 @@
 name = "Golem Dungeons"
-filename = "golemdungeons-1.0.3.jar"
+filename = "golemdungeons-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ca81774516e8ff04ce1056adf1b9186b7565287d"
+hash = "929ab05f89707058eb7bb378a8ab37165973e6aa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6987539
+file-id = 7472788
 project-id = 1328313

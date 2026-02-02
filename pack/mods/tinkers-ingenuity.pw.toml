@@ -1,13 +1,13 @@
 name = "Tinkers' Ingenuity"
-filename = "tinkers_ingenuity-1.1.1.jar"
+filename = "tinkers_ingenuity-1.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e13d1cb2b85faa2d2dfc11601d90e6941f3258c0"
+hash = "f9dbbb3e98e01f1333970c00ae921f4725c45295"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7307726
+file-id = 7522808
 project-id = 1300480

@@ -257,6 +257,21 @@
 	DespairShade = 0.4
 	#Change to false if you think the red shade hurt your eyes, then Dark one would be instead
 	RedShadeEnable = true
+	#Ars Nova compact: Max mana regen gain from Per Aspera Scriptum
+	#Range: 0.0 ~ 100.0
+	ArtsRegenBonus = 6.0
+	#Ars Nova compact: Max mana gain from Per Aspera Scriptum
+	#Range: 0.0 ~ 1000.0
+	ArtsMaxManaBonus = 120.0
+	#Max Absorption value get when damage larger than max health
+	#Range: 0.0 ~ 2000.0
+	AsOneAB = 1000.0
+	#The stats limit for black sapphire not like was
+	#Range: 0 ~ 200
+	UnbuildLimits = 36
+	#How much damage reduction per level provided in %
+	#Range: 0.0 ~ 1.0
+	ArtsManaShieldBase = 0.8
 
 #Configuration to almost all data in this mod. Take your own risk modify it!!!
 ["Mod Compact"]

@@ -1,13 +1,13 @@
 name = "More Sniffer Flowers"
-filename = "MoreSnifferFlowers-1.20.1-Forge-6.5.jar"
+filename = "MoreSnifferFlowers-1.20.1-Forge-6.6.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "528d26f5f106fab41a61869ca20538d1e700d87f"
+hash = "1dae61ac93bc6aebcb74a8ae580ad8f743dd223c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7255299
+file-id = 7497076
 project-id = 884119

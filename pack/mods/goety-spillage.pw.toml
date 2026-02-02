@@ -1,13 +1,13 @@
 name = "Goety & Spillage"
-filename = "goety_spillage-1.20-1.4.4.jar"
+filename = "goety_spillage-1.20-1.4.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "98ecefec5742f92ce7dc90a5233a8ac9da641045"
+hash = "de407738be50d109e8b6d70df4a5e396415744d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7330368
+file-id = 7402767
 project-id = 1108014

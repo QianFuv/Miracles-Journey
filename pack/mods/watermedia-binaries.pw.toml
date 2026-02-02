@@ -1,0 +1,13 @@
+name = "WATERMeDIA: Binaries"
+filename = "wm_binaries-3.0.0-rc.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47864af0b432999cc057e8a459c1decf4b0ba053"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7436617
+project-id = 1029438

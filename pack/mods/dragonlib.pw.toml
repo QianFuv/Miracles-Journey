@@ -1,13 +1,13 @@
 name = "DragonLib"
-filename = "dragonlib-forge-1.20.1-beta-3.0.14.jar"
+filename = "dragonlib-forge-1.20.1-beta-3.0.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c37d512f9b5527d9f569d81ac60a4af98be33a94"
+hash = "ce3204f8f59f3870fa9c0a596bc04432c0489831"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7351117
+file-id = 7517501
 project-id = 946163

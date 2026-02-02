@@ -1005,6 +1005,53 @@
 			#Range: 0.0 ~ 1.7976931348623157E308
 			signalerServantFollowRange = 32.0
 
+		[Attributes."Summoned Mobs"."Carrion Maggot"]
+			#How much Max Health Carrion Maggots have, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			carrionMaggotHealth = 8.0
+			#How much natural Armor Carrion Maggots have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			carrionMaggotArmor = 0.0
+			#How much damage Carrion Maggots melee attack deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			carrionMaggotDamage = 2.0
+
+		[Attributes."Summoned Mobs"."Carrion Fly"]
+			#How much Max Health Carrion Flies have, Default: 8.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			carrionFlyHealth = 8.0
+			#How much natural Armor Carrion Flies have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			carrionFlyArmor = 0.0
+			#How much damage Carrion Flies melee attack deals, Default: 3.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			carrionFlyDamage = 3.0
+
+		[Attributes."Summoned Mobs"."Frayed Servant"]
+			#How much Max Health Frayed Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			frayedServantHealth = 20.0
+			#How much natural armor points Frayed Servants have, Default: 2.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			frayedServantArmor = 2.0
+			#How much damage Frayed Servants deals, Default: 3.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			frayedServantDamage = 3.0
+
+		[Attributes."Summoned Mobs"."Rattled Servant"]
+			#How much Max Health Rattled Servants have, Default: 20.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			rattledServantHealth = 20.0
+			#How much natural Armor Rattled Servants have, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			rattledServantArmor = 0.0
+			#How much damage Rattled Servants deals, Default: 2.0
+			#Range: 1.0 ~ 1.7976931348623157E308
+			rattledServantDamage = 2.0
+			#How much extra damage Rattled Servants range attack deals, Default: 0.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			rattledServantRangeDamage = 0.0
+
 	[Attributes.Mini-Bosses]
 
 		[Attributes.Mini-Bosses.Crone]

@@ -242,6 +242,17 @@
       },
       "sync": "botanicpledge:yggdrasil_power_gui"
     },
+    "celestial_invoker:custom_bar_handler": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "celestial_invoker:custom_bar_handler"
+    },
     "cfwinfo:info": {
       "displacement": {
         "x": 0,
@@ -792,6 +803,17 @@
       },
       "sync": "irons_spellbooks:screen_effects"
     },
+    "irons_spellbooks:screen_tooltip": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "irons_spellbooks:screen_tooltip"
+    },
     "irons_spellbooks:spell_bar": {
       "displacement": {
         "x": 0,
@@ -1033,6 +1055,61 @@
         "y": "NONE"
       },
       "sync": "momotinker:ender"
+    },
+    "momotinker:incarnon_off_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:incarnon_off_hud"
+    },
+    "momotinker:incarnon_on_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:incarnon_on_hud"
+    },
+    "momotinker:legion_cooldown_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:legion_cooldown_hud"
+    },
+    "momotinker:legion_phase_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:legion_phase_hud"
+    },
+    "momotinker:legion_progress_hud": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "momotinker:legion_progress_hud"
     },
     "momotinker:tools_time_hud": {
       "displacement": {

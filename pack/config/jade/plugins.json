@@ -83,6 +83,9 @@
     "show_errors": true,
     "bee_nest_type": true
   },
+  "delighto_flight": {
+    "crop_progress": true
+  },
   "infinitybuttons": {
     "hide_secret_buttons": true,
     "hide_lantern_buttons": true,
@@ -90,6 +93,9 @@
   },
   "platforms": {
     "hud": true
+  },
+  "create_mobile_packages": {
+    "bee_port": true
   },
   "workshop_for_handsome_adventurer": {
     "jade_plugin2": true,
@@ -121,6 +127,9 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "beer": {
+    "beer": true
   },
   "barbequesdelight": {
     "grill": true

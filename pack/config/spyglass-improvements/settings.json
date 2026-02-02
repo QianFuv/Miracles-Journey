@@ -2,7 +2,7 @@
   "overlay": 0,
   "extraZoom": false,
   "multiplierDelta": 0.1,
-  "hideSettingsButton": false,
+  "hideSettingsButton": true,
   "showCrossHair": false,
   "smoothCamera": true,
   "userForceSpyglass": false

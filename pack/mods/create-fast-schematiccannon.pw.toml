@@ -1,13 +1,13 @@
 name = "Create: Fast SchematicCannon"
-filename = "CreateFastSchematicCannon-1.3-6.0.x-forge-1.20.1.jar"
+filename = "CreateFastSchematicCannon-1.4-6.0.x-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "34f3c8305d12e81eb0507976f31a0511d947d1a4"
+hash = "60b1df7ecf6e33125e04edf2e4b10d40341c2545"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7272626
+file-id = 7552711
 project-id = 1352204

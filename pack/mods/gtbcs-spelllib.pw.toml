@@ -1,13 +1,13 @@
 name = "GTBC's SpellLib/API"
-filename = "gtbcs_spell_lib-1.3.0-1.20.1.jar"
+filename = "gtbcs_spell_lib-1.4.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ed55110782ffab3ea4a2681ef48f9941290aae8"
+hash = "4a47a2d18b722a4cd05fb384bd080c9466676d5a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6973032
+file-id = 7385457
 project-id = 1194714

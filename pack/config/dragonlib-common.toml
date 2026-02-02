@@ -24,4 +24,9 @@
 		#The proportion of the total day duration by which the clock time is shifted. By default, 0 ticks = 06:00, for which the time must be shifted by 25% of the day length. (Default: 0.25)
 		#Range: 0.0 ~ 1.0
 		daytime_shift = 0.25
+		#in Milliseconds
+		#To improve performance during frequent queries of the default time system, the found time system can be cached for a certain period. Higher values may produce less accurate results because the time system is not updated immediately, for example, when a datapack is loaded. A value of 0 disables the cache. (Default: 100)
+		#A GAME RESTART IS REQUIRED FOR CHANGES TO TAKE EFFECT!
+		#Range: 0 ~ 10000
+		time_system_cache_ttl = 100
 

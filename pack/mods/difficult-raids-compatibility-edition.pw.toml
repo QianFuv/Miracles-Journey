@@ -1,13 +1,13 @@
 name = "Difficult Raids - Compatibility Edition"
-filename = "difficultraids-1.20.1-2.0-beta19.jar"
+filename = "difficultraids-1.20.1-2.0-beta20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0fcf36a173d19e71f20c6fa2e854dbe70fa8f99d"
+hash = "0347df95a749e22337bc90df1f8bbce5bb72d02b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7228953
+file-id = 7404928
 project-id = 1105005

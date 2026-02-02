@@ -1,13 +1,13 @@
 name = "Create: Power Grid"
-filename = "powergrid-mc1.20.1-0.4.1.jar"
+filename = "powergrid-mc1.20.1-0.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "10bd7d49a2678b4ef7b316f46f9f60ae184293a1"
+hash = "778d7fbf19b194c82dfcecae29aff397846fac13"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7352839
+file-id = 7411795
 project-id = 1321420

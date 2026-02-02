@@ -1,13 +1,13 @@
 name = "Pillager Caravans"
-filename = "caravans-forge-1.20.1-1.4.1.jar"
+filename = "caravans-forge-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1ea9770efcae23638372bb4c92eeb24b5a967cb6"
+hash = "40c393d7c42d671bb50bc342a7fdd0550292e956"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7271553
+file-id = 7536113
 project-id = 1356772

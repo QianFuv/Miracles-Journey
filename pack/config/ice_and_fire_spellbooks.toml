@@ -1,4 +1,13 @@
-#Defines armor values for Dragon Priest armor. Default is [6, 9, 12, 7]
-#[head, legs, chest, feet]
-dragonsteel_armor_values = [5, 0, 0, 0]
+
+[ArmorConfig]
+
+	[ArmorConfig.DragonPriestArmor]
+		#Defines armor values for Dragon Priest armor. Default is [6, 9, 12, 6]
+		#[feet, legs, chest, head]
+		dragonsteel_armor_values = [6, 9, 12, 6]
+
+	[ArmorConfig.DragonPriestMasks]
+		#Defines armor values for Dragon Priest armor. Default is [6, 9, 12, 6]
+		#[feet, legs, chest, head]
+		dragonsteel_armor_values = [1, 1, 1, 5]
 
