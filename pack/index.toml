@@ -70,7 +70,7 @@ hash = "3c02f6c557fe221194e526bb26dda5c00887e935ae78520fd9b49c2c49020a6d"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
-hash = "6df7e4f347189255da1c37b5942f8a78ead3cef4f904e59aeec2d623156a715a"
+hash = "641086baec2a2699f747ea88d5e3a34862e70b7d974c077054e5a63fc10dfad7"
 
 [[files]]
 file = "config/LetMeFeedYou.toml"
@@ -1210,7 +1210,7 @@ hash = "44d5ffce2028de707c522ebcf39ff392810c73b91008e7b98d83ca3f2619aa0d"
 
 [[files]]
 file = "config/attributefix.json"
-hash = "83f53845ed698d8aadd358df6fdb5a92f5b65853461730c95a06e0e18af1e7cb"
+hash = "95a51cdd2a134995ea093317a97bafeef2a4ba91bef5d7ed972ce2ccc139b7aa"
 
 [[files]]
 file = "config/attributeslib.cfg"
@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "909ecec553e79bd8cd6d123092d9de285892c1a81c9fd26cd4d856d610f0702c"
+hash = "53dcda14f4566982579683040f7feaa307fc53c5f030dca14b4e2f5d1dbaf001"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2482,7 +2482,7 @@ hash = "dea782677114294101c8608bf99d4217a440d3622db863d4362e33614256f94d"
 
 [[files]]
 file = "config/euphoria_patcher/data.json"
-hash = "2f9e70b93cb120e38b8537f9ccd24ff5bc12dd54fb144eab0388b4c98841e989"
+hash = "46bb83b8d5a0a5d0a448e24ae62941a98b5e4d936233d0a165462b7eb5d1f253"
 
 [[files]]
 file = "config/euphoria_patcher/settings.toml"
@@ -2547,6 +2547,10 @@ hash = "e65f77880a49783d1b1a29f0181ffde2021ef1120c47cc30fbba157de05ea89d"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "26b311799dd2c9c297877d6e88599adbc4cf2faa13706b95cd67be2a03ca63f0"
+
+[[files]]
+file = "config/fallingleaves-client.toml"
+hash = "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -3534,7 +3538,7 @@ hash = "5eb09146fceca7e1a34306595cf6ab031647730742ebc9610b86e3b8247e92b6"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
+hash = "9bd6d22505c71d59ce79eac5c3f330a7877a543b0e873fca24ba47f7d51acc94"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -4094,7 +4098,7 @@ hash = "1988b86b1249cd3e48054df8c94f0225022dbc17689cc0fec2f0e0bde40709c8"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "e3296b408984d40ceb5089d737d7dcf0f6199db71f55966b6888c8f406a17f96"
+hash = "48ac7979af47910ca1c6fde66d0acd686724453637bf1263eb41caa67b1a11de"
 
 [[files]]
 file = "config/onion_onion-common.toml"
@@ -5772,8 +5776,20 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
+file = "mods/Boids-2.0.2+1.20.1.jar.disabled"
+hash = "da93c7cccda72a343bab6b5371df907e53671f5f757bc8c99625cdb7f3709672"
+
+[[files]]
 file = "mods/CasterCuriosBonus-1.20.1-1.0.6.jar.disabled"
 hash = "62edc489f476b81d108be90285368643d5ae94e562f28bd0ea490867cad5a1d0"
+
+[[files]]
+file = "mods/Connector-1.0.0-beta.47+1.20.1.jar.disabled"
+hash = "44f7208f5384bc2b5da3957051c701e279d3f6c720b75582ec35274ea8f68cc5"
+
+[[files]]
+file = "mods/ConnectorExtras-1.11.2+1.20.1.jar.disabled"
+hash = "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8"
 
 [[files]]
 file = "mods/EuphoriaPatcher-1.8.1-r5.7.1-forge.jar"
@@ -5794,14 +5810,13 @@ hash = "d84961fe65fcb7f4da1689bdc7a1f1b8ce751a2b1eff2b18fb1f5c8027d22042"
 metafile = true
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "d089bd1afa7fad1d3c8414b3f1765cdca030b20d974bdd1f8e232069286c26d0"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
+
+[[files]]
+file = "mods/accessories_tclayer-3.8.1-beta.14+1.20.1.jar.disabled"
+hash = "fbb82dc994b8d32845ebb6bfb93e4df320039b95d60d6645c88a0f069f54ece0"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -5978,9 +5993,8 @@ hash = "a43acd4b5a8676a0738c8a9d92d70f9d8ec2eed09c517ac9b91823e94b8de7bc"
 metafile = true
 
 [[files]]
-file = "mods/arcane-convergence.pw.toml"
-hash = "8c06a63efc34961fe9617295d0205df3970858dba9106b621cf5b7ad79d2718d"
-metafile = true
+file = "mods/arcane_convergence-1.0.0bugfix-all.jar.disabled"
+hash = "fa7f8ce9bebea6412598c7d6d26c9b6a203981f7712b44f0f4aeb763ceeac885"
 
 [[files]]
 file = "mods/archery-expansion-squared.pw.toml"
@@ -6213,11 +6227,6 @@ hash = "b9d4670b8434004b4143cdc3f629e8310edeeeb5ef28c17bb0a040055f58cf2d"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "83a04023d58649ce89db7c5d0e9006d61ee7b51570cf6594897dae6cc7b6178a"
-metafile = true
-
-[[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "b0ada52612b5780f8da5bb38dd0d453ff20f2f93fb5ce7496f86f2c6902dc014"
 metafile = true
@@ -6251,6 +6260,10 @@ metafile = true
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
+
+[[files]]
+file = "mods/betterstats-3.12.6+fabric-1.20.1.jar.disabled"
+hash = "6fa315149762e31db30fb73cef35ebd88946f7b937f89cc533dfb2fb418fe84e"
 
 [[files]]
 file = "mods/bftp.pw.toml"
@@ -6300,11 +6313,6 @@ metafile = true
 [[files]]
 file = "mods/boatload.pw.toml"
 hash = "192b4e3d282f8fb2b64de240e470a1f53c8b0b7a5b2a2a2f3d04c9fcfabb6334"
-metafile = true
-
-[[files]]
-file = "mods/boids.pw.toml"
-hash = "d552818d69391de8a10945619b9e50ba25df1081d5d31a8fbd23d644fbb56a5c"
 metafile = true
 
 [[files]]
@@ -6418,9 +6426,8 @@ hash = "4422657b3eff4fb9077c3eb3a296eee67184d0775cb99dd586373df24a012b43"
 metafile = true
 
 [[files]]
-file = "mods/c2me.pw.toml"
-hash = "99bf8f34b6bff81c977ea6736c58b6df564a7e9ae684fe3ad25e3b5fc91a6c74"
-metafile = true
+file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar.disabled"
+hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -6648,6 +6655,11 @@ hash = "17be84f385e68f623982229b7044f8c1e9fa9c8e55a464d1ac4d8d03ea9e060a"
 metafile = true
 
 [[files]]
+file = "mods/concurrent-chunk-management-engine-1-20-1.pw.toml"
+hash = "65b4c546e08bcdf0a2b84f12e1523f9a9e257b35a990511ded9c402c16f1c01e"
+metafile = true
+
+[[files]]
 file = "mods/config-api.pw.toml"
 hash = "41cbf8e1d9272563d4d669fdf6ffef2acb54a68d6067fa1e6f04b1103c5f7706"
 metafile = true
@@ -6660,11 +6672,6 @@ metafile = true
 [[files]]
 file = "mods/connectible-chains-forge.pw.toml"
 hash = "10e3d014bd3927d75f0969c35fa9296073b8987975aa6a059771a7571e35dd38"
-metafile = true
-
-[[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
 metafile = true
 
 [[files]]
@@ -6683,9 +6690,12 @@ hash = "48317c2b0dde003f0370dc76b2387b5d13e4b38cafddeb5acb26630584423160"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "e9cfb7374590ca30ace54658e4196c6b2f3883b89fdaa4c2cfb124da37021a55"
-metafile = true
+file = "mods/continuity-3.0.0+1.20.1.forge.jar.disabled"
+hash = "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76"
+
+[[files]]
+file = "mods/continuity-3.0.0-beta.6+1.20.1.jar"
+hash = "9c2ee96c2bf296dc7ac430a8eac2b4dc0997c078301623462d756e477fcbdafd"
 
 [[files]]
 file = "mods/controlling.pw.toml"
@@ -7210,9 +7220,8 @@ hash = "26002f2d1010f5e01f0d4de43b88f46f1b9fc44c4b6e3583b7866bb0e5802624"
 metafile = true
 
 [[files]]
-file = "mods/daily-rewards.pw.toml"
-hash = "61452d438ee37b8794f439fe347a8bb530482f6dec894b4233aaefec2847a7a4"
-metafile = true
+file = "mods/daily_rewards-1.20.1-5.3.1.jar.disabled"
+hash = "672723616d9d5c5306b62c29db9fb9917b02b6f8d950dfbaa5de5648b16b98cc"
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
@@ -7719,14 +7728,17 @@ hash = "be79a65eafa4eca252c9501257c5da21f2eaab2503f8d6d7dbb88b1963a01801"
 metafile = true
 
 [[files]]
-file = "mods/fabridge.pw.toml"
-hash = "d9b69e4729f23143e44e9e1d34819a990188eef9898f088eeb78916ab129e6d1"
+file = "mods/fabridge-0.0.4-R-1.20.1.jar.disabled"
+hash = "6c2a6a4f3d225bd5727083c3c7dfb89862c11760475a26b00f600fdd0dd90ed0"
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "e2396d07e1058482e0792e8c7aa5c90cf54e198c8c4bf64293ec6b5abe5e91a2"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves-fabric.pw.toml"
-hash = "d61a2e6668979d6245714e6de8618f643c85805c28e707288fd7c59dbedf0ead"
-metafile = true
+file = "mods/fallingleaves-1.15.6+1.20.1.jar.disabled"
+hash = "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
@@ -7768,9 +7780,8 @@ hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
 
 [[files]]
-file = "mods/faster-random.pw.toml"
-hash = "99b30274301843e8c1c2f8144dd63e95d19f05d576065bbddff851f02def2da4"
-metafile = true
+file = "mods/fasterrandom-5.1.0.jar.disabled"
+hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
 
 [[files]]
 file = "mods/fastfurnace.pw.toml"
@@ -7818,9 +7829,8 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
-file = "mods/fixtconstructpickaxe.pw.toml"
-hash = "ddc3bcd30c156db5e816de572056c475313aa0d6f5031779bb91b78851262493"
-metafile = true
+file = "mods/fixtconstructpickaxe-0.1.1.jar.disabled"
+hash = "b7e1ea63e974e8501d96b7bcd8e38f032dfb673fb2078176bbc75a83ef380715"
 
 [[files]]
 file = "mods/flame-sweeping-potato-edition.pw.toml"
@@ -9122,8 +9132,9 @@ hash = "4ff439551590f448c7bf0e8fad7de94ecd21e86bfcb21101c6cb287f95f1b638"
 metafile = true
 
 [[files]]
-file = "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar.disabled"
-hash = "b0b020250c81e8cce7776c3dc8f7085f269e2007570d5fbd492c4497ad60685c"
+file = "mods/noisium.pw.toml"
+hash = "7ac48c0b072a849e74f0836dcbaf4c4e48bbe6a40c0757572e0154a9ce4f388d"
+metafile = true
 
 [[files]]
 file = "mods/nonconflictkeys.pw.toml"
@@ -9486,9 +9497,8 @@ hash = "634c03780bf6fe39122a4ee31a112b71526d7f08f8ee81f2dc6579390e6f5f9f"
 metafile = true
 
 [[files]]
-file = "mods/reactive-music.pw.toml"
-hash = "d5de171462b7c515620c9a4e1cf8cc39ddc3df53555996501b9388319e45a238"
-metafile = true
+file = "mods/reactivemusic-1.0.3+1.20.1.jar.disabled"
+hash = "7fab1a5430e990da255832b5a7b2ca0d6f613fc0f97688b63cb04ad5268e319a"
 
 [[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
@@ -9760,11 +9770,6 @@ metafile = true
 [[files]]
 file = "mods/simplehats.pw.toml"
 hash = "33939c251677f80d437385995c129840636a24492a0b5996c16159bb0f930338"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "6db079b4b12f1b14243980080879cc40087c3507f3ad25adf97e5f0ce9bb163b"
 metafile = true
 
 [[files]]
@@ -10068,9 +10073,8 @@ hash = "86655ef6c7ac0a9ea2c653ff72cd66a3d609865117ba1238b8274066e7ac175b"
 metafile = true
 
 [[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "49b680b44026ee3690003b9e07b26f9fe2e722160de933bb907cd4b73571af77"
-metafile = true
+file = "mods/tcdcommons-3.12.3+fabric-1.20.1.jar.disabled"
+hash = "81887ea241e746e8fc5d9c8466dfce8215b4ac225673c25857a1154284b07294"
 
 [[files]]
 file = "mods/tcintegrations.pw.toml"
@@ -10784,7 +10788,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c41f29a666c68476a565edba8ddefede3e441bcf692ccb786a599501759a94ae"
+hash = "86f8e479e3536f18e8dcfd70b28a0c9230c59504d015ecc553c88b6ef50f10c1"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"
