@@ -3474,7 +3474,7 @@ hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/krypton_fnp.yaml"
-hash = "19cf897c778c538c1beb525e72c2f560998205ebd768cb68cd128672069e82e5"
+hash = "2060e381dcb6177ca0f2ca5067bf0bfc99dc8421c23bedeabd239d8b52780428"
 
 [[files]]
 file = "config/l2_configs/golemdungeons-common.toml"
@@ -5776,20 +5776,8 @@ file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
-file = "mods/Boids-2.0.2+1.20.1.jar.disabled"
-hash = "da93c7cccda72a343bab6b5371df907e53671f5f757bc8c99625cdb7f3709672"
-
-[[files]]
 file = "mods/CasterCuriosBonus-1.20.1-1.0.6.jar.disabled"
 hash = "62edc489f476b81d108be90285368643d5ae94e562f28bd0ea490867cad5a1d0"
-
-[[files]]
-file = "mods/Connector-1.0.0-beta.47+1.20.1.jar.disabled"
-hash = "44f7208f5384bc2b5da3957051c701e279d3f6c720b75582ec35274ea8f68cc5"
-
-[[files]]
-file = "mods/ConnectorExtras-1.11.2+1.20.1.jar.disabled"
-hash = "10d149fc9348b57120f50e3f82ac6f7e544ae18f0b5b7342c0cab3af38f5acd8"
 
 [[files]]
 file = "mods/EuphoriaPatcher-1.8.1-r5.7.1-forge.jar"
@@ -5813,10 +5801,6 @@ metafile = true
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
-
-[[files]]
-file = "mods/accessories_tclayer-3.8.1-beta.14+1.20.1.jar.disabled"
-hash = "fbb82dc994b8d32845ebb6bfb93e4df320039b95d60d6645c88a0f069f54ece0"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
@@ -5991,10 +5975,6 @@ metafile = true
 file = "mods/aquamirae-delight.pw.toml"
 hash = "a43acd4b5a8676a0738c8a9d92d70f9d8ec2eed09c517ac9b91823e94b8de7bc"
 metafile = true
-
-[[files]]
-file = "mods/arcane_convergence-1.0.0bugfix-all.jar.disabled"
-hash = "fa7f8ce9bebea6412598c7d6d26c9b6a203981f7712b44f0f4aeb763ceeac885"
 
 [[files]]
 file = "mods/archery-expansion-squared.pw.toml"
@@ -6262,10 +6242,6 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
-file = "mods/betterstats-3.12.6+fabric-1.20.1.jar.disabled"
-hash = "6fa315149762e31db30fb73cef35ebd88946f7b937f89cc533dfb2fb418fe84e"
-
-[[files]]
 file = "mods/bftp.pw.toml"
 hash = "b74684c80bcefbf0e206f3490ca3489a95498582b46aa429c2b033c13f75cbfd"
 metafile = true
@@ -6424,10 +6400,6 @@ metafile = true
 file = "mods/bytebuddies.pw.toml"
 hash = "4422657b3eff4fb9077c3eb3a296eee67184d0775cb99dd586373df24a012b43"
 metafile = true
-
-[[files]]
-file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar.disabled"
-hash = "a6c0f7fbc1b2a62cafe72a967165caeef0fb671b7e0d377bd60fbb1e7f724cde"
 
 [[files]]
 file = "mods/caelus.pw.toml"
@@ -6688,10 +6660,6 @@ metafile = true
 file = "mods/contingameime.pw.toml"
 hash = "48317c2b0dde003f0370dc76b2387b5d13e4b38cafddeb5acb26630584423160"
 metafile = true
-
-[[files]]
-file = "mods/continuity-3.0.0+1.20.1.forge.jar.disabled"
-hash = "855ee87de79b0e161713a2689f3f2d07259e9490af194b8cfb6a4400c6ea1c76"
 
 [[files]]
 file = "mods/continuity-3.0.0-beta.6+1.20.1.jar"
@@ -7132,14 +7100,6 @@ hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
-file = "mods/create_colored_chain_conveyor-1.0.0.jar.disabled"
-hash = "21dbd215a4b560e2064bb101273a9ccc9120c38b4f0a61b6b38d728afcb611dd"
-
-[[files]]
-file = "mods/create_extra_casing-4.0.4.jar.disabled"
-hash = "8135e6c1602e764cb63fb9cf50b6cebb61c961e5548ef9e5f071c82ca09d2887"
-
-[[files]]
 file = "mods/createabysscatalysis.pw.toml"
 hash = "73554afd96c6e47bead96feb46e0b9506e4bffc49d36a15a13afbc49932f13fa"
 metafile = true
@@ -7218,10 +7178,6 @@ metafile = true
 file = "mods/daily-dad.pw.toml"
 hash = "26002f2d1010f5e01f0d4de43b88f46f1b9fc44c4b6e3583b7866bb0e5802624"
 metafile = true
-
-[[files]]
-file = "mods/daily_rewards-1.20.1-5.3.1.jar.disabled"
-hash = "672723616d9d5c5306b62c29db9fb9917b02b6f8d950dfbaa5de5648b16b98cc"
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
@@ -7499,10 +7455,6 @@ hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
 
 [[files]]
-file = "mods/effective-forge-1.0.8.jar.disabled"
-hash = "69a61b6e8d09bea81ffc31197403e025cd0188a7d5c09ca8d851d4cb2ca94945"
-
-[[files]]
 file = "mods/eidolon-repraised.pw.toml"
 hash = "92cace5c060fda4888a56b38312d2ff937770c9cdbf297b93285ba6c2c2b5553"
 metafile = true
@@ -7728,17 +7680,9 @@ hash = "be79a65eafa4eca252c9501257c5da21f2eaab2503f8d6d7dbb88b1963a01801"
 metafile = true
 
 [[files]]
-file = "mods/fabridge-0.0.4-R-1.20.1.jar.disabled"
-hash = "6c2a6a4f3d225bd5727083c3c7dfb89862c11760475a26b00f600fdd0dd90ed0"
-
-[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e2396d07e1058482e0792e8c7aa5c90cf54e198c8c4bf64293ec6b5abe5e91a2"
 metafile = true
-
-[[files]]
-file = "mods/fallingleaves-1.15.6+1.20.1.jar.disabled"
-hash = "27b2c5a2a9cebe09afd4adccc3989c43a6cceb92ece60a6daea735ba178114f0"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
@@ -7778,10 +7722,6 @@ metafile = true
 file = "mods/fast-paintings.pw.toml"
 hash = "180ca9ed174ae6685ef8e692bdeb46e6ac4df42a073fc1f278d24e5b816da18d"
 metafile = true
-
-[[files]]
-file = "mods/fasterrandom-5.1.0.jar.disabled"
-hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"
 
 [[files]]
 file = "mods/fastfurnace.pw.toml"
@@ -9497,10 +9437,6 @@ hash = "634c03780bf6fe39122a4ee31a112b71526d7f08f8ee81f2dc6579390e6f5f9f"
 metafile = true
 
 [[files]]
-file = "mods/reactivemusic-1.0.3+1.20.1.jar.disabled"
-hash = "7fab1a5430e990da255832b5a7b2ca0d6f613fc0f97688b63cb04ad5268e319a"
-
-[[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
 hash = "c56bcec3ee959718dc87225ddc946de960a7f0c04509fdf6e1c8490853b56b24"
 metafile = true
@@ -10073,10 +10009,6 @@ hash = "86655ef6c7ac0a9ea2c653ff72cd66a3d609865117ba1238b8274066e7ac175b"
 metafile = true
 
 [[files]]
-file = "mods/tcdcommons-3.12.3+fabric-1.20.1.jar.disabled"
-hash = "81887ea241e746e8fc5d9c8466dfce8215b4ac225673c25857a1154284b07294"
-
-[[files]]
 file = "mods/tcintegrations.pw.toml"
 hash = "8d93b245da89b2de3dfe3f8ddc2c24184b23060efb4c61e9c30eeecbbb8dd76a"
 metafile = true
@@ -10168,6 +10100,11 @@ metafile = true
 [[files]]
 file = "mods/tiered-forge.pw.toml"
 hash = "b0a1dade8e0ac8893f9ca72bbf30b0467ee5d9353483087d7852256f63ac6534"
+metafile = true
+
+[[files]]
+file = "mods/timeoutfixes.pw.toml"
+hash = "abe8fd03f6e75ea52bb82253c9cb68b2707dc5f4ab89a0c4933757f133bf865b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "TimeoutFixes"
+filename = "timeout_fixes-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1748e7fecde151d20eb96d62eecd7579858bb793"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4844272
+project-id = 558010
