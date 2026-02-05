@@ -284,13 +284,6 @@
     "curseForgeHash": 2024175725,
     "modrinthHash": "3486cd1765ed0f84144f57ba039b818852b2cf54"
   },
-  "arcane_convergence-1.0.0bugfix-all.jar": {
-    "jarName": "arcane_convergence-1.0.0bugfix-all.jar",
-    "modId": "arcane_convergence",
-    "version": "1.0.0bugfix",
-    "curseForgeHash": 1793593869,
-    "modrinthHash": "2a80468cfe677318b7e6baf79e299061c35314f0"
-  },
   "ArcheryExpansion-forge-1.20.1-1.0.7.3-all.jar": {
     "jarName": "ArcheryExpansion-forge-1.20.1-1.0.7.3-all.jar",
     "modId": "archeryexp",
@@ -2817,13 +2810,6 @@
     "version": "2.1.4",
     "curseForgeHash": 941094379,
     "modrinthHash": "f3a4cf1ff9f320c85900f8acf0f17629ed795dc6"
-  },
-  "fixtconstructpickaxe-0.1.1.jar": {
-    "jarName": "fixtconstructpickaxe-0.1.1.jar",
-    "modId": "fixtconstructpickaxe",
-    "version": "0.1.1",
-    "curseForgeHash": 3561615438,
-    "modrinthHash": "b126567d64c1a3b014043e4467c9eb92f8892a7e"
   },
   "flamesweeping-1.20.1-1.0.0.jar": {
     "jarName": "flamesweeping-1.20.1-1.0.0.jar",
@@ -6087,6 +6073,13 @@
     "version": "1.1.0",
     "curseForgeHash": 4291460009,
     "modrinthHash": "4a14cab9b5a21ed6ac72806561ffb85bd790c030"
+  },
+  "timeout_fixes-1.20.1-1.0.0.jar": {
+    "jarName": "timeout_fixes-1.20.1-1.0.0.jar",
+    "modId": "timeout_fixes",
+    "version": "1.20.1-1.0.0",
+    "curseForgeHash": 2965312512,
+    "modrinthHash": "1748e7fecde151d20eb96d62eecd7579858bb793"
   },
   "Tinker-Things-1.20.1-1.3.3.jar": {
     "jarName": "Tinker-Things-1.20.1-1.3.3.jar",

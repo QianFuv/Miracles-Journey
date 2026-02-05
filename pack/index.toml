@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "53dcda14f4566982579683040f7feaa307fc53c5f030dca14b4e2f5d1dbaf001"
+hash = "efd0352e9368ecc2bd5a4479bef99b1524bfe7a89ff98184b438cce4188f9360"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -5114,6 +5114,10 @@ hash = "c69740c31b345aedaf18635f3b475389f2ab4e9f81b1bafbdf92273d1a3dd8ff"
 [[files]]
 file = "config/tidesdelight-common.toml"
 hash = "3d29f1312d2c893a7938e977f3ca03ddeffd1c787e7405459601f252dc2c6f24"
+
+[[files]]
+file = "config/timeout_fixes-common.toml"
+hash = "09de8679db999c395a29a621f69eae3dd2e80ca0a19a322594483c15596d131f"
 
 [[files]]
 file = "config/tinkers_delight-common.toml"
