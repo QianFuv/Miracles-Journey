@@ -17,6 +17,7 @@
         </Include>
         <Exclude>
             <Item>\.mixin.out</Item>
+            <Item>\.minecraft</Item>
             <Item>\.persistent</Item>
             <Item>\armourers_workshop</Item>
             <Item>\assets</Item>
@@ -96,6 +97,19 @@
             <Item>\usernamecache.json</Item>
             <Item>\supportercache.json</Item>
             <Item>\PCL.ini</Item>
+            <Item>\config\asyncparticles\asyncparticles-mixin.properties</Item>
+            <Item>\config\CSC\</Item>
+            <Item>\config\enchantedpotato\README.txt</Item>
+            <Item>\config\fragmentum\</Item>
+            <Item>\config\GeneralFeedback\</Item>
+            <Item>\config\irons_spellbooks_spell_config\</Item>
+            <Item>\config\packetfixer.properties</Item>
+            <Item>\craftaudit\</Item>
+            <Item>\everbook\</Item>
+            <Item>\hexParse\</Item>
+            <Item>\moonlight-global-datapacks\</Item>
+            <Item>\tconplanner\</Item>
+            <Item>\visual_keybinder\</Item>
         </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
