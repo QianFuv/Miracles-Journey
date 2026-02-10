@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "efd0352e9368ecc2bd5a4479bef99b1524bfe7a89ff98184b438cce4188f9360"
+hash = "3385e7eef9ac73f7c5c96c41bb63f1fb26cb659a4abcd473fc2022d4bc50a759"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -3390,7 +3390,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "f3dd019adc77c5c0986a97c918e7f4708a727beed660c8a5dc60e86560b4f940"
+hash = "06d6f9f74fdb83ceb99d13fba48155b2b55f884eadc7e1fafc7297fb22091234"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -3414,7 +3414,7 @@ hash = "722d70719c26d187fec23e1636fc699b6d5bc8476a7025859f918184fde53885"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "9e693bd3f98d57f8f6227ad49ae21ab861e5bab4d4054ee88b16c9b1a631c83e"
+hash = "db602aeeaf4e79680b66de8fd80a0f989e3a84c3d6f6c89b2789e26b7f7e1ece"
 
 [[files]]
 file = "config/jeresources-common.toml"
@@ -5677,7 +5677,7 @@ hash = "0d8e8c1e33854dfb418c0f47cdc40918ba46ff8e2d198ef752145a69f0afabf4"
 
 [[files]]
 file = "config/xbob.json"
-hash = "d08e5594780ba422e6b83856b74bb970a8be1a350feecc72826b1b5ac9832665"
+hash = "5bf0fc00bc1472c71d55e2e2cc6d9bf20d748217d229fd8add758d127ef6c97b"
 
 [[files]]
 file = "config/xtraarrows-common.toml"
@@ -9421,9 +9421,8 @@ hash = "629e5fe153d93add88d656874b03fd0a9c8c64368fef2b99b14af4d457378e86"
 metafile = true
 
 [[files]]
-file = "mods/raised.pw.toml"
-hash = "cd539f25e7fcb8ef0246e621613d25d7b753a21d2e02482eb3803f35be2facfc"
-metafile = true
+file = "mods/raised-forge-1.20.1-5.1.2.jar.disabled"
+hash = "7e2d189cdf45502dc70796420de77c1322cabc6eec7a7c4db985cd8578ce7f5f"
 
 [[files]]
 file = "mods/random-dungeon-spawners.pw.toml"
@@ -10191,11 +10190,11 @@ hash = "3299f0ee420930a4dca4c977569d4fca8fbcf58df1b3d2b0293e65853abcdf2a"
 metafile = true
 
 [[files]]
-file = "mods/tinkersancient-1.20.1-1.1.0.jar"
+file = "mods/tinkersancient-1.20.1-1.1.0.jar.disabled"
 hash = "8de9ca768716dab7e5c0b83c8aab9393a946012ca84b4b2b2cb3a47f40c829a4"
 
 [[files]]
-file = "mods/tinkerscalibration-1.20.1-1.2.1c.jar"
+file = "mods/tinkerscalibration-1.20.1-1.2.1c.jar.disabled"
 hash = "a9bd584e1660ba6238829dcebefb4c2f1d5bee764d0552f340710350245bc80a"
 
 [[files]]
@@ -10729,7 +10728,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "86f8e479e3536f18e8dcfd70b28a0c9230c59504d015ecc553c88b6ef50f10c1"
+hash = "b3a1aa63267f1946eacc6ab67fbd381a64381e3ad9b1528a2548de6fd362076b"
 
 [[files]]
 file = "resourcepacks/!§bBetterGlint§8[§6Purple-Default§8].zip"

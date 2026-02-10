@@ -5089,13 +5089,6 @@
     "curseForgeHash": 3463425124,
     "modrinthHash": "5a4a06aad79930b3b6b0192575ae3da132bbb929"
   },
-  "raised-forge-1.20.1-5.1.2.jar": {
-    "jarName": "raised-forge-1.20.1-5.1.2.jar",
-    "modId": "raised",
-    "version": "5.1.2",
-    "curseForgeHash": 3021800656,
-    "modrinthHash": "e34bb240d4303368808c94edd7e5b6b9d8714210"
-  },
   "random_dungeon_spawners-1.0.0-1.20.1.jar": {
     "jarName": "random_dungeon_spawners-1.0.0-1.20.1.jar",
     "modId": "random_dungeon_spawners",
@@ -6130,13 +6123,6 @@
     "curseForgeHash": 754046062,
     "modrinthHash": "4dd614a99928f8719d29580bd30cf81073147977"
   },
-  "tinkersancient-1.20.1-1.1.0.jar": {
-    "jarName": "tinkersancient-1.20.1-1.1.0.jar",
-    "modId": "tinkersancient",
-    "version": "1.20.1-1.1.0",
-    "curseForgeHash": 1911201911,
-    "modrinthHash": "5526b37823137dd18de7529411a6b0e47463f062"
-  },
   "TinkersBattleSpades-1.20.1-1.2.0.jar": {
     "jarName": "TinkersBattleSpades-1.20.1-1.2.0.jar",
     "modId": "tinkers_battle_spades",
@@ -6150,13 +6136,6 @@
     "version": "1.5.0",
     "curseForgeHash": 613662950,
     "modrinthHash": "a5b36cda2d740721a3b7e85b140eb930a680dc2e"
-  },
-  "tinkerscalibration-1.20.1-1.2.1c.jar": {
-    "jarName": "tinkerscalibration-1.20.1-1.2.1c.jar",
-    "modId": "tinkerscalibration",
-    "version": "1.20.1-1.2.1a",
-    "curseForgeHash": 107509917,
-    "modrinthHash": "98dc6b0b21fba73d595e980d1ba0fd2e5e4f314e"
   },
   "tinkersinnovation-1.20.1-3.0.0.jar": {
     "jarName": "tinkersinnovation-1.20.1-3.0.0.jar",
