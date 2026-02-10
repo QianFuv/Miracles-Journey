@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3385e7eef9ac73f7c5c96c41bb63f1fb26cb659a4abcd473fc2022d4bc50a759"
+hash = "c88edfd1775fafc81ca689c54b89b21ecea801696df015054a64923c175992b3"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2502,7 +2502,7 @@ hash = "41fad2e963a3419e7b3c7807ad1e120dd2079ec537623748b8e11d16fcfe4a51"
 
 [[files]]
 file = "config/explorerscompass-common.toml"
-hash = "375eb9c8f611177d4aecda6720859ac2ae7decae48b4828766835e7fd636260a"
+hash = "311972675ddfc706b08b05b10c02b4322565f0e96a2792c342e79e50deada567"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -3390,7 +3390,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "06d6f9f74fdb83ceb99d13fba48155b2b55f884eadc7e1fafc7297fb22091234"
+hash = "ef1b48327640feec42bb084ba9129b74c8df88c1dd221d41012f5c7865e91d2a"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -4042,7 +4042,7 @@ hash = "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b"
 
 [[files]]
 file = "config/naturescompass-common.toml"
-hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
+hash = "48609f01b4f3d425d173ab90bdd58a54eee4d676790901f16a1ddf07812e15a6"
 
 [[files]]
 file = "config/neapolitan-common.toml"
@@ -4861,7 +4861,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "9089eb521135c2e74836cacebc30d4e68a72b6a3e0fa3f506ccba20f6c5a7a35"
+hash = "d6462681c86904f380d575b1130ca0739e1858f99b058b872a886323a234b297"
 
 [[files]]
 file = "config/spawnerhead-common.toml"
@@ -5786,6 +5786,10 @@ hash = "62edc489f476b81d108be90285368643d5ae94e562f28bd0ea490867cad5a1d0"
 [[files]]
 file = "mods/EuphoriaPatcher-1.8.1-r5.7.1-forge.jar"
 hash = "1f8eacb7dab20c5c9c854293eb020471943c2e03e4022597108eff606df9978c"
+
+[[files]]
+file = "mods/Respiteful.jar.disabled"
+hash = "8ff8ec7dd9d64c15115e73c066fa68254733271af4996b628dc841a0e6061e73"
 
 [[files]]
 file = "mods/Tinkers-Delight-1.20.1FORGE-2.0.3.jar"
@@ -9522,11 +9526,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "ef0264b7d819848f72ab2f34643306187e712965a8246e1f733e1bd39d8fd681"
-metafile = true
-
-[[files]]
-file = "mods/respiteful.pw.toml"
-hash = "deb5226968c953380e5d0561935f985cccd85a00c660ccf6f466e53982158935"
 metafile = true
 
 [[files]]

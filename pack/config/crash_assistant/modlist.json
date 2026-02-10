@@ -5229,13 +5229,6 @@
     "curseForgeHash": 4227743239,
     "modrinthHash": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
   },
-  "Respiteful.jar": {
-    "jarName": "Respiteful.jar",
-    "modId": "respiteful",
-    "version": "1.3.0",
-    "curseForgeHash": 1453202713,
-    "modrinthHash": "dbf3b704e7fc304c5be7f973ef39d508aa9b39fd"
-  },
   "rhino-forge-2001.2.3-build.10.jar": {
     "jarName": "rhino-forge-2001.2.3-build.10.jar",
     "modId": "rhino",
