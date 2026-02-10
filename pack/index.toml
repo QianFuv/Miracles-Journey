@@ -16783,6 +16783,14 @@ file = "resourcepacks/MiraclesJourney-I18nPack/pack.mcmeta"
 hash = "4ca34eb86ac68769b147949ce07e72249c931c86be60f67bb3d38dd67ce300cb"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-ResPack/assets/create/textures/gui/schematics.png"
+hash = "d7eb04dcca0c8b4d2a4f3f16b3d082830b7a1a7f10ab83251dc8fe24b52b7d02"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-ResPack/assets/create/textures/gui/schematics_2.png"
+hash = "ead844459a906d081ac90052058e75ab81dbae65d445853187b91e1b3507a7dd"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-ResPack/assets/malum/textures/gui/book/entry.png"
 hash = "fecad998f81738fbe56f875827c4aece180c4dfe6e117977e16b1f9e125e27bd"
 
