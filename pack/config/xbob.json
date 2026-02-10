@@ -6,5 +6,5 @@
   "eat": true,
   "atk": true,
   "xbow": false,
-  "sneak": true
+  "sneak": false
 }
