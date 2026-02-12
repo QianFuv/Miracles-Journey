@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c88edfd1775fafc81ca689c54b89b21ecea801696df015054a64923c175992b3"
+hash = "4d496d6d30eec2448f76fdd31a9afeb3f823502cf8b9c8f22af06093196a46db"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -9162,11 +9162,6 @@ metafile = true
 [[files]]
 file = "mods/opack2reload.pw.toml"
 hash = "dc1624a775abc949b28e39516e142ccd11f39da14f7d77d0d9ca8c0b4d8001a0"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "bcf6e9de4c6751aa0bfc95ff80c7596dc5ca80f0d50d1a3d0a69754e2f140067"
 metafile = true
 
 [[files]]
