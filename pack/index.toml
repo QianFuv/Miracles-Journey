@@ -3570,7 +3570,7 @@ hash = "0d5d3f6d9c15663c62c18b27d7ff826bc5edf776ccb0d6279fb3b6bc9aa5553e"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "45013ce2fe975f6e8788521f2a877dfc27f7c7344770a5066d8a086264179358"
+hash = "c5a775f629d2fda70982899e18fef3714093a3816ac01965b4ec6b4cd4027807"
 
 [[files]]
 file = "config/lookinmyeyes-common.toml"

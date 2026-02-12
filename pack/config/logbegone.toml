@@ -1,5 +1,5 @@
 
 [logbegone]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels "]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
+	phrases = ["Error rendering overlay 'create:goggle_info'", "Exception caught when registering villager"]
+	regex = []
 
