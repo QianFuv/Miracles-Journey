@@ -2398,13 +2398,6 @@
     "curseForgeHash": 2404243640,
     "modrinthHash": "6fa0c12a8cdd0fa97d447ecbdbddeed8ae57af5d"
   },
-  "EnchSort 1.2.1 [mc1.20+].jar": {
-    "jarName": "EnchSort 1.2.1 [mc1.20+].jar",
-    "modId": "enchsort",
-    "version": "1.2.1",
-    "curseForgeHash": 1666781513,
-    "modrinthHash": "489847b38be15378aded9ad7a1c860e95cbfbc61"
-  },
   "Ender-Relay-1.20.1-Forge-1.1.0.jar": {
     "jarName": "Ender-Relay-1.20.1-Forge-1.1.0.jar",
     "modId": "ender_relay",

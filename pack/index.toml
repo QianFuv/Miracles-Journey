@@ -1774,7 +1774,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "4d496d6d30eec2448f76fdd31a9afeb3f823502cf8b9c8f22af06093196a46db"
+hash = "048810cb43393eda0811213632d5b51a61ff1516ebac82872ad4fe5e1989d884"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -2378,7 +2378,7 @@ hash = "c8760ba8229b074a93f97e779fb1d4cfba1844fc1427377fdb40c59318717df1"
 
 [[files]]
 file = "config/enchsort-client.toml"
-hash = "6e01a970a792571e9f4b25b0642f69630e51038ef2b97039aa23ee3a5913199a"
+hash = "b8aaf7a71bc84f1a103b5ac2b312cdf076f9981d2b61c58cb0936e50f1ad600c"
 
 [[files]]
 file = "config/enchsort-rule.toml"
@@ -7495,11 +7495,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-library-at-home.pw.toml"
 hash = "5dfcec9b5581650afc85d7dcb6fcdbeb583c02701cd093805fdc055f8da4fab0"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-sort.pw.toml"
-hash = "f53f2a985f448672c4a26de825935fa7add979b4555f01ecbad2993cb57d1b17"
 metafile = true
 
 [[files]]
