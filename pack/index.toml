@@ -17123,6 +17123,14 @@ file = "vaultpatcher/patch/com/yyon/grapplinghook/controllers/GrappleController.
 hash = "ac476b017d4e572d8462023acab0027c9ce16127be4659fbd882575b2d7019f9"
 
 [[files]]
+file = "vaultpatcher/patch/de/ellpeck/naturesaura/misc/LevelData$1.class"
+hash = "282faaf8cade9b4ffdbec6d0fadd11f6d985ac2f7c8ac459e0ea4a6ef517b156"
+
+[[files]]
+file = "vaultpatcher/patch/de/ellpeck/naturesaura/misc/LevelData.class"
+hash = "743c1561f966c4d327b940ae3ccf9d9c759b5ffb5a55c948d60a072ef3415454"
+
+[[files]]
 file = "vaultpatcher/patch/dlovin/inventoryhud/gui/renderers/VerticalMiniPotionRenderer.class"
 hash = "c045d234498dcd7d447383b505400fd4d7cc8c1e098b2e83f52a82a076abbfaf"
 
