@@ -1,6 +1,6 @@
 name: "优化建议"
 description: "对已有功能的优化或改进建议"
-labels: ["B: 优化建议"]
+labels: ["A: 等待处理", "B: 优化建议"]
 body:
 - type: checkboxes
   id: "yml-1"

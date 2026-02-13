@@ -1,6 +1,6 @@
 name: "新功能提案"
 description: "对已有功能的大幅度修改, 或增添新的模组"
-labels: ["B: 新功能 : |"]
+labels: ["A: 等待处理", "B: 新功能 : |"]
 body:
 - type: checkboxes
   id: "yml-1"

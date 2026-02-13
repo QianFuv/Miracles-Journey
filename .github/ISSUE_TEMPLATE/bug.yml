@@ -1,6 +1,6 @@
 name: "Bug 反馈"
 description: "遇见了正常游戏内容预期外的 Bug"
-labels: ["B: BUGGGG"]
+labels: ["A: 等待处理", "B: BUGGGG"]
 body:
 - type: checkboxes
   id: "yml-1"
