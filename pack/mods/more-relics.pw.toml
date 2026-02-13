@@ -1,13 +1,13 @@
 name = "More Relics"
-filename = "morerelics-1.6.2-1.20.1.jar"
+filename = "morerelics-1.7.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "771649b80753724294f5042279bb68628fe37bd6"
+hash = "474f186c0f46817e3b9dce6b980574669ad485ce"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7468869
+file-id = 7589901
 project-id = 1269280

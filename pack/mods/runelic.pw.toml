@@ -1,13 +1,13 @@
 name = "Runelic"
-filename = "Runelic-Forge-1.20.1-18.0.2.jar"
+filename = "Runelic-Forge-1.20.1-18.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3b8cc4657cf9f0e321834b1726e358b58a1ea3c4"
+hash = "b74cf19aa180a1dcf9e3f079d571c9c160e11ae3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4714779
+file-id = 7613226
 project-id = 393149

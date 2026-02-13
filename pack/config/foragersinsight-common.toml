@@ -1,15 +1,24 @@
 
-["Bountiful Trees"]
-	#Chance for a tree's vanilla saplings to grow into its bountiful version. -1 to disable
-	#Range: -1.5 ~ 1.0
-	"Bountiful Mutations" = 0.025
-
-["Sappy Birch"]
-	#Chance for birch saplings to grow into Sappy Variant. -1 to disable
-	#Range: -1.5 ~ 1.0
-	"Sappy Birch Mutations" = 0.25
-
 ["Flavor Text"]
 	#Enable Flavor Text tooltips.
 	"Flavor Text" = false
+
+["Farming & Foraging XP"]
+	#Global multiplier applied to ALL farming & foraging XP.
+	#Range: 0.0 ~ 100.0
+	"XP Global Multiplier" = 1.0
+
+["XP Source Toggles"]
+	#Enable XP from crop harvesting, this includes knife-breaking crops for secondary drops.
+	"Crop Harvest XP" = true
+	#Enable XP from knife-breaking wild crops and for right-click harvests like Bountiful Leaves, etc.
+	"Foraging XP" = true
+	#Enable XP from shearing wool or feathers from sheep and chickens.
+	"Animal Shear XP" = true
+	#Enable XP from collecting from a full Tapper.
+	"Tapper XP" = true
+	#Enable XP from harvesting Honey or shearing Honeycomb
+	"Beehive XP" = true
+	#Enable XP from milking cows.
+	"Milking XP" = true
 

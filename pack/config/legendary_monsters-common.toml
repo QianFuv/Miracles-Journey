@@ -237,4 +237,72 @@
 		"Boss Music Volume Multiplier" = 1.0
 		#Allow Falling Cloud Particles
 		"Allow Falling Cloud Particles" = true
+		#allow Camera Shake
+		"Allow Camera Shake" = true
+		#allow bosses healing when out of combat
+		"Allow Bosses Natural Healing" = true
+
+	["Mob Settings"."Hovering Hurricane Settings"]
+		#Multiplies damage dealt by Hovering Hurricane
+		#Range: 0.0 ~ 1000.0
+		"Hovering Hurricane Damage Multiplier" = 1.0
+		#Multiplies health of Hovering Hurricane
+		#Range: 0.0 ~ 1000.0
+		"Hovering Hurricane Health Multiplier" = 1.0
+
+	["Mob Settings"."Flameborn Guard Settings"]
+		#Multiplies damage dealt by Flameborn Guard
+		#Range: 0.0 ~ 1000.0
+		"The Flameborn Guard Damage Multiplier" = 1.0
+		#Multiplies damage of Flameborn Guard
+		#Range: 0.0 ~ 1000.0
+		"Flameborn Guard Damage Multiplier" = 1.0
+
+	["Mob Settings"."Annihilation Pursuer Settings"]
+		#Multiplies damage of Annihilation Pursuer
+		#Range: 0.0 ~ 1000.0
+		"Annihilation Pursuer Damage Multiplier" = 1.0
+
+	["Mob Settings"."The Obliterator Settings"]
+		#Multiplies damage dealt by The Obliterator
+		#Range: 0.0 ~ 1000.0
+		"The Obliterator Damage Multiplier" = 1.0
+		#Multiplies Health of The Obliterator
+		#Range: 0.0 ~ 1000.0
+		"The Obliterator Health Multiplier" = 1.0
+		#The bigger it is the stronger the Damage Adaptation is
+		#Range: 0 ~ 1000
+		"The Obliterator Damage Adaptation Multiplier" = 1
+		#ON/OFF Obliterator I Frame protection
+		"The Obliterator Invulnerability Time" = true
+		#Increases/Decreases Anti Cheese(Airborne Variation) distance which makes the Boss invulnerable when player has a high ground, default is -4 below the boss and 4 above. chaning the value will change both '-' and '+' values.
+		#Range: 0 ~ 1000
+		"Protection against airborne cheese" = 4
+		#ON/OFF Annihilation effect that The Obliterator Inflicts after hitting you, it's a stacking debuff that reduces your attack speed.
+		"The Obliterator Annihilation Debuff Effect" = false
+		#% Damage for Obliterator's clones(punching)
+		#Range: 0 ~ 1000
+		"% Damage for Obliterator's clones(punching)" = 7
+		#% Damage for Obliterator's portals
+		#Range: 0 ~ 1000
+		"% Damage for Obliterator's portals" = 5
+		#% Damage for Obliterator's portal Explosion
+		#Range: 0 ~ 1000
+		"% Damage for Obliterator's portal Explosion" = 3
+
+	["Mob Settings"."Flame Drifter Settings"]
+		#Multiplies damage dealt by Flame Drifter
+		#Range: 0.0 ~ 1000.0
+		"Flame Drifter Damage Multiplier" = 1.0
+		#Multiplies Health of Flame Drifter
+		#Range: 0.0 ~ 1000.0
+		"Flame Drifter Health Multiplier" = 1.0
+
+	["Mob Settings"."Wandering Eye Settings"]
+		#Multiplies damage dealt by Wandering Eye
+		#Range: 0.0 ~ 1000.0
+		"Wandering Eye Damage Multiplier" = 1.0
+		#Multiplies Health of Wandering Eye
+		#Range: 0.0 ~ 1000.0
+		"Wandering Eye Health Multiplier" = 1.0
 

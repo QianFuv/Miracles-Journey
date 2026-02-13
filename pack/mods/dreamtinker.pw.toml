@@ -1,13 +1,13 @@
 name = "Dreamtinker"
-filename = "dreamtinker-2.2.4.2-1.20.1-SNAPSHOT-all.jar"
+filename = "dreamtinker-2.2.4.2.1-1.20.1-SNAPSHOT-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d25f792ef34162887e21406ce3eddc7fdd096cf0"
+hash = "940adf22dd9d07fc5c7268bda76ac2550d45c599"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7561919
+file-id = 7568920
 project-id = 1231784

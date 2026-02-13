@@ -14,8 +14,6 @@ starlessNightWhitelist = ["minecraft:villager"]
 #Effect radius for the cake item
 #Range: 1.0 ~ 256.0
 cakeEffectRadius = 32.0
-#List of entity types that are immune to movement speed boost from Lich's Chaos Stew
-lichStewSpeedBoostBlacklist = ["goety:redstone_monstrosity", "goety:redstone_golem"]
 #Whether bosses are affected by Polarice item
 polariceAffectsBosses = false
 #Maximum health threshold for entities to be affected by Polarice item (in half-hearts)
@@ -27,8 +25,6 @@ polarice_cooldown = 1800
 #The number of Polarice item can affect
 #Range: > 1
 polarice_count = 10
-#Whether to enable movement speed boost for minions from Lich's Chaos Stew
-lichStewEnableSpeedBoost = true
 #A list of items that cannot be copied by Metamorphic Scent Grass
 MetamorphicScentGrassCopyBlacklist = ["goety_revelation:ascension_hard_candy", "enigmaticdelicacy:abyssal_stew", "enigmaticlegacy:forbidden_fruit", "goetydelight:pure_drink", "goetydelight:tainted_drink", "goetydelight:snap_unholy_tripe", "goetydelight:ancient_enchanted_golden_apple", "goetydelight:lichs_chaos_stew", "l2complements:life_essence", "l2complements:totemic_apple", "l2complements:enchanted_totemic_apple", "hmag:insomnia_fruit", "artifacts:everlasting_beef", "artifacts:eternal_steak", "born_in_chaos_v1:eternal_candy", "avaritia_delight:infinity_apple", "avaritia_delight:slice_of_endless_cake", "avaritia_delight:infinity_taco", "avaritia_delight:pasta_with_cosmic_meatballs", "avaritia_delight:infinity_large_hamburger", "minecraft:apple"]
 #Duration multiplier for Metamorphic Scent Grass effect (0.0 to 1.0)
@@ -63,4 +59,6 @@ soulRepairBlacklist = []
 soulHealBlacklist = []
 #A list of items that cannot be enchanted with Soul Affix
 soulAffixBlacklist = []
+#Whether to enable compatibility with goety_revelation mod
+enableGoetyRevelationCompatibility = true
 

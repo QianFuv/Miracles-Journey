@@ -1,13 +1,13 @@
 name = "Random Dungeon Spawners"
-filename = "random_dungeon_spawners-1.0.0-1.20.1.jar"
+filename = "random_dungeon_spawners-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3aea44818af20a899b103676f77e9a4c219fd084"
+hash = "8662be35af6a3fd72ff8da608b7ad32a097eea19"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7070519
+file-id = 7604797
 project-id = 1356331

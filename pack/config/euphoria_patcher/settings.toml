@@ -1,5 +1,5 @@
 # This file stores configuration options for the Euphoria Patcher mod
-# Made for version 1.8.1
+# Made for version 1.8.5
 # Thank you for using Euphoria Patches - SpacEagle17
 
 [display]
@@ -41,3 +41,10 @@
 	# You can also use {baseVersion} or {patchVersion} in names to insert the base shader or Euphoria Patches version.
 	# Example: Euphoria Saturated, Comp_{baseVersion} + EP_{patchVersion} Dark Settings, EP High Performance, etc...
 	alternativeShaderNames = ""
+
+	# Option that enables or disables automatic merging of the fragmented block.properties files into the main block.properties file.
+	# The properties files inside "Euphoria Patches/shaders/properties/" will be merged into a single block.properties file at the specified interval if any of them have changed.
+	# This helps organizing the files, reduces the number of entries in a single file and improves speed while editing them.
+	# Since they are merged automatically into the final block.properties file, the individual files can be edited without worrying about merge conflicts or losing changes.
+	# Default = false
+	autoMergeBlockProperties = false

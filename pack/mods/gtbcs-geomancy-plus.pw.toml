@@ -1,13 +1,13 @@
 name = "GTBC's Geomancy Plus - Iron's Spells Addon"
-filename = "gtbcs_geomancy_plus-1.1.0-1.20.1.jar"
+filename = "gtbcs_geomancy_plus-2.0.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ebaacedc546c9bc7fb330dd7afea006ee50aa5d3"
+hash = "1387448af86e9bcad1a612b7e97c0d5ee95dadfd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7041547
+file-id = 7580390
 project-id = 1352485

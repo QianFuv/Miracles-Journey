@@ -1,13 +1,13 @@
 name = "Tinkers Construct: Emergence"
-filename = "tconstruct_emergence-1.0.1.jar"
+filename = "tconstruct_emergence-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d4edcbc45ba9d4fa9957dbac24ca5a887b756ae"
+hash = "7cbacf5f18954e74bd68748e80e04c5ea7a717a7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6462043
+file-id = 7583472
 project-id = 1214988

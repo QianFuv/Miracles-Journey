@@ -239,3 +239,38 @@ wandBypassConfig = false
 	#Range: 0.0 ~ 10.0
 	sandCurseBonus = 0.1
 
+["composite material compat"]
+	#Dungeon Absorption: lifesteal ratio for melee damage.
+	#Range: 0.0 ~ 2.0
+	dungeonMeleeHealFactor = 0.25
+	#Dungeon Link: lifesteal ratio for melee damage.
+	#Range: 0.0 ~ 1.0
+	dungeonLinkHealFactor = 0.2
+	#Obsidian: damage reduced.
+	#Range: 0 ~ 100
+	obsidianDamageReduction = 1
+	#Primitive Blast: health ratio
+	#Range: 0.0 ~ 1.0
+	primitiveHealthRatio = 0.05
+	#Primitive Curse: damage multiplier
+	#Range: 0.0 ~ 1.0
+	primitiveDamageMultiplier = 0.8
+	#Resonant Attack: Cooldown
+	#Range: 1 ~ 1000
+	resonanceAttackCooldown = 20
+	#Resonant Attack: damage factor
+	#Range: 0.0 ~ 1.0
+	resonanceAttackDamageFactor = 0.1
+	#Resonant Attack: chain range
+	#Range: 0 ~ 64
+	resonanceAttackRange = 8
+	#Resonant Heal: healing ratio
+	#Range: 0.0 ~ 5.0
+	resonanceHealFactor = 0.25
+	#Resonant Heal: chain range
+	#Range: 0 ~ 64
+	resonanceHealRange = 32
+	#Etherite Plating: repair delay
+	#Range: 20 ~ 1000
+	ethertiteRepairDelay = 600
+

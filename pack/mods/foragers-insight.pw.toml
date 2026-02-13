@@ -1,13 +1,13 @@
 name = "Forager's Insight"
-filename = "foragersinsight-1.20.1-2.5.(BnB).jar"
+filename = "foragersinsight-1.20.1-ITW_P1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de01bcb596cd633873bc87fd95513024ae03645b"
+hash = "51471277d4de0063f4d38d2bc6aadb684d0e2a04"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7215604
+file-id = 7609596
 project-id = 1278201

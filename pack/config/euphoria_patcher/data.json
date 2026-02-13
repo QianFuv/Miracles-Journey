@@ -1,5 +1,6 @@
 {
-  "shaderDirectory": "D:\\QianFuv\\Miracles-Journey-Dev\\.minecraft\\shaderpacks",
   "styleReimagined": true,
-  "styleUnbound": false
+  "styleUnbound": false,
+  "shaderHash": "a718ba745ba7beeb6f765860ba813bc1529199fc73bcbf059067ae8f8f0dd00a",
+  "EPVersion": "1.8.5"
 }

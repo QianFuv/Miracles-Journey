@@ -56,7 +56,7 @@
 
 - <details>
 
-  <summary> 模组更新（共 1260 次） </summary>
+  <summary> 模组更新（共 1320 次） </summary>
   
   - AllTheLeaks、Better Villages、Biomes O' Plenty、ChatImage、Create: Pattern Schematics、Create、Create Crafts & Additions、Cultural Delights、Data Anchor、Dawn Of Time、Doggy Talents Next、Exposure、Exquisito、GeckoLib、Green Delights、Hexerei、ImmediatelyFast、Create: Interiors、Modular Golems、Moonlight Lib、Sophisticated Backpacks、Stardew Fishing、Touhou Little Maid、WATERFrAMES、WATERMeDIA、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap
 
@@ -95,6 +95,8 @@
   - Ancient Structures: Cultural buildings、Aotake Sweep (竹叶清)、BaguetteLib、Camel Extend、CC: Tweaked、Chalk、Chef's Delight [Forge] - Farmer's Delight Villagers、Chloride (Embeddium++/Sodium++)、Cocktails Delight、Compact Crafting Fork、Complicated Bees、Construction Wand - KOTS、Construct's Casting、Crash Assistant、Create: Air Ducts、Create Big Cannons、Create: Bitterballen、Create: Compatible Storage、Create: Deepfried、Create:Entity Control、Create: Fast SchematicCannon、Create: Framed、Create: Henry、Create: The Factory Must Grow、Create Jetpack、Create: Mobile Packages、Create more packages、Create More: Parallel Pipes、Create: New Age、Create Railways Navigator、Create Train Lights、CustomSkinLoader、Dawn Of Time、Dimensions of Alex's Caves、DoesPotatoTick?、Doggy Talents Next、DragonLib、Dreamtinker、Duplicationless、Eccentric Tome、Eidolon : Repraised、Enchantment Descriptions、Entity Culling Fabric/Forge、EtST Lib、Evil Seagull、Extreme sound muffler - (Neo)Forge、Fast IP Ping、Forgotten Ruins、Fragmentum (Forge)、Furnitures O' Plenty、Fusion (Connected Textures)、Fzzy Config、Goety's Delight、Goety & Spillage、Goety - The Dark Arts、Hexal、HexOverpowered、HexParse、ImmediatelyFast、In Control!、Create: Interiors、Just Enough Items (JEI)、Just Enough Characters、Just Enough Breeding (JEBr)、Kaleidoscope Cookery、Kiwi 🥝 (Neo/Forge)、Kotlin for Forge、Krypton FNP、Macaw's Holidays、Macaw's Stairs、Macaw's Windows、Mantle、Cursors Extended、ModernFix、Modular Golems、MVS - Moog's Voyager Structures、More Relics、MoreIotas、Not Enough Animations、Pillager Caravans、Pineapple Delight、PneumaticCraft: Repressurized、Create: Power Grid、Raised、Ribbits、Ritchie's Projectile Library、Sakura Tinker、Scriptor Magicae、Simple Custom Early Loading、Save My Shaky Network、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Spelunkery+、Stardew Fishing、Storage Delight (Forge & Neoforge)、Structurify、Subtle Effects、Supplementaries Squared、TACT - Tiny Alex's Caves Tweaks、TConstructJS、The Lost Cities、Tinkers Construct、Tinkers' Ingenuity、Tinkers' JSON Things、Tinkers' Thinking、T.O Magic 'n Extras - Iron's Spells Addon、TofuCraftReload、TrashSlot、WATERMeDIA: Multimedia API、Workshop for handsome adventurer、Zeta
 
   - Almost Unified、Amendments、Amplified Nether、Ancient Structures: Cultural buildings、BaguetteLib、Balm、Bestia、Bookshelf Extended Enchanting Reach、BrassAmber BattleTowers、Certain Questing Additions、Chimes、Citadel、Cocktails Delight、Collector's Reap、Colorwheel、Construction Wand - KOTS、Construct's Casting、Cooking for Blockheads、Crafting Tweaks、Create: Additional Logistics、Create: Arm-made Cuisine、Create Big Cannons 、Create: Connected、Create Encased、Create: Escalated、Create: Factory、Create: Fantasizing Again、Create: Fast SchematicCannon、Create: Mobile Packages、Create: New Age、Create: Schematic Checker、Create: Steam 'n' Rails、Delightful、Delight o' Flight、Difficult Raids - Compatibility Edition、DoesPotatoTick?、DragonLib、Dreamtinker、Duplicationless、Ecologics、Eidolon : Repraised、[EMF] Entity Model Features [Fabric & Forge]、[ETF] Entity Texture Features - [Fabric & Forge]、Entity Culling Fabric/Forge、EtST Lib、Extreme sound muffler - (Neo)Forge、FastSuite、Feywild 、Flerovium、Forgery、Fragmentum (Forge)、FTB Teams (NeoForge)、FTB Chunks x Xaero's Compat、Fusion (Connected Textures)、Fzzy Config、Galosphere: Spellbooks、Create: Garnished、GeckoLib、Ghosts、Goety's Delight、Goety & Spillage、Goety - The Dark Arts、Golem Dungeons、GTBC's SpellLib/API、Hex-Ars Linker、HexFlow、HexOverpowered、HexParse、Ice and Fire: Spellbooks、ImmediatelyFast、In Control!、Iron's Spells 'n Spellbooks、Just Enough Items (JEI)、Jellyfishing、Just Enough Characters、Just Enough Breeding (JEBr)、Kaleidoscope Cookery、Kiwi 🥝 (Neo/Forge)、KleeSlabs、Krypton FNP、Loot Integrations: Moog's Voyager, Soaring, End & Nether Structures、Loot Integrations: When Dungeons Arise & Co、Mantle、Meet Your Fight、ModernFix、Modular Golems、momotinker、MVS - Moog's Voyager Structures、More Relics、More Sniffer Flowers、Not Enough Animations、PaperDoll、ParCool! ~ Minecraft Parkour ~、Pillager Caravans、Create: Power Grid、Raw's Visual keybinder、Realistic Nametag、Rechiseled: Chipped、Rechiseled、Moonlight Lib、Simple Custom Early Loading、Simple Hats、Save My Shaky Network、Snow! Real Magic! ⛄ (Neo/Forge)、Snuffles、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage Create Integration、Sophisticated Storage、Stardew Fishing、Structurify、SuperMartijn642's Core Lib、Supplementaries Squared、Supplementaries、The Lost Cities、Tide 2、Tinkers' Battle Spades、Tinkers Construct、Tinkers' Ingenuity、Tinkers' Katanas、Tinkers' Thinking、T.O Magic 'n Extras - Iron's Spells Addon、Useful Luck、Variants&Ventures、Veggies Delight (A Farmer's Delight Add-on)、Vintage Improvenents - SSW Edition、Wakes Reforged、Wares、WATERFrAMES: Multimedia Displays、WATERMeDIA: Binaries、Waystones、Windswept!、Workshop for handsome adventurer、XaeroPlus、Xaero's Minimap、Xaero's World Map
+
+  - AttributeFix、Bookshelf、Chat Heads、Construct's Casting、Crash Assistant、Create: Connected、Create: Prismatic Shine、Create: Schematic Checker、Cupboard、Dark Paintings、Dark Utilities、Dawn Of Time、Dreamtinker、Enchantment Descriptions、Euphoria Patches、Exposure、Farmer's Delight、Festival Delicacies、Feywild、Flerovium、Forager's Insight、Framework、FTB Quests (NeoForge)、Fzzy Config、Ghosts、Goety's Delight、Goety & Spillage、Goety - The Dark Arts、GTBC's Geomancy Plus - Iron's Spells Addon、GTBC's SpellLib/API、Guns Without Roses Additions、HexOverpowered、HexParse、Create: Hypertubes、Immersive Furniture、Iron's Spells 'n Spellbooks、Legendary Monsters、Meet Your Fight、Mobtimizations - Entity Performance Fixes、Modular Golems、More Relics、Neruina - Ticking Entity Fixer、Peruvian's Delight、Pig Pen Cipher、Random Dungeon Spawners、Rechiseled 、Reoreganized、Runelic、Shield Expansion、Simple Hats、Sophisticated Backpacks、Sophisticated Core、Sophisticated Storage、Tide 2、Tinkers Construct: Emergence、Tinkers' Katanas、Tips、XaeroPlus、Xaero's Minimap、Xaero's World Map
   
   </details>
   
@@ -226,6 +228,20 @@
 
 - 替换任务系统为 FTB
 
+- 光影更新
+
+- 更新 Forge 47.4.15
+
+- 更新同步脚本
+
+- 延长连接等待时间
+
+- 升级 Forge 至 47.4.16
+
+- 缩小结构间距
+
+- 配置日志过滤
+
 ### 删除
 
 - <details>
@@ -260,6 +276,8 @@
 
 - 删除大部分光影
 
+- 移除信雅互联
+
 ### 修复
 
 - 修复 CIT 失效
@@ -285,6 +303,24 @@
 - 修复望远镜缩放不可用
 
 - 修复 CraftAudit 与 Bountiful 冲突
+
+- 修复联机失效
+
+- 修复 UI 错位
+
+- 修复战镐崩溃问题
+
+- 修复蓝图桌 UI 错位
+
+- 修复部分配方异常
+
+- 修复区块认领异常
+
+- 修复战斗高塔异常
+
+- 修复附魔显示异常
+
+- 修复自然灵气区块加载不安全
 
 <details>
 

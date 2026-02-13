@@ -208,7 +208,7 @@
 		voidStaffDamage = 4.0
 
 	["Tools & Weapons".Scythes]
-		#Amount of Soul Energy Dark Scythe gives when hitting mob(s), Default: 1
+		#Amount of Soul Energy Scythes gives when hitting mob(s), Default: 1
 		#Range: > 1
 		darkScytheSouls = 1
 		#Scythe Slashes from Death Scythe breaks blocks that regular Scythes easily breaks, Default: true
@@ -228,6 +228,11 @@
 		#Define the Enchantability for Death Scythe, higher number the better, Default: 22
 		#Range: > 1
 		deathScytheEnchantability = 22
+		#The chance, by percentage, of Sapped being amplified after hitting affected with Death Scythe, Default: 20
+		#Range: > 0
+		deathScytheSappedDuration = 20
+		#Whether tools don't break but no longer benefits, Default: true
+		deathScythePersist = true
 
 	["Tools & Weapons".Hammers]
 		#How much base damage Hammers deals, the damage added depends on material the hammer is made off (ie. Iron = 2.0), Default: 5.0
@@ -256,6 +261,8 @@
 		#Define the Mining Level for Dark Tools, example, 3 = Diamond, 4 = Netherite, Default: 4
 		#Range: > 0
 		darkToolsMiningLevel = 4
+		#Whether tools don't break but no longer benefits, Default: true
+		darkToolsPersist = true
 
 	["Tools & Weapons"."Special Tools"]
 		#How much damage Special Tools deals, the configured number is added to Tool Base Damage, Default: 3.0
@@ -282,7 +289,7 @@
 		#Whether Graverobber's Shovel only breaks two blocks if player is crouching, set to false to make it so that crouching breaks one block instead of two, Default: false
 		graverobberShovelCrouch = false
 
-	["Tools & Weapons".Misc]
+	["Tools & Weapons"."Philosopher's Mace"]
 		#How much damage Philosopher's Mace deals, Default: 9.0
 		#Range: 1.0 ~ 1.7976931348623157E308
 		philosophersMaceDamage = 9.0
@@ -292,6 +299,24 @@
 		#Define the Enchantability for Philosopher's Mace, higher number the better, Default: 20
 		#Range: > 1
 		philosophersMaceEnchantability = 20
+		#Whether tools don't break but no longer benefits, Default: true
+		philosophersMacePersist = true
+
+	["Tools & Weapons"."Blade of Ender"]
+		#How much damage Blade of Ender deals, Default: 9.0
+		#Range: 1.0 ~ 1.7976931348623157E308
+		bladeOfEnderDamage = 9.0
+		#How fast it takes to fully swing a Blade of Ender. The lower the number the slower it takes to recharge, Default: 1.2
+		#Range: 0.0 ~ 1.7976931348623157E308
+		bladeOfEnderAttackSpeed = 1.2
+		#How many uses before the Blade of Ender breaks, Default: 2031
+		#Range: > 1
+		bladeOfEnderDurability = 2031
+		#Define the Enchantability for Blade of Ender, higher number the better, Default: 20
+		#Range: > 1
+		bladeOfEnderEnchantability = 20
+		#Whether tools don't break but no longer benefits, Default: true
+		bladeOfEnderPersist = true
 
 [Armor]
 
@@ -402,6 +427,8 @@
 		darkHelmetBlindness = true
 		#Whether Dark Helmets makes the wearer immune to Darkness, Default: true
 		darkHelmetDarkness = true
+		#Whether armor pieces don't break but no longer provide armor, Default: true
+		darkArmorPersist = true
 
 		[Armor."Dark Armor"."Armor Points"]
 			#Define how much armor points wearing the Boots provides, Default: 3

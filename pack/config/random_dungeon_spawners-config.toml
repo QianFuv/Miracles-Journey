@@ -1,4 +1,9 @@
 
-[DungeonSpawnerBlacklist]
-	blacklistedEntities = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:slime", "minecraft:zombified_piglin", "minecraft:giant"]
+[DungeonSpawner]
+	#Allowed Values: BLACKLIST, WHITELIST
+	filterMode = "BLACKLIST"
+	blacklistedEntities = ["minecraft:wither", "minecraft:ender_dragon", "minecraft:elder_guardian", "minecraft:slime", "minecraft:zombified_piglin", "minecraft:giant", "aquamirae:maze_mother", "blue_skies:seclam", "cataclysm:deepling_warlock", "deeperdarker:shriek_worm", "mowziesmobs:grottol", "iceandfire:dread_horse"]
+	whitelistedEntities = ["minecraft:zombie", "minecraft:skeleton", "minecraft:spider"]
+	#If true, any mob spawner placed in the world (by players) will be randomized
+	randomizeAllSpawners = true
 

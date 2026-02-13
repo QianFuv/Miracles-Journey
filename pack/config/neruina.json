@@ -1,5 +1,6 @@
 {
-  "log_level": "OPERATORS",
+  "min_permission_level_for_messages": 0,
+  "min_permission_level_for_commands": 2,
   "auto_kill_ticking_entities": false,
   "ticking_exception_threshold": 10,
   "handle_ticking_entities": true,
