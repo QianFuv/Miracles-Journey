@@ -2,3 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: 汉化请求
     url: https://github.com/QianFuv/Miracles-Journey-I18N/issues/new?template=chinesization.yml
+    about: 汉化请求请至 QianFuv/Miracles-Journey-I18N 仓库反馈
