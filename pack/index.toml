@@ -11210,8 +11210,16 @@ file = "resourcepacks/AeR - Vanilla Shaped.zip"
 hash = "06873656415465eb2a3598090e89ef3b883aec7ff0133a54ff2ad5d096175e68"
 
 [[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/.github/ISSUE_TEMPLATE/chinesization.yml"
+hash = "d4e3eaad335a2bcf3f11f7c6d554ff7a1e858ee06e069d14c91b76f8cb836c65"
+
+[[files]]
+file = "resourcepacks/MiraclesJourney-I18nPack/.github/ISSUE_TEMPLATE/config.yml"
+hash = "d6d81427cbfd6fb2c87462698c241fd6c31e47025c137498e50b8a01b228cb95"
+
+[[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/.uplang_cache.json"
-hash = "8005a4cee4c5744935e68e9d26808acfdd33f03eea4bf2217dd4f258e28368ce"
+hash = "e05315307c6a646d1958bdd4a2f64597a68f08ffaed773b7e5c0b46388aba002"
 
 [[files]]
 file = "resourcepacks/MiraclesJourney-I18nPack/assets/abnormals_delight/lang/en_us.json"
