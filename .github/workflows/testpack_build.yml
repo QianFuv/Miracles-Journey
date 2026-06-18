@@ -22,6 +22,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 0
+          persist-credentials: false
           submodules: true
 
       - name: 2. 设置 Go 语言环境
@@ -77,18 +78,18 @@ jobs:
 
       - name: 10. 更新 testpack 标签
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          PUBLISH_TOKEN: ${{ secrets.TOKEN }}
         run: |
           cd ..
+          if [ -z "${PUBLISH_TOKEN}" ]; then
+            echo "::error::Repository secret TOKEN is required to update the testpack tag"
+            exit 1
+          fi
           git config --global user.name "QianFuv"
           git config --global user.email "qianfuv@qq.com"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/QianFuv/Miracles-Journey.git
-          if git tag -l "testpack" | grep -q "testpack"; then
-            git tag -d testpack
-            git push origin :refs/tags/testpack || true
-          fi
-          git tag -a testpack -m "奇迹之旅 ${{ env.VERSION }} 最新测试版构建"
-          git push origin testpack
+          git remote set-url origin "https://x-access-token:${PUBLISH_TOKEN}@github.com/QianFuv/Miracles-Journey.git"
+          git tag -f -a testpack -m "奇迹之旅 ${{ env.VERSION }} 最新测试版构建" "${GITHUB_SHA}"
+          git push --force origin refs/tags/testpack
 
       - name: 11. 创建或更新 GitHub Release
         uses: ncipollo/release-action@v1
