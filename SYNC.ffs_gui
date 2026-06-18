@@ -117,8 +117,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\QianFuv\Miracles-Journey-Dev\.minecraft</Left>
-            <Right>D:\QianFuv\Miracles-Journey\pack</Right>
+            <Left>D:\QianFuv\MC\Miracles-Journey-Dev\.minecraft</Left>
+            <Right>D:\QianFuv\MC\Miracles-Journey\pack</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
