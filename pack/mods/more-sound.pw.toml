@@ -1,0 +1,13 @@
+name = "More Sound"
+filename = "more_sounds-1.20.x-0.2.0-alpha-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "483a25428366f8d704c7ad07f333d35796e6cfc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7445831
+project-id = 1269340

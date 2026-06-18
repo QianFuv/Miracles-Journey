@@ -1,0 +1,13 @@
+name = "Umbral Skies"
+filename = "umbral_skies-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32053655c876fdc1aef7ec38f8a75019238b3938"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4768252
+project-id = 855821

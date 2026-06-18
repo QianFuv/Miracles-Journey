@@ -1,0 +1,13 @@
+name = "Hamster's Delight"
+filename = "hamsters-delight-forge-1.20.1-1.0.0-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c7221fed613ce61fd1ee824c5ae63afb8b6306b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7271595
+project-id = 1393683

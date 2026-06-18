@@ -178,5 +178,35 @@
     "length": 9.0,
     "duration": 350,
     "damage": 6.0
+  },
+  "ironwood": {
+    "weight": 4.0,
+    "length": 9.0,
+    "duration": 350,
+    "damage": 5.5
+  },
+  "naga_scale": {
+    "weight": 4.5,
+    "length": 9.0,
+    "duration": 350,
+    "damage": 5.5
+  },
+  "knightmetal": {
+    "weight": 5.0,
+    "length": 9.0,
+    "duration": 450,
+    "damage": 6.0
+  },
+  "steeleaf": {
+    "weight": 4.0,
+    "length": 10.0,
+    "duration": 450,
+    "damage": 6.0
+  },
+  "fiery": {
+    "weight": 6.0,
+    "length": 11.0,
+    "duration": 600,
+    "damage": 8.0
   }
 }

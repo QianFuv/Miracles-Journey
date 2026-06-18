@@ -1,0 +1,19 @@
+#Allowed blocks for Hot Water Core activation
+hot_water_core_blocks = ["minecraft:prismarine", "minecraft:prismarine_bricks"]
+#Allowed blocks for Honey Bath Core activation
+honey_bath_core_blocks = ["minecraft:honeycomb_block", "minecraft:honey_block"]
+#Allowed blocks for Milk Bath Core activation
+milk_bath_core_blocks = ["minecraft:quartz_block", "minecraft:chiseled_quartz_block", "minecraft:quartz_pillar", "minecraft:smooth_quartz"]
+#Allowed blocks for Rose Bath Core activation
+rose_bath_core_blocks = ["minecraft:red_wool", "minecraft:red_concrete", "minecraft:red_glazed_terracotta"]
+#Allowed blocks for Peony Bath Core activation
+peony_bath_core_blocks = ["minecraft:pink_wool", "minecraft:pink_concrete", "minecraft:pink_glazed_terracotta"]
+#Allowed blocks for Herbal Bath Core activation
+herbal_bath_core_blocks = ["minecraft:mossy_cobblestone", "minecraft:moss_block", "minecraft:vine", "minecraft:oak_leaves", "minecraft:spruce_leaves", "minecraft:birch_leaves", "minecraft:jungle_leaves", "minecraft:acacia_leaves", "minecraft:dark_oak_leaves", "minecraft:mangrove_leaves", "minecraft:cherry_leaves", "minecraft:azalea_leaves", "minecraft:flowering_azalea_leaves"]
+#Fluids that produce steam in the bathtub.
+#Add fluid registry names here, e.g., 'minecraft:lava' or 'some_mod:hot_spring_water'.
+#Default: empty (only built-in hot fluids produce steam)
+steam_fluids = []
+#Fluids that will destroy the Rubber Duck (e.g. lava)
+rubber_duck_destroy_fluids = ["minecraft:lava", "minecraft:flowing_lava"]
+

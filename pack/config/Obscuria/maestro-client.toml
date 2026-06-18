@@ -1,0 +1,12 @@
+#Whether Maestro custom music should be active at all.
+#When turned off, only vanilla music will be played.
+maestro_enabled = true
+#Whether vanilla music should be active at all.
+#When turned off, music can only be played via Maestro Definitions.
+#Intended for advanced users who want full control from a clean slate.
+vanilla_enabled = true
+#Renders a debug overlay showing the current music layer state.
+#Displays active tracks, silence, and suppression.
+#Intended for debugging and development.
+debug_overlay = false
+

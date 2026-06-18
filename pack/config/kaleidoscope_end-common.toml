@@ -1,0 +1,7 @@
+
+[dragon_tooth_knife]
+	#List of end mob entity IDs that take extra damage from Dragon Tooth Knife
+	#Format: modid:entity_id (e.g., minecraft:enderman, minecraft:endermite)
+	#Default includes: enderman, endermite, shulker, ender_dragon
+	extraEndMobs = ["minecraft:enderman", "minecraft:endermite", "minecraft:shulker", "minecraft:ender_dragon"]
+

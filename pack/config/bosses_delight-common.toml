@@ -1,0 +1,17 @@
+
+["Gauntlet Item"]
+	#If it's true, the Gauntlet Item will able to collect Feast Block even consumed.
+	#Incontrovertibly it's a BUG! If you make this TRUE, it's no different from cheating.
+	#I made this BUG to another item with that feature and make it using more reasonable.
+	ShouldCollectFeastBlock = false
+
+["Crystal Fruits"]
+	#Define which blocks allow Crystal Fruits to plant on, leave space will use the default value.
+	CrystalFruitPlantableBlocks = ["minecraft:bedrock", "minecraft:budding_amethyst"]
+
+["Obsidian Onions"]
+	#Define which blocks allow Obsidian Onions to plant on, leave space will use the default value.
+	ObsidianOnionPlantableBlocks = ["minecraft:obsidian", "minecraft:crying_obsidian"]
+	#Define if Obsidian Onions converting planted blocks to Crying Obsidian.
+	ShouldObsidianOnionConverting = true
+

@@ -1,0 +1,13 @@
+name = "Bon's Odds N' Ends"
+filename = "oddsnends-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ed2fcb1592afe5ea3c1fd0fc8d48335f5867c96"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7377499
+project-id = 1410167

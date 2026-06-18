@@ -1,0 +1,20 @@
+
+#Sparks configuration
+[sparks]
+	#Range: > 0
+	nilfheimSparkTransferRate = 200000
+	#Range: > 0
+	muspelheimSparkTransferRate = 2000000
+	#Range: > 0
+	alfheimSparkTransferRate = 20000000
+	#Range: > 0
+	asgardSparkTransferRate = 100000000
+	#Range: > 0
+	nilfheimSparkWorkRange = 16
+	#Range: > 0
+	muspelheimSparkWorkRange = 20
+	#Range: > 0
+	alfheimSparkWorkRange = 24
+	#Range: > 0
+	asgardSparkWorkRange = 28
+

@@ -1,0 +1,13 @@
+name = "[ArsE]Ars Extensions"
+filename = "ars_extensions-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "748c4433b5c846c4946ac5246d7eb174db7f617e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7566590
+project-id = 1419922

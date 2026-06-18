@@ -1,0 +1,13 @@
+name = "Marvelous Menagerie: Paradoxical"
+filename = "marvelous_menagerie-0.3-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c2afe3f83234b3e264e4d4b26597c7e19b2e141"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7495866
+project-id = 1403164

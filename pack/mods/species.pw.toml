@@ -1,0 +1,13 @@
+name = "Species"
+filename = "species-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4d924f4faf6eb201db04205b61fa1524a8b0178"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6886321
+project-id = 857737

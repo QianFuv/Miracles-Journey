@@ -163,6 +163,10 @@
     "kitchen_access_point": true,
     "kitchen_station": true
   },
+  "kaleidoscope_doll": {
+    "doll_block": true,
+    "doll_entity": true
+  },
   "compactcrafting": {
     "field_proxy": true,
     "field_projector": true
@@ -202,6 +206,9 @@
     "crop_progress": true,
     "pie_icons": true,
     "mushroom_colony": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
   },
   "crystalix": {
     "crystalix_block": true

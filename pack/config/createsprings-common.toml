@@ -1,0 +1,55 @@
+
+#.
+#Modify Create Springs blocks comportements
+[kinetics]
+	#.
+	#Springs may or may not discharge instantly when in splash mode
+	spring_splash = true
+	#.
+	#capacity of the spring
+	#Range: > 1000
+	spring_capacity = 160000
+	#.
+	#capacity coefficent of the large spring
+	#Range: > 1
+	large_spring_capacity = 4
+	#.
+	#spring splash duration in ticks
+	#Range: > 5
+	spring_splash_duration = 40
+	#.
+	#max large spring len
+	#Range: 1 ~ 384
+	spring_len = 32
+	#.
+	#debug large spring capacity
+	debug_capacity_of_large_spring = false
+	#.
+	#knockback coefficient of springs
+	#Range: 0.0 ~ 24.0
+	knockback_coef_for_springs = 4.0
+	#.
+	#speed coefficient of spring tools
+	#Range: 0.0 ~ 1024.0
+	soring_tool_speed_coef = 1.0
+	#.
+	#how much fuel PSE will consume per 1 level
+	#Range: 0.0 ~ 1024.0
+	pse_fuel_usage = 2.5
+
+	[kinetics.stressValues]
+
+		#.
+		#.
+		#Fine tune the kinetic stats of individual components
+		[kinetics.stressValues.v2]
+
+			#.
+			#.
+			#[in Stress Units]
+			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
+			[kinetics.stressValues.v2.impact]
+				spring_catapult = 2.0
+				friction_welder = 4.0
+				large_spring_coil = 0.0
+

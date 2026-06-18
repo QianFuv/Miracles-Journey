@@ -1,0 +1,13 @@
+name = "Nirvana Library"
+filename = "Nirvana Lib-forge-1.20.1-2.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86e177fce4e4c57028d1a59d6c2545ca17105601"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7573499
+project-id = 1164411

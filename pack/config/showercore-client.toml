@@ -1,0 +1,3 @@
+#Enable translucent rendering for shower particles
+enable_translucent_particles = false
+

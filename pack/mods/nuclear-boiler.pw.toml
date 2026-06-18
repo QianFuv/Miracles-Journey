@@ -1,0 +1,13 @@
+name = "Nuclear Boiler"
+filename = "nuclearboiler-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8207391b5e4acfa769b5860400c6367680e86628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6884947
+project-id = 1326956

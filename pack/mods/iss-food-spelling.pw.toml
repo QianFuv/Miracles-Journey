@@ -1,0 +1,13 @@
+name = "ISS: Food Spelling"
+filename = "ISS-Food Spelling-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf7b65d911fcc594acf79c7a4e0a8979dc488f61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7525328
+project-id = 1413585

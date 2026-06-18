@@ -1,0 +1,12 @@
+
+#Mana Pools configuration
+[pools]
+	#Range: > 0
+	nilfheimPoolMaxMana = 10000000
+	#Range: > 0
+	muspelheimPoolMaxMana = 100000000
+	#Range: > 0
+	alfheimPoolMaxMana = 1000000000
+	#Range: > 0
+	asgardPoolMaxMana = 2000000000
+

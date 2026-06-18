@@ -1,0 +1,13 @@
+name = "Just Enough Fuels"
+filename = "JustEnoughFuel-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9da7ac8fdbef30f75af4abc69c5f18f5cd5e9545"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7362535
+project-id = 1410533

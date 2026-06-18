@@ -1,0 +1,13 @@
+name = "Classic Peripherals"
+filename = "classicperipherals-0.3.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "582b3c57877be90e3b0d6b74835d7b98822ff149"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306015
+project-id = 1397210

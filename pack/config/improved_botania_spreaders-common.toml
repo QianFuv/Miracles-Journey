@@ -1,0 +1,20 @@
+
+#Mana Spreaders configuration
+[spreaders]
+	#Range: > 0
+	nilfheimSpreaderMaxMana = 10000
+	#Range: > 0
+	muspelheimSpreaderMaxMana = 100000
+	#Range: > 0
+	alfheimSpreaderMaxMana = 1000000
+	#Range: > 0
+	asgardSpreaderMaxMana = 2000000
+	#Range: > 0
+	nilfheimSpreaderManaPerBurst = 10000
+	#Range: > 0
+	muspelheimSpreaderManaPerBurst = 100000
+	#Range: > 0
+	alfheimSpreaderManaPerBurst = 1000000
+	#Range: > 0
+	asgardSpreaderManaPerBurst = 2000000
+

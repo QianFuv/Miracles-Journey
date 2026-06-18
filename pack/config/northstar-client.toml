@@ -1,0 +1,9 @@
+#.
+#Allowed Values: CELSIUS, FAHRENHEIT, KELVIN
+temperatureUnit = "CELSIUS"
+
+#.
+[debug]
+	#.
+	debugSealerBounds = false
+

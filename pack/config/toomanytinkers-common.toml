@@ -1,0 +1,8 @@
+#List of <Part, Material> Pair to for exclusion, split by a '%'
+#'*' & 'modid:*' & 'modid:any/path/*' are supported as wildcards
+#But '*%*' is not supported, I mean, why the hell would someone want use this?
+#在这里列出要排除的 <工具部件，工具材料> 对，用一个'%'隔开两者
+#支持 '*' & 'modid:*' & 'modid:any/path/*' 格式作为通配符
+#注意不支持 '*%*'，你想写这个不如直接卸了mod
+exclude_pairs = ["tconstruct:item/tool/armor/slime/helmet_skull%*", "tconstruct:item/tool/parts/large_plate%tconstruct:pig_iron", "tconstruct:item/tool/broad_axe/binding%tconstruct:pig_iron", "tconstruct:item/tool/broad_axe/large/binding%tconstruct:pig_iron", "tconstruct:item/tool/cleaver/guard%tconstruct:pig_iron", "tconstruct:item/tool/cleaver/large/guard%tconstruct:pig_iron", "tconstruct:item/tool/dagger/crossguard%tconstruct:pig_iron", "tconstruct:item/tool/excavator/binding%tconstruct:pig_iron", "tconstruct:item/tool/excavator/large/binding%tconstruct:pig_iron", "tconstruct:item/tool/hand_axe/binding%tconstruct:pig_iron", "tconstruct:item/tool/kama/binding%tconstruct:pig_iron", "tconstruct:item/tool/pickaxe/binding%tconstruct:pig_iron", "tconstruct:item/tool/scythe/binding%tconstruct:pig_iron", "tconstruct:item/tool/scythe/large/binding%tconstruct:pig_iron", "tconstruct:item/tool/sledge_hammer/head%tconstruct:pig_iron", "tconstruct:item/tool/sledge_hammer/large/head%tconstruct:pig_iron", "tconstruct:item/tool/sword/guard%tconstruct:pig_iron"]
+

@@ -1,0 +1,13 @@
+name = "Legendary Creatures"
+filename = "legendarycreatures-1.20.1-1.1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46417725f1a040e9322e3d79745bf4a43fbf0ab2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6980681
+project-id = 837157

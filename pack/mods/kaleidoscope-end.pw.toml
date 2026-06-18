@@ -1,0 +1,13 @@
+name = "Kaleidoscope End"
+filename = "kaleidoscope_end-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3158b7ee134395ff773dcb44bf9946b2f2bce300"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7614030
+project-id = 1456076

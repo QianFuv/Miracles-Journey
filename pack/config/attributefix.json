@@ -2123,6 +2123,17 @@
         "value": 9999
       }
     },
+    "ephemera:breakboost": {
+      "enabled": false,
+      "min": {
+        "default": -64,
+        "value": -64
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
     "ars_nouveau:ars_nouveau.perk.spell_damage": {
       "enabled": false,
       "min": {

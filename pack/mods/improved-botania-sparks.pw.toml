@@ -1,0 +1,13 @@
+name = "Improved Botania Sparks"
+filename = "Improved-Botania-Sparks-1.20.1-v0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8371f9d9571bc7bec5c01e665f1c64bdd5f72b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7483629
+project-id = 1435553

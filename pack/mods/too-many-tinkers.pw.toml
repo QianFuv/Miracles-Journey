@@ -1,0 +1,13 @@
+name = "Too Many Tinkers"
+filename = "TooManyTinkers-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77dfb4c6677e0a453cc923691cff3022105d9651"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7624262
+project-id = 1437457

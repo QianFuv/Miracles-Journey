@@ -1,0 +1,13 @@
+name = "Bosses Delight"
+filename = "bosses_delight-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b82689749a63d083eb8f1ddfa373b37333a3e3ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7406932
+project-id = 1418659

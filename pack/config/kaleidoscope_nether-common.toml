@@ -1,0 +1,42 @@
+
+[star_dust_repair]
+	#Whether star dust repair functionality is enabled
+	enabled = true
+	#Star dust repair percentage (e.g., 25 means 25%)
+	#Range: 1 ~ 100
+	percentage = 25
+	#Star dust flat repair value (additional durability points repaired)
+	#Range: 1 ~ 1000
+	flat = 150
+
+[everlasting_flame_steak]
+	#Whether the Everlasting Flame Steak is enabled
+	enabled = true
+	#Cooldown in ticks for Everlasting Flame Steak (20 ticks = 1 second)
+	#Range: 0 ~ 1200
+	cooldown = 300
+
+[drops]
+	#Whether Nether Caterpillar drops are enabled
+	netherCaterpillarEnabled = true
+	#Drop chance for Nether Caterpillar from Nether Wart (0.0 to 1.0)
+	#Range: 0.0 ~ 1.0
+	netherCaterpillarDropChance = 0.1
+
+[warped_buff]
+	#List of mob entity IDs that are affected by Warped Buff (e.g., minecraft:piglin, minecraft:ghast)
+	affectedMobs = ["minecraft:piglin", "minecraft:ghast", "minecraft:magma_cube", "minecraft:hoglin"]
+
+[blessing_enchantment]
+	#Whether the Blessing enchantment is enabled
+	enabled = true
+	#Amount of health healed when eating food with Blessing enchantment (in half-hearts, 0.5 = 1 heart)
+	#Range: 0.0 ~ 10.0
+	healAmount = 0.5
+
+[blaze_heart]
+	#Whether Blaze Heart explosion destroys terrain blocks
+	destroyTerrain = false
+	#Whether Blaze Heart explosion can hurt the thrower/owner
+	hurtOwner = false
+

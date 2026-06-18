@@ -1,0 +1,13 @@
+name = "Marvelous Species"
+filename = "marvelousspecies-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf13f8284284d38a4d8e0e177aba4b6690e4a1c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7601812
+project-id = 1444337

@@ -1,0 +1,13 @@
+name = "Improved Botania Spreaders"
+filename = "Improved-Botania-Spreaders-1.20.1-v0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7d9bf1d5289d30941f5d2bf01022da107e0ba59"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7483637
+project-id = 1435540

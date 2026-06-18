@@ -1,0 +1,13 @@
+name = "Improved Botania Pools"
+filename = "Improved-Botania-Pools-1.20.1-v0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "901160387fa0794b34809e8d3e5887bd71e9dd0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7483604
+project-id = 1435527

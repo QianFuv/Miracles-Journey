@@ -1,0 +1,13 @@
+name = "Kaleidoscope Nether"
+filename = "kaleidoscope_nether-1.0.6 fix2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9c7f8cc900d8ec1b758556d88a2fbbd41e66fc4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7608888
+project-id = 1417862

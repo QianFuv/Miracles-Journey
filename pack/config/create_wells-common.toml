@@ -1,0 +1,10 @@
+
+#Mechanical Well
+[mechanical_well]
+	#Mechanical Well base stress impact.
+	#Range: 0 ~ 1024
+	mechanical_well_stress = 4
+	#Mechanical Well fluid capacity.
+	#Range: 1000 ~ 64000
+	mechanical_well_capacity = 4000
+

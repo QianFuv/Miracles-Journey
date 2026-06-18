@@ -1,0 +1,15 @@
+#Whether to show the tooltip for effects on Farmer's Delight Compat Items
+FDCompatEffectTooltips = true
+#Whether Ciderine Blossoms need to be pollinated by bees/bats before they can grow
+ciderineRequirePollinationToGrow = true
+#Whether Ciderine Crops have random positioning on the block they're on
+ciderineCropXZRandomization = false
+#Whether Anthesi Crops have random positioning on the block they're on
+anthesiCropXZRandomization = false
+#Whether you can click Ciderines to harvest them
+clickHarvestCiderines = false
+#Whether you can click Mandrakes to harvest them
+clickHarvestMandrakes = true
+#Whether you can click Anthesi crops to harvest them
+clickHarvestAnthesi = true
+

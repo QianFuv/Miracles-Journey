@@ -1,0 +1,13 @@
+name = "Maestro"
+filename = "maestro-forge-1.20.1-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0546d53aa031e9b8576dd52e058a4f51fc829d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7608487
+project-id = 1454351
