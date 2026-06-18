@@ -4325,9 +4325,24 @@ file = "config/paxi/datapack_load_order.json"
 hash = "6b2dca5b3ed12e541c84993e5559a137a0cca03b0defd7ae44f5a0737a723313"
 
 [[files]]
-file = "config/paxi/datapacks/2032-world-height.pw.toml"
-hash = "c20f4b9d0bb137d3f2151a974969e20338647f3e795bcd873da856e0c6408892"
-metafile = true
+file = "config/paxi/datapacks/2032-world-height.zip"
+hash = "552f75948743824314d60a97e47073a8f17e6dfb00967948eb87c0cc9d29de03"
+
+[[files]]
+file = "config/paxi/datapacks/Alexs Mods Tide Compat.zip"
+hash = "d577b9140b5d25c77f1c033471550fb4ef374f916d2a1b5e5605eeda742fcc53"
+
+[[files]]
+file = "config/paxi/datapacks/Aurora Palace - Regeared (1.19.4 + 1.20.1).zip"
+hash = "3119767c3a77d76a1f3ab205a5484a7b7eaf4ae03351f017b5d086476f89da64"
+
+[[files]]
+file = "config/paxi/datapacks/BetterEndCities-Vanilla.zip"
+hash = "528140805275f820c098f6c74cd3015d52333a64efce9aa63549a5d5c622b3ee"
+
+[[files]]
+file = "config/paxi/datapacks/Formula Addition - Salt Block v.1.0.3-1.19 1.20.zip"
+hash = "a1fd7e2d76a3d59060ca1a9288198e3b0a27af0c980c186f45085e39045433bc"
 
 [[files]]
 file = "config/paxi/datapacks/MiraclesJourney-DataPack/data/exoticbirds/worldgen/placed_feature/nest_placed.json"
@@ -4342,154 +4357,112 @@ file = "config/paxi/datapacks/MiraclesJourney-DataPack/pack.mcmeta"
 hash = "eba642213dc3bfccd685da80c2256c8a26be03aee5ebe7504cd9d47473cbd3b3"
 
 [[files]]
-file = "config/paxi/datapacks/alexs-mods-x-tide-compat.pw.toml"
-hash = "75bc8b649746f0b454d8b42bc5e332300eadb04c76ddd377d9d6ff1a1d04bd65"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Advanced_Peripherals_v3.zip"
+hash = "60fe56b43ea75dd276cebf8b1e6184ea02e42b7395cb29eddc78ad1f0392f11f"
 
 [[files]]
-file = "config/paxi/datapacks/ctov-pneumaticcraft-repressurized-compat.pw.toml"
-hash = "261213a59efe57e5eb307636c353b6b297c083edbd9518375b56d6ad7965db51"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Desert_Temples_v8.zip"
+hash = "b0147d0c9b1506c958018120a0899859909144d17466d2673588971ef9d40433"
 
 [[files]]
-file = "config/paxi/datapacks/ctov-savage-and-ravage-compat.pw.toml"
-hash = "c8b0ccf87cc1d53c6a4d4154ab2a1e2ecbcd3fa7423319b7e2ad9d0ed8a19998"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Dungeons_v5.zip"
+hash = "a6d7837bf6ddacfa7521f44dd1ee14bdbb7c0b6152857e175791fc7fa537d915"
 
 [[files]]
-file = "config/paxi/datapacks/formula-addition-salt-block.pw.toml"
-hash = "41bd82b2b92a01a4116e5c21758a80bcd3dc343e52d96ee09954f7c37efd050e"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Jungle_Temples_v6.zip"
+hash = "942d2bddd973d57ed78edfac7d564753fd3850b6c23f2f66047b715f289c949c"
 
 [[files]]
-file = "config/paxi/datapacks/idas-alexs-mobs.pw.toml"
-hash = "5b893e20f0533d7ebb4c5b2320f9d575b4abbe440a55be1827a457587284a0cd"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Monuments_v6.zip"
+hash = "1c05059321b8928fb1a4123d1724de6ff1755af6da95fc90c106f3913296be0b"
 
 [[files]]
-file = "config/paxi/datapacks/idas-bop.pw.toml"
-hash = "7136cfeff97a9194ea51fa841c907eaec60f97817904a856cb3f627ee639d157"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Nether_Fortress_v6.zip"
+hash = "d23c4becd99b2ee2d6ae36de956380c5ddfcdae14decc90bf6a307058f233fcd"
 
 [[files]]
-file = "config/paxi/datapacks/integrated-stronghold-alexs-mobs-integration.pw.toml"
-hash = "ba2be961d15232a20164cf9d85f1f3b7300828859a091c69713c4a10ddc787a7"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+hash = "009bbea81fb0f500ebea78112cbecee7bf2f94bf3301a342442f850132e47476"
 
 [[files]]
-file = "config/paxi/datapacks/integrated-stronghold-end-remastered-integration.pw.toml"
-hash = "29d544acb1a7d3e280a911c3bf13d620a745690b901ea6cc9a5af3203f3f7b9c"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Bygone_Nether_v2.zip"
+hash = "645938a5c414791163bae88a8a464183ec8642c64a172a01993ee675553656e4"
 
 [[files]]
-file = "config/paxi/datapacks/integrated-stronghold-the-graveyard-integration.pw.toml"
-hash = "856a6a010ce386c53daa45d8c72c95ef298f3c06e6580896f46ef086cd3cc51c"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Chef's_Delight_v3.zip"
+hash = "86556fb32765fadbc6433e171b6095dacf86a4507d80c55624d89991f1b89732"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-advanced-peripherals-compat.pw.toml"
-hash = "9730afbf65f0dbc5ee012674417aeb5a17958dc2b9d2c78a1854de972938f181"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Etched_v4.zip"
+hash = "654427297316846153acbac4b02f698de8a4502dafe723a291eabf6d29fb37bf"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "833cf05ac3834595fb0d7ef3d3fe019736689c03c1ec10943218dd7c3d8278c2"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "ab4c0b434475cfd26d6b0627c6fa3c7e10f58a5d6386549f8202de0a61822a17"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip"
+hash = "8a2cfd70366a5671012e6c70c97ff1f9058f24ce56d4a1e466904fd06f141fbe"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-jungle-temples-compat.pw.toml"
-hash = "a19fb8ab7cdf872d724c338fb93fcf1d654e5f1829aa14cdaf117feea81c3972"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-More_Villagers_v10.zip"
+hash = "b1978f9a141e72185fc39ee2b62b66873773f5cdb5bf58400aeaa8c27bca3d40"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-nether-fortress.pw.toml"
-hash = "d37e66fdb9423e921003d14e932b317fc5f263ed10f88e986792ac5372014b72"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Savage_And_Ravage_v6.zip"
+hash = "5354f90904d0a8fb5c2ff373d692f937de4666c1d91fc100318fd0ff3961ef49"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-ocean-monuments.pw.toml"
-hash = "86984a244dfa791f8eb8fb9c1ab5394d7429232be05df36e04537548d3bffa01"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-VillagersPlus_v3.zip"
+hash = "592e56cf4c9f4bba6f7c7585003c9b223d73737e9ab3c7d8c5a0273a8a489b8d"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "0bdd91615489da6e102c9da1134bf9396ccf2f73039d14ef18470a312d5a475f"
-metafile = true
+file = "config/paxi/datapacks/Repurposed_Structures-Wares_v2.zip"
+hash = "8aec09d39340f3ddcf97a48f58f026ae829a187d58404718b2479ab451edf9c1"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-bygone-nether-compat.pw.toml"
-hash = "b5bcdf7c6e3c15bda9de54a55cf89e5ad1accc7b207ca7c22e0e5b54a12fc4ee"
-metafile = true
+file = "config/paxi/datapacks/SkyVillages-FarmersDelightCompat-1.20.1-1.0.3.zip"
+hash = "20818ce82e68755bf55cd73e137fd4b871e1e3f57987297308980bfff5efcc76"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
-hash = "1662e19bcc6bd91ba62b8c6ce748e1e571c54a777df5be8104999c4cc6bb7a42"
-metafile = true
+file = "config/paxi/datapacks/SkyVillages-GraveyardCompat-1.20.1-1.0.3.zip"
+hash = "6ca8f1aa1676b6afad191c7a41d17b94f470da2637baa63f4cd29a40bfb5dd88"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-etched-datapack-compat.pw.toml"
-hash = "13bcd28ceacd466eed986f7942be1552893822859dd36c120156f7d2681bf5fd"
-metafile = true
+file = "config/paxi/datapacks/SkyVillages-SupplementariesCompat-1.20.1-1.0.3.1.zip"
+hash = "0966c5088950f353b5b515ce92f41e39c2b7fb18d356559c5f42ec976de7c579"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-farmers-delight-datapack.pw.toml"
-hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
-metafile = true
+file = "config/paxi/datapacks/SkyVillages-WaystonesCompat-1.20.1-1.0.3-fabric.zip"
+hash = "c86b69b0efccb8c56ab287b55d502ad4da7410b5f68c4ea6c986589bdc9ecd4d"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
-hash = "dda43ffcdedc2cdf670b795e69c6ade4bd793225a2ff320e4b42caa672d2cfff"
-metafile = true
+file = "config/paxi/datapacks/ctov-pneumaticcraft-add-on-v1-0.zip"
+hash = "dd8c0939b5c93338ef8bb1528537db2df7d5edc5b4b792738179ed243f6a3178"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-more-villagers-datapack.pw.toml"
-hash = "e347712f9be2f9e1b90979c06fefcad5f63c9e0d609bc8901cf805d2810f0069"
-metafile = true
+file = "config/paxi/datapacks/ctov-savage-and-ravage-add-on-v2-0.zip"
+hash = "556e9ff3082990c34fc61da21772a41c9acc5d3bac48884d57df92e329da0232"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-savage-ravage-datapack.pw.toml"
-hash = "affbf26ab4dd69ab3b0d23b707e35c39de57e6e86e27787198d4f60ef24b3a73"
-metafile = true
+file = "config/paxi/datapacks/idasalexsmobs-1.20.zip"
+hash = "8f1182f08d3b268fbaa4dbaea170d9c01fd70d2355854b6939e03ebb46029e77"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-villagerplus-compat-datapack.pw.toml"
-hash = "bad1649977624c9723b8e3d4b90bd1b6d709084c1c09049d06e8b42ff87f35e9"
-metafile = true
+file = "config/paxi/datapacks/idasbop-1.9.3-1.20.1.zip"
+hash = "f7c36ede0cbd5b35ab3000134df4b19468ae05c650590143fbbc03f649630564"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-wares-compat.pw.toml"
-hash = "caea818e63bff4ed7f5c56432c04101d8f945dd67bb8ad78100bb7a528133c96"
-metafile = true
+file = "config/paxi/datapacks/intstrong_alexsmobs-1.0.0-1.20.1.zip"
+hash = "2eb5b0045b17d0988764940cf457e9eb60799e950cfb5f6eb4efa11ec537b168"
 
 [[files]]
-file = "config/paxi/datapacks/sky-villages-farmers-delight-compat.pw.toml"
-hash = "e4f0b00ce0842ca2a1c5dadeb059f6ec077d457e175f779a6936c81cb89b7cc0"
-metafile = true
+file = "config/paxi/datapacks/intstrong_endrem-1.0.0-1.18.2-1.19.2.zip"
+hash = "8e41b8cc5e0e255f8639c0a1ee76aa37486fa0c7d406976983c53a6c56438bbb"
 
 [[files]]
-file = "config/paxi/datapacks/sky-villages-graveyard-compat.pw.toml"
-hash = "3b8a4e89319ca12e9d5ac48b9c41192023efcfc74409bb15764b4cb25d571d47"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/sky-villages-supplementaries-compat.pw.toml"
-hash = "8cefbcee13c2b5c7100512b9fab9efb85aee69f64fdf31c6e73565d28332ead1"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/sky-villages-waystones-compat.pw.toml"
-hash = "54926190f54630e6c392b3c83eed46c343782e8e10556b2372db0bcfe4acc31c"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/vanilla-better-end-city.pw.toml"
-hash = "958dacc78bf1104190e221c6fa785c28ac84e72bff62abd6e1016db717950112"
-metafile = true
+file = "config/paxi/datapacks/intstrong_graveyard-1.0.0-1.20.1.zip"
+hash = "a1b91835b4e9c40b94e6559a7fc447a18dff0d4622fa6df5cfbd554dbc84ff74"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
