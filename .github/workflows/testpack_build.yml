@@ -103,16 +103,3 @@ jobs:
           allowUpdates: true
           removeArtifacts: true
           artifacts: "pack/${{ env.FILE_PATH }}"
-
-      - name: 12. 上传至 123 云盘
-        continue-on-error: true
-        env:
-          CLIENT_ID: ${{ secrets.CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-          FILE_PATH: ${{ env.FILE_PATH }}
-        run: |
-          python3 ../.github/scripts/upload.py \
-            --client_id "$CLIENT_ID" \
-            --client_secret "$CLIENT_SECRET" \
-            --file "$FILE_PATH" \
-            --parent_id 6552398
